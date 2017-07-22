@@ -1,44 +1,44 @@
-finishing_position,games_played,team_name,playoff_result,points_percentage,wins,leage,ties,coaches,points,season,overtime_loses,loses
-,0,Washington Capitals,,0,0,NHL,0,['B. Trotz'],0,2017-18,0,0
-1st,82,Washington Capitals,Lost NHL Second Round,.720,55,NHL,0,['B. Trotz'],118,2016-17,8,19
-1st,82,Washington Capitals,Lost NHL Second Round,.732,56,NHL,0,['B. Trotz'],120,2015-16,8,18
-2nd,82,Washington Capitals,Lost NHL Second Round,.616,45,NHL,0,['B. Trotz'],101,2014-15,11,26
-5th,82,Washington Capitals,,.549,38,NHL,0,['A. Oates'],90,2013-14,14,30
-1st,48,Washington Capitals,Lost NHL Conference Quarter-Finals,.594,27,NHL,0,['A. Oates'],57,2012-13,3,18
-2nd,82,Washington Capitals,Lost NHL Conference Semi-Finals,.561,42,NHL,0,"['B. Boudreau', 'D. Hunter']",92,2011-12,8,32
-1st,82,Washington Capitals,Lost NHL Conference Semi-Finals,.652,48,NHL,0,['B. Boudreau'],107,2010-11,11,23
-1st,82,Washington Capitals,Lost NHL Conference Quarter-Finals,.738,54,NHL,0,['B. Boudreau'],121,2009-10,13,15
-1st,82,Washington Capitals,Lost NHL Conference Semi-Finals,.659,50,NHL,0,['B. Boudreau'],108,2008-09,8,24
-1st,82,Washington Capitals,Lost NHL Conference Quarter-Finals,.573,43,NHL,0,"['G. Hanlon', 'B. Boudreau']",94,2007-08,8,31
-5th,82,Washington Capitals,,.427,28,NHL,0,['G. Hanlon'],70,2006-07,14,40
-5th,82,Washington Capitals,,.427,29,NHL,0,['G. Hanlon'],70,2005-06,12,41
-5th,82,Washington Capitals,,.360,23,NHL,10,"['B. Cassidy', 'G. Hanlon']",59,2003-04,3,46
-2nd,82,Washington Capitals,Lost NHL Conference Quarter-Finals,.561,39,NHL,8,['B. Cassidy'],92,2002-03,6,29
-2nd,82,Washington Capitals,,.518,36,NHL,11,['R. Wilson'],85,2001-02,2,33
-1st,82,Washington Capitals,Lost NHL Conference Quarter-Finals,.585,41,NHL,10,['R. Wilson'],96,2000-01,4,27
-1st,82,Washington Capitals,Lost NHL Conference Quarter-Finals,.622,44,NHL,12,['R. Wilson'],102,1999-00,2,24
-3rd,82,Washington Capitals,,.415,31,NHL,6,['R. Wilson'],68,1998-99,0,45
-3rd,82,Washington Capitals,Lost Stanley Cup Final,.561,40,NHL,12,['R. Wilson'],92,1997-98,0,30
-5th,82,Washington Capitals,,.457,33,NHL,9,['J. Schoenfeld'],75,1996-97,0,40
-4th,82,Washington Capitals,Lost NHL Conference Quarter-Finals,.543,39,NHL,11,['J. Schoenfeld'],89,1995-96,0,32
-3rd,48,Washington Capitals,Lost NHL Conference Quarter-Finals,.542,22,NHL,8,['J. Schoenfeld'],52,1994-95,0,18
-3rd,84,Washington Capitals,Lost NHL Conference Semi-Finals,.524,39,NHL,10,"['T. Murray', 'J. Schoenfeld']",88,1993-94,0,35
-2nd,84,Washington Capitals,Lost NHL Division Semi-Finals,.554,43,NHL,7,['T. Murray'],93,1992-93,0,34
-2nd,80,Washington Capitals,Lost NHL Division Semi-Finals,.613,45,NHL,8,['T. Murray'],98,1991-92,0,27
-3rd,80,Washington Capitals,Lost NHL Division Finals,.506,37,NHL,7,['T. Murray'],81,1990-91,0,36
-3rd,80,Washington Capitals,Lost NHL Conference Finals,.488,36,NHL,6,"['B. Murray', 'T. Murray']",78,1989-90,0,38
-1st,80,Washington Capitals,Lost NHL Division Semi-Finals,.575,41,NHL,10,['B. Murray'],92,1988-89,0,29
-2nd,80,Washington Capitals,Lost NHL Division Finals,.531,38,NHL,9,['B. Murray'],85,1987-88,0,33
-2nd,80,Washington Capitals,Lost NHL Division Semi-Finals,.538,38,NHL,10,['B. Murray'],86,1986-87,0,32
-2nd,80,Washington Capitals,Lost NHL Division Finals,.669,50,NHL,7,['B. Murray'],107,1985-86,0,23
-2nd,80,Washington Capitals,Lost NHL Division Semi-Finals,.631,46,NHL,9,['B. Murray'],101,1984-85,0,25
-2nd,80,Washington Capitals,Lost NHL Division Finals,.631,48,NHL,5,['B. Murray'],101,1983-84,0,27
-3rd,80,Washington Capitals,Lost NHL Division Semi-Finals,.588,39,NHL,16,['B. Murray'],94,1982-83,0,25
-5th,80,Washington Capitals,,.406,26,NHL,13,"['G. Green', 'R. Crozier', 'B. Murray']",65,1981-82,0,41
-5th,80,Washington Capitals,,.438,26,NHL,18,['G. Green'],70,1980-81,0,36
-5th,80,Washington Capitals,,.419,27,NHL,13,"['D. Belisle', 'G. Green']",67,1979-80,0,40
-4th,80,Washington Capitals,,.394,24,NHL,15,['D. Belisle'],63,1978-79,0,41
-5th,80,Washington Capitals,,.300,17,NHL,14,['T. McVie'],48,1977-78,0,49
-4th,80,Washington Capitals,,.388,24,NHL,14,['T. McVie'],62,1976-77,0,42
-5th,80,Washington Capitals,,.200,11,NHL,10,"['M. Schmidt', 'T. McVie']",32,1975-76,0,59
-5th,80,Washington Capitals,,.131,8,NHL,5,"['J. Anderson', 'R. Sullivan', 'M. Schmidt']",21,1974-75,0,67
+points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
+0,['B. Trotz'],2017-18,0,0,0,0,0,,Washington Capitals,WSH,,0,NHL
+118,['B. Trotz'],2016-17,55,19,8,.720,82,1st,Washington Capitals,WSH,Lost NHL Second Round,0,NHL
+120,['B. Trotz'],2015-16,56,18,8,.732,82,1st,Washington Capitals,WSH,Lost NHL Second Round,0,NHL
+101,['B. Trotz'],2014-15,45,26,11,.616,82,2nd,Washington Capitals,WSH,Lost NHL Second Round,0,NHL
+90,['A. Oates'],2013-14,38,30,14,.549,82,5th,Washington Capitals,WSH,,0,NHL
+57,['A. Oates'],2012-13,27,18,3,.594,48,1st,Washington Capitals,WSH,Lost NHL Conference Quarter-Finals,0,NHL
+92,"['B. Boudreau', 'D. Hunter']",2011-12,42,32,8,.561,82,2nd,Washington Capitals,WSH,Lost NHL Conference Semi-Finals,0,NHL
+107,['B. Boudreau'],2010-11,48,23,11,.652,82,1st,Washington Capitals,WSH,Lost NHL Conference Semi-Finals,0,NHL
+121,['B. Boudreau'],2009-10,54,15,13,.738,82,1st,Washington Capitals,WSH,Lost NHL Conference Quarter-Finals,0,NHL
+108,['B. Boudreau'],2008-09,50,24,8,.659,82,1st,Washington Capitals,WSH,Lost NHL Conference Semi-Finals,0,NHL
+94,"['G. Hanlon', 'B. Boudreau']",2007-08,43,31,8,.573,82,1st,Washington Capitals,WSH,Lost NHL Conference Quarter-Finals,0,NHL
+70,['G. Hanlon'],2006-07,28,40,14,.427,82,5th,Washington Capitals,WSH,,0,NHL
+70,['G. Hanlon'],2005-06,29,41,12,.427,82,5th,Washington Capitals,WSH,,0,NHL
+59,"['B. Cassidy', 'G. Hanlon']",2003-04,23,46,3,.360,82,5th,Washington Capitals,WSH,,10,NHL
+92,['B. Cassidy'],2002-03,39,29,6,.561,82,2nd,Washington Capitals,WSH,Lost NHL Conference Quarter-Finals,8,NHL
+85,['R. Wilson'],2001-02,36,33,2,.518,82,2nd,Washington Capitals,WSH,,11,NHL
+96,['R. Wilson'],2000-01,41,27,4,.585,82,1st,Washington Capitals,WSH,Lost NHL Conference Quarter-Finals,10,NHL
+102,['R. Wilson'],1999-00,44,24,2,.622,82,1st,Washington Capitals,WSH,Lost NHL Conference Quarter-Finals,12,NHL
+68,['R. Wilson'],1998-99,31,45,0,.415,82,3rd,Washington Capitals,WSH,,6,NHL
+92,['R. Wilson'],1997-98,40,30,0,.561,82,3rd,Washington Capitals,WSH,Lost Stanley Cup Final,12,NHL
+75,['J. Schoenfeld'],1996-97,33,40,0,.457,82,5th,Washington Capitals,WSH,,9,NHL
+89,['J. Schoenfeld'],1995-96,39,32,0,.543,82,4th,Washington Capitals,WSH,Lost NHL Conference Quarter-Finals,11,NHL
+52,['J. Schoenfeld'],1994-95,22,18,0,.542,48,3rd,Washington Capitals,WSH,Lost NHL Conference Quarter-Finals,8,NHL
+88,"['T. Murray', 'J. Schoenfeld']",1993-94,39,35,0,.524,84,3rd,Washington Capitals,WSH,Lost NHL Conference Semi-Finals,10,NHL
+93,['T. Murray'],1992-93,43,34,0,.554,84,2nd,Washington Capitals,WSH,Lost NHL Division Semi-Finals,7,NHL
+98,['T. Murray'],1991-92,45,27,0,.613,80,2nd,Washington Capitals,WSH,Lost NHL Division Semi-Finals,8,NHL
+81,['T. Murray'],1990-91,37,36,0,.506,80,3rd,Washington Capitals,WSH,Lost NHL Division Finals,7,NHL
+78,"['B. Murray', 'T. Murray']",1989-90,36,38,0,.488,80,3rd,Washington Capitals,WSH,Lost NHL Conference Finals,6,NHL
+92,['B. Murray'],1988-89,41,29,0,.575,80,1st,Washington Capitals,WSH,Lost NHL Division Semi-Finals,10,NHL
+85,['B. Murray'],1987-88,38,33,0,.531,80,2nd,Washington Capitals,WSH,Lost NHL Division Finals,9,NHL
+86,['B. Murray'],1986-87,38,32,0,.538,80,2nd,Washington Capitals,WSH,Lost NHL Division Semi-Finals,10,NHL
+107,['B. Murray'],1985-86,50,23,0,.669,80,2nd,Washington Capitals,WSH,Lost NHL Division Finals,7,NHL
+101,['B. Murray'],1984-85,46,25,0,.631,80,2nd,Washington Capitals,WSH,Lost NHL Division Semi-Finals,9,NHL
+101,['B. Murray'],1983-84,48,27,0,.631,80,2nd,Washington Capitals,WSH,Lost NHL Division Finals,5,NHL
+94,['B. Murray'],1982-83,39,25,0,.588,80,3rd,Washington Capitals,WSH,Lost NHL Division Semi-Finals,16,NHL
+65,"['G. Green', 'R. Crozier', 'B. Murray']",1981-82,26,41,0,.406,80,5th,Washington Capitals,WSH,,13,NHL
+70,['G. Green'],1980-81,26,36,0,.438,80,5th,Washington Capitals,WSH,,18,NHL
+67,"['D. Belisle', 'G. Green']",1979-80,27,40,0,.419,80,5th,Washington Capitals,WSH,,13,NHL
+63,['D. Belisle'],1978-79,24,41,0,.394,80,4th,Washington Capitals,WSH,,15,NHL
+48,['T. McVie'],1977-78,17,49,0,.300,80,5th,Washington Capitals,WSH,,14,NHL
+62,['T. McVie'],1976-77,24,42,0,.388,80,4th,Washington Capitals,WSH,,14,NHL
+32,"['M. Schmidt', 'T. McVie']",1975-76,11,59,0,.200,80,5th,Washington Capitals,WSH,,10,NHL
+21,"['J. Anderson', 'R. Sullivan', 'M. Schmidt']",1974-75,8,67,0,.131,80,5th,Washington Capitals,WSH,,5,NHL

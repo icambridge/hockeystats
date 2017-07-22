@@ -1,20 +1,20 @@
-finishing_position,games_played,team_name,playoff_result,points_percentage,wins,leage,ties,coaches,points,season,overtime_loses,loses
-,0,Nashville Predators,,0,0,NHL,0,['P. Laviolette'],0,2017-18,0,0
-4th,82,Nashville Predators,Lost Stanley Cup Final,.573,41,NHL,0,['P. Laviolette'],94,2016-17,12,29
-4th,82,Nashville Predators,Lost NHL Second Round,.585,41,NHL,0,['P. Laviolette'],96,2015-16,14,27
-2nd,82,Nashville Predators,Lost NHL First Round,.634,47,NHL,0,['P. Laviolette'],104,2014-15,10,25
-6th,82,Nashville Predators,,.537,38,NHL,0,['B. Trotz'],88,2013-14,12,32
-5th,48,Nashville Predators,,.427,16,NHL,0,['B. Trotz'],41,2012-13,9,23
-2nd,82,Nashville Predators,Lost NHL Conference Semi-Finals,.634,48,NHL,0,['B. Trotz'],104,2011-12,8,26
-2nd,82,Nashville Predators,Lost NHL Conference Semi-Finals,.604,44,NHL,0,['B. Trotz'],99,2010-11,11,27
-3rd,82,Nashville Predators,Lost NHL Conference Quarter-Finals,.610,47,NHL,0,['B. Trotz'],100,2009-10,6,29
-5th,82,Nashville Predators,,.537,40,NHL,0,['B. Trotz'],88,2008-09,8,34
-2nd,82,Nashville Predators,Lost NHL Conference Quarter-Finals,.555,41,NHL,0,['B. Trotz'],91,2007-08,9,32
-2nd,82,Nashville Predators,Lost NHL Conference Quarter-Finals,.671,51,NHL,0,['B. Trotz'],110,2006-07,8,23
-2nd,82,Nashville Predators,Lost NHL Conference Quarter-Finals,.646,49,NHL,0,['B. Trotz'],106,2005-06,8,25
-3rd,82,Nashville Predators,Lost NHL Conference Quarter-Finals,.555,38,NHL,11,['B. Trotz'],91,2003-04,4,29
-4th,82,Nashville Predators,,.451,27,NHL,13,['B. Trotz'],74,2002-03,7,35
-4th,82,Nashville Predators,,.421,28,NHL,13,['B. Trotz'],69,2001-02,0,41
-3rd,82,Nashville Predators,,.488,34,NHL,9,['B. Trotz'],80,2000-01,3,36
-4th,82,Nashville Predators,,.427,28,NHL,7,['B. Trotz'],70,1999-00,7,40
-4th,82,Nashville Predators,,.384,28,NHL,7,['B. Trotz'],63,1998-99,0,47
+points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
+0,['P. Laviolette'],2017-18,0,0,0,0,0,,Nashville Predators,NSH,,0,NHL
+94,['P. Laviolette'],2016-17,41,29,12,.573,82,4th,Nashville Predators,NSH,Lost Stanley Cup Final,0,NHL
+96,['P. Laviolette'],2015-16,41,27,14,.585,82,4th,Nashville Predators,NSH,Lost NHL Second Round,0,NHL
+104,['P. Laviolette'],2014-15,47,25,10,.634,82,2nd,Nashville Predators,NSH,Lost NHL First Round,0,NHL
+88,['B. Trotz'],2013-14,38,32,12,.537,82,6th,Nashville Predators,NSH,,0,NHL
+41,['B. Trotz'],2012-13,16,23,9,.427,48,5th,Nashville Predators,NSH,,0,NHL
+104,['B. Trotz'],2011-12,48,26,8,.634,82,2nd,Nashville Predators,NSH,Lost NHL Conference Semi-Finals,0,NHL
+99,['B. Trotz'],2010-11,44,27,11,.604,82,2nd,Nashville Predators,NSH,Lost NHL Conference Semi-Finals,0,NHL
+100,['B. Trotz'],2009-10,47,29,6,.610,82,3rd,Nashville Predators,NSH,Lost NHL Conference Quarter-Finals,0,NHL
+88,['B. Trotz'],2008-09,40,34,8,.537,82,5th,Nashville Predators,NSH,,0,NHL
+91,['B. Trotz'],2007-08,41,32,9,.555,82,2nd,Nashville Predators,NSH,Lost NHL Conference Quarter-Finals,0,NHL
+110,['B. Trotz'],2006-07,51,23,8,.671,82,2nd,Nashville Predators,NSH,Lost NHL Conference Quarter-Finals,0,NHL
+106,['B. Trotz'],2005-06,49,25,8,.646,82,2nd,Nashville Predators,NSH,Lost NHL Conference Quarter-Finals,0,NHL
+91,['B. Trotz'],2003-04,38,29,4,.555,82,3rd,Nashville Predators,NSH,Lost NHL Conference Quarter-Finals,11,NHL
+74,['B. Trotz'],2002-03,27,35,7,.451,82,4th,Nashville Predators,NSH,,13,NHL
+69,['B. Trotz'],2001-02,28,41,0,.421,82,4th,Nashville Predators,NSH,,13,NHL
+80,['B. Trotz'],2000-01,34,36,3,.488,82,3rd,Nashville Predators,NSH,,9,NHL
+70,['B. Trotz'],1999-00,28,40,7,.427,82,4th,Nashville Predators,NSH,,7,NHL
+63,['B. Trotz'],1998-99,28,47,0,.384,82,4th,Nashville Predators,NSH,,7,NHL

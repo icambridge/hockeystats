@@ -1,94 +1,94 @@
-finishing_position,games_played,team_name,playoff_result,points_percentage,wins,leage,ties,coaches,points,season,overtime_loses,loses
-,0,Boston Bruins,,0,0,NHL,0,['B. Cassidy'],0,2017-18,0,0
-3rd,82,Boston Bruins,Lost NHL First Round,.579,44,NHL,0,"['C. Julien', 'B. Cassidy']",95,2016-17,7,31
-3rd,82,Boston Bruins,,.567,42,NHL,0,['C. Julien'],93,2015-16,9,31
-5th,82,Boston Bruins,,.585,41,NHL,0,['C. Julien'],96,2014-15,14,27
-1st,82,Boston Bruins,Lost NHL Second Round,.713,54,NHL,0,['C. Julien'],117,2013-14,9,19
-2nd,48,Boston Bruins,Lost Stanley Cup Final,.646,28,NHL,0,['C. Julien'],62,2012-13,6,14
-1st,82,Boston Bruins,Lost NHL Conference Quarter-Finals,.622,49,NHL,0,['C. Julien'],102,2011-12,4,29
-1st,82,Boston Bruins,,.628,46,NHL,0,['C. Julien'],103,2010-11,11,25
-3rd,82,Boston Bruins,Lost NHL Conference Semi-Finals,.555,39,NHL,0,['C. Julien'],91,2009-10,13,30
-1st,82,Boston Bruins,Lost NHL Conference Semi-Finals,.707,53,NHL,0,['C. Julien'],116,2008-09,10,19
-3rd,82,Boston Bruins,Lost NHL Conference Quarter-Finals,.573,41,NHL,0,['C. Julien'],94,2007-08,12,29
-5th,82,Boston Bruins,,.463,35,NHL,0,['D. Lewis'],76,2006-07,6,41
-5th,82,Boston Bruins,,.451,29,NHL,0,['M. Sullivan'],74,2005-06,16,37
-1st,82,Boston Bruins,Lost NHL Conference Quarter-Finals,.634,41,NHL,15,['M. Sullivan'],104,2003-04,7,19
-3rd,82,Boston Bruins,Lost NHL Conference Quarter-Finals,.530,36,NHL,11,"['R. Ftorek', ""M. O'Connell""]",87,2002-03,4,31
-1st,82,Boston Bruins,Lost NHL Conference Quarter-Finals,.616,43,NHL,6,['R. Ftorek'],101,2001-02,9,24
-4th,82,Boston Bruins,,.537,36,NHL,8,"['P. Burns', 'M. Keenan']",88,2000-01,8,30
-5th,82,Boston Bruins,,.445,24,NHL,19,['P. Burns'],73,1999-00,6,33
-3rd,82,Boston Bruins,Lost NHL Conference Semi-Finals,.555,39,NHL,13,['P. Burns'],91,1998-99,0,30
-2nd,82,Boston Bruins,Lost NHL Conference Quarter-Finals,.555,39,NHL,13,['P. Burns'],91,1997-98,0,30
-6th,82,Boston Bruins,,.372,26,NHL,9,['S. Kasper'],61,1996-97,0,47
-2nd,82,Boston Bruins,Lost NHL Conference Quarter-Finals,.555,40,NHL,11,['S. Kasper'],91,1995-96,0,31
-3rd,48,Boston Bruins,Lost NHL Conference Quarter-Finals,.594,27,NHL,3,['B. Sutter'],57,1994-95,0,18
-2nd,84,Boston Bruins,Lost NHL Conference Semi-Finals,.577,42,NHL,13,['B. Sutter'],97,1993-94,0,29
-1st,84,Boston Bruins,Lost NHL Division Semi-Finals,.649,51,NHL,7,['B. Sutter'],109,1992-93,0,26
-2nd,80,Boston Bruins,Lost NHL Conference Finals,.525,36,NHL,12,['R. Bowness'],84,1991-92,0,32
-1st,80,Boston Bruins,Lost NHL Conference Finals,.625,44,NHL,12,['M. Milbury'],100,1990-91,0,24
-1st,80,Boston Bruins,Lost Stanley Cup Final,.631,46,NHL,9,['M. Milbury'],101,1989-90,0,25
-2nd,80,Boston Bruins,Lost NHL Division Finals,.550,37,NHL,14,"[""T. O'Reilly""]",88,1988-89,0,29
-2nd,80,Boston Bruins,Lost Stanley Cup Final,.588,44,NHL,6,"[""T. O'Reilly""]",94,1987-88,0,30
-3rd,80,Boston Bruins,Lost NHL Division Semi-Finals,.531,39,NHL,7,"['B. Goring', ""T. O'Reilly""]",85,1986-87,0,34
-3rd,80,Boston Bruins,Lost NHL Division Semi-Finals,.538,37,NHL,12,['B. Goring'],86,1985-86,0,31
-4th,80,Boston Bruins,Lost NHL Division Semi-Finals,.513,36,NHL,10,"['G. Cheevers', 'H. Sinden']",82,1984-85,0,34
-1st,80,Boston Bruins,Lost NHL Division Semi-Finals,.650,49,NHL,6,['G. Cheevers'],104,1983-84,0,25
-1st,80,Boston Bruins,Lost NHL Conference Finals,.688,50,NHL,10,['G. Cheevers'],110,1982-83,0,20
-2nd,80,Boston Bruins,Lost NHL Division Finals,.600,43,NHL,10,['G. Cheevers'],96,1981-82,0,27
-2nd,80,Boston Bruins,Lost NHL Preliminary Round,.544,37,NHL,13,['G. Cheevers'],87,1980-81,0,30
-2nd,80,Boston Bruins,Lost NHL Quarter-Finals,.656,46,NHL,13,"['F. Creighton', 'H. Sinden']",105,1979-80,0,21
-1st,80,Boston Bruins,Lost NHL Semi-Finals,.625,43,NHL,14,['D. Cherry'],100,1978-79,0,23
-1st,80,Boston Bruins,Lost Stanley Cup Final,.706,51,NHL,11,['D. Cherry'],113,1977-78,0,18
-1st,80,Boston Bruins,Lost Stanley Cup Final,.663,49,NHL,8,['D. Cherry'],106,1976-77,0,23
-1st,80,Boston Bruins,Lost NHL Semi-Finals,.706,48,NHL,17,['D. Cherry'],113,1975-76,0,15
-2nd,80,Boston Bruins,Lost NHL Preliminary Round,.588,40,NHL,14,['D. Cherry'],94,1974-75,0,26
-1st,78,Boston Bruins,Lost Stanley Cup Final,.724,52,NHL,9,['B. Guidolin'],113,1973-74,0,17
-2nd,78,Boston Bruins,Lost NHL Quarter-Finals,.686,51,NHL,5,"['T. Johnson', 'B. Guidolin']",107,1972-73,0,22
-1st,78,Boston Bruins,,.763,54,NHL,11,['T. Johnson'],119,1971-72,0,13
-1st,78,Boston Bruins,Lost NHL Quarter-Finals,.776,57,NHL,7,['T. Johnson'],121,1970-71,0,14
-2nd,76,Boston Bruins,,.651,40,NHL,19,['H. Sinden'],99,1969-70,0,17
-2nd,76,Boston Bruins,Lost NHL Semi-Finals,.658,42,NHL,16,['H. Sinden'],100,1968-69,0,18
-3rd,74,Boston Bruins,Lost NHL Quarter-Finals,.568,37,NHL,10,['H. Sinden'],84,1967-68,0,27
-6th,70,Boston Bruins,,.314,17,NHL,10,['H. Sinden'],44,1966-67,0,43
-5th,70,Boston Bruins,,.343,21,NHL,6,['M. Schmidt'],48,1965-66,0,43
-6th,70,Boston Bruins,,.343,21,NHL,6,['M. Schmidt'],48,1964-65,0,43
-6th,70,Boston Bruins,,.343,18,NHL,12,['M. Schmidt'],48,1963-64,0,40
-6th,70,Boston Bruins,,.321,14,NHL,17,"['P. Watson', 'M. Schmidt']",45,1962-63,0,39
-6th,70,Boston Bruins,,.271,15,NHL,8,['P. Watson'],38,1961-62,0,47
-6th,70,Boston Bruins,,.307,15,NHL,13,['M. Schmidt'],43,1960-61,0,42
-5th,70,Boston Bruins,,.457,28,NHL,8,['M. Schmidt'],64,1959-60,0,34
-2nd,70,Boston Bruins,Lost NHL Semi-Finals,.521,32,NHL,9,['M. Schmidt'],73,1958-59,0,29
-4th,70,Boston Bruins,Lost Stanley Cup Final,.493,27,NHL,15,['M. Schmidt'],69,1957-58,0,28
-3rd,70,Boston Bruins,Lost Stanley Cup Final,.571,34,NHL,12,['M. Schmidt'],80,1956-57,0,24
-5th,70,Boston Bruins,,.421,23,NHL,13,['M. Schmidt'],59,1955-56,0,34
-4th,70,Boston Bruins,Lost NHL Semi-Finals,.479,23,NHL,21,"['L. Patrick', 'M. Schmidt']",67,1954-55,0,26
-4th,70,Boston Bruins,Lost NHL Semi-Finals,.529,32,NHL,10,['L. Patrick'],74,1953-54,0,28
-3rd,70,Boston Bruins,Lost Stanley Cup Final,.493,28,NHL,13,['L. Patrick'],69,1952-53,0,29
-4th,70,Boston Bruins,Lost NHL Semi-Finals,.471,25,NHL,16,['L. Patrick'],66,1951-52,0,29
-4th,70,Boston Bruins,Lost NHL Semi-Finals,.443,22,NHL,18,['L. Patrick'],62,1950-51,0,30
-5th,70,Boston Bruins,,.429,22,NHL,16,['G. Boucher'],60,1949-50,0,32
-2nd,60,Boston Bruins,Lost NHL Semi-Finals,.550,29,NHL,8,['D. Clapper'],66,1948-49,0,23
-3rd,60,Boston Bruins,Lost NHL Semi-Finals,.492,23,NHL,13,['D. Clapper'],59,1947-48,0,24
-3rd,60,Boston Bruins,Lost NHL Semi-Finals,.525,26,NHL,11,['D. Clapper'],63,1946-47,0,23
-2nd,50,Boston Bruins,Lost Stanley Cup Final,.560,24,NHL,8,['D. Clapper'],56,1945-46,0,18
-4th,50,Boston Bruins,Lost NHL Semi-Finals,.360,16,NHL,4,['A. Ross'],36,1944-45,0,30
-5th,50,Boston Bruins,,.430,19,NHL,5,['A. Ross'],43,1943-44,0,26
-2nd,50,Boston Bruins,Lost Stanley Cup Final,.570,24,NHL,9,['A. Ross'],57,1942-43,0,17
-3rd,48,Boston Bruins,Lost NHL Semi-Finals,.583,25,NHL,6,['A. Ross'],56,1941-42,0,17
-1st,48,Boston Bruins,,.698,27,NHL,13,['C. Weiland'],67,1940-41,0,8
-1st,48,Boston Bruins,Lost NHL Semi-Finals,.698,31,NHL,5,['C. Weiland'],67,1939-40,0,12
-1st,48,Boston Bruins,,.771,36,NHL,2,['A. Ross'],74,1938-39,0,10
-1st,48,Boston Bruins,Lost NHL Semi-Finals,.698,30,NHL,7,['A. Ross'],67,1937-38,0,11
-2nd,48,Boston Bruins,Lost NHL Quarter-Finals,.552,23,NHL,7,['A. Ross'],53,1936-37,0,18
-2nd,48,Boston Bruins,Lost NHL Quarter-Finals,.521,22,NHL,6,['F. Patrick'],50,1935-36,0,20
-1st,48,Boston Bruins,Lost NHL Semi-Finals,.604,26,NHL,6,['F. Patrick'],58,1934-35,0,16
-4th,48,Boston Bruins,,.427,18,NHL,5,['A. Ross'],41,1933-34,0,25
-1st,48,Boston Bruins,Lost NHL Semi-Finals,.604,25,NHL,8,['A. Ross'],58,1932-33,0,15
-4th,48,Boston Bruins,,.438,15,NHL,12,['A. Ross'],42,1931-32,0,21
-1st,44,Boston Bruins,Lost NHL Semi-Finals,.705,28,NHL,6,['A. Ross'],62,1930-31,0,10
-1st,44,Boston Bruins,Lost Stanley Cup Final,.875,38,NHL,1,['A. Ross'],77,1929-30,0,5
-1st,44,Boston Bruins,,.648,26,NHL,5,['A. Ross'],57,1928-29,0,13
-1st,44,Boston Bruins,Lost NHL Semi-Finals,.580,20,NHL,11,['A. Ross'],51,1927-28,0,13
-2nd,44,Boston Bruins,Lost Stanley Cup Final,.511,21,NHL,3,['A. Ross'],45,1926-27,0,20
-4th,36,Boston Bruins,,.528,17,NHL,4,['A. Ross'],38,1925-26,0,15
-6th,30,Boston Bruins,,.200,6,NHL,0,['A. Ross'],12,1924-25,0,24
+points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
+0,['B. Cassidy'],2017-18,0,0,0,0,0,,Boston Bruins,BOS,,0,NHL
+95,"['C. Julien', 'B. Cassidy']",2016-17,44,31,7,.579,82,3rd,Boston Bruins,BOS,Lost NHL First Round,0,NHL
+93,['C. Julien'],2015-16,42,31,9,.567,82,3rd,Boston Bruins,BOS,,0,NHL
+96,['C. Julien'],2014-15,41,27,14,.585,82,5th,Boston Bruins,BOS,,0,NHL
+117,['C. Julien'],2013-14,54,19,9,.713,82,1st,Boston Bruins,BOS,Lost NHL Second Round,0,NHL
+62,['C. Julien'],2012-13,28,14,6,.646,48,2nd,Boston Bruins,BOS,Lost Stanley Cup Final,0,NHL
+102,['C. Julien'],2011-12,49,29,4,.622,82,1st,Boston Bruins,BOS,Lost NHL Conference Quarter-Finals,0,NHL
+103,['C. Julien'],2010-11,46,25,11,.628,82,1st,Boston Bruins,BOS,,0,NHL
+91,['C. Julien'],2009-10,39,30,13,.555,82,3rd,Boston Bruins,BOS,Lost NHL Conference Semi-Finals,0,NHL
+116,['C. Julien'],2008-09,53,19,10,.707,82,1st,Boston Bruins,BOS,Lost NHL Conference Semi-Finals,0,NHL
+94,['C. Julien'],2007-08,41,29,12,.573,82,3rd,Boston Bruins,BOS,Lost NHL Conference Quarter-Finals,0,NHL
+76,['D. Lewis'],2006-07,35,41,6,.463,82,5th,Boston Bruins,BOS,,0,NHL
+74,['M. Sullivan'],2005-06,29,37,16,.451,82,5th,Boston Bruins,BOS,,0,NHL
+104,['M. Sullivan'],2003-04,41,19,7,.634,82,1st,Boston Bruins,BOS,Lost NHL Conference Quarter-Finals,15,NHL
+87,"['R. Ftorek', ""M. O'Connell""]",2002-03,36,31,4,.530,82,3rd,Boston Bruins,BOS,Lost NHL Conference Quarter-Finals,11,NHL
+101,['R. Ftorek'],2001-02,43,24,9,.616,82,1st,Boston Bruins,BOS,Lost NHL Conference Quarter-Finals,6,NHL
+88,"['P. Burns', 'M. Keenan']",2000-01,36,30,8,.537,82,4th,Boston Bruins,BOS,,8,NHL
+73,['P. Burns'],1999-00,24,33,6,.445,82,5th,Boston Bruins,BOS,,19,NHL
+91,['P. Burns'],1998-99,39,30,0,.555,82,3rd,Boston Bruins,BOS,Lost NHL Conference Semi-Finals,13,NHL
+91,['P. Burns'],1997-98,39,30,0,.555,82,2nd,Boston Bruins,BOS,Lost NHL Conference Quarter-Finals,13,NHL
+61,['S. Kasper'],1996-97,26,47,0,.372,82,6th,Boston Bruins,BOS,,9,NHL
+91,['S. Kasper'],1995-96,40,31,0,.555,82,2nd,Boston Bruins,BOS,Lost NHL Conference Quarter-Finals,11,NHL
+57,['B. Sutter'],1994-95,27,18,0,.594,48,3rd,Boston Bruins,BOS,Lost NHL Conference Quarter-Finals,3,NHL
+97,['B. Sutter'],1993-94,42,29,0,.577,84,2nd,Boston Bruins,BOS,Lost NHL Conference Semi-Finals,13,NHL
+109,['B. Sutter'],1992-93,51,26,0,.649,84,1st,Boston Bruins,BOS,Lost NHL Division Semi-Finals,7,NHL
+84,['R. Bowness'],1991-92,36,32,0,.525,80,2nd,Boston Bruins,BOS,Lost NHL Conference Finals,12,NHL
+100,['M. Milbury'],1990-91,44,24,0,.625,80,1st,Boston Bruins,BOS,Lost NHL Conference Finals,12,NHL
+101,['M. Milbury'],1989-90,46,25,0,.631,80,1st,Boston Bruins,BOS,Lost Stanley Cup Final,9,NHL
+88,"[""T. O'Reilly""]",1988-89,37,29,0,.550,80,2nd,Boston Bruins,BOS,Lost NHL Division Finals,14,NHL
+94,"[""T. O'Reilly""]",1987-88,44,30,0,.588,80,2nd,Boston Bruins,BOS,Lost Stanley Cup Final,6,NHL
+85,"['B. Goring', ""T. O'Reilly""]",1986-87,39,34,0,.531,80,3rd,Boston Bruins,BOS,Lost NHL Division Semi-Finals,7,NHL
+86,['B. Goring'],1985-86,37,31,0,.538,80,3rd,Boston Bruins,BOS,Lost NHL Division Semi-Finals,12,NHL
+82,"['G. Cheevers', 'H. Sinden']",1984-85,36,34,0,.513,80,4th,Boston Bruins,BOS,Lost NHL Division Semi-Finals,10,NHL
+104,['G. Cheevers'],1983-84,49,25,0,.650,80,1st,Boston Bruins,BOS,Lost NHL Division Semi-Finals,6,NHL
+110,['G. Cheevers'],1982-83,50,20,0,.688,80,1st,Boston Bruins,BOS,Lost NHL Conference Finals,10,NHL
+96,['G. Cheevers'],1981-82,43,27,0,.600,80,2nd,Boston Bruins,BOS,Lost NHL Division Finals,10,NHL
+87,['G. Cheevers'],1980-81,37,30,0,.544,80,2nd,Boston Bruins,BOS,Lost NHL Preliminary Round,13,NHL
+105,"['F. Creighton', 'H. Sinden']",1979-80,46,21,0,.656,80,2nd,Boston Bruins,BOS,Lost NHL Quarter-Finals,13,NHL
+100,['D. Cherry'],1978-79,43,23,0,.625,80,1st,Boston Bruins,BOS,Lost NHL Semi-Finals,14,NHL
+113,['D. Cherry'],1977-78,51,18,0,.706,80,1st,Boston Bruins,BOS,Lost Stanley Cup Final,11,NHL
+106,['D. Cherry'],1976-77,49,23,0,.663,80,1st,Boston Bruins,BOS,Lost Stanley Cup Final,8,NHL
+113,['D. Cherry'],1975-76,48,15,0,.706,80,1st,Boston Bruins,BOS,Lost NHL Semi-Finals,17,NHL
+94,['D. Cherry'],1974-75,40,26,0,.588,80,2nd,Boston Bruins,BOS,Lost NHL Preliminary Round,14,NHL
+113,['B. Guidolin'],1973-74,52,17,0,.724,78,1st,Boston Bruins,BOS,Lost Stanley Cup Final,9,NHL
+107,"['T. Johnson', 'B. Guidolin']",1972-73,51,22,0,.686,78,2nd,Boston Bruins,BOS,Lost NHL Quarter-Finals,5,NHL
+119,['T. Johnson'],1971-72,54,13,0,.763,78,1st,Boston Bruins,BOS,,11,NHL
+121,['T. Johnson'],1970-71,57,14,0,.776,78,1st,Boston Bruins,BOS,Lost NHL Quarter-Finals,7,NHL
+99,['H. Sinden'],1969-70,40,17,0,.651,76,2nd,Boston Bruins,BOS,,19,NHL
+100,['H. Sinden'],1968-69,42,18,0,.658,76,2nd,Boston Bruins,BOS,Lost NHL Semi-Finals,16,NHL
+84,['H. Sinden'],1967-68,37,27,0,.568,74,3rd,Boston Bruins,BOS,Lost NHL Quarter-Finals,10,NHL
+44,['H. Sinden'],1966-67,17,43,0,.314,70,6th,Boston Bruins,BOS,,10,NHL
+48,['M. Schmidt'],1965-66,21,43,0,.343,70,5th,Boston Bruins,BOS,,6,NHL
+48,['M. Schmidt'],1964-65,21,43,0,.343,70,6th,Boston Bruins,BOS,,6,NHL
+48,['M. Schmidt'],1963-64,18,40,0,.343,70,6th,Boston Bruins,BOS,,12,NHL
+45,"['P. Watson', 'M. Schmidt']",1962-63,14,39,0,.321,70,6th,Boston Bruins,BOS,,17,NHL
+38,['P. Watson'],1961-62,15,47,0,.271,70,6th,Boston Bruins,BOS,,8,NHL
+43,['M. Schmidt'],1960-61,15,42,0,.307,70,6th,Boston Bruins,BOS,,13,NHL
+64,['M. Schmidt'],1959-60,28,34,0,.457,70,5th,Boston Bruins,BOS,,8,NHL
+73,['M. Schmidt'],1958-59,32,29,0,.521,70,2nd,Boston Bruins,BOS,Lost NHL Semi-Finals,9,NHL
+69,['M. Schmidt'],1957-58,27,28,0,.493,70,4th,Boston Bruins,BOS,Lost Stanley Cup Final,15,NHL
+80,['M. Schmidt'],1956-57,34,24,0,.571,70,3rd,Boston Bruins,BOS,Lost Stanley Cup Final,12,NHL
+59,['M. Schmidt'],1955-56,23,34,0,.421,70,5th,Boston Bruins,BOS,,13,NHL
+67,"['L. Patrick', 'M. Schmidt']",1954-55,23,26,0,.479,70,4th,Boston Bruins,BOS,Lost NHL Semi-Finals,21,NHL
+74,['L. Patrick'],1953-54,32,28,0,.529,70,4th,Boston Bruins,BOS,Lost NHL Semi-Finals,10,NHL
+69,['L. Patrick'],1952-53,28,29,0,.493,70,3rd,Boston Bruins,BOS,Lost Stanley Cup Final,13,NHL
+66,['L. Patrick'],1951-52,25,29,0,.471,70,4th,Boston Bruins,BOS,Lost NHL Semi-Finals,16,NHL
+62,['L. Patrick'],1950-51,22,30,0,.443,70,4th,Boston Bruins,BOS,Lost NHL Semi-Finals,18,NHL
+60,['G. Boucher'],1949-50,22,32,0,.429,70,5th,Boston Bruins,BOS,,16,NHL
+66,['D. Clapper'],1948-49,29,23,0,.550,60,2nd,Boston Bruins,BOS,Lost NHL Semi-Finals,8,NHL
+59,['D. Clapper'],1947-48,23,24,0,.492,60,3rd,Boston Bruins,BOS,Lost NHL Semi-Finals,13,NHL
+63,['D. Clapper'],1946-47,26,23,0,.525,60,3rd,Boston Bruins,BOS,Lost NHL Semi-Finals,11,NHL
+56,['D. Clapper'],1945-46,24,18,0,.560,50,2nd,Boston Bruins,BOS,Lost Stanley Cup Final,8,NHL
+36,['A. Ross'],1944-45,16,30,0,.360,50,4th,Boston Bruins,BOS,Lost NHL Semi-Finals,4,NHL
+43,['A. Ross'],1943-44,19,26,0,.430,50,5th,Boston Bruins,BOS,,5,NHL
+57,['A. Ross'],1942-43,24,17,0,.570,50,2nd,Boston Bruins,BOS,Lost Stanley Cup Final,9,NHL
+56,['A. Ross'],1941-42,25,17,0,.583,48,3rd,Boston Bruins,BOS,Lost NHL Semi-Finals,6,NHL
+67,['C. Weiland'],1940-41,27,8,0,.698,48,1st,Boston Bruins,BOS,,13,NHL
+67,['C. Weiland'],1939-40,31,12,0,.698,48,1st,Boston Bruins,BOS,Lost NHL Semi-Finals,5,NHL
+74,['A. Ross'],1938-39,36,10,0,.771,48,1st,Boston Bruins,BOS,,2,NHL
+67,['A. Ross'],1937-38,30,11,0,.698,48,1st,Boston Bruins,BOS,Lost NHL Semi-Finals,7,NHL
+53,['A. Ross'],1936-37,23,18,0,.552,48,2nd,Boston Bruins,BOS,Lost NHL Quarter-Finals,7,NHL
+50,['F. Patrick'],1935-36,22,20,0,.521,48,2nd,Boston Bruins,BOS,Lost NHL Quarter-Finals,6,NHL
+58,['F. Patrick'],1934-35,26,16,0,.604,48,1st,Boston Bruins,BOS,Lost NHL Semi-Finals,6,NHL
+41,['A. Ross'],1933-34,18,25,0,.427,48,4th,Boston Bruins,BOS,,5,NHL
+58,['A. Ross'],1932-33,25,15,0,.604,48,1st,Boston Bruins,BOS,Lost NHL Semi-Finals,8,NHL
+42,['A. Ross'],1931-32,15,21,0,.438,48,4th,Boston Bruins,BOS,,12,NHL
+62,['A. Ross'],1930-31,28,10,0,.705,44,1st,Boston Bruins,BOS,Lost NHL Semi-Finals,6,NHL
+77,['A. Ross'],1929-30,38,5,0,.875,44,1st,Boston Bruins,BOS,Lost Stanley Cup Final,1,NHL
+57,['A. Ross'],1928-29,26,13,0,.648,44,1st,Boston Bruins,BOS,,5,NHL
+51,['A. Ross'],1927-28,20,13,0,.580,44,1st,Boston Bruins,BOS,Lost NHL Semi-Finals,11,NHL
+45,['A. Ross'],1926-27,21,20,0,.511,44,2nd,Boston Bruins,BOS,Lost Stanley Cup Final,3,NHL
+38,['A. Ross'],1925-26,17,15,0,.528,36,4th,Boston Bruins,BOS,,4,NHL
+12,['A. Ross'],1924-25,6,24,0,.200,30,6th,Boston Bruins,BOS,,0,NHL

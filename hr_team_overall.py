@@ -90,6 +90,7 @@ def getHtml(team):
 
 def buildYears(team, tree):
     seasons = tree.xpath('//*[@id="'+team+'"]/tbody/tr/th/a/text()')
+    seasonsLinks = tree.xpath('//*[@id="'+team+'"]/tbody/tr/th/a/@href')
     leagues = tree.xpath('//*[@id="'+team+'"]/tbody/tr/td[1]/a/text()')
     teamName = tree.xpath('//*[@id="'+team+'"]/tbody/tr/td[2]/a/text()')
     gamesPlayedPre = tree.xpath('//*[@id="'+team+'"]/tbody/tr/td[3]')
@@ -103,6 +104,7 @@ def buildYears(team, tree):
     playoffsPre = tree.xpath('//*[@id="'+team+'"]/tbody/tr/td[13]')
     coachesPre = tree.xpath('//*[@id="'+team+'"]/tbody/tr/td[14]')
 
+    code = [x.split("/")[2] for x in seasonsLinks]
     gamesPlayed = [x.text if x.text else 0 for x in gamesPlayedPre]
     wins = [x.text if x.text else 0 for x in winsPre]
     loses = [x.text if x.text else 0 for x in losesPre]
@@ -127,6 +129,7 @@ def buildYears(team, tree):
     i = 0
     while i < len(seasons):
         year = {
+            "code": code[i],
             "season": seasons[i],
             "leage": leagues[i],
             "team_name": teamName[i],

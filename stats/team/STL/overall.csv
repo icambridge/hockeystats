@@ -1,51 +1,51 @@
-finishing_position,games_played,team_name,playoff_result,points_percentage,wins,leage,ties,coaches,points,season,overtime_loses,loses
-,0,St. Louis Blues,,0,0,NHL,0,['M. Yeo'],0,2017-18,0,0
-3rd,82,St. Louis Blues,Lost NHL Second Round,.604,46,NHL,0,"['K. Hitchcock', 'M. Yeo']",99,2016-17,7,29
-2nd,82,St. Louis Blues,Lost NHL Conference Finals,.652,49,NHL,0,['K. Hitchcock'],107,2015-16,9,24
-1st,82,St. Louis Blues,Lost NHL First Round,.665,51,NHL,0,['K. Hitchcock'],109,2014-15,7,24
-2nd,82,St. Louis Blues,Lost NHL First Round,.677,52,NHL,0,['K. Hitchcock'],111,2013-14,7,23
-2nd,48,St. Louis Blues,Lost NHL Conference Quarter-Finals,.625,29,NHL,0,['K. Hitchcock'],60,2012-13,2,17
-1st,82,St. Louis Blues,Lost NHL Conference Semi-Finals,.665,49,NHL,0,"['D. Payne', 'K. Hitchcock']",109,2011-12,11,22
-4th,82,St. Louis Blues,,.530,38,NHL,0,['D. Payne'],87,2010-11,11,33
-4th,82,St. Louis Blues,,.549,40,NHL,0,"['A. Murray', 'D. Payne']",90,2009-10,10,32
-3rd,82,St. Louis Blues,Lost NHL Conference Quarter-Finals,.561,41,NHL,0,['A. Murray'],92,2008-09,10,31
-5th,82,St. Louis Blues,,.482,33,NHL,0,['A. Murray'],79,2007-08,13,36
-3rd,82,St. Louis Blues,,.494,34,NHL,0,"['M. Kitchen', 'A. Murray']",81,2006-07,13,35
-5th,82,St. Louis Blues,,.348,21,NHL,0,['M. Kitchen'],57,2005-06,15,46
-2nd,82,St. Louis Blues,Lost NHL Conference Quarter-Finals,.555,39,NHL,11,"['J. Quenneville', 'M. Kitchen']",91,2003-04,2,30
-2nd,82,St. Louis Blues,Lost NHL Conference Quarter-Finals,.604,41,NHL,11,['J. Quenneville'],99,2002-03,6,24
-2nd,82,St. Louis Blues,Lost NHL Conference Semi-Finals,.598,43,NHL,8,['J. Quenneville'],98,2001-02,4,27
-2nd,82,St. Louis Blues,Lost NHL Conference Finals,.628,43,NHL,12,['J. Quenneville'],103,2000-01,5,22
-1st,82,St. Louis Blues,Lost NHL Conference Quarter-Finals,.695,51,NHL,11,['J. Quenneville'],114,1999-00,1,19
-2nd,82,St. Louis Blues,Lost NHL Conference Semi-Finals,.530,37,NHL,13,['J. Quenneville'],87,1998-99,0,32
-3rd,82,St. Louis Blues,Lost NHL Conference Semi-Finals,.598,45,NHL,8,['J. Quenneville'],98,1997-98,0,29
-4th,82,St. Louis Blues,Lost NHL Conference Quarter-Finals,.506,36,NHL,11,"['M. Keenan', 'J. Roberts', 'J. Quenneville']",83,1996-97,0,35
-4th,82,St. Louis Blues,Lost NHL Conference Semi-Finals,.488,32,NHL,16,['M. Keenan'],80,1995-96,0,34
-2nd,48,St. Louis Blues,Lost NHL Conference Quarter-Finals,.635,28,NHL,5,['M. Keenan'],61,1994-95,0,15
-4th,84,St. Louis Blues,Lost NHL Conference Quarter-Finals,.542,40,NHL,11,['B. Berry'],91,1993-94,0,33
-4th,84,St. Louis Blues,Lost NHL Division Finals,.506,37,NHL,11,"['B. Plager', 'B. Berry']",85,1992-93,0,36
-3rd,80,St. Louis Blues,Lost NHL Division Semi-Finals,.519,36,NHL,11,['B. Sutter'],83,1991-92,0,33
-2nd,80,St. Louis Blues,Lost NHL Division Finals,.656,47,NHL,11,['B. Sutter'],105,1990-91,0,22
-2nd,80,St. Louis Blues,Lost NHL Division Finals,.519,37,NHL,9,['B. Sutter'],83,1989-90,0,34
-2nd,80,St. Louis Blues,Lost NHL Division Finals,.488,33,NHL,12,['B. Sutter'],78,1988-89,0,35
-2nd,80,St. Louis Blues,Lost NHL Division Finals,.475,34,NHL,8,['J. Martin'],76,1987-88,0,38
-1st,80,St. Louis Blues,Lost NHL Division Semi-Finals,.494,32,NHL,15,['J. Martin'],79,1986-87,0,33
-3rd,80,St. Louis Blues,Lost NHL Conference Finals,.519,37,NHL,9,['J. Demers'],83,1985-86,0,34
-1st,80,St. Louis Blues,Lost NHL Division Semi-Finals,.538,37,NHL,12,['J. Demers'],86,1984-85,0,31
-2nd,80,St. Louis Blues,Lost NHL Division Finals,.444,32,NHL,7,['J. Demers'],71,1983-84,0,41
-4th,80,St. Louis Blues,Lost NHL Division Semi-Finals,.406,25,NHL,15,"['E. Francis', 'B. Plager']",65,1982-83,0,40
-3rd,80,St. Louis Blues,Lost NHL Division Finals,.450,32,NHL,8,"['R. Berenson', 'E. Francis']",72,1981-82,0,40
-1st,80,St. Louis Blues,Lost NHL Quarter-Finals,.669,45,NHL,17,['R. Berenson'],107,1980-81,0,18
-2nd,80,St. Louis Blues,Lost NHL Preliminary Round,.500,34,NHL,12,"['B. Plager', 'R. Berenson']",80,1979-80,0,34
-3rd,80,St. Louis Blues,,.300,18,NHL,12,['B. Plager'],48,1978-79,0,50
-4th,80,St. Louis Blues,,.331,20,NHL,13,"['L. Boivin', 'B. Plager']",53,1977-78,0,47
-1st,80,St. Louis Blues,Lost NHL Quarter-Finals,.456,32,NHL,9,['E. Francis'],73,1976-77,0,39
-3rd,80,St. Louis Blues,Lost NHL Preliminary Round,.450,29,NHL,14,"['G. Young', 'L. Patrick', 'L. Boivin']",72,1975-76,0,37
-2nd,80,St. Louis Blues,Lost NHL Preliminary Round,.525,35,NHL,14,"['L. Angotti', 'L. Patrick', 'G. Young']",84,1974-75,0,31
-6th,78,St. Louis Blues,,.410,26,NHL,12,"['J. Talbot', 'L. Angotti']",64,1973-74,0,40
-4th,78,St. Louis Blues,Lost NHL Quarter-Finals,.487,32,NHL,12,"['A. Arbour', 'J. Talbot']",76,1972-73,0,34
-3rd,78,St. Louis Blues,Lost NHL Semi-Finals,.429,28,NHL,11,"['S. Abel', 'B. McCreary', 'A. Arbour']",67,1971-72,0,39
-2nd,78,St. Louis Blues,Lost NHL Quarter-Finals,.558,34,NHL,19,"['A. Arbour', 'S. Bowman']",87,1970-71,0,25
-1st,76,St. Louis Blues,Lost Stanley Cup Final,.566,37,NHL,12,['S. Bowman'],86,1969-70,0,27
-1st,76,St. Louis Blues,Lost Stanley Cup Final,.579,37,NHL,14,['S. Bowman'],88,1968-69,0,25
-3rd,74,St. Louis Blues,Lost Stanley Cup Final,.473,27,NHL,16,"['L. Patrick', 'S. Bowman']",70,1967-68,0,31
+points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
+0,['M. Yeo'],2017-18,0,0,0,0,0,,St. Louis Blues,STL,,0,NHL
+99,"['K. Hitchcock', 'M. Yeo']",2016-17,46,29,7,.604,82,3rd,St. Louis Blues,STL,Lost NHL Second Round,0,NHL
+107,['K. Hitchcock'],2015-16,49,24,9,.652,82,2nd,St. Louis Blues,STL,Lost NHL Conference Finals,0,NHL
+109,['K. Hitchcock'],2014-15,51,24,7,.665,82,1st,St. Louis Blues,STL,Lost NHL First Round,0,NHL
+111,['K. Hitchcock'],2013-14,52,23,7,.677,82,2nd,St. Louis Blues,STL,Lost NHL First Round,0,NHL
+60,['K. Hitchcock'],2012-13,29,17,2,.625,48,2nd,St. Louis Blues,STL,Lost NHL Conference Quarter-Finals,0,NHL
+109,"['D. Payne', 'K. Hitchcock']",2011-12,49,22,11,.665,82,1st,St. Louis Blues,STL,Lost NHL Conference Semi-Finals,0,NHL
+87,['D. Payne'],2010-11,38,33,11,.530,82,4th,St. Louis Blues,STL,,0,NHL
+90,"['A. Murray', 'D. Payne']",2009-10,40,32,10,.549,82,4th,St. Louis Blues,STL,,0,NHL
+92,['A. Murray'],2008-09,41,31,10,.561,82,3rd,St. Louis Blues,STL,Lost NHL Conference Quarter-Finals,0,NHL
+79,['A. Murray'],2007-08,33,36,13,.482,82,5th,St. Louis Blues,STL,,0,NHL
+81,"['M. Kitchen', 'A. Murray']",2006-07,34,35,13,.494,82,3rd,St. Louis Blues,STL,,0,NHL
+57,['M. Kitchen'],2005-06,21,46,15,.348,82,5th,St. Louis Blues,STL,,0,NHL
+91,"['J. Quenneville', 'M. Kitchen']",2003-04,39,30,2,.555,82,2nd,St. Louis Blues,STL,Lost NHL Conference Quarter-Finals,11,NHL
+99,['J. Quenneville'],2002-03,41,24,6,.604,82,2nd,St. Louis Blues,STL,Lost NHL Conference Quarter-Finals,11,NHL
+98,['J. Quenneville'],2001-02,43,27,4,.598,82,2nd,St. Louis Blues,STL,Lost NHL Conference Semi-Finals,8,NHL
+103,['J. Quenneville'],2000-01,43,22,5,.628,82,2nd,St. Louis Blues,STL,Lost NHL Conference Finals,12,NHL
+114,['J. Quenneville'],1999-00,51,19,1,.695,82,1st,St. Louis Blues,STL,Lost NHL Conference Quarter-Finals,11,NHL
+87,['J. Quenneville'],1998-99,37,32,0,.530,82,2nd,St. Louis Blues,STL,Lost NHL Conference Semi-Finals,13,NHL
+98,['J. Quenneville'],1997-98,45,29,0,.598,82,3rd,St. Louis Blues,STL,Lost NHL Conference Semi-Finals,8,NHL
+83,"['M. Keenan', 'J. Roberts', 'J. Quenneville']",1996-97,36,35,0,.506,82,4th,St. Louis Blues,STL,Lost NHL Conference Quarter-Finals,11,NHL
+80,['M. Keenan'],1995-96,32,34,0,.488,82,4th,St. Louis Blues,STL,Lost NHL Conference Semi-Finals,16,NHL
+61,['M. Keenan'],1994-95,28,15,0,.635,48,2nd,St. Louis Blues,STL,Lost NHL Conference Quarter-Finals,5,NHL
+91,['B. Berry'],1993-94,40,33,0,.542,84,4th,St. Louis Blues,STL,Lost NHL Conference Quarter-Finals,11,NHL
+85,"['B. Plager', 'B. Berry']",1992-93,37,36,0,.506,84,4th,St. Louis Blues,STL,Lost NHL Division Finals,11,NHL
+83,['B. Sutter'],1991-92,36,33,0,.519,80,3rd,St. Louis Blues,STL,Lost NHL Division Semi-Finals,11,NHL
+105,['B. Sutter'],1990-91,47,22,0,.656,80,2nd,St. Louis Blues,STL,Lost NHL Division Finals,11,NHL
+83,['B. Sutter'],1989-90,37,34,0,.519,80,2nd,St. Louis Blues,STL,Lost NHL Division Finals,9,NHL
+78,['B. Sutter'],1988-89,33,35,0,.488,80,2nd,St. Louis Blues,STL,Lost NHL Division Finals,12,NHL
+76,['J. Martin'],1987-88,34,38,0,.475,80,2nd,St. Louis Blues,STL,Lost NHL Division Finals,8,NHL
+79,['J. Martin'],1986-87,32,33,0,.494,80,1st,St. Louis Blues,STL,Lost NHL Division Semi-Finals,15,NHL
+83,['J. Demers'],1985-86,37,34,0,.519,80,3rd,St. Louis Blues,STL,Lost NHL Conference Finals,9,NHL
+86,['J. Demers'],1984-85,37,31,0,.538,80,1st,St. Louis Blues,STL,Lost NHL Division Semi-Finals,12,NHL
+71,['J. Demers'],1983-84,32,41,0,.444,80,2nd,St. Louis Blues,STL,Lost NHL Division Finals,7,NHL
+65,"['E. Francis', 'B. Plager']",1982-83,25,40,0,.406,80,4th,St. Louis Blues,STL,Lost NHL Division Semi-Finals,15,NHL
+72,"['R. Berenson', 'E. Francis']",1981-82,32,40,0,.450,80,3rd,St. Louis Blues,STL,Lost NHL Division Finals,8,NHL
+107,['R. Berenson'],1980-81,45,18,0,.669,80,1st,St. Louis Blues,STL,Lost NHL Quarter-Finals,17,NHL
+80,"['B. Plager', 'R. Berenson']",1979-80,34,34,0,.500,80,2nd,St. Louis Blues,STL,Lost NHL Preliminary Round,12,NHL
+48,['B. Plager'],1978-79,18,50,0,.300,80,3rd,St. Louis Blues,STL,,12,NHL
+53,"['L. Boivin', 'B. Plager']",1977-78,20,47,0,.331,80,4th,St. Louis Blues,STL,,13,NHL
+73,['E. Francis'],1976-77,32,39,0,.456,80,1st,St. Louis Blues,STL,Lost NHL Quarter-Finals,9,NHL
+72,"['G. Young', 'L. Patrick', 'L. Boivin']",1975-76,29,37,0,.450,80,3rd,St. Louis Blues,STL,Lost NHL Preliminary Round,14,NHL
+84,"['L. Angotti', 'L. Patrick', 'G. Young']",1974-75,35,31,0,.525,80,2nd,St. Louis Blues,STL,Lost NHL Preliminary Round,14,NHL
+64,"['J. Talbot', 'L. Angotti']",1973-74,26,40,0,.410,78,6th,St. Louis Blues,STL,,12,NHL
+76,"['A. Arbour', 'J. Talbot']",1972-73,32,34,0,.487,78,4th,St. Louis Blues,STL,Lost NHL Quarter-Finals,12,NHL
+67,"['S. Abel', 'B. McCreary', 'A. Arbour']",1971-72,28,39,0,.429,78,3rd,St. Louis Blues,STL,Lost NHL Semi-Finals,11,NHL
+87,"['A. Arbour', 'S. Bowman']",1970-71,34,25,0,.558,78,2nd,St. Louis Blues,STL,Lost NHL Quarter-Finals,19,NHL
+86,['S. Bowman'],1969-70,37,27,0,.566,76,1st,St. Louis Blues,STL,Lost Stanley Cup Final,12,NHL
+88,['S. Bowman'],1968-69,37,25,0,.579,76,1st,St. Louis Blues,STL,Lost Stanley Cup Final,14,NHL
+70,"['L. Patrick', 'S. Bowman']",1967-68,27,31,0,.473,74,3rd,St. Louis Blues,STL,Lost Stanley Cup Final,16,NHL

@@ -1,39 +1,39 @@
-finishing_position,games_played,team_name,playoff_result,points_percentage,wins,leage,ties,coaches,points,season,overtime_loses,loses
-,0,Arizona Coyotes,,0,0,NHL,0,['R. Tocchet'],0,2017-18,0,0
-6th,82,Arizona Coyotes,,.427,30,NHL,0,['D. Tippett'],70,2016-17,10,42
-4th,82,Arizona Coyotes,,.476,35,NHL,0,['D. Tippett'],78,2015-16,8,39
-7th,82,Arizona Coyotes,,.341,24,NHL,0,['D. Tippett'],56,2014-15,8,50
-4th,82,Phoenix Coyotes,,.543,37,NHL,0,['D. Tippett'],89,2013-14,15,30
-4th,48,Phoenix Coyotes,,.531,21,NHL,0,['D. Tippett'],51,2012-13,9,18
-1st,82,Phoenix Coyotes,Lost NHL Conference Finals,.591,42,NHL,0,['D. Tippett'],97,2011-12,13,27
-2nd,82,Phoenix Coyotes,Lost NHL Conference Quarter-Finals,.604,43,NHL,0,['D. Tippett'],99,2010-11,13,26
-2nd,82,Phoenix Coyotes,Lost NHL Conference Quarter-Finals,.652,50,NHL,0,['D. Tippett'],107,2009-10,7,25
-4th,82,Phoenix Coyotes,,.482,36,NHL,0,['W. Gretzky'],79,2008-09,7,39
-4th,82,Phoenix Coyotes,,.506,38,NHL,0,['W. Gretzky'],83,2007-08,7,37
-5th,82,Phoenix Coyotes,,.409,31,NHL,0,['W. Gretzky'],67,2006-07,5,46
-5th,82,Phoenix Coyotes,,.494,38,NHL,0,['W. Gretzky'],81,2005-06,5,39
-5th,82,Phoenix Coyotes,,.415,22,NHL,18,"['B. Francis', 'R. Bowness']",68,2003-04,6,36
-4th,82,Phoenix Coyotes,,.476,31,NHL,11,['B. Francis'],78,2002-03,5,35
-2nd,82,Phoenix Coyotes,Lost NHL Conference Quarter-Finals,.579,40,NHL,9,['B. Francis'],95,2001-02,6,27
-4th,82,Phoenix Coyotes,,.549,35,NHL,17,['B. Francis'],90,2000-01,3,27
-3rd,82,Phoenix Coyotes,Lost NHL Conference Quarter-Finals,.549,39,NHL,8,['B. Francis'],90,1999-00,4,31
-2nd,82,Phoenix Coyotes,Lost NHL Conference Quarter-Finals,.549,39,NHL,12,['J. Schoenfeld'],90,1998-99,0,31
-4th,82,Phoenix Coyotes,Lost NHL Conference Quarter-Finals,.500,35,NHL,12,['J. Schoenfeld'],82,1997-98,0,35
-3rd,82,Phoenix Coyotes,Lost NHL Conference Quarter-Finals,.506,38,NHL,7,['D. Hay'],83,1996-97,0,37
-5th,82,Winnipeg Jets,Lost NHL Conference Quarter-Finals,.476,36,NHL,6,['T. Simpson'],78,1995-96,0,40
-6th,48,Winnipeg Jets,,.406,16,NHL,7,"['J. Paddock', 'T. Simpson']",39,1994-95,0,25
-6th,84,Winnipeg Jets,,.339,24,NHL,9,['J. Paddock'],57,1993-94,0,51
-4th,84,Winnipeg Jets,Lost NHL Division Semi-Finals,.518,40,NHL,7,['J. Paddock'],87,1992-93,0,37
-4th,80,Winnipeg Jets,Lost NHL Division Semi-Finals,.506,33,NHL,15,['J. Paddock'],81,1991-92,0,32
-5th,80,Winnipeg Jets,,.394,26,NHL,11,['B. Murdoch'],63,1990-91,0,43
-3rd,80,Winnipeg Jets,Lost NHL Division Semi-Finals,.531,37,NHL,11,['B. Murdoch'],85,1989-90,0,32
-5th,80,Winnipeg Jets,,.400,26,NHL,12,"['D. Maloney', 'R. Bowness']",64,1988-89,0,42
-3rd,80,Winnipeg Jets,Lost NHL Division Semi-Finals,.481,33,NHL,11,['D. Maloney'],77,1987-88,0,36
-3rd,80,Winnipeg Jets,Lost NHL Division Finals,.550,40,NHL,8,['D. Maloney'],88,1986-87,0,32
-3rd,80,Winnipeg Jets,Lost NHL Division Semi-Finals,.369,26,NHL,7,"['B. Long', 'J. Ferguson']",59,1985-86,0,47
-2nd,80,Winnipeg Jets,Lost NHL Division Finals,.600,43,NHL,10,['B. Long'],96,1984-85,0,27
-4th,80,Winnipeg Jets,Lost NHL Division Semi-Finals,.456,31,NHL,11,"['T. Watt', 'B. Long']",73,1983-84,0,38
-4th,80,Winnipeg Jets,Lost NHL Division Semi-Finals,.463,33,NHL,8,['T. Watt'],74,1982-83,0,39
-2nd,80,Winnipeg Jets,Lost NHL Division Semi-Finals,.500,33,NHL,14,['T. Watt'],80,1981-82,0,33
-6th,80,Winnipeg Jets,,.200,9,NHL,14,"['T. McVie', 'B. Sutherland', 'M. Smith']",32,1980-81,0,57
-5th,80,Winnipeg Jets,,.319,20,NHL,11,"['T. McVie', 'B. Sutherland']",51,1979-80,0,49
+points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
+0,['R. Tocchet'],2017-18,0,0,0,0,0,,Arizona Coyotes,ARI,,0,NHL
+70,['D. Tippett'],2016-17,30,42,10,.427,82,6th,Arizona Coyotes,ARI,,0,NHL
+78,['D. Tippett'],2015-16,35,39,8,.476,82,4th,Arizona Coyotes,ARI,,0,NHL
+56,['D. Tippett'],2014-15,24,50,8,.341,82,7th,Arizona Coyotes,ARI,,0,NHL
+89,['D. Tippett'],2013-14,37,30,15,.543,82,4th,Phoenix Coyotes,PHX,,0,NHL
+51,['D. Tippett'],2012-13,21,18,9,.531,48,4th,Phoenix Coyotes,PHX,,0,NHL
+97,['D. Tippett'],2011-12,42,27,13,.591,82,1st,Phoenix Coyotes,PHX,Lost NHL Conference Finals,0,NHL
+99,['D. Tippett'],2010-11,43,26,13,.604,82,2nd,Phoenix Coyotes,PHX,Lost NHL Conference Quarter-Finals,0,NHL
+107,['D. Tippett'],2009-10,50,25,7,.652,82,2nd,Phoenix Coyotes,PHX,Lost NHL Conference Quarter-Finals,0,NHL
+79,['W. Gretzky'],2008-09,36,39,7,.482,82,4th,Phoenix Coyotes,PHX,,0,NHL
+83,['W. Gretzky'],2007-08,38,37,7,.506,82,4th,Phoenix Coyotes,PHX,,0,NHL
+67,['W. Gretzky'],2006-07,31,46,5,.409,82,5th,Phoenix Coyotes,PHX,,0,NHL
+81,['W. Gretzky'],2005-06,38,39,5,.494,82,5th,Phoenix Coyotes,PHX,,0,NHL
+68,"['B. Francis', 'R. Bowness']",2003-04,22,36,6,.415,82,5th,Phoenix Coyotes,PHX,,18,NHL
+78,['B. Francis'],2002-03,31,35,5,.476,82,4th,Phoenix Coyotes,PHX,,11,NHL
+95,['B. Francis'],2001-02,40,27,6,.579,82,2nd,Phoenix Coyotes,PHX,Lost NHL Conference Quarter-Finals,9,NHL
+90,['B. Francis'],2000-01,35,27,3,.549,82,4th,Phoenix Coyotes,PHX,,17,NHL
+90,['B. Francis'],1999-00,39,31,4,.549,82,3rd,Phoenix Coyotes,PHX,Lost NHL Conference Quarter-Finals,8,NHL
+90,['J. Schoenfeld'],1998-99,39,31,0,.549,82,2nd,Phoenix Coyotes,PHX,Lost NHL Conference Quarter-Finals,12,NHL
+82,['J. Schoenfeld'],1997-98,35,35,0,.500,82,4th,Phoenix Coyotes,PHX,Lost NHL Conference Quarter-Finals,12,NHL
+83,['D. Hay'],1996-97,38,37,0,.506,82,3rd,Phoenix Coyotes,PHX,Lost NHL Conference Quarter-Finals,7,NHL
+78,['T. Simpson'],1995-96,36,40,0,.476,82,5th,Winnipeg Jets,WIN,Lost NHL Conference Quarter-Finals,6,NHL
+39,"['J. Paddock', 'T. Simpson']",1994-95,16,25,0,.406,48,6th,Winnipeg Jets,WIN,,7,NHL
+57,['J. Paddock'],1993-94,24,51,0,.339,84,6th,Winnipeg Jets,WIN,,9,NHL
+87,['J. Paddock'],1992-93,40,37,0,.518,84,4th,Winnipeg Jets,WIN,Lost NHL Division Semi-Finals,7,NHL
+81,['J. Paddock'],1991-92,33,32,0,.506,80,4th,Winnipeg Jets,WIN,Lost NHL Division Semi-Finals,15,NHL
+63,['B. Murdoch'],1990-91,26,43,0,.394,80,5th,Winnipeg Jets,WIN,,11,NHL
+85,['B. Murdoch'],1989-90,37,32,0,.531,80,3rd,Winnipeg Jets,WIN,Lost NHL Division Semi-Finals,11,NHL
+64,"['D. Maloney', 'R. Bowness']",1988-89,26,42,0,.400,80,5th,Winnipeg Jets,WIN,,12,NHL
+77,['D. Maloney'],1987-88,33,36,0,.481,80,3rd,Winnipeg Jets,WIN,Lost NHL Division Semi-Finals,11,NHL
+88,['D. Maloney'],1986-87,40,32,0,.550,80,3rd,Winnipeg Jets,WIN,Lost NHL Division Finals,8,NHL
+59,"['B. Long', 'J. Ferguson']",1985-86,26,47,0,.369,80,3rd,Winnipeg Jets,WIN,Lost NHL Division Semi-Finals,7,NHL
+96,['B. Long'],1984-85,43,27,0,.600,80,2nd,Winnipeg Jets,WIN,Lost NHL Division Finals,10,NHL
+73,"['T. Watt', 'B. Long']",1983-84,31,38,0,.456,80,4th,Winnipeg Jets,WIN,Lost NHL Division Semi-Finals,11,NHL
+74,['T. Watt'],1982-83,33,39,0,.463,80,4th,Winnipeg Jets,WIN,Lost NHL Division Semi-Finals,8,NHL
+80,['T. Watt'],1981-82,33,33,0,.500,80,2nd,Winnipeg Jets,WIN,Lost NHL Division Semi-Finals,14,NHL
+32,"['T. McVie', 'B. Sutherland', 'M. Smith']",1980-81,9,57,0,.200,80,6th,Winnipeg Jets,WIN,,14,NHL
+51,"['T. McVie', 'B. Sutherland']",1979-80,20,49,0,.319,80,5th,Winnipeg Jets,WIN,,11,NHL

@@ -1,18 +1,18 @@
-finishing_position,games_played,team_name,playoff_result,points_percentage,wins,leage,ties,coaches,points,season,overtime_loses,loses
-,0,Minnesota Wild,,0,0,NHL,0,['B. Boudreau'],0,2017-18,0,0
-2nd,82,Minnesota Wild,Lost NHL First Round,.646,49,NHL,0,['B. Boudreau'],106,2016-17,8,25
-5th,82,Minnesota Wild,Lost NHL First Round,.530,38,NHL,0,"['M. Yeo', 'J. Torchetti']",87,2015-16,11,33
-4th,82,Minnesota Wild,Lost NHL Second Round,.610,46,NHL,0,['M. Yeo'],100,2014-15,8,28
-4th,82,Minnesota Wild,Lost NHL Second Round,.598,43,NHL,0,['M. Yeo'],98,2013-14,12,27
-2nd,48,Minnesota Wild,Lost NHL Conference Quarter-Finals,.573,26,NHL,0,['M. Yeo'],55,2012-13,3,19
-4th,82,Minnesota Wild,,.494,35,NHL,0,['M. Yeo'],81,2011-12,11,36
-3rd,82,Minnesota Wild,,.524,39,NHL,0,['T. Richards'],86,2010-11,8,35
-4th,82,Minnesota Wild,,.512,38,NHL,0,['T. Richards'],84,2009-10,8,36
-3rd,82,Minnesota Wild,,.543,40,NHL,0,['J. Lemaire'],89,2008-09,9,33
-1st,82,Minnesota Wild,Lost NHL Conference Quarter-Finals,.598,44,NHL,0,['J. Lemaire'],98,2007-08,10,28
-2nd,82,Minnesota Wild,Lost NHL Conference Quarter-Finals,.634,48,NHL,0,['J. Lemaire'],104,2006-07,8,26
-5th,82,Minnesota Wild,,.512,38,NHL,0,['J. Lemaire'],84,2005-06,8,36
-5th,82,Minnesota Wild,,.506,30,NHL,20,['J. Lemaire'],83,2003-04,3,29
-3rd,82,Minnesota Wild,Lost NHL Conference Finals,.579,42,NHL,10,['J. Lemaire'],95,2002-03,1,29
-5th,82,Minnesota Wild,,.445,26,NHL,12,['J. Lemaire'],73,2001-02,9,35
-5th,82,Minnesota Wild,,.415,25,NHL,13,['J. Lemaire'],68,2000-01,5,39
+points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
+0,['B. Boudreau'],2017-18,0,0,0,0,0,,Minnesota Wild,MIN,,0,NHL
+106,['B. Boudreau'],2016-17,49,25,8,.646,82,2nd,Minnesota Wild,MIN,Lost NHL First Round,0,NHL
+87,"['M. Yeo', 'J. Torchetti']",2015-16,38,33,11,.530,82,5th,Minnesota Wild,MIN,Lost NHL First Round,0,NHL
+100,['M. Yeo'],2014-15,46,28,8,.610,82,4th,Minnesota Wild,MIN,Lost NHL Second Round,0,NHL
+98,['M. Yeo'],2013-14,43,27,12,.598,82,4th,Minnesota Wild,MIN,Lost NHL Second Round,0,NHL
+55,['M. Yeo'],2012-13,26,19,3,.573,48,2nd,Minnesota Wild,MIN,Lost NHL Conference Quarter-Finals,0,NHL
+81,['M. Yeo'],2011-12,35,36,11,.494,82,4th,Minnesota Wild,MIN,,0,NHL
+86,['T. Richards'],2010-11,39,35,8,.524,82,3rd,Minnesota Wild,MIN,,0,NHL
+84,['T. Richards'],2009-10,38,36,8,.512,82,4th,Minnesota Wild,MIN,,0,NHL
+89,['J. Lemaire'],2008-09,40,33,9,.543,82,3rd,Minnesota Wild,MIN,,0,NHL
+98,['J. Lemaire'],2007-08,44,28,10,.598,82,1st,Minnesota Wild,MIN,Lost NHL Conference Quarter-Finals,0,NHL
+104,['J. Lemaire'],2006-07,48,26,8,.634,82,2nd,Minnesota Wild,MIN,Lost NHL Conference Quarter-Finals,0,NHL
+84,['J. Lemaire'],2005-06,38,36,8,.512,82,5th,Minnesota Wild,MIN,,0,NHL
+83,['J. Lemaire'],2003-04,30,29,3,.506,82,5th,Minnesota Wild,MIN,,20,NHL
+95,['J. Lemaire'],2002-03,42,29,1,.579,82,3rd,Minnesota Wild,MIN,Lost NHL Conference Finals,10,NHL
+73,['J. Lemaire'],2001-02,26,35,9,.445,82,5th,Minnesota Wild,MIN,,12,NHL
+68,['J. Lemaire'],2000-01,25,39,5,.415,82,5th,Minnesota Wild,MIN,,13,NHL

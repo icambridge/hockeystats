@@ -1,39 +1,39 @@
-finishing_position,games_played,team_name,playoff_result,points_percentage,wins,leage,ties,coaches,points,season,overtime_loses,loses
-,0,Colorado Avalanche,,0,0,NHL,0,['J. Bednar'],0,2017-18,0,0
-7th,82,Colorado Avalanche,,.293,22,NHL,0,['J. Bednar'],48,2016-17,4,56
-6th,82,Colorado Avalanche,,.500,39,NHL,0,['P. Roy'],82,2015-16,4,39
-7th,82,Colorado Avalanche,,.549,39,NHL,0,['P. Roy'],90,2014-15,12,31
-1st,82,Colorado Avalanche,Lost NHL First Round,.683,52,NHL,0,['P. Roy'],112,2013-14,8,22
-5th,48,Colorado Avalanche,,.406,16,NHL,0,['J. Sacco'],39,2012-13,7,25
-3rd,82,Colorado Avalanche,,.537,41,NHL,0,['J. Sacco'],88,2011-12,6,35
-4th,82,Colorado Avalanche,,.415,30,NHL,0,['J. Sacco'],68,2010-11,8,44
-2nd,82,Colorado Avalanche,Lost NHL Conference Quarter-Finals,.579,43,NHL,0,['J. Sacco'],95,2009-10,9,30
-5th,82,Colorado Avalanche,,.421,32,NHL,0,['T. Granato'],69,2008-09,5,45
-2nd,82,Colorado Avalanche,Lost NHL Conference Semi-Finals,.579,44,NHL,0,['J. Quenneville'],95,2007-08,7,31
-4th,82,Colorado Avalanche,,.579,44,NHL,0,['J. Quenneville'],95,2006-07,7,31
-2nd,82,Colorado Avalanche,Lost NHL Conference Semi-Finals,.579,43,NHL,0,['J. Quenneville'],95,2005-06,9,30
-2nd,82,Colorado Avalanche,Lost NHL Conference Semi-Finals,.610,40,NHL,13,['T. Granato'],100,2003-04,7,22
-1st,82,Colorado Avalanche,Lost NHL Conference Quarter-Finals,.640,42,NHL,13,"['B. Hartley', 'T. Granato']",105,2002-03,8,19
-1st,82,Colorado Avalanche,Lost NHL Conference Finals,.604,45,NHL,8,['B. Hartley'],99,2001-02,1,28
-1st,82,Colorado Avalanche,,.720,52,NHL,10,['B. Hartley'],118,2000-01,4,16
-1st,82,Colorado Avalanche,Lost NHL Conference Finals,.585,42,NHL,11,['B. Hartley'],96,1999-00,1,28
-1st,82,Colorado Avalanche,Lost NHL Conference Finals,.598,44,NHL,10,['B. Hartley'],98,1998-99,0,28
-1st,82,Colorado Avalanche,Lost NHL Conference Quarter-Finals,.579,39,NHL,17,['M. Crawford'],95,1997-98,0,26
-1st,82,Colorado Avalanche,Lost NHL Conference Finals,.652,49,NHL,9,['M. Crawford'],107,1996-97,0,24
-1st,82,Colorado Avalanche,,.634,47,NHL,10,['M. Crawford'],104,1995-96,0,25
-1st,48,Quebec Nordiques,Lost NHL Conference Quarter-Finals,.677,30,NHL,5,['M. Crawford'],65,1994-95,0,13
-5th,84,Quebec Nordiques,,.452,34,NHL,8,['P. Page'],76,1993-94,0,42
-2nd,84,Quebec Nordiques,Lost NHL Division Semi-Finals,.619,47,NHL,10,['P. Page'],104,1992-93,0,27
-5th,80,Quebec Nordiques,,.325,20,NHL,12,"['D. Chambers', 'P. Page']",52,1991-92,0,48
-5th,80,Quebec Nordiques,,.288,16,NHL,14,['D. Chambers'],46,1990-91,0,50
-5th,80,Quebec Nordiques,,.194,12,NHL,7,['M. Bergeron'],31,1989-90,0,61
-5th,80,Quebec Nordiques,,.381,27,NHL,7,"['R. Lapointe', 'J. Perron']",61,1988-89,0,46
-5th,80,Quebec Nordiques,,.431,32,NHL,5,"['A. Savard', 'R. Lapointe']",69,1987-88,0,43
-4th,80,Quebec Nordiques,Lost NHL Division Finals,.450,31,NHL,10,['M. Bergeron'],72,1986-87,0,39
-1st,80,Quebec Nordiques,Lost NHL Division Semi-Finals,.575,43,NHL,6,['M. Bergeron'],92,1985-86,0,31
-2nd,80,Quebec Nordiques,Lost NHL Conference Finals,.569,41,NHL,9,['M. Bergeron'],91,1984-85,0,30
-3rd,80,Quebec Nordiques,Lost NHL Division Finals,.588,42,NHL,10,['M. Bergeron'],94,1983-84,0,28
-4th,80,Quebec Nordiques,Lost NHL Division Semi-Finals,.500,34,NHL,12,['M. Bergeron'],80,1982-83,0,34
-4th,80,Quebec Nordiques,Lost NHL Conference Finals,.513,33,NHL,16,['M. Bergeron'],82,1981-82,0,31
-4th,80,Quebec Nordiques,Lost NHL Preliminary Round,.488,30,NHL,18,"['M. Bergeron', 'M. Filion']",78,1980-81,0,32
-5th,80,Quebec Nordiques,,.381,25,NHL,11,['J. Demers'],61,1979-80,0,44
+points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
+0,['J. Bednar'],2017-18,0,0,0,0,0,,Colorado Avalanche,COL,,0,NHL
+48,['J. Bednar'],2016-17,22,56,4,.293,82,7th,Colorado Avalanche,COL,,0,NHL
+82,['P. Roy'],2015-16,39,39,4,.500,82,6th,Colorado Avalanche,COL,,0,NHL
+90,['P. Roy'],2014-15,39,31,12,.549,82,7th,Colorado Avalanche,COL,,0,NHL
+112,['P. Roy'],2013-14,52,22,8,.683,82,1st,Colorado Avalanche,COL,Lost NHL First Round,0,NHL
+39,['J. Sacco'],2012-13,16,25,7,.406,48,5th,Colorado Avalanche,COL,,0,NHL
+88,['J. Sacco'],2011-12,41,35,6,.537,82,3rd,Colorado Avalanche,COL,,0,NHL
+68,['J. Sacco'],2010-11,30,44,8,.415,82,4th,Colorado Avalanche,COL,,0,NHL
+95,['J. Sacco'],2009-10,43,30,9,.579,82,2nd,Colorado Avalanche,COL,Lost NHL Conference Quarter-Finals,0,NHL
+69,['T. Granato'],2008-09,32,45,5,.421,82,5th,Colorado Avalanche,COL,,0,NHL
+95,['J. Quenneville'],2007-08,44,31,7,.579,82,2nd,Colorado Avalanche,COL,Lost NHL Conference Semi-Finals,0,NHL
+95,['J. Quenneville'],2006-07,44,31,7,.579,82,4th,Colorado Avalanche,COL,,0,NHL
+95,['J. Quenneville'],2005-06,43,30,9,.579,82,2nd,Colorado Avalanche,COL,Lost NHL Conference Semi-Finals,0,NHL
+100,['T. Granato'],2003-04,40,22,7,.610,82,2nd,Colorado Avalanche,COL,Lost NHL Conference Semi-Finals,13,NHL
+105,"['B. Hartley', 'T. Granato']",2002-03,42,19,8,.640,82,1st,Colorado Avalanche,COL,Lost NHL Conference Quarter-Finals,13,NHL
+99,['B. Hartley'],2001-02,45,28,1,.604,82,1st,Colorado Avalanche,COL,Lost NHL Conference Finals,8,NHL
+118,['B. Hartley'],2000-01,52,16,4,.720,82,1st,Colorado Avalanche,COL,,10,NHL
+96,['B. Hartley'],1999-00,42,28,1,.585,82,1st,Colorado Avalanche,COL,Lost NHL Conference Finals,11,NHL
+98,['B. Hartley'],1998-99,44,28,0,.598,82,1st,Colorado Avalanche,COL,Lost NHL Conference Finals,10,NHL
+95,['M. Crawford'],1997-98,39,26,0,.579,82,1st,Colorado Avalanche,COL,Lost NHL Conference Quarter-Finals,17,NHL
+107,['M. Crawford'],1996-97,49,24,0,.652,82,1st,Colorado Avalanche,COL,Lost NHL Conference Finals,9,NHL
+104,['M. Crawford'],1995-96,47,25,0,.634,82,1st,Colorado Avalanche,COL,,10,NHL
+65,['M. Crawford'],1994-95,30,13,0,.677,48,1st,Quebec Nordiques,QUE,Lost NHL Conference Quarter-Finals,5,NHL
+76,['P. Page'],1993-94,34,42,0,.452,84,5th,Quebec Nordiques,QUE,,8,NHL
+104,['P. Page'],1992-93,47,27,0,.619,84,2nd,Quebec Nordiques,QUE,Lost NHL Division Semi-Finals,10,NHL
+52,"['D. Chambers', 'P. Page']",1991-92,20,48,0,.325,80,5th,Quebec Nordiques,QUE,,12,NHL
+46,['D. Chambers'],1990-91,16,50,0,.288,80,5th,Quebec Nordiques,QUE,,14,NHL
+31,['M. Bergeron'],1989-90,12,61,0,.194,80,5th,Quebec Nordiques,QUE,,7,NHL
+61,"['R. Lapointe', 'J. Perron']",1988-89,27,46,0,.381,80,5th,Quebec Nordiques,QUE,,7,NHL
+69,"['A. Savard', 'R. Lapointe']",1987-88,32,43,0,.431,80,5th,Quebec Nordiques,QUE,,5,NHL
+72,['M. Bergeron'],1986-87,31,39,0,.450,80,4th,Quebec Nordiques,QUE,Lost NHL Division Finals,10,NHL
+92,['M. Bergeron'],1985-86,43,31,0,.575,80,1st,Quebec Nordiques,QUE,Lost NHL Division Semi-Finals,6,NHL
+91,['M. Bergeron'],1984-85,41,30,0,.569,80,2nd,Quebec Nordiques,QUE,Lost NHL Conference Finals,9,NHL
+94,['M. Bergeron'],1983-84,42,28,0,.588,80,3rd,Quebec Nordiques,QUE,Lost NHL Division Finals,10,NHL
+80,['M. Bergeron'],1982-83,34,34,0,.500,80,4th,Quebec Nordiques,QUE,Lost NHL Division Semi-Finals,12,NHL
+82,['M. Bergeron'],1981-82,33,31,0,.513,80,4th,Quebec Nordiques,QUE,Lost NHL Conference Finals,16,NHL
+78,"['M. Bergeron', 'M. Filion']",1980-81,30,32,0,.488,80,4th,Quebec Nordiques,QUE,Lost NHL Preliminary Round,18,NHL
+61,['J. Demers'],1979-80,25,44,0,.381,80,5th,Quebec Nordiques,QUE,,11,NHL

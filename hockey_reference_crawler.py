@@ -20,7 +20,8 @@ import csv
 import os
 
 teams = {
-            "ANA" : {"start": 1994},
+            "ANA" : {"start": 2007},
+            "MDA" : {"start": 1994, "end": 2006},
             "WIN" : {"start": 1980, "end": 1996},
             "PHX" : {"start": 1997, "end": 2014},
             "ARI" : {"start": 2016},

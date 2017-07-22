@@ -1,27 +1,27 @@
-finishing_position,games_played,team_name,playoff_result,points_percentage,wins,leage,ties,coaches,points,season,overtime_loses,loses
-,0,San Jose Sharks,,0,0,NHL,0,['P. DeBoer'],0,2017-18,0,0
-3rd,82,San Jose Sharks,Lost NHL First Round,.604,46,NHL,0,['P. DeBoer'],99,2016-17,7,29
-3rd,82,San Jose Sharks,Lost Stanley Cup Final,.598,46,NHL,0,['P. DeBoer'],98,2015-16,6,30
-5th,82,San Jose Sharks,,.543,40,NHL,0,['T. McLellan'],89,2014-15,9,33
-2nd,82,San Jose Sharks,Lost NHL First Round,.677,51,NHL,0,['T. McLellan'],111,2013-14,9,22
-3rd,48,San Jose Sharks,Lost NHL Conference Semi-Finals,.594,25,NHL,0,['T. McLellan'],57,2012-13,7,16
-2nd,82,San Jose Sharks,Lost NHL Conference Quarter-Finals,.585,43,NHL,0,['T. McLellan'],96,2011-12,10,29
-1st,82,San Jose Sharks,Lost NHL Conference Finals,.640,48,NHL,0,['T. McLellan'],105,2010-11,9,25
-1st,82,San Jose Sharks,Lost NHL Conference Finals,.689,51,NHL,0,['T. McLellan'],113,2009-10,11,20
-1st,82,San Jose Sharks,Lost NHL Conference Quarter-Finals,.713,53,NHL,0,['T. McLellan'],117,2008-09,11,18
-1st,82,San Jose Sharks,Lost NHL Conference Semi-Finals,.659,49,NHL,0,['R. Wilson'],108,2007-08,10,23
-2nd,82,San Jose Sharks,Lost NHL Conference Semi-Finals,.652,51,NHL,0,['R. Wilson'],107,2006-07,5,26
-2nd,82,San Jose Sharks,Lost NHL Conference Semi-Finals,.604,44,NHL,0,['R. Wilson'],99,2005-06,11,27
-1st,82,San Jose Sharks,Lost NHL Conference Finals,.634,43,NHL,12,['R. Wilson'],104,2003-04,6,21
-5th,82,San Jose Sharks,,.445,28,NHL,9,"['D. Sutter', 'C. Raeder', 'R. Wilson']",73,2002-03,8,37
-1st,82,San Jose Sharks,Lost NHL Conference Semi-Finals,.604,44,NHL,8,['D. Sutter'],99,2001-02,3,27
-2nd,82,San Jose Sharks,Lost NHL Conference Quarter-Finals,.579,40,NHL,12,['D. Sutter'],95,2000-01,3,27
-4th,82,San Jose Sharks,Lost NHL Conference Semi-Finals,.530,35,NHL,10,['D. Sutter'],87,1999-00,7,30
-4th,82,San Jose Sharks,Lost NHL Conference Quarter-Finals,.488,31,NHL,18,['D. Sutter'],80,1998-99,0,33
-4th,82,San Jose Sharks,Lost NHL Conference Quarter-Finals,.476,34,NHL,10,['D. Sutter'],78,1997-98,0,38
-7th,82,San Jose Sharks,,.378,27,NHL,8,['A. Sims'],62,1996-97,0,47
-7th,82,San Jose Sharks,,.287,20,NHL,7,"['K. Constantine', 'J. Wiley']",47,1995-96,0,55
-3rd,48,San Jose Sharks,Lost NHL Conference Semi-Finals,.438,19,NHL,4,['K. Constantine'],42,1994-95,0,25
-3rd,84,San Jose Sharks,Lost NHL Conference Semi-Finals,.488,33,NHL,16,['K. Constantine'],82,1993-94,0,35
-6th,84,San Jose Sharks,,.143,11,NHL,2,['G. Kingston'],24,1992-93,0,71
-6th,80,San Jose Sharks,,.244,17,NHL,5,['G. Kingston'],39,1991-92,0,58
+points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
+0,['P. DeBoer'],2017-18,0,0,0,0,0,,San Jose Sharks,SJS,,0,NHL
+99,['P. DeBoer'],2016-17,46,29,7,.604,82,3rd,San Jose Sharks,SJS,Lost NHL First Round,0,NHL
+98,['P. DeBoer'],2015-16,46,30,6,.598,82,3rd,San Jose Sharks,SJS,Lost Stanley Cup Final,0,NHL
+89,['T. McLellan'],2014-15,40,33,9,.543,82,5th,San Jose Sharks,SJS,,0,NHL
+111,['T. McLellan'],2013-14,51,22,9,.677,82,2nd,San Jose Sharks,SJS,Lost NHL First Round,0,NHL
+57,['T. McLellan'],2012-13,25,16,7,.594,48,3rd,San Jose Sharks,SJS,Lost NHL Conference Semi-Finals,0,NHL
+96,['T. McLellan'],2011-12,43,29,10,.585,82,2nd,San Jose Sharks,SJS,Lost NHL Conference Quarter-Finals,0,NHL
+105,['T. McLellan'],2010-11,48,25,9,.640,82,1st,San Jose Sharks,SJS,Lost NHL Conference Finals,0,NHL
+113,['T. McLellan'],2009-10,51,20,11,.689,82,1st,San Jose Sharks,SJS,Lost NHL Conference Finals,0,NHL
+117,['T. McLellan'],2008-09,53,18,11,.713,82,1st,San Jose Sharks,SJS,Lost NHL Conference Quarter-Finals,0,NHL
+108,['R. Wilson'],2007-08,49,23,10,.659,82,1st,San Jose Sharks,SJS,Lost NHL Conference Semi-Finals,0,NHL
+107,['R. Wilson'],2006-07,51,26,5,.652,82,2nd,San Jose Sharks,SJS,Lost NHL Conference Semi-Finals,0,NHL
+99,['R. Wilson'],2005-06,44,27,11,.604,82,2nd,San Jose Sharks,SJS,Lost NHL Conference Semi-Finals,0,NHL
+104,['R. Wilson'],2003-04,43,21,6,.634,82,1st,San Jose Sharks,SJS,Lost NHL Conference Finals,12,NHL
+73,"['D. Sutter', 'C. Raeder', 'R. Wilson']",2002-03,28,37,8,.445,82,5th,San Jose Sharks,SJS,,9,NHL
+99,['D. Sutter'],2001-02,44,27,3,.604,82,1st,San Jose Sharks,SJS,Lost NHL Conference Semi-Finals,8,NHL
+95,['D. Sutter'],2000-01,40,27,3,.579,82,2nd,San Jose Sharks,SJS,Lost NHL Conference Quarter-Finals,12,NHL
+87,['D. Sutter'],1999-00,35,30,7,.530,82,4th,San Jose Sharks,SJS,Lost NHL Conference Semi-Finals,10,NHL
+80,['D. Sutter'],1998-99,31,33,0,.488,82,4th,San Jose Sharks,SJS,Lost NHL Conference Quarter-Finals,18,NHL
+78,['D. Sutter'],1997-98,34,38,0,.476,82,4th,San Jose Sharks,SJS,Lost NHL Conference Quarter-Finals,10,NHL
+62,['A. Sims'],1996-97,27,47,0,.378,82,7th,San Jose Sharks,SJS,,8,NHL
+47,"['K. Constantine', 'J. Wiley']",1995-96,20,55,0,.287,82,7th,San Jose Sharks,SJS,,7,NHL
+42,['K. Constantine'],1994-95,19,25,0,.438,48,3rd,San Jose Sharks,SJS,Lost NHL Conference Semi-Finals,4,NHL
+82,['K. Constantine'],1993-94,33,35,0,.488,84,3rd,San Jose Sharks,SJS,Lost NHL Conference Semi-Finals,16,NHL
+24,['G. Kingston'],1992-93,11,71,0,.143,84,6th,San Jose Sharks,SJS,,2,NHL
+39,['G. Kingston'],1991-92,17,58,0,.244,80,6th,San Jose Sharks,SJS,,5,NHL

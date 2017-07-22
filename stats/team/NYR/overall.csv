@@ -1,92 +1,92 @@
-finishing_position,games_played,team_name,playoff_result,points_percentage,wins,leage,ties,coaches,points,season,overtime_loses,loses
-,0,New York Rangers,,0,0,NHL,0,['A. Vigneault'],0,2017-18,0,0
-4th,82,New York Rangers,Lost NHL Second Round,.622,48,NHL,0,['A. Vigneault'],102,2016-17,6,28
-3rd,82,New York Rangers,Lost NHL First Round,.616,46,NHL,0,['A. Vigneault'],101,2015-16,9,27
-1st,82,New York Rangers,Lost NHL Conference Finals,.689,53,NHL,0,['A. Vigneault'],113,2014-15,7,22
-2nd,82,New York Rangers,Lost Stanley Cup Final,.585,45,NHL,0,['A. Vigneault'],96,2013-14,6,31
-2nd,48,New York Rangers,Lost NHL Conference Semi-Finals,.583,26,NHL,0,['J. Tortorella'],56,2012-13,4,18
-1st,82,New York Rangers,Lost NHL Conference Finals,.665,51,NHL,0,['J. Tortorella'],109,2011-12,7,24
-3rd,82,New York Rangers,Lost NHL Conference Quarter-Finals,.567,44,NHL,0,['J. Tortorella'],93,2010-11,5,33
-4th,82,New York Rangers,,.530,38,NHL,0,['J. Tortorella'],87,2009-10,11,33
-4th,82,New York Rangers,Lost NHL Conference Quarter-Finals,.579,43,NHL,0,"['T. Renney', 'J. Tortorella']",95,2008-09,9,30
-3rd,82,New York Rangers,Lost NHL Conference Semi-Finals,.591,42,NHL,0,['T. Renney'],97,2007-08,13,27
-3rd,82,New York Rangers,Lost NHL Conference Semi-Finals,.573,42,NHL,0,['T. Renney'],94,2006-07,10,30
-3rd,82,New York Rangers,Lost NHL Conference Quarter-Finals,.610,44,NHL,0,['T. Renney'],100,2005-06,12,26
-4th,82,New York Rangers,,.421,27,NHL,7,"['G. Sather', 'T. Renney']",69,2003-04,8,40
-4th,82,New York Rangers,,.476,32,NHL,10,"['B. Trottier', 'G. Sather']",78,2002-03,4,36
-4th,82,New York Rangers,,.488,36,NHL,4,['R. Low'],80,2001-02,4,38
-4th,82,New York Rangers,,.439,33,NHL,5,['R. Low'],72,2000-01,1,43
-4th,82,New York Rangers,,.445,29,NHL,12,"['J. Muckler', 'J. Tortorella']",73,1999-00,3,38
-4th,82,New York Rangers,,.470,33,NHL,11,['J. Muckler'],77,1998-99,0,38
-5th,82,New York Rangers,,.415,25,NHL,18,"['C. Campbell', 'J. Muckler']",68,1997-98,0,39
-4th,82,New York Rangers,Lost NHL Conference Finals,.524,38,NHL,10,['C. Campbell'],86,1996-97,0,34
-2nd,82,New York Rangers,Lost NHL Conference Semi-Finals,.585,41,NHL,14,['C. Campbell'],96,1995-96,0,27
-4th,48,New York Rangers,Lost NHL Conference Semi-Finals,.490,22,NHL,3,['C. Campbell'],47,1994-95,0,23
-1st,84,New York Rangers,,.667,52,NHL,8,['M. Keenan'],112,1993-94,0,24
-6th,84,New York Rangers,,.470,34,NHL,11,"['R. Neilson', 'R. Smith']",79,1992-93,0,39
-1st,80,New York Rangers,Lost NHL Division Finals,.656,50,NHL,5,['R. Neilson'],105,1991-92,0,25
-2nd,80,New York Rangers,Lost NHL Division Semi-Finals,.531,36,NHL,13,['R. Neilson'],85,1990-91,0,31
-1st,80,New York Rangers,Lost NHL Division Finals,.531,36,NHL,13,['R. Neilson'],85,1989-90,0,31
-3rd,80,New York Rangers,Lost NHL Division Semi-Finals,.513,37,NHL,8,"['M. Bergeron', 'P. Esposito']",82,1988-89,0,35
-5th,80,New York Rangers,,.513,36,NHL,10,['M. Bergeron'],82,1987-88,0,34
-4th,80,New York Rangers,Lost NHL Division Semi-Finals,.475,34,NHL,8,"['T. Sator', 'T. Webster', 'P. Esposito']",76,1986-87,0,38
-4th,80,New York Rangers,Lost NHL Conference Finals,.488,36,NHL,6,['T. Sator'],78,1985-86,0,38
-4th,80,New York Rangers,Lost NHL Division Semi-Finals,.388,26,NHL,10,"['H. Brooks', 'C. Patrick']",62,1984-85,0,44
-4th,80,New York Rangers,Lost NHL Division Semi-Finals,.581,42,NHL,9,['H. Brooks'],93,1983-84,0,29
-4th,80,New York Rangers,Lost NHL Division Finals,.500,35,NHL,10,['H. Brooks'],80,1982-83,0,35
-2nd,80,New York Rangers,Lost NHL Division Finals,.575,39,NHL,14,['H. Brooks'],92,1981-82,0,27
-4th,80,New York Rangers,Lost NHL Semi-Finals,.463,30,NHL,14,"['F. Shero', 'C. Patrick']",74,1980-81,0,36
-3rd,80,New York Rangers,Lost NHL Quarter-Finals,.538,38,NHL,10,['F. Shero'],86,1979-80,0,32
-3rd,80,New York Rangers,Lost Stanley Cup Final,.569,40,NHL,11,['F. Shero'],91,1978-79,0,29
-4th,80,New York Rangers,Lost NHL Preliminary Round,.456,30,NHL,13,['J. Talbot'],73,1977-78,0,37
-4th,80,New York Rangers,,.450,29,NHL,14,['J. Ferguson'],72,1976-77,0,37
-4th,80,New York Rangers,,.419,29,NHL,9,"['R. Stewart', 'J. Ferguson']",67,1975-76,0,42
-2nd,80,New York Rangers,Lost NHL Preliminary Round,.550,37,NHL,14,['E. Francis'],88,1974-75,0,29
-3rd,78,New York Rangers,Lost NHL Semi-Finals,.603,40,NHL,14,"['L. Popein', 'E. Francis']",94,1973-74,0,24
-3rd,78,New York Rangers,Lost NHL Semi-Finals,.654,47,NHL,8,['E. Francis'],102,1972-73,0,23
-2nd,78,New York Rangers,Lost Stanley Cup Final,.699,48,NHL,13,['E. Francis'],109,1971-72,0,17
-2nd,78,New York Rangers,Lost NHL Semi-Finals,.699,49,NHL,11,['E. Francis'],109,1970-71,0,18
-4th,76,New York Rangers,Lost NHL Quarter-Finals,.605,38,NHL,16,['E. Francis'],92,1969-70,0,22
-3rd,76,New York Rangers,Lost NHL Quarter-Finals,.599,41,NHL,9,"['B. Geoffrion', 'E. Francis']",91,1968-69,0,26
-2nd,74,New York Rangers,Lost NHL Quarter-Finals,.608,39,NHL,12,['E. Francis'],90,1967-68,0,23
-4th,70,New York Rangers,Lost NHL Semi-Finals,.514,30,NHL,12,['E. Francis'],72,1966-67,0,28
-6th,70,New York Rangers,,.336,18,NHL,11,"['R. Sullivan', 'E. Francis']",47,1965-66,0,41
-5th,70,New York Rangers,,.371,20,NHL,12,['R. Sullivan'],52,1964-65,0,38
-5th,70,New York Rangers,,.386,22,NHL,10,['R. Sullivan'],54,1963-64,0,38
-5th,70,New York Rangers,,.400,22,NHL,12,"['M. Patrick', 'R. Sullivan']",56,1962-63,0,36
-4th,70,New York Rangers,Lost NHL Semi-Finals,.457,26,NHL,12,['D. Harvey'],64,1961-62,0,32
-5th,70,New York Rangers,,.386,22,NHL,10,['A. Pike'],54,1960-61,0,38
-6th,70,New York Rangers,,.350,17,NHL,15,"['P. Watson', 'M. Patrick', 'A. Pike']",49,1959-60,0,38
-5th,70,New York Rangers,,.457,26,NHL,12,['P. Watson'],64,1958-59,0,32
-2nd,70,New York Rangers,Lost NHL Semi-Finals,.550,32,NHL,13,['P. Watson'],77,1957-58,0,25
-4th,70,New York Rangers,Lost NHL Semi-Finals,.471,26,NHL,14,['P. Watson'],66,1956-57,0,30
-3rd,70,New York Rangers,Lost NHL Semi-Finals,.529,32,NHL,10,['P. Watson'],74,1955-56,0,28
-5th,70,New York Rangers,,.371,17,NHL,18,['M. Patrick'],52,1954-55,0,35
-5th,70,New York Rangers,,.486,29,NHL,10,"['F. Boucher', 'M. Patrick']",68,1953-54,0,31
-6th,70,New York Rangers,,.357,17,NHL,16,['B. Cook'],50,1952-53,0,37
-5th,70,New York Rangers,,.421,23,NHL,13,"['N. Colville', 'B. Cook']",59,1951-52,0,34
-5th,70,New York Rangers,,.436,20,NHL,21,['N. Colville'],61,1950-51,0,29
-4th,70,New York Rangers,Lost Stanley Cup Final,.479,28,NHL,11,['L. Patrick'],67,1949-50,0,31
-6th,60,New York Rangers,,.392,18,NHL,11,"['F. Boucher', 'L. Patrick']",47,1948-49,0,31
-4th,60,New York Rangers,Lost NHL Semi-Finals,.458,21,NHL,13,['F. Boucher'],55,1947-48,0,26
-5th,60,New York Rangers,,.417,22,NHL,6,['F. Boucher'],50,1946-47,0,32
-6th,50,New York Rangers,,.350,13,NHL,9,['F. Boucher'],35,1945-46,0,28
-6th,50,New York Rangers,,.320,11,NHL,10,['F. Boucher'],32,1944-45,0,29
-6th,50,New York Rangers,,.170,6,NHL,5,['F. Boucher'],17,1943-44,0,39
-6th,50,New York Rangers,,.300,11,NHL,8,['F. Boucher'],30,1942-43,0,31
-1st,48,New York Rangers,Lost NHL Semi-Finals,.625,29,NHL,2,['F. Boucher'],60,1941-42,0,17
-4th,48,New York Rangers,Lost NHL Quarter-Finals,.521,21,NHL,8,['F. Boucher'],50,1940-41,0,19
-2nd,48,New York Rangers,,.667,27,NHL,10,['F. Boucher'],64,1939-40,0,11
-2nd,48,New York Rangers,Lost NHL Semi-Finals,.604,26,NHL,6,['L. Patrick'],58,1938-39,0,16
-2nd,48,New York Rangers,Lost NHL Quarter-Finals,.625,27,NHL,6,['L. Patrick'],60,1937-38,0,15
-3rd,48,New York Rangers,Lost Stanley Cup Final,.490,19,NHL,9,['L. Patrick'],47,1936-37,0,20
-4th,48,New York Rangers,,.521,19,NHL,12,['L. Patrick'],50,1935-36,0,17
-3rd,48,New York Rangers,Lost NHL Semi-Finals,.521,22,NHL,6,['L. Patrick'],50,1934-35,0,20
-3rd,48,New York Rangers,Lost NHL Quarter-Finals,.521,21,NHL,8,['L. Patrick'],50,1933-34,0,19
-3rd,48,New York Rangers,,.563,23,NHL,8,['L. Patrick'],54,1932-33,0,17
-1st,48,New York Rangers,Lost Stanley Cup Final,.563,23,NHL,8,['L. Patrick'],54,1931-32,0,17
-3rd,44,New York Rangers,Lost NHL Semi-Finals,.534,19,NHL,9,['L. Patrick'],47,1930-31,0,16
-3rd,44,New York Rangers,Lost NHL Semi-Finals,.500,17,NHL,10,['L. Patrick'],44,1929-30,0,17
-2nd,44,New York Rangers,Lost Stanley Cup Final,.591,21,NHL,10,['L. Patrick'],52,1928-29,0,13
-2nd,44,New York Rangers,,.534,19,NHL,9,['L. Patrick'],47,1927-28,0,16
-1st,44,New York Rangers,Lost NHL Semi-Finals,.636,25,NHL,6,['L. Patrick'],56,1926-27,0,13
+points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
+0,['A. Vigneault'],2017-18,0,0,0,0,0,,New York Rangers,NYR,,0,NHL
+102,['A. Vigneault'],2016-17,48,28,6,.622,82,4th,New York Rangers,NYR,Lost NHL Second Round,0,NHL
+101,['A. Vigneault'],2015-16,46,27,9,.616,82,3rd,New York Rangers,NYR,Lost NHL First Round,0,NHL
+113,['A. Vigneault'],2014-15,53,22,7,.689,82,1st,New York Rangers,NYR,Lost NHL Conference Finals,0,NHL
+96,['A. Vigneault'],2013-14,45,31,6,.585,82,2nd,New York Rangers,NYR,Lost Stanley Cup Final,0,NHL
+56,['J. Tortorella'],2012-13,26,18,4,.583,48,2nd,New York Rangers,NYR,Lost NHL Conference Semi-Finals,0,NHL
+109,['J. Tortorella'],2011-12,51,24,7,.665,82,1st,New York Rangers,NYR,Lost NHL Conference Finals,0,NHL
+93,['J. Tortorella'],2010-11,44,33,5,.567,82,3rd,New York Rangers,NYR,Lost NHL Conference Quarter-Finals,0,NHL
+87,['J. Tortorella'],2009-10,38,33,11,.530,82,4th,New York Rangers,NYR,,0,NHL
+95,"['T. Renney', 'J. Tortorella']",2008-09,43,30,9,.579,82,4th,New York Rangers,NYR,Lost NHL Conference Quarter-Finals,0,NHL
+97,['T. Renney'],2007-08,42,27,13,.591,82,3rd,New York Rangers,NYR,Lost NHL Conference Semi-Finals,0,NHL
+94,['T. Renney'],2006-07,42,30,10,.573,82,3rd,New York Rangers,NYR,Lost NHL Conference Semi-Finals,0,NHL
+100,['T. Renney'],2005-06,44,26,12,.610,82,3rd,New York Rangers,NYR,Lost NHL Conference Quarter-Finals,0,NHL
+69,"['G. Sather', 'T. Renney']",2003-04,27,40,8,.421,82,4th,New York Rangers,NYR,,7,NHL
+78,"['B. Trottier', 'G. Sather']",2002-03,32,36,4,.476,82,4th,New York Rangers,NYR,,10,NHL
+80,['R. Low'],2001-02,36,38,4,.488,82,4th,New York Rangers,NYR,,4,NHL
+72,['R. Low'],2000-01,33,43,1,.439,82,4th,New York Rangers,NYR,,5,NHL
+73,"['J. Muckler', 'J. Tortorella']",1999-00,29,38,3,.445,82,4th,New York Rangers,NYR,,12,NHL
+77,['J. Muckler'],1998-99,33,38,0,.470,82,4th,New York Rangers,NYR,,11,NHL
+68,"['C. Campbell', 'J. Muckler']",1997-98,25,39,0,.415,82,5th,New York Rangers,NYR,,18,NHL
+86,['C. Campbell'],1996-97,38,34,0,.524,82,4th,New York Rangers,NYR,Lost NHL Conference Finals,10,NHL
+96,['C. Campbell'],1995-96,41,27,0,.585,82,2nd,New York Rangers,NYR,Lost NHL Conference Semi-Finals,14,NHL
+47,['C. Campbell'],1994-95,22,23,0,.490,48,4th,New York Rangers,NYR,Lost NHL Conference Semi-Finals,3,NHL
+112,['M. Keenan'],1993-94,52,24,0,.667,84,1st,New York Rangers,NYR,,8,NHL
+79,"['R. Neilson', 'R. Smith']",1992-93,34,39,0,.470,84,6th,New York Rangers,NYR,,11,NHL
+105,['R. Neilson'],1991-92,50,25,0,.656,80,1st,New York Rangers,NYR,Lost NHL Division Finals,5,NHL
+85,['R. Neilson'],1990-91,36,31,0,.531,80,2nd,New York Rangers,NYR,Lost NHL Division Semi-Finals,13,NHL
+85,['R. Neilson'],1989-90,36,31,0,.531,80,1st,New York Rangers,NYR,Lost NHL Division Finals,13,NHL
+82,"['M. Bergeron', 'P. Esposito']",1988-89,37,35,0,.513,80,3rd,New York Rangers,NYR,Lost NHL Division Semi-Finals,8,NHL
+82,['M. Bergeron'],1987-88,36,34,0,.513,80,5th,New York Rangers,NYR,,10,NHL
+76,"['T. Sator', 'T. Webster', 'P. Esposito']",1986-87,34,38,0,.475,80,4th,New York Rangers,NYR,Lost NHL Division Semi-Finals,8,NHL
+78,['T. Sator'],1985-86,36,38,0,.488,80,4th,New York Rangers,NYR,Lost NHL Conference Finals,6,NHL
+62,"['H. Brooks', 'C. Patrick']",1984-85,26,44,0,.388,80,4th,New York Rangers,NYR,Lost NHL Division Semi-Finals,10,NHL
+93,['H. Brooks'],1983-84,42,29,0,.581,80,4th,New York Rangers,NYR,Lost NHL Division Semi-Finals,9,NHL
+80,['H. Brooks'],1982-83,35,35,0,.500,80,4th,New York Rangers,NYR,Lost NHL Division Finals,10,NHL
+92,['H. Brooks'],1981-82,39,27,0,.575,80,2nd,New York Rangers,NYR,Lost NHL Division Finals,14,NHL
+74,"['F. Shero', 'C. Patrick']",1980-81,30,36,0,.463,80,4th,New York Rangers,NYR,Lost NHL Semi-Finals,14,NHL
+86,['F. Shero'],1979-80,38,32,0,.538,80,3rd,New York Rangers,NYR,Lost NHL Quarter-Finals,10,NHL
+91,['F. Shero'],1978-79,40,29,0,.569,80,3rd,New York Rangers,NYR,Lost Stanley Cup Final,11,NHL
+73,['J. Talbot'],1977-78,30,37,0,.456,80,4th,New York Rangers,NYR,Lost NHL Preliminary Round,13,NHL
+72,['J. Ferguson'],1976-77,29,37,0,.450,80,4th,New York Rangers,NYR,,14,NHL
+67,"['R. Stewart', 'J. Ferguson']",1975-76,29,42,0,.419,80,4th,New York Rangers,NYR,,9,NHL
+88,['E. Francis'],1974-75,37,29,0,.550,80,2nd,New York Rangers,NYR,Lost NHL Preliminary Round,14,NHL
+94,"['L. Popein', 'E. Francis']",1973-74,40,24,0,.603,78,3rd,New York Rangers,NYR,Lost NHL Semi-Finals,14,NHL
+102,['E. Francis'],1972-73,47,23,0,.654,78,3rd,New York Rangers,NYR,Lost NHL Semi-Finals,8,NHL
+109,['E. Francis'],1971-72,48,17,0,.699,78,2nd,New York Rangers,NYR,Lost Stanley Cup Final,13,NHL
+109,['E. Francis'],1970-71,49,18,0,.699,78,2nd,New York Rangers,NYR,Lost NHL Semi-Finals,11,NHL
+92,['E. Francis'],1969-70,38,22,0,.605,76,4th,New York Rangers,NYR,Lost NHL Quarter-Finals,16,NHL
+91,"['B. Geoffrion', 'E. Francis']",1968-69,41,26,0,.599,76,3rd,New York Rangers,NYR,Lost NHL Quarter-Finals,9,NHL
+90,['E. Francis'],1967-68,39,23,0,.608,74,2nd,New York Rangers,NYR,Lost NHL Quarter-Finals,12,NHL
+72,['E. Francis'],1966-67,30,28,0,.514,70,4th,New York Rangers,NYR,Lost NHL Semi-Finals,12,NHL
+47,"['R. Sullivan', 'E. Francis']",1965-66,18,41,0,.336,70,6th,New York Rangers,NYR,,11,NHL
+52,['R. Sullivan'],1964-65,20,38,0,.371,70,5th,New York Rangers,NYR,,12,NHL
+54,['R. Sullivan'],1963-64,22,38,0,.386,70,5th,New York Rangers,NYR,,10,NHL
+56,"['M. Patrick', 'R. Sullivan']",1962-63,22,36,0,.400,70,5th,New York Rangers,NYR,,12,NHL
+64,['D. Harvey'],1961-62,26,32,0,.457,70,4th,New York Rangers,NYR,Lost NHL Semi-Finals,12,NHL
+54,['A. Pike'],1960-61,22,38,0,.386,70,5th,New York Rangers,NYR,,10,NHL
+49,"['P. Watson', 'M. Patrick', 'A. Pike']",1959-60,17,38,0,.350,70,6th,New York Rangers,NYR,,15,NHL
+64,['P. Watson'],1958-59,26,32,0,.457,70,5th,New York Rangers,NYR,,12,NHL
+77,['P. Watson'],1957-58,32,25,0,.550,70,2nd,New York Rangers,NYR,Lost NHL Semi-Finals,13,NHL
+66,['P. Watson'],1956-57,26,30,0,.471,70,4th,New York Rangers,NYR,Lost NHL Semi-Finals,14,NHL
+74,['P. Watson'],1955-56,32,28,0,.529,70,3rd,New York Rangers,NYR,Lost NHL Semi-Finals,10,NHL
+52,['M. Patrick'],1954-55,17,35,0,.371,70,5th,New York Rangers,NYR,,18,NHL
+68,"['F. Boucher', 'M. Patrick']",1953-54,29,31,0,.486,70,5th,New York Rangers,NYR,,10,NHL
+50,['B. Cook'],1952-53,17,37,0,.357,70,6th,New York Rangers,NYR,,16,NHL
+59,"['N. Colville', 'B. Cook']",1951-52,23,34,0,.421,70,5th,New York Rangers,NYR,,13,NHL
+61,['N. Colville'],1950-51,20,29,0,.436,70,5th,New York Rangers,NYR,,21,NHL
+67,['L. Patrick'],1949-50,28,31,0,.479,70,4th,New York Rangers,NYR,Lost Stanley Cup Final,11,NHL
+47,"['F. Boucher', 'L. Patrick']",1948-49,18,31,0,.392,60,6th,New York Rangers,NYR,,11,NHL
+55,['F. Boucher'],1947-48,21,26,0,.458,60,4th,New York Rangers,NYR,Lost NHL Semi-Finals,13,NHL
+50,['F. Boucher'],1946-47,22,32,0,.417,60,5th,New York Rangers,NYR,,6,NHL
+35,['F. Boucher'],1945-46,13,28,0,.350,50,6th,New York Rangers,NYR,,9,NHL
+32,['F. Boucher'],1944-45,11,29,0,.320,50,6th,New York Rangers,NYR,,10,NHL
+17,['F. Boucher'],1943-44,6,39,0,.170,50,6th,New York Rangers,NYR,,5,NHL
+30,['F. Boucher'],1942-43,11,31,0,.300,50,6th,New York Rangers,NYR,,8,NHL
+60,['F. Boucher'],1941-42,29,17,0,.625,48,1st,New York Rangers,NYR,Lost NHL Semi-Finals,2,NHL
+50,['F. Boucher'],1940-41,21,19,0,.521,48,4th,New York Rangers,NYR,Lost NHL Quarter-Finals,8,NHL
+64,['F. Boucher'],1939-40,27,11,0,.667,48,2nd,New York Rangers,NYR,,10,NHL
+58,['L. Patrick'],1938-39,26,16,0,.604,48,2nd,New York Rangers,NYR,Lost NHL Semi-Finals,6,NHL
+60,['L. Patrick'],1937-38,27,15,0,.625,48,2nd,New York Rangers,NYR,Lost NHL Quarter-Finals,6,NHL
+47,['L. Patrick'],1936-37,19,20,0,.490,48,3rd,New York Rangers,NYR,Lost Stanley Cup Final,9,NHL
+50,['L. Patrick'],1935-36,19,17,0,.521,48,4th,New York Rangers,NYR,,12,NHL
+50,['L. Patrick'],1934-35,22,20,0,.521,48,3rd,New York Rangers,NYR,Lost NHL Semi-Finals,6,NHL
+50,['L. Patrick'],1933-34,21,19,0,.521,48,3rd,New York Rangers,NYR,Lost NHL Quarter-Finals,8,NHL
+54,['L. Patrick'],1932-33,23,17,0,.563,48,3rd,New York Rangers,NYR,,8,NHL
+54,['L. Patrick'],1931-32,23,17,0,.563,48,1st,New York Rangers,NYR,Lost Stanley Cup Final,8,NHL
+47,['L. Patrick'],1930-31,19,16,0,.534,44,3rd,New York Rangers,NYR,Lost NHL Semi-Finals,9,NHL
+44,['L. Patrick'],1929-30,17,17,0,.500,44,3rd,New York Rangers,NYR,Lost NHL Semi-Finals,10,NHL
+52,['L. Patrick'],1928-29,21,13,0,.591,44,2nd,New York Rangers,NYR,Lost Stanley Cup Final,10,NHL
+47,['L. Patrick'],1927-28,19,16,0,.534,44,2nd,New York Rangers,NYR,,9,NHL
+56,['L. Patrick'],1926-27,25,13,0,.636,44,1st,New York Rangers,NYR,Lost NHL Semi-Finals,6,NHL

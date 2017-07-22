@@ -1,25 +1,25 @@
-finishing_position,games_played,team_name,playoff_result,points_percentage,wins,leage,ties,coaches,points,season,overtime_loses,loses
-,0,Florida Panthers,,0,0,NHL,0,['B. Boughner'],0,2017-18,0,0
-6th,82,Florida Panthers,,.494,35,NHL,0,"['G. Gallant', 'T. Rowe']",81,2016-17,11,36
-1st,82,Florida Panthers,Lost NHL First Round,.628,47,NHL,0,['G. Gallant'],103,2015-16,9,26
-6th,82,Florida Panthers,,.555,38,NHL,0,['G. Gallant'],91,2014-15,15,29
-7th,82,Florida Panthers,,.402,29,NHL,0,"['K. Dineen', 'P. Horachek']",66,2013-14,8,45
-5th,48,Florida Panthers,,.375,15,NHL,0,['K. Dineen'],36,2012-13,6,27
-1st,82,Florida Panthers,Lost NHL Conference Quarter-Finals,.573,38,NHL,0,['K. Dineen'],94,2011-12,18,26
-5th,82,Florida Panthers,,.439,30,NHL,0,['P. DeBoer'],72,2010-11,12,40
-5th,82,Florida Panthers,,.470,32,NHL,0,['P. DeBoer'],77,2009-10,13,37
-3rd,82,Florida Panthers,,.567,41,NHL,0,['P. DeBoer'],93,2008-09,11,30
-3rd,82,Florida Panthers,,.518,38,NHL,0,['J. Martin'],85,2007-08,9,35
-4th,82,Florida Panthers,,.524,35,NHL,0,['J. Martin'],86,2006-07,16,31
-4th,82,Florida Panthers,,.518,37,NHL,0,['J. Martin'],85,2005-06,11,34
-4th,82,Florida Panthers,,.457,28,NHL,15,"['M. Keenan', 'R. Dudley', 'J. Torchetti']",75,2003-04,4,35
-4th,82,Florida Panthers,,.427,24,NHL,13,['M. Keenan'],70,2002-03,9,36
-4th,82,Florida Panthers,,.366,22,NHL,10,"['D. Sutter', 'M. Keenan']",60,2001-02,6,44
-3rd,82,Florida Panthers,,.402,22,NHL,13,"['T. Murray', 'D. Sutter']",66,2000-01,9,38
-2nd,82,Florida Panthers,Lost NHL Conference Quarter-Finals,.598,43,NHL,6,['T. Murray'],98,1999-00,6,27
-2nd,82,Florida Panthers,,.476,30,NHL,18,['T. Murray'],78,1998-99,0,34
-6th,82,Florida Panthers,,.384,24,NHL,15,"['D. MacLean', 'B. Murray']",63,1997-98,0,43
-3rd,82,Florida Panthers,Lost NHL Conference Quarter-Finals,.543,35,NHL,19,['D. MacLean'],89,1996-97,0,28
-3rd,82,Florida Panthers,Lost Stanley Cup Final,.561,41,NHL,10,['D. MacLean'],92,1995-96,0,31
-5th,48,Florida Panthers,,.479,20,NHL,6,['R. Neilson'],46,1994-95,0,22
-5th,84,Florida Panthers,,.494,33,NHL,17,['R. Neilson'],83,1993-94,0,34
+points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
+0,['B. Boughner'],2017-18,0,0,0,0,0,,Florida Panthers,FLA,,0,NHL
+81,"['G. Gallant', 'T. Rowe']",2016-17,35,36,11,.494,82,6th,Florida Panthers,FLA,,0,NHL
+103,['G. Gallant'],2015-16,47,26,9,.628,82,1st,Florida Panthers,FLA,Lost NHL First Round,0,NHL
+91,['G. Gallant'],2014-15,38,29,15,.555,82,6th,Florida Panthers,FLA,,0,NHL
+66,"['K. Dineen', 'P. Horachek']",2013-14,29,45,8,.402,82,7th,Florida Panthers,FLA,,0,NHL
+36,['K. Dineen'],2012-13,15,27,6,.375,48,5th,Florida Panthers,FLA,,0,NHL
+94,['K. Dineen'],2011-12,38,26,18,.573,82,1st,Florida Panthers,FLA,Lost NHL Conference Quarter-Finals,0,NHL
+72,['P. DeBoer'],2010-11,30,40,12,.439,82,5th,Florida Panthers,FLA,,0,NHL
+77,['P. DeBoer'],2009-10,32,37,13,.470,82,5th,Florida Panthers,FLA,,0,NHL
+93,['P. DeBoer'],2008-09,41,30,11,.567,82,3rd,Florida Panthers,FLA,,0,NHL
+85,['J. Martin'],2007-08,38,35,9,.518,82,3rd,Florida Panthers,FLA,,0,NHL
+86,['J. Martin'],2006-07,35,31,16,.524,82,4th,Florida Panthers,FLA,,0,NHL
+85,['J. Martin'],2005-06,37,34,11,.518,82,4th,Florida Panthers,FLA,,0,NHL
+75,"['M. Keenan', 'R. Dudley', 'J. Torchetti']",2003-04,28,35,4,.457,82,4th,Florida Panthers,FLA,,15,NHL
+70,['M. Keenan'],2002-03,24,36,9,.427,82,4th,Florida Panthers,FLA,,13,NHL
+60,"['D. Sutter', 'M. Keenan']",2001-02,22,44,6,.366,82,4th,Florida Panthers,FLA,,10,NHL
+66,"['T. Murray', 'D. Sutter']",2000-01,22,38,9,.402,82,3rd,Florida Panthers,FLA,,13,NHL
+98,['T. Murray'],1999-00,43,27,6,.598,82,2nd,Florida Panthers,FLA,Lost NHL Conference Quarter-Finals,6,NHL
+78,['T. Murray'],1998-99,30,34,0,.476,82,2nd,Florida Panthers,FLA,,18,NHL
+63,"['D. MacLean', 'B. Murray']",1997-98,24,43,0,.384,82,6th,Florida Panthers,FLA,,15,NHL
+89,['D. MacLean'],1996-97,35,28,0,.543,82,3rd,Florida Panthers,FLA,Lost NHL Conference Quarter-Finals,19,NHL
+92,['D. MacLean'],1995-96,41,31,0,.561,82,3rd,Florida Panthers,FLA,Lost Stanley Cup Final,10,NHL
+46,['R. Neilson'],1994-95,20,22,0,.479,48,5th,Florida Panthers,FLA,,6,NHL
+83,['R. Neilson'],1993-94,33,34,0,.494,84,5th,Florida Panthers,FLA,,17,NHL

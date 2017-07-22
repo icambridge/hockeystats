@@ -1,51 +1,51 @@
-finishing_position,games_played,team_name,playoff_result,points_percentage,wins,leage,ties,coaches,points,season,overtime_loses,loses
-,0,Philadelphia Flyers,,0,0,NHL,0,['D. Hakstol'],0,2017-18,0,0
-6th,82,Philadelphia Flyers,,.537,39,NHL,0,['D. Hakstol'],88,2016-17,10,33
-5th,82,Philadelphia Flyers,Lost NHL First Round,.585,41,NHL,0,['D. Hakstol'],96,2015-16,14,27
-6th,82,Philadelphia Flyers,,.512,33,NHL,0,['C. Berube'],84,2014-15,18,31
-3rd,82,Philadelphia Flyers,Lost NHL First Round,.573,42,NHL,0,"['C. Berube', 'P. Laviolette']",94,2013-14,10,30
-4th,48,Philadelphia Flyers,,.510,23,NHL,0,['P. Laviolette'],49,2012-13,3,22
-3rd,82,Philadelphia Flyers,Lost NHL Conference Semi-Finals,.628,47,NHL,0,['P. Laviolette'],103,2011-12,9,26
-1st,82,Philadelphia Flyers,Lost NHL Conference Semi-Finals,.646,47,NHL,0,['P. Laviolette'],106,2010-11,12,23
-3rd,82,Philadelphia Flyers,Lost Stanley Cup Final,.537,41,NHL,0,"['J. Stevens', 'P. Laviolette']",88,2009-10,6,35
-3rd,82,Philadelphia Flyers,Lost NHL Conference Quarter-Finals,.604,44,NHL,0,['J. Stevens'],99,2008-09,11,27
-4th,82,Philadelphia Flyers,Lost NHL Conference Finals,.579,42,NHL,0,['J. Stevens'],95,2007-08,11,29
-5th,82,Philadelphia Flyers,,.341,22,NHL,0,"['K. Hitchcock', 'J. Stevens']",56,2006-07,12,48
-2nd,82,Philadelphia Flyers,Lost NHL Conference Quarter-Finals,.616,45,NHL,0,['K. Hitchcock'],101,2005-06,11,26
-1st,82,Philadelphia Flyers,Lost NHL Conference Finals,.616,40,NHL,15,['K. Hitchcock'],101,2003-04,6,21
-2nd,82,Philadelphia Flyers,Lost NHL Conference Semi-Finals,.652,45,NHL,13,['K. Hitchcock'],107,2002-03,4,20
-1st,82,Philadelphia Flyers,Lost NHL Conference Quarter-Finals,.591,42,NHL,10,['B. Barber'],97,2001-02,3,27
-2nd,82,Philadelphia Flyers,Lost NHL Conference Quarter-Finals,.610,43,NHL,11,"['C. Ramsay', 'B. Barber']",100,2000-01,3,25
-1st,82,Philadelphia Flyers,Lost NHL Conference Finals,.640,45,NHL,12,['R. Neilson'],105,1999-00,3,22
-2nd,82,Philadelphia Flyers,Lost NHL Conference Quarter-Finals,.567,37,NHL,19,['R. Neilson'],93,1998-99,0,26
-2nd,82,Philadelphia Flyers,Lost NHL Conference Quarter-Finals,.579,42,NHL,11,"['W. Cashman', 'R. Neilson']",95,1997-98,0,29
-2nd,82,Philadelphia Flyers,Lost Stanley Cup Final,.628,45,NHL,13,['T. Murray'],103,1996-97,0,24
-1st,82,Philadelphia Flyers,Lost NHL Conference Semi-Finals,.628,45,NHL,13,['T. Murray'],103,1995-96,0,24
-1st,48,Philadelphia Flyers,Lost NHL Conference Finals,.625,28,NHL,4,['T. Murray'],60,1994-95,0,16
-6th,84,Philadelphia Flyers,,.476,35,NHL,10,['T. Simpson'],80,1993-94,0,39
-5th,84,Philadelphia Flyers,,.494,36,NHL,11,['B. Dineen'],83,1992-93,0,37
-6th,80,Philadelphia Flyers,,.469,32,NHL,11,"['P. Holmgren', 'B. Dineen']",75,1991-92,0,37
-5th,80,Philadelphia Flyers,,.475,33,NHL,10,['P. Holmgren'],76,1990-91,0,37
-6th,80,Philadelphia Flyers,,.444,30,NHL,11,['P. Holmgren'],71,1989-90,0,39
-4th,80,Philadelphia Flyers,Lost NHL Conference Finals,.500,36,NHL,8,['P. Holmgren'],80,1988-89,0,36
-3rd,80,Philadelphia Flyers,Lost NHL Division Semi-Finals,.531,38,NHL,9,['M. Keenan'],85,1987-88,0,33
-1st,80,Philadelphia Flyers,Lost Stanley Cup Final,.625,46,NHL,8,['M. Keenan'],100,1986-87,0,26
-1st,80,Philadelphia Flyers,Lost NHL Division Semi-Finals,.688,53,NHL,4,['M. Keenan'],110,1985-86,0,23
-1st,80,Philadelphia Flyers,Lost Stanley Cup Final,.706,53,NHL,7,['M. Keenan'],113,1984-85,0,20
-3rd,80,Philadelphia Flyers,Lost NHL Division Semi-Finals,.613,44,NHL,10,['B. McCammon'],98,1983-84,0,26
-1st,80,Philadelphia Flyers,Lost NHL Division Semi-Finals,.663,49,NHL,8,['B. McCammon'],106,1982-83,0,23
-3rd,80,Philadelphia Flyers,Lost NHL Division Semi-Finals,.544,38,NHL,11,"['P. Quinn', 'B. McCammon']",87,1981-82,0,31
-2nd,80,Philadelphia Flyers,Lost NHL Quarter-Finals,.606,41,NHL,15,['P. Quinn'],97,1980-81,0,24
-1st,80,Philadelphia Flyers,Lost Stanley Cup Final,.725,48,NHL,20,['P. Quinn'],116,1979-80,0,12
-2nd,80,Philadelphia Flyers,Lost NHL Quarter-Finals,.594,40,NHL,15,"['B. McCammon', 'P. Quinn']",95,1978-79,0,25
-2nd,80,Philadelphia Flyers,Lost NHL Semi-Finals,.656,45,NHL,15,['F. Shero'],105,1977-78,0,20
-1st,80,Philadelphia Flyers,Lost NHL Semi-Finals,.700,48,NHL,16,['F. Shero'],112,1976-77,0,16
-1st,80,Philadelphia Flyers,Lost Stanley Cup Final,.738,51,NHL,16,['F. Shero'],118,1975-76,0,13
-1st,80,Philadelphia Flyers,,.706,51,NHL,11,['F. Shero'],113,1974-75,0,18
-1st,78,Philadelphia Flyers,,.718,50,NHL,12,['F. Shero'],112,1973-74,0,16
-2nd,78,Philadelphia Flyers,Lost NHL Semi-Finals,.545,37,NHL,11,['F. Shero'],85,1972-73,0,30
-5th,78,Philadelphia Flyers,,.423,26,NHL,14,['F. Shero'],66,1971-72,0,38
-3rd,78,Philadelphia Flyers,Lost NHL Quarter-Finals,.468,28,NHL,17,['V. Stasiuk'],73,1970-71,0,33
-5th,76,Philadelphia Flyers,,.382,17,NHL,24,['V. Stasiuk'],58,1969-70,0,35
-3rd,76,Philadelphia Flyers,Lost NHL Quarter-Finals,.401,20,NHL,21,['K. Allen'],61,1968-69,0,35
-1st,74,Philadelphia Flyers,Lost NHL Quarter-Finals,.493,31,NHL,11,['K. Allen'],73,1967-68,0,32
+points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
+0,['D. Hakstol'],2017-18,0,0,0,0,0,,Philadelphia Flyers,PHI,,0,NHL
+88,['D. Hakstol'],2016-17,39,33,10,.537,82,6th,Philadelphia Flyers,PHI,,0,NHL
+96,['D. Hakstol'],2015-16,41,27,14,.585,82,5th,Philadelphia Flyers,PHI,Lost NHL First Round,0,NHL
+84,['C. Berube'],2014-15,33,31,18,.512,82,6th,Philadelphia Flyers,PHI,,0,NHL
+94,"['C. Berube', 'P. Laviolette']",2013-14,42,30,10,.573,82,3rd,Philadelphia Flyers,PHI,Lost NHL First Round,0,NHL
+49,['P. Laviolette'],2012-13,23,22,3,.510,48,4th,Philadelphia Flyers,PHI,,0,NHL
+103,['P. Laviolette'],2011-12,47,26,9,.628,82,3rd,Philadelphia Flyers,PHI,Lost NHL Conference Semi-Finals,0,NHL
+106,['P. Laviolette'],2010-11,47,23,12,.646,82,1st,Philadelphia Flyers,PHI,Lost NHL Conference Semi-Finals,0,NHL
+88,"['J. Stevens', 'P. Laviolette']",2009-10,41,35,6,.537,82,3rd,Philadelphia Flyers,PHI,Lost Stanley Cup Final,0,NHL
+99,['J. Stevens'],2008-09,44,27,11,.604,82,3rd,Philadelphia Flyers,PHI,Lost NHL Conference Quarter-Finals,0,NHL
+95,['J. Stevens'],2007-08,42,29,11,.579,82,4th,Philadelphia Flyers,PHI,Lost NHL Conference Finals,0,NHL
+56,"['K. Hitchcock', 'J. Stevens']",2006-07,22,48,12,.341,82,5th,Philadelphia Flyers,PHI,,0,NHL
+101,['K. Hitchcock'],2005-06,45,26,11,.616,82,2nd,Philadelphia Flyers,PHI,Lost NHL Conference Quarter-Finals,0,NHL
+101,['K. Hitchcock'],2003-04,40,21,6,.616,82,1st,Philadelphia Flyers,PHI,Lost NHL Conference Finals,15,NHL
+107,['K. Hitchcock'],2002-03,45,20,4,.652,82,2nd,Philadelphia Flyers,PHI,Lost NHL Conference Semi-Finals,13,NHL
+97,['B. Barber'],2001-02,42,27,3,.591,82,1st,Philadelphia Flyers,PHI,Lost NHL Conference Quarter-Finals,10,NHL
+100,"['C. Ramsay', 'B. Barber']",2000-01,43,25,3,.610,82,2nd,Philadelphia Flyers,PHI,Lost NHL Conference Quarter-Finals,11,NHL
+105,['R. Neilson'],1999-00,45,22,3,.640,82,1st,Philadelphia Flyers,PHI,Lost NHL Conference Finals,12,NHL
+93,['R. Neilson'],1998-99,37,26,0,.567,82,2nd,Philadelphia Flyers,PHI,Lost NHL Conference Quarter-Finals,19,NHL
+95,"['W. Cashman', 'R. Neilson']",1997-98,42,29,0,.579,82,2nd,Philadelphia Flyers,PHI,Lost NHL Conference Quarter-Finals,11,NHL
+103,['T. Murray'],1996-97,45,24,0,.628,82,2nd,Philadelphia Flyers,PHI,Lost Stanley Cup Final,13,NHL
+103,['T. Murray'],1995-96,45,24,0,.628,82,1st,Philadelphia Flyers,PHI,Lost NHL Conference Semi-Finals,13,NHL
+60,['T. Murray'],1994-95,28,16,0,.625,48,1st,Philadelphia Flyers,PHI,Lost NHL Conference Finals,4,NHL
+80,['T. Simpson'],1993-94,35,39,0,.476,84,6th,Philadelphia Flyers,PHI,,10,NHL
+83,['B. Dineen'],1992-93,36,37,0,.494,84,5th,Philadelphia Flyers,PHI,,11,NHL
+75,"['P. Holmgren', 'B. Dineen']",1991-92,32,37,0,.469,80,6th,Philadelphia Flyers,PHI,,11,NHL
+76,['P. Holmgren'],1990-91,33,37,0,.475,80,5th,Philadelphia Flyers,PHI,,10,NHL
+71,['P. Holmgren'],1989-90,30,39,0,.444,80,6th,Philadelphia Flyers,PHI,,11,NHL
+80,['P. Holmgren'],1988-89,36,36,0,.500,80,4th,Philadelphia Flyers,PHI,Lost NHL Conference Finals,8,NHL
+85,['M. Keenan'],1987-88,38,33,0,.531,80,3rd,Philadelphia Flyers,PHI,Lost NHL Division Semi-Finals,9,NHL
+100,['M. Keenan'],1986-87,46,26,0,.625,80,1st,Philadelphia Flyers,PHI,Lost Stanley Cup Final,8,NHL
+110,['M. Keenan'],1985-86,53,23,0,.688,80,1st,Philadelphia Flyers,PHI,Lost NHL Division Semi-Finals,4,NHL
+113,['M. Keenan'],1984-85,53,20,0,.706,80,1st,Philadelphia Flyers,PHI,Lost Stanley Cup Final,7,NHL
+98,['B. McCammon'],1983-84,44,26,0,.613,80,3rd,Philadelphia Flyers,PHI,Lost NHL Division Semi-Finals,10,NHL
+106,['B. McCammon'],1982-83,49,23,0,.663,80,1st,Philadelphia Flyers,PHI,Lost NHL Division Semi-Finals,8,NHL
+87,"['P. Quinn', 'B. McCammon']",1981-82,38,31,0,.544,80,3rd,Philadelphia Flyers,PHI,Lost NHL Division Semi-Finals,11,NHL
+97,['P. Quinn'],1980-81,41,24,0,.606,80,2nd,Philadelphia Flyers,PHI,Lost NHL Quarter-Finals,15,NHL
+116,['P. Quinn'],1979-80,48,12,0,.725,80,1st,Philadelphia Flyers,PHI,Lost Stanley Cup Final,20,NHL
+95,"['B. McCammon', 'P. Quinn']",1978-79,40,25,0,.594,80,2nd,Philadelphia Flyers,PHI,Lost NHL Quarter-Finals,15,NHL
+105,['F. Shero'],1977-78,45,20,0,.656,80,2nd,Philadelphia Flyers,PHI,Lost NHL Semi-Finals,15,NHL
+112,['F. Shero'],1976-77,48,16,0,.700,80,1st,Philadelphia Flyers,PHI,Lost NHL Semi-Finals,16,NHL
+118,['F. Shero'],1975-76,51,13,0,.738,80,1st,Philadelphia Flyers,PHI,Lost Stanley Cup Final,16,NHL
+113,['F. Shero'],1974-75,51,18,0,.706,80,1st,Philadelphia Flyers,PHI,,11,NHL
+112,['F. Shero'],1973-74,50,16,0,.718,78,1st,Philadelphia Flyers,PHI,,12,NHL
+85,['F. Shero'],1972-73,37,30,0,.545,78,2nd,Philadelphia Flyers,PHI,Lost NHL Semi-Finals,11,NHL
+66,['F. Shero'],1971-72,26,38,0,.423,78,5th,Philadelphia Flyers,PHI,,14,NHL
+73,['V. Stasiuk'],1970-71,28,33,0,.468,78,3rd,Philadelphia Flyers,PHI,Lost NHL Quarter-Finals,17,NHL
+58,['V. Stasiuk'],1969-70,17,35,0,.382,76,5th,Philadelphia Flyers,PHI,,24,NHL
+61,['K. Allen'],1968-69,20,35,0,.401,76,3rd,Philadelphia Flyers,PHI,Lost NHL Quarter-Finals,21,NHL
+73,['K. Allen'],1967-68,31,32,0,.493,74,1st,Philadelphia Flyers,PHI,Lost NHL Quarter-Finals,11,NHL
