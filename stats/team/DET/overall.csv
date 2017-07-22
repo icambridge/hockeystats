@@ -1,0 +1,92 @@
+finishing_position,games_played,team_name,playoff_result,points_percentage,wins,leage,ties,coaches,points,season,overtime_loses,loses
+,0,Detroit Red Wings,,0,0,NHL,0,['J. Blashill'],0,2017-18,0,0
+7th,82,Detroit Red Wings,,.482,33,NHL,0,['J. Blashill'],79,2016-17,13,36
+3rd,82,Detroit Red Wings,Lost NHL First Round,.567,41,NHL,0,['J. Blashill'],93,2015-16,11,30
+3rd,82,Detroit Red Wings,Lost NHL First Round,.610,43,NHL,0,['M. Babcock'],100,2014-15,14,25
+4th,82,Detroit Red Wings,Lost NHL First Round,.567,39,NHL,0,['M. Babcock'],93,2013-14,15,28
+3rd,48,Detroit Red Wings,Lost NHL Conference Semi-Finals,.583,24,NHL,0,['M. Babcock'],56,2012-13,8,16
+3rd,82,Detroit Red Wings,Lost NHL Conference Quarter-Finals,.622,48,NHL,0,['M. Babcock'],102,2011-12,6,28
+1st,82,Detroit Red Wings,Lost NHL Conference Semi-Finals,.634,47,NHL,0,['M. Babcock'],104,2010-11,10,25
+2nd,82,Detroit Red Wings,Lost NHL Conference Semi-Finals,.622,44,NHL,0,['M. Babcock'],102,2009-10,14,24
+1st,82,Detroit Red Wings,Lost Stanley Cup Final,.683,51,NHL,0,['M. Babcock'],112,2008-09,10,21
+1st,82,Detroit Red Wings,,.701,54,NHL,0,['M. Babcock'],115,2007-08,7,21
+1st,82,Detroit Red Wings,Lost NHL Conference Finals,.689,50,NHL,0,['M. Babcock'],113,2006-07,13,19
+1st,82,Detroit Red Wings,Lost NHL Conference Quarter-Finals,.756,58,NHL,0,['M. Babcock'],124,2005-06,8,16
+1st,82,Detroit Red Wings,Lost NHL Conference Semi-Finals,.665,48,NHL,11,['D. Lewis'],109,2003-04,2,21
+1st,82,Detroit Red Wings,Lost NHL Conference Quarter-Finals,.671,48,NHL,10,['D. Lewis'],110,2002-03,4,20
+1st,82,Detroit Red Wings,,.707,51,NHL,10,['S. Bowman'],116,2001-02,4,17
+1st,82,Detroit Red Wings,Lost NHL Conference Quarter-Finals,.677,49,NHL,9,['S. Bowman'],111,2000-01,4,20
+2nd,82,Detroit Red Wings,Lost NHL Conference Semi-Finals,.659,48,NHL,10,['S. Bowman'],108,1999-00,2,22
+1st,82,Detroit Red Wings,Lost NHL Conference Semi-Finals,.567,43,NHL,7,"['D. Lewis', 'B. Smith', 'S. Bowman']",93,1998-99,0,32
+2nd,82,Detroit Red Wings,,.628,44,NHL,15,['S. Bowman'],103,1997-98,0,23
+2nd,82,Detroit Red Wings,,.573,38,NHL,18,['S. Bowman'],94,1996-97,0,26
+1st,82,Detroit Red Wings,Lost NHL Conference Finals,.799,62,NHL,7,['S. Bowman'],131,1995-96,0,13
+1st,48,Detroit Red Wings,Lost Stanley Cup Final,.729,33,NHL,4,['S. Bowman'],70,1994-95,0,11
+1st,84,Detroit Red Wings,Lost NHL Conference Quarter-Finals,.595,46,NHL,8,['S. Bowman'],100,1993-94,0,30
+2nd,84,Detroit Red Wings,Lost NHL Division Semi-Finals,.613,47,NHL,9,['B. Murray'],103,1992-93,0,28
+1st,80,Detroit Red Wings,Lost NHL Division Finals,.613,43,NHL,12,['B. Murray'],98,1991-92,0,25
+3rd,80,Detroit Red Wings,Lost NHL Division Semi-Finals,.475,34,NHL,8,['B. Murray'],76,1990-91,0,38
+5th,80,Detroit Red Wings,,.438,28,NHL,14,['J. Demers'],70,1989-90,0,38
+1st,80,Detroit Red Wings,Lost NHL Division Semi-Finals,.500,34,NHL,12,['J. Demers'],80,1988-89,0,34
+1st,80,Detroit Red Wings,Lost NHL Conference Finals,.581,41,NHL,11,['J. Demers'],93,1987-88,0,28
+2nd,80,Detroit Red Wings,Lost NHL Conference Finals,.488,34,NHL,10,['J. Demers'],78,1986-87,0,36
+5th,80,Detroit Red Wings,,.250,17,NHL,6,"['H. Neale', 'B. Park']",40,1985-86,0,57
+3rd,80,Detroit Red Wings,Lost NHL Division Semi-Finals,.413,27,NHL,12,['N. Polano'],66,1984-85,0,41
+3rd,80,Detroit Red Wings,Lost NHL Division Semi-Finals,.431,31,NHL,7,['N. Polano'],69,1983-84,0,42
+5th,80,Detroit Red Wings,,.356,21,NHL,15,['N. Polano'],57,1982-83,0,44
+6th,80,Detroit Red Wings,,.338,21,NHL,12,"['W. Maxner', 'B. Dea']",54,1981-82,0,47
+5th,80,Detroit Red Wings,,.350,19,NHL,18,"['T. Lindsay', 'W. Maxner']",56,1980-81,0,43
+5th,80,Detroit Red Wings,,.394,26,NHL,11,"['B. Kromm', 'T. Lindsay']",63,1979-80,0,43
+5th,80,Detroit Red Wings,,.388,23,NHL,16,['B. Kromm'],62,1978-79,0,41
+2nd,80,Detroit Red Wings,Lost NHL Quarter-Finals,.488,32,NHL,14,['B. Kromm'],78,1977-78,0,34
+5th,80,Detroit Red Wings,,.256,16,NHL,9,"['A. Delvecchio', 'L. Wilson']",41,1976-77,0,55
+4th,80,Detroit Red Wings,,.388,26,NHL,10,"['D. Barkley', 'A. Delvecchio']",62,1975-76,0,44
+4th,80,Detroit Red Wings,,.363,23,NHL,12,['A. Delvecchio'],58,1974-75,0,45
+6th,78,Detroit Red Wings,,.436,29,NHL,10,"['T. Garvin', 'A. Delvecchio']",68,1973-74,0,39
+5th,78,Detroit Red Wings,,.551,37,NHL,12,['J. Wilson'],86,1972-73,0,29
+5th,78,Detroit Red Wings,,.487,33,NHL,10,"['D. Barkley', 'J. Wilson']",76,1971-72,0,35
+7th,78,Detroit Red Wings,,.353,22,NHL,11,"['N. Harkness', 'D. Barkley']",55,1970-71,0,45
+3rd,76,Detroit Red Wings,Lost NHL Quarter-Finals,.625,40,NHL,15,"['B. Gadsby', 'S. Abel']",95,1969-70,0,21
+5th,76,Detroit Red Wings,,.513,33,NHL,12,['B. Gadsby'],78,1968-69,0,31
+6th,74,Detroit Red Wings,,.446,27,NHL,12,['S. Abel'],66,1967-68,0,35
+5th,70,Detroit Red Wings,,.414,27,NHL,4,['S. Abel'],58,1966-67,0,39
+4th,70,Detroit Red Wings,Lost Stanley Cup Final,.529,31,NHL,12,['S. Abel'],74,1965-66,0,27
+1st,70,Detroit Red Wings,Lost NHL Semi-Finals,.621,40,NHL,7,['S. Abel'],87,1964-65,0,23
+4th,70,Detroit Red Wings,Lost Stanley Cup Final,.507,30,NHL,11,['S. Abel'],71,1963-64,0,29
+4th,70,Detroit Red Wings,Lost Stanley Cup Final,.550,32,NHL,13,['S. Abel'],77,1962-63,0,25
+5th,70,Detroit Red Wings,,.429,23,NHL,14,['S. Abel'],60,1961-62,0,33
+4th,70,Detroit Red Wings,Lost Stanley Cup Final,.471,25,NHL,16,['S. Abel'],66,1960-61,0,29
+4th,70,Detroit Red Wings,Lost NHL Semi-Finals,.479,26,NHL,15,['S. Abel'],67,1959-60,0,29
+6th,70,Detroit Red Wings,,.414,25,NHL,8,['S. Abel'],58,1958-59,0,37
+3rd,70,Detroit Red Wings,Lost NHL Semi-Finals,.500,29,NHL,12,"['J. Skinner', 'S. Abel']",70,1957-58,0,29
+1st,70,Detroit Red Wings,Lost NHL Semi-Finals,.629,38,NHL,12,['J. Skinner'],88,1956-57,0,20
+2nd,70,Detroit Red Wings,Lost Stanley Cup Final,.543,30,NHL,16,['J. Skinner'],76,1955-56,0,24
+1st,70,Detroit Red Wings,,.679,42,NHL,11,['J. Skinner'],95,1954-55,0,17
+1st,70,Detroit Red Wings,,.629,37,NHL,14,['T. Ivan'],88,1953-54,0,19
+1st,70,Detroit Red Wings,Lost NHL Semi-Finals,.643,36,NHL,18,['T. Ivan'],90,1952-53,0,16
+1st,70,Detroit Red Wings,,.714,44,NHL,12,['T. Ivan'],100,1951-52,0,14
+1st,70,Detroit Red Wings,Lost NHL Semi-Finals,.721,44,NHL,13,['T. Ivan'],101,1950-51,0,13
+1st,70,Detroit Red Wings,,.629,37,NHL,14,['T. Ivan'],88,1949-50,0,19
+1st,60,Detroit Red Wings,Lost Stanley Cup Final,.625,34,NHL,7,['T. Ivan'],75,1948-49,0,19
+2nd,60,Detroit Red Wings,Lost Stanley Cup Final,.600,30,NHL,12,['T. Ivan'],72,1947-48,0,18
+4th,60,Detroit Red Wings,Lost NHL Semi-Finals,.458,22,NHL,11,['J. Adams'],55,1946-47,0,27
+4th,50,Detroit Red Wings,Lost NHL Semi-Finals,.500,20,NHL,10,['J. Adams'],50,1945-46,0,20
+2nd,50,Detroit Red Wings,Lost Stanley Cup Final,.670,31,NHL,5,['J. Adams'],67,1944-45,0,14
+2nd,50,Detroit Red Wings,Lost NHL Semi-Finals,.580,26,NHL,6,['J. Adams'],58,1943-44,0,18
+1st,50,Detroit Red Wings,,.610,25,NHL,11,['J. Adams'],61,1942-43,0,14
+5th,48,Detroit Red Wings,Lost Stanley Cup Final,.438,19,NHL,4,['J. Adams'],42,1941-42,0,25
+3rd,48,Detroit Red Wings,Lost Stanley Cup Final,.552,21,NHL,11,['J. Adams'],53,1940-41,0,16
+5th,48,Detroit Red Wings,Lost NHL Semi-Finals,.396,16,NHL,6,['J. Adams'],38,1939-40,0,26
+5th,48,Detroit Red Wings,Lost NHL Semi-Finals,.438,18,NHL,6,['J. Adams'],42,1938-39,0,24
+4th,48,Detroit Red Wings,,.365,12,NHL,11,['J. Adams'],35,1937-38,0,25
+1st,48,Detroit Red Wings,,.615,25,NHL,9,['J. Adams'],59,1936-37,0,14
+1st,48,Detroit Red Wings,,.583,24,NHL,8,['J. Adams'],56,1935-36,0,16
+4th,48,Detroit Red Wings,,.469,19,NHL,7,['J. Adams'],45,1934-35,0,22
+1st,48,Detroit Red Wings,Lost Stanley Cup Final,.604,24,NHL,10,['J. Adams'],58,1933-34,0,14
+2nd,48,Detroit Red Wings,Lost NHL Semi-Finals,.604,25,NHL,8,['J. Adams'],58,1932-33,0,15
+3rd,48,Detroit Falcons,Lost NHL Quarter-Finals,.479,18,NHL,10,['J. Adams'],46,1931-32,0,20
+4th,44,Detroit Falcons,,.443,16,NHL,7,['J. Adams'],39,1930-31,0,21
+4th,44,Detroit Cougars,,.386,14,NHL,6,['J. Adams'],34,1929-30,0,24
+3rd,44,Detroit Cougars,Lost NHL Quarter-Finals,.534,19,NHL,9,['J. Adams'],47,1928-29,0,16
+4th,44,Detroit Cougars,,.500,19,NHL,6,['J. Adams'],44,1927-28,0,19
+5th,44,Detroit Cougars,,.318,12,NHL,4,"['A. Duncan', 'D. Keats']",28,1926-27,0,28

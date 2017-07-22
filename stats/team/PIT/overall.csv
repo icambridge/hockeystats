@@ -1,0 +1,51 @@
+finishing_position,games_played,team_name,playoff_result,points_percentage,wins,leage,ties,coaches,points,season,overtime_loses,loses
+,0,Pittsburgh Penguins,,0,0,NHL,0,['M. Sullivan'],0,2017-18,0,0
+2nd,82,Pittsburgh Penguins,,.677,50,NHL,0,['M. Sullivan'],111,2016-17,11,21
+2nd,82,Pittsburgh Penguins,,.634,48,NHL,0,"['M. Johnston', 'M. Sullivan']",104,2015-16,8,26
+4th,82,Pittsburgh Penguins,Lost NHL First Round,.598,43,NHL,0,['M. Johnston'],98,2014-15,12,27
+1st,82,Pittsburgh Penguins,Lost NHL Second Round,.665,51,NHL,0,['D. Bylsma'],109,2013-14,7,24
+1st,48,Pittsburgh Penguins,Lost NHL Conference Finals,.750,36,NHL,0,['D. Bylsma'],72,2012-13,0,12
+2nd,82,Pittsburgh Penguins,Lost NHL Conference Quarter-Finals,.659,51,NHL,0,['D. Bylsma'],108,2011-12,6,25
+1st,82,Pittsburgh Penguins,Lost NHL Conference Quarter-Finals,.646,49,NHL,0,['D. Bylsma'],106,2010-11,8,25
+2nd,82,Pittsburgh Penguins,Lost NHL Conference Semi-Finals,.616,47,NHL,0,['D. Bylsma'],101,2009-10,7,28
+2nd,82,Pittsburgh Penguins,,.604,45,NHL,0,"['M. Therrien', 'D. Bylsma']",99,2008-09,9,28
+1st,82,Pittsburgh Penguins,Lost Stanley Cup Final,.622,47,NHL,0,['M. Therrien'],102,2007-08,8,27
+2nd,82,Pittsburgh Penguins,Lost NHL Conference Quarter-Finals,.640,47,NHL,0,['M. Therrien'],105,2006-07,11,24
+5th,82,Pittsburgh Penguins,,.354,22,NHL,0,"['E. Olczyk', 'M. Therrien']",58,2005-06,14,46
+5th,82,Pittsburgh Penguins,,.354,23,NHL,8,['E. Olczyk'],58,2003-04,4,47
+5th,82,Pittsburgh Penguins,,.396,27,NHL,6,['R. Kehoe'],65,2002-03,5,44
+5th,82,Pittsburgh Penguins,,.421,28,NHL,8,"['I. Hlinka', 'R. Kehoe']",69,2001-02,5,41
+3rd,82,Pittsburgh Penguins,Lost NHL Conference Finals,.585,42,NHL,9,['I. Hlinka'],96,2000-01,3,28
+3rd,82,Pittsburgh Penguins,Lost NHL Conference Semi-Finals,.537,37,NHL,8,"['K. Constantine', 'H. Brooks']",88,1999-00,6,31
+3rd,82,Pittsburgh Penguins,Lost NHL Conference Semi-Finals,.549,38,NHL,14,['K. Constantine'],90,1998-99,0,30
+1st,82,Pittsburgh Penguins,Lost NHL Conference Quarter-Finals,.598,40,NHL,18,['K. Constantine'],98,1997-98,0,24
+2nd,82,Pittsburgh Penguins,Lost NHL Conference Quarter-Finals,.512,38,NHL,8,"['E. Johnston', 'C. Patrick']",84,1996-97,0,36
+1st,82,Pittsburgh Penguins,Lost NHL Conference Finals,.622,49,NHL,4,['E. Johnston'],102,1995-96,0,29
+2nd,48,Pittsburgh Penguins,Lost NHL Conference Semi-Finals,.635,29,NHL,3,['E. Johnston'],61,1994-95,0,16
+1st,84,Pittsburgh Penguins,Lost NHL Conference Quarter-Finals,.601,44,NHL,13,['E. Johnston'],101,1993-94,0,27
+1st,84,Pittsburgh Penguins,Lost NHL Division Finals,.708,56,NHL,7,['S. Bowman'],119,1992-93,0,21
+3rd,80,Pittsburgh Penguins,,.544,39,NHL,9,['S. Bowman'],87,1991-92,0,32
+1st,80,Pittsburgh Penguins,,.550,41,NHL,6,['B. Johnson'],88,1990-91,0,33
+5th,80,Pittsburgh Penguins,,.450,32,NHL,8,"['G. Ubriaco', 'C. Patrick']",72,1989-90,0,40
+2nd,80,Pittsburgh Penguins,Lost NHL Division Finals,.544,40,NHL,7,['G. Ubriaco'],87,1988-89,0,33
+6th,80,Pittsburgh Penguins,,.506,36,NHL,9,['P. Creamer'],81,1987-88,0,35
+5th,80,Pittsburgh Penguins,,.450,30,NHL,12,['B. Berry'],72,1986-87,0,38
+5th,80,Pittsburgh Penguins,,.475,34,NHL,8,['B. Berry'],76,1985-86,0,38
+6th,80,Pittsburgh Penguins,,.331,24,NHL,5,['B. Berry'],53,1984-85,0,51
+6th,80,Pittsburgh Penguins,,.238,16,NHL,6,['L. Angotti'],38,1983-84,0,58
+6th,80,Pittsburgh Penguins,,.281,18,NHL,9,['E. Johnston'],45,1982-83,0,53
+4th,80,Pittsburgh Penguins,Lost NHL Division Semi-Finals,.469,31,NHL,13,['E. Johnston'],75,1981-82,0,36
+3rd,80,Pittsburgh Penguins,Lost NHL Preliminary Round,.456,30,NHL,13,['E. Johnston'],73,1980-81,0,37
+3rd,80,Pittsburgh Penguins,Lost NHL Preliminary Round,.456,30,NHL,13,['J. Wilson'],73,1979-80,0,37
+2nd,80,Pittsburgh Penguins,Lost NHL Quarter-Finals,.531,36,NHL,13,['J. Wilson'],85,1978-79,0,31
+4th,80,Pittsburgh Penguins,,.425,25,NHL,18,['J. Wilson'],68,1977-78,0,37
+3rd,80,Pittsburgh Penguins,Lost NHL Preliminary Round,.506,34,NHL,13,['K. Schinkel'],81,1976-77,0,33
+3rd,80,Pittsburgh Penguins,Lost NHL Preliminary Round,.513,35,NHL,12,"['M. Boileau', 'K. Schinkel']",82,1975-76,0,33
+3rd,80,Pittsburgh Penguins,Lost NHL Quarter-Finals,.556,37,NHL,15,['M. Boileau'],89,1974-75,0,28
+5th,78,Pittsburgh Penguins,,.417,28,NHL,9,"['K. Schinkel', 'M. Boileau']",65,1973-74,0,41
+5th,78,Pittsburgh Penguins,,.468,32,NHL,9,"['R. Kelly', 'K. Schinkel']",73,1972-73,0,37
+4th,78,Pittsburgh Penguins,Lost NHL Quarter-Finals,.423,26,NHL,14,['R. Kelly'],66,1971-72,0,38
+6th,78,Pittsburgh Penguins,,.397,21,NHL,20,['R. Kelly'],62,1970-71,0,37
+2nd,76,Pittsburgh Penguins,Lost NHL Semi-Finals,.421,26,NHL,12,['R. Kelly'],64,1969-70,0,38
+5th,76,Pittsburgh Penguins,,.336,20,NHL,11,['R. Sullivan'],51,1968-69,0,45
+5th,74,Pittsburgh Penguins,,.453,27,NHL,13,['R. Sullivan'],67,1967-68,0,34

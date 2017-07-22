@@ -1,0 +1,26 @@
+finishing_position,games_played,team_name,playoff_result,points_percentage,wins,leage,ties,coaches,points,season,overtime_loses,loses
+,0,Ottawa Senators,,0,0,NHL,0,['G. Boucher'],0,2017-18,0,0
+2nd,82,Ottawa Senators,Lost NHL Conference Finals,.598,44,NHL,0,['G. Boucher'],98,2016-17,10,28
+5th,82,Ottawa Senators,,.518,38,NHL,0,['D. Cameron'],85,2015-16,9,35
+4th,82,Ottawa Senators,Lost NHL First Round,.604,43,NHL,0,"['P. MacLean', 'D. Cameron']",99,2014-15,13,26
+5th,82,Ottawa Senators,,.537,37,NHL,0,['P. MacLean'],88,2013-14,14,31
+4th,48,Ottawa Senators,Lost NHL Conference Semi-Finals,.583,25,NHL,0,['P. MacLean'],56,2012-13,6,17
+2nd,82,Ottawa Senators,Lost NHL Conference Quarter-Finals,.561,41,NHL,0,['P. MacLean'],92,2011-12,10,31
+5th,82,Ottawa Senators,,.451,32,NHL,0,['C. Clouston'],74,2010-11,10,40
+2nd,82,Ottawa Senators,Lost NHL Conference Quarter-Finals,.573,44,NHL,0,['C. Clouston'],94,2009-10,6,32
+4th,82,Ottawa Senators,,.506,36,NHL,0,"['C. Hartsburg', 'C. Clouston']",83,2008-09,11,35
+2nd,82,Ottawa Senators,Lost NHL Conference Quarter-Finals,.573,43,NHL,0,"['J. Paddock', 'B. Murray']",94,2007-08,8,31
+2nd,82,Ottawa Senators,Lost Stanley Cup Final,.640,48,NHL,0,['B. Murray'],105,2006-07,9,25
+1st,82,Ottawa Senators,Lost NHL Conference Semi-Finals,.689,52,NHL,0,['B. Murray'],113,2005-06,9,21
+3rd,82,Ottawa Senators,Lost NHL Conference Quarter-Finals,.622,43,NHL,10,['J. Martin'],102,2003-04,6,23
+1st,82,Ottawa Senators,Lost NHL Conference Finals,.689,52,NHL,8,['J. Martin'],113,2002-03,1,21
+3rd,82,Ottawa Senators,Lost NHL Conference Semi-Finals,.573,39,NHL,9,"['J. Martin', 'R. Neilson']",94,2001-02,7,27
+1st,82,Ottawa Senators,Lost NHL Conference Quarter-Finals,.665,48,NHL,9,['J. Martin'],109,2000-01,4,21
+2nd,82,Ottawa Senators,Lost NHL Conference Quarter-Finals,.579,41,NHL,11,['J. Martin'],95,1999-00,2,28
+1st,82,Ottawa Senators,Lost NHL Conference Quarter-Finals,.628,44,NHL,15,['J. Martin'],103,1998-99,0,23
+5th,82,Ottawa Senators,Lost NHL Conference Semi-Finals,.506,34,NHL,15,['J. Martin'],83,1997-98,0,33
+3rd,82,Ottawa Senators,Lost NHL Conference Quarter-Finals,.470,31,NHL,15,['J. Martin'],77,1996-97,0,36
+6th,82,Ottawa Senators,,.250,18,NHL,5,"['R. Bowness', 'D. Allison', 'J. Martin']",41,1995-96,0,59
+7th,48,Ottawa Senators,,.240,9,NHL,5,['R. Bowness'],23,1994-95,0,34
+7th,84,Ottawa Senators,,.220,14,NHL,9,['R. Bowness'],37,1993-94,0,61
+6th,84,Ottawa Senators,,.143,10,NHL,4,['R. Bowness'],24,1992-93,0,70

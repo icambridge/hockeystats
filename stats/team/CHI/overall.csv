@@ -1,0 +1,92 @@
+finishing_position,games_played,team_name,playoff_result,points_percentage,wins,leage,ties,coaches,points,season,overtime_loses,loses
+,0,Chicago Blackhawks,,0,0,NHL,0,['J. Quenneville'],0,2017-18,0,0
+1st,82,Chicago Blackhawks,Lost NHL First Round,.665,50,NHL,0,['J. Quenneville'],109,2016-17,9,23
+3rd,82,Chicago Blackhawks,Lost NHL First Round,.628,47,NHL,0,['J. Quenneville'],103,2015-16,9,26
+3rd,82,Chicago Blackhawks,,.622,48,NHL,0,['J. Quenneville'],102,2014-15,6,28
+3rd,82,Chicago Blackhawks,Lost NHL Conference Finals,.652,46,NHL,0,['J. Quenneville'],107,2013-14,15,21
+1st,48,Chicago Blackhawks,,.802,36,NHL,0,['J. Quenneville'],77,2012-13,5,7
+4th,82,Chicago Blackhawks,Lost NHL Conference Quarter-Finals,.616,45,NHL,0,['J. Quenneville'],101,2011-12,11,26
+3rd,82,Chicago Blackhawks,Lost NHL Conference Quarter-Finals,.591,44,NHL,0,['J. Quenneville'],97,2010-11,9,29
+1st,82,Chicago Blackhawks,,.683,52,NHL,0,['J. Quenneville'],112,2009-10,8,22
+2nd,82,Chicago Blackhawks,Lost NHL Conference Finals,.634,46,NHL,0,"['D. Savard', 'J. Quenneville']",104,2008-09,12,24
+3rd,82,Chicago Blackhawks,,.537,40,NHL,0,['D. Savard'],88,2007-08,8,34
+5th,82,Chicago Blackhawks,,.433,31,NHL,0,"['T. Yawney', 'D. Savard']",71,2006-07,9,42
+4th,82,Chicago Blackhawks,,.396,26,NHL,0,['T. Yawney'],65,2005-06,13,43
+5th,82,Chicago Blackhawks,,.360,20,NHL,11,['B. Sutter'],59,2003-04,8,43
+3rd,82,Chicago Blackhawks,,.482,30,NHL,13,['B. Sutter'],79,2002-03,6,33
+3rd,82,Chicago Blackhawks,Lost NHL Conference Quarter-Finals,.585,41,NHL,13,['B. Sutter'],96,2001-02,1,27
+4th,82,Chicago Blackhawks,,.433,29,NHL,8,['A. Suhonen'],71,2000-01,5,40
+3rd,82,Chicago Blackhawks,,.476,33,NHL,10,"['L. Molleken', 'B. Pulford']",78,1999-00,2,37
+3rd,82,Chicago Blackhawks,,.427,29,NHL,12,"['D. Graham', 'L. Molleken']",70,1998-99,0,41
+5th,82,Chicago Blackhawks,,.445,30,NHL,13,['C. Hartsburg'],73,1997-98,0,39
+5th,82,Chicago Blackhawks,Lost NHL Conference Quarter-Finals,.494,34,NHL,13,['C. Hartsburg'],81,1996-97,0,35
+2nd,82,Chicago Blackhawks,Lost NHL Conference Semi-Finals,.573,40,NHL,14,['C. Hartsburg'],94,1995-96,0,28
+3rd,48,Chicago Blackhawks,Lost NHL Conference Finals,.552,24,NHL,5,['D. Sutter'],53,1994-95,0,19
+5th,84,Chicago Blackhawks,Lost NHL Conference Quarter-Finals,.518,39,NHL,9,['D. Sutter'],87,1993-94,0,36
+1st,84,Chicago Blackhawks,Lost NHL Division Semi-Finals,.631,47,NHL,12,['D. Sutter'],106,1992-93,0,25
+2nd,80,Chicago Blackhawks,Lost Stanley Cup Final,.544,36,NHL,15,['M. Keenan'],87,1991-92,0,29
+1st,80,Chicago Blackhawks,Lost NHL Division Semi-Finals,.663,49,NHL,8,['M. Keenan'],106,1990-91,0,23
+1st,80,Chicago Blackhawks,Lost NHL Conference Finals,.550,41,NHL,6,['M. Keenan'],88,1989-90,0,33
+4th,80,Chicago Blackhawks,Lost NHL Conference Finals,.413,27,NHL,12,['M. Keenan'],66,1988-89,0,41
+3rd,80,Chicago Blackhawks,Lost NHL Division Semi-Finals,.431,30,NHL,9,['B. Murdoch'],69,1987-88,0,41
+3rd,80,Chicago Blackhawks,Lost NHL Division Semi-Finals,.450,29,NHL,14,['B. Pulford'],72,1986-87,0,37
+1st,80,Chicago Black Hawks,Lost NHL Division Semi-Finals,.538,39,NHL,8,['B. Pulford'],86,1985-86,0,33
+2nd,80,Chicago Black Hawks,Lost NHL Conference Finals,.519,38,NHL,7,"['O. Tessier', 'B. Pulford']",83,1984-85,0,35
+4th,80,Chicago Black Hawks,Lost NHL Division Semi-Finals,.425,30,NHL,8,['O. Tessier'],68,1983-84,0,42
+1st,80,Chicago Black Hawks,Lost NHL Conference Finals,.650,47,NHL,10,['O. Tessier'],104,1982-83,0,23
+4th,80,Chicago Black Hawks,Lost NHL Conference Finals,.450,30,NHL,12,"['K. Magnuson', 'B. Pulford']",72,1981-82,0,38
+2nd,80,Chicago Black Hawks,Lost NHL Preliminary Round,.488,31,NHL,16,['K. Magnuson'],78,1980-81,0,33
+1st,80,Chicago Black Hawks,Lost NHL Quarter-Finals,.544,34,NHL,19,['E. Johnston'],87,1979-80,0,27
+1st,80,Chicago Black Hawks,Lost NHL Quarter-Finals,.456,29,NHL,15,['B. Pulford'],73,1978-79,0,36
+1st,80,Chicago Black Hawks,Lost NHL Quarter-Finals,.519,32,NHL,19,['B. Pulford'],83,1977-78,0,29
+3rd,80,Chicago Black Hawks,Lost NHL Preliminary Round,.394,26,NHL,11,"['B. Reay', 'B. White']",63,1976-77,0,43
+1st,80,Chicago Black Hawks,Lost NHL Quarter-Finals,.513,32,NHL,18,['B. Reay'],82,1975-76,0,30
+3rd,80,Chicago Black Hawks,Lost NHL Quarter-Finals,.513,37,NHL,8,['B. Reay'],82,1974-75,0,35
+2nd,78,Chicago Black Hawks,Lost NHL Semi-Finals,.673,41,NHL,23,['B. Reay'],105,1973-74,0,14
+1st,78,Chicago Black Hawks,Lost Stanley Cup Final,.596,42,NHL,9,['B. Reay'],93,1972-73,0,27
+1st,78,Chicago Black Hawks,Lost NHL Semi-Finals,.686,46,NHL,15,['B. Reay'],107,1971-72,0,17
+1st,78,Chicago Black Hawks,Lost Stanley Cup Final,.686,49,NHL,9,['B. Reay'],107,1970-71,0,20
+1st,76,Chicago Black Hawks,Lost NHL Semi-Finals,.651,45,NHL,9,['B. Reay'],99,1969-70,0,22
+6th,76,Chicago Black Hawks,,.507,34,NHL,9,['B. Reay'],77,1968-69,0,33
+4th,74,Chicago Black Hawks,Lost NHL Semi-Finals,.541,32,NHL,16,['B. Reay'],80,1967-68,0,26
+1st,70,Chicago Black Hawks,Lost NHL Semi-Finals,.671,41,NHL,12,['B. Reay'],94,1966-67,0,17
+2nd,70,Chicago Black Hawks,Lost NHL Semi-Finals,.586,37,NHL,8,['B. Reay'],82,1965-66,0,25
+3rd,70,Chicago Black Hawks,Lost Stanley Cup Final,.543,34,NHL,8,['B. Reay'],76,1964-65,0,28
+2nd,70,Chicago Black Hawks,Lost NHL Semi-Finals,.600,36,NHL,12,['B. Reay'],84,1963-64,0,22
+2nd,70,Chicago Black Hawks,Lost NHL Semi-Finals,.579,32,NHL,17,['R. Pilous'],81,1962-63,0,21
+3rd,70,Chicago Black Hawks,Lost Stanley Cup Final,.536,31,NHL,13,['R. Pilous'],75,1961-62,0,26
+3rd,70,Chicago Black Hawks,,.536,29,NHL,17,['R. Pilous'],75,1960-61,0,24
+3rd,70,Chicago Black Hawks,Lost NHL Semi-Finals,.493,28,NHL,13,['R. Pilous'],69,1959-60,0,29
+3rd,70,Chicago Black Hawks,Lost NHL Semi-Finals,.493,28,NHL,13,['R. Pilous'],69,1958-59,0,29
+5th,70,Chicago Black Hawks,,.393,24,NHL,7,"['T. Ivan', 'R. Pilous']",55,1957-58,0,39
+6th,70,Chicago Black Hawks,,.336,16,NHL,15,['T. Ivan'],47,1956-57,0,39
+6th,70,Chicago Black Hawks,,.357,19,NHL,12,['D. Irvin'],50,1955-56,0,39
+6th,70,Chicago Black Hawks,,.307,13,NHL,17,['F. Eddolls'],43,1954-55,0,40
+6th,70,Chicago Black Hawks,,.221,12,NHL,7,['S. Abel'],31,1953-54,0,51
+4th,70,Chicago Black Hawks,Lost NHL Semi-Finals,.493,27,NHL,15,['S. Abel'],69,1952-53,0,28
+6th,70,Chicago Black Hawks,,.307,17,NHL,9,['E. Goodfellow'],43,1951-52,0,44
+6th,70,Chicago Black Hawks,,.257,13,NHL,10,['E. Goodfellow'],36,1950-51,0,47
+6th,70,Chicago Black Hawks,,.386,22,NHL,10,['C. Conacher'],54,1949-50,0,38
+5th,60,Chicago Black Hawks,,.417,21,NHL,8,['C. Conacher'],50,1948-49,0,31
+6th,60,Chicago Black Hawks,,.383,20,NHL,6,"['J. Gottselig', 'C. Conacher']",46,1947-48,0,34
+6th,60,Chicago Black Hawks,,.350,19,NHL,4,['J. Gottselig'],42,1946-47,0,37
+3rd,50,Chicago Black Hawks,Lost NHL Semi-Finals,.530,23,NHL,7,['J. Gottselig'],53,1945-46,0,20
+5th,50,Chicago Black Hawks,,.330,13,NHL,7,"['P. Thompson', 'J. Gottselig']",33,1944-45,0,30
+4th,50,Chicago Black Hawks,Lost Stanley Cup Final,.490,22,NHL,5,['P. Thompson'],49,1943-44,0,23
+5th,50,Chicago Black Hawks,,.490,17,NHL,15,['P. Thompson'],49,1942-43,0,18
+4th,48,Chicago Black Hawks,Lost NHL Quarter-Finals,.490,22,NHL,3,['P. Thompson'],47,1941-42,0,23
+5th,48,Chicago Black Hawks,Lost NHL Semi-Finals,.406,16,NHL,7,['P. Thompson'],39,1940-41,0,25
+4th,48,Chicago Black Hawks,Lost NHL Quarter-Finals,.542,23,NHL,6,['P. Thompson'],52,1939-40,0,19
+7th,48,Chicago Black Hawks,,.333,12,NHL,8,"['B. Stewart', 'P. Thompson']",32,1938-39,0,28
+3rd,48,Chicago Black Hawks,,.385,14,NHL,9,['B. Stewart'],37,1937-38,0,25
+4th,48,Chicago Black Hawks,,.365,14,NHL,7,['C. Loughlin'],35,1936-37,0,27
+3rd,48,Chicago Black Hawks,Lost NHL Quarter-Finals,.521,21,NHL,8,['C. Loughlin'],50,1935-36,0,19
+2nd,48,Chicago Black Hawks,Lost NHL Quarter-Finals,.594,26,NHL,5,['C. Loughlin'],57,1934-35,0,17
+2nd,48,Chicago Black Hawks,,.531,20,NHL,11,['T. Gorman'],51,1933-34,0,17
+4th,48,Chicago Black Hawks,,.458,16,NHL,12,"['E. Iverson', 'G. Matheson', 'T. Gorman']",44,1932-33,0,20
+2nd,48,Chicago Black Hawks,Lost NHL Quarter-Finals,.490,18,NHL,11,['B. Tobin'],47,1931-32,0,19
+2nd,44,Chicago Black Hawks,Lost Stanley Cup Final,.580,24,NHL,3,['D. Irvin'],51,1930-31,0,17
+2nd,44,Chicago Black Hawks,Lost NHL Quarter-Finals,.534,21,NHL,5,"['T. Shaughnessy', 'B. Tobin']",47,1929-30,0,18
+5th,44,Chicago Black Hawks,,.250,7,NHL,8,"['H. Gardiner', 'D. Irvin']",22,1928-29,0,29
+5th,44,Chicago Black Hawks,,.193,7,NHL,3,"['B. Stanley', 'H. Lehman']",17,1927-28,0,34
+3rd,44,Chicago Black Hawks,Lost NHL Quarter-Finals,.466,19,NHL,3,['P. Muldoon'],41,1926-27,0,22

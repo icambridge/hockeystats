@@ -1,0 +1,48 @@
+finishing_position,games_played,team_name,playoff_result,points_percentage,wins,leage,ties,coaches,points,season,overtime_loses,loses
+,0,Vancouver Canucks,,0,0,NHL,0,['T. Green'],0,2017-18,0,0
+7th,82,Vancouver Canucks,,.421,30,NHL,0,['W. Desjardins'],69,2016-17,9,43
+6th,82,Vancouver Canucks,,.457,31,NHL,0,['W. Desjardins'],75,2015-16,13,38
+2nd,82,Vancouver Canucks,Lost NHL First Round,.616,48,NHL,0,['W. Desjardins'],101,2014-15,5,29
+5th,82,Vancouver Canucks,,.506,36,NHL,0,['J. Tortorella'],83,2013-14,11,35
+1st,48,Vancouver Canucks,Lost NHL Conference Quarter-Finals,.615,26,NHL,0,['A. Vigneault'],59,2012-13,7,15
+1st,82,Vancouver Canucks,Lost NHL Conference Quarter-Finals,.677,51,NHL,0,['A. Vigneault'],111,2011-12,9,22
+1st,82,Vancouver Canucks,Lost Stanley Cup Final,.713,54,NHL,0,['A. Vigneault'],117,2010-11,9,19
+1st,82,Vancouver Canucks,Lost NHL Conference Semi-Finals,.628,49,NHL,0,['A. Vigneault'],103,2009-10,5,28
+1st,82,Vancouver Canucks,Lost NHL Conference Semi-Finals,.610,45,NHL,0,['A. Vigneault'],100,2008-09,10,27
+5th,82,Vancouver Canucks,,.537,39,NHL,0,['A. Vigneault'],88,2007-08,10,33
+1st,82,Vancouver Canucks,Lost NHL Conference Semi-Finals,.640,49,NHL,0,['A. Vigneault'],105,2006-07,7,26
+4th,82,Vancouver Canucks,,.561,42,NHL,0,['M. Crawford'],92,2005-06,8,32
+1st,82,Vancouver Canucks,Lost NHL Conference Quarter-Finals,.616,43,NHL,10,['M. Crawford'],101,2003-04,5,24
+2nd,82,Vancouver Canucks,Lost NHL Conference Semi-Finals,.634,45,NHL,13,['M. Crawford'],104,2002-03,1,23
+2nd,82,Vancouver Canucks,Lost NHL Conference Quarter-Finals,.573,42,NHL,7,['M. Crawford'],94,2001-02,3,30
+3rd,82,Vancouver Canucks,Lost NHL Conference Quarter-Finals,.549,36,NHL,11,['M. Crawford'],90,2000-01,7,28
+3rd,82,Vancouver Canucks,,.506,30,NHL,15,['M. Crawford'],83,1999-00,8,29
+4th,82,Vancouver Canucks,,.354,23,NHL,12,"['M. Keenan', 'M. Crawford']",58,1998-99,0,47
+7th,82,Vancouver Canucks,,.390,25,NHL,14,"['T. Renney', 'M. Keenan']",64,1997-98,0,43
+4th,82,Vancouver Canucks,,.470,35,NHL,7,['T. Renney'],77,1996-97,0,40
+3rd,82,Vancouver Canucks,Lost NHL Conference Quarter-Finals,.482,32,NHL,15,"['R. Ley', 'P. Quinn']",79,1995-96,0,35
+2nd,48,Vancouver Canucks,Lost NHL Conference Semi-Finals,.500,18,NHL,12,['R. Ley'],48,1994-95,0,18
+2nd,84,Vancouver Canucks,Lost Stanley Cup Final,.506,41,NHL,3,['P. Quinn'],85,1993-94,0,40
+1st,84,Vancouver Canucks,Lost NHL Division Finals,.601,46,NHL,9,['P. Quinn'],101,1992-93,0,29
+1st,80,Vancouver Canucks,Lost NHL Division Finals,.600,42,NHL,12,['P. Quinn'],96,1991-92,0,26
+4th,80,Vancouver Canucks,Lost NHL Division Semi-Finals,.406,28,NHL,9,"['B. McCammon', 'P. Quinn']",65,1990-91,0,43
+5th,80,Vancouver Canucks,,.400,25,NHL,14,['B. McCammon'],64,1989-90,0,41
+4th,80,Vancouver Canucks,Lost NHL Division Semi-Finals,.463,33,NHL,8,['B. McCammon'],74,1988-89,0,39
+5th,80,Vancouver Canucks,,.369,25,NHL,9,['B. McCammon'],59,1987-88,0,46
+5th,80,Vancouver Canucks,,.413,29,NHL,8,['T. Watt'],66,1986-87,0,43
+4th,80,Vancouver Canucks,Lost NHL Division Semi-Finals,.369,23,NHL,13,['T. Watt'],59,1985-86,0,44
+5th,80,Vancouver Canucks,,.369,25,NHL,9,"['B. LaForge', 'H. Neale']",59,1984-85,0,46
+3rd,80,Vancouver Canucks,Lost NHL Division Semi-Finals,.456,32,NHL,9,"['R. Neilson', 'H. Neale']",73,1983-84,0,39
+3rd,80,Vancouver Canucks,Lost NHL Division Semi-Finals,.469,30,NHL,15,['R. Neilson'],75,1982-83,0,35
+2nd,80,Vancouver Canucks,Lost Stanley Cup Final,.481,30,NHL,17,"['H. Neale', 'R. Neilson']",77,1981-82,0,33
+3rd,80,Vancouver Canucks,Lost NHL Preliminary Round,.475,28,NHL,20,['H. Neale'],76,1980-81,0,32
+3rd,80,Vancouver Canucks,Lost NHL Preliminary Round,.438,27,NHL,16,['H. Neale'],70,1979-80,0,37
+2nd,80,Vancouver Canucks,Lost NHL Preliminary Round,.394,25,NHL,13,['H. Neale'],63,1978-79,0,42
+3rd,80,Vancouver Canucks,,.356,20,NHL,17,['O. Kurtenbach'],57,1977-78,0,43
+4th,80,Vancouver Canucks,,.394,25,NHL,13,"['P. Maloney', 'O. Kurtenbach']",63,1976-77,0,42
+2nd,80,Vancouver Canucks,Lost NHL Preliminary Round,.506,33,NHL,15,['P. Maloney'],81,1975-76,0,32
+1st,80,Vancouver Canucks,Lost NHL Quarter-Finals,.538,38,NHL,10,['P. Maloney'],86,1974-75,0,32
+7th,78,Vancouver Canucks,,.378,24,NHL,11,"['B. McCreary', 'P. Maloney']",59,1973-74,0,43
+7th,78,Vancouver Canucks,,.340,22,NHL,9,['V. Stasiuk'],53,1972-73,0,47
+7th,78,Vancouver Canucks,,.308,20,NHL,8,['H. Laycoe'],48,1971-72,0,50
+6th,78,Vancouver Canucks,,.359,24,NHL,8,['H. Laycoe'],56,1970-71,0,46

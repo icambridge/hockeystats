@@ -1,0 +1,25 @@
+finishing_position,games_played,team_name,playoff_result,points_percentage,wins,leage,ties,coaches,points,season,overtime_loses,loses
+,0,Anaheim Ducks,,0,0,NHL,0,['R. Carlyle'],0,2017-18,0,0
+1st,82,Anaheim Ducks,Lost NHL Conference Finals,.640,46,NHL,0,['R. Carlyle'],105,2016-17,13,23
+1st,82,Anaheim Ducks,Lost NHL First Round,.628,46,NHL,0,['B. Boudreau'],103,2015-16,11,25
+1st,82,Anaheim Ducks,Lost NHL Conference Finals,.665,51,NHL,0,['B. Boudreau'],109,2014-15,7,24
+1st,82,Anaheim Ducks,Lost NHL Second Round,.707,54,NHL,0,['B. Boudreau'],116,2013-14,8,20
+1st,48,Anaheim Ducks,Lost NHL Conference Quarter-Finals,.688,30,NHL,0,['B. Boudreau'],66,2012-13,6,12
+5th,82,Anaheim Ducks,,.488,34,NHL,0,"['R. Carlyle', 'B. Boudreau']",80,2011-12,12,36
+2nd,82,Anaheim Ducks,Lost NHL Conference Quarter-Finals,.604,47,NHL,0,['R. Carlyle'],99,2010-11,5,30
+4th,82,Anaheim Ducks,,.543,39,NHL,0,['R. Carlyle'],89,2009-10,11,32
+2nd,82,Anaheim Ducks,Lost NHL Conference Semi-Finals,.555,42,NHL,0,['R. Carlyle'],91,2008-09,7,33
+2nd,82,Anaheim Ducks,Lost NHL Conference Quarter-Finals,.622,47,NHL,0,['R. Carlyle'],102,2007-08,8,27
+1st,82,Anaheim Ducks,,.671,48,NHL,0,['R. Carlyle'],110,2006-07,14,20
+3rd,82,Mighty Ducks of Anaheim,Lost NHL Conference Finals,.598,43,NHL,0,['R. Carlyle'],98,2005-06,12,27
+4th,82,Mighty Ducks of Anaheim,,.463,29,NHL,10,['M. Babcock'],76,2003-04,8,35
+2nd,82,Mighty Ducks of Anaheim,Lost Stanley Cup Final,.579,40,NHL,9,['M. Babcock'],95,2002-03,6,27
+5th,82,Mighty Ducks of Anaheim,,.421,29,NHL,8,['B. Murray'],69,2001-02,3,42
+5th,82,Mighty Ducks of Anaheim,,.402,25,NHL,11,"['C. Hartsburg', 'G. Charron']",66,2000-01,5,41
+5th,82,Mighty Ducks of Anaheim,,.506,34,NHL,12,['C. Hartsburg'],83,1999-00,3,33
+3rd,82,Mighty Ducks of Anaheim,Lost NHL Conference Quarter-Finals,.506,35,NHL,13,['C. Hartsburg'],83,1998-99,0,34
+6th,82,Mighty Ducks of Anaheim,,.396,26,NHL,13,['P. Page'],65,1997-98,0,43
+2nd,82,Mighty Ducks of Anaheim,Lost NHL Conference Semi-Finals,.518,36,NHL,13,['R. Wilson'],85,1996-97,0,33
+4th,82,Mighty Ducks of Anaheim,,.476,35,NHL,8,['R. Wilson'],78,1995-96,0,39
+6th,48,Mighty Ducks of Anaheim,,.385,16,NHL,5,['R. Wilson'],37,1994-95,0,27
+4th,84,Mighty Ducks of Anaheim,,.423,33,NHL,5,['R. Wilson'],71,1993-94,0,46
