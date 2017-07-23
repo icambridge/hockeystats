@@ -1,0 +1,11 @@
+playoff_ties,playoff_win_lose,team,ties,loses,playoff_loses,playoff_wins,overtime_loses,playoff_note,season,leage,wins,points,finishing_position,points_percentage,games_played
+0,0,NYR,5,20,0,0,0,,1948-49,NHL,12,29,,.392,37
+0,.583,NYR,11,31,5,7,0,,1949-50,NHL,28,67,12,.479,70
+1,.250,BOS,18,30,4,1,0,,1950-51,NHL,22,62,6,.443,70
+0,.429,BOS,16,29,4,3,0,,1951-52,NHL,25,66,7,.471,70
+0,.455,BOS,13,29,6,5,0,,1952-53,NHL,28,69,11,.493,70
+0,.000,BOS,10,28,4,0,0,,1953-54,NHL,32,74,4,.529,70
+0,0,BOS,6,14,0,0,0,,1954-55,NHL,10,26,,.433,30
+0,0,STL,2,10,0,0,0,,1967-68,NHL,4,10,,.313,16
+0,0,STL,1,0,0,0,0,,1974-75,NHL,1,3,,.750,2
+0,0,STL,0,5,0,0,0,,1975-76,NHL,3,6,,.375,8

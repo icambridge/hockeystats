@@ -1,0 +1,12 @@
+playoff_ties,playoff_win_lose,team,ties,loses,playoff_loses,playoff_wins,overtime_loses,playoff_note,season,leage,wins,points,finishing_position,points_percentage,games_played
+0,0,OTS,0,13,0,0,0,,1917-18,NHL,9,18,,.409,22
+0,0,MTM,2,19,0,0,0,,1924-25,NHL,9,20,,.333,30
+2,.750,MTM,5,11,0,2,0,Stanley Cup Champions,1925-26,NHL,20,45,4,.625,36
+1,.250,MTM,4,20,1,0,0,,1926-27,NHL,20,44,2,.500,44
+1,.611,MTM,6,14,3,5,0,,1927-28,NHL,24,54,9,.614,44
+0,0,MTM,9,20,0,0,0,,1928-29,NHL,15,39,,.443,44
+0,0,NYA,10,16,0,0,0,,1930-31,NHL,18,46,,.523,44
+0,0,NYA,8,24,0,0,0,,1931-32,NHL,16,40,,.417,48
+0,.000,MTM,6,20,2,0,0,,1932-33,NHL,22,50,2,.521,48
+1,.375,MTM,11,18,2,1,0,,1933-34,NHL,19,49,4,.510,48
+0,0,STE,0,11,0,0,0,,1934-35,NHL,2,4,,.154,13

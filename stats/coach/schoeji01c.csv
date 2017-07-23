@@ -1,0 +1,11 @@
+playoff_ties,playoff_win_lose,team,ties,loses,playoff_loses,playoff_wins,overtime_loses,playoff_note,season,leage,wins,points,finishing_position,points_percentage,games_played
+0,0,BUF,5,19,0,0,0,,1985-86,NHL,19,43,,.500,43
+0,.550,NJD,1,12,9,11,0,,1987-88,NHL,17,35,20,.583,30
+0,0,NJD,12,41,0,0,0,,1988-89,NHL,27,66,,.413,80
+0,0,NJD,2,6,0,0,0,,1989-90,NHL,6,14,,.500,14
+0,.455,WSH,6,12,6,5,0,,1993-94,NHL,19,44,11,.595,37
+0,.429,WSH,8,18,4,3,0,,1994-95,NHL,22,52,7,.542,48
+0,.333,WSH,11,32,4,2,0,,1995-96,NHL,39,89,6,.543,82
+0,0,WSH,9,40,0,0,0,,1996-97,NHL,33,75,,.457,82
+0,.333,PHX,12,35,4,2,0,,1997-98,NHL,35,82,6,.500,82
+0,.429,PHX,12,31,4,3,0,,1998-99,NHL,39,90,7,.549,82

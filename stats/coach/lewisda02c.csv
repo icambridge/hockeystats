@@ -1,0 +1,5 @@
+playoff_ties,playoff_win_lose,team,ties,loses,playoff_loses,playoff_wins,overtime_loses,playoff_note,season,leage,wins,points,finishing_position,points_percentage,games_played
+0,0,DET,0,1,0,0,0,,1998-99,NHL,4,8,,.800,5
+0,.000,DET,10,20,4,0,4,,2002-03,NHL,48,110,4,.671,82
+0,.500,DET,11,21,6,6,2,,2003-04,NHL,48,109,12,.665,82
+0,0,BOS,0,41,0,0,6,,2006-07,NHL,35,76,,.463,82

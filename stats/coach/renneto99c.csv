@@ -1,0 +1,10 @@
+playoff_ties,playoff_win_lose,team,ties,loses,playoff_loses,playoff_wins,overtime_loses,playoff_note,season,leage,wins,points,finishing_position,points_percentage,games_played
+0,0,VAN,7,40,0,0,0,,1996-97,NHL,35,77,,.470,82
+0,0,VAN,2,13,0,0,0,,1997-98,NHL,4,10,,.263,19
+0,0,NYR,0,11,0,0,4,,2003-04,NHL,5,14,,.350,20
+0,.000,NYR,0,26,4,0,12,,2005-06,NHL,44,100,4,.610,82
+0,.600,NYR,0,30,4,6,10,,2006-07,NHL,42,94,10,.573,82
+0,.500,NYR,0,27,5,5,13,,2007-08,NHL,42,97,10,.591,82
+0,0,NYR,0,23,0,0,7,,2008-09,NHL,31,69,,.566,61
+0,0,EDM,0,45,0,0,12,,2010-11,NHL,25,62,,.378,82
+0,0,EDM,0,40,0,0,10,,2011-12,NHL,32,74,,.451,82

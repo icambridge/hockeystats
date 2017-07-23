@@ -1,0 +1,11 @@
+playoff_ties,playoff_win_lose,team,ties,loses,playoff_loses,playoff_wins,overtime_loses,playoff_note,season,leage,wins,points,finishing_position,points_percentage,games_played
+0,0,MNS,6,23,0,0,0,,1968-69,NHL,6,18,,.257,35
+0,.727,EDM,14,28,6,16,0,Stanley Cup Champions,1989-90,NHL,38,90,22,.563,80
+0,.500,EDM,6,37,9,9,0,,1990-91,NHL,37,80,18,.500,80
+0,.429,BUF,8,22,4,3,0,,1991-92,NHL,22,52,7,.500,52
+0,.500,BUF,10,36,4,4,0,,1992-93,NHL,38,86,8,.512,84
+0,.429,BUF,9,32,4,3,0,,1993-94,NHL,43,95,7,.565,84
+0,.200,BUF,7,19,4,1,0,,1994-95,NHL,22,51,5,.531,48
+0,0,NYR,2,15,0,0,0,,1997-98,NHL,8,18,,.360,25
+0,0,NYR,11,38,0,0,0,,1998-99,NHL,33,77,,.470,82
+0,0,NYR,11,35,0,0,3,,1999-00,NHL,29,72,,.462,78

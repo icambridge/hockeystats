@@ -1,0 +1,11 @@
+playoff_ties,playoff_win_lose,team,ties,loses,playoff_loses,playoff_wins,overtime_loses,playoff_note,season,leage,wins,points,finishing_position,points_percentage,games_played
+0,.429,TOR,6,14,4,3,0,,1940-41,NHL,28,62,7,.646,48
+0,.615,TOR,3,18,5,8,0,Stanley Cup Champions,1941-42,NHL,27,57,13,.594,48
+0,.333,TOR,9,19,4,2,0,,1942-43,NHL,22,53,6,.530,50
+0,.200,TOR,4,23,4,1,0,,1943-44,NHL,23,50,5,.500,50
+0,.615,TOR,4,22,5,8,0,Stanley Cup Champions,1944-45,NHL,24,52,13,.520,50
+0,0,TOR,7,24,0,0,0,,1945-46,NHL,19,45,,.450,50
+0,.727,TOR,10,19,3,8,0,Stanley Cup Champions,1946-47,NHL,31,72,11,.600,60
+0,.889,TOR,13,15,1,8,0,Stanley Cup Champions,1947-48,NHL,32,77,9,.642,60
+0,.889,TOR,13,25,1,8,0,Stanley Cup Champions,1948-49,NHL,22,57,9,.475,60
+0,.429,TOR,12,27,4,3,0,,1949-50,NHL,31,74,7,.529,70

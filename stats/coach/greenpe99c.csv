@@ -1,0 +1,7 @@
+playoff_ties,playoff_win_lose,team,ties,loses,playoff_loses,playoff_wins,overtime_loses,playoff_note,season,leage,wins,points,finishing_position,points_percentage,games_played
+0,.600,OTS,0,5,2,3,0,Stanley Cup Champions,1919-20,NHL,19,38,5,.792,24
+0,1.000,OTS,0,10,0,2,0,Stanley Cup Champions,1920-21,NHL,14,28,2,.583,24
+1,.250,OTS,2,8,1,0,0,,1921-22,NHL,14,30,2,.625,24
+0,.500,OTS,1,9,1,1,0,Stanley Cup Champions,1922-23,NHL,14,29,2,.604,24
+0,.000,OTS,0,8,2,0,0,,1923-24,NHL,16,32,2,.667,24
+0,0,OTS,1,12,0,0,0,,1924-25,NHL,17,35,,.583,30

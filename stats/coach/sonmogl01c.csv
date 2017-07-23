@@ -1,0 +1,11 @@
+playoff_ties,playoff_win_lose,team,ties,loses,playoff_loses,playoff_wins,overtime_loses,playoff_note,season,leage,wins,points,finishing_position,points_percentage,games_played
+0,0,MFS,3,28,0,0,0,,1972-73,WHA,28,59,,.500,59
+0,0,MNF,5,18,0,0,0,,1976-77,WHA,19,43,,.512,42
+0,.200,BRB,3,38,4,1,0,,1977-78,WHA,36,75,5,.487,77
+0,0,MNS,10,34,0,0,0,,1978-79,NHL,25,60,,.435,69
+0,.533,MNS,16,28,7,8,0,,1979-80,NHL,36,88,15,.550,80
+0,.632,MNS,17,28,7,12,0,,1980-81,NHL,35,87,19,.544,80
+0,.250,MNS,20,23,3,1,0,,1981-82,NHL,37,94,4,.588,80
+0,0,MNS,9,12,0,0,0,,1982-83,NHL,22,53,,.616,43
+0,.556,MNS,10,35,4,5,0,,1984-85,NHL,22,54,9,.403,67
+0,0,MNS,1,1,0,0,0,,1986-87,NHL,0,1,,.250,2

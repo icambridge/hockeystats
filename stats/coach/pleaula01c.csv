@@ -1,0 +1,6 @@
+playoff_ties,playoff_win_lose,team,ties,loses,playoff_loses,playoff_wins,overtime_loses,playoff_note,season,leage,wins,points,finishing_position,points_percentage,games_played
+0,0,HAR,2,12,0,0,0,,1980-81,NHL,6,14,,.350,20
+0,0,HAR,18,41,0,0,0,,1981-82,NHL,21,60,,.375,80
+0,0,HAR,1,13,0,0,0,,1982-83,NHL,4,9,,.250,18
+0,.333,HAR,0,13,4,2,0,,1987-88,NHL,13,26,6,.500,26
+0,.000,HAR,5,38,4,0,0,,1988-89,NHL,37,79,4,.494,80

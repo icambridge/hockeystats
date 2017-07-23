@@ -1,0 +1,10 @@
+playoff_ties,playoff_win_lose,team,ties,loses,playoff_loses,playoff_wins,overtime_loses,playoff_note,season,leage,wins,points,finishing_position,points_percentage,games_played
+0,.444,CGY,9,23,5,4,0,,1987-88,NHL,48,105,9,.656,80
+0,.727,CGY,9,17,6,16,0,Stanley Cup Champions,1988-89,NHL,54,117,22,.731,80
+0,.333,CGY,15,23,4,2,0,,1989-90,NHL,42,99,6,.619,80
+0,0,TBL,7,54,0,0,0,,1992-93,NHL,23,53,,.315,84
+0,0,TBL,11,43,0,0,0,,1993-94,NHL,30,71,,.423,84
+0,0,TBL,3,28,0,0,0,,1994-95,NHL,17,37,,.385,48
+0,.333,TBL,12,32,4,2,0,,1995-96,NHL,38,88,6,.537,82
+0,0,TBL,10,40,0,0,0,,1996-97,NHL,32,74,,.451,82
+0,0,TBL,2,7,0,0,0,,1997-98,NHL,2,6,,.273,11

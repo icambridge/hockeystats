@@ -1,0 +1,5 @@
+playoff_ties,playoff_win_lose,team,ties,loses,playoff_loses,playoff_wins,overtime_loses,playoff_note,season,leage,wins,points,finishing_position,points_percentage,games_played
+0,0,PIT,3,18,0,0,0,,1972-73,NHL,15,33,,.458,36
+0,0,PIT,5,31,0,0,0,,1973-74,NHL,14,33,,.330,50
+0,.333,PIT,7,10,2,1,0,,1975-76,NHL,20,47,3,.635,37
+0,.333,PIT,13,33,2,1,0,,1976-77,NHL,34,81,3,.506,80

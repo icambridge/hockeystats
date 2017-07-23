@@ -1,0 +1,6 @@
+playoff_ties,playoff_win_lose,team,ties,loses,playoff_loses,playoff_wins,overtime_loses,playoff_note,season,leage,wins,points,finishing_position,points_percentage,games_played
+0,0,PIT,4,10,0,0,0,,1973-74,NHL,14,32,,.571,28
+0,.556,PIT,15,28,4,5,0,,1974-75,NHL,37,89,9,.556,80
+0,0,PIT,5,23,0,0,0,,1975-76,NHL,15,35,,.407,43
+0,.706,QBN,3,31,5,12,0,WHA Champions,1976-77,WHA,47,97,17,.599,81
+0,0,QBN,2,30,0,0,0,,1977-78,WHA,27,56,,.475,59

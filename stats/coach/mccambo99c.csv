@@ -1,0 +1,9 @@
+playoff_ties,playoff_win_lose,team,ties,loses,playoff_loses,playoff_wins,overtime_loses,playoff_note,season,leage,wins,points,finishing_position,points_percentage,games_played
+0,0,PHI,11,17,0,0,0,,1978-79,NHL,22,55,,.550,50
+0,.250,PHI,2,2,3,1,0,,1981-82,NHL,4,10,4,.625,8
+0,.000,PHI,8,23,3,0,0,,1982-83,NHL,49,106,3,.663,80
+0,.000,PHI,10,26,3,0,0,,1983-84,NHL,44,98,3,.613,80
+0,0,VAN,9,46,0,0,0,,1987-88,NHL,25,59,,.369,80
+0,.429,VAN,8,39,4,3,0,,1988-89,NHL,33,74,7,.463,80
+0,0,VAN,14,41,0,0,0,,1989-90,NHL,25,64,,.400,80
+0,0,VAN,5,30,0,0,0,,1990-91,NHL,19,43,,.398,54

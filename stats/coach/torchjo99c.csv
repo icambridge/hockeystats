@@ -1,0 +1,4 @@
+playoff_ties,playoff_win_lose,team,ties,loses,playoff_loses,playoff_wins,overtime_loses,playoff_note,season,leage,wins,points,finishing_position,points_percentage,games_played
+0,0,FLA,4,12,0,0,1,,2003-04,NHL,10,25,,.463,27
+0,0,LAK,0,7,0,0,0,,2005-06,NHL,5,10,,.417,12
+0,.333,MIN,0,11,4,2,1,,2015-16,NHL,15,31,6,.574,27

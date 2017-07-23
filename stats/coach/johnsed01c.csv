@@ -1,0 +1,9 @@
+playoff_ties,playoff_win_lose,team,ties,loses,playoff_loses,playoff_wins,overtime_loses,playoff_note,season,leage,wins,points,finishing_position,points_percentage,games_played
+0,.429,CBH,19,27,4,3,0,,1979-80,NHL,34,87,7,.544,80
+0,.400,PIT,13,37,3,2,0,,1980-81,NHL,30,73,5,.456,80
+0,.400,PIT,13,36,3,2,0,,1981-82,NHL,31,75,5,.469,80
+0,0,PIT,9,53,0,0,0,,1982-83,NHL,18,45,,.281,80
+0,.333,PIT,13,27,4,2,0,,1993-94,NHL,44,101,6,.601,84
+0,.417,PIT,3,16,7,5,0,,1994-95,NHL,29,61,12,.635,48
+0,.611,PIT,4,29,7,11,0,,1995-96,NHL,49,102,18,.622,82
+0,0,PIT,5,26,0,0,0,,1996-97,NHL,31,67,,.540,62

@@ -18,6 +18,7 @@ from lxml import html
 from datetime import datetime
 import csv
 import os
+import time
 
 
 conn = http.client.HTTPSConnection("www.hockey-reference.com")
@@ -50,7 +51,7 @@ def buildYears(tree):
     agesPre = tree.xpath('//*[@id="coach"]/tbody/tr/td[1]')
     teams = tree.xpath('//*[@id="coach"]/tbody/tr/td[2]/a/text()')
     leagues = tree.xpath('//*[@id="coach"]/tbody/tr/td[3]/a/text()')
-    ganesPlayed = tree.xpath('//*[@id="coach"]/tbody/tr/td[4]')
+    gamesPlayedPre = tree.xpath('//*[@id="coach"]/tbody/tr/td[4]')
     winsPre = tree.xpath('//*[@id="coach"]/tbody/tr/td[5]')
     losesPre = tree.xpath('//*[@id="coach"]/tbody/tr/td[6]')
     tiesPre = tree.xpath('//*[@id="coach"]/tbody/tr/td[7]')
@@ -58,13 +59,12 @@ def buildYears(tree):
     pointsPre = tree.xpath('//*[@id="coach"]/tbody/tr/td[9]')
     pointsPrecentagePre = tree.xpath('//*[@id="coach"]/tbody/tr/td[10]')
     finishPre = tree.xpath('//*[@id="coach"]/tbody/tr/td[12]')
-    playtoffWinsPre = tree.xpath('//*[@id="coach"]/tbody/tr/td[13]')
-    playtoffLosesPre = tree.xpath('//*[@id="coach"]/tbody/tr/td[14]')
-    playtoffTiesPre = tree.xpath('//*[@id="coach"]/tbody/tr/td[15]')
-    playtoffWinLosePre = tree.xpath('//*[@id="coach"]/tbody/tr/td[16]')
-    playtoffNotesPre = tree.xpath('//*[@id="coach"]/tbody/tr/td[17]')
+    playoffWinsPre = tree.xpath('//*[@id="coach"]/tbody/tr/td[13]')
+    playoffLosesPre = tree.xpath('//*[@id="coach"]/tbody/tr/td[14]')
+    playoffTiesPre = tree.xpath('//*[@id="coach"]/tbody/tr/td[15]')
+    playoffWinLosePre = tree.xpath('//*[@id="coach"]/tbody/tr/td[16]')
+    playoffNotesPre = tree.xpath('//*[@id="coach"]/tbody/tr/td[17]')
 
-    code = [x.split("/")[2] for x in seasonsLinks]
     ages = [x.text if x.text else 0 for x in agesPre]
     gamesPlayed = [x.text if x.text else 0 for x in gamesPlayedPre]
     wins = [x.text if x.text else 0 for x in winsPre]
@@ -74,11 +74,11 @@ def buildYears(tree):
     points = [x.text if x.text else 0 for x in pointsPre]
     pointsPercentages = [x.text if x.text else 0 for x in pointsPrecentagePre]
     finishes = [x.text if x.text else '' for x in finishPre]
-    playtoffWins = [x.text if x.text else 0 for x in playtoffWinsPre]
-    playtoffLoses = [x.text if x.text else 0 for x in playtoffLosesPre]
-    playtoffTies = [x.text if x.text else 0 for x in playtoffTiesPre]
-    playtoffWinLose = [x.text if x.text else 0 for x in playtoffWinLosePre]
-    playtoffNotes = [x.text if x.text else '' for x in playtoffNotesPre]
+    playoffWins = [x.text if x.text else 0 for x in playoffWinsPre]
+    playoffLoses = [x.text if x.text else 0 for x in playoffLosesPre]
+    playoffTies = [x.text if x.text else 0 for x in playoffTiesPre]
+    playoffWinLose = [x.text if x.text else 0 for x in playoffWinLosePre]
+    playoffNotes = [x.text if x.text else '' for x in playoffNotesPre]
 
     years = []
     i = 0
@@ -99,7 +99,7 @@ def buildYears(tree):
             "playoff_wins": playoffWins[i],
             "playoff_loses": playoffLoses[i],
             "playoff_ties": playoffTies[i],
-            "playoff_win_lose": playtoffWinLose[i]
+            "playoff_win_lose": playoffWinLose[i]
         }
         years.append(year)
         i = i + 1
@@ -108,7 +108,7 @@ def buildYears(tree):
 
 
 def getHtml(url):
-
+    time.sleep(2)
     conn.request("GET", url)
     response = conn.getresponse()
 
@@ -128,7 +128,12 @@ def crawlCoach(url):
 
 content = getHtml("/coaches/")
 tree = html.fromstring(content)
-coachPages = tree.xpath("//*[@id="coaches"]/tbody/tr/th/a/@href")
+unBoldCoachPages = tree.xpath('//*[@id="coaches"]/tbody/tr/th/a/@href')
+boldCoachPages = tree.xpath('//*[@id="coaches"]/tbody/tr/th//strong/a/@href')
+coachPages = unBoldCoachPages + boldCoachPages
+numberFound = len(coachPages)
 
-for i in range(len(coachPages)):
+print("Found %s" % (numberFound))
+
+for i in range(numberFound):
     crawlCoach(coachPages[i])

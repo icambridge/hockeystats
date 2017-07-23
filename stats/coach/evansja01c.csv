@@ -1,0 +1,9 @@
+playoff_ties,playoff_win_lose,team,ties,loses,playoff_loses,playoff_wins,overtime_loses,playoff_note,season,leage,wins,points,finishing_position,points_percentage,games_played
+0,0,CGS,11,42,0,0,0,,1975-76,NHL,27,65,,.406,80
+0,0,CLE,13,42,0,0,0,,1976-77,NHL,25,63,,.394,80
+0,0,CLE,13,45,0,0,0,,1977-78,NHL,22,57,,.356,80
+0,0,HAR,10,42,0,0,0,,1983-84,NHL,28,66,,.413,80
+0,0,HAR,9,41,0,0,0,,1984-85,NHL,30,69,,.431,80
+0,.600,HAR,4,36,4,6,0,,1985-86,NHL,40,84,10,.525,80
+0,.333,HAR,7,30,4,2,0,,1986-87,NHL,43,93,6,.581,80
+0,0,HAR,7,25,0,0,0,,1987-88,NHL,22,51,,.472,54

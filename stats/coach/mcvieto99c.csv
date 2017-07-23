@@ -1,0 +1,10 @@
+playoff_ties,playoff_win_lose,team,ties,loses,playoff_loses,playoff_wins,overtime_loses,playoff_note,season,leage,wins,points,finishing_position,points_percentage,games_played
+0,0,WSH,5,31,0,0,0,,1975-76,NHL,8,21,,.239,44
+0,0,WSH,14,42,0,0,0,,1976-77,NHL,24,62,,.388,80
+0,0,WSH,14,49,0,0,0,,1977-78,NHL,17,48,,.300,80
+0,.800,WNJ,0,8,2,8,0,WHA Champions,1978-79,WHA,11,22,10,.579,19
+0,0,WIN,11,47,0,0,0,,1979-80,NHL,19,49,,.318,77
+0,0,WIN,7,20,0,0,0,,1980-81,NHL,1,9,,.161,28
+0,0,NJD,7,38,0,0,0,,1983-84,NHL,15,37,,.308,60
+0,.429,NJD,4,5,4,3,0,,1990-91,NHL,4,12,7,.462,13
+0,.429,NJD,11,31,4,3,0,,1991-92,NHL,38,87,7,.544,80
