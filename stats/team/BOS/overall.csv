@@ -1,94 +1,94 @@
-points,coaches,leage,code,season,wins,loses,overtime_loses,team_name,points_percentage,playoff_result,ties,games_played,finishing_position
-0,"[{'link': '/coaches/cassibr01c.html', 'name': 'B. Cassidy'}]",NHL,BOS,2017-18,0,0,0,Boston Bruins,0,,0,0,
-95,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}, {'link': '/coaches/cassibr01c.html', 'name': 'B. Cassidy'}]",NHL,BOS,2016-17,44,31,7,Boston Bruins,.579,Lost NHL First Round,0,82,3rd
-93,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",NHL,BOS,2015-16,42,31,9,Boston Bruins,.567,,0,82,3rd
-96,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",NHL,BOS,2014-15,41,27,14,Boston Bruins,.585,,0,82,5th
-117,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",NHL,BOS,2013-14,54,19,9,Boston Bruins,.713,Lost NHL Second Round,0,82,1st
-62,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",NHL,BOS,2012-13,28,14,6,Boston Bruins,.646,Lost Stanley Cup Final,0,48,2nd
-102,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",NHL,BOS,2011-12,49,29,4,Boston Bruins,.622,Lost NHL Conference Quarter-Finals,0,82,1st
-103,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",NHL,BOS,2010-11,46,25,11,Boston Bruins,.628,,0,82,1st
-91,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",NHL,BOS,2009-10,39,30,13,Boston Bruins,.555,Lost NHL Conference Semi-Finals,0,82,3rd
-116,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",NHL,BOS,2008-09,53,19,10,Boston Bruins,.707,Lost NHL Conference Semi-Finals,0,82,1st
-94,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",NHL,BOS,2007-08,41,29,12,Boston Bruins,.573,Lost NHL Conference Quarter-Finals,0,82,3rd
-76,"[{'link': '/coaches/lewisda02c.html', 'name': 'D. Lewis'}]",NHL,BOS,2006-07,35,41,6,Boston Bruins,.463,,0,82,5th
-74,"[{'link': '/coaches/sullimi01c.html', 'name': 'M. Sullivan'}]",NHL,BOS,2005-06,29,37,16,Boston Bruins,.451,,0,82,5th
-104,"[{'link': '/coaches/sullimi01c.html', 'name': 'M. Sullivan'}]",NHL,BOS,2003-04,41,19,7,Boston Bruins,.634,Lost NHL Conference Quarter-Finals,15,82,1st
-87,"[{'link': '/coaches/ftorero01c.html', 'name': 'R. Ftorek'}, {'link': '/coaches/oconnmi01c.html', 'name': ""M. O'Connell""}]",NHL,BOS,2002-03,36,31,4,Boston Bruins,.530,Lost NHL Conference Quarter-Finals,11,82,3rd
-101,"[{'link': '/coaches/ftorero01c.html', 'name': 'R. Ftorek'}]",NHL,BOS,2001-02,43,24,9,Boston Bruins,.616,Lost NHL Conference Quarter-Finals,6,82,1st
-88,"[{'link': '/coaches/burnspa99c.html', 'name': 'P. Burns'}, {'link': '/coaches/keenami99c.html', 'name': 'M. Keenan'}]",NHL,BOS,2000-01,36,30,8,Boston Bruins,.537,,8,82,4th
-73,"[{'link': '/coaches/burnspa99c.html', 'name': 'P. Burns'}]",NHL,BOS,1999-00,24,33,6,Boston Bruins,.445,,19,82,5th
-91,"[{'link': '/coaches/burnspa99c.html', 'name': 'P. Burns'}]",NHL,BOS,1998-99,39,30,0,Boston Bruins,.555,Lost NHL Conference Semi-Finals,13,82,3rd
-91,"[{'link': '/coaches/burnspa99c.html', 'name': 'P. Burns'}]",NHL,BOS,1997-98,39,30,0,Boston Bruins,.555,Lost NHL Conference Quarter-Finals,13,82,2nd
-61,"[{'link': '/coaches/kaspest01c.html', 'name': 'S. Kasper'}]",NHL,BOS,1996-97,26,47,0,Boston Bruins,.372,,9,82,6th
-91,"[{'link': '/coaches/kaspest01c.html', 'name': 'S. Kasper'}]",NHL,BOS,1995-96,40,31,0,Boston Bruins,.555,Lost NHL Conference Quarter-Finals,11,82,2nd
-57,"[{'link': '/coaches/suttebr01c.html', 'name': 'B. Sutter'}]",NHL,BOS,1994-95,27,18,0,Boston Bruins,.594,Lost NHL Conference Quarter-Finals,3,48,3rd
-97,"[{'link': '/coaches/suttebr01c.html', 'name': 'B. Sutter'}]",NHL,BOS,1993-94,42,29,0,Boston Bruins,.577,Lost NHL Conference Semi-Finals,13,84,2nd
-109,"[{'link': '/coaches/suttebr01c.html', 'name': 'B. Sutter'}]",NHL,BOS,1992-93,51,26,0,Boston Bruins,.649,Lost NHL Division Semi-Finals,7,84,1st
-84,"[{'link': '/coaches/bowneri01c.html', 'name': 'R. Bowness'}]",NHL,BOS,1991-92,36,32,0,Boston Bruins,.525,Lost NHL Conference Finals,12,80,2nd
-100,"[{'link': '/coaches/milbumi01c.html', 'name': 'M. Milbury'}]",NHL,BOS,1990-91,44,24,0,Boston Bruins,.625,Lost NHL Conference Finals,12,80,1st
-101,"[{'link': '/coaches/milbumi01c.html', 'name': 'M. Milbury'}]",NHL,BOS,1989-90,46,25,0,Boston Bruins,.631,Lost Stanley Cup Final,9,80,1st
-88,"[{'link': '/coaches/oreilte01c.html', 'name': ""T. O'Reilly""}]",NHL,BOS,1988-89,37,29,0,Boston Bruins,.550,Lost NHL Division Finals,14,80,2nd
-94,"[{'link': '/coaches/oreilte01c.html', 'name': ""T. O'Reilly""}]",NHL,BOS,1987-88,44,30,0,Boston Bruins,.588,Lost Stanley Cup Final,6,80,2nd
-85,"[{'link': '/coaches/gorinbu01c.html', 'name': 'B. Goring'}, {'link': '/coaches/oreilte01c.html', 'name': ""T. O'Reilly""}]",NHL,BOS,1986-87,39,34,0,Boston Bruins,.531,Lost NHL Division Semi-Finals,7,80,3rd
-86,"[{'link': '/coaches/gorinbu01c.html', 'name': 'B. Goring'}]",NHL,BOS,1985-86,37,31,0,Boston Bruins,.538,Lost NHL Division Semi-Finals,12,80,3rd
-82,"[{'link': '/coaches/cheevge01c.html', 'name': 'G. Cheevers'}, {'link': '/coaches/sindeha01c.html', 'name': 'H. Sinden'}]",NHL,BOS,1984-85,36,34,0,Boston Bruins,.513,Lost NHL Division Semi-Finals,10,80,4th
-104,"[{'link': '/coaches/cheevge01c.html', 'name': 'G. Cheevers'}]",NHL,BOS,1983-84,49,25,0,Boston Bruins,.650,Lost NHL Division Semi-Finals,6,80,1st
-110,"[{'link': '/coaches/cheevge01c.html', 'name': 'G. Cheevers'}]",NHL,BOS,1982-83,50,20,0,Boston Bruins,.688,Lost NHL Conference Finals,10,80,1st
-96,"[{'link': '/coaches/cheevge01c.html', 'name': 'G. Cheevers'}]",NHL,BOS,1981-82,43,27,0,Boston Bruins,.600,Lost NHL Division Finals,10,80,2nd
-87,"[{'link': '/coaches/cheevge01c.html', 'name': 'G. Cheevers'}]",NHL,BOS,1980-81,37,30,0,Boston Bruins,.544,Lost NHL Preliminary Round,13,80,2nd
-105,"[{'link': '/coaches/creigfr99c.html', 'name': 'F. Creighton'}, {'link': '/coaches/sindeha01c.html', 'name': 'H. Sinden'}]",NHL,BOS,1979-80,46,21,0,Boston Bruins,.656,Lost NHL Quarter-Finals,13,80,2nd
-100,"[{'link': '/coaches/cherrdo01c.html', 'name': 'D. Cherry'}]",NHL,BOS,1978-79,43,23,0,Boston Bruins,.625,Lost NHL Semi-Finals,14,80,1st
-113,"[{'link': '/coaches/cherrdo01c.html', 'name': 'D. Cherry'}]",NHL,BOS,1977-78,51,18,0,Boston Bruins,.706,Lost Stanley Cup Final,11,80,1st
-106,"[{'link': '/coaches/cherrdo01c.html', 'name': 'D. Cherry'}]",NHL,BOS,1976-77,49,23,0,Boston Bruins,.663,Lost Stanley Cup Final,8,80,1st
-113,"[{'link': '/coaches/cherrdo01c.html', 'name': 'D. Cherry'}]",NHL,BOS,1975-76,48,15,0,Boston Bruins,.706,Lost NHL Semi-Finals,17,80,1st
-94,"[{'link': '/coaches/cherrdo01c.html', 'name': 'D. Cherry'}]",NHL,BOS,1974-75,40,26,0,Boston Bruins,.588,Lost NHL Preliminary Round,14,80,2nd
-113,"[{'link': '/coaches/guidobe01c.html', 'name': 'B. Guidolin'}]",NHL,BOS,1973-74,52,17,0,Boston Bruins,.724,Lost Stanley Cup Final,9,78,1st
-107,"[{'link': '/coaches/johnsto01c.html', 'name': 'T. Johnson'}, {'link': '/coaches/guidobe01c.html', 'name': 'B. Guidolin'}]",NHL,BOS,1972-73,51,22,0,Boston Bruins,.686,Lost NHL Quarter-Finals,5,78,2nd
-119,"[{'link': '/coaches/johnsto01c.html', 'name': 'T. Johnson'}]",NHL,BOS,1971-72,54,13,0,Boston Bruins,.763,,11,78,1st
-121,"[{'link': '/coaches/johnsto01c.html', 'name': 'T. Johnson'}]",NHL,BOS,1970-71,57,14,0,Boston Bruins,.776,Lost NHL Quarter-Finals,7,78,1st
-99,"[{'link': '/coaches/sindeha01c.html', 'name': 'H. Sinden'}]",NHL,BOS,1969-70,40,17,0,Boston Bruins,.651,,19,76,2nd
-100,"[{'link': '/coaches/sindeha01c.html', 'name': 'H. Sinden'}]",NHL,BOS,1968-69,42,18,0,Boston Bruins,.658,Lost NHL Semi-Finals,16,76,2nd
-84,"[{'link': '/coaches/sindeha01c.html', 'name': 'H. Sinden'}]",NHL,BOS,1967-68,37,27,0,Boston Bruins,.568,Lost NHL Quarter-Finals,10,74,3rd
-44,"[{'link': '/coaches/sindeha01c.html', 'name': 'H. Sinden'}]",NHL,BOS,1966-67,17,43,0,Boston Bruins,.314,,10,70,6th
-48,"[{'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",NHL,BOS,1965-66,21,43,0,Boston Bruins,.343,,6,70,5th
-48,"[{'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",NHL,BOS,1964-65,21,43,0,Boston Bruins,.343,,6,70,6th
-48,"[{'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",NHL,BOS,1963-64,18,40,0,Boston Bruins,.343,,12,70,6th
-45,"[{'link': '/coaches/watsoph01c.html', 'name': 'P. Watson'}, {'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",NHL,BOS,1962-63,14,39,0,Boston Bruins,.321,,17,70,6th
-38,"[{'link': '/coaches/watsoph01c.html', 'name': 'P. Watson'}]",NHL,BOS,1961-62,15,47,0,Boston Bruins,.271,,8,70,6th
-43,"[{'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",NHL,BOS,1960-61,15,42,0,Boston Bruins,.307,,13,70,6th
-64,"[{'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",NHL,BOS,1959-60,28,34,0,Boston Bruins,.457,,8,70,5th
-73,"[{'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",NHL,BOS,1958-59,32,29,0,Boston Bruins,.521,Lost NHL Semi-Finals,9,70,2nd
-69,"[{'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",NHL,BOS,1957-58,27,28,0,Boston Bruins,.493,Lost Stanley Cup Final,15,70,4th
-80,"[{'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",NHL,BOS,1956-57,34,24,0,Boston Bruins,.571,Lost Stanley Cup Final,12,70,3rd
-59,"[{'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",NHL,BOS,1955-56,23,34,0,Boston Bruins,.421,,13,70,5th
-67,"[{'link': '/coaches/patrily01c.html', 'name': 'L. Patrick'}, {'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",NHL,BOS,1954-55,23,26,0,Boston Bruins,.479,Lost NHL Semi-Finals,21,70,4th
-74,"[{'link': '/coaches/patrily01c.html', 'name': 'L. Patrick'}]",NHL,BOS,1953-54,32,28,0,Boston Bruins,.529,Lost NHL Semi-Finals,10,70,4th
-69,"[{'link': '/coaches/patrily01c.html', 'name': 'L. Patrick'}]",NHL,BOS,1952-53,28,29,0,Boston Bruins,.493,Lost Stanley Cup Final,13,70,3rd
-66,"[{'link': '/coaches/patrily01c.html', 'name': 'L. Patrick'}]",NHL,BOS,1951-52,25,29,0,Boston Bruins,.471,Lost NHL Semi-Finals,16,70,4th
-62,"[{'link': '/coaches/patrily01c.html', 'name': 'L. Patrick'}]",NHL,BOS,1950-51,22,30,0,Boston Bruins,.443,Lost NHL Semi-Finals,18,70,4th
-60,"[{'link': '/coaches/bouchge01c.html', 'name': 'G. Boucher'}]",NHL,BOS,1949-50,22,32,0,Boston Bruins,.429,,16,70,5th
-66,"[{'link': '/coaches/clappdi01c.html', 'name': 'D. Clapper'}]",NHL,BOS,1948-49,29,23,0,Boston Bruins,.550,Lost NHL Semi-Finals,8,60,2nd
-59,"[{'link': '/coaches/clappdi01c.html', 'name': 'D. Clapper'}]",NHL,BOS,1947-48,23,24,0,Boston Bruins,.492,Lost NHL Semi-Finals,13,60,3rd
-63,"[{'link': '/coaches/clappdi01c.html', 'name': 'D. Clapper'}]",NHL,BOS,1946-47,26,23,0,Boston Bruins,.525,Lost NHL Semi-Finals,11,60,3rd
-56,"[{'link': '/coaches/clappdi01c.html', 'name': 'D. Clapper'}]",NHL,BOS,1945-46,24,18,0,Boston Bruins,.560,Lost Stanley Cup Final,8,50,2nd
-36,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",NHL,BOS,1944-45,16,30,0,Boston Bruins,.360,Lost NHL Semi-Finals,4,50,4th
-43,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",NHL,BOS,1943-44,19,26,0,Boston Bruins,.430,,5,50,5th
-57,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",NHL,BOS,1942-43,24,17,0,Boston Bruins,.570,Lost Stanley Cup Final,9,50,2nd
-56,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",NHL,BOS,1941-42,25,17,0,Boston Bruins,.583,Lost NHL Semi-Finals,6,48,3rd
-67,"[{'link': '/coaches/weilaco01c.html', 'name': 'C. Weiland'}]",NHL,BOS,1940-41,27,8,0,Boston Bruins,.698,,13,48,1st
-67,"[{'link': '/coaches/weilaco01c.html', 'name': 'C. Weiland'}]",NHL,BOS,1939-40,31,12,0,Boston Bruins,.698,Lost NHL Semi-Finals,5,48,1st
-74,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",NHL,BOS,1938-39,36,10,0,Boston Bruins,.771,,2,48,1st
-67,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",NHL,BOS,1937-38,30,11,0,Boston Bruins,.698,Lost NHL Semi-Finals,7,48,1st
-53,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",NHL,BOS,1936-37,23,18,0,Boston Bruins,.552,Lost NHL Quarter-Finals,7,48,2nd
-50,"[{'link': '/coaches/patrifr01c.html', 'name': 'F. Patrick'}]",NHL,BOS,1935-36,22,20,0,Boston Bruins,.521,Lost NHL Quarter-Finals,6,48,2nd
-58,"[{'link': '/coaches/patrifr01c.html', 'name': 'F. Patrick'}]",NHL,BOS,1934-35,26,16,0,Boston Bruins,.604,Lost NHL Semi-Finals,6,48,1st
-41,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",NHL,BOS,1933-34,18,25,0,Boston Bruins,.427,,5,48,4th
-58,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",NHL,BOS,1932-33,25,15,0,Boston Bruins,.604,Lost NHL Semi-Finals,8,48,1st
-42,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",NHL,BOS,1931-32,15,21,0,Boston Bruins,.438,,12,48,4th
-62,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",NHL,BOS,1930-31,28,10,0,Boston Bruins,.705,Lost NHL Semi-Finals,6,44,1st
-77,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",NHL,BOS,1929-30,38,5,0,Boston Bruins,.875,Lost Stanley Cup Final,1,44,1st
-57,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",NHL,BOS,1928-29,26,13,0,Boston Bruins,.648,,5,44,1st
-51,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",NHL,BOS,1927-28,20,13,0,Boston Bruins,.580,Lost NHL Semi-Finals,11,44,1st
-45,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",NHL,BOS,1926-27,21,20,0,Boston Bruins,.511,Lost Stanley Cup Final,3,44,2nd
-38,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",NHL,BOS,1925-26,17,15,0,Boston Bruins,.528,,4,36,4th
-12,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",NHL,BOS,1924-25,6,24,0,Boston Bruins,.200,,0,30,6th
+season,points_percentage,coaches,playoff_result,code,ties,team_name,wins,games_played,loses,overtime_loses,points,leage,finishing_position
+2017-18,0,"[{'link': '/coaches/cassibr01c.html', 'name': 'B. Cassidy'}]",,BOS,0,Boston Bruins,0,0,0,0,0,NHL,
+2016-17,.579,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}, {'link': '/coaches/cassibr01c.html', 'name': 'B. Cassidy'}]",Lost NHL First Round,BOS,0,Boston Bruins,44,82,31,7,95,NHL,3rd
+2015-16,.567,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",,BOS,0,Boston Bruins,42,82,31,9,93,NHL,3rd
+2014-15,.585,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",,BOS,0,Boston Bruins,41,82,27,14,96,NHL,5th
+2013-14,.713,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",Lost NHL Second Round,BOS,0,Boston Bruins,54,82,19,9,117,NHL,1st
+2012-13,.646,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",Lost Stanley Cup Final,BOS,0,Boston Bruins,28,48,14,6,62,NHL,2nd
+2011-12,.622,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",Lost NHL Conference Quarter-Finals,BOS,0,Boston Bruins,49,82,29,4,102,NHL,1st
+2010-11,.628,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",,BOS,0,Boston Bruins,46,82,25,11,103,NHL,1st
+2009-10,.555,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",Lost NHL Conference Semi-Finals,BOS,0,Boston Bruins,39,82,30,13,91,NHL,3rd
+2008-09,.707,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",Lost NHL Conference Semi-Finals,BOS,0,Boston Bruins,53,82,19,10,116,NHL,1st
+2007-08,.573,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",Lost NHL Conference Quarter-Finals,BOS,0,Boston Bruins,41,82,29,12,94,NHL,3rd
+2006-07,.463,"[{'link': '/coaches/lewisda02c.html', 'name': 'D. Lewis'}]",,BOS,0,Boston Bruins,35,82,41,6,76,NHL,5th
+2005-06,.451,"[{'link': '/coaches/sullimi01c.html', 'name': 'M. Sullivan'}]",,BOS,0,Boston Bruins,29,82,37,16,74,NHL,5th
+2003-04,.634,"[{'link': '/coaches/sullimi01c.html', 'name': 'M. Sullivan'}]",Lost NHL Conference Quarter-Finals,BOS,15,Boston Bruins,41,82,19,7,104,NHL,1st
+2002-03,.530,"[{'link': '/coaches/ftorero01c.html', 'name': 'R. Ftorek'}, {'link': '/coaches/oconnmi01c.html', 'name': ""M. O'Connell""}]",Lost NHL Conference Quarter-Finals,BOS,11,Boston Bruins,36,82,31,4,87,NHL,3rd
+2001-02,.616,"[{'link': '/coaches/ftorero01c.html', 'name': 'R. Ftorek'}]",Lost NHL Conference Quarter-Finals,BOS,6,Boston Bruins,43,82,24,9,101,NHL,1st
+2000-01,.537,"[{'link': '/coaches/burnspa99c.html', 'name': 'P. Burns'}, {'link': '/coaches/keenami99c.html', 'name': 'M. Keenan'}]",,BOS,8,Boston Bruins,36,82,30,8,88,NHL,4th
+1999-00,.445,"[{'link': '/coaches/burnspa99c.html', 'name': 'P. Burns'}]",,BOS,19,Boston Bruins,24,82,33,6,73,NHL,5th
+1998-99,.555,"[{'link': '/coaches/burnspa99c.html', 'name': 'P. Burns'}]",Lost NHL Conference Semi-Finals,BOS,13,Boston Bruins,39,82,30,0,91,NHL,3rd
+1997-98,.555,"[{'link': '/coaches/burnspa99c.html', 'name': 'P. Burns'}]",Lost NHL Conference Quarter-Finals,BOS,13,Boston Bruins,39,82,30,0,91,NHL,2nd
+1996-97,.372,"[{'link': '/coaches/kaspest01c.html', 'name': 'S. Kasper'}]",,BOS,9,Boston Bruins,26,82,47,0,61,NHL,6th
+1995-96,.555,"[{'link': '/coaches/kaspest01c.html', 'name': 'S. Kasper'}]",Lost NHL Conference Quarter-Finals,BOS,11,Boston Bruins,40,82,31,0,91,NHL,2nd
+1994-95,.594,"[{'link': '/coaches/suttebr01c.html', 'name': 'B. Sutter'}]",Lost NHL Conference Quarter-Finals,BOS,3,Boston Bruins,27,48,18,0,57,NHL,3rd
+1993-94,.577,"[{'link': '/coaches/suttebr01c.html', 'name': 'B. Sutter'}]",Lost NHL Conference Semi-Finals,BOS,13,Boston Bruins,42,84,29,0,97,NHL,2nd
+1992-93,.649,"[{'link': '/coaches/suttebr01c.html', 'name': 'B. Sutter'}]",Lost NHL Division Semi-Finals,BOS,7,Boston Bruins,51,84,26,0,109,NHL,1st
+1991-92,.525,"[{'link': '/coaches/bowneri01c.html', 'name': 'R. Bowness'}]",Lost NHL Conference Finals,BOS,12,Boston Bruins,36,80,32,0,84,NHL,2nd
+1990-91,.625,"[{'link': '/coaches/milbumi01c.html', 'name': 'M. Milbury'}]",Lost NHL Conference Finals,BOS,12,Boston Bruins,44,80,24,0,100,NHL,1st
+1989-90,.631,"[{'link': '/coaches/milbumi01c.html', 'name': 'M. Milbury'}]",Lost Stanley Cup Final,BOS,9,Boston Bruins,46,80,25,0,101,NHL,1st
+1988-89,.550,"[{'link': '/coaches/oreilte01c.html', 'name': ""T. O'Reilly""}]",Lost NHL Division Finals,BOS,14,Boston Bruins,37,80,29,0,88,NHL,2nd
+1987-88,.588,"[{'link': '/coaches/oreilte01c.html', 'name': ""T. O'Reilly""}]",Lost Stanley Cup Final,BOS,6,Boston Bruins,44,80,30,0,94,NHL,2nd
+1986-87,.531,"[{'link': '/coaches/gorinbu01c.html', 'name': 'B. Goring'}, {'link': '/coaches/oreilte01c.html', 'name': ""T. O'Reilly""}]",Lost NHL Division Semi-Finals,BOS,7,Boston Bruins,39,80,34,0,85,NHL,3rd
+1985-86,.538,"[{'link': '/coaches/gorinbu01c.html', 'name': 'B. Goring'}]",Lost NHL Division Semi-Finals,BOS,12,Boston Bruins,37,80,31,0,86,NHL,3rd
+1984-85,.513,"[{'link': '/coaches/cheevge01c.html', 'name': 'G. Cheevers'}, {'link': '/coaches/sindeha01c.html', 'name': 'H. Sinden'}]",Lost NHL Division Semi-Finals,BOS,10,Boston Bruins,36,80,34,0,82,NHL,4th
+1983-84,.650,"[{'link': '/coaches/cheevge01c.html', 'name': 'G. Cheevers'}]",Lost NHL Division Semi-Finals,BOS,6,Boston Bruins,49,80,25,0,104,NHL,1st
+1982-83,.688,"[{'link': '/coaches/cheevge01c.html', 'name': 'G. Cheevers'}]",Lost NHL Conference Finals,BOS,10,Boston Bruins,50,80,20,0,110,NHL,1st
+1981-82,.600,"[{'link': '/coaches/cheevge01c.html', 'name': 'G. Cheevers'}]",Lost NHL Division Finals,BOS,10,Boston Bruins,43,80,27,0,96,NHL,2nd
+1980-81,.544,"[{'link': '/coaches/cheevge01c.html', 'name': 'G. Cheevers'}]",Lost NHL Preliminary Round,BOS,13,Boston Bruins,37,80,30,0,87,NHL,2nd
+1979-80,.656,"[{'link': '/coaches/creigfr99c.html', 'name': 'F. Creighton'}, {'link': '/coaches/sindeha01c.html', 'name': 'H. Sinden'}]",Lost NHL Quarter-Finals,BOS,13,Boston Bruins,46,80,21,0,105,NHL,2nd
+1978-79,.625,"[{'link': '/coaches/cherrdo01c.html', 'name': 'D. Cherry'}]",Lost NHL Semi-Finals,BOS,14,Boston Bruins,43,80,23,0,100,NHL,1st
+1977-78,.706,"[{'link': '/coaches/cherrdo01c.html', 'name': 'D. Cherry'}]",Lost Stanley Cup Final,BOS,11,Boston Bruins,51,80,18,0,113,NHL,1st
+1976-77,.663,"[{'link': '/coaches/cherrdo01c.html', 'name': 'D. Cherry'}]",Lost Stanley Cup Final,BOS,8,Boston Bruins,49,80,23,0,106,NHL,1st
+1975-76,.706,"[{'link': '/coaches/cherrdo01c.html', 'name': 'D. Cherry'}]",Lost NHL Semi-Finals,BOS,17,Boston Bruins,48,80,15,0,113,NHL,1st
+1974-75,.588,"[{'link': '/coaches/cherrdo01c.html', 'name': 'D. Cherry'}]",Lost NHL Preliminary Round,BOS,14,Boston Bruins,40,80,26,0,94,NHL,2nd
+1973-74,.724,"[{'link': '/coaches/guidobe01c.html', 'name': 'B. Guidolin'}]",Lost Stanley Cup Final,BOS,9,Boston Bruins,52,78,17,0,113,NHL,1st
+1972-73,.686,"[{'link': '/coaches/johnsto01c.html', 'name': 'T. Johnson'}, {'link': '/coaches/guidobe01c.html', 'name': 'B. Guidolin'}]",Lost NHL Quarter-Finals,BOS,5,Boston Bruins,51,78,22,0,107,NHL,2nd
+1971-72,.763,"[{'link': '/coaches/johnsto01c.html', 'name': 'T. Johnson'}]",,BOS,11,Boston Bruins,54,78,13,0,119,NHL,1st
+1970-71,.776,"[{'link': '/coaches/johnsto01c.html', 'name': 'T. Johnson'}]",Lost NHL Quarter-Finals,BOS,7,Boston Bruins,57,78,14,0,121,NHL,1st
+1969-70,.651,"[{'link': '/coaches/sindeha01c.html', 'name': 'H. Sinden'}]",,BOS,19,Boston Bruins,40,76,17,0,99,NHL,2nd
+1968-69,.658,"[{'link': '/coaches/sindeha01c.html', 'name': 'H. Sinden'}]",Lost NHL Semi-Finals,BOS,16,Boston Bruins,42,76,18,0,100,NHL,2nd
+1967-68,.568,"[{'link': '/coaches/sindeha01c.html', 'name': 'H. Sinden'}]",Lost NHL Quarter-Finals,BOS,10,Boston Bruins,37,74,27,0,84,NHL,3rd
+1966-67,.314,"[{'link': '/coaches/sindeha01c.html', 'name': 'H. Sinden'}]",,BOS,10,Boston Bruins,17,70,43,0,44,NHL,6th
+1965-66,.343,"[{'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",,BOS,6,Boston Bruins,21,70,43,0,48,NHL,5th
+1964-65,.343,"[{'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",,BOS,6,Boston Bruins,21,70,43,0,48,NHL,6th
+1963-64,.343,"[{'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",,BOS,12,Boston Bruins,18,70,40,0,48,NHL,6th
+1962-63,.321,"[{'link': '/coaches/watsoph01c.html', 'name': 'P. Watson'}, {'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",,BOS,17,Boston Bruins,14,70,39,0,45,NHL,6th
+1961-62,.271,"[{'link': '/coaches/watsoph01c.html', 'name': 'P. Watson'}]",,BOS,8,Boston Bruins,15,70,47,0,38,NHL,6th
+1960-61,.307,"[{'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",,BOS,13,Boston Bruins,15,70,42,0,43,NHL,6th
+1959-60,.457,"[{'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",,BOS,8,Boston Bruins,28,70,34,0,64,NHL,5th
+1958-59,.521,"[{'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",Lost NHL Semi-Finals,BOS,9,Boston Bruins,32,70,29,0,73,NHL,2nd
+1957-58,.493,"[{'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",Lost Stanley Cup Final,BOS,15,Boston Bruins,27,70,28,0,69,NHL,4th
+1956-57,.571,"[{'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",Lost Stanley Cup Final,BOS,12,Boston Bruins,34,70,24,0,80,NHL,3rd
+1955-56,.421,"[{'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",,BOS,13,Boston Bruins,23,70,34,0,59,NHL,5th
+1954-55,.479,"[{'link': '/coaches/patrily01c.html', 'name': 'L. Patrick'}, {'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",Lost NHL Semi-Finals,BOS,21,Boston Bruins,23,70,26,0,67,NHL,4th
+1953-54,.529,"[{'link': '/coaches/patrily01c.html', 'name': 'L. Patrick'}]",Lost NHL Semi-Finals,BOS,10,Boston Bruins,32,70,28,0,74,NHL,4th
+1952-53,.493,"[{'link': '/coaches/patrily01c.html', 'name': 'L. Patrick'}]",Lost Stanley Cup Final,BOS,13,Boston Bruins,28,70,29,0,69,NHL,3rd
+1951-52,.471,"[{'link': '/coaches/patrily01c.html', 'name': 'L. Patrick'}]",Lost NHL Semi-Finals,BOS,16,Boston Bruins,25,70,29,0,66,NHL,4th
+1950-51,.443,"[{'link': '/coaches/patrily01c.html', 'name': 'L. Patrick'}]",Lost NHL Semi-Finals,BOS,18,Boston Bruins,22,70,30,0,62,NHL,4th
+1949-50,.429,"[{'link': '/coaches/bouchge01c.html', 'name': 'G. Boucher'}]",,BOS,16,Boston Bruins,22,70,32,0,60,NHL,5th
+1948-49,.550,"[{'link': '/coaches/clappdi01c.html', 'name': 'D. Clapper'}]",Lost NHL Semi-Finals,BOS,8,Boston Bruins,29,60,23,0,66,NHL,2nd
+1947-48,.492,"[{'link': '/coaches/clappdi01c.html', 'name': 'D. Clapper'}]",Lost NHL Semi-Finals,BOS,13,Boston Bruins,23,60,24,0,59,NHL,3rd
+1946-47,.525,"[{'link': '/coaches/clappdi01c.html', 'name': 'D. Clapper'}]",Lost NHL Semi-Finals,BOS,11,Boston Bruins,26,60,23,0,63,NHL,3rd
+1945-46,.560,"[{'link': '/coaches/clappdi01c.html', 'name': 'D. Clapper'}]",Lost Stanley Cup Final,BOS,8,Boston Bruins,24,50,18,0,56,NHL,2nd
+1944-45,.360,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",Lost NHL Semi-Finals,BOS,4,Boston Bruins,16,50,30,0,36,NHL,4th
+1943-44,.430,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",,BOS,5,Boston Bruins,19,50,26,0,43,NHL,5th
+1942-43,.570,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",Lost Stanley Cup Final,BOS,9,Boston Bruins,24,50,17,0,57,NHL,2nd
+1941-42,.583,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",Lost NHL Semi-Finals,BOS,6,Boston Bruins,25,48,17,0,56,NHL,3rd
+1940-41,.698,"[{'link': '/coaches/weilaco01c.html', 'name': 'C. Weiland'}]",,BOS,13,Boston Bruins,27,48,8,0,67,NHL,1st
+1939-40,.698,"[{'link': '/coaches/weilaco01c.html', 'name': 'C. Weiland'}]",Lost NHL Semi-Finals,BOS,5,Boston Bruins,31,48,12,0,67,NHL,1st
+1938-39,.771,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",,BOS,2,Boston Bruins,36,48,10,0,74,NHL,1st
+1937-38,.698,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",Lost NHL Semi-Finals,BOS,7,Boston Bruins,30,48,11,0,67,NHL,1st
+1936-37,.552,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",Lost NHL Quarter-Finals,BOS,7,Boston Bruins,23,48,18,0,53,NHL,2nd
+1935-36,.521,"[{'link': '/coaches/patrifr01c.html', 'name': 'F. Patrick'}]",Lost NHL Quarter-Finals,BOS,6,Boston Bruins,22,48,20,0,50,NHL,2nd
+1934-35,.604,"[{'link': '/coaches/patrifr01c.html', 'name': 'F. Patrick'}]",Lost NHL Semi-Finals,BOS,6,Boston Bruins,26,48,16,0,58,NHL,1st
+1933-34,.427,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",,BOS,5,Boston Bruins,18,48,25,0,41,NHL,4th
+1932-33,.604,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",Lost NHL Semi-Finals,BOS,8,Boston Bruins,25,48,15,0,58,NHL,1st
+1931-32,.438,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",,BOS,12,Boston Bruins,15,48,21,0,42,NHL,4th
+1930-31,.705,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",Lost NHL Semi-Finals,BOS,6,Boston Bruins,28,44,10,0,62,NHL,1st
+1929-30,.875,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",Lost Stanley Cup Final,BOS,1,Boston Bruins,38,44,5,0,77,NHL,1st
+1928-29,.648,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",,BOS,5,Boston Bruins,26,44,13,0,57,NHL,1st
+1927-28,.580,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",Lost NHL Semi-Finals,BOS,11,Boston Bruins,20,44,13,0,51,NHL,1st
+1926-27,.511,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",Lost Stanley Cup Final,BOS,3,Boston Bruins,21,44,20,0,45,NHL,2nd
+1925-26,.528,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",,BOS,4,Boston Bruins,17,36,15,0,38,NHL,4th
+1924-25,.200,"[{'link': '/coaches/rossar01c.html', 'name': 'A. Ross'}]",,BOS,0,Boston Bruins,6,30,24,0,12,NHL,6th
