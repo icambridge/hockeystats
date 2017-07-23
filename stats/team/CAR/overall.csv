@@ -1,39 +1,39 @@
-points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
-0,['B. Peters'],2017-18,0,0,0,0,0,,Carolina Hurricanes,CAR,,0,NHL
-87,['B. Peters'],2016-17,36,31,15,.530,82,7th,Carolina Hurricanes,CAR,,0,NHL
-86,['B. Peters'],2015-16,35,31,16,.524,82,6th,Carolina Hurricanes,CAR,,0,NHL
-71,['B. Peters'],2014-15,30,41,11,.433,82,8th,Carolina Hurricanes,CAR,,0,NHL
-83,['K. Muller'],2013-14,36,35,11,.506,82,7th,Carolina Hurricanes,CAR,,0,NHL
-42,['K. Muller'],2012-13,19,25,4,.438,48,3rd,Carolina Hurricanes,CAR,,0,NHL
-82,"['P. Maurice', 'K. Muller']",2011-12,33,33,16,.500,82,5th,Carolina Hurricanes,CAR,,0,NHL
-91,['P. Maurice'],2010-11,40,31,11,.555,82,3rd,Carolina Hurricanes,CAR,,0,NHL
-80,['P. Maurice'],2009-10,35,37,10,.488,82,3rd,Carolina Hurricanes,CAR,,0,NHL
-97,"['P. Laviolette', 'P. Maurice']",2008-09,45,30,7,.591,82,2nd,Carolina Hurricanes,CAR,Lost NHL Conference Finals,0,NHL
-92,['P. Laviolette'],2007-08,43,33,6,.561,82,2nd,Carolina Hurricanes,CAR,,0,NHL
-88,['P. Laviolette'],2006-07,40,34,8,.537,82,3rd,Carolina Hurricanes,CAR,,0,NHL
-112,['P. Laviolette'],2005-06,52,22,8,.683,82,1st,Carolina Hurricanes,CAR,,0,NHL
-76,"['P. Maurice', 'P. Laviolette']",2003-04,28,34,6,.463,82,3rd,Carolina Hurricanes,CAR,,14,NHL
-61,['P. Maurice'],2002-03,22,43,6,.372,82,5th,Carolina Hurricanes,CAR,,11,NHL
-91,['P. Maurice'],2001-02,35,26,5,.555,82,1st,Carolina Hurricanes,CAR,Lost Stanley Cup Final,16,NHL
-88,['P. Maurice'],2000-01,38,32,3,.537,82,2nd,Carolina Hurricanes,CAR,Lost NHL Conference Quarter-Finals,9,NHL
-84,['P. Maurice'],1999-00,37,35,0,.512,82,3rd,Carolina Hurricanes,CAR,,10,NHL
-86,['P. Maurice'],1998-99,34,30,0,.524,82,1st,Carolina Hurricanes,CAR,Lost NHL Conference Quarter-Finals,18,NHL
-74,['P. Maurice'],1997-98,33,41,0,.451,82,6th,Carolina Hurricanes,CAR,,8,NHL
-75,['P. Maurice'],1996-97,32,39,0,.457,82,5th,Hartford Whalers,HAR,,11,NHL
-77,"['P. Holmgren', 'P. Maurice']",1995-96,34,39,0,.470,82,4th,Hartford Whalers,HAR,,9,NHL
-43,['P. Holmgren'],1994-95,19,24,0,.448,48,5th,Hartford Whalers,HAR,,5,NHL
-63,"['P. Holmgren', 'P. McGuire']",1993-94,27,48,0,.375,84,6th,Hartford Whalers,HAR,,9,NHL
-58,['P. Holmgren'],1992-93,26,52,0,.345,84,5th,Hartford Whalers,HAR,,6,NHL
-65,['J. Roberts'],1991-92,26,41,0,.406,80,4th,Hartford Whalers,HAR,Lost NHL Division Semi-Finals,13,NHL
-73,['R. Ley'],1990-91,31,38,0,.456,80,4th,Hartford Whalers,HAR,Lost NHL Division Semi-Finals,11,NHL
-85,['R. Ley'],1989-90,38,33,0,.531,80,4th,Hartford Whalers,HAR,Lost NHL Division Semi-Finals,9,NHL
-79,['L. Pleau'],1988-89,37,38,0,.494,80,4th,Hartford Whalers,HAR,Lost NHL Division Semi-Finals,5,NHL
-77,"['J. Evans', 'L. Pleau']",1987-88,35,38,0,.481,80,4th,Hartford Whalers,HAR,Lost NHL Division Semi-Finals,7,NHL
-93,['J. Evans'],1986-87,43,30,0,.581,80,1st,Hartford Whalers,HAR,Lost NHL Division Semi-Finals,7,NHL
-84,['J. Evans'],1985-86,40,36,0,.525,80,4th,Hartford Whalers,HAR,Lost NHL Division Finals,4,NHL
-69,['J. Evans'],1984-85,30,41,0,.431,80,5th,Hartford Whalers,HAR,,9,NHL
-66,['J. Evans'],1983-84,28,42,0,.413,80,5th,Hartford Whalers,HAR,,10,NHL
-45,"['L. Kish', 'L. Pleau', 'J. Cunniff']",1982-83,19,54,0,.281,80,5th,Hartford Whalers,HAR,,7,NHL
-60,['L. Pleau'],1981-82,21,41,0,.375,80,5th,Hartford Whalers,HAR,,18,NHL
-60,"['D. Blackburn', 'L. Pleau']",1980-81,21,41,0,.375,80,4th,Hartford Whalers,HAR,,18,NHL
-73,['D. Blackburn'],1979-80,27,34,0,.456,80,4th,Hartford Whalers,HAR,Lost NHL Preliminary Round,19,NHL
+points,coaches,leage,code,season,wins,loses,overtime_loses,team_name,points_percentage,playoff_result,ties,games_played,finishing_position
+0,"[{'link': '/coaches/peterbi99c.html', 'name': 'B. Peters'}]",NHL,CAR,2017-18,0,0,0,Carolina Hurricanes,0,,0,0,
+87,"[{'link': '/coaches/peterbi99c.html', 'name': 'B. Peters'}]",NHL,CAR,2016-17,36,31,15,Carolina Hurricanes,.530,,0,82,7th
+86,"[{'link': '/coaches/peterbi99c.html', 'name': 'B. Peters'}]",NHL,CAR,2015-16,35,31,16,Carolina Hurricanes,.524,,0,82,6th
+71,"[{'link': '/coaches/peterbi99c.html', 'name': 'B. Peters'}]",NHL,CAR,2014-15,30,41,11,Carolina Hurricanes,.433,,0,82,8th
+83,"[{'link': '/coaches/mulleki01c.html', 'name': 'K. Muller'}]",NHL,CAR,2013-14,36,35,11,Carolina Hurricanes,.506,,0,82,7th
+42,"[{'link': '/coaches/mulleki01c.html', 'name': 'K. Muller'}]",NHL,CAR,2012-13,19,25,4,Carolina Hurricanes,.438,,0,48,3rd
+82,"[{'link': '/coaches/mauripa99c.html', 'name': 'P. Maurice'}, {'link': '/coaches/mulleki01c.html', 'name': 'K. Muller'}]",NHL,CAR,2011-12,33,33,16,Carolina Hurricanes,.500,,0,82,5th
+91,"[{'link': '/coaches/mauripa99c.html', 'name': 'P. Maurice'}]",NHL,CAR,2010-11,40,31,11,Carolina Hurricanes,.555,,0,82,3rd
+80,"[{'link': '/coaches/mauripa99c.html', 'name': 'P. Maurice'}]",NHL,CAR,2009-10,35,37,10,Carolina Hurricanes,.488,,0,82,3rd
+97,"[{'link': '/coaches/laviope01c.html', 'name': 'P. Laviolette'}, {'link': '/coaches/mauripa99c.html', 'name': 'P. Maurice'}]",NHL,CAR,2008-09,45,30,7,Carolina Hurricanes,.591,Lost NHL Conference Finals,0,82,2nd
+92,"[{'link': '/coaches/laviope01c.html', 'name': 'P. Laviolette'}]",NHL,CAR,2007-08,43,33,6,Carolina Hurricanes,.561,,0,82,2nd
+88,"[{'link': '/coaches/laviope01c.html', 'name': 'P. Laviolette'}]",NHL,CAR,2006-07,40,34,8,Carolina Hurricanes,.537,,0,82,3rd
+112,"[{'link': '/coaches/laviope01c.html', 'name': 'P. Laviolette'}]",NHL,CAR,2005-06,52,22,8,Carolina Hurricanes,.683,,0,82,1st
+76,"[{'link': '/coaches/mauripa99c.html', 'name': 'P. Maurice'}, {'link': '/coaches/laviope01c.html', 'name': 'P. Laviolette'}]",NHL,CAR,2003-04,28,34,6,Carolina Hurricanes,.463,,14,82,3rd
+61,"[{'link': '/coaches/mauripa99c.html', 'name': 'P. Maurice'}]",NHL,CAR,2002-03,22,43,6,Carolina Hurricanes,.372,,11,82,5th
+91,"[{'link': '/coaches/mauripa99c.html', 'name': 'P. Maurice'}]",NHL,CAR,2001-02,35,26,5,Carolina Hurricanes,.555,Lost Stanley Cup Final,16,82,1st
+88,"[{'link': '/coaches/mauripa99c.html', 'name': 'P. Maurice'}]",NHL,CAR,2000-01,38,32,3,Carolina Hurricanes,.537,Lost NHL Conference Quarter-Finals,9,82,2nd
+84,"[{'link': '/coaches/mauripa99c.html', 'name': 'P. Maurice'}]",NHL,CAR,1999-00,37,35,0,Carolina Hurricanes,.512,,10,82,3rd
+86,"[{'link': '/coaches/mauripa99c.html', 'name': 'P. Maurice'}]",NHL,CAR,1998-99,34,30,0,Carolina Hurricanes,.524,Lost NHL Conference Quarter-Finals,18,82,1st
+74,"[{'link': '/coaches/mauripa99c.html', 'name': 'P. Maurice'}]",NHL,CAR,1997-98,33,41,0,Carolina Hurricanes,.451,,8,82,6th
+75,"[{'link': '/coaches/mauripa99c.html', 'name': 'P. Maurice'}]",NHL,HAR,1996-97,32,39,0,Hartford Whalers,.457,,11,82,5th
+77,"[{'link': '/coaches/holmgpa01c.html', 'name': 'P. Holmgren'}, {'link': '/coaches/mauripa99c.html', 'name': 'P. Maurice'}]",NHL,HAR,1995-96,34,39,0,Hartford Whalers,.470,,9,82,4th
+43,"[{'link': '/coaches/holmgpa01c.html', 'name': 'P. Holmgren'}]",NHL,HAR,1994-95,19,24,0,Hartford Whalers,.448,,5,48,5th
+63,"[{'link': '/coaches/holmgpa01c.html', 'name': 'P. Holmgren'}, {'link': '/coaches/mcguipi99c.html', 'name': 'P. McGuire'}]",NHL,HAR,1993-94,27,48,0,Hartford Whalers,.375,,9,84,6th
+58,"[{'link': '/coaches/holmgpa01c.html', 'name': 'P. Holmgren'}]",NHL,HAR,1992-93,26,52,0,Hartford Whalers,.345,,6,84,5th
+65,"[{'link': '/coaches/roberji01c.html', 'name': 'J. Roberts'}]",NHL,HAR,1991-92,26,41,0,Hartford Whalers,.406,Lost NHL Division Semi-Finals,13,80,4th
+73,"[{'link': '/coaches/leyri01c.html', 'name': 'R. Ley'}]",NHL,HAR,1990-91,31,38,0,Hartford Whalers,.456,Lost NHL Division Semi-Finals,11,80,4th
+85,"[{'link': '/coaches/leyri01c.html', 'name': 'R. Ley'}]",NHL,HAR,1989-90,38,33,0,Hartford Whalers,.531,Lost NHL Division Semi-Finals,9,80,4th
+79,"[{'link': '/coaches/pleaula01c.html', 'name': 'L. Pleau'}]",NHL,HAR,1988-89,37,38,0,Hartford Whalers,.494,Lost NHL Division Semi-Finals,5,80,4th
+77,"[{'link': '/coaches/evansja01c.html', 'name': 'J. Evans'}, {'link': '/coaches/pleaula01c.html', 'name': 'L. Pleau'}]",NHL,HAR,1987-88,35,38,0,Hartford Whalers,.481,Lost NHL Division Semi-Finals,7,80,4th
+93,"[{'link': '/coaches/evansja01c.html', 'name': 'J. Evans'}]",NHL,HAR,1986-87,43,30,0,Hartford Whalers,.581,Lost NHL Division Semi-Finals,7,80,1st
+84,"[{'link': '/coaches/evansja01c.html', 'name': 'J. Evans'}]",NHL,HAR,1985-86,40,36,0,Hartford Whalers,.525,Lost NHL Division Finals,4,80,4th
+69,"[{'link': '/coaches/evansja01c.html', 'name': 'J. Evans'}]",NHL,HAR,1984-85,30,41,0,Hartford Whalers,.431,,9,80,5th
+66,"[{'link': '/coaches/evansja01c.html', 'name': 'J. Evans'}]",NHL,HAR,1983-84,28,42,0,Hartford Whalers,.413,,10,80,5th
+45,"[{'link': '/coaches/kishla99c.html', 'name': 'L. Kish'}, {'link': '/coaches/pleaula01c.html', 'name': 'L. Pleau'}, {'link': '/coaches/cunnijo99c.html', 'name': 'J. Cunniff'}]",NHL,HAR,1982-83,19,54,0,Hartford Whalers,.281,,7,80,5th
+60,"[{'link': '/coaches/pleaula01c.html', 'name': 'L. Pleau'}]",NHL,HAR,1981-82,21,41,0,Hartford Whalers,.375,,18,80,5th
+60,"[{'link': '/coaches/blackdo01c.html', 'name': 'D. Blackburn'}, {'link': '/coaches/pleaula01c.html', 'name': 'L. Pleau'}]",NHL,HAR,1980-81,21,41,0,Hartford Whalers,.375,,18,80,4th
+73,"[{'link': '/coaches/blackdo01c.html', 'name': 'D. Blackburn'}]",NHL,HAR,1979-80,27,34,0,Hartford Whalers,.456,Lost NHL Preliminary Round,19,80,4th

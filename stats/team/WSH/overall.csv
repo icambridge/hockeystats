@@ -1,44 +1,44 @@
-points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
-0,['B. Trotz'],2017-18,0,0,0,0,0,,Washington Capitals,WSH,,0,NHL
-118,['B. Trotz'],2016-17,55,19,8,.720,82,1st,Washington Capitals,WSH,Lost NHL Second Round,0,NHL
-120,['B. Trotz'],2015-16,56,18,8,.732,82,1st,Washington Capitals,WSH,Lost NHL Second Round,0,NHL
-101,['B. Trotz'],2014-15,45,26,11,.616,82,2nd,Washington Capitals,WSH,Lost NHL Second Round,0,NHL
-90,['A. Oates'],2013-14,38,30,14,.549,82,5th,Washington Capitals,WSH,,0,NHL
-57,['A. Oates'],2012-13,27,18,3,.594,48,1st,Washington Capitals,WSH,Lost NHL Conference Quarter-Finals,0,NHL
-92,"['B. Boudreau', 'D. Hunter']",2011-12,42,32,8,.561,82,2nd,Washington Capitals,WSH,Lost NHL Conference Semi-Finals,0,NHL
-107,['B. Boudreau'],2010-11,48,23,11,.652,82,1st,Washington Capitals,WSH,Lost NHL Conference Semi-Finals,0,NHL
-121,['B. Boudreau'],2009-10,54,15,13,.738,82,1st,Washington Capitals,WSH,Lost NHL Conference Quarter-Finals,0,NHL
-108,['B. Boudreau'],2008-09,50,24,8,.659,82,1st,Washington Capitals,WSH,Lost NHL Conference Semi-Finals,0,NHL
-94,"['G. Hanlon', 'B. Boudreau']",2007-08,43,31,8,.573,82,1st,Washington Capitals,WSH,Lost NHL Conference Quarter-Finals,0,NHL
-70,['G. Hanlon'],2006-07,28,40,14,.427,82,5th,Washington Capitals,WSH,,0,NHL
-70,['G. Hanlon'],2005-06,29,41,12,.427,82,5th,Washington Capitals,WSH,,0,NHL
-59,"['B. Cassidy', 'G. Hanlon']",2003-04,23,46,3,.360,82,5th,Washington Capitals,WSH,,10,NHL
-92,['B. Cassidy'],2002-03,39,29,6,.561,82,2nd,Washington Capitals,WSH,Lost NHL Conference Quarter-Finals,8,NHL
-85,['R. Wilson'],2001-02,36,33,2,.518,82,2nd,Washington Capitals,WSH,,11,NHL
-96,['R. Wilson'],2000-01,41,27,4,.585,82,1st,Washington Capitals,WSH,Lost NHL Conference Quarter-Finals,10,NHL
-102,['R. Wilson'],1999-00,44,24,2,.622,82,1st,Washington Capitals,WSH,Lost NHL Conference Quarter-Finals,12,NHL
-68,['R. Wilson'],1998-99,31,45,0,.415,82,3rd,Washington Capitals,WSH,,6,NHL
-92,['R. Wilson'],1997-98,40,30,0,.561,82,3rd,Washington Capitals,WSH,Lost Stanley Cup Final,12,NHL
-75,['J. Schoenfeld'],1996-97,33,40,0,.457,82,5th,Washington Capitals,WSH,,9,NHL
-89,['J. Schoenfeld'],1995-96,39,32,0,.543,82,4th,Washington Capitals,WSH,Lost NHL Conference Quarter-Finals,11,NHL
-52,['J. Schoenfeld'],1994-95,22,18,0,.542,48,3rd,Washington Capitals,WSH,Lost NHL Conference Quarter-Finals,8,NHL
-88,"['T. Murray', 'J. Schoenfeld']",1993-94,39,35,0,.524,84,3rd,Washington Capitals,WSH,Lost NHL Conference Semi-Finals,10,NHL
-93,['T. Murray'],1992-93,43,34,0,.554,84,2nd,Washington Capitals,WSH,Lost NHL Division Semi-Finals,7,NHL
-98,['T. Murray'],1991-92,45,27,0,.613,80,2nd,Washington Capitals,WSH,Lost NHL Division Semi-Finals,8,NHL
-81,['T. Murray'],1990-91,37,36,0,.506,80,3rd,Washington Capitals,WSH,Lost NHL Division Finals,7,NHL
-78,"['B. Murray', 'T. Murray']",1989-90,36,38,0,.488,80,3rd,Washington Capitals,WSH,Lost NHL Conference Finals,6,NHL
-92,['B. Murray'],1988-89,41,29,0,.575,80,1st,Washington Capitals,WSH,Lost NHL Division Semi-Finals,10,NHL
-85,['B. Murray'],1987-88,38,33,0,.531,80,2nd,Washington Capitals,WSH,Lost NHL Division Finals,9,NHL
-86,['B. Murray'],1986-87,38,32,0,.538,80,2nd,Washington Capitals,WSH,Lost NHL Division Semi-Finals,10,NHL
-107,['B. Murray'],1985-86,50,23,0,.669,80,2nd,Washington Capitals,WSH,Lost NHL Division Finals,7,NHL
-101,['B. Murray'],1984-85,46,25,0,.631,80,2nd,Washington Capitals,WSH,Lost NHL Division Semi-Finals,9,NHL
-101,['B. Murray'],1983-84,48,27,0,.631,80,2nd,Washington Capitals,WSH,Lost NHL Division Finals,5,NHL
-94,['B. Murray'],1982-83,39,25,0,.588,80,3rd,Washington Capitals,WSH,Lost NHL Division Semi-Finals,16,NHL
-65,"['G. Green', 'R. Crozier', 'B. Murray']",1981-82,26,41,0,.406,80,5th,Washington Capitals,WSH,,13,NHL
-70,['G. Green'],1980-81,26,36,0,.438,80,5th,Washington Capitals,WSH,,18,NHL
-67,"['D. Belisle', 'G. Green']",1979-80,27,40,0,.419,80,5th,Washington Capitals,WSH,,13,NHL
-63,['D. Belisle'],1978-79,24,41,0,.394,80,4th,Washington Capitals,WSH,,15,NHL
-48,['T. McVie'],1977-78,17,49,0,.300,80,5th,Washington Capitals,WSH,,14,NHL
-62,['T. McVie'],1976-77,24,42,0,.388,80,4th,Washington Capitals,WSH,,14,NHL
-32,"['M. Schmidt', 'T. McVie']",1975-76,11,59,0,.200,80,5th,Washington Capitals,WSH,,10,NHL
-21,"['J. Anderson', 'R. Sullivan', 'M. Schmidt']",1974-75,8,67,0,.131,80,5th,Washington Capitals,WSH,,5,NHL
+points,coaches,leage,code,season,wins,loses,overtime_loses,team_name,points_percentage,playoff_result,ties,games_played,finishing_position
+0,"[{'link': '/coaches/trotzba99c.html', 'name': 'B. Trotz'}]",NHL,WSH,2017-18,0,0,0,Washington Capitals,0,,0,0,
+118,"[{'link': '/coaches/trotzba99c.html', 'name': 'B. Trotz'}]",NHL,WSH,2016-17,55,19,8,Washington Capitals,.720,Lost NHL Second Round,0,82,1st
+120,"[{'link': '/coaches/trotzba99c.html', 'name': 'B. Trotz'}]",NHL,WSH,2015-16,56,18,8,Washington Capitals,.732,Lost NHL Second Round,0,82,1st
+101,"[{'link': '/coaches/trotzba99c.html', 'name': 'B. Trotz'}]",NHL,WSH,2014-15,45,26,11,Washington Capitals,.616,Lost NHL Second Round,0,82,2nd
+90,"[{'link': '/coaches/oatesad01c.html', 'name': 'A. Oates'}]",NHL,WSH,2013-14,38,30,14,Washington Capitals,.549,,0,82,5th
+57,"[{'link': '/coaches/oatesad01c.html', 'name': 'A. Oates'}]",NHL,WSH,2012-13,27,18,3,Washington Capitals,.594,Lost NHL Conference Quarter-Finals,0,48,1st
+92,"[{'link': '/coaches/boudrbr01c.html', 'name': 'B. Boudreau'}, {'link': '/coaches/hunteda02c.html', 'name': 'D. Hunter'}]",NHL,WSH,2011-12,42,32,8,Washington Capitals,.561,Lost NHL Conference Semi-Finals,0,82,2nd
+107,"[{'link': '/coaches/boudrbr01c.html', 'name': 'B. Boudreau'}]",NHL,WSH,2010-11,48,23,11,Washington Capitals,.652,Lost NHL Conference Semi-Finals,0,82,1st
+121,"[{'link': '/coaches/boudrbr01c.html', 'name': 'B. Boudreau'}]",NHL,WSH,2009-10,54,15,13,Washington Capitals,.738,Lost NHL Conference Quarter-Finals,0,82,1st
+108,"[{'link': '/coaches/boudrbr01c.html', 'name': 'B. Boudreau'}]",NHL,WSH,2008-09,50,24,8,Washington Capitals,.659,Lost NHL Conference Semi-Finals,0,82,1st
+94,"[{'link': '/coaches/hanlogl01c.html', 'name': 'G. Hanlon'}, {'link': '/coaches/boudrbr01c.html', 'name': 'B. Boudreau'}]",NHL,WSH,2007-08,43,31,8,Washington Capitals,.573,Lost NHL Conference Quarter-Finals,0,82,1st
+70,"[{'link': '/coaches/hanlogl01c.html', 'name': 'G. Hanlon'}]",NHL,WSH,2006-07,28,40,14,Washington Capitals,.427,,0,82,5th
+70,"[{'link': '/coaches/hanlogl01c.html', 'name': 'G. Hanlon'}]",NHL,WSH,2005-06,29,41,12,Washington Capitals,.427,,0,82,5th
+59,"[{'link': '/coaches/cassibr01c.html', 'name': 'B. Cassidy'}, {'link': '/coaches/hanlogl01c.html', 'name': 'G. Hanlon'}]",NHL,WSH,2003-04,23,46,3,Washington Capitals,.360,,10,82,5th
+92,"[{'link': '/coaches/cassibr01c.html', 'name': 'B. Cassidy'}]",NHL,WSH,2002-03,39,29,6,Washington Capitals,.561,Lost NHL Conference Quarter-Finals,8,82,2nd
+85,"[{'link': '/coaches/wilsoro02c.html', 'name': 'R. Wilson'}]",NHL,WSH,2001-02,36,33,2,Washington Capitals,.518,,11,82,2nd
+96,"[{'link': '/coaches/wilsoro02c.html', 'name': 'R. Wilson'}]",NHL,WSH,2000-01,41,27,4,Washington Capitals,.585,Lost NHL Conference Quarter-Finals,10,82,1st
+102,"[{'link': '/coaches/wilsoro02c.html', 'name': 'R. Wilson'}]",NHL,WSH,1999-00,44,24,2,Washington Capitals,.622,Lost NHL Conference Quarter-Finals,12,82,1st
+68,"[{'link': '/coaches/wilsoro02c.html', 'name': 'R. Wilson'}]",NHL,WSH,1998-99,31,45,0,Washington Capitals,.415,,6,82,3rd
+92,"[{'link': '/coaches/wilsoro02c.html', 'name': 'R. Wilson'}]",NHL,WSH,1997-98,40,30,0,Washington Capitals,.561,Lost Stanley Cup Final,12,82,3rd
+75,"[{'link': '/coaches/schoeji01c.html', 'name': 'J. Schoenfeld'}]",NHL,WSH,1996-97,33,40,0,Washington Capitals,.457,,9,82,5th
+89,"[{'link': '/coaches/schoeji01c.html', 'name': 'J. Schoenfeld'}]",NHL,WSH,1995-96,39,32,0,Washington Capitals,.543,Lost NHL Conference Quarter-Finals,11,82,4th
+52,"[{'link': '/coaches/schoeji01c.html', 'name': 'J. Schoenfeld'}]",NHL,WSH,1994-95,22,18,0,Washington Capitals,.542,Lost NHL Conference Quarter-Finals,8,48,3rd
+88,"[{'link': '/coaches/murrate01c.html', 'name': 'T. Murray'}, {'link': '/coaches/schoeji01c.html', 'name': 'J. Schoenfeld'}]",NHL,WSH,1993-94,39,35,0,Washington Capitals,.524,Lost NHL Conference Semi-Finals,10,84,3rd
+93,"[{'link': '/coaches/murrate01c.html', 'name': 'T. Murray'}]",NHL,WSH,1992-93,43,34,0,Washington Capitals,.554,Lost NHL Division Semi-Finals,7,84,2nd
+98,"[{'link': '/coaches/murrate01c.html', 'name': 'T. Murray'}]",NHL,WSH,1991-92,45,27,0,Washington Capitals,.613,Lost NHL Division Semi-Finals,8,80,2nd
+81,"[{'link': '/coaches/murrate01c.html', 'name': 'T. Murray'}]",NHL,WSH,1990-91,37,36,0,Washington Capitals,.506,Lost NHL Division Finals,7,80,3rd
+78,"[{'link': '/coaches/murrabr99c.html', 'name': 'B. Murray'}, {'link': '/coaches/murrate01c.html', 'name': 'T. Murray'}]",NHL,WSH,1989-90,36,38,0,Washington Capitals,.488,Lost NHL Conference Finals,6,80,3rd
+92,"[{'link': '/coaches/murrabr99c.html', 'name': 'B. Murray'}]",NHL,WSH,1988-89,41,29,0,Washington Capitals,.575,Lost NHL Division Semi-Finals,10,80,1st
+85,"[{'link': '/coaches/murrabr99c.html', 'name': 'B. Murray'}]",NHL,WSH,1987-88,38,33,0,Washington Capitals,.531,Lost NHL Division Finals,9,80,2nd
+86,"[{'link': '/coaches/murrabr99c.html', 'name': 'B. Murray'}]",NHL,WSH,1986-87,38,32,0,Washington Capitals,.538,Lost NHL Division Semi-Finals,10,80,2nd
+107,"[{'link': '/coaches/murrabr99c.html', 'name': 'B. Murray'}]",NHL,WSH,1985-86,50,23,0,Washington Capitals,.669,Lost NHL Division Finals,7,80,2nd
+101,"[{'link': '/coaches/murrabr99c.html', 'name': 'B. Murray'}]",NHL,WSH,1984-85,46,25,0,Washington Capitals,.631,Lost NHL Division Semi-Finals,9,80,2nd
+101,"[{'link': '/coaches/murrabr99c.html', 'name': 'B. Murray'}]",NHL,WSH,1983-84,48,27,0,Washington Capitals,.631,Lost NHL Division Finals,5,80,2nd
+94,"[{'link': '/coaches/murrabr99c.html', 'name': 'B. Murray'}]",NHL,WSH,1982-83,39,25,0,Washington Capitals,.588,Lost NHL Division Semi-Finals,16,80,3rd
+65,"[{'link': '/coaches/greenga99c.html', 'name': 'G. Green'}, {'link': '/coaches/croziro01c.html', 'name': 'R. Crozier'}, {'link': '/coaches/murrabr99c.html', 'name': 'B. Murray'}]",NHL,WSH,1981-82,26,41,0,Washington Capitals,.406,,13,80,5th
+70,"[{'link': '/coaches/greenga99c.html', 'name': 'G. Green'}]",NHL,WSH,1980-81,26,36,0,Washington Capitals,.438,,18,80,5th
+67,"[{'link': '/coaches/belisda01c.html', 'name': 'D. Belisle'}, {'link': '/coaches/greenga99c.html', 'name': 'G. Green'}]",NHL,WSH,1979-80,27,40,0,Washington Capitals,.419,,13,80,5th
+63,"[{'link': '/coaches/belisda01c.html', 'name': 'D. Belisle'}]",NHL,WSH,1978-79,24,41,0,Washington Capitals,.394,,15,80,4th
+48,"[{'link': '/coaches/mcvieto99c.html', 'name': 'T. McVie'}]",NHL,WSH,1977-78,17,49,0,Washington Capitals,.300,,14,80,5th
+62,"[{'link': '/coaches/mcvieto99c.html', 'name': 'T. McVie'}]",NHL,WSH,1976-77,24,42,0,Washington Capitals,.388,,14,80,4th
+32,"[{'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}, {'link': '/coaches/mcvieto99c.html', 'name': 'T. McVie'}]",NHL,WSH,1975-76,11,59,0,Washington Capitals,.200,,10,80,5th
+21,"[{'link': '/coaches/anderji01c.html', 'name': 'J. Anderson'}, {'link': '/coaches/sullire01c.html', 'name': 'R. Sullivan'}, {'link': '/coaches/schmimi01c.html', 'name': 'M. Schmidt'}]",NHL,WSH,1974-75,8,67,0,Washington Capitals,.131,,5,80,5th

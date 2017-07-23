@@ -1,14 +1,14 @@
-offensive_point_share,name,even_strength_goals,shorthanded_goals,plus_minus,shotsPercentage,age,shots,assists,positions,overall_point_share,points,games_played,power_play_assists,defensive_point_share,game_winning_goals,power_play_goals,total_ice_time,shorthanded_assists,goals,even_strength_assists,average_ice_time,pim
-1.2,Alf Skinner,0,0,0,,23,0,4,RW,1.5,16,17,0,0.3,0,0,,0,12,0,,26
-0.9,Reg Noble,0,0,0,,22,0,5,LW/D,1.2,15,17,0,0.3,0,0,,0,10,0,,35
-1.5,Ken Randall,0,0,0,,30,0,6,D,2.5,14,14,0,1.0,0,0,,0,8,0,,27
-0.4,Corb Denneny,0,0,0,,25,0,3,C,0.7,11,16,0,0.3,0,0,,0,8,0,,15
-0.2,Rusty Crawford,0,0,0,,33,0,4,RW,0.5,11,18,0,0.3,0,0,,0,7,0,,51
-0.4,Harry Meeking,0,0,0,,24,0,3,LW,0.7,10,14,0,0.3,0,0,,0,7,0,,32
-1.0,Harry Cameron,0,0,0,,28,0,2,D,1.5,8,7,0,0.5,0,0,,0,6,0,,9
--0.6,Jack Adams,0,0,0,,24,0,3,C,-0.3,6,17,0,0.3,0,0,,0,3,0,,35
--0.2,Harry Mummery,0,0,0,,29,0,0,D,0.7,2,13,0,0.9,0,0,,0,2,0,,30
-0.0,Hap Holmes,0,0,0,,30,0,0,G,0.2,0,2,0,0.0,0,0,,0,0,0,,0
--0.1,Paul Jacobs,0,0,0,,24,0,0,F,-0.1,0,1,0,0.0,0,0,,0,0,0,,0
-0.0,Bert Lindsay,0,0,0,,37,0,0,G,1.4,0,16,0,0.0,0,0,,0,0,0,,0
--0.2,Dave Ritchie,0,0,0,,27,0,0,D,0.1,0,4,0,0.3,0,0,,0,0,0,,9
+shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
+0,,RW,,0,0,0,0,23,0,12,4,Alf Skinner,1.5,0.3,16,0,26,,17,0,1.2,0,/players/s/skinnal01.html
+0,,LW/D,,0,0,0,0,22,0,10,5,Reg Noble,1.2,0.3,15,0,35,,17,0,0.9,0,/players/n/noblere01.html
+0,,D,,0,0,0,0,30,0,8,6,Ken Randall,2.5,1.0,14,0,27,,14,0,1.5,0,/players/r/randake01.html
+0,,C,,0,0,0,0,25,0,8,3,Corb Denneny,0.7,0.3,11,0,15,,16,0,0.4,0,/players/d/denneco01.html
+0,,RW,,0,0,0,0,33,0,7,4,Rusty Crawford,0.5,0.3,11,0,51,,18,0,0.2,0,/players/c/crawfru01.html
+0,,LW,,0,0,0,0,24,0,7,3,Harry Meeking,0.7,0.3,10,0,32,,14,0,0.4,0,/players/m/meekiha01.html
+0,,D,,0,0,0,0,28,0,6,2,Harry Cameron,1.5,0.5,8,0,9,,7,0,1.0,0,/players/c/camerha01.html
+0,,C,,0,0,0,0,24,0,3,3,Jack Adams,-0.3,0.3,6,0,35,,17,0,-0.6,0,/players/a/adamsja01.html
+0,,D,,0,0,0,0,29,0,2,0,Harry Mummery,0.7,0.9,2,0,30,,13,0,-0.2,0,/players/m/mummeha01.html
+0,,G,,0,0,0,0,30,0,0,0,Hap Holmes,0.2,0.0,0,0,0,,2,0,0.0,0,/players/h/holmeha01.html
+0,,F,,0,0,0,0,24,0,0,0,Paul Jacobs,-0.1,0.0,0,0,0,,1,0,-0.1,0,/players/j/jacobpa01.html
+0,,G,,0,0,0,0,37,0,0,0,Bert Lindsay,1.4,0.0,0,0,0,,16,0,0.0,0,/players/l/lindsbe01.html
+0,,D,,0,0,0,0,27,0,0,0,Dave Ritchie,0.1,0.3,0,0,9,,4,0,-0.2,0,/players/r/ritchda01.html

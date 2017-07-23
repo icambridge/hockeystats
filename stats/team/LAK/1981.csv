@@ -1,34 +1,34 @@
-offensive_point_share,name,even_strength_goals,shorthanded_goals,plus_minus,shotsPercentage,age,shots,assists,positions,overall_point_share,points,games_played,power_play_assists,defensive_point_share,game_winning_goals,power_play_goals,total_ice_time,shorthanded_assists,goals,even_strength_assists,average_ice_time,pim
-10.5,Marcel Dionne,31,4,55,17.0,29,342,77,C,12.8,135,80,22,2.3,9,23,,0,58,55,,70
-8.4,Dave Taylor,34,0,47,22.8,25,206,65,RW,10.4,112,72,26,2.0,3,13,,0,47,39,,130
-8.8,Charlie Simmer,33,0,31,32.7,26,171,49,LW,10.4,105,65,17,1.5,9,23,,0,56,32,,62
-4.9,Larry Murphy,10,1,17,10.5,19,153,60,D,9.7,76,80,25,4.8,1,5,,3,16,32,,79
-2.7,Jerry Korab,6,0,10,7.5,32,120,43,D,7.1,52,78,25,4.4,2,3,,0,9,18,,139
-1.6,Billy Harris,15,4,-1,13.3,29,150,29,RW,2.5,49,80,6,0.9,1,1,,1,20,22,,36
-1.4,Jim Fox,16,0,0,19.6,20,92,25,RW,2.2,43,71,6,0.8,2,2,,0,18,19,,8
-1.1,Mike Murphy,13,1,-7,12.2,30,131,23,RW,1.7,39,68,3,0.6,1,2,,3,16,17,,54
-1.0,Steve Jensen,13,1,-6,16.1,25,118,19,LW,1.7,38,74,3,0.7,4,5,,0,19,16,,88
-0.5,Greg Terrion,10,0,-1,13.0,20,92,25,LW,1.3,37,73,3,0.8,2,2,,2,12,20,,99
--0.3,Dan Bonar,7,1,0,17.2,24,64,15,C,0.5,26,71,2,0.8,3,3,,0,11,13,,57
--0.3,Dean Hopkins,6,0,6,13.3,21,60,18,RW,0.6,26,67,1,0.9,1,2,,0,8,17,,118
-0.5,Mark Hardy,2,0,14,5.6,21,90,20,D,5.1,25,77,8,4.5,1,3,,1,5,11,,77
--0.2,Garry Unger,9,0,-17,14.9,33,67,10,C,-0.1,20,58,1,0.2,0,1,,0,10,9,,40
-0.6,Doug Halward,3,0,-2,5.4,25,74,15,D,3.0,19,51,9,2.4,0,1,,0,4,6,,96
-0.1,Jay Wells,5,0,9,6.7,21,75,13,D,4.2,18,72,3,4.0,1,0,,0,5,10,,155
-1.0,Andre St. Laurent,10,0,8,30.3,27,33,6,C,1.4,16,22,0,0.5,2,0,,0,10,6,,63
--0.5,Glenn Goldup,6,0,-2,9.4,27,64,9,RW,0.0,15,49,1,0.5,0,0,,0,6,8,,35
--0.4,Dave Lewis,1,0,25,2.2,27,46,12,D,4.2,13,67,0,4.6,0,0,,0,1,12,,98
-0.1,John Paul Kelly,3,0,4,16.7,21,18,6,LW,0.4,9,19,0,0.3,0,0,,0,3,6,,8
-0.1,Rick Chartraw,1,0,1,3.1,26,32,6,D,1.2,7,21,4,1.1,1,0,,0,1,2,,28
-0.0,Robert Palmer,0,0,5,0.0,24,11,4,D,0.9,4,13,0,0.9,0,0,,0,0,4,,13
-0.2,Rick Martin,1,0,1,50.0,29,2,1,LW,0.2,2,1,0,0.0,0,0,,0,1,1,,0
--0.3,Don Luce,1,0,-4,12.5,32,8,0,C,-0.3,1,10,0,0.0,0,0,,0,1,0,,2
-0.0,Mario Lessard,0,0,0,,26,0,1,G,12.6,1,64,0,0.0,0,0,,0,0,0,,8
-0.0,Jim Rutherford,0,0,0,,31,0,1,G,0.6,1,3,0,0.0,0,0,,0,0,0,,0
--0.1,John Gibson,0,0,-5,0.0,21,5,0,D,-0.2,0,4,0,-0.1,0,0,,0,0,0,,21
-0.0,Ron Grahame,0,0,0,,30,0,0,G,0.6,0,6,0,0.0,0,0,,0,0,0,,0
-0.0,Doug Keans,0,0,0,,23,0,0,G,0.6,0,9,0,0.0,0,0,,0,0,0,,7
--0.1,Dave Morrison,0,0,-1,0.0,18,2,0,RW,-0.1,0,3,0,0.0,0,0,,0,0,0,,0
-0.0,Paul Pageau,0,0,0,,21,0,0,G,-0.2,0,1,0,0.0,0,0,,0,0,0,,0
--0.2,Kevin Schamehorn,0,0,-1,0.0,24,2,0,RW,-0.2,0,5,0,0.0,0,0,,0,0,0,,4
-0.0,Don Waddell,0,0,-1,,22,0,0,D,0.0,0,1,0,0.0,0,0,,0,0,0,,0
+shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
+4,,C,17.0,55,342,31,0,29,9,58,77,Marcel Dionne,12.8,2.3,135,23,70,,80,55,10.5,22,/players/d/dionnma01.html
+0,,RW,22.8,39,206,34,0,25,3,47,65,Dave Taylor,10.4,2.0,112,13,130,,72,47,8.4,26,/players/t/tayloda01.html
+0,,LW,32.7,32,171,33,0,26,9,56,49,Charlie Simmer,10.4,1.5,105,23,62,,65,31,8.8,17,/players/s/simmech01.html
+1,,D,10.5,32,153,10,3,19,1,16,60,Larry Murphy,9.7,4.8,76,5,79,,80,17,4.9,25,/players/m/murphla01.html
+0,,D,7.5,18,120,6,0,32,2,9,43,Jerry Korab,7.1,4.4,52,3,139,,78,10,2.7,25,/players/k/korabje01.html
+4,,RW,13.3,22,150,15,1,29,1,20,29,Billy Harris,2.5,0.9,49,1,36,,80,-1,1.6,6,/players/h/harribi02.html
+0,,RW,19.6,19,92,16,0,20,2,18,25,Jim Fox,2.2,0.8,43,2,8,,71,0,1.4,6,/players/f/foxji01.html
+1,,RW,12.2,17,131,13,3,30,1,16,23,Mike Murphy,1.7,0.6,39,2,54,,68,-7,1.1,3,/players/m/murphmi01.html
+1,,LW,16.1,16,118,13,0,25,4,19,19,Steve Jensen,1.7,0.7,38,5,88,,74,-6,1.0,3,/players/j/jensest01.html
+0,,LW,13.0,20,92,10,2,20,2,12,25,Greg Terrion,1.3,0.8,37,2,99,,73,-1,0.5,3,/players/t/terrigr01.html
+1,,C,17.2,13,64,7,0,24,3,11,15,Dan Bonar,0.5,0.8,26,3,57,,71,0,-0.3,2,/players/b/bonarda01.html
+0,,RW,13.3,17,60,6,0,21,1,8,18,Dean Hopkins,0.6,0.9,26,2,118,,67,6,-0.3,1,/players/h/hopkide01.html
+0,,D,5.6,11,90,2,1,21,1,5,20,Mark Hardy,5.1,4.5,25,3,77,,77,14,0.5,8,/players/h/hardyma01.html
+0,,C,14.9,9,67,9,0,33,0,10,10,Garry Unger,-0.1,0.2,20,1,40,,58,-17,-0.2,1,/players/u/ungerga01.html
+0,,D,5.4,6,74,3,0,25,0,4,15,Doug Halward,3.0,2.4,19,1,96,,51,-2,0.6,9,/players/h/halwado01.html
+0,,D,6.7,10,75,5,0,21,1,5,13,Jay Wells,4.2,4.0,18,0,155,,72,9,0.1,3,/players/w/wellsja01.html
+0,,C,30.3,6,33,10,0,27,2,10,6,Andre St. Laurent,1.4,0.5,16,0,63,,22,8,1.0,0,/players/s/stlauan01.html
+0,,RW,9.4,8,64,6,0,27,0,6,9,Glenn Goldup,0.0,0.5,15,0,35,,49,-2,-0.5,1,/players/g/goldugl01.html
+0,,D,2.2,12,46,1,0,27,0,1,12,Dave Lewis,4.2,4.6,13,0,98,,67,25,-0.4,0,/players/l/lewisda02.html
+0,,LW,16.7,6,18,3,0,21,0,3,6,John Paul Kelly,0.4,0.3,9,0,8,,19,4,0.1,0,/players/k/kellyjo01.html
+0,,D,3.1,2,32,1,0,26,1,1,6,Rick Chartraw,1.2,1.1,7,0,28,,21,1,0.1,4,/players/c/chartri01.html
+0,,D,0.0,4,11,0,0,24,0,0,4,Robert Palmer,0.9,0.9,4,0,13,,13,5,0.0,0,/players/p/palmero02.html
+0,,LW,50.0,1,2,1,0,29,0,1,1,Rick Martin,0.2,0.0,2,0,0,,1,1,0.2,0,/players/m/martiri01.html
+0,,C,12.5,0,8,1,0,32,0,1,0,Don Luce,-0.3,0.0,1,0,2,,10,-4,-0.3,0,/players/l/lucedo01.html
+0,,G,,0,0,0,0,26,0,0,1,Mario Lessard,12.6,0.0,1,0,8,,64,0,0.0,0,/players/l/lessama01.html
+0,,G,,0,0,0,0,31,0,0,1,Jim Rutherford,0.6,0.0,1,0,0,,3,0,0.0,0,/players/r/rutheji01.html
+0,,D,0.0,0,5,0,0,21,0,0,0,John Gibson,-0.2,-0.1,0,0,21,,4,-5,-0.1,0,/players/g/gibsojo01.html
+0,,G,,0,0,0,0,30,0,0,0,Ron Grahame,0.6,0.0,0,0,0,,6,0,0.0,0,/players/g/graharo02.html
+0,,G,,0,0,0,0,23,0,0,0,Doug Keans,0.6,0.0,0,0,7,,9,0,0.0,0,/players/k/keansdo01.html
+0,,RW,0.0,0,2,0,0,18,0,0,0,Dave Morrison,-0.1,0.0,0,0,0,,3,-1,-0.1,0,/players/m/morrida01.html
+0,,G,,0,0,0,0,21,0,0,0,Paul Pageau,-0.2,0.0,0,0,0,,1,0,0.0,0,/players/p/pageapa01.html
+0,,RW,0.0,0,2,0,0,24,0,0,0,Kevin Schamehorn,-0.2,0.0,0,0,4,,5,-1,-0.2,0,/players/s/schamke01.html
+0,,D,,0,0,0,0,22,0,0,0,Don Waddell,0.0,0.0,0,0,0,,1,-1,0.0,0,/players/w/waddedo01.html

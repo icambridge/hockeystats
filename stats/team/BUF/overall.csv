@@ -1,48 +1,48 @@
-points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
-0,['P. Housley'],2017-18,0,0,0,0,0,,Buffalo Sabres,BUF,,0,NHL
-78,['D. Bylsma'],2016-17,33,37,12,.476,82,8th,Buffalo Sabres,BUF,,0,NHL
-81,['D. Bylsma'],2015-16,35,36,11,.494,82,7th,Buffalo Sabres,BUF,,0,NHL
-54,['T. Nolan'],2014-15,23,51,8,.329,82,8th,Buffalo Sabres,BUF,,0,NHL
-52,"['T. Nolan', 'R. Rolston']",2013-14,21,51,10,.317,82,8th,Buffalo Sabres,BUF,,0,NHL
-48,"['R. Rolston', 'L. Ruff']",2012-13,21,21,6,.500,48,5th,Buffalo Sabres,BUF,,0,NHL
-89,['L. Ruff'],2011-12,39,32,11,.543,82,3rd,Buffalo Sabres,BUF,,0,NHL
-96,['L. Ruff'],2010-11,43,29,10,.585,82,2nd,Buffalo Sabres,BUF,Lost NHL Conference Quarter-Finals,0,NHL
-100,['L. Ruff'],2009-10,45,27,10,.610,82,1st,Buffalo Sabres,BUF,Lost NHL Conference Quarter-Finals,0,NHL
-91,['L. Ruff'],2008-09,41,32,9,.555,82,3rd,Buffalo Sabres,BUF,,0,NHL
-90,['L. Ruff'],2007-08,39,31,12,.549,82,4th,Buffalo Sabres,BUF,,0,NHL
-113,['L. Ruff'],2006-07,53,22,7,.689,82,1st,Buffalo Sabres,BUF,Lost NHL Conference Finals,0,NHL
-110,['L. Ruff'],2005-06,52,24,6,.671,82,2nd,Buffalo Sabres,BUF,Lost NHL Conference Finals,0,NHL
-85,['L. Ruff'],2003-04,37,34,4,.518,82,5th,Buffalo Sabres,BUF,,7,NHL
-72,['L. Ruff'],2002-03,27,37,8,.439,82,5th,Buffalo Sabres,BUF,,10,NHL
-82,['L. Ruff'],2001-02,35,35,1,.500,82,5th,Buffalo Sabres,BUF,,11,NHL
-98,['L. Ruff'],2000-01,46,30,1,.598,82,2nd,Buffalo Sabres,BUF,Lost NHL Conference Semi-Finals,5,NHL
-85,['L. Ruff'],1999-00,35,32,4,.518,82,3rd,Buffalo Sabres,BUF,Lost NHL Conference Quarter-Finals,11,NHL
-91,['L. Ruff'],1998-99,37,28,0,.555,82,4th,Buffalo Sabres,BUF,Lost Stanley Cup Final,17,NHL
-89,['L. Ruff'],1997-98,36,29,0,.543,82,3rd,Buffalo Sabres,BUF,Lost NHL Conference Finals,17,NHL
-92,['T. Nolan'],1996-97,40,30,0,.561,82,1st,Buffalo Sabres,BUF,Lost NHL Conference Semi-Finals,12,NHL
-73,['T. Nolan'],1995-96,33,42,0,.445,82,5th,Buffalo Sabres,BUF,,7,NHL
-51,['J. Muckler'],1994-95,22,19,0,.531,48,4th,Buffalo Sabres,BUF,Lost NHL Conference Quarter-Finals,7,NHL
-95,['J. Muckler'],1993-94,43,32,0,.565,84,4th,Buffalo Sabres,BUF,Lost NHL Conference Quarter-Finals,9,NHL
-86,['J. Muckler'],1992-93,38,36,0,.512,84,4th,Buffalo Sabres,BUF,Lost NHL Division Finals,10,NHL
-74,"['R. Dudley', 'J. Muckler']",1991-92,31,37,0,.463,80,3rd,Buffalo Sabres,BUF,Lost NHL Division Semi-Finals,12,NHL
-81,['R. Dudley'],1990-91,31,30,0,.506,80,3rd,Buffalo Sabres,BUF,Lost NHL Division Semi-Finals,19,NHL
-98,['R. Dudley'],1989-90,45,27,0,.613,80,2nd,Buffalo Sabres,BUF,Lost NHL Division Semi-Finals,8,NHL
-83,['T. Sator'],1988-89,38,35,0,.519,80,3rd,Buffalo Sabres,BUF,Lost NHL Division Semi-Finals,7,NHL
-85,['T. Sator'],1987-88,37,32,0,.531,80,3rd,Buffalo Sabres,BUF,Lost NHL Division Semi-Finals,11,NHL
-64,"['S. Bowman', 'C. Ramsay', 'T. Sator']",1986-87,28,44,0,.400,80,5th,Buffalo Sabres,BUF,,8,NHL
-80,"['J. Schoenfeld', 'S. Bowman']",1985-86,37,37,0,.500,80,5th,Buffalo Sabres,BUF,,6,NHL
-90,['S. Bowman'],1984-85,38,28,0,.563,80,3rd,Buffalo Sabres,BUF,Lost NHL Division Semi-Finals,14,NHL
-103,['S. Bowman'],1983-84,48,25,0,.644,80,2nd,Buffalo Sabres,BUF,Lost NHL Division Semi-Finals,7,NHL
-89,['S. Bowman'],1982-83,38,29,0,.556,80,3rd,Buffalo Sabres,BUF,Lost NHL Division Finals,13,NHL
-93,"['J. Roberts', 'S. Bowman']",1981-82,39,26,0,.581,80,3rd,Buffalo Sabres,BUF,Lost NHL Division Semi-Finals,15,NHL
-99,['R. Neilson'],1980-81,39,20,0,.619,80,1st,Buffalo Sabres,BUF,Lost NHL Quarter-Finals,21,NHL
-110,['S. Bowman'],1979-80,47,17,0,.688,80,1st,Buffalo Sabres,BUF,Lost NHL Semi-Finals,16,NHL
-88,"['M. Pronovost', 'B. Inglis']",1978-79,36,28,0,.550,80,2nd,Buffalo Sabres,BUF,Lost NHL Preliminary Round,16,NHL
-105,['M. Pronovost'],1977-78,44,19,0,.656,80,2nd,Buffalo Sabres,BUF,Lost NHL Quarter-Finals,17,NHL
-104,['F. Smith'],1976-77,48,24,0,.650,80,2nd,Buffalo Sabres,BUF,Lost NHL Quarter-Finals,8,NHL
-105,['F. Smith'],1975-76,46,21,0,.656,80,2nd,Buffalo Sabres,BUF,Lost NHL Quarter-Finals,13,NHL
-113,['F. Smith'],1974-75,49,16,0,.706,80,1st,Buffalo Sabres,BUF,Lost Stanley Cup Final,15,NHL
-76,['J. Crozier'],1973-74,32,34,0,.487,78,5th,Buffalo Sabres,BUF,,12,NHL
-88,['J. Crozier'],1972-73,37,27,0,.564,78,4th,Buffalo Sabres,BUF,Lost NHL Quarter-Finals,14,NHL
-51,"['P. Imlach', 'F. Smith', 'J. Crozier']",1971-72,16,43,0,.327,78,6th,Buffalo Sabres,BUF,,19,NHL
-63,['P. Imlach'],1970-71,24,39,0,.404,78,5th,Buffalo Sabres,BUF,,15,NHL
+points,coaches,leage,code,season,wins,loses,overtime_loses,team_name,points_percentage,playoff_result,ties,games_played,finishing_position
+0,"[{'link': '/coaches/houslph01c.html', 'name': 'P. Housley'}]",NHL,BUF,2017-18,0,0,0,Buffalo Sabres,0,,0,0,
+78,"[{'link': '/coaches/bylsmda01c.html', 'name': 'D. Bylsma'}]",NHL,BUF,2016-17,33,37,12,Buffalo Sabres,.476,,0,82,8th
+81,"[{'link': '/coaches/bylsmda01c.html', 'name': 'D. Bylsma'}]",NHL,BUF,2015-16,35,36,11,Buffalo Sabres,.494,,0,82,7th
+54,"[{'link': '/coaches/nolante01c.html', 'name': 'T. Nolan'}]",NHL,BUF,2014-15,23,51,8,Buffalo Sabres,.329,,0,82,8th
+52,"[{'link': '/coaches/nolante01c.html', 'name': 'T. Nolan'}, {'link': '/coaches/rolstro01c.html', 'name': 'R. Rolston'}]",NHL,BUF,2013-14,21,51,10,Buffalo Sabres,.317,,0,82,8th
+48,"[{'link': '/coaches/rolstro01c.html', 'name': 'R. Rolston'}, {'link': '/coaches/ruffli01c.html', 'name': 'L. Ruff'}]",NHL,BUF,2012-13,21,21,6,Buffalo Sabres,.500,,0,48,5th
+89,"[{'link': '/coaches/ruffli01c.html', 'name': 'L. Ruff'}]",NHL,BUF,2011-12,39,32,11,Buffalo Sabres,.543,,0,82,3rd
+96,"[{'link': '/coaches/ruffli01c.html', 'name': 'L. Ruff'}]",NHL,BUF,2010-11,43,29,10,Buffalo Sabres,.585,Lost NHL Conference Quarter-Finals,0,82,2nd
+100,"[{'link': '/coaches/ruffli01c.html', 'name': 'L. Ruff'}]",NHL,BUF,2009-10,45,27,10,Buffalo Sabres,.610,Lost NHL Conference Quarter-Finals,0,82,1st
+91,"[{'link': '/coaches/ruffli01c.html', 'name': 'L. Ruff'}]",NHL,BUF,2008-09,41,32,9,Buffalo Sabres,.555,,0,82,3rd
+90,"[{'link': '/coaches/ruffli01c.html', 'name': 'L. Ruff'}]",NHL,BUF,2007-08,39,31,12,Buffalo Sabres,.549,,0,82,4th
+113,"[{'link': '/coaches/ruffli01c.html', 'name': 'L. Ruff'}]",NHL,BUF,2006-07,53,22,7,Buffalo Sabres,.689,Lost NHL Conference Finals,0,82,1st
+110,"[{'link': '/coaches/ruffli01c.html', 'name': 'L. Ruff'}]",NHL,BUF,2005-06,52,24,6,Buffalo Sabres,.671,Lost NHL Conference Finals,0,82,2nd
+85,"[{'link': '/coaches/ruffli01c.html', 'name': 'L. Ruff'}]",NHL,BUF,2003-04,37,34,4,Buffalo Sabres,.518,,7,82,5th
+72,"[{'link': '/coaches/ruffli01c.html', 'name': 'L. Ruff'}]",NHL,BUF,2002-03,27,37,8,Buffalo Sabres,.439,,10,82,5th
+82,"[{'link': '/coaches/ruffli01c.html', 'name': 'L. Ruff'}]",NHL,BUF,2001-02,35,35,1,Buffalo Sabres,.500,,11,82,5th
+98,"[{'link': '/coaches/ruffli01c.html', 'name': 'L. Ruff'}]",NHL,BUF,2000-01,46,30,1,Buffalo Sabres,.598,Lost NHL Conference Semi-Finals,5,82,2nd
+85,"[{'link': '/coaches/ruffli01c.html', 'name': 'L. Ruff'}]",NHL,BUF,1999-00,35,32,4,Buffalo Sabres,.518,Lost NHL Conference Quarter-Finals,11,82,3rd
+91,"[{'link': '/coaches/ruffli01c.html', 'name': 'L. Ruff'}]",NHL,BUF,1998-99,37,28,0,Buffalo Sabres,.555,Lost Stanley Cup Final,17,82,4th
+89,"[{'link': '/coaches/ruffli01c.html', 'name': 'L. Ruff'}]",NHL,BUF,1997-98,36,29,0,Buffalo Sabres,.543,Lost NHL Conference Finals,17,82,3rd
+92,"[{'link': '/coaches/nolante01c.html', 'name': 'T. Nolan'}]",NHL,BUF,1996-97,40,30,0,Buffalo Sabres,.561,Lost NHL Conference Semi-Finals,12,82,1st
+73,"[{'link': '/coaches/nolante01c.html', 'name': 'T. Nolan'}]",NHL,BUF,1995-96,33,42,0,Buffalo Sabres,.445,,7,82,5th
+51,"[{'link': '/coaches/muckljo99c.html', 'name': 'J. Muckler'}]",NHL,BUF,1994-95,22,19,0,Buffalo Sabres,.531,Lost NHL Conference Quarter-Finals,7,48,4th
+95,"[{'link': '/coaches/muckljo99c.html', 'name': 'J. Muckler'}]",NHL,BUF,1993-94,43,32,0,Buffalo Sabres,.565,Lost NHL Conference Quarter-Finals,9,84,4th
+86,"[{'link': '/coaches/muckljo99c.html', 'name': 'J. Muckler'}]",NHL,BUF,1992-93,38,36,0,Buffalo Sabres,.512,Lost NHL Division Finals,10,84,4th
+74,"[{'link': '/coaches/dudleri01c.html', 'name': 'R. Dudley'}, {'link': '/coaches/muckljo99c.html', 'name': 'J. Muckler'}]",NHL,BUF,1991-92,31,37,0,Buffalo Sabres,.463,Lost NHL Division Semi-Finals,12,80,3rd
+81,"[{'link': '/coaches/dudleri01c.html', 'name': 'R. Dudley'}]",NHL,BUF,1990-91,31,30,0,Buffalo Sabres,.506,Lost NHL Division Semi-Finals,19,80,3rd
+98,"[{'link': '/coaches/dudleri01c.html', 'name': 'R. Dudley'}]",NHL,BUF,1989-90,45,27,0,Buffalo Sabres,.613,Lost NHL Division Semi-Finals,8,80,2nd
+83,"[{'link': '/coaches/satorte99c.html', 'name': 'T. Sator'}]",NHL,BUF,1988-89,38,35,0,Buffalo Sabres,.519,Lost NHL Division Semi-Finals,7,80,3rd
+85,"[{'link': '/coaches/satorte99c.html', 'name': 'T. Sator'}]",NHL,BUF,1987-88,37,32,0,Buffalo Sabres,.531,Lost NHL Division Semi-Finals,11,80,3rd
+64,"[{'link': '/coaches/bowmasc99c.html', 'name': 'S. Bowman'}, {'link': '/coaches/ramsacr01c.html', 'name': 'C. Ramsay'}, {'link': '/coaches/satorte99c.html', 'name': 'T. Sator'}]",NHL,BUF,1986-87,28,44,0,Buffalo Sabres,.400,,8,80,5th
+80,"[{'link': '/coaches/schoeji01c.html', 'name': 'J. Schoenfeld'}, {'link': '/coaches/bowmasc99c.html', 'name': 'S. Bowman'}]",NHL,BUF,1985-86,37,37,0,Buffalo Sabres,.500,,6,80,5th
+90,"[{'link': '/coaches/bowmasc99c.html', 'name': 'S. Bowman'}]",NHL,BUF,1984-85,38,28,0,Buffalo Sabres,.563,Lost NHL Division Semi-Finals,14,80,3rd
+103,"[{'link': '/coaches/bowmasc99c.html', 'name': 'S. Bowman'}]",NHL,BUF,1983-84,48,25,0,Buffalo Sabres,.644,Lost NHL Division Semi-Finals,7,80,2nd
+89,"[{'link': '/coaches/bowmasc99c.html', 'name': 'S. Bowman'}]",NHL,BUF,1982-83,38,29,0,Buffalo Sabres,.556,Lost NHL Division Finals,13,80,3rd
+93,"[{'link': '/coaches/roberji01c.html', 'name': 'J. Roberts'}, {'link': '/coaches/bowmasc99c.html', 'name': 'S. Bowman'}]",NHL,BUF,1981-82,39,26,0,Buffalo Sabres,.581,Lost NHL Division Semi-Finals,15,80,3rd
+99,"[{'link': '/coaches/neilsro99c.html', 'name': 'R. Neilson'}]",NHL,BUF,1980-81,39,20,0,Buffalo Sabres,.619,Lost NHL Quarter-Finals,21,80,1st
+110,"[{'link': '/coaches/bowmasc99c.html', 'name': 'S. Bowman'}]",NHL,BUF,1979-80,47,17,0,Buffalo Sabres,.688,Lost NHL Semi-Finals,16,80,1st
+88,"[{'link': '/coaches/pronoma01c.html', 'name': 'M. Pronovost'}, {'link': '/coaches/inglibi01c.html', 'name': 'B. Inglis'}]",NHL,BUF,1978-79,36,28,0,Buffalo Sabres,.550,Lost NHL Preliminary Round,16,80,2nd
+105,"[{'link': '/coaches/pronoma01c.html', 'name': 'M. Pronovost'}]",NHL,BUF,1977-78,44,19,0,Buffalo Sabres,.656,Lost NHL Quarter-Finals,17,80,2nd
+104,"[{'link': '/coaches/smithfl01c.html', 'name': 'F. Smith'}]",NHL,BUF,1976-77,48,24,0,Buffalo Sabres,.650,Lost NHL Quarter-Finals,8,80,2nd
+105,"[{'link': '/coaches/smithfl01c.html', 'name': 'F. Smith'}]",NHL,BUF,1975-76,46,21,0,Buffalo Sabres,.656,Lost NHL Quarter-Finals,13,80,2nd
+113,"[{'link': '/coaches/smithfl01c.html', 'name': 'F. Smith'}]",NHL,BUF,1974-75,49,16,0,Buffalo Sabres,.706,Lost Stanley Cup Final,15,80,1st
+76,"[{'link': '/coaches/crozijo01c.html', 'name': 'J. Crozier'}]",NHL,BUF,1973-74,32,34,0,Buffalo Sabres,.487,,12,78,5th
+88,"[{'link': '/coaches/crozijo01c.html', 'name': 'J. Crozier'}]",NHL,BUF,1972-73,37,27,0,Buffalo Sabres,.564,Lost NHL Quarter-Finals,14,78,4th
+51,"[{'link': '/coaches/imlacpu01c.html', 'name': 'P. Imlach'}, {'link': '/coaches/smithfl01c.html', 'name': 'F. Smith'}, {'link': '/coaches/crozijo01c.html', 'name': 'J. Crozier'}]",NHL,BUF,1971-72,16,43,0,Buffalo Sabres,.327,,19,78,6th
+63,"[{'link': '/coaches/imlacpu01c.html', 'name': 'P. Imlach'}]",NHL,BUF,1970-71,24,39,0,Buffalo Sabres,.404,,15,78,5th

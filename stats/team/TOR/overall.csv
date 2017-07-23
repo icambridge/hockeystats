@@ -1,101 +1,101 @@
-points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
-0,['M. Babcock'],2017-18,0,0,0,0,0,,Toronto Maple Leafs,TOR,,0,NHL
-95,['M. Babcock'],2016-17,40,27,15,.579,82,3rd,Toronto Maple Leafs,TOR,Lost NHL First Round,0,NHL
-69,['M. Babcock'],2015-16,29,42,11,.421,82,8th,Toronto Maple Leafs,TOR,,0,NHL
-68,"['R. Carlyle', 'P. Horachek']",2014-15,30,44,8,.415,82,7th,Toronto Maple Leafs,TOR,,0,NHL
-84,['R. Carlyle'],2013-14,38,36,8,.512,82,6th,Toronto Maple Leafs,TOR,,0,NHL
-57,['R. Carlyle'],2012-13,26,17,5,.594,48,3rd,Toronto Maple Leafs,TOR,Lost NHL Conference Quarter-Finals,0,NHL
-80,"['R. Wilson', 'R. Carlyle']",2011-12,35,37,10,.488,82,4th,Toronto Maple Leafs,TOR,,0,NHL
-85,['R. Wilson'],2010-11,37,34,11,.518,82,4th,Toronto Maple Leafs,TOR,,0,NHL
-74,['R. Wilson'],2009-10,30,38,14,.451,82,5th,Toronto Maple Leafs,TOR,,0,NHL
-81,['R. Wilson'],2008-09,34,35,13,.494,82,5th,Toronto Maple Leafs,TOR,,0,NHL
-83,['P. Maurice'],2007-08,36,35,11,.506,82,5th,Toronto Maple Leafs,TOR,,0,NHL
-91,['P. Maurice'],2006-07,40,31,11,.555,82,3rd,Toronto Maple Leafs,TOR,,0,NHL
-90,['P. Quinn'],2005-06,41,33,8,.549,82,4th,Toronto Maple Leafs,TOR,,0,NHL
-103,['P. Quinn'],2003-04,45,24,3,.628,82,2nd,Toronto Maple Leafs,TOR,Lost NHL Conference Semi-Finals,10,NHL
-98,['P. Quinn'],2002-03,44,28,3,.598,82,2nd,Toronto Maple Leafs,TOR,Lost NHL Conference Quarter-Finals,7,NHL
-100,['P. Quinn'],2001-02,43,25,4,.610,82,2nd,Toronto Maple Leafs,TOR,Lost NHL Conference Finals,10,NHL
-90,['P. Quinn'],2000-01,37,29,5,.549,82,3rd,Toronto Maple Leafs,TOR,Lost NHL Conference Semi-Finals,11,NHL
-100,['P. Quinn'],1999-00,45,27,3,.610,82,1st,Toronto Maple Leafs,TOR,Lost NHL Conference Semi-Finals,7,NHL
-97,['P. Quinn'],1998-99,45,30,0,.591,82,2nd,Toronto Maple Leafs,TOR,Lost NHL Conference Finals,7,NHL
-69,['M. Murphy'],1997-98,30,43,0,.421,82,6th,Toronto Maple Leafs,TOR,,9,NHL
-68,['M. Murphy'],1996-97,30,44,0,.415,82,6th,Toronto Maple Leafs,TOR,,8,NHL
-80,"['P. Burns', 'N. Beverley']",1995-96,34,36,0,.488,82,3rd,Toronto Maple Leafs,TOR,Lost NHL Conference Quarter-Finals,12,NHL
-50,['P. Burns'],1994-95,21,19,0,.521,48,4th,Toronto Maple Leafs,TOR,Lost NHL Conference Quarter-Finals,8,NHL
-98,['P. Burns'],1993-94,43,29,0,.583,84,2nd,Toronto Maple Leafs,TOR,Lost NHL Conference Finals,12,NHL
-99,['P. Burns'],1992-93,44,29,0,.589,84,3rd,Toronto Maple Leafs,TOR,Lost NHL Conference Finals,11,NHL
-67,['T. Watt'],1991-92,30,43,0,.419,80,5th,Toronto Maple Leafs,TOR,,7,NHL
-57,"['D. Carpenter', 'T. Watt']",1990-91,23,46,0,.356,80,5th,Toronto Maple Leafs,TOR,,11,NHL
-80,['D. Carpenter'],1989-90,38,38,0,.500,80,3rd,Toronto Maple Leafs,TOR,Lost NHL Division Semi-Finals,4,NHL
-62,"['J. Brophy', 'G. Armstrong']",1988-89,28,46,0,.388,80,5th,Toronto Maple Leafs,TOR,,6,NHL
-52,['J. Brophy'],1987-88,21,49,0,.325,80,4th,Toronto Maple Leafs,TOR,Lost NHL Division Semi-Finals,10,NHL
-70,['J. Brophy'],1986-87,32,42,0,.438,80,4th,Toronto Maple Leafs,TOR,Lost NHL Division Finals,6,NHL
-57,['D. Maloney'],1985-86,25,48,0,.356,80,4th,Toronto Maple Leafs,TOR,Lost NHL Division Finals,7,NHL
-48,['D. Maloney'],1984-85,20,52,0,.300,80,5th,Toronto Maple Leafs,TOR,,8,NHL
-61,['M. Nykoluk'],1983-84,26,45,0,.381,80,5th,Toronto Maple Leafs,TOR,,9,NHL
-68,['M. Nykoluk'],1982-83,28,40,0,.425,80,3rd,Toronto Maple Leafs,TOR,Lost NHL Division Semi-Finals,12,NHL
-56,['M. Nykoluk'],1981-82,20,44,0,.350,80,5th,Toronto Maple Leafs,TOR,,16,NHL
-71,"['J. Crozier', 'M. Nykoluk']",1980-81,28,37,0,.444,80,5th,Toronto Maple Leafs,TOR,Lost NHL Preliminary Round,15,NHL
-75,"['F. Smith', 'D. Duff', 'P. Imlach']",1979-80,35,40,0,.469,80,4th,Toronto Maple Leafs,TOR,Lost NHL Preliminary Round,5,NHL
-81,['R. Neilson'],1978-79,34,33,0,.506,80,3rd,Toronto Maple Leafs,TOR,Lost NHL Quarter-Finals,13,NHL
-92,['R. Neilson'],1977-78,41,29,0,.575,80,3rd,Toronto Maple Leafs,TOR,Lost NHL Semi-Finals,10,NHL
-81,['R. Kelly'],1976-77,33,32,0,.506,80,3rd,Toronto Maple Leafs,TOR,Lost NHL Quarter-Finals,15,NHL
-83,['R. Kelly'],1975-76,34,31,0,.519,80,3rd,Toronto Maple Leafs,TOR,Lost NHL Quarter-Finals,15,NHL
-78,['R. Kelly'],1974-75,31,33,0,.488,80,3rd,Toronto Maple Leafs,TOR,Lost NHL Quarter-Finals,16,NHL
-86,['R. Kelly'],1973-74,35,27,0,.551,78,4th,Toronto Maple Leafs,TOR,Lost NHL Quarter-Finals,16,NHL
-64,['J. McLellan'],1972-73,27,41,0,.410,78,6th,Toronto Maple Leafs,TOR,,10,NHL
-80,['J. McLellan'],1971-72,33,31,0,.513,78,4th,Toronto Maple Leafs,TOR,Lost NHL Quarter-Finals,14,NHL
-82,['J. McLellan'],1970-71,37,33,0,.526,78,4th,Toronto Maple Leafs,TOR,Lost NHL Quarter-Finals,8,NHL
-71,['J. McLellan'],1969-70,29,34,0,.467,76,6th,Toronto Maple Leafs,TOR,,13,NHL
-85,['P. Imlach'],1968-69,35,26,0,.559,76,4th,Toronto Maple Leafs,TOR,Lost NHL Quarter-Finals,15,NHL
-76,['P. Imlach'],1967-68,33,31,0,.514,74,5th,Toronto Maple Leafs,TOR,,10,NHL
-75,['P. Imlach'],1966-67,32,27,0,.536,70,3rd,Toronto Maple Leafs,TOR,,11,NHL
-79,['P. Imlach'],1965-66,34,25,0,.564,70,3rd,Toronto Maple Leafs,TOR,Lost NHL Semi-Finals,11,NHL
-74,['P. Imlach'],1964-65,30,26,0,.529,70,4th,Toronto Maple Leafs,TOR,Lost NHL Semi-Finals,14,NHL
-78,['P. Imlach'],1963-64,33,25,0,.557,70,3rd,Toronto Maple Leafs,TOR,,12,NHL
-82,['P. Imlach'],1962-63,35,23,0,.586,70,1st,Toronto Maple Leafs,TOR,,12,NHL
-85,['P. Imlach'],1961-62,37,22,0,.607,70,2nd,Toronto Maple Leafs,TOR,,11,NHL
-90,['P. Imlach'],1960-61,39,19,0,.643,70,2nd,Toronto Maple Leafs,TOR,Lost NHL Semi-Finals,12,NHL
-79,['P. Imlach'],1959-60,35,26,0,.564,70,2nd,Toronto Maple Leafs,TOR,Lost Stanley Cup Final,9,NHL
-65,"['B. Reay', 'P. Imlach']",1958-59,27,32,0,.464,70,4th,Toronto Maple Leafs,TOR,Lost Stanley Cup Final,11,NHL
-53,['B. Reay'],1957-58,21,38,0,.379,70,6th,Toronto Maple Leafs,TOR,,11,NHL
-57,['H. Meeker'],1956-57,21,34,0,.407,70,5th,Toronto Maple Leafs,TOR,,15,NHL
-61,['K. Clancy'],1955-56,24,33,0,.436,70,4th,Toronto Maple Leafs,TOR,Lost NHL Semi-Finals,13,NHL
-70,['K. Clancy'],1954-55,24,24,0,.500,70,3rd,Toronto Maple Leafs,TOR,Lost NHL Semi-Finals,22,NHL
-78,['K. Clancy'],1953-54,32,24,0,.557,70,3rd,Toronto Maple Leafs,TOR,Lost NHL Semi-Finals,14,NHL
-67,['J. Primeau'],1952-53,27,30,0,.479,70,5th,Toronto Maple Leafs,TOR,,13,NHL
-74,['J. Primeau'],1951-52,29,25,0,.529,70,3rd,Toronto Maple Leafs,TOR,Lost NHL Semi-Finals,16,NHL
-95,['J. Primeau'],1950-51,41,16,0,.679,70,2nd,Toronto Maple Leafs,TOR,,13,NHL
-74,['H. Day'],1949-50,31,27,0,.529,70,3rd,Toronto Maple Leafs,TOR,Lost NHL Semi-Finals,12,NHL
-57,['H. Day'],1948-49,22,25,0,.475,60,4th,Toronto Maple Leafs,TOR,,13,NHL
-77,['H. Day'],1947-48,32,15,0,.642,60,1st,Toronto Maple Leafs,TOR,,13,NHL
-72,['H. Day'],1946-47,31,19,0,.600,60,2nd,Toronto Maple Leafs,TOR,,10,NHL
-45,['H. Day'],1945-46,19,24,0,.450,50,5th,Toronto Maple Leafs,TOR,,7,NHL
-52,['H. Day'],1944-45,24,22,0,.520,50,3rd,Toronto Maple Leafs,TOR,,4,NHL
-50,['H. Day'],1943-44,23,23,0,.500,50,3rd,Toronto Maple Leafs,TOR,Lost NHL Semi-Finals,4,NHL
-53,['H. Day'],1942-43,22,19,0,.530,50,3rd,Toronto Maple Leafs,TOR,Lost NHL Semi-Finals,9,NHL
-57,['H. Day'],1941-42,27,18,0,.594,48,2nd,Toronto Maple Leafs,TOR,,3,NHL
-62,['H. Day'],1940-41,28,14,0,.646,48,2nd,Toronto Maple Leafs,TOR,Lost NHL Semi-Finals,6,NHL
-56,['D. Irvin'],1939-40,25,17,0,.583,48,3rd,Toronto Maple Leafs,TOR,Lost Stanley Cup Final,6,NHL
-47,['D. Irvin'],1938-39,19,20,0,.490,48,3rd,Toronto Maple Leafs,TOR,Lost Stanley Cup Final,9,NHL
-57,['D. Irvin'],1937-38,24,15,0,.594,48,1st,Toronto Maple Leafs,TOR,Lost Stanley Cup Final,9,NHL
-49,['D. Irvin'],1936-37,22,21,0,.510,48,3rd,Toronto Maple Leafs,TOR,Lost NHL Quarter-Finals,5,NHL
-52,['D. Irvin'],1935-36,23,19,0,.542,48,2nd,Toronto Maple Leafs,TOR,Lost Stanley Cup Final,6,NHL
-64,['D. Irvin'],1934-35,30,14,0,.667,48,1st,Toronto Maple Leafs,TOR,Lost Stanley Cup Final,4,NHL
-61,['D. Irvin'],1933-34,26,13,0,.635,48,1st,Toronto Maple Leafs,TOR,Lost NHL Semi-Finals,9,NHL
-54,['D. Irvin'],1932-33,24,18,0,.563,48,1st,Toronto Maple Leafs,TOR,Lost Stanley Cup Final,6,NHL
-53,"['A. Duncan', 'D. Irvin']",1931-32,23,18,0,.552,48,2nd,Toronto Maple Leafs,TOR,,7,NHL
-53,"['C. Smythe', 'A. Duncan']",1930-31,22,13,0,.602,44,2nd,Toronto Maple Leafs,TOR,Lost NHL Quarter-Finals,9,NHL
-40,['C. Smythe'],1929-30,17,21,0,.455,44,4th,Toronto Maple Leafs,TOR,,6,NHL
-47,['C. Smythe'],1928-29,21,18,0,.534,44,3rd,Toronto Maple Leafs,TOR,Lost NHL Semi-Finals,5,NHL
-44,['C. Smythe'],1927-28,18,18,0,.500,44,4th,Toronto Maple Leafs,TOR,,8,NHL
-35,"['C. Querrie', 'M. Rodden', 'A. Romeril']",1926-27,15,24,0,.398,44,5th,Toronto Maple Leafs,TOR,,5,NHL
-27,['E. Powers'],1925-26,12,21,0,.375,36,6th,Toronto St. Patricks,TRS,,3,NHL
-38,['E. Powers'],1924-25,19,11,0,.633,30,2nd,Toronto St. Patricks,TRS,Lost NHL Semi-Finals,0,NHL
-20,['C. Querrie'],1923-24,10,14,0,.417,24,3rd,Toronto St. Patricks,TRS,,0,NHL
-27,"[""G. O'Donoghue"", 'C. Querrie']",1922-23,13,10,0,.563,24,3rd,Toronto St. Patricks,TRS,,1,NHL
-27,"[""G. O'Donoghue""]",1921-22,13,10,0,.563,24,2nd,Toronto St. Patricks,TRS,,1,NHL
-30,['F. Carroll'],1920-21,15,9,0,.625,24,1st,Toronto St. Patricks,TRS,Lost NHL Final,0,NHL
-24,"['F. Heffernan', 'H. Sproule']",1919-20,12,12,0,.500,24,3rd,Toronto St. Patricks,TRS,,0,NHL
-10,['D. Carroll'],1918-19,5,13,0,.278,18,3rd,Toronto Arenas,TRA,,0,NHL
-26,['D. Carroll'],1917-18,13,9,0,.591,22,2nd,Toronto Arenas,TRA,,0,NHL
+points,coaches,leage,code,season,wins,loses,overtime_loses,team_name,points_percentage,playoff_result,ties,games_played,finishing_position
+0,"[{'link': '/coaches/babcomi99c.html', 'name': 'M. Babcock'}]",NHL,TOR,2017-18,0,0,0,Toronto Maple Leafs,0,,0,0,
+95,"[{'link': '/coaches/babcomi99c.html', 'name': 'M. Babcock'}]",NHL,TOR,2016-17,40,27,15,Toronto Maple Leafs,.579,Lost NHL First Round,0,82,3rd
+69,"[{'link': '/coaches/babcomi99c.html', 'name': 'M. Babcock'}]",NHL,TOR,2015-16,29,42,11,Toronto Maple Leafs,.421,,0,82,8th
+68,"[{'link': '/coaches/carlyra01c.html', 'name': 'R. Carlyle'}, {'link': '/coaches/horacpe01c.html', 'name': 'P. Horachek'}]",NHL,TOR,2014-15,30,44,8,Toronto Maple Leafs,.415,,0,82,7th
+84,"[{'link': '/coaches/carlyra01c.html', 'name': 'R. Carlyle'}]",NHL,TOR,2013-14,38,36,8,Toronto Maple Leafs,.512,,0,82,6th
+57,"[{'link': '/coaches/carlyra01c.html', 'name': 'R. Carlyle'}]",NHL,TOR,2012-13,26,17,5,Toronto Maple Leafs,.594,Lost NHL Conference Quarter-Finals,0,48,3rd
+80,"[{'link': '/coaches/wilsoro02c.html', 'name': 'R. Wilson'}, {'link': '/coaches/carlyra01c.html', 'name': 'R. Carlyle'}]",NHL,TOR,2011-12,35,37,10,Toronto Maple Leafs,.488,,0,82,4th
+85,"[{'link': '/coaches/wilsoro02c.html', 'name': 'R. Wilson'}]",NHL,TOR,2010-11,37,34,11,Toronto Maple Leafs,.518,,0,82,4th
+74,"[{'link': '/coaches/wilsoro02c.html', 'name': 'R. Wilson'}]",NHL,TOR,2009-10,30,38,14,Toronto Maple Leafs,.451,,0,82,5th
+81,"[{'link': '/coaches/wilsoro02c.html', 'name': 'R. Wilson'}]",NHL,TOR,2008-09,34,35,13,Toronto Maple Leafs,.494,,0,82,5th
+83,"[{'link': '/coaches/mauripa99c.html', 'name': 'P. Maurice'}]",NHL,TOR,2007-08,36,35,11,Toronto Maple Leafs,.506,,0,82,5th
+91,"[{'link': '/coaches/mauripa99c.html', 'name': 'P. Maurice'}]",NHL,TOR,2006-07,40,31,11,Toronto Maple Leafs,.555,,0,82,3rd
+90,"[{'link': '/coaches/quinnpa01c.html', 'name': 'P. Quinn'}]",NHL,TOR,2005-06,41,33,8,Toronto Maple Leafs,.549,,0,82,4th
+103,"[{'link': '/coaches/quinnpa01c.html', 'name': 'P. Quinn'}]",NHL,TOR,2003-04,45,24,3,Toronto Maple Leafs,.628,Lost NHL Conference Semi-Finals,10,82,2nd
+98,"[{'link': '/coaches/quinnpa01c.html', 'name': 'P. Quinn'}]",NHL,TOR,2002-03,44,28,3,Toronto Maple Leafs,.598,Lost NHL Conference Quarter-Finals,7,82,2nd
+100,"[{'link': '/coaches/quinnpa01c.html', 'name': 'P. Quinn'}]",NHL,TOR,2001-02,43,25,4,Toronto Maple Leafs,.610,Lost NHL Conference Finals,10,82,2nd
+90,"[{'link': '/coaches/quinnpa01c.html', 'name': 'P. Quinn'}]",NHL,TOR,2000-01,37,29,5,Toronto Maple Leafs,.549,Lost NHL Conference Semi-Finals,11,82,3rd
+100,"[{'link': '/coaches/quinnpa01c.html', 'name': 'P. Quinn'}]",NHL,TOR,1999-00,45,27,3,Toronto Maple Leafs,.610,Lost NHL Conference Semi-Finals,7,82,1st
+97,"[{'link': '/coaches/quinnpa01c.html', 'name': 'P. Quinn'}]",NHL,TOR,1998-99,45,30,0,Toronto Maple Leafs,.591,Lost NHL Conference Finals,7,82,2nd
+69,"[{'link': '/coaches/murphmi01c.html', 'name': 'M. Murphy'}]",NHL,TOR,1997-98,30,43,0,Toronto Maple Leafs,.421,,9,82,6th
+68,"[{'link': '/coaches/murphmi01c.html', 'name': 'M. Murphy'}]",NHL,TOR,1996-97,30,44,0,Toronto Maple Leafs,.415,,8,82,6th
+80,"[{'link': '/coaches/burnspa99c.html', 'name': 'P. Burns'}, {'link': '/coaches/beverni01c.html', 'name': 'N. Beverley'}]",NHL,TOR,1995-96,34,36,0,Toronto Maple Leafs,.488,Lost NHL Conference Quarter-Finals,12,82,3rd
+50,"[{'link': '/coaches/burnspa99c.html', 'name': 'P. Burns'}]",NHL,TOR,1994-95,21,19,0,Toronto Maple Leafs,.521,Lost NHL Conference Quarter-Finals,8,48,4th
+98,"[{'link': '/coaches/burnspa99c.html', 'name': 'P. Burns'}]",NHL,TOR,1993-94,43,29,0,Toronto Maple Leafs,.583,Lost NHL Conference Finals,12,84,2nd
+99,"[{'link': '/coaches/burnspa99c.html', 'name': 'P. Burns'}]",NHL,TOR,1992-93,44,29,0,Toronto Maple Leafs,.589,Lost NHL Conference Finals,11,84,3rd
+67,"[{'link': '/coaches/wattto99c.html', 'name': 'T. Watt'}]",NHL,TOR,1991-92,30,43,0,Toronto Maple Leafs,.419,,7,80,5th
+57,"[{'link': '/coaches/carpedo99c.html', 'name': 'D. Carpenter'}, {'link': '/coaches/wattto99c.html', 'name': 'T. Watt'}]",NHL,TOR,1990-91,23,46,0,Toronto Maple Leafs,.356,,11,80,5th
+80,"[{'link': '/coaches/carpedo99c.html', 'name': 'D. Carpenter'}]",NHL,TOR,1989-90,38,38,0,Toronto Maple Leafs,.500,Lost NHL Division Semi-Finals,4,80,3rd
+62,"[{'link': '/coaches/brophjo99c.html', 'name': 'J. Brophy'}, {'link': '/coaches/armstge01c.html', 'name': 'G. Armstrong'}]",NHL,TOR,1988-89,28,46,0,Toronto Maple Leafs,.388,,6,80,5th
+52,"[{'link': '/coaches/brophjo99c.html', 'name': 'J. Brophy'}]",NHL,TOR,1987-88,21,49,0,Toronto Maple Leafs,.325,Lost NHL Division Semi-Finals,10,80,4th
+70,"[{'link': '/coaches/brophjo99c.html', 'name': 'J. Brophy'}]",NHL,TOR,1986-87,32,42,0,Toronto Maple Leafs,.438,Lost NHL Division Finals,6,80,4th
+57,"[{'link': '/coaches/malonda01c.html', 'name': 'D. Maloney'}]",NHL,TOR,1985-86,25,48,0,Toronto Maple Leafs,.356,Lost NHL Division Finals,7,80,4th
+48,"[{'link': '/coaches/malonda01c.html', 'name': 'D. Maloney'}]",NHL,TOR,1984-85,20,52,0,Toronto Maple Leafs,.300,,8,80,5th
+61,"[{'link': '/coaches/nykolmi01c.html', 'name': 'M. Nykoluk'}]",NHL,TOR,1983-84,26,45,0,Toronto Maple Leafs,.381,,9,80,5th
+68,"[{'link': '/coaches/nykolmi01c.html', 'name': 'M. Nykoluk'}]",NHL,TOR,1982-83,28,40,0,Toronto Maple Leafs,.425,Lost NHL Division Semi-Finals,12,80,3rd
+56,"[{'link': '/coaches/nykolmi01c.html', 'name': 'M. Nykoluk'}]",NHL,TOR,1981-82,20,44,0,Toronto Maple Leafs,.350,,16,80,5th
+71,"[{'link': '/coaches/crozijo01c.html', 'name': 'J. Crozier'}, {'link': '/coaches/nykolmi01c.html', 'name': 'M. Nykoluk'}]",NHL,TOR,1980-81,28,37,0,Toronto Maple Leafs,.444,Lost NHL Preliminary Round,15,80,5th
+75,"[{'link': '/coaches/smithfl01c.html', 'name': 'F. Smith'}, {'link': '/coaches/duffdi01c.html', 'name': 'D. Duff'}, {'link': '/coaches/imlacpu01c.html', 'name': 'P. Imlach'}]",NHL,TOR,1979-80,35,40,0,Toronto Maple Leafs,.469,Lost NHL Preliminary Round,5,80,4th
+81,"[{'link': '/coaches/neilsro99c.html', 'name': 'R. Neilson'}]",NHL,TOR,1978-79,34,33,0,Toronto Maple Leafs,.506,Lost NHL Quarter-Finals,13,80,3rd
+92,"[{'link': '/coaches/neilsro99c.html', 'name': 'R. Neilson'}]",NHL,TOR,1977-78,41,29,0,Toronto Maple Leafs,.575,Lost NHL Semi-Finals,10,80,3rd
+81,"[{'link': '/coaches/kellyre01c.html', 'name': 'R. Kelly'}]",NHL,TOR,1976-77,33,32,0,Toronto Maple Leafs,.506,Lost NHL Quarter-Finals,15,80,3rd
+83,"[{'link': '/coaches/kellyre01c.html', 'name': 'R. Kelly'}]",NHL,TOR,1975-76,34,31,0,Toronto Maple Leafs,.519,Lost NHL Quarter-Finals,15,80,3rd
+78,"[{'link': '/coaches/kellyre01c.html', 'name': 'R. Kelly'}]",NHL,TOR,1974-75,31,33,0,Toronto Maple Leafs,.488,Lost NHL Quarter-Finals,16,80,3rd
+86,"[{'link': '/coaches/kellyre01c.html', 'name': 'R. Kelly'}]",NHL,TOR,1973-74,35,27,0,Toronto Maple Leafs,.551,Lost NHL Quarter-Finals,16,78,4th
+64,"[{'link': '/coaches/mcleljo01c.html', 'name': 'J. McLellan'}]",NHL,TOR,1972-73,27,41,0,Toronto Maple Leafs,.410,,10,78,6th
+80,"[{'link': '/coaches/mcleljo01c.html', 'name': 'J. McLellan'}]",NHL,TOR,1971-72,33,31,0,Toronto Maple Leafs,.513,Lost NHL Quarter-Finals,14,78,4th
+82,"[{'link': '/coaches/mcleljo01c.html', 'name': 'J. McLellan'}]",NHL,TOR,1970-71,37,33,0,Toronto Maple Leafs,.526,Lost NHL Quarter-Finals,8,78,4th
+71,"[{'link': '/coaches/mcleljo01c.html', 'name': 'J. McLellan'}]",NHL,TOR,1969-70,29,34,0,Toronto Maple Leafs,.467,,13,76,6th
+85,"[{'link': '/coaches/imlacpu01c.html', 'name': 'P. Imlach'}]",NHL,TOR,1968-69,35,26,0,Toronto Maple Leafs,.559,Lost NHL Quarter-Finals,15,76,4th
+76,"[{'link': '/coaches/imlacpu01c.html', 'name': 'P. Imlach'}]",NHL,TOR,1967-68,33,31,0,Toronto Maple Leafs,.514,,10,74,5th
+75,"[{'link': '/coaches/imlacpu01c.html', 'name': 'P. Imlach'}]",NHL,TOR,1966-67,32,27,0,Toronto Maple Leafs,.536,,11,70,3rd
+79,"[{'link': '/coaches/imlacpu01c.html', 'name': 'P. Imlach'}]",NHL,TOR,1965-66,34,25,0,Toronto Maple Leafs,.564,Lost NHL Semi-Finals,11,70,3rd
+74,"[{'link': '/coaches/imlacpu01c.html', 'name': 'P. Imlach'}]",NHL,TOR,1964-65,30,26,0,Toronto Maple Leafs,.529,Lost NHL Semi-Finals,14,70,4th
+78,"[{'link': '/coaches/imlacpu01c.html', 'name': 'P. Imlach'}]",NHL,TOR,1963-64,33,25,0,Toronto Maple Leafs,.557,,12,70,3rd
+82,"[{'link': '/coaches/imlacpu01c.html', 'name': 'P. Imlach'}]",NHL,TOR,1962-63,35,23,0,Toronto Maple Leafs,.586,,12,70,1st
+85,"[{'link': '/coaches/imlacpu01c.html', 'name': 'P. Imlach'}]",NHL,TOR,1961-62,37,22,0,Toronto Maple Leafs,.607,,11,70,2nd
+90,"[{'link': '/coaches/imlacpu01c.html', 'name': 'P. Imlach'}]",NHL,TOR,1960-61,39,19,0,Toronto Maple Leafs,.643,Lost NHL Semi-Finals,12,70,2nd
+79,"[{'link': '/coaches/imlacpu01c.html', 'name': 'P. Imlach'}]",NHL,TOR,1959-60,35,26,0,Toronto Maple Leafs,.564,Lost Stanley Cup Final,9,70,2nd
+65,"[{'link': '/coaches/reaybi01c.html', 'name': 'B. Reay'}, {'link': '/coaches/imlacpu01c.html', 'name': 'P. Imlach'}]",NHL,TOR,1958-59,27,32,0,Toronto Maple Leafs,.464,Lost Stanley Cup Final,11,70,4th
+53,"[{'link': '/coaches/reaybi01c.html', 'name': 'B. Reay'}]",NHL,TOR,1957-58,21,38,0,Toronto Maple Leafs,.379,,11,70,6th
+57,"[{'link': '/coaches/meekeho01c.html', 'name': 'H. Meeker'}]",NHL,TOR,1956-57,21,34,0,Toronto Maple Leafs,.407,,15,70,5th
+61,"[{'link': '/coaches/clancki01c.html', 'name': 'K. Clancy'}]",NHL,TOR,1955-56,24,33,0,Toronto Maple Leafs,.436,Lost NHL Semi-Finals,13,70,4th
+70,"[{'link': '/coaches/clancki01c.html', 'name': 'K. Clancy'}]",NHL,TOR,1954-55,24,24,0,Toronto Maple Leafs,.500,Lost NHL Semi-Finals,22,70,3rd
+78,"[{'link': '/coaches/clancki01c.html', 'name': 'K. Clancy'}]",NHL,TOR,1953-54,32,24,0,Toronto Maple Leafs,.557,Lost NHL Semi-Finals,14,70,3rd
+67,"[{'link': '/coaches/primejo01c.html', 'name': 'J. Primeau'}]",NHL,TOR,1952-53,27,30,0,Toronto Maple Leafs,.479,,13,70,5th
+74,"[{'link': '/coaches/primejo01c.html', 'name': 'J. Primeau'}]",NHL,TOR,1951-52,29,25,0,Toronto Maple Leafs,.529,Lost NHL Semi-Finals,16,70,3rd
+95,"[{'link': '/coaches/primejo01c.html', 'name': 'J. Primeau'}]",NHL,TOR,1950-51,41,16,0,Toronto Maple Leafs,.679,,13,70,2nd
+74,"[{'link': '/coaches/dayha01c.html', 'name': 'H. Day'}]",NHL,TOR,1949-50,31,27,0,Toronto Maple Leafs,.529,Lost NHL Semi-Finals,12,70,3rd
+57,"[{'link': '/coaches/dayha01c.html', 'name': 'H. Day'}]",NHL,TOR,1948-49,22,25,0,Toronto Maple Leafs,.475,,13,60,4th
+77,"[{'link': '/coaches/dayha01c.html', 'name': 'H. Day'}]",NHL,TOR,1947-48,32,15,0,Toronto Maple Leafs,.642,,13,60,1st
+72,"[{'link': '/coaches/dayha01c.html', 'name': 'H. Day'}]",NHL,TOR,1946-47,31,19,0,Toronto Maple Leafs,.600,,10,60,2nd
+45,"[{'link': '/coaches/dayha01c.html', 'name': 'H. Day'}]",NHL,TOR,1945-46,19,24,0,Toronto Maple Leafs,.450,,7,50,5th
+52,"[{'link': '/coaches/dayha01c.html', 'name': 'H. Day'}]",NHL,TOR,1944-45,24,22,0,Toronto Maple Leafs,.520,,4,50,3rd
+50,"[{'link': '/coaches/dayha01c.html', 'name': 'H. Day'}]",NHL,TOR,1943-44,23,23,0,Toronto Maple Leafs,.500,Lost NHL Semi-Finals,4,50,3rd
+53,"[{'link': '/coaches/dayha01c.html', 'name': 'H. Day'}]",NHL,TOR,1942-43,22,19,0,Toronto Maple Leafs,.530,Lost NHL Semi-Finals,9,50,3rd
+57,"[{'link': '/coaches/dayha01c.html', 'name': 'H. Day'}]",NHL,TOR,1941-42,27,18,0,Toronto Maple Leafs,.594,,3,48,2nd
+62,"[{'link': '/coaches/dayha01c.html', 'name': 'H. Day'}]",NHL,TOR,1940-41,28,14,0,Toronto Maple Leafs,.646,Lost NHL Semi-Finals,6,48,2nd
+56,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,TOR,1939-40,25,17,0,Toronto Maple Leafs,.583,Lost Stanley Cup Final,6,48,3rd
+47,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,TOR,1938-39,19,20,0,Toronto Maple Leafs,.490,Lost Stanley Cup Final,9,48,3rd
+57,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,TOR,1937-38,24,15,0,Toronto Maple Leafs,.594,Lost Stanley Cup Final,9,48,1st
+49,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,TOR,1936-37,22,21,0,Toronto Maple Leafs,.510,Lost NHL Quarter-Finals,5,48,3rd
+52,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,TOR,1935-36,23,19,0,Toronto Maple Leafs,.542,Lost Stanley Cup Final,6,48,2nd
+64,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,TOR,1934-35,30,14,0,Toronto Maple Leafs,.667,Lost Stanley Cup Final,4,48,1st
+61,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,TOR,1933-34,26,13,0,Toronto Maple Leafs,.635,Lost NHL Semi-Finals,9,48,1st
+54,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,TOR,1932-33,24,18,0,Toronto Maple Leafs,.563,Lost Stanley Cup Final,6,48,1st
+53,"[{'link': '/coaches/duncaar01c.html', 'name': 'A. Duncan'}, {'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,TOR,1931-32,23,18,0,Toronto Maple Leafs,.552,,7,48,2nd
+53,"[{'link': '/coaches/smythco99c.html', 'name': 'C. Smythe'}, {'link': '/coaches/duncaar01c.html', 'name': 'A. Duncan'}]",NHL,TOR,1930-31,22,13,0,Toronto Maple Leafs,.602,Lost NHL Quarter-Finals,9,44,2nd
+40,"[{'link': '/coaches/smythco99c.html', 'name': 'C. Smythe'}]",NHL,TOR,1929-30,17,21,0,Toronto Maple Leafs,.455,,6,44,4th
+47,"[{'link': '/coaches/smythco99c.html', 'name': 'C. Smythe'}]",NHL,TOR,1928-29,21,18,0,Toronto Maple Leafs,.534,Lost NHL Semi-Finals,5,44,3rd
+44,"[{'link': '/coaches/smythco99c.html', 'name': 'C. Smythe'}]",NHL,TOR,1927-28,18,18,0,Toronto Maple Leafs,.500,,8,44,4th
+35,"[{'link': '/coaches/querrch99c.html', 'name': 'C. Querrie'}, {'link': '/coaches/roddemi99c.html', 'name': 'M. Rodden'}, {'link': '/coaches/romeral99c.html', 'name': 'A. Romeril'}]",NHL,TOR,1926-27,15,24,0,Toronto Maple Leafs,.398,,5,44,5th
+27,"[{'link': '/coaches/powered99c.html', 'name': 'E. Powers'}]",NHL,TRS,1925-26,12,21,0,Toronto St. Patricks,.375,,3,36,6th
+38,"[{'link': '/coaches/powered99c.html', 'name': 'E. Powers'}]",NHL,TRS,1924-25,19,11,0,Toronto St. Patricks,.633,Lost NHL Semi-Finals,0,30,2nd
+20,"[{'link': '/coaches/querrch99c.html', 'name': 'C. Querrie'}]",NHL,TRS,1923-24,10,14,0,Toronto St. Patricks,.417,,0,24,3rd
+27,"[{'link': '/coaches/odonoge99c.html', 'name': ""G. O'Donoghue""}, {'link': '/coaches/querrch99c.html', 'name': 'C. Querrie'}]",NHL,TRS,1922-23,13,10,0,Toronto St. Patricks,.563,,1,24,3rd
+27,"[{'link': '/coaches/odonoge99c.html', 'name': ""G. O'Donoghue""}]",NHL,TRS,1921-22,13,10,0,Toronto St. Patricks,.563,,1,24,2nd
+30,"[{'link': '/coaches/carrofr99c.html', 'name': 'F. Carroll'}]",NHL,TRS,1920-21,15,9,0,Toronto St. Patricks,.625,Lost NHL Final,0,24,1st
+24,"[{'link': '/coaches/heffefr01c.html', 'name': 'F. Heffernan'}, {'link': '/coaches/sprouha99c.html', 'name': 'H. Sproule'}]",NHL,TRS,1919-20,12,12,0,Toronto St. Patricks,.500,,0,24,3rd
+10,"[{'link': '/coaches/carrodi99c.html', 'name': 'D. Carroll'}]",NHL,TRA,1918-19,5,13,0,Toronto Arenas,.278,,0,18,3rd
+26,"[{'link': '/coaches/carrodi99c.html', 'name': 'D. Carroll'}]",NHL,TRA,1917-18,13,9,0,Toronto Arenas,.591,,0,22,2nd

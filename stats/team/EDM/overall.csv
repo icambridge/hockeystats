@@ -1,39 +1,39 @@
-points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
-0,['T. McLellan'],2017-18,0,0,0,0,0,,Edmonton Oilers,EDM,,0,NHL
-103,['T. McLellan'],2016-17,47,26,9,.628,82,2nd,Edmonton Oilers,EDM,Lost NHL Second Round,0,NHL
-70,['T. McLellan'],2015-16,31,43,8,.427,82,7th,Edmonton Oilers,EDM,,0,NHL
-62,"['D. Eakins', 'T. Nelson']",2014-15,24,44,14,.378,82,6th,Edmonton Oilers,EDM,,0,NHL
-67,['D. Eakins'],2013-14,29,44,9,.409,82,7th,Edmonton Oilers,EDM,,0,NHL
-45,['R. Krueger'],2012-13,19,22,7,.469,48,3rd,Edmonton Oilers,EDM,,0,NHL
-74,['T. Renney'],2011-12,32,40,10,.451,82,5th,Edmonton Oilers,EDM,,0,NHL
-62,['T. Renney'],2010-11,25,45,12,.378,82,5th,Edmonton Oilers,EDM,,0,NHL
-62,['P. Quinn'],2009-10,27,47,8,.378,82,5th,Edmonton Oilers,EDM,,0,NHL
-85,['C. MacTavish'],2008-09,38,35,9,.518,82,4th,Edmonton Oilers,EDM,,0,NHL
-88,['C. MacTavish'],2007-08,41,35,6,.537,82,4th,Edmonton Oilers,EDM,,0,NHL
-71,['C. MacTavish'],2006-07,32,43,7,.433,82,5th,Edmonton Oilers,EDM,,0,NHL
-95,['C. MacTavish'],2005-06,41,28,13,.579,82,3rd,Edmonton Oilers,EDM,Lost Stanley Cup Final,0,NHL
-89,['C. MacTavish'],2003-04,36,29,5,.543,82,4th,Edmonton Oilers,EDM,,12,NHL
-92,['C. MacTavish'],2002-03,36,26,9,.561,82,4th,Edmonton Oilers,EDM,Lost NHL Conference Quarter-Finals,11,NHL
-92,['C. MacTavish'],2001-02,38,28,4,.561,82,3rd,Edmonton Oilers,EDM,,12,NHL
-93,['C. MacTavish'],2000-01,39,28,3,.567,82,2nd,Edmonton Oilers,EDM,Lost NHL Conference Quarter-Finals,12,NHL
-88,['K. Lowe'],1999-00,32,26,8,.537,82,2nd,Edmonton Oilers,EDM,Lost NHL Conference Quarter-Finals,16,NHL
-78,['R. Low'],1998-99,33,37,0,.476,82,2nd,Edmonton Oilers,EDM,Lost NHL Conference Quarter-Finals,12,NHL
-80,['R. Low'],1997-98,35,37,0,.488,82,3rd,Edmonton Oilers,EDM,Lost NHL Conference Semi-Finals,10,NHL
-81,['R. Low'],1996-97,36,37,0,.494,82,3rd,Edmonton Oilers,EDM,Lost NHL Conference Semi-Finals,9,NHL
-68,['R. Low'],1995-96,30,44,0,.415,82,5th,Edmonton Oilers,EDM,,8,NHL
-38,"['G. Burnett', 'R. Low']",1994-95,17,27,0,.396,48,5th,Edmonton Oilers,EDM,,4,NHL
-64,"['T. Green', 'G. Sather']",1993-94,25,45,0,.381,84,6th,Edmonton Oilers,EDM,,14,NHL
-60,['T. Green'],1992-93,26,50,0,.357,84,5th,Edmonton Oilers,EDM,,8,NHL
-82,['T. Green'],1991-92,36,34,0,.513,80,3rd,Edmonton Oilers,EDM,Lost NHL Conference Finals,10,NHL
-80,['J. Muckler'],1990-91,37,37,0,.500,80,3rd,Edmonton Oilers,EDM,Lost NHL Conference Finals,6,NHL
-90,['J. Muckler'],1989-90,38,28,0,.563,80,2nd,Edmonton Oilers,EDM,,14,NHL
-84,['G. Sather'],1988-89,38,34,0,.525,80,3rd,Edmonton Oilers,EDM,Lost NHL Division Semi-Finals,8,NHL
-99,['G. Sather'],1987-88,44,25,0,.619,80,2nd,Edmonton Oilers,EDM,,11,NHL
-106,['G. Sather'],1986-87,50,24,0,.663,80,1st,Edmonton Oilers,EDM,,6,NHL
-119,['G. Sather'],1985-86,56,17,0,.744,80,1st,Edmonton Oilers,EDM,Lost NHL Division Finals,7,NHL
-109,['G. Sather'],1984-85,49,20,0,.681,80,1st,Edmonton Oilers,EDM,,11,NHL
-119,['G. Sather'],1983-84,57,18,0,.744,80,1st,Edmonton Oilers,EDM,,5,NHL
-106,['G. Sather'],1982-83,47,21,0,.663,80,1st,Edmonton Oilers,EDM,Lost Stanley Cup Final,12,NHL
-111,['G. Sather'],1981-82,48,17,0,.694,80,1st,Edmonton Oilers,EDM,Lost NHL Division Semi-Finals,15,NHL
-74,"['B. Watson', 'G. Sather']",1980-81,29,35,0,.463,80,4th,Edmonton Oilers,EDM,Lost NHL Quarter-Finals,16,NHL
-69,['G. Sather'],1979-80,28,39,0,.431,80,4th,Edmonton Oilers,EDM,Lost NHL Preliminary Round,13,NHL
+points,coaches,leage,code,season,wins,loses,overtime_loses,team_name,points_percentage,playoff_result,ties,games_played,finishing_position
+0,"[{'link': '/coaches/mclelto01c.html', 'name': 'T. McLellan'}]",NHL,EDM,2017-18,0,0,0,Edmonton Oilers,0,,0,0,
+103,"[{'link': '/coaches/mclelto01c.html', 'name': 'T. McLellan'}]",NHL,EDM,2016-17,47,26,9,Edmonton Oilers,.628,Lost NHL Second Round,0,82,2nd
+70,"[{'link': '/coaches/mclelto01c.html', 'name': 'T. McLellan'}]",NHL,EDM,2015-16,31,43,8,Edmonton Oilers,.427,,0,82,7th
+62,"[{'link': '/coaches/eakinda01c.html', 'name': 'D. Eakins'}, {'link': '/coaches/nelsoto01c.html', 'name': 'T. Nelson'}]",NHL,EDM,2014-15,24,44,14,Edmonton Oilers,.378,,0,82,6th
+67,"[{'link': '/coaches/eakinda01c.html', 'name': 'D. Eakins'}]",NHL,EDM,2013-14,29,44,9,Edmonton Oilers,.409,,0,82,7th
+45,"[{'link': '/coaches/kruegra99c.html', 'name': 'R. Krueger'}]",NHL,EDM,2012-13,19,22,7,Edmonton Oilers,.469,,0,48,3rd
+74,"[{'link': '/coaches/renneto99c.html', 'name': 'T. Renney'}]",NHL,EDM,2011-12,32,40,10,Edmonton Oilers,.451,,0,82,5th
+62,"[{'link': '/coaches/renneto99c.html', 'name': 'T. Renney'}]",NHL,EDM,2010-11,25,45,12,Edmonton Oilers,.378,,0,82,5th
+62,"[{'link': '/coaches/quinnpa01c.html', 'name': 'P. Quinn'}]",NHL,EDM,2009-10,27,47,8,Edmonton Oilers,.378,,0,82,5th
+85,"[{'link': '/coaches/mactacr01c.html', 'name': 'C. MacTavish'}]",NHL,EDM,2008-09,38,35,9,Edmonton Oilers,.518,,0,82,4th
+88,"[{'link': '/coaches/mactacr01c.html', 'name': 'C. MacTavish'}]",NHL,EDM,2007-08,41,35,6,Edmonton Oilers,.537,,0,82,4th
+71,"[{'link': '/coaches/mactacr01c.html', 'name': 'C. MacTavish'}]",NHL,EDM,2006-07,32,43,7,Edmonton Oilers,.433,,0,82,5th
+95,"[{'link': '/coaches/mactacr01c.html', 'name': 'C. MacTavish'}]",NHL,EDM,2005-06,41,28,13,Edmonton Oilers,.579,Lost Stanley Cup Final,0,82,3rd
+89,"[{'link': '/coaches/mactacr01c.html', 'name': 'C. MacTavish'}]",NHL,EDM,2003-04,36,29,5,Edmonton Oilers,.543,,12,82,4th
+92,"[{'link': '/coaches/mactacr01c.html', 'name': 'C. MacTavish'}]",NHL,EDM,2002-03,36,26,9,Edmonton Oilers,.561,Lost NHL Conference Quarter-Finals,11,82,4th
+92,"[{'link': '/coaches/mactacr01c.html', 'name': 'C. MacTavish'}]",NHL,EDM,2001-02,38,28,4,Edmonton Oilers,.561,,12,82,3rd
+93,"[{'link': '/coaches/mactacr01c.html', 'name': 'C. MacTavish'}]",NHL,EDM,2000-01,39,28,3,Edmonton Oilers,.567,Lost NHL Conference Quarter-Finals,12,82,2nd
+88,"[{'link': '/coaches/loweke01c.html', 'name': 'K. Lowe'}]",NHL,EDM,1999-00,32,26,8,Edmonton Oilers,.537,Lost NHL Conference Quarter-Finals,16,82,2nd
+78,"[{'link': '/coaches/lowro01c.html', 'name': 'R. Low'}]",NHL,EDM,1998-99,33,37,0,Edmonton Oilers,.476,Lost NHL Conference Quarter-Finals,12,82,2nd
+80,"[{'link': '/coaches/lowro01c.html', 'name': 'R. Low'}]",NHL,EDM,1997-98,35,37,0,Edmonton Oilers,.488,Lost NHL Conference Semi-Finals,10,82,3rd
+81,"[{'link': '/coaches/lowro01c.html', 'name': 'R. Low'}]",NHL,EDM,1996-97,36,37,0,Edmonton Oilers,.494,Lost NHL Conference Semi-Finals,9,82,3rd
+68,"[{'link': '/coaches/lowro01c.html', 'name': 'R. Low'}]",NHL,EDM,1995-96,30,44,0,Edmonton Oilers,.415,,8,82,5th
+38,"[{'link': '/coaches/burnege99c.html', 'name': 'G. Burnett'}, {'link': '/coaches/lowro01c.html', 'name': 'R. Low'}]",NHL,EDM,1994-95,17,27,0,Edmonton Oilers,.396,,4,48,5th
+64,"[{'link': '/coaches/greente01c.html', 'name': 'T. Green'}, {'link': '/coaches/sathegl01c.html', 'name': 'G. Sather'}]",NHL,EDM,1993-94,25,45,0,Edmonton Oilers,.381,,14,84,6th
+60,"[{'link': '/coaches/greente01c.html', 'name': 'T. Green'}]",NHL,EDM,1992-93,26,50,0,Edmonton Oilers,.357,,8,84,5th
+82,"[{'link': '/coaches/greente01c.html', 'name': 'T. Green'}]",NHL,EDM,1991-92,36,34,0,Edmonton Oilers,.513,Lost NHL Conference Finals,10,80,3rd
+80,"[{'link': '/coaches/muckljo99c.html', 'name': 'J. Muckler'}]",NHL,EDM,1990-91,37,37,0,Edmonton Oilers,.500,Lost NHL Conference Finals,6,80,3rd
+90,"[{'link': '/coaches/muckljo99c.html', 'name': 'J. Muckler'}]",NHL,EDM,1989-90,38,28,0,Edmonton Oilers,.563,,14,80,2nd
+84,"[{'link': '/coaches/sathegl01c.html', 'name': 'G. Sather'}]",NHL,EDM,1988-89,38,34,0,Edmonton Oilers,.525,Lost NHL Division Semi-Finals,8,80,3rd
+99,"[{'link': '/coaches/sathegl01c.html', 'name': 'G. Sather'}]",NHL,EDM,1987-88,44,25,0,Edmonton Oilers,.619,,11,80,2nd
+106,"[{'link': '/coaches/sathegl01c.html', 'name': 'G. Sather'}]",NHL,EDM,1986-87,50,24,0,Edmonton Oilers,.663,,6,80,1st
+119,"[{'link': '/coaches/sathegl01c.html', 'name': 'G. Sather'}]",NHL,EDM,1985-86,56,17,0,Edmonton Oilers,.744,Lost NHL Division Finals,7,80,1st
+109,"[{'link': '/coaches/sathegl01c.html', 'name': 'G. Sather'}]",NHL,EDM,1984-85,49,20,0,Edmonton Oilers,.681,,11,80,1st
+119,"[{'link': '/coaches/sathegl01c.html', 'name': 'G. Sather'}]",NHL,EDM,1983-84,57,18,0,Edmonton Oilers,.744,,5,80,1st
+106,"[{'link': '/coaches/sathegl01c.html', 'name': 'G. Sather'}]",NHL,EDM,1982-83,47,21,0,Edmonton Oilers,.663,Lost Stanley Cup Final,12,80,1st
+111,"[{'link': '/coaches/sathegl01c.html', 'name': 'G. Sather'}]",NHL,EDM,1981-82,48,17,0,Edmonton Oilers,.694,Lost NHL Division Semi-Finals,15,80,1st
+74,"[{'link': '/coaches/watsobr01c.html', 'name': 'B. Watson'}, {'link': '/coaches/sathegl01c.html', 'name': 'G. Sather'}]",NHL,EDM,1980-81,29,35,0,Edmonton Oilers,.463,Lost NHL Quarter-Finals,16,80,4th
+69,"[{'link': '/coaches/sathegl01c.html', 'name': 'G. Sather'}]",NHL,EDM,1979-80,28,39,0,Edmonton Oilers,.431,Lost NHL Preliminary Round,13,80,4th

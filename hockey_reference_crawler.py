@@ -95,6 +95,7 @@ def writeCsv(team, year, skaters):
 
 def buildSkaters(tree):
     names = tree.xpath('//*[@id="skaters"]/tbody/tr/td[1]/a/text()')
+    links = tree.xpath('//*[@id="skaters"]/tbody/tr/td[1]/a/@href')
     agesPre = tree.xpath('//*[@id="skaters"]/tbody/tr/td[2]')
     positionsPre = tree.xpath('//*[@id="skaters"]/tbody/tr/td[3]')
     gamesPlayedPre = tree.xpath('//*[@id="skaters"]/tbody/tr/td[4]')
@@ -155,6 +156,7 @@ def buildSkaters(tree):
 
         skater = {
             "name": names[counter],
+            "link": links[counter],
             "age":  ages[counter],
             "positions": positions[counter],
             "games_played": gamesPlayed[counter],

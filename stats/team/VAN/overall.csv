@@ -1,48 +1,48 @@
-points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
-0,['T. Green'],2017-18,0,0,0,0,0,,Vancouver Canucks,VAN,,0,NHL
-69,['W. Desjardins'],2016-17,30,43,9,.421,82,7th,Vancouver Canucks,VAN,,0,NHL
-75,['W. Desjardins'],2015-16,31,38,13,.457,82,6th,Vancouver Canucks,VAN,,0,NHL
-101,['W. Desjardins'],2014-15,48,29,5,.616,82,2nd,Vancouver Canucks,VAN,Lost NHL First Round,0,NHL
-83,['J. Tortorella'],2013-14,36,35,11,.506,82,5th,Vancouver Canucks,VAN,,0,NHL
-59,['A. Vigneault'],2012-13,26,15,7,.615,48,1st,Vancouver Canucks,VAN,Lost NHL Conference Quarter-Finals,0,NHL
-111,['A. Vigneault'],2011-12,51,22,9,.677,82,1st,Vancouver Canucks,VAN,Lost NHL Conference Quarter-Finals,0,NHL
-117,['A. Vigneault'],2010-11,54,19,9,.713,82,1st,Vancouver Canucks,VAN,Lost Stanley Cup Final,0,NHL
-103,['A. Vigneault'],2009-10,49,28,5,.628,82,1st,Vancouver Canucks,VAN,Lost NHL Conference Semi-Finals,0,NHL
-100,['A. Vigneault'],2008-09,45,27,10,.610,82,1st,Vancouver Canucks,VAN,Lost NHL Conference Semi-Finals,0,NHL
-88,['A. Vigneault'],2007-08,39,33,10,.537,82,5th,Vancouver Canucks,VAN,,0,NHL
-105,['A. Vigneault'],2006-07,49,26,7,.640,82,1st,Vancouver Canucks,VAN,Lost NHL Conference Semi-Finals,0,NHL
-92,['M. Crawford'],2005-06,42,32,8,.561,82,4th,Vancouver Canucks,VAN,,0,NHL
-101,['M. Crawford'],2003-04,43,24,5,.616,82,1st,Vancouver Canucks,VAN,Lost NHL Conference Quarter-Finals,10,NHL
-104,['M. Crawford'],2002-03,45,23,1,.634,82,2nd,Vancouver Canucks,VAN,Lost NHL Conference Semi-Finals,13,NHL
-94,['M. Crawford'],2001-02,42,30,3,.573,82,2nd,Vancouver Canucks,VAN,Lost NHL Conference Quarter-Finals,7,NHL
-90,['M. Crawford'],2000-01,36,28,7,.549,82,3rd,Vancouver Canucks,VAN,Lost NHL Conference Quarter-Finals,11,NHL
-83,['M. Crawford'],1999-00,30,29,8,.506,82,3rd,Vancouver Canucks,VAN,,15,NHL
-58,"['M. Keenan', 'M. Crawford']",1998-99,23,47,0,.354,82,4th,Vancouver Canucks,VAN,,12,NHL
-64,"['T. Renney', 'M. Keenan']",1997-98,25,43,0,.390,82,7th,Vancouver Canucks,VAN,,14,NHL
-77,['T. Renney'],1996-97,35,40,0,.470,82,4th,Vancouver Canucks,VAN,,7,NHL
-79,"['R. Ley', 'P. Quinn']",1995-96,32,35,0,.482,82,3rd,Vancouver Canucks,VAN,Lost NHL Conference Quarter-Finals,15,NHL
-48,['R. Ley'],1994-95,18,18,0,.500,48,2nd,Vancouver Canucks,VAN,Lost NHL Conference Semi-Finals,12,NHL
-85,['P. Quinn'],1993-94,41,40,0,.506,84,2nd,Vancouver Canucks,VAN,Lost Stanley Cup Final,3,NHL
-101,['P. Quinn'],1992-93,46,29,0,.601,84,1st,Vancouver Canucks,VAN,Lost NHL Division Finals,9,NHL
-96,['P. Quinn'],1991-92,42,26,0,.600,80,1st,Vancouver Canucks,VAN,Lost NHL Division Finals,12,NHL
-65,"['B. McCammon', 'P. Quinn']",1990-91,28,43,0,.406,80,4th,Vancouver Canucks,VAN,Lost NHL Division Semi-Finals,9,NHL
-64,['B. McCammon'],1989-90,25,41,0,.400,80,5th,Vancouver Canucks,VAN,,14,NHL
-74,['B. McCammon'],1988-89,33,39,0,.463,80,4th,Vancouver Canucks,VAN,Lost NHL Division Semi-Finals,8,NHL
-59,['B. McCammon'],1987-88,25,46,0,.369,80,5th,Vancouver Canucks,VAN,,9,NHL
-66,['T. Watt'],1986-87,29,43,0,.413,80,5th,Vancouver Canucks,VAN,,8,NHL
-59,['T. Watt'],1985-86,23,44,0,.369,80,4th,Vancouver Canucks,VAN,Lost NHL Division Semi-Finals,13,NHL
-59,"['B. LaForge', 'H. Neale']",1984-85,25,46,0,.369,80,5th,Vancouver Canucks,VAN,,9,NHL
-73,"['R. Neilson', 'H. Neale']",1983-84,32,39,0,.456,80,3rd,Vancouver Canucks,VAN,Lost NHL Division Semi-Finals,9,NHL
-75,['R. Neilson'],1982-83,30,35,0,.469,80,3rd,Vancouver Canucks,VAN,Lost NHL Division Semi-Finals,15,NHL
-77,"['H. Neale', 'R. Neilson']",1981-82,30,33,0,.481,80,2nd,Vancouver Canucks,VAN,Lost Stanley Cup Final,17,NHL
-76,['H. Neale'],1980-81,28,32,0,.475,80,3rd,Vancouver Canucks,VAN,Lost NHL Preliminary Round,20,NHL
-70,['H. Neale'],1979-80,27,37,0,.438,80,3rd,Vancouver Canucks,VAN,Lost NHL Preliminary Round,16,NHL
-63,['H. Neale'],1978-79,25,42,0,.394,80,2nd,Vancouver Canucks,VAN,Lost NHL Preliminary Round,13,NHL
-57,['O. Kurtenbach'],1977-78,20,43,0,.356,80,3rd,Vancouver Canucks,VAN,,17,NHL
-63,"['P. Maloney', 'O. Kurtenbach']",1976-77,25,42,0,.394,80,4th,Vancouver Canucks,VAN,,13,NHL
-81,['P. Maloney'],1975-76,33,32,0,.506,80,2nd,Vancouver Canucks,VAN,Lost NHL Preliminary Round,15,NHL
-86,['P. Maloney'],1974-75,38,32,0,.538,80,1st,Vancouver Canucks,VAN,Lost NHL Quarter-Finals,10,NHL
-59,"['B. McCreary', 'P. Maloney']",1973-74,24,43,0,.378,78,7th,Vancouver Canucks,VAN,,11,NHL
-53,['V. Stasiuk'],1972-73,22,47,0,.340,78,7th,Vancouver Canucks,VAN,,9,NHL
-48,['H. Laycoe'],1971-72,20,50,0,.308,78,7th,Vancouver Canucks,VAN,,8,NHL
-56,['H. Laycoe'],1970-71,24,46,0,.359,78,6th,Vancouver Canucks,VAN,,8,NHL
+points,coaches,leage,code,season,wins,loses,overtime_loses,team_name,points_percentage,playoff_result,ties,games_played,finishing_position
+0,"[{'link': '/coaches/greentr01c.html', 'name': 'T. Green'}]",NHL,VAN,2017-18,0,0,0,Vancouver Canucks,0,,0,0,
+69,"[{'link': '/coaches/desjawi99c.html', 'name': 'W. Desjardins'}]",NHL,VAN,2016-17,30,43,9,Vancouver Canucks,.421,,0,82,7th
+75,"[{'link': '/coaches/desjawi99c.html', 'name': 'W. Desjardins'}]",NHL,VAN,2015-16,31,38,13,Vancouver Canucks,.457,,0,82,6th
+101,"[{'link': '/coaches/desjawi99c.html', 'name': 'W. Desjardins'}]",NHL,VAN,2014-15,48,29,5,Vancouver Canucks,.616,Lost NHL First Round,0,82,2nd
+83,"[{'link': '/coaches/tortojo99c.html', 'name': 'J. Tortorella'}]",NHL,VAN,2013-14,36,35,11,Vancouver Canucks,.506,,0,82,5th
+59,"[{'link': '/coaches/vigneal01c.html', 'name': 'A. Vigneault'}]",NHL,VAN,2012-13,26,15,7,Vancouver Canucks,.615,Lost NHL Conference Quarter-Finals,0,48,1st
+111,"[{'link': '/coaches/vigneal01c.html', 'name': 'A. Vigneault'}]",NHL,VAN,2011-12,51,22,9,Vancouver Canucks,.677,Lost NHL Conference Quarter-Finals,0,82,1st
+117,"[{'link': '/coaches/vigneal01c.html', 'name': 'A. Vigneault'}]",NHL,VAN,2010-11,54,19,9,Vancouver Canucks,.713,Lost Stanley Cup Final,0,82,1st
+103,"[{'link': '/coaches/vigneal01c.html', 'name': 'A. Vigneault'}]",NHL,VAN,2009-10,49,28,5,Vancouver Canucks,.628,Lost NHL Conference Semi-Finals,0,82,1st
+100,"[{'link': '/coaches/vigneal01c.html', 'name': 'A. Vigneault'}]",NHL,VAN,2008-09,45,27,10,Vancouver Canucks,.610,Lost NHL Conference Semi-Finals,0,82,1st
+88,"[{'link': '/coaches/vigneal01c.html', 'name': 'A. Vigneault'}]",NHL,VAN,2007-08,39,33,10,Vancouver Canucks,.537,,0,82,5th
+105,"[{'link': '/coaches/vigneal01c.html', 'name': 'A. Vigneault'}]",NHL,VAN,2006-07,49,26,7,Vancouver Canucks,.640,Lost NHL Conference Semi-Finals,0,82,1st
+92,"[{'link': '/coaches/crawfma01c.html', 'name': 'M. Crawford'}]",NHL,VAN,2005-06,42,32,8,Vancouver Canucks,.561,,0,82,4th
+101,"[{'link': '/coaches/crawfma01c.html', 'name': 'M. Crawford'}]",NHL,VAN,2003-04,43,24,5,Vancouver Canucks,.616,Lost NHL Conference Quarter-Finals,10,82,1st
+104,"[{'link': '/coaches/crawfma01c.html', 'name': 'M. Crawford'}]",NHL,VAN,2002-03,45,23,1,Vancouver Canucks,.634,Lost NHL Conference Semi-Finals,13,82,2nd
+94,"[{'link': '/coaches/crawfma01c.html', 'name': 'M. Crawford'}]",NHL,VAN,2001-02,42,30,3,Vancouver Canucks,.573,Lost NHL Conference Quarter-Finals,7,82,2nd
+90,"[{'link': '/coaches/crawfma01c.html', 'name': 'M. Crawford'}]",NHL,VAN,2000-01,36,28,7,Vancouver Canucks,.549,Lost NHL Conference Quarter-Finals,11,82,3rd
+83,"[{'link': '/coaches/crawfma01c.html', 'name': 'M. Crawford'}]",NHL,VAN,1999-00,30,29,8,Vancouver Canucks,.506,,15,82,3rd
+58,"[{'link': '/coaches/keenami99c.html', 'name': 'M. Keenan'}, {'link': '/coaches/crawfma01c.html', 'name': 'M. Crawford'}]",NHL,VAN,1998-99,23,47,0,Vancouver Canucks,.354,,12,82,4th
+64,"[{'link': '/coaches/renneto99c.html', 'name': 'T. Renney'}, {'link': '/coaches/keenami99c.html', 'name': 'M. Keenan'}]",NHL,VAN,1997-98,25,43,0,Vancouver Canucks,.390,,14,82,7th
+77,"[{'link': '/coaches/renneto99c.html', 'name': 'T. Renney'}]",NHL,VAN,1996-97,35,40,0,Vancouver Canucks,.470,,7,82,4th
+79,"[{'link': '/coaches/leyri01c.html', 'name': 'R. Ley'}, {'link': '/coaches/quinnpa01c.html', 'name': 'P. Quinn'}]",NHL,VAN,1995-96,32,35,0,Vancouver Canucks,.482,Lost NHL Conference Quarter-Finals,15,82,3rd
+48,"[{'link': '/coaches/leyri01c.html', 'name': 'R. Ley'}]",NHL,VAN,1994-95,18,18,0,Vancouver Canucks,.500,Lost NHL Conference Semi-Finals,12,48,2nd
+85,"[{'link': '/coaches/quinnpa01c.html', 'name': 'P. Quinn'}]",NHL,VAN,1993-94,41,40,0,Vancouver Canucks,.506,Lost Stanley Cup Final,3,84,2nd
+101,"[{'link': '/coaches/quinnpa01c.html', 'name': 'P. Quinn'}]",NHL,VAN,1992-93,46,29,0,Vancouver Canucks,.601,Lost NHL Division Finals,9,84,1st
+96,"[{'link': '/coaches/quinnpa01c.html', 'name': 'P. Quinn'}]",NHL,VAN,1991-92,42,26,0,Vancouver Canucks,.600,Lost NHL Division Finals,12,80,1st
+65,"[{'link': '/coaches/mccambo99c.html', 'name': 'B. McCammon'}, {'link': '/coaches/quinnpa01c.html', 'name': 'P. Quinn'}]",NHL,VAN,1990-91,28,43,0,Vancouver Canucks,.406,Lost NHL Division Semi-Finals,9,80,4th
+64,"[{'link': '/coaches/mccambo99c.html', 'name': 'B. McCammon'}]",NHL,VAN,1989-90,25,41,0,Vancouver Canucks,.400,,14,80,5th
+74,"[{'link': '/coaches/mccambo99c.html', 'name': 'B. McCammon'}]",NHL,VAN,1988-89,33,39,0,Vancouver Canucks,.463,Lost NHL Division Semi-Finals,8,80,4th
+59,"[{'link': '/coaches/mccambo99c.html', 'name': 'B. McCammon'}]",NHL,VAN,1987-88,25,46,0,Vancouver Canucks,.369,,9,80,5th
+66,"[{'link': '/coaches/wattto99c.html', 'name': 'T. Watt'}]",NHL,VAN,1986-87,29,43,0,Vancouver Canucks,.413,,8,80,5th
+59,"[{'link': '/coaches/wattto99c.html', 'name': 'T. Watt'}]",NHL,VAN,1985-86,23,44,0,Vancouver Canucks,.369,Lost NHL Division Semi-Finals,13,80,4th
+59,"[{'link': '/coaches/laforbi99c.html', 'name': 'B. LaForge'}, {'link': '/coaches/nealeha99c.html', 'name': 'H. Neale'}]",NHL,VAN,1984-85,25,46,0,Vancouver Canucks,.369,,9,80,5th
+73,"[{'link': '/coaches/neilsro99c.html', 'name': 'R. Neilson'}, {'link': '/coaches/nealeha99c.html', 'name': 'H. Neale'}]",NHL,VAN,1983-84,32,39,0,Vancouver Canucks,.456,Lost NHL Division Semi-Finals,9,80,3rd
+75,"[{'link': '/coaches/neilsro99c.html', 'name': 'R. Neilson'}]",NHL,VAN,1982-83,30,35,0,Vancouver Canucks,.469,Lost NHL Division Semi-Finals,15,80,3rd
+77,"[{'link': '/coaches/nealeha99c.html', 'name': 'H. Neale'}, {'link': '/coaches/neilsro99c.html', 'name': 'R. Neilson'}]",NHL,VAN,1981-82,30,33,0,Vancouver Canucks,.481,Lost Stanley Cup Final,17,80,2nd
+76,"[{'link': '/coaches/nealeha99c.html', 'name': 'H. Neale'}]",NHL,VAN,1980-81,28,32,0,Vancouver Canucks,.475,Lost NHL Preliminary Round,20,80,3rd
+70,"[{'link': '/coaches/nealeha99c.html', 'name': 'H. Neale'}]",NHL,VAN,1979-80,27,37,0,Vancouver Canucks,.438,Lost NHL Preliminary Round,16,80,3rd
+63,"[{'link': '/coaches/nealeha99c.html', 'name': 'H. Neale'}]",NHL,VAN,1978-79,25,42,0,Vancouver Canucks,.394,Lost NHL Preliminary Round,13,80,2nd
+57,"[{'link': '/coaches/kurteor01c.html', 'name': 'O. Kurtenbach'}]",NHL,VAN,1977-78,20,43,0,Vancouver Canucks,.356,,17,80,3rd
+63,"[{'link': '/coaches/malonph01c.html', 'name': 'P. Maloney'}, {'link': '/coaches/kurteor01c.html', 'name': 'O. Kurtenbach'}]",NHL,VAN,1976-77,25,42,0,Vancouver Canucks,.394,,13,80,4th
+81,"[{'link': '/coaches/malonph01c.html', 'name': 'P. Maloney'}]",NHL,VAN,1975-76,33,32,0,Vancouver Canucks,.506,Lost NHL Preliminary Round,15,80,2nd
+86,"[{'link': '/coaches/malonph01c.html', 'name': 'P. Maloney'}]",NHL,VAN,1974-75,38,32,0,Vancouver Canucks,.538,Lost NHL Quarter-Finals,10,80,1st
+59,"[{'link': '/coaches/mccrebi01c.html', 'name': 'B. McCreary'}, {'link': '/coaches/malonph01c.html', 'name': 'P. Maloney'}]",NHL,VAN,1973-74,24,43,0,Vancouver Canucks,.378,,11,78,7th
+53,"[{'link': '/coaches/stasivi01c.html', 'name': 'V. Stasiuk'}]",NHL,VAN,1972-73,22,47,0,Vancouver Canucks,.340,,9,78,7th
+48,"[{'link': '/coaches/laycoha01c.html', 'name': 'H. Laycoe'}]",NHL,VAN,1971-72,20,50,0,Vancouver Canucks,.308,,8,78,7th
+56,"[{'link': '/coaches/laycoha01c.html', 'name': 'H. Laycoe'}]",NHL,VAN,1970-71,24,46,0,Vancouver Canucks,.359,,8,78,6th

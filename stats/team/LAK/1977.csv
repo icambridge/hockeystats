@@ -1,28 +1,28 @@
-offensive_point_share,name,even_strength_goals,shorthanded_goals,plus_minus,shotsPercentage,age,shots,assists,positions,overall_point_share,points,games_played,power_play_assists,defensive_point_share,game_winning_goals,power_play_goals,total_ice_time,shorthanded_assists,goals,even_strength_assists,average_ice_time,pim
-11.3,Marcel Dionne,38,1,10,14.0,25,378,69,C,12.8,122,80,32,1.5,5,14,,1,53,36,,12
-6.4,Butch Goring,17,0,10,13.9,27,216,55,C,7.8,85,78,23,1.4,3,13,,2,30,30,,6
-5.8,Tom Williams,20,0,14,15.0,25,233,39,LW,7.4,74,80,13,1.6,3,15,,0,35,26,,14
-4.0,Mike Murphy,13,3,15,15.2,26,165,36,RW,5.6,61,76,9,1.6,3,9,,0,25,27,,58
-4.0,Gary Sargent,6,0,7,7.0,22,200,40,D,9.0,54,80,25,5.0,2,8,,0,14,15,,65
-1.2,Vic Venasky,12,1,2,11.7,25,120,26,C,2.4,40,80,4,1.2,2,1,,0,14,22,,18
-1.4,Bob Berry,11,0,12,15.3,33,85,25,LW,2.8,38,69,4,1.4,1,2,,0,13,21,,20
-0.6,Don Kozak,14,0,-9,15.3,24,98,17,RW,1.5,32,79,0,0.9,1,1,,0,15,17,,89
-2.0,Bob Murdoch,9,0,36,7.2,30,125,23,D,8.2,32,70,1,6.2,1,0,,0,9,22,,79
-0.2,Dave Schultz,8,0,-8,8.2,27,122,20,LW,1.0,30,76,2,0.9,2,2,,0,10,18,,232
-0.8,Frank St. Marseille,5,0,1,8.1,37,74,22,RW,1.5,28,49,3,0.7,0,1,,0,6,19,,16
-0.7,Gene Carr,14,1,5,15.2,25,99,12,C,1.8,27,68,1,1.1,2,0,,0,15,11,,25
-0.5,Dave Hutchison,5,0,7,5.2,24,115,11,D,4.9,17,70,2,4.5,3,1,,0,6,9,,220
-0.5,Glenn Goldup,6,0,5,25.0,23,28,6,RW,1.1,13,28,0,0.6,2,1,,0,7,6,,29
--0.2,Neil Komadoski,3,0,17,3.9,25,76,9,D,4.8,12,68,0,5.0,1,0,,0,3,9,,109
--0.8,Juha Widing,3,0,-16,4.3,29,69,8,C,-0.6,11,47,1,0.2,1,0,,0,3,7,,8
--2.3,Bert Wilson,4,0,-9,7.4,27,54,3,LW,-1.4,7,77,0,0.8,1,0,,0,4,3,,64
--0.5,Larry Brown,1,0,-17,1.7,29,59,6,D,1.6,7,55,0,2.1,0,0,,0,1,6,,24
-0.1,Ab DeMarco,3,0,-8,3.7,27,82,3,D,1.5,6,33,0,1.4,0,0,,0,3,3,,6
-0.1,Lorne Stamler,2,0,0,25.0,25,8,1,LW,0.2,3,7,0,0.1,0,0,,0,2,1,,2
--0.3,Steve Clippingdale,1,0,3,9.1,20,11,2,LW,0.0,3,16,0,0.3,0,0,,0,1,2,,9
--0.6,Sheldon Kannegiesser,1,0,-7,5.6,29,18,1,D,1.2,2,39,0,1.8,1,0,,0,1,1,,28
--0.5,Russ Walker,1,0,-2,8.3,23,12,0,RW,-0.3,1,16,0,0.2,0,0,,0,1,0,,35
-0.0,Rogie Vachon,0,0,0,,31,0,1,G,14.4,1,68,0,0.0,0,0,,0,0,0,,2
-0.0,Gary Edwards,0,0,0,,29,0,0,G,0.4,0,10,0,0.0,0,0,,0,0,0,,0
-0.0,Jim Moxey,0,0,0,,23,0,0,RW,0.0,0,1,0,0.0,0,0,,0,0,0,,2
-0.0,Gary Simmons,0,0,0,,32,0,0,G,0.4,0,4,0,0.0,0,0,,0,0,0,,0
+shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
+1,,C,14.0,36,378,38,1,25,5,53,69,Marcel Dionne,12.8,1.5,122,14,12,,80,10,11.3,32,/players/d/dionnma01.html
+0,,C,13.9,30,216,17,2,27,3,30,55,Butch Goring,7.8,1.4,85,13,6,,78,10,6.4,23,/players/g/gorinbu01.html
+0,,LW,15.0,26,233,20,0,25,3,35,39,Tom Williams,7.4,1.6,74,15,14,,80,14,5.8,13,/players/w/willito02.html
+3,,RW,15.2,27,165,13,0,26,3,25,36,Mike Murphy,5.6,1.6,61,9,58,,76,15,4.0,9,/players/m/murphmi01.html
+0,,D,7.0,15,200,6,0,22,2,14,40,Gary Sargent,9.0,5.0,54,8,65,,80,7,4.0,25,/players/s/sargega01.html
+1,,C,11.7,22,120,12,0,25,2,14,26,Vic Venasky,2.4,1.2,40,1,18,,80,2,1.2,4,/players/v/venasvi01.html
+0,,LW,15.3,21,85,11,0,33,1,13,25,Bob Berry,2.8,1.4,38,2,20,,69,12,1.4,4,/players/b/berrybo01.html
+0,,RW,15.3,17,98,14,0,24,1,15,17,Don Kozak,1.5,0.9,32,1,89,,79,-9,0.6,0,/players/k/kozakdo01.html
+0,,D,7.2,22,125,9,0,30,1,9,23,Bob Murdoch,8.2,6.2,32,0,79,,70,36,2.0,1,/players/m/murdobo01.html
+0,,LW,8.2,18,122,8,0,27,2,10,20,Dave Schultz,1.0,0.9,30,2,232,,76,-8,0.2,2,/players/s/schulda01.html
+0,,RW,8.1,19,74,5,0,37,0,6,22,Frank St. Marseille,1.5,0.7,28,1,16,,49,1,0.8,3,/players/s/stmarfr01.html
+1,,C,15.2,11,99,14,0,25,2,15,12,Gene Carr,1.8,1.1,27,0,25,,68,5,0.7,1,/players/c/carrge01.html
+0,,D,5.2,9,115,5,0,24,3,6,11,Dave Hutchison,4.9,4.5,17,1,220,,70,7,0.5,2,/players/h/hutchda01.html
+0,,RW,25.0,6,28,6,0,23,2,7,6,Glenn Goldup,1.1,0.6,13,1,29,,28,5,0.5,0,/players/g/goldugl01.html
+0,,D,3.9,9,76,3,0,25,1,3,9,Neil Komadoski,4.8,5.0,12,0,109,,68,17,-0.2,0,/players/k/komadne01.html
+0,,C,4.3,7,69,3,0,29,1,3,8,Juha Widing,-0.6,0.2,11,0,8,,47,-16,-0.8,1,/players/w/widinju01.html
+0,,LW,7.4,3,54,4,0,27,1,4,3,Bert Wilson,-1.4,0.8,7,0,64,,77,-9,-2.3,0,/players/w/wilsobe01.html
+0,,D,1.7,6,59,1,0,29,0,1,6,Larry Brown,1.6,2.1,7,0,24,,55,-17,-0.5,0,/players/b/brownla01.html
+0,,D,3.7,3,82,3,0,27,0,3,3,Ab DeMarco,1.5,1.4,6,0,6,,33,-8,0.1,0,/players/d/demarab02.html
+0,,LW,25.0,1,8,2,0,25,0,2,1,Lorne Stamler,0.2,0.1,3,0,2,,7,0,0.1,0,/players/s/stamllo01.html
+0,,LW,9.1,2,11,1,0,20,0,1,2,Steve Clippingdale,0.0,0.3,3,0,9,,16,3,-0.3,0,/players/c/clippst01.html
+0,,D,5.6,1,18,1,0,29,1,1,1,Sheldon Kannegiesser,1.2,1.8,2,0,28,,39,-7,-0.6,0,/players/k/kannesh01.html
+0,,RW,8.3,0,12,1,0,23,0,1,0,Russ Walker,-0.3,0.2,1,0,35,,16,-2,-0.5,0,/players/w/walkeru01.html
+0,,G,,0,0,0,0,31,0,0,1,Rogie Vachon,14.4,0.0,1,0,2,,68,0,0.0,0,/players/v/vachoro01.html
+0,,G,,0,0,0,0,29,0,0,0,Gary Edwards,0.4,0.0,0,0,0,,10,0,0.0,0,/players/e/edwarga01.html
+0,,RW,,0,0,0,0,23,0,0,0,Jim Moxey,0.0,0.0,0,0,2,,1,0,0.0,0,/players/m/moxeyji01.html
+0,,G,,0,0,0,0,32,0,0,0,Gary Simmons,0.4,0.0,0,0,0,,4,0,0.0,0,/players/s/simmoga01.html

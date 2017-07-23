@@ -1,44 +1,44 @@
-points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
-0,['J. Hynes'],2017-18,0,0,0,0,0,,New Jersey Devils,NJD,,0,NHL
-70,['J. Hynes'],2016-17,28,40,14,.427,82,8th,New Jersey Devils,NJD,,0,NHL
-84,['J. Hynes'],2015-16,38,36,8,.512,82,7th,New Jersey Devils,NJD,,0,NHL
-78,"['P. DeBoer', 'N. Bench']",2014-15,32,36,14,.476,82,7th,New Jersey Devils,NJD,,0,NHL
-88,['P. DeBoer'],2013-14,35,29,18,.537,82,6th,New Jersey Devils,NJD,,0,NHL
-48,['P. DeBoer'],2012-13,19,19,10,.500,48,5th,New Jersey Devils,NJD,,0,NHL
-102,['P. DeBoer'],2011-12,48,28,6,.622,82,4th,New Jersey Devils,NJD,Lost Stanley Cup Final,0,NHL
-81,"['J. MacLean', 'J. Lemaire']",2010-11,38,39,5,.494,82,4th,New Jersey Devils,NJD,,0,NHL
-103,['J. Lemaire'],2009-10,48,27,7,.628,82,1st,New Jersey Devils,NJD,Lost NHL Conference Quarter-Finals,0,NHL
-106,['B. Sutter'],2008-09,51,27,4,.646,82,1st,New Jersey Devils,NJD,Lost NHL Conference Quarter-Finals,0,NHL
-99,['B. Sutter'],2007-08,46,29,7,.604,82,2nd,New Jersey Devils,NJD,Lost NHL Conference Quarter-Finals,0,NHL
-107,"['C. Julien', 'L. Lamoriello']",2006-07,49,24,9,.652,82,1st,New Jersey Devils,NJD,Lost NHL Conference Semi-Finals,0,NHL
-101,"['L. Robinson', 'L. Lamoriello']",2005-06,46,27,9,.616,82,1st,New Jersey Devils,NJD,Lost NHL Conference Semi-Finals,0,NHL
-100,['P. Burns'],2003-04,43,25,2,.610,82,2nd,New Jersey Devils,NJD,Lost NHL Conference Quarter-Finals,12,NHL
-108,['P. Burns'],2002-03,46,20,6,.659,82,1st,New Jersey Devils,NJD,,10,NHL
-95,"['L. Robinson', 'K. Constantine']",2001-02,41,28,4,.579,82,3rd,New Jersey Devils,NJD,Lost NHL Conference Quarter-Finals,9,NHL
-111,['L. Robinson'],2000-01,48,19,3,.677,82,1st,New Jersey Devils,NJD,Lost Stanley Cup Final,12,NHL
-103,"['R. Ftorek', 'L. Robinson']",1999-00,45,24,5,.628,82,2nd,New Jersey Devils,NJD,,8,NHL
-105,['R. Ftorek'],1998-99,47,24,0,.640,82,1st,New Jersey Devils,NJD,Lost NHL Conference Quarter-Finals,11,NHL
-107,['J. Lemaire'],1997-98,48,23,0,.652,82,1st,New Jersey Devils,NJD,Lost NHL Conference Quarter-Finals,11,NHL
-104,['J. Lemaire'],1996-97,45,23,0,.634,82,1st,New Jersey Devils,NJD,Lost NHL Conference Semi-Finals,14,NHL
-86,['J. Lemaire'],1995-96,37,33,0,.524,82,6th,New Jersey Devils,NJD,,12,NHL
-52,['J. Lemaire'],1994-95,22,18,0,.542,48,2nd,New Jersey Devils,NJD,,8,NHL
-106,['J. Lemaire'],1993-94,47,25,0,.631,84,2nd,New Jersey Devils,NJD,Lost NHL Conference Finals,12,NHL
-87,['H. Brooks'],1992-93,40,37,0,.518,84,4th,New Jersey Devils,NJD,Lost NHL Division Semi-Finals,7,NHL
-87,['T. McVie'],1991-92,38,31,0,.544,80,4th,New Jersey Devils,NJD,Lost NHL Division Semi-Finals,11,NHL
-79,"['J. Cunniff', 'T. McVie']",1990-91,32,33,0,.494,80,4th,New Jersey Devils,NJD,Lost NHL Division Semi-Finals,15,NHL
-83,"['J. Schoenfeld', 'J. Cunniff']",1989-90,37,34,0,.519,80,2nd,New Jersey Devils,NJD,Lost NHL Division Semi-Finals,9,NHL
-66,['J. Schoenfeld'],1988-89,27,41,0,.413,80,5th,New Jersey Devils,NJD,,12,NHL
-82,"['D. Carpenter', 'J. Schoenfeld']",1987-88,38,36,0,.513,80,4th,New Jersey Devils,NJD,Lost NHL Conference Finals,6,NHL
-64,['D. Carpenter'],1986-87,29,45,0,.400,80,6th,New Jersey Devils,NJD,,6,NHL
-59,['D. Carpenter'],1985-86,28,49,0,.369,80,6th,New Jersey Devils,NJD,,3,NHL
-54,['D. Carpenter'],1984-85,22,48,0,.338,80,5th,New Jersey Devils,NJD,,10,NHL
-41,"['B. MacMillan', 'T. McVie']",1983-84,17,56,0,.256,80,5th,New Jersey Devils,NJD,,7,NHL
-48,['B. MacMillan'],1982-83,17,49,0,.300,80,5th,New Jersey Devils,NJD,,14,NHL
-49,"['B. Marshall', 'M. Johnston']",1981-82,18,49,0,.306,80,5th,Colorado Rockies,CLR,,13,NHL
-57,['B. MacMillan'],1980-81,22,45,0,.356,80,5th,Colorado Rockies,CLR,,13,NHL
-51,['D. Cherry'],1979-80,19,48,0,.319,80,6th,Colorado Rockies,CLR,,13,NHL
-42,"['P. Kelly', 'A. Guidolin']",1978-79,15,53,0,.263,80,4th,Colorado Rockies,CLR,,12,NHL
-59,['P. Kelly'],1977-78,19,40,0,.369,80,2nd,Colorado Rockies,CLR,Lost NHL Preliminary Round,21,NHL
-54,['J. Wilson'],1976-77,20,46,0,.338,80,5th,Colorado Rockies,CLR,,14,NHL
-36,"['B. Guidolin', 'S. Abel', 'E. Bush']",1975-76,12,56,0,.225,80,5th,Kansas City Scouts,KCS,,12,NHL
-41,['B. Guidolin'],1974-75,15,54,0,.256,80,5th,Kansas City Scouts,KCS,,11,NHL
+points,coaches,leage,code,season,wins,loses,overtime_loses,team_name,points_percentage,playoff_result,ties,games_played,finishing_position
+0,"[{'link': '/coaches/hynesjo01c.html', 'name': 'J. Hynes'}]",NHL,NJD,2017-18,0,0,0,New Jersey Devils,0,,0,0,
+70,"[{'link': '/coaches/hynesjo01c.html', 'name': 'J. Hynes'}]",NHL,NJD,2016-17,28,40,14,New Jersey Devils,.427,,0,82,8th
+84,"[{'link': '/coaches/hynesjo01c.html', 'name': 'J. Hynes'}]",NHL,NJD,2015-16,38,36,8,New Jersey Devils,.512,,0,82,7th
+78,"[{'link': '/coaches/deboepe99c.html', 'name': 'P. DeBoer'}, {'link': '/coaches/benchnj01c.html', 'name': 'N. Bench'}]",NHL,NJD,2014-15,32,36,14,New Jersey Devils,.476,,0,82,7th
+88,"[{'link': '/coaches/deboepe99c.html', 'name': 'P. DeBoer'}]",NHL,NJD,2013-14,35,29,18,New Jersey Devils,.537,,0,82,6th
+48,"[{'link': '/coaches/deboepe99c.html', 'name': 'P. DeBoer'}]",NHL,NJD,2012-13,19,19,10,New Jersey Devils,.500,,0,48,5th
+102,"[{'link': '/coaches/deboepe99c.html', 'name': 'P. DeBoer'}]",NHL,NJD,2011-12,48,28,6,New Jersey Devils,.622,Lost Stanley Cup Final,0,82,4th
+81,"[{'link': '/coaches/maclejo01c.html', 'name': 'J. MacLean'}, {'link': '/coaches/lemaija01c.html', 'name': 'J. Lemaire'}]",NHL,NJD,2010-11,38,39,5,New Jersey Devils,.494,,0,82,4th
+103,"[{'link': '/coaches/lemaija01c.html', 'name': 'J. Lemaire'}]",NHL,NJD,2009-10,48,27,7,New Jersey Devils,.628,Lost NHL Conference Quarter-Finals,0,82,1st
+106,"[{'link': '/coaches/suttebr02c.html', 'name': 'B. Sutter'}]",NHL,NJD,2008-09,51,27,4,New Jersey Devils,.646,Lost NHL Conference Quarter-Finals,0,82,1st
+99,"[{'link': '/coaches/suttebr02c.html', 'name': 'B. Sutter'}]",NHL,NJD,2007-08,46,29,7,New Jersey Devils,.604,Lost NHL Conference Quarter-Finals,0,82,2nd
+107,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}, {'link': '/coaches/lamorlo99c.html', 'name': 'L. Lamoriello'}]",NHL,NJD,2006-07,49,24,9,New Jersey Devils,.652,Lost NHL Conference Semi-Finals,0,82,1st
+101,"[{'link': '/coaches/robinla01c.html', 'name': 'L. Robinson'}, {'link': '/coaches/lamorlo99c.html', 'name': 'L. Lamoriello'}]",NHL,NJD,2005-06,46,27,9,New Jersey Devils,.616,Lost NHL Conference Semi-Finals,0,82,1st
+100,"[{'link': '/coaches/burnspa99c.html', 'name': 'P. Burns'}]",NHL,NJD,2003-04,43,25,2,New Jersey Devils,.610,Lost NHL Conference Quarter-Finals,12,82,2nd
+108,"[{'link': '/coaches/burnspa99c.html', 'name': 'P. Burns'}]",NHL,NJD,2002-03,46,20,6,New Jersey Devils,.659,,10,82,1st
+95,"[{'link': '/coaches/robinla01c.html', 'name': 'L. Robinson'}, {'link': '/coaches/constke99c.html', 'name': 'K. Constantine'}]",NHL,NJD,2001-02,41,28,4,New Jersey Devils,.579,Lost NHL Conference Quarter-Finals,9,82,3rd
+111,"[{'link': '/coaches/robinla01c.html', 'name': 'L. Robinson'}]",NHL,NJD,2000-01,48,19,3,New Jersey Devils,.677,Lost Stanley Cup Final,12,82,1st
+103,"[{'link': '/coaches/ftorero01c.html', 'name': 'R. Ftorek'}, {'link': '/coaches/robinla01c.html', 'name': 'L. Robinson'}]",NHL,NJD,1999-00,45,24,5,New Jersey Devils,.628,,8,82,2nd
+105,"[{'link': '/coaches/ftorero01c.html', 'name': 'R. Ftorek'}]",NHL,NJD,1998-99,47,24,0,New Jersey Devils,.640,Lost NHL Conference Quarter-Finals,11,82,1st
+107,"[{'link': '/coaches/lemaija01c.html', 'name': 'J. Lemaire'}]",NHL,NJD,1997-98,48,23,0,New Jersey Devils,.652,Lost NHL Conference Quarter-Finals,11,82,1st
+104,"[{'link': '/coaches/lemaija01c.html', 'name': 'J. Lemaire'}]",NHL,NJD,1996-97,45,23,0,New Jersey Devils,.634,Lost NHL Conference Semi-Finals,14,82,1st
+86,"[{'link': '/coaches/lemaija01c.html', 'name': 'J. Lemaire'}]",NHL,NJD,1995-96,37,33,0,New Jersey Devils,.524,,12,82,6th
+52,"[{'link': '/coaches/lemaija01c.html', 'name': 'J. Lemaire'}]",NHL,NJD,1994-95,22,18,0,New Jersey Devils,.542,,8,48,2nd
+106,"[{'link': '/coaches/lemaija01c.html', 'name': 'J. Lemaire'}]",NHL,NJD,1993-94,47,25,0,New Jersey Devils,.631,Lost NHL Conference Finals,12,84,2nd
+87,"[{'link': '/coaches/brookhe99c.html', 'name': 'H. Brooks'}]",NHL,NJD,1992-93,40,37,0,New Jersey Devils,.518,Lost NHL Division Semi-Finals,7,84,4th
+87,"[{'link': '/coaches/mcvieto99c.html', 'name': 'T. McVie'}]",NHL,NJD,1991-92,38,31,0,New Jersey Devils,.544,Lost NHL Division Semi-Finals,11,80,4th
+79,"[{'link': '/coaches/cunnijo99c.html', 'name': 'J. Cunniff'}, {'link': '/coaches/mcvieto99c.html', 'name': 'T. McVie'}]",NHL,NJD,1990-91,32,33,0,New Jersey Devils,.494,Lost NHL Division Semi-Finals,15,80,4th
+83,"[{'link': '/coaches/schoeji01c.html', 'name': 'J. Schoenfeld'}, {'link': '/coaches/cunnijo99c.html', 'name': 'J. Cunniff'}]",NHL,NJD,1989-90,37,34,0,New Jersey Devils,.519,Lost NHL Division Semi-Finals,9,80,2nd
+66,"[{'link': '/coaches/schoeji01c.html', 'name': 'J. Schoenfeld'}]",NHL,NJD,1988-89,27,41,0,New Jersey Devils,.413,,12,80,5th
+82,"[{'link': '/coaches/carpedo99c.html', 'name': 'D. Carpenter'}, {'link': '/coaches/schoeji01c.html', 'name': 'J. Schoenfeld'}]",NHL,NJD,1987-88,38,36,0,New Jersey Devils,.513,Lost NHL Conference Finals,6,80,4th
+64,"[{'link': '/coaches/carpedo99c.html', 'name': 'D. Carpenter'}]",NHL,NJD,1986-87,29,45,0,New Jersey Devils,.400,,6,80,6th
+59,"[{'link': '/coaches/carpedo99c.html', 'name': 'D. Carpenter'}]",NHL,NJD,1985-86,28,49,0,New Jersey Devils,.369,,3,80,6th
+54,"[{'link': '/coaches/carpedo99c.html', 'name': 'D. Carpenter'}]",NHL,NJD,1984-85,22,48,0,New Jersey Devils,.338,,10,80,5th
+41,"[{'link': '/coaches/macmibi01c.html', 'name': 'B. MacMillan'}, {'link': '/coaches/mcvieto99c.html', 'name': 'T. McVie'}]",NHL,NJD,1983-84,17,56,0,New Jersey Devils,.256,,7,80,5th
+48,"[{'link': '/coaches/macmibi01c.html', 'name': 'B. MacMillan'}]",NHL,NJD,1982-83,17,49,0,New Jersey Devils,.300,,14,80,5th
+49,"[{'link': '/coaches/marshbe01c.html', 'name': 'B. Marshall'}, {'link': '/coaches/johnsma01c.html', 'name': 'M. Johnston'}]",NHL,CLR,1981-82,18,49,0,Colorado Rockies,.306,,13,80,5th
+57,"[{'link': '/coaches/macmibi01c.html', 'name': 'B. MacMillan'}]",NHL,CLR,1980-81,22,45,0,Colorado Rockies,.356,,13,80,5th
+51,"[{'link': '/coaches/cherrdo01c.html', 'name': 'D. Cherry'}]",NHL,CLR,1979-80,19,48,0,Colorado Rockies,.319,,13,80,6th
+42,"[{'link': '/coaches/kellypa99c.html', 'name': 'P. Kelly'}, {'link': '/coaches/guidoal01c.html', 'name': 'A. Guidolin'}]",NHL,CLR,1978-79,15,53,0,Colorado Rockies,.263,,12,80,4th
+59,"[{'link': '/coaches/kellypa99c.html', 'name': 'P. Kelly'}]",NHL,CLR,1977-78,19,40,0,Colorado Rockies,.369,Lost NHL Preliminary Round,21,80,2nd
+54,"[{'link': '/coaches/wilsojo01c.html', 'name': 'J. Wilson'}]",NHL,CLR,1976-77,20,46,0,Colorado Rockies,.338,,14,80,5th
+36,"[{'link': '/coaches/guidobe01c.html', 'name': 'B. Guidolin'}, {'link': '/coaches/abelsi01c.html', 'name': 'S. Abel'}, {'link': '/coaches/bushed01c.html', 'name': 'E. Bush'}]",NHL,KCS,1975-76,12,56,0,Kansas City Scouts,.225,,12,80,5th
+41,"[{'link': '/coaches/guidobe01c.html', 'name': 'B. Guidolin'}]",NHL,KCS,1974-75,15,54,0,Kansas City Scouts,.256,,11,80,5th

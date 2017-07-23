@@ -1,26 +1,26 @@
-offensive_point_share,name,even_strength_goals,shorthanded_goals,plus_minus,shotsPercentage,age,shots,assists,positions,overall_point_share,points,games_played,power_play_assists,defensive_point_share,game_winning_goals,power_play_goals,total_ice_time,shorthanded_assists,goals,even_strength_assists,average_ice_time,pim
-6.1,Denis Potvin,14,2,28,10.0,21,211,55,D,12.3,76,79,27,6.3,4,5,,2,21,26,,105
-3.5,Billy Harris,21,0,4,12.6,23,199,37,RW,4.7,62,80,13,1.2,5,4,,0,25,24,,34
-3.3,Bob Nystrom,24,0,17,13.9,22,194,28,RW,4.8,55,76,2,1.5,3,3,,0,27,26,,122
-3.0,Ed Westfall,15,1,19,12.9,34,170,33,RW,4.6,55,73,8,1.6,1,6,,1,22,24,,28
-1.9,Garry Howatt,17,0,32,14.3,22,126,30,LW,3.9,48,77,1,2.0,3,1,,0,18,29,,121
-2.3,Clark Gillies,17,0,-4,15.2,20,165,22,LW,3.3,47,80,2,1.0,4,8,,0,25,20,,66
-1.0,Andre St. Laurent,13,0,22,7.5,21,186,27,C,2.7,41,78,4,1.7,0,1,,0,14,23,,60
-1.4,Ralph Stewart,9,1,-9,11.0,26,145,24,C,2.1,40,70,4,0.7,2,6,,0,16,20,,12
-1.1,Bob Bourne,14,0,9,12.6,20,127,23,C,2.4,39,77,4,1.3,2,2,,0,16,19,,12
-1.8,Jean Potvin,2,1,-3,7.8,25,115,24,D,5.9,33,73,16,4.1,4,6,,0,9,8,,59
-1.9,Jude Drouin,12,0,8,15.1,26,93,18,C,2.7,32,40,3,0.8,2,2,,0,14,15,,6
-1.7,J.P. Parise,10,0,10,15.9,33,88,16,LW,2.6,30,41,2,0.9,1,4,,0,14,14,,22
-1.0,Bert Marshall,2,0,18,2.9,31,69,28,D,6.5,30,77,1,5.5,0,0,,2,2,25,,58
-0.1,Billy MacMillan,10,1,0,17.6,31,74,12,RW,1.0,25,69,2,0.9,1,2,,0,13,10,,12
-0.3,Dave Lewis,5,0,8,5.3,21,95,14,D,5.3,19,78,2,5.0,1,0,,0,5,12,,98
-0.6,Dave Fortier,5,0,14,8.1,23,74,12,D,5.2,18,65,1,4.6,0,1,,0,6,11,,79
-0.3,Gerry Hart,3,1,28,4.9,27,81,14,D,6.1,18,71,0,5.8,0,0,,0,4,14,,143
--1.3,Lorne Henning,1,4,7,11.1,22,45,6,C,-0.3,11,60,0,1.0,0,0,,1,5,5,,6
-0.1,Doug Rombough,5,0,6,14.3,24,35,6,C,0.6,11,28,2,0.6,0,0,,0,5,4,,6
--0.1,Ernie Hicke,2,0,7,11.8,27,17,6,LW,0.4,8,20,0,0.5,0,0,,0,2,6,,40
--1.0,Craig Cameron,1,0,-3,1.9,29,52,6,RW,-0.5,7,37,0,0.4,0,0,,0,1,6,,4
-0.0,Walt Ledingham,0,0,-3,0.0,24,2,1,LW,-0.1,1,2,0,-0.1,0,0,,0,0,1,,0
-0.0,Tom Miller,0,0,0,0.0,27,1,0,C,0.0,0,1,0,0.0,0,0,,0,0,0,,0
-0.0,Glenn Resch,0,0,0,,26,0,0,G,5.7,0,25,0,0.0,0,0,,0,0,0,,0
-0.0,Billy Smith,0,0,0,,24,0,0,G,12.0,0,58,0,0.0,0,0,,0,0,0,,21
+shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
+2,,D,10.0,26,211,14,2,21,4,21,55,Denis Potvin,12.3,6.3,76,5,105,,79,28,6.1,27,/players/p/potvide01.html
+0,,RW,12.6,24,199,21,0,23,5,25,37,Billy Harris,4.7,1.2,62,4,34,,80,4,3.5,13,/players/h/harribi02.html
+0,,RW,13.9,26,194,24,0,22,3,27,28,Bob Nystrom,4.8,1.5,55,3,122,,76,17,3.3,2,/players/n/nystrbo01.html
+1,,RW,12.9,24,170,15,1,34,1,22,33,Ed Westfall,4.6,1.6,55,6,28,,73,19,3.0,8,/players/w/westfed01.html
+0,,LW,14.3,29,126,17,0,22,3,18,30,Garry Howatt,3.9,2.0,48,1,121,,77,32,1.9,1,/players/h/howatga01.html
+0,,LW,15.2,20,165,17,0,20,4,25,22,Clark Gillies,3.3,1.0,47,8,66,,80,-4,2.3,2,/players/g/gillicl01.html
+0,,C,7.5,23,186,13,0,21,0,14,27,Andre St. Laurent,2.7,1.7,41,1,60,,78,22,1.0,4,/players/s/stlauan01.html
+1,,C,11.0,20,145,9,0,26,2,16,24,Ralph Stewart,2.1,0.7,40,6,12,,70,-9,1.4,4,/players/s/stewara01.html
+0,,C,12.6,19,127,14,0,20,2,16,23,Bob Bourne,2.4,1.3,39,2,12,,77,9,1.1,4,/players/b/bournbo01.html
+1,,D,7.8,8,115,2,0,25,4,9,24,Jean Potvin,5.9,4.1,33,6,59,,73,-3,1.8,16,/players/p/potvije01.html
+0,,C,15.1,15,93,12,0,26,2,14,18,Jude Drouin,2.7,0.8,32,2,6,,40,8,1.9,3,/players/d/drouiju01.html
+0,,LW,15.9,14,88,10,0,33,1,14,16,J.P. Parise,2.6,0.9,30,4,22,,41,10,1.7,2,/players/p/parisjp01.html
+0,,D,2.9,25,69,2,2,31,0,2,28,Bert Marshall,6.5,5.5,30,0,58,,77,18,1.0,1,/players/m/marshbe01.html
+1,,RW,17.6,10,74,10,0,31,1,13,12,Billy MacMillan,1.0,0.9,25,2,12,,69,0,0.1,2,/players/m/macmibi01.html
+0,,D,5.3,12,95,5,0,21,1,5,14,Dave Lewis,5.3,5.0,19,0,98,,78,8,0.3,2,/players/l/lewisda02.html
+0,,D,8.1,11,74,5,0,23,0,6,12,Dave Fortier,5.2,4.6,18,1,79,,65,14,0.6,1,/players/f/fortida01.html
+1,,D,4.9,14,81,3,0,27,0,4,14,Gerry Hart,6.1,5.8,18,0,143,,71,28,0.3,0,/players/h/hartge01.html
+4,,C,11.1,5,45,1,1,22,0,5,6,Lorne Henning,-0.3,1.0,11,0,6,,60,7,-1.3,0,/players/h/hennilo01.html
+0,,C,14.3,4,35,5,0,24,0,5,6,Doug Rombough,0.6,0.6,11,0,6,,28,6,0.1,2,/players/r/rombodo01.html
+0,,LW,11.8,6,17,2,0,27,0,2,6,Ernie Hicke,0.4,0.5,8,0,40,,20,7,-0.1,0,/players/h/hickeer01.html
+0,,RW,1.9,6,52,1,0,29,0,1,6,Craig Cameron,-0.5,0.4,7,0,4,,37,-3,-1.0,0,/players/c/camercr01.html
+0,,LW,0.0,1,2,0,0,24,0,0,1,Walt Ledingham,-0.1,-0.1,1,0,0,,2,-3,0.0,0,/players/l/ledinwa01.html
+0,,C,0.0,0,1,0,0,27,0,0,0,Tom Miller,0.0,0.0,0,0,0,,1,0,0.0,0,/players/m/milleto01.html
+0,,G,,0,0,0,0,26,0,0,0,Glenn Resch,5.7,0.0,0,0,0,,25,0,0.0,0,/players/r/reschgl01.html
+0,,G,,0,0,0,0,24,0,0,0,Billy Smith,12.0,0.0,0,0,21,,58,0,0.0,0,/players/s/smithbi01.html

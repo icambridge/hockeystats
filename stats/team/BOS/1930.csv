@@ -1,18 +1,18 @@
-offensive_point_share,name,even_strength_goals,shorthanded_goals,plus_minus,shotsPercentage,age,shots,assists,positions,overall_point_share,points,games_played,power_play_assists,defensive_point_share,game_winning_goals,power_play_goals,total_ice_time,shorthanded_assists,goals,even_strength_assists,average_ice_time,pim
-11.3,Cooney Weiland,0,0,0,,25,0,30,C,12.5,73,44,0,1.3,0,0,,0,43,0,,27
-9.6,Dit Clapper,0,0,0,,22,0,20,RW/D,10.9,61,44,0,1.3,0,0,,0,41,0,,48
-5.5,Dutch Gainor,0,0,0,,25,0,31,LW,6.8,49,42,0,1.2,0,0,,0,18,0,,39
-3.5,Marty Barry,0,0,0,,24,0,15,C,4.8,33,44,0,1.3,0,0,,0,18,0,,34
-4.1,Eddie Shore,0,0,0,,27,0,19,D,9.0,31,42,0,4.9,0,0,,0,12,0,,105
-2.1,Harry Oliver,0,0,0,,31,0,5,RW,3.2,21,40,0,1.2,0,0,,0,16,0,,12
-0.2,Percy Galbraith,0,0,0,,31,0,9,LW,1.4,16,44,0,1.3,0,0,,0,7,0,,38
-1.6,George Owen,0,0,0,,28,0,4,D,6.5,13,42,0,4.9,0,0,,0,9,0,,31
--0.4,Bill Carson,0,0,0,,29,0,4,C,0.8,11,44,0,1.3,0,0,,0,7,0,,24
--0.6,Mickey MacKay,0,0,0,,35,0,5,C,0.5,9,37,0,1.1,0,0,,0,4,0,,13
-0.3,Lionel Hitchman,0,0,0,,28,0,7,D,4.9,9,39,0,4.6,0,0,,0,2,0,,58
--0.5,Bill Hutton,0,0,0,,20,0,0,RW,0.0,2,16,0,0.5,0,0,,0,2,0,,2
--0.2,Art Gagne,0,0,0,,32,0,1,RW,-0.1,1,6,0,0.2,0,0,,0,0,0,,6
--0.8,Harry Connor,0,0,0,,25,0,0,LW,-0.4,0,13,0,0.4,0,0,,0,0,0,,4
--0.1,Myles Lane,0,0,0,,24,0,0,D,0.3,0,3,0,0.4,0,0,,0,0,0,,0
--0.5,Bob Taylor,0,0,0,,25,0,0,F,-0.2,0,8,0,0.2,0,0,,0,0,0,,6
-0.0,Tiny Thompson,0,0,0,,26,0,0,G,10.0,0,44,0,0.0,0,0,,0,0,0,,0
+shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
+0,,C,,0,0,0,0,25,0,43,30,Cooney Weiland,12.5,1.3,73,0,27,,44,0,11.3,0,/players/w/weilaco01.html
+0,,RW/D,,0,0,0,0,22,0,41,20,Dit Clapper,10.9,1.3,61,0,48,,44,0,9.6,0,/players/c/clappdi01.html
+0,,LW,,0,0,0,0,25,0,18,31,Dutch Gainor,6.8,1.2,49,0,39,,42,0,5.5,0,/players/g/gainodu01.html
+0,,C,,0,0,0,0,24,0,18,15,Marty Barry,4.8,1.3,33,0,34,,44,0,3.5,0,/players/b/barryma01.html
+0,,D,,0,0,0,0,27,0,12,19,Eddie Shore,9.0,4.9,31,0,105,,42,0,4.1,0,/players/s/shoreed01.html
+0,,RW,,0,0,0,0,31,0,16,5,Harry Oliver,3.2,1.2,21,0,12,,40,0,2.1,0,/players/o/oliveha01.html
+0,,LW,,0,0,0,0,31,0,7,9,Percy Galbraith,1.4,1.3,16,0,38,,44,0,0.2,0,/players/g/galbrpe01.html
+0,,D,,0,0,0,0,28,0,9,4,George Owen,6.5,4.9,13,0,31,,42,0,1.6,0,/players/o/owenge01.html
+0,,C,,0,0,0,0,29,0,7,4,Bill Carson,0.8,1.3,11,0,24,,44,0,-0.4,0,/players/c/carsobi01.html
+0,,C,,0,0,0,0,35,0,4,5,Mickey MacKay,0.5,1.1,9,0,13,,37,0,-0.6,0,/players/m/mackami01.html
+0,,D,,0,0,0,0,28,0,2,7,Lionel Hitchman,4.9,4.6,9,0,58,,39,0,0.3,0,/players/h/hitchli01.html
+0,,RW,,0,0,0,0,20,0,2,0,Bill Hutton,0.0,0.5,2,0,2,,16,0,-0.5,0,/players/h/huttobi01.html
+0,,RW,,0,0,0,0,32,0,0,1,Art Gagne,-0.1,0.2,1,0,6,,6,0,-0.2,0,/players/g/gagnear01.html
+0,,LW,,0,0,0,0,25,0,0,0,Harry Connor,-0.4,0.4,0,0,4,,13,0,-0.8,0,/players/c/connoha01.html
+0,,D,,0,0,0,0,24,0,0,0,Myles Lane,0.3,0.4,0,0,0,,3,0,-0.1,0,/players/l/lanemy01.html
+0,,F,,0,0,0,0,25,0,0,0,Bob Taylor,-0.2,0.2,0,0,6,,8,0,-0.5,0,/players/t/taylobo01.html
+0,,G,,0,0,0,0,26,0,0,0,Tiny Thompson,10.0,0.0,0,0,0,,44,0,0.0,0,/players/t/thompti01.html

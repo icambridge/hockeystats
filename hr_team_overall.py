@@ -12,6 +12,7 @@
 # WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
 # License for the specific language governing permissions and limitations
 # under the License.
+
 import http.client
 from lxml import html
 from datetime import datetime
@@ -121,7 +122,11 @@ def buildYears(team, tree):
         coachList = list(coachList)
         yearCoaches = []
         for counter in range(len(coachList)):
-            yearCoaches.append(coachList[counter].text)
+            coach = {
+                "name": coachList[counter].text,
+                "link": coachList[counter].attrib['href'],
+            }
+            yearCoaches.append(coach)
 
         coaches.append(yearCoaches)
 

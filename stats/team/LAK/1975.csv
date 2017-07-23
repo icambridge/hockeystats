@@ -1,23 +1,23 @@
-offensive_point_share,name,even_strength_goals,shorthanded_goals,plus_minus,shotsPercentage,age,shots,assists,positions,overall_point_share,points,games_played,power_play_assists,defensive_point_share,game_winning_goals,power_play_goals,total_ice_time,shorthanded_assists,goals,even_strength_assists,average_ice_time,pim
-4.8,Bob Nevin,22,2,36,19.7,36,157,41,RW,6.9,72,80,5,2.1,3,7,,3,31,33,,19
-4.5,Mike Murphy,24,3,32,17.1,24,175,38,RW,6.5,68,78,9,2.0,6,3,,1,30,28,,44
-4.0,Dan Maloney,24,0,29,11.9,24,227,39,LW,5.9,66,80,5,1.9,2,3,,3,27,31,,165
-4.4,Butch Goring,18,3,26,20.1,25,134,33,C,6.0,60,60,9,1.6,7,6,,0,27,24,,6
-3.5,Juha Widing,19,0,18,14.0,27,186,34,C,5.0,60,80,11,1.6,3,7,,0,26,23,,46
-2.2,Frank St. Marseille,17,0,12,10.1,35,168,36,C,3.6,53,80,6,1.4,1,0,,0,17,30,,46
-2.4,Bob Berry,18,0,21,18.4,31,136,23,LW,4.1,48,80,3,1.7,7,7,,0,25,20,,60
-2.4,Tom Williams,18,0,14,12.8,23,188,22,LW,3.8,46,74,9,1.4,3,6,,0,24,13,,16
-2.8,Bob Murdoch,10,1,39,6.5,28,201,29,D,10.0,42,80,10,7.3,0,2,,1,13,18,,116
-0.3,Gene Carr,5,0,19,4.5,23,157,32,C/LW,1.9,39,80,1,1.6,2,2,,0,7,31,,103
-0.3,Mike Corrigan,10,1,9,13.0,29,100,21,RW,1.7,34,80,8,1.3,2,2,,2,13,11,,61
-0.5,Don Kozak,14,0,5,14.7,22,109,15,RW,1.6,31,77,5,1.2,6,2,,0,16,10,,64
-0.8,Terry Harper,4,0,38,5.2,35,96,21,D,8.0,26,80,0,7.2,0,1,,1,5,20,,120
-0.6,Sheldon Kannegiesser,2,0,41,2.4,27,84,23,D,7.7,25,74,9,7.0,0,0,,0,2,14,,57
-0.1,Neil Komadoski,1,0,10,6.1,23,66,12,D,5.3,16,75,2,5.2,0,3,,0,4,10,,69
--0.2,Larry Brown,1,0,31,1.2,27,83,15,D,6.4,16,78,0,6.7,0,0,,0,1,15,,50
--0.9,Dave Hutchison,0,0,5,0.0,22,55,6,D,3.6,6,68,0,4.5,0,0,,1,0,5,,133
--0.4,Vic Venasky,0,0,3,5.9,23,17,2,C,-0.1,3,17,1,0.3,0,1,,0,1,1,,0
-0.0,Rogie Vachon,0,0,0,,29,0,1,G,14.0,1,54,0,0.0,0,0,,0,0,0,,2
-0.0,Gary Edwards,0,0,0,,27,0,0,G,6.5,0,27,0,0.0,0,0,,0,0,0,,0
--0.1,Phil Hoene,0,0,0,,25,0,0,LW,-0.1,0,2,0,0.0,0,0,,0,0,0,,0
--0.1,Jimmy Peters,0,0,0,0.0,30,1,0,C,-0.1,0,3,0,0.0,0,0,,0,0,0,,0
+shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
+2,,RW,19.7,33,157,22,3,36,3,31,41,Bob Nevin,6.9,2.1,72,7,19,,80,36,4.8,5,/players/n/nevinbo01.html
+3,,RW,17.1,28,175,24,1,24,6,30,38,Mike Murphy,6.5,2.0,68,3,44,,78,32,4.5,9,/players/m/murphmi01.html
+0,,LW,11.9,31,227,24,3,24,2,27,39,Dan Maloney,5.9,1.9,66,3,165,,80,29,4.0,5,/players/m/malonda01.html
+3,,C,20.1,24,134,18,0,25,7,27,33,Butch Goring,6.0,1.6,60,6,6,,60,26,4.4,9,/players/g/gorinbu01.html
+0,,C,14.0,23,186,19,0,27,3,26,34,Juha Widing,5.0,1.6,60,7,46,,80,18,3.5,11,/players/w/widinju01.html
+0,,C,10.1,30,168,17,0,35,1,17,36,Frank St. Marseille,3.6,1.4,53,0,46,,80,12,2.2,6,/players/s/stmarfr01.html
+0,,LW,18.4,20,136,18,0,31,7,25,23,Bob Berry,4.1,1.7,48,7,60,,80,21,2.4,3,/players/b/berrybo01.html
+0,,LW,12.8,13,188,18,0,23,3,24,22,Tom Williams,3.8,1.4,46,6,16,,74,14,2.4,9,/players/w/willito02.html
+1,,D,6.5,18,201,10,1,28,0,13,29,Bob Murdoch,10.0,7.3,42,2,116,,80,39,2.8,10,/players/m/murdobo01.html
+0,,C/LW,4.5,31,157,5,0,23,2,7,32,Gene Carr,1.9,1.6,39,2,103,,80,19,0.3,1,/players/c/carrge01.html
+1,,RW,13.0,11,100,10,2,29,2,13,21,Mike Corrigan,1.7,1.3,34,2,61,,80,9,0.3,8,/players/c/corrimi01.html
+0,,RW,14.7,10,109,14,0,22,6,16,15,Don Kozak,1.6,1.2,31,2,64,,77,5,0.5,5,/players/k/kozakdo01.html
+0,,D,5.2,20,96,4,1,35,0,5,21,Terry Harper,8.0,7.2,26,1,120,,80,38,0.8,0,/players/h/harpete01.html
+0,,D,2.4,14,84,2,0,27,0,2,23,Sheldon Kannegiesser,7.7,7.0,25,0,57,,74,41,0.6,9,/players/k/kannesh01.html
+0,,D,6.1,10,66,1,0,23,0,4,12,Neil Komadoski,5.3,5.2,16,3,69,,75,10,0.1,2,/players/k/komadne01.html
+0,,D,1.2,15,83,1,0,27,0,1,15,Larry Brown,6.4,6.7,16,0,50,,78,31,-0.2,0,/players/b/brownla01.html
+0,,D,0.0,5,55,0,1,22,0,0,6,Dave Hutchison,3.6,4.5,6,0,133,,68,5,-0.9,0,/players/h/hutchda01.html
+0,,C,5.9,1,17,0,0,23,0,1,2,Vic Venasky,-0.1,0.3,3,1,0,,17,3,-0.4,1,/players/v/venasvi01.html
+0,,G,,0,0,0,0,29,0,0,1,Rogie Vachon,14.0,0.0,1,0,2,,54,0,0.0,0,/players/v/vachoro01.html
+0,,G,,0,0,0,0,27,0,0,0,Gary Edwards,6.5,0.0,0,0,0,,27,0,0.0,0,/players/e/edwarga01.html
+0,,LW,,0,0,0,0,25,0,0,0,Phil Hoene,-0.1,0.0,0,0,0,,2,0,-0.1,0,/players/h/hoeneph01.html
+0,,C,0.0,0,1,0,0,30,0,0,0,Jimmy Peters,-0.1,0.0,0,0,0,,3,0,-0.1,0,/players/p/peterji02.html

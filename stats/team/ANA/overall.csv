@@ -1,25 +1,25 @@
-points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
-0,['R. Carlyle'],2017-18,0,0,0,0,0,,Anaheim Ducks,ANA,,0,NHL
-105,['R. Carlyle'],2016-17,46,23,13,.640,82,1st,Anaheim Ducks,ANA,Lost NHL Conference Finals,0,NHL
-103,['B. Boudreau'],2015-16,46,25,11,.628,82,1st,Anaheim Ducks,ANA,Lost NHL First Round,0,NHL
-109,['B. Boudreau'],2014-15,51,24,7,.665,82,1st,Anaheim Ducks,ANA,Lost NHL Conference Finals,0,NHL
-116,['B. Boudreau'],2013-14,54,20,8,.707,82,1st,Anaheim Ducks,ANA,Lost NHL Second Round,0,NHL
-66,['B. Boudreau'],2012-13,30,12,6,.688,48,1st,Anaheim Ducks,ANA,Lost NHL Conference Quarter-Finals,0,NHL
-80,"['R. Carlyle', 'B. Boudreau']",2011-12,34,36,12,.488,82,5th,Anaheim Ducks,ANA,,0,NHL
-99,['R. Carlyle'],2010-11,47,30,5,.604,82,2nd,Anaheim Ducks,ANA,Lost NHL Conference Quarter-Finals,0,NHL
-89,['R. Carlyle'],2009-10,39,32,11,.543,82,4th,Anaheim Ducks,ANA,,0,NHL
-91,['R. Carlyle'],2008-09,42,33,7,.555,82,2nd,Anaheim Ducks,ANA,Lost NHL Conference Semi-Finals,0,NHL
-102,['R. Carlyle'],2007-08,47,27,8,.622,82,2nd,Anaheim Ducks,ANA,Lost NHL Conference Quarter-Finals,0,NHL
-110,['R. Carlyle'],2006-07,48,20,14,.671,82,1st,Anaheim Ducks,ANA,,0,NHL
-98,['R. Carlyle'],2005-06,43,27,12,.598,82,3rd,Mighty Ducks of Anaheim,MDA,Lost NHL Conference Finals,0,NHL
-76,['M. Babcock'],2003-04,29,35,8,.463,82,4th,Mighty Ducks of Anaheim,MDA,,10,NHL
-95,['M. Babcock'],2002-03,40,27,6,.579,82,2nd,Mighty Ducks of Anaheim,MDA,Lost Stanley Cup Final,9,NHL
-69,['B. Murray'],2001-02,29,42,3,.421,82,5th,Mighty Ducks of Anaheim,MDA,,8,NHL
-66,"['C. Hartsburg', 'G. Charron']",2000-01,25,41,5,.402,82,5th,Mighty Ducks of Anaheim,MDA,,11,NHL
-83,['C. Hartsburg'],1999-00,34,33,3,.506,82,5th,Mighty Ducks of Anaheim,MDA,,12,NHL
-83,['C. Hartsburg'],1998-99,35,34,0,.506,82,3rd,Mighty Ducks of Anaheim,MDA,Lost NHL Conference Quarter-Finals,13,NHL
-65,['P. Page'],1997-98,26,43,0,.396,82,6th,Mighty Ducks of Anaheim,MDA,,13,NHL
-85,['R. Wilson'],1996-97,36,33,0,.518,82,2nd,Mighty Ducks of Anaheim,MDA,Lost NHL Conference Semi-Finals,13,NHL
-78,['R. Wilson'],1995-96,35,39,0,.476,82,4th,Mighty Ducks of Anaheim,MDA,,8,NHL
-37,['R. Wilson'],1994-95,16,27,0,.385,48,6th,Mighty Ducks of Anaheim,MDA,,5,NHL
-71,['R. Wilson'],1993-94,33,46,0,.423,84,4th,Mighty Ducks of Anaheim,MDA,,5,NHL
+points,coaches,leage,code,season,wins,loses,overtime_loses,team_name,points_percentage,playoff_result,ties,games_played,finishing_position
+0,"[{'link': '/coaches/carlyra01c.html', 'name': 'R. Carlyle'}]",NHL,ANA,2017-18,0,0,0,Anaheim Ducks,0,,0,0,
+105,"[{'link': '/coaches/carlyra01c.html', 'name': 'R. Carlyle'}]",NHL,ANA,2016-17,46,23,13,Anaheim Ducks,.640,Lost NHL Conference Finals,0,82,1st
+103,"[{'link': '/coaches/boudrbr01c.html', 'name': 'B. Boudreau'}]",NHL,ANA,2015-16,46,25,11,Anaheim Ducks,.628,Lost NHL First Round,0,82,1st
+109,"[{'link': '/coaches/boudrbr01c.html', 'name': 'B. Boudreau'}]",NHL,ANA,2014-15,51,24,7,Anaheim Ducks,.665,Lost NHL Conference Finals,0,82,1st
+116,"[{'link': '/coaches/boudrbr01c.html', 'name': 'B. Boudreau'}]",NHL,ANA,2013-14,54,20,8,Anaheim Ducks,.707,Lost NHL Second Round,0,82,1st
+66,"[{'link': '/coaches/boudrbr01c.html', 'name': 'B. Boudreau'}]",NHL,ANA,2012-13,30,12,6,Anaheim Ducks,.688,Lost NHL Conference Quarter-Finals,0,48,1st
+80,"[{'link': '/coaches/carlyra01c.html', 'name': 'R. Carlyle'}, {'link': '/coaches/boudrbr01c.html', 'name': 'B. Boudreau'}]",NHL,ANA,2011-12,34,36,12,Anaheim Ducks,.488,,0,82,5th
+99,"[{'link': '/coaches/carlyra01c.html', 'name': 'R. Carlyle'}]",NHL,ANA,2010-11,47,30,5,Anaheim Ducks,.604,Lost NHL Conference Quarter-Finals,0,82,2nd
+89,"[{'link': '/coaches/carlyra01c.html', 'name': 'R. Carlyle'}]",NHL,ANA,2009-10,39,32,11,Anaheim Ducks,.543,,0,82,4th
+91,"[{'link': '/coaches/carlyra01c.html', 'name': 'R. Carlyle'}]",NHL,ANA,2008-09,42,33,7,Anaheim Ducks,.555,Lost NHL Conference Semi-Finals,0,82,2nd
+102,"[{'link': '/coaches/carlyra01c.html', 'name': 'R. Carlyle'}]",NHL,ANA,2007-08,47,27,8,Anaheim Ducks,.622,Lost NHL Conference Quarter-Finals,0,82,2nd
+110,"[{'link': '/coaches/carlyra01c.html', 'name': 'R. Carlyle'}]",NHL,ANA,2006-07,48,20,14,Anaheim Ducks,.671,,0,82,1st
+98,"[{'link': '/coaches/carlyra01c.html', 'name': 'R. Carlyle'}]",NHL,MDA,2005-06,43,27,12,Mighty Ducks of Anaheim,.598,Lost NHL Conference Finals,0,82,3rd
+76,"[{'link': '/coaches/babcomi99c.html', 'name': 'M. Babcock'}]",NHL,MDA,2003-04,29,35,8,Mighty Ducks of Anaheim,.463,,10,82,4th
+95,"[{'link': '/coaches/babcomi99c.html', 'name': 'M. Babcock'}]",NHL,MDA,2002-03,40,27,6,Mighty Ducks of Anaheim,.579,Lost Stanley Cup Final,9,82,2nd
+69,"[{'link': '/coaches/murrabr99c.html', 'name': 'B. Murray'}]",NHL,MDA,2001-02,29,42,3,Mighty Ducks of Anaheim,.421,,8,82,5th
+66,"[{'link': '/coaches/hartscr01c.html', 'name': 'C. Hartsburg'}, {'link': '/coaches/charrgu01c.html', 'name': 'G. Charron'}]",NHL,MDA,2000-01,25,41,5,Mighty Ducks of Anaheim,.402,,11,82,5th
+83,"[{'link': '/coaches/hartscr01c.html', 'name': 'C. Hartsburg'}]",NHL,MDA,1999-00,34,33,3,Mighty Ducks of Anaheim,.506,,12,82,5th
+83,"[{'link': '/coaches/hartscr01c.html', 'name': 'C. Hartsburg'}]",NHL,MDA,1998-99,35,34,0,Mighty Ducks of Anaheim,.506,Lost NHL Conference Quarter-Finals,13,82,3rd
+65,"[{'link': '/coaches/pagepi99c.html', 'name': 'P. Page'}]",NHL,MDA,1997-98,26,43,0,Mighty Ducks of Anaheim,.396,,13,82,6th
+85,"[{'link': '/coaches/wilsoro02c.html', 'name': 'R. Wilson'}]",NHL,MDA,1996-97,36,33,0,Mighty Ducks of Anaheim,.518,Lost NHL Conference Semi-Finals,13,82,2nd
+78,"[{'link': '/coaches/wilsoro02c.html', 'name': 'R. Wilson'}]",NHL,MDA,1995-96,35,39,0,Mighty Ducks of Anaheim,.476,,8,82,4th
+37,"[{'link': '/coaches/wilsoro02c.html', 'name': 'R. Wilson'}]",NHL,MDA,1994-95,16,27,0,Mighty Ducks of Anaheim,.385,,5,48,6th
+71,"[{'link': '/coaches/wilsoro02c.html', 'name': 'R. Wilson'}]",NHL,MDA,1993-94,33,46,0,Mighty Ducks of Anaheim,.423,,5,84,4th

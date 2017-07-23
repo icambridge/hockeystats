@@ -1,28 +1,28 @@
-offensive_point_share,name,even_strength_goals,shorthanded_goals,plus_minus,shotsPercentage,age,shots,assists,positions,overall_point_share,points,games_played,power_play_assists,defensive_point_share,game_winning_goals,power_play_goals,total_ice_time,shorthanded_assists,goals,even_strength_assists,average_ice_time,pim
-8.2,Bobby Clarke,14,3,79,14.0,25,193,89,C,11.2,116,80,23,3.1,4,10,,2,27,64,,125
-6.1,Rick MacLeish,24,3,29,12.3,25,309,41,C,7.6,79,80,14,1.6,8,11,,1,38,26,,50
-6.5,Reggie Leach,33,0,53,15.6,24,289,33,RW,8.8,78,80,9,2.3,10,12,,0,45,24,,63
-5.1,Bill Barber,21,5,46,12.3,22,276,37,LW,7.2,71,79,15,2.1,4,8,,2,34,20,,66
-2.5,Ross Lonsberry,15,0,28,13.3,27,180,25,LW,4.0,49,80,4,1.5,3,9,,2,24,19,,99
-2.0,Gary Dornhoefer,12,2,23,14.8,31,115,27,RW,3.3,44,69,5,1.3,4,3,,0,17,22,,102
-1.8,Bill Clement,20,0,21,15.0,24,140,16,C,3.0,37,68,3,1.2,2,1,,1,21,12,,42
-1.8,Andre Dupont,9,0,41,6.7,25,164,21,D,8.4,32,80,6,6.6,4,2,,1,11,14,,276
-0.8,Orest Kindrachuk,9,0,8,9.6,24,104,21,C,1.5,31,60,3,0.8,2,1,,0,10,18,,72
-0.4,Bob Kelly,11,0,21,10.4,24,106,18,LW,1.6,29,67,0,1.2,1,0,,0,11,18,,99
-1.5,Tom Bladon,4,0,42,5.2,22,174,20,D,7.9,29,76,10,6.4,3,5,,0,9,10,,54
-0.4,Don Saleski,10,0,7,8.8,25,113,18,RW,1.1,28,63,0,0.8,2,0,,1,10,17,,107
--0.2,Terry Crisp,7,1,11,11.4,31,70,19,C,0.8,27,71,3,1.0,1,0,,1,8,15,,20
--0.4,Dave Schultz,9,0,16,9.7,25,93,17,LW,0.7,26,76,2,1.2,0,0,,0,9,15,,472
-1.2,Jimmy Watson,6,0,41,6.2,22,113,18,D,7.2,25,68,4,6.0,2,1,,0,7,14,,72
-0.7,Joe Watson,6,0,42,5.2,31,115,17,D,7.3,23,80,4,6.6,0,0,,0,6,13,,42
--0.1,Ed Van Impe,1,0,39,1.8,34,57,17,D,6.3,18,78,1,6.4,0,0,,2,1,14,,109
-0.8,Larry Goodenough,2,0,12,8.1,22,37,9,D,2.6,12,20,6,1.7,0,1,,0,3,3,,0
--0.8,Ted Harris,1,0,27,2.6,38,38,6,D,4.4,7,70,0,5.2,1,0,,0,1,6,,48
-0.0,Bob Sirois,1,0,1,33.3,20,3,0,RW,0.1,1,3,0,0.1,0,0,,0,1,0,,4
--0.1,Mike Boland,0,0,0,,25,0,0,RW,-0.1,0,2,0,0.0,0,0,,0,0,0,,0
--0.1,Serge Lajeunesse,0,0,1,0.0,24,6,0,D,0.2,0,5,0,0.3,0,0,,0,0,0,,2
-0.0,Jack McIlhargey,0,0,-1,0.0,22,1,0,D,0.0,0,2,0,0.0,0,0,,0,0,0,,11
-0.0,Randy Osburn,0,0,0,,22,0,0,LW,0.0,0,1,0,0.0,0,0,,0,0,0,,0
-0.0,Bernie Parent,0,0,0,,29,0,0,G,18.6,0,68,0,0.0,0,0,,0,0,0,,16
-0.0,Wayne Stephenson,0,0,0,,30,0,0,G,2.3,0,12,0,0.0,0,0,,0,0,0,,0
-0.0,Bobby Taylor,0,0,0,,30,0,0,G,-0.2,0,3,0,0.0,0,0,,0,0,0,,2
+shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
+3,,C,14.0,64,193,14,2,25,4,27,89,Bobby Clarke,11.2,3.1,116,10,125,,80,79,8.2,23,/players/c/clarkbo01.html
+3,,C,12.3,26,309,24,1,25,8,38,41,Rick MacLeish,7.6,1.6,79,11,50,,80,29,6.1,14,/players/m/macleri01.html
+0,,RW,15.6,24,289,33,0,24,10,45,33,Reggie Leach,8.8,2.3,78,12,63,,80,53,6.5,9,/players/l/leachre01.html
+5,,LW,12.3,20,276,21,2,22,4,34,37,Bill Barber,7.2,2.1,71,8,66,,79,46,5.1,15,/players/b/barbebi01.html
+0,,LW,13.3,19,180,15,2,27,3,24,25,Ross Lonsberry,4.0,1.5,49,9,99,,80,28,2.5,4,/players/l/lonsbro01.html
+2,,RW,14.8,22,115,12,0,31,4,17,27,Gary Dornhoefer,3.3,1.3,44,3,102,,69,23,2.0,5,/players/d/dornhga01.html
+0,,C,15.0,12,140,20,1,24,2,21,16,Bill Clement,3.0,1.2,37,1,42,,68,21,1.8,3,/players/c/clemebi01.html
+0,,D,6.7,14,164,9,1,25,4,11,21,Andre Dupont,8.4,6.6,32,2,276,,80,41,1.8,6,/players/d/duponan01.html
+0,,C,9.6,18,104,9,0,24,2,10,21,Orest Kindrachuk,1.5,0.8,31,1,72,,60,8,0.8,3,/players/k/kindror01.html
+0,,LW,10.4,18,106,11,0,24,1,11,18,Bob Kelly,1.6,1.2,29,0,99,,67,21,0.4,0,/players/k/kellybo02.html
+0,,D,5.2,10,174,4,0,22,3,9,20,Tom Bladon,7.9,6.4,29,5,54,,76,42,1.5,10,/players/b/bladoto01.html
+0,,RW,8.8,17,113,10,1,25,2,10,18,Don Saleski,1.1,0.8,28,0,107,,63,7,0.4,0,/players/s/salesdo01.html
+1,,C,11.4,15,70,7,1,31,1,8,19,Terry Crisp,0.8,1.0,27,0,20,,71,11,-0.2,3,/players/c/crispte01.html
+0,,LW,9.7,15,93,9,0,25,0,9,17,Dave Schultz,0.7,1.2,26,0,472,,76,16,-0.4,2,/players/s/schulda01.html
+0,,D,6.2,14,113,6,0,22,2,7,18,Jimmy Watson,7.2,6.0,25,1,72,,68,41,1.2,4,/players/w/watsoji02.html
+0,,D,5.2,13,115,6,0,31,0,6,17,Joe Watson,7.3,6.6,23,0,42,,80,42,0.7,4,/players/w/watsojo01.html
+0,,D,1.8,14,57,1,2,34,0,1,17,Ed Van Impe,6.3,6.4,18,0,109,,78,39,-0.1,1,/players/v/vanimed01.html
+0,,D,8.1,3,37,2,0,22,0,3,9,Larry Goodenough,2.6,1.7,12,1,0,,20,12,0.8,6,/players/g/goodela01.html
+0,,D,2.6,6,38,1,0,38,1,1,6,Ted Harris,4.4,5.2,7,0,48,,70,27,-0.8,0,/players/h/harrite01.html
+0,,RW,33.3,0,3,1,0,20,0,1,0,Bob Sirois,0.1,0.1,1,0,4,,3,1,0.0,0,/players/s/siroibo01.html
+0,,RW,,0,0,0,0,25,0,0,0,Mike Boland,-0.1,0.0,0,0,0,,2,0,-0.1,0,/players/b/bolanmi01.html
+0,,D,0.0,0,6,0,0,24,0,0,0,Serge Lajeunesse,0.2,0.3,0,0,2,,5,1,-0.1,0,/players/l/lajeuse01.html
+0,,D,0.0,0,1,0,0,22,0,0,0,Jack McIlhargey,0.0,0.0,0,0,11,,2,-1,0.0,0,/players/m/mcilhja01.html
+0,,LW,,0,0,0,0,22,0,0,0,Randy Osburn,0.0,0.0,0,0,0,,1,0,0.0,0,/players/o/osburra01.html
+0,,G,,0,0,0,0,29,0,0,0,Bernie Parent,18.6,0.0,0,0,16,,68,0,0.0,0,/players/p/parenbe01.html
+0,,G,,0,0,0,0,30,0,0,0,Wayne Stephenson,2.3,0.0,0,0,0,,12,0,0.0,0,/players/s/stephwa01.html
+0,,G,,0,0,0,0,30,0,0,0,Bobby Taylor,-0.2,0.0,0,0,2,,3,0,0.0,0,/players/t/taylobo02.html

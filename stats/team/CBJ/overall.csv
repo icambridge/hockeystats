@@ -1,18 +1,18 @@
-points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
-0,['J. Tortorella'],2017-18,0,0,0,0,0,,Columbus Blue Jackets,CBJ,,0,NHL
-108,['J. Tortorella'],2016-17,50,24,8,.659,82,3rd,Columbus Blue Jackets,CBJ,Lost NHL First Round,0,NHL
-76,"['T. Richards', 'J. Tortorella']",2015-16,34,40,8,.463,82,8th,Columbus Blue Jackets,CBJ,,0,NHL
-89,['T. Richards'],2014-15,42,35,5,.543,82,5th,Columbus Blue Jackets,CBJ,,0,NHL
-93,['T. Richards'],2013-14,43,32,7,.567,82,4th,Columbus Blue Jackets,CBJ,Lost NHL First Round,0,NHL
-55,['T. Richards'],2012-13,24,17,7,.573,48,4th,Columbus Blue Jackets,CBJ,,0,NHL
-65,"['S. Arniel', 'T. Richards']",2011-12,29,46,7,.396,82,5th,Columbus Blue Jackets,CBJ,,0,NHL
-81,['S. Arniel'],2010-11,34,35,13,.494,82,5th,Columbus Blue Jackets,CBJ,,0,NHL
-79,"['K. Hitchcock', 'C. Noel']",2009-10,32,35,15,.482,82,5th,Columbus Blue Jackets,CBJ,,0,NHL
-92,['K. Hitchcock'],2008-09,41,31,10,.561,82,4th,Columbus Blue Jackets,CBJ,Lost NHL Conference Quarter-Finals,0,NHL
-80,['K. Hitchcock'],2007-08,34,36,12,.488,82,4th,Columbus Blue Jackets,CBJ,,0,NHL
-73,"['G. Gallant', 'G. Agnew', 'K. Hitchcock']",2006-07,33,42,7,.445,82,4th,Columbus Blue Jackets,CBJ,,0,NHL
-74,['G. Gallant'],2005-06,35,43,4,.451,82,3rd,Columbus Blue Jackets,CBJ,,0,NHL
-62,"['D. MacLean', 'G. Gallant']",2003-04,25,45,4,.378,82,4th,Columbus Blue Jackets,CBJ,,8,NHL
-69,"['D. King', 'D. MacLean']",2002-03,29,42,3,.421,82,5th,Columbus Blue Jackets,CBJ,,8,NHL
-57,['D. King'],2001-02,22,47,5,.348,82,5th,Columbus Blue Jackets,CBJ,,8,NHL
-71,['D. King'],2000-01,28,39,6,.433,82,5th,Columbus Blue Jackets,CBJ,,9,NHL
+points,coaches,leage,code,season,wins,loses,overtime_loses,team_name,points_percentage,playoff_result,ties,games_played,finishing_position
+0,"[{'link': '/coaches/tortojo99c.html', 'name': 'J. Tortorella'}]",NHL,CBJ,2017-18,0,0,0,Columbus Blue Jackets,0,,0,0,
+108,"[{'link': '/coaches/tortojo99c.html', 'name': 'J. Tortorella'}]",NHL,CBJ,2016-17,50,24,8,Columbus Blue Jackets,.659,Lost NHL First Round,0,82,3rd
+76,"[{'link': '/coaches/richato01c.html', 'name': 'T. Richards'}, {'link': '/coaches/tortojo99c.html', 'name': 'J. Tortorella'}]",NHL,CBJ,2015-16,34,40,8,Columbus Blue Jackets,.463,,0,82,8th
+89,"[{'link': '/coaches/richato01c.html', 'name': 'T. Richards'}]",NHL,CBJ,2014-15,42,35,5,Columbus Blue Jackets,.543,,0,82,5th
+93,"[{'link': '/coaches/richato01c.html', 'name': 'T. Richards'}]",NHL,CBJ,2013-14,43,32,7,Columbus Blue Jackets,.567,Lost NHL First Round,0,82,4th
+55,"[{'link': '/coaches/richato01c.html', 'name': 'T. Richards'}]",NHL,CBJ,2012-13,24,17,7,Columbus Blue Jackets,.573,,0,48,4th
+65,"[{'link': '/coaches/arniesc01c.html', 'name': 'S. Arniel'}, {'link': '/coaches/richato01c.html', 'name': 'T. Richards'}]",NHL,CBJ,2011-12,29,46,7,Columbus Blue Jackets,.396,,0,82,5th
+81,"[{'link': '/coaches/arniesc01c.html', 'name': 'S. Arniel'}]",NHL,CBJ,2010-11,34,35,13,Columbus Blue Jackets,.494,,0,82,5th
+79,"[{'link': '/coaches/hitchke99c.html', 'name': 'K. Hitchcock'}, {'link': '/coaches/noelcl01c.html', 'name': 'C. Noel'}]",NHL,CBJ,2009-10,32,35,15,Columbus Blue Jackets,.482,,0,82,5th
+92,"[{'link': '/coaches/hitchke99c.html', 'name': 'K. Hitchcock'}]",NHL,CBJ,2008-09,41,31,10,Columbus Blue Jackets,.561,Lost NHL Conference Quarter-Finals,0,82,4th
+80,"[{'link': '/coaches/hitchke99c.html', 'name': 'K. Hitchcock'}]",NHL,CBJ,2007-08,34,36,12,Columbus Blue Jackets,.488,,0,82,4th
+73,"[{'link': '/coaches/gallage01c.html', 'name': 'G. Gallant'}, {'link': '/coaches/agnewga99c.html', 'name': 'G. Agnew'}, {'link': '/coaches/hitchke99c.html', 'name': 'K. Hitchcock'}]",NHL,CBJ,2006-07,33,42,7,Columbus Blue Jackets,.445,,0,82,4th
+74,"[{'link': '/coaches/gallage01c.html', 'name': 'G. Gallant'}]",NHL,CBJ,2005-06,35,43,4,Columbus Blue Jackets,.451,,0,82,3rd
+62,"[{'link': '/coaches/macledo99c.html', 'name': 'D. MacLean'}, {'link': '/coaches/gallage01c.html', 'name': 'G. Gallant'}]",NHL,CBJ,2003-04,25,45,4,Columbus Blue Jackets,.378,,8,82,4th
+69,"[{'link': '/coaches/kingda99c.html', 'name': 'D. King'}, {'link': '/coaches/macledo99c.html', 'name': 'D. MacLean'}]",NHL,CBJ,2002-03,29,42,3,Columbus Blue Jackets,.421,,8,82,5th
+57,"[{'link': '/coaches/kingda99c.html', 'name': 'D. King'}]",NHL,CBJ,2001-02,22,47,5,Columbus Blue Jackets,.348,,8,82,5th
+71,"[{'link': '/coaches/kingda99c.html', 'name': 'D. King'}]",NHL,CBJ,2000-01,28,39,6,Columbus Blue Jackets,.433,,9,82,5th

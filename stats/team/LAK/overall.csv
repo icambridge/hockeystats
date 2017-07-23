@@ -1,51 +1,51 @@
-points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
-0,['J. Stevens'],2017-18,0,0,0,0,0,,Los Angeles Kings,LAK,,0,NHL
-86,['D. Sutter'],2016-17,39,35,8,.524,82,5th,Los Angeles Kings,LAK,,0,NHL
-102,['D. Sutter'],2015-16,48,28,6,.622,82,2nd,Los Angeles Kings,LAK,Lost NHL First Round,0,NHL
-95,['D. Sutter'],2014-15,40,27,15,.579,82,4th,Los Angeles Kings,LAK,,0,NHL
-100,['D. Sutter'],2013-14,46,28,8,.610,82,3rd,Los Angeles Kings,LAK,,0,NHL
-59,['D. Sutter'],2012-13,27,16,5,.615,48,2nd,Los Angeles Kings,LAK,Lost NHL Conference Finals,0,NHL
-95,"['T. Murray', 'J. Stevens', 'D. Sutter']",2011-12,40,27,15,.579,82,3rd,Los Angeles Kings,LAK,,0,NHL
-98,['T. Murray'],2010-11,46,30,6,.598,82,4th,Los Angeles Kings,LAK,Lost NHL Conference Quarter-Finals,0,NHL
-101,['T. Murray'],2009-10,46,27,9,.616,82,3rd,Los Angeles Kings,LAK,Lost NHL Conference Quarter-Finals,0,NHL
-79,['T. Murray'],2008-09,34,37,11,.482,82,5th,Los Angeles Kings,LAK,,0,NHL
-71,['M. Crawford'],2007-08,32,43,7,.433,82,5th,Los Angeles Kings,LAK,,0,NHL
-68,['M. Crawford'],2006-07,27,41,14,.415,82,4th,Los Angeles Kings,LAK,,0,NHL
-89,"['A. Murray', 'J. Torchetti']",2005-06,42,35,5,.543,82,4th,Los Angeles Kings,LAK,,0,NHL
-81,['A. Murray'],2003-04,28,29,9,.494,82,3rd,Los Angeles Kings,LAK,,16,NHL
-78,['A. Murray'],2002-03,33,37,6,.476,82,3rd,Los Angeles Kings,LAK,,6,NHL
-95,['A. Murray'],2001-02,40,27,4,.579,82,3rd,Los Angeles Kings,LAK,Lost NHL Conference Quarter-Finals,11,NHL
-92,['A. Murray'],2000-01,38,28,3,.561,82,3rd,Los Angeles Kings,LAK,Lost NHL Conference Semi-Finals,13,NHL
-94,['A. Murray'],1999-00,39,27,4,.573,82,2nd,Los Angeles Kings,LAK,Lost NHL Conference Quarter-Finals,12,NHL
-69,['L. Robinson'],1998-99,32,45,0,.421,82,5th,Los Angeles Kings,LAK,,5,NHL
-87,['L. Robinson'],1997-98,38,33,0,.530,82,2nd,Los Angeles Kings,LAK,Lost NHL Conference Quarter-Finals,11,NHL
-67,['L. Robinson'],1996-97,28,43,0,.409,82,6th,Los Angeles Kings,LAK,,11,NHL
-66,['L. Robinson'],1995-96,24,40,0,.402,82,6th,Los Angeles Kings,LAK,,18,NHL
-41,"['B. Melrose', 'R. Vachon']",1994-95,16,23,0,.427,48,4th,Los Angeles Kings,LAK,,9,NHL
-66,['B. Melrose'],1993-94,27,45,0,.393,84,5th,Los Angeles Kings,LAK,,12,NHL
-88,['B. Melrose'],1992-93,39,35,0,.524,84,3rd,Los Angeles Kings,LAK,Lost Stanley Cup Final,10,NHL
-84,['T. Webster'],1991-92,35,31,0,.525,80,2nd,Los Angeles Kings,LAK,Lost NHL Division Semi-Finals,14,NHL
-102,['T. Webster'],1990-91,46,24,0,.638,80,1st,Los Angeles Kings,LAK,Lost NHL Division Finals,10,NHL
-75,['T. Webster'],1989-90,34,39,0,.469,80,4th,Los Angeles Kings,LAK,Lost NHL Division Finals,7,NHL
-91,['R. Ftorek'],1988-89,42,31,0,.569,80,2nd,Los Angeles Kings,LAK,Lost NHL Division Finals,7,NHL
-68,"['M. Murphy', 'R. Vachon', 'R. Ftorek']",1987-88,30,42,0,.425,80,4th,Los Angeles Kings,LAK,Lost NHL Division Semi-Finals,8,NHL
-70,"['P. Quinn', 'M. Murphy']",1986-87,31,41,0,.438,80,4th,Los Angeles Kings,LAK,Lost NHL Division Semi-Finals,8,NHL
-54,['P. Quinn'],1985-86,23,49,0,.338,80,5th,Los Angeles Kings,LAK,,8,NHL
-82,['P. Quinn'],1984-85,34,32,0,.513,80,4th,Los Angeles Kings,LAK,Lost NHL Division Semi-Finals,14,NHL
-59,"['D. Perry', 'R. Vachon', 'R. Neilson']",1983-84,23,44,0,.369,80,5th,Los Angeles Kings,LAK,,13,NHL
-66,['D. Perry'],1982-83,27,41,0,.413,80,5th,Los Angeles Kings,LAK,,12,NHL
-63,"['P. MacDonald', 'D. Perry']",1981-82,24,41,0,.394,80,4th,Los Angeles Kings,LAK,Lost NHL Division Finals,15,NHL
-99,['B. Berry'],1980-81,43,24,0,.619,80,2nd,Los Angeles Kings,LAK,Lost NHL Preliminary Round,13,NHL
-74,['B. Berry'],1979-80,30,36,0,.463,80,2nd,Los Angeles Kings,LAK,Lost NHL Preliminary Round,14,NHL
-80,['B. Berry'],1978-79,34,34,0,.500,80,3rd,Los Angeles Kings,LAK,Lost NHL Preliminary Round,12,NHL
-77,['R. Stewart'],1977-78,31,34,0,.481,80,3rd,Los Angeles Kings,LAK,Lost NHL Preliminary Round,15,NHL
-83,['B. Pulford'],1976-77,34,31,0,.519,80,2nd,Los Angeles Kings,LAK,Lost NHL Quarter-Finals,15,NHL
-85,['B. Pulford'],1975-76,38,33,0,.531,80,2nd,Los Angeles Kings,LAK,Lost NHL Quarter-Finals,9,NHL
-105,['B. Pulford'],1974-75,42,17,0,.656,80,2nd,Los Angeles Kings,LAK,Lost NHL Preliminary Round,21,NHL
-78,['B. Pulford'],1973-74,33,33,0,.500,78,3rd,Los Angeles Kings,LAK,Lost NHL Quarter-Finals,12,NHL
-73,['B. Pulford'],1972-73,31,36,0,.468,78,6th,Los Angeles Kings,LAK,,11,NHL
-49,"['L. Regan', 'F. Glover']",1971-72,20,49,0,.314,78,7th,Los Angeles Kings,LAK,,9,NHL
-63,['L. Regan'],1970-71,25,40,0,.404,78,5th,Los Angeles Kings,LAK,,13,NHL
-38,"['H. Laycoe', 'J. Wilson']",1969-70,14,52,0,.250,76,6th,Los Angeles Kings,LAK,,10,NHL
-58,['R. Kelly'],1968-69,24,42,0,.382,76,4th,Los Angeles Kings,LAK,Lost NHL Semi-Finals,10,NHL
-72,['R. Kelly'],1967-68,31,33,0,.486,74,2nd,Los Angeles Kings,LAK,Lost NHL Quarter-Finals,10,NHL
+points,coaches,leage,code,season,wins,loses,overtime_loses,team_name,points_percentage,playoff_result,ties,games_played,finishing_position
+0,"[{'link': '/coaches/stevejo01c.html', 'name': 'J. Stevens'}]",NHL,LAK,2017-18,0,0,0,Los Angeles Kings,0,,0,0,
+86,"[{'link': '/coaches/sutteda01c.html', 'name': 'D. Sutter'}]",NHL,LAK,2016-17,39,35,8,Los Angeles Kings,.524,,0,82,5th
+102,"[{'link': '/coaches/sutteda01c.html', 'name': 'D. Sutter'}]",NHL,LAK,2015-16,48,28,6,Los Angeles Kings,.622,Lost NHL First Round,0,82,2nd
+95,"[{'link': '/coaches/sutteda01c.html', 'name': 'D. Sutter'}]",NHL,LAK,2014-15,40,27,15,Los Angeles Kings,.579,,0,82,4th
+100,"[{'link': '/coaches/sutteda01c.html', 'name': 'D. Sutter'}]",NHL,LAK,2013-14,46,28,8,Los Angeles Kings,.610,,0,82,3rd
+59,"[{'link': '/coaches/sutteda01c.html', 'name': 'D. Sutter'}]",NHL,LAK,2012-13,27,16,5,Los Angeles Kings,.615,Lost NHL Conference Finals,0,48,2nd
+95,"[{'link': '/coaches/murrate01c.html', 'name': 'T. Murray'}, {'link': '/coaches/stevejo01c.html', 'name': 'J. Stevens'}, {'link': '/coaches/sutteda01c.html', 'name': 'D. Sutter'}]",NHL,LAK,2011-12,40,27,15,Los Angeles Kings,.579,,0,82,3rd
+98,"[{'link': '/coaches/murrate01c.html', 'name': 'T. Murray'}]",NHL,LAK,2010-11,46,30,6,Los Angeles Kings,.598,Lost NHL Conference Quarter-Finals,0,82,4th
+101,"[{'link': '/coaches/murrate01c.html', 'name': 'T. Murray'}]",NHL,LAK,2009-10,46,27,9,Los Angeles Kings,.616,Lost NHL Conference Quarter-Finals,0,82,3rd
+79,"[{'link': '/coaches/murrate01c.html', 'name': 'T. Murray'}]",NHL,LAK,2008-09,34,37,11,Los Angeles Kings,.482,,0,82,5th
+71,"[{'link': '/coaches/crawfma01c.html', 'name': 'M. Crawford'}]",NHL,LAK,2007-08,32,43,7,Los Angeles Kings,.433,,0,82,5th
+68,"[{'link': '/coaches/crawfma01c.html', 'name': 'M. Crawford'}]",NHL,LAK,2006-07,27,41,14,Los Angeles Kings,.415,,0,82,4th
+89,"[{'link': '/coaches/murraan99c.html', 'name': 'A. Murray'}, {'link': '/coaches/torchjo99c.html', 'name': 'J. Torchetti'}]",NHL,LAK,2005-06,42,35,5,Los Angeles Kings,.543,,0,82,4th
+81,"[{'link': '/coaches/murraan99c.html', 'name': 'A. Murray'}]",NHL,LAK,2003-04,28,29,9,Los Angeles Kings,.494,,16,82,3rd
+78,"[{'link': '/coaches/murraan99c.html', 'name': 'A. Murray'}]",NHL,LAK,2002-03,33,37,6,Los Angeles Kings,.476,,6,82,3rd
+95,"[{'link': '/coaches/murraan99c.html', 'name': 'A. Murray'}]",NHL,LAK,2001-02,40,27,4,Los Angeles Kings,.579,Lost NHL Conference Quarter-Finals,11,82,3rd
+92,"[{'link': '/coaches/murraan99c.html', 'name': 'A. Murray'}]",NHL,LAK,2000-01,38,28,3,Los Angeles Kings,.561,Lost NHL Conference Semi-Finals,13,82,3rd
+94,"[{'link': '/coaches/murraan99c.html', 'name': 'A. Murray'}]",NHL,LAK,1999-00,39,27,4,Los Angeles Kings,.573,Lost NHL Conference Quarter-Finals,12,82,2nd
+69,"[{'link': '/coaches/robinla01c.html', 'name': 'L. Robinson'}]",NHL,LAK,1998-99,32,45,0,Los Angeles Kings,.421,,5,82,5th
+87,"[{'link': '/coaches/robinla01c.html', 'name': 'L. Robinson'}]",NHL,LAK,1997-98,38,33,0,Los Angeles Kings,.530,Lost NHL Conference Quarter-Finals,11,82,2nd
+67,"[{'link': '/coaches/robinla01c.html', 'name': 'L. Robinson'}]",NHL,LAK,1996-97,28,43,0,Los Angeles Kings,.409,,11,82,6th
+66,"[{'link': '/coaches/robinla01c.html', 'name': 'L. Robinson'}]",NHL,LAK,1995-96,24,40,0,Los Angeles Kings,.402,,18,82,6th
+41,"[{'link': '/coaches/melroba01c.html', 'name': 'B. Melrose'}, {'link': '/coaches/vachoro01c.html', 'name': 'R. Vachon'}]",NHL,LAK,1994-95,16,23,0,Los Angeles Kings,.427,,9,48,4th
+66,"[{'link': '/coaches/melroba01c.html', 'name': 'B. Melrose'}]",NHL,LAK,1993-94,27,45,0,Los Angeles Kings,.393,,12,84,5th
+88,"[{'link': '/coaches/melroba01c.html', 'name': 'B. Melrose'}]",NHL,LAK,1992-93,39,35,0,Los Angeles Kings,.524,Lost Stanley Cup Final,10,84,3rd
+84,"[{'link': '/coaches/webstto01c.html', 'name': 'T. Webster'}]",NHL,LAK,1991-92,35,31,0,Los Angeles Kings,.525,Lost NHL Division Semi-Finals,14,80,2nd
+102,"[{'link': '/coaches/webstto01c.html', 'name': 'T. Webster'}]",NHL,LAK,1990-91,46,24,0,Los Angeles Kings,.638,Lost NHL Division Finals,10,80,1st
+75,"[{'link': '/coaches/webstto01c.html', 'name': 'T. Webster'}]",NHL,LAK,1989-90,34,39,0,Los Angeles Kings,.469,Lost NHL Division Finals,7,80,4th
+91,"[{'link': '/coaches/ftorero01c.html', 'name': 'R. Ftorek'}]",NHL,LAK,1988-89,42,31,0,Los Angeles Kings,.569,Lost NHL Division Finals,7,80,2nd
+68,"[{'link': '/coaches/murphmi01c.html', 'name': 'M. Murphy'}, {'link': '/coaches/vachoro01c.html', 'name': 'R. Vachon'}, {'link': '/coaches/ftorero01c.html', 'name': 'R. Ftorek'}]",NHL,LAK,1987-88,30,42,0,Los Angeles Kings,.425,Lost NHL Division Semi-Finals,8,80,4th
+70,"[{'link': '/coaches/quinnpa01c.html', 'name': 'P. Quinn'}, {'link': '/coaches/murphmi01c.html', 'name': 'M. Murphy'}]",NHL,LAK,1986-87,31,41,0,Los Angeles Kings,.438,Lost NHL Division Semi-Finals,8,80,4th
+54,"[{'link': '/coaches/quinnpa01c.html', 'name': 'P. Quinn'}]",NHL,LAK,1985-86,23,49,0,Los Angeles Kings,.338,,8,80,5th
+82,"[{'link': '/coaches/quinnpa01c.html', 'name': 'P. Quinn'}]",NHL,LAK,1984-85,34,32,0,Los Angeles Kings,.513,Lost NHL Division Semi-Finals,14,80,4th
+59,"[{'link': '/coaches/perrydo99c.html', 'name': 'D. Perry'}, {'link': '/coaches/vachoro01c.html', 'name': 'R. Vachon'}, {'link': '/coaches/neilsro99c.html', 'name': 'R. Neilson'}]",NHL,LAK,1983-84,23,44,0,Los Angeles Kings,.369,,13,80,5th
+66,"[{'link': '/coaches/perrydo99c.html', 'name': 'D. Perry'}]",NHL,LAK,1982-83,27,41,0,Los Angeles Kings,.413,,12,80,5th
+63,"[{'link': '/coaches/macdopa01c.html', 'name': 'P. MacDonald'}, {'link': '/coaches/perrydo99c.html', 'name': 'D. Perry'}]",NHL,LAK,1981-82,24,41,0,Los Angeles Kings,.394,Lost NHL Division Finals,15,80,4th
+99,"[{'link': '/coaches/berrybo01c.html', 'name': 'B. Berry'}]",NHL,LAK,1980-81,43,24,0,Los Angeles Kings,.619,Lost NHL Preliminary Round,13,80,2nd
+74,"[{'link': '/coaches/berrybo01c.html', 'name': 'B. Berry'}]",NHL,LAK,1979-80,30,36,0,Los Angeles Kings,.463,Lost NHL Preliminary Round,14,80,2nd
+80,"[{'link': '/coaches/berrybo01c.html', 'name': 'B. Berry'}]",NHL,LAK,1978-79,34,34,0,Los Angeles Kings,.500,Lost NHL Preliminary Round,12,80,3rd
+77,"[{'link': '/coaches/stewaro01c.html', 'name': 'R. Stewart'}]",NHL,LAK,1977-78,31,34,0,Los Angeles Kings,.481,Lost NHL Preliminary Round,15,80,3rd
+83,"[{'link': '/coaches/pulfobo01c.html', 'name': 'B. Pulford'}]",NHL,LAK,1976-77,34,31,0,Los Angeles Kings,.519,Lost NHL Quarter-Finals,15,80,2nd
+85,"[{'link': '/coaches/pulfobo01c.html', 'name': 'B. Pulford'}]",NHL,LAK,1975-76,38,33,0,Los Angeles Kings,.531,Lost NHL Quarter-Finals,9,80,2nd
+105,"[{'link': '/coaches/pulfobo01c.html', 'name': 'B. Pulford'}]",NHL,LAK,1974-75,42,17,0,Los Angeles Kings,.656,Lost NHL Preliminary Round,21,80,2nd
+78,"[{'link': '/coaches/pulfobo01c.html', 'name': 'B. Pulford'}]",NHL,LAK,1973-74,33,33,0,Los Angeles Kings,.500,Lost NHL Quarter-Finals,12,78,3rd
+73,"[{'link': '/coaches/pulfobo01c.html', 'name': 'B. Pulford'}]",NHL,LAK,1972-73,31,36,0,Los Angeles Kings,.468,,11,78,6th
+49,"[{'link': '/coaches/reganla01c.html', 'name': 'L. Regan'}, {'link': '/coaches/glovefr01c.html', 'name': 'F. Glover'}]",NHL,LAK,1971-72,20,49,0,Los Angeles Kings,.314,,9,78,7th
+63,"[{'link': '/coaches/reganla01c.html', 'name': 'L. Regan'}]",NHL,LAK,1970-71,25,40,0,Los Angeles Kings,.404,,13,78,5th
+38,"[{'link': '/coaches/laycoha01c.html', 'name': 'H. Laycoe'}, {'link': '/coaches/wilsojo01c.html', 'name': 'J. Wilson'}]",NHL,LAK,1969-70,14,52,0,Los Angeles Kings,.250,,10,76,6th
+58,"[{'link': '/coaches/kellyre01c.html', 'name': 'R. Kelly'}]",NHL,LAK,1968-69,24,42,0,Los Angeles Kings,.382,Lost NHL Semi-Finals,10,76,4th
+72,"[{'link': '/coaches/kellyre01c.html', 'name': 'R. Kelly'}]",NHL,LAK,1967-68,31,33,0,Los Angeles Kings,.486,Lost NHL Quarter-Finals,10,74,2nd

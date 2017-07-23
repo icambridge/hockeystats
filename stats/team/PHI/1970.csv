@@ -1,27 +1,27 @@
-offensive_point_share,name,even_strength_goals,shorthanded_goals,plus_minus,shotsPercentage,age,shots,assists,positions,overall_point_share,points,games_played,power_play_assists,defensive_point_share,game_winning_goals,power_play_goals,total_ice_time,shorthanded_assists,goals,even_strength_assists,average_ice_time,pim
-4.2,Andre Lacroix,16,0,-6,12.6,24,175,36,C,5.1,58,74,17,0.8,4,6,,0,22,19,,14
-4.7,Gary Dornhoefer,20,2,2,17.8,26,146,29,RW,5.7,55,65,5,1.0,1,4,,0,26,24,,96
-3.0,Jim Johnson,14,2,1,10.7,27,168,30,C,4.0,48,72,2,1.0,1,2,,2,18,26,,17
-2.4,Bobby Clarke,9,1,1,7.0,20,214,31,C,3.4,46,76,11,1.1,0,5,,1,15,19,,68
-3.1,Jean-Guy Gendron,18,0,8,14.8,35,155,21,LW,4.4,44,71,10,1.3,1,5,,0,23,11,,54
-3.7,Simon Nolet,16,0,12,13.5,28,163,22,RW,4.9,44,56,9,1.2,4,6,,0,22,13,,36
-2.2,Bill Sutherland,12,0,-2,14.6,35,103,17,LW,2.8,32,51,2,0.6,1,3,,1,15,14,,30
-1.9,Larry Hillman,3,0,-9,2.0,32,252,26,D,5.9,31,76,7,4.0,0,2,,0,5,19,,73
-0.5,Reggie Fleming,7,0,-4,7.0,33,129,18,LW,1.2,27,65,3,0.8,1,2,,1,9,14,,134
-1.8,Terry Ball,3,1,-7,7.1,25,98,18,D,5.1,25,61,13,3.3,0,3,,0,7,5,,20
--0.3,Lew Morrison,6,0,-3,6.9,21,130,10,RW,0.5,19,66,0,0.8,3,3,,0,9,10,,19
--0.6,Garry Peters,5,0,-9,5.9,27,102,10,C,-0.1,16,59,1,0.5,0,1,,1,6,8,,69
--0.8,Earl Heiskala,8,0,-15,7.0,27,114,7,LW,-0.4,15,65,1,0.4,0,0,,0,8,6,,171
-0.5,Joe Watson,2,0,0,2.9,26,102,11,D,3.8,14,54,1,3.3,0,1,,1,3,9,,28
-0.0,Larry Hale,1,0,-4,2.9,28,34,9,D,2.9,10,53,0,3.0,0,0,,0,1,9,,28
--0.4,Ed Van Impe,0,0,-1,0.0,29,81,10,D,3.6,10,65,1,3.9,0,0,,1,0,8,,117
--0.3,Wayne Hillman,1,0,-9,3.8,31,79,5,D,3.2,8,68,2,3.6,0,2,,0,3,3,,69
--0.4,Dick Cherry,3,0,-24,3.0,32,99,4,D,2.1,7,68,2,2.5,1,0,,0,3,2,,23
-0.0,Bernie Parent,0,0,0,0.0,24,1,3,G,10.6,3,62,0,0.0,0,0,,0,0,0,,14
--0.1,Rosaire Paiement,1,0,-2,3.4,24,29,1,RW,-0.1,2,9,0,0.1,0,0,,0,1,1,,11
--0.5,Dick Sarrazin,0,0,-2,3.1,24,32,1,RW,-0.3,2,18,0,0.2,0,1,,0,1,1,,4
-0.1,Serge Bernier,0,0,-1,0.0,22,2,1,C,0.0,1,1,0,0.0,0,0,,0,0,1,,0
-0.0,Darryl Edestrand,0,0,-1,0.0,24,3,0,D,0.0,0,2,0,0.1,0,0,,0,0,0,,6
-0.0,Doug Favell,0,0,0,0.0,24,1,0,G,1.9,0,15,0,0.0,0,0,,0,0,0,,2
--0.3,Ralph MacSweyn,0,0,-7,0.0,27,8,0,D,0.2,0,17,0,0.6,0,0,,0,0,0,,4
-0.0,Dunc Wilson,0,0,0,,21,0,0,G,0.2,0,1,0,0.0,0,0,,0,0,0,,0
+shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
+0,,C,12.6,19,175,16,0,24,4,22,36,Andre Lacroix,5.1,0.8,58,6,14,,74,-6,4.2,17,/players/l/lacroan01.html
+2,,RW,17.8,24,146,20,0,26,1,26,29,Gary Dornhoefer,5.7,1.0,55,4,96,,65,2,4.7,5,/players/d/dornhga01.html
+2,,C,10.7,26,168,14,2,27,1,18,30,Jim Johnson,4.0,1.0,48,2,17,,72,1,3.0,2,/players/j/johnsji01.html
+1,,C,7.0,19,214,9,1,20,0,15,31,Bobby Clarke,3.4,1.1,46,5,68,,76,1,2.4,11,/players/c/clarkbo01.html
+0,,LW,14.8,11,155,18,0,35,1,23,21,Jean-Guy Gendron,4.4,1.3,44,5,54,,71,8,3.1,10,/players/g/gendrje01.html
+0,,RW,13.5,13,163,16,0,28,4,22,22,Simon Nolet,4.9,1.2,44,6,36,,56,12,3.7,9,/players/n/noletsi01.html
+0,,LW,14.6,14,103,12,1,35,1,15,17,Bill Sutherland,2.8,0.6,32,3,30,,51,-2,2.2,2,/players/s/suthebi01.html
+0,,D,2.0,19,252,3,0,32,0,5,26,Larry Hillman,5.9,4.0,31,2,73,,76,-9,1.9,7,/players/h/hillmla01.html
+0,,LW,7.0,14,129,7,1,33,1,9,18,Reggie Fleming,1.2,0.8,27,2,134,,65,-4,0.5,3,/players/f/flemire01.html
+1,,D,7.1,5,98,3,0,25,0,7,18,Terry Ball,5.1,3.3,25,3,20,,61,-7,1.8,13,/players/b/ballte01.html
+0,,RW,6.9,10,130,6,0,21,3,9,10,Lew Morrison,0.5,0.8,19,3,19,,66,-3,-0.3,0,/players/m/morrile01.html
+0,,C,5.9,8,102,5,1,27,0,6,10,Garry Peters,-0.1,0.5,16,1,69,,59,-9,-0.6,1,/players/p/peterga01.html
+0,,LW,7.0,6,114,8,0,27,0,8,7,Earl Heiskala,-0.4,0.4,15,0,171,,65,-15,-0.8,1,/players/h/heiskea01.html
+0,,D,2.9,9,102,2,1,26,0,3,11,Joe Watson,3.8,3.3,14,1,28,,54,0,0.5,1,/players/w/watsojo01.html
+0,,D,2.9,9,34,1,0,28,0,1,9,Larry Hale,2.9,3.0,10,0,28,,53,-4,0.0,0,/players/h/halela01.html
+0,,D,0.0,8,81,0,1,29,0,0,10,Ed Van Impe,3.6,3.9,10,0,117,,65,-1,-0.4,1,/players/v/vanimed01.html
+0,,D,3.8,3,79,1,0,31,0,3,5,Wayne Hillman,3.2,3.6,8,2,69,,68,-9,-0.3,2,/players/h/hillmwa01.html
+0,,D,3.0,2,99,3,0,32,1,3,4,Dick Cherry,2.1,2.5,7,0,23,,68,-24,-0.4,2,/players/c/cherrdi01.html
+0,,G,0.0,0,1,0,0,24,0,0,3,Bernie Parent,10.6,0.0,3,0,14,,62,0,0.0,0,/players/p/parenbe01.html
+0,,RW,3.4,1,29,1,0,24,0,1,1,Rosaire Paiement,-0.1,0.1,2,0,11,,9,-2,-0.1,0,/players/p/paiemro01.html
+0,,RW,3.1,1,32,0,0,24,0,1,1,Dick Sarrazin,-0.3,0.2,2,1,4,,18,-2,-0.5,0,/players/s/sarradi01.html
+0,,C,0.0,1,2,0,0,22,0,0,1,Serge Bernier,0.0,0.0,1,0,0,,1,-1,0.1,0,/players/b/bernise01.html
+0,,D,0.0,0,3,0,0,24,0,0,0,Darryl Edestrand,0.0,0.1,0,0,6,,2,-1,0.0,0,/players/e/edestda01.html
+0,,G,0.0,0,1,0,0,24,0,0,0,Doug Favell,1.9,0.0,0,0,2,,15,0,0.0,0,/players/f/faveldo01.html
+0,,D,0.0,0,8,0,0,27,0,0,0,Ralph MacSweyn,0.2,0.6,0,0,4,,17,-7,-0.3,0,/players/m/macswra01.html
+0,,G,,0,0,0,0,21,0,0,0,Dunc Wilson,0.2,0.0,0,0,0,,1,0,0.0,0,/players/w/wilsodu01.html

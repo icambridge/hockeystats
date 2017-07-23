@@ -1,51 +1,51 @@
-points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
-0,['K. Hitchcock'],2017-18,0,0,0,0,0,,Dallas Stars,DAL,,0,NHL
-79,['L. Ruff'],2016-17,34,37,11,.482,82,6th,Dallas Stars,DAL,,0,NHL
-109,['L. Ruff'],2015-16,50,23,9,.665,82,1st,Dallas Stars,DAL,Lost NHL Second Round,0,NHL
-92,['L. Ruff'],2014-15,41,31,10,.561,82,6th,Dallas Stars,DAL,,0,NHL
-91,['L. Ruff'],2013-14,40,31,11,.555,82,5th,Dallas Stars,DAL,Lost NHL First Round,0,NHL
-48,['G. Gulutzan'],2012-13,22,22,4,.500,48,5th,Dallas Stars,DAL,,0,NHL
-89,['G. Gulutzan'],2011-12,42,35,5,.543,82,4th,Dallas Stars,DAL,,0,NHL
-95,['M. Crawford'],2010-11,42,29,11,.579,82,5th,Dallas Stars,DAL,,0,NHL
-88,['M. Crawford'],2009-10,37,31,14,.537,82,5th,Dallas Stars,DAL,,0,NHL
-83,['D. Tippett'],2008-09,36,35,11,.506,82,3rd,Dallas Stars,DAL,,0,NHL
-97,['D. Tippett'],2007-08,45,30,7,.591,82,3rd,Dallas Stars,DAL,Lost NHL Conference Finals,0,NHL
-107,['D. Tippett'],2006-07,50,25,7,.652,82,3rd,Dallas Stars,DAL,Lost NHL Conference Quarter-Finals,0,NHL
-112,['D. Tippett'],2005-06,53,23,6,.683,82,1st,Dallas Stars,DAL,Lost NHL Conference Quarter-Finals,0,NHL
-97,['D. Tippett'],2003-04,41,26,2,.591,82,2nd,Dallas Stars,DAL,Lost NHL Conference Quarter-Finals,13,NHL
-111,['D. Tippett'],2002-03,46,17,4,.677,82,1st,Dallas Stars,DAL,Lost NHL Conference Semi-Finals,15,NHL
-90,"['K. Hitchcock', 'R. Wilson']",2001-02,36,28,5,.549,82,4th,Dallas Stars,DAL,,13,NHL
-106,['K. Hitchcock'],2000-01,48,24,2,.646,82,1st,Dallas Stars,DAL,Lost NHL Conference Semi-Finals,8,NHL
-102,['K. Hitchcock'],1999-00,43,23,6,.622,82,1st,Dallas Stars,DAL,Lost Stanley Cup Final,10,NHL
-114,['K. Hitchcock'],1998-99,51,19,0,.695,82,1st,Dallas Stars,DAL,,12,NHL
-109,['K. Hitchcock'],1997-98,49,22,0,.665,82,1st,Dallas Stars,DAL,Lost NHL Conference Finals,11,NHL
-104,['K. Hitchcock'],1996-97,48,26,0,.634,82,1st,Dallas Stars,DAL,Lost NHL Conference Quarter-Finals,8,NHL
-66,"['B. Gainey', 'K. Hitchcock']",1995-96,26,42,0,.402,82,6th,Dallas Stars,DAL,,14,NHL
-42,['B. Gainey'],1994-95,17,23,0,.438,48,5th,Dallas Stars,DAL,Lost NHL Conference Quarter-Finals,8,NHL
-97,['B. Gainey'],1993-94,42,29,0,.577,84,3rd,Dallas Stars,DAL,Lost NHL Conference Semi-Finals,13,NHL
-82,['B. Gainey'],1992-93,36,38,0,.488,84,5th,Minnesota North Stars,MNS,,10,NHL
-70,['B. Gainey'],1991-92,32,42,0,.438,80,4th,Minnesota North Stars,MNS,Lost NHL Division Semi-Finals,6,NHL
-68,['B. Gainey'],1990-91,27,39,0,.425,80,4th,Minnesota North Stars,MNS,Lost Stanley Cup Final,14,NHL
-76,['P. Page'],1989-90,36,40,0,.475,80,4th,Minnesota North Stars,MNS,Lost NHL Division Semi-Finals,4,NHL
-70,['P. Page'],1988-89,27,37,0,.438,80,3rd,Minnesota North Stars,MNS,Lost NHL Division Semi-Finals,16,NHL
-51,['H. Brooks'],1987-88,19,48,0,.319,80,5th,Minnesota North Stars,MNS,,13,NHL
-70,"['L. Henning', 'G. Sonmor']",1986-87,30,40,0,.438,80,5th,Minnesota North Stars,MNS,,10,NHL
-85,['L. Henning'],1985-86,38,33,0,.531,80,2nd,Minnesota North Stars,MNS,Lost NHL Division Semi-Finals,9,NHL
-62,"['B. Mahoney', 'G. Sonmor']",1984-85,25,43,0,.388,80,4th,Minnesota North Stars,MNS,Lost NHL Division Finals,12,NHL
-88,['B. Mahoney'],1983-84,39,31,0,.550,80,1st,Minnesota North Stars,MNS,Lost NHL Conference Finals,10,NHL
-96,"['G. Sonmor', 'M. Oliver']",1982-83,40,24,0,.600,80,2nd,Minnesota North Stars,MNS,Lost NHL Division Finals,16,NHL
-94,['G. Sonmor'],1981-82,37,23,0,.588,80,1st,Minnesota North Stars,MNS,Lost NHL Division Semi-Finals,20,NHL
-87,['G. Sonmor'],1980-81,35,28,0,.544,80,3rd,Minnesota North Stars,MNS,Lost Stanley Cup Final,17,NHL
-88,['G. Sonmor'],1979-80,36,28,0,.550,80,3rd,Minnesota North Stars,MNS,Lost NHL Semi-Finals,16,NHL
-68,"['H. Howell', 'G. Sonmor']",1978-79,28,40,0,.425,80,4th,Minnesota North Stars,MNS,,12,NHL
-45,"['T. Harris', 'A. Beaulieu', 'L. Nanne']",1977-78,18,53,0,.281,80,5th,Minnesota North Stars,MNS,,9,NHL
-64,['T. Harris'],1976-77,23,39,0,.400,80,2nd,Minnesota North Stars,MNS,Lost NHL Preliminary Round,18,NHL
-47,['T. Harris'],1975-76,20,53,0,.294,80,4th,Minnesota North Stars,MNS,,7,NHL
-53,"['J. Gordon', 'C. Burns']",1974-75,23,50,0,.331,80,4th,Minnesota North Stars,MNS,,7,NHL
-63,"['J. Gordon', 'P. MacDonald']",1973-74,23,38,0,.404,78,7th,Minnesota North Stars,MNS,,17,NHL
-85,['J. Gordon'],1972-73,37,30,0,.545,78,3rd,Minnesota North Stars,MNS,Lost NHL Quarter-Finals,11,NHL
-86,['J. Gordon'],1971-72,37,29,0,.551,78,2nd,Minnesota North Stars,MNS,Lost NHL Quarter-Finals,12,NHL
-72,['J. Gordon'],1970-71,28,34,0,.462,78,4th,Minnesota North Stars,MNS,Lost NHL Semi-Finals,16,NHL
-60,"['W. Blair', 'C. Burns']",1969-70,19,35,0,.395,76,3rd,Minnesota North Stars,MNS,Lost NHL Quarter-Finals,22,NHL
-51,"['W. Blair', 'J. Muckler']",1968-69,18,43,0,.336,76,6th,Minnesota North Stars,MNS,,15,NHL
-69,['W. Blair'],1967-68,27,32,0,.466,74,4th,Minnesota North Stars,MNS,Lost NHL Semi-Finals,15,NHL
+points,coaches,leage,code,season,wins,loses,overtime_loses,team_name,points_percentage,playoff_result,ties,games_played,finishing_position
+0,"[{'link': '/coaches/hitchke99c.html', 'name': 'K. Hitchcock'}]",NHL,DAL,2017-18,0,0,0,Dallas Stars,0,,0,0,
+79,"[{'link': '/coaches/ruffli01c.html', 'name': 'L. Ruff'}]",NHL,DAL,2016-17,34,37,11,Dallas Stars,.482,,0,82,6th
+109,"[{'link': '/coaches/ruffli01c.html', 'name': 'L. Ruff'}]",NHL,DAL,2015-16,50,23,9,Dallas Stars,.665,Lost NHL Second Round,0,82,1st
+92,"[{'link': '/coaches/ruffli01c.html', 'name': 'L. Ruff'}]",NHL,DAL,2014-15,41,31,10,Dallas Stars,.561,,0,82,6th
+91,"[{'link': '/coaches/ruffli01c.html', 'name': 'L. Ruff'}]",NHL,DAL,2013-14,40,31,11,Dallas Stars,.555,Lost NHL First Round,0,82,5th
+48,"[{'link': '/coaches/gulutgl99c.html', 'name': 'G. Gulutzan'}]",NHL,DAL,2012-13,22,22,4,Dallas Stars,.500,,0,48,5th
+89,"[{'link': '/coaches/gulutgl99c.html', 'name': 'G. Gulutzan'}]",NHL,DAL,2011-12,42,35,5,Dallas Stars,.543,,0,82,4th
+95,"[{'link': '/coaches/crawfma01c.html', 'name': 'M. Crawford'}]",NHL,DAL,2010-11,42,29,11,Dallas Stars,.579,,0,82,5th
+88,"[{'link': '/coaches/crawfma01c.html', 'name': 'M. Crawford'}]",NHL,DAL,2009-10,37,31,14,Dallas Stars,.537,,0,82,5th
+83,"[{'link': '/coaches/tippeda01c.html', 'name': 'D. Tippett'}]",NHL,DAL,2008-09,36,35,11,Dallas Stars,.506,,0,82,3rd
+97,"[{'link': '/coaches/tippeda01c.html', 'name': 'D. Tippett'}]",NHL,DAL,2007-08,45,30,7,Dallas Stars,.591,Lost NHL Conference Finals,0,82,3rd
+107,"[{'link': '/coaches/tippeda01c.html', 'name': 'D. Tippett'}]",NHL,DAL,2006-07,50,25,7,Dallas Stars,.652,Lost NHL Conference Quarter-Finals,0,82,3rd
+112,"[{'link': '/coaches/tippeda01c.html', 'name': 'D. Tippett'}]",NHL,DAL,2005-06,53,23,6,Dallas Stars,.683,Lost NHL Conference Quarter-Finals,0,82,1st
+97,"[{'link': '/coaches/tippeda01c.html', 'name': 'D. Tippett'}]",NHL,DAL,2003-04,41,26,2,Dallas Stars,.591,Lost NHL Conference Quarter-Finals,13,82,2nd
+111,"[{'link': '/coaches/tippeda01c.html', 'name': 'D. Tippett'}]",NHL,DAL,2002-03,46,17,4,Dallas Stars,.677,Lost NHL Conference Semi-Finals,15,82,1st
+90,"[{'link': '/coaches/hitchke99c.html', 'name': 'K. Hitchcock'}, {'link': '/coaches/wilsori01c.html', 'name': 'R. Wilson'}]",NHL,DAL,2001-02,36,28,5,Dallas Stars,.549,,13,82,4th
+106,"[{'link': '/coaches/hitchke99c.html', 'name': 'K. Hitchcock'}]",NHL,DAL,2000-01,48,24,2,Dallas Stars,.646,Lost NHL Conference Semi-Finals,8,82,1st
+102,"[{'link': '/coaches/hitchke99c.html', 'name': 'K. Hitchcock'}]",NHL,DAL,1999-00,43,23,6,Dallas Stars,.622,Lost Stanley Cup Final,10,82,1st
+114,"[{'link': '/coaches/hitchke99c.html', 'name': 'K. Hitchcock'}]",NHL,DAL,1998-99,51,19,0,Dallas Stars,.695,,12,82,1st
+109,"[{'link': '/coaches/hitchke99c.html', 'name': 'K. Hitchcock'}]",NHL,DAL,1997-98,49,22,0,Dallas Stars,.665,Lost NHL Conference Finals,11,82,1st
+104,"[{'link': '/coaches/hitchke99c.html', 'name': 'K. Hitchcock'}]",NHL,DAL,1996-97,48,26,0,Dallas Stars,.634,Lost NHL Conference Quarter-Finals,8,82,1st
+66,"[{'link': '/coaches/gainebo01c.html', 'name': 'B. Gainey'}, {'link': '/coaches/hitchke99c.html', 'name': 'K. Hitchcock'}]",NHL,DAL,1995-96,26,42,0,Dallas Stars,.402,,14,82,6th
+42,"[{'link': '/coaches/gainebo01c.html', 'name': 'B. Gainey'}]",NHL,DAL,1994-95,17,23,0,Dallas Stars,.438,Lost NHL Conference Quarter-Finals,8,48,5th
+97,"[{'link': '/coaches/gainebo01c.html', 'name': 'B. Gainey'}]",NHL,DAL,1993-94,42,29,0,Dallas Stars,.577,Lost NHL Conference Semi-Finals,13,84,3rd
+82,"[{'link': '/coaches/gainebo01c.html', 'name': 'B. Gainey'}]",NHL,MNS,1992-93,36,38,0,Minnesota North Stars,.488,,10,84,5th
+70,"[{'link': '/coaches/gainebo01c.html', 'name': 'B. Gainey'}]",NHL,MNS,1991-92,32,42,0,Minnesota North Stars,.438,Lost NHL Division Semi-Finals,6,80,4th
+68,"[{'link': '/coaches/gainebo01c.html', 'name': 'B. Gainey'}]",NHL,MNS,1990-91,27,39,0,Minnesota North Stars,.425,Lost Stanley Cup Final,14,80,4th
+76,"[{'link': '/coaches/pagepi99c.html', 'name': 'P. Page'}]",NHL,MNS,1989-90,36,40,0,Minnesota North Stars,.475,Lost NHL Division Semi-Finals,4,80,4th
+70,"[{'link': '/coaches/pagepi99c.html', 'name': 'P. Page'}]",NHL,MNS,1988-89,27,37,0,Minnesota North Stars,.438,Lost NHL Division Semi-Finals,16,80,3rd
+51,"[{'link': '/coaches/brookhe99c.html', 'name': 'H. Brooks'}]",NHL,MNS,1987-88,19,48,0,Minnesota North Stars,.319,,13,80,5th
+70,"[{'link': '/coaches/hennilo01c.html', 'name': 'L. Henning'}, {'link': '/coaches/sonmogl01c.html', 'name': 'G. Sonmor'}]",NHL,MNS,1986-87,30,40,0,Minnesota North Stars,.438,,10,80,5th
+85,"[{'link': '/coaches/hennilo01c.html', 'name': 'L. Henning'}]",NHL,MNS,1985-86,38,33,0,Minnesota North Stars,.531,Lost NHL Division Semi-Finals,9,80,2nd
+62,"[{'link': '/coaches/mahonbi99c.html', 'name': 'B. Mahoney'}, {'link': '/coaches/sonmogl01c.html', 'name': 'G. Sonmor'}]",NHL,MNS,1984-85,25,43,0,Minnesota North Stars,.388,Lost NHL Division Finals,12,80,4th
+88,"[{'link': '/coaches/mahonbi99c.html', 'name': 'B. Mahoney'}]",NHL,MNS,1983-84,39,31,0,Minnesota North Stars,.550,Lost NHL Conference Finals,10,80,1st
+96,"[{'link': '/coaches/sonmogl01c.html', 'name': 'G. Sonmor'}, {'link': '/coaches/olivemu01c.html', 'name': 'M. Oliver'}]",NHL,MNS,1982-83,40,24,0,Minnesota North Stars,.600,Lost NHL Division Finals,16,80,2nd
+94,"[{'link': '/coaches/sonmogl01c.html', 'name': 'G. Sonmor'}]",NHL,MNS,1981-82,37,23,0,Minnesota North Stars,.588,Lost NHL Division Semi-Finals,20,80,1st
+87,"[{'link': '/coaches/sonmogl01c.html', 'name': 'G. Sonmor'}]",NHL,MNS,1980-81,35,28,0,Minnesota North Stars,.544,Lost Stanley Cup Final,17,80,3rd
+88,"[{'link': '/coaches/sonmogl01c.html', 'name': 'G. Sonmor'}]",NHL,MNS,1979-80,36,28,0,Minnesota North Stars,.550,Lost NHL Semi-Finals,16,80,3rd
+68,"[{'link': '/coaches/howelha01c.html', 'name': 'H. Howell'}, {'link': '/coaches/sonmogl01c.html', 'name': 'G. Sonmor'}]",NHL,MNS,1978-79,28,40,0,Minnesota North Stars,.425,,12,80,4th
+45,"[{'link': '/coaches/harrite01c.html', 'name': 'T. Harris'}, {'link': '/coaches/beaulan99c.html', 'name': 'A. Beaulieu'}, {'link': '/coaches/nannelo01c.html', 'name': 'L. Nanne'}]",NHL,MNS,1977-78,18,53,0,Minnesota North Stars,.281,,9,80,5th
+64,"[{'link': '/coaches/harrite01c.html', 'name': 'T. Harris'}]",NHL,MNS,1976-77,23,39,0,Minnesota North Stars,.400,Lost NHL Preliminary Round,18,80,2nd
+47,"[{'link': '/coaches/harrite01c.html', 'name': 'T. Harris'}]",NHL,MNS,1975-76,20,53,0,Minnesota North Stars,.294,,7,80,4th
+53,"[{'link': '/coaches/gordoja01c.html', 'name': 'J. Gordon'}, {'link': '/coaches/burnsch01c.html', 'name': 'C. Burns'}]",NHL,MNS,1974-75,23,50,0,Minnesota North Stars,.331,,7,80,4th
+63,"[{'link': '/coaches/gordoja01c.html', 'name': 'J. Gordon'}, {'link': '/coaches/macdopa01c.html', 'name': 'P. MacDonald'}]",NHL,MNS,1973-74,23,38,0,Minnesota North Stars,.404,,17,78,7th
+85,"[{'link': '/coaches/gordoja01c.html', 'name': 'J. Gordon'}]",NHL,MNS,1972-73,37,30,0,Minnesota North Stars,.545,Lost NHL Quarter-Finals,11,78,3rd
+86,"[{'link': '/coaches/gordoja01c.html', 'name': 'J. Gordon'}]",NHL,MNS,1971-72,37,29,0,Minnesota North Stars,.551,Lost NHL Quarter-Finals,12,78,2nd
+72,"[{'link': '/coaches/gordoja01c.html', 'name': 'J. Gordon'}]",NHL,MNS,1970-71,28,34,0,Minnesota North Stars,.462,Lost NHL Semi-Finals,16,78,4th
+60,"[{'link': '/coaches/blairwr99c.html', 'name': 'W. Blair'}, {'link': '/coaches/burnsch01c.html', 'name': 'C. Burns'}]",NHL,MNS,1969-70,19,35,0,Minnesota North Stars,.395,Lost NHL Quarter-Finals,22,76,3rd
+51,"[{'link': '/coaches/blairwr99c.html', 'name': 'W. Blair'}, {'link': '/coaches/muckljo99c.html', 'name': 'J. Muckler'}]",NHL,MNS,1968-69,18,43,0,Minnesota North Stars,.336,,15,76,6th
+69,"[{'link': '/coaches/blairwr99c.html', 'name': 'W. Blair'}]",NHL,MNS,1967-68,27,32,0,Minnesota North Stars,.466,Lost NHL Semi-Finals,15,74,4th

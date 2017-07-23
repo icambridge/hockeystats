@@ -1,25 +1,25 @@
-points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
-0,['B. Boughner'],2017-18,0,0,0,0,0,,Florida Panthers,FLA,,0,NHL
-81,"['G. Gallant', 'T. Rowe']",2016-17,35,36,11,.494,82,6th,Florida Panthers,FLA,,0,NHL
-103,['G. Gallant'],2015-16,47,26,9,.628,82,1st,Florida Panthers,FLA,Lost NHL First Round,0,NHL
-91,['G. Gallant'],2014-15,38,29,15,.555,82,6th,Florida Panthers,FLA,,0,NHL
-66,"['K. Dineen', 'P. Horachek']",2013-14,29,45,8,.402,82,7th,Florida Panthers,FLA,,0,NHL
-36,['K. Dineen'],2012-13,15,27,6,.375,48,5th,Florida Panthers,FLA,,0,NHL
-94,['K. Dineen'],2011-12,38,26,18,.573,82,1st,Florida Panthers,FLA,Lost NHL Conference Quarter-Finals,0,NHL
-72,['P. DeBoer'],2010-11,30,40,12,.439,82,5th,Florida Panthers,FLA,,0,NHL
-77,['P. DeBoer'],2009-10,32,37,13,.470,82,5th,Florida Panthers,FLA,,0,NHL
-93,['P. DeBoer'],2008-09,41,30,11,.567,82,3rd,Florida Panthers,FLA,,0,NHL
-85,['J. Martin'],2007-08,38,35,9,.518,82,3rd,Florida Panthers,FLA,,0,NHL
-86,['J. Martin'],2006-07,35,31,16,.524,82,4th,Florida Panthers,FLA,,0,NHL
-85,['J. Martin'],2005-06,37,34,11,.518,82,4th,Florida Panthers,FLA,,0,NHL
-75,"['M. Keenan', 'R. Dudley', 'J. Torchetti']",2003-04,28,35,4,.457,82,4th,Florida Panthers,FLA,,15,NHL
-70,['M. Keenan'],2002-03,24,36,9,.427,82,4th,Florida Panthers,FLA,,13,NHL
-60,"['D. Sutter', 'M. Keenan']",2001-02,22,44,6,.366,82,4th,Florida Panthers,FLA,,10,NHL
-66,"['T. Murray', 'D. Sutter']",2000-01,22,38,9,.402,82,3rd,Florida Panthers,FLA,,13,NHL
-98,['T. Murray'],1999-00,43,27,6,.598,82,2nd,Florida Panthers,FLA,Lost NHL Conference Quarter-Finals,6,NHL
-78,['T. Murray'],1998-99,30,34,0,.476,82,2nd,Florida Panthers,FLA,,18,NHL
-63,"['D. MacLean', 'B. Murray']",1997-98,24,43,0,.384,82,6th,Florida Panthers,FLA,,15,NHL
-89,['D. MacLean'],1996-97,35,28,0,.543,82,3rd,Florida Panthers,FLA,Lost NHL Conference Quarter-Finals,19,NHL
-92,['D. MacLean'],1995-96,41,31,0,.561,82,3rd,Florida Panthers,FLA,Lost Stanley Cup Final,10,NHL
-46,['R. Neilson'],1994-95,20,22,0,.479,48,5th,Florida Panthers,FLA,,6,NHL
-83,['R. Neilson'],1993-94,33,34,0,.494,84,5th,Florida Panthers,FLA,,17,NHL
+points,coaches,leage,code,season,wins,loses,overtime_loses,team_name,points_percentage,playoff_result,ties,games_played,finishing_position
+0,"[{'link': '/coaches/boughbo01c.html', 'name': 'B. Boughner'}]",NHL,FLA,2017-18,0,0,0,Florida Panthers,0,,0,0,
+81,"[{'link': '/coaches/gallage01c.html', 'name': 'G. Gallant'}, {'link': '/coaches/roweto01c.html', 'name': 'T. Rowe'}]",NHL,FLA,2016-17,35,36,11,Florida Panthers,.494,,0,82,6th
+103,"[{'link': '/coaches/gallage01c.html', 'name': 'G. Gallant'}]",NHL,FLA,2015-16,47,26,9,Florida Panthers,.628,Lost NHL First Round,0,82,1st
+91,"[{'link': '/coaches/gallage01c.html', 'name': 'G. Gallant'}]",NHL,FLA,2014-15,38,29,15,Florida Panthers,.555,,0,82,6th
+66,"[{'link': '/coaches/dineeke01c.html', 'name': 'K. Dineen'}, {'link': '/coaches/horacpe01c.html', 'name': 'P. Horachek'}]",NHL,FLA,2013-14,29,45,8,Florida Panthers,.402,,0,82,7th
+36,"[{'link': '/coaches/dineeke01c.html', 'name': 'K. Dineen'}]",NHL,FLA,2012-13,15,27,6,Florida Panthers,.375,,0,48,5th
+94,"[{'link': '/coaches/dineeke01c.html', 'name': 'K. Dineen'}]",NHL,FLA,2011-12,38,26,18,Florida Panthers,.573,Lost NHL Conference Quarter-Finals,0,82,1st
+72,"[{'link': '/coaches/deboepe99c.html', 'name': 'P. DeBoer'}]",NHL,FLA,2010-11,30,40,12,Florida Panthers,.439,,0,82,5th
+77,"[{'link': '/coaches/deboepe99c.html', 'name': 'P. DeBoer'}]",NHL,FLA,2009-10,32,37,13,Florida Panthers,.470,,0,82,5th
+93,"[{'link': '/coaches/deboepe99c.html', 'name': 'P. DeBoer'}]",NHL,FLA,2008-09,41,30,11,Florida Panthers,.567,,0,82,3rd
+85,"[{'link': '/coaches/martija99c.html', 'name': 'J. Martin'}]",NHL,FLA,2007-08,38,35,9,Florida Panthers,.518,,0,82,3rd
+86,"[{'link': '/coaches/martija99c.html', 'name': 'J. Martin'}]",NHL,FLA,2006-07,35,31,16,Florida Panthers,.524,,0,82,4th
+85,"[{'link': '/coaches/martija99c.html', 'name': 'J. Martin'}]",NHL,FLA,2005-06,37,34,11,Florida Panthers,.518,,0,82,4th
+75,"[{'link': '/coaches/keenami99c.html', 'name': 'M. Keenan'}, {'link': '/coaches/dudleri01c.html', 'name': 'R. Dudley'}, {'link': '/coaches/torchjo99c.html', 'name': 'J. Torchetti'}]",NHL,FLA,2003-04,28,35,4,Florida Panthers,.457,,15,82,4th
+70,"[{'link': '/coaches/keenami99c.html', 'name': 'M. Keenan'}]",NHL,FLA,2002-03,24,36,9,Florida Panthers,.427,,13,82,4th
+60,"[{'link': '/coaches/suttedu01c.html', 'name': 'D. Sutter'}, {'link': '/coaches/keenami99c.html', 'name': 'M. Keenan'}]",NHL,FLA,2001-02,22,44,6,Florida Panthers,.366,,10,82,4th
+66,"[{'link': '/coaches/murrate01c.html', 'name': 'T. Murray'}, {'link': '/coaches/suttedu01c.html', 'name': 'D. Sutter'}]",NHL,FLA,2000-01,22,38,9,Florida Panthers,.402,,13,82,3rd
+98,"[{'link': '/coaches/murrate01c.html', 'name': 'T. Murray'}]",NHL,FLA,1999-00,43,27,6,Florida Panthers,.598,Lost NHL Conference Quarter-Finals,6,82,2nd
+78,"[{'link': '/coaches/murrate01c.html', 'name': 'T. Murray'}]",NHL,FLA,1998-99,30,34,0,Florida Panthers,.476,,18,82,2nd
+63,"[{'link': '/coaches/macledo99c.html', 'name': 'D. MacLean'}, {'link': '/coaches/murrabr99c.html', 'name': 'B. Murray'}]",NHL,FLA,1997-98,24,43,0,Florida Panthers,.384,,15,82,6th
+89,"[{'link': '/coaches/macledo99c.html', 'name': 'D. MacLean'}]",NHL,FLA,1996-97,35,28,0,Florida Panthers,.543,Lost NHL Conference Quarter-Finals,19,82,3rd
+92,"[{'link': '/coaches/macledo99c.html', 'name': 'D. MacLean'}]",NHL,FLA,1995-96,41,31,0,Florida Panthers,.561,Lost Stanley Cup Final,10,82,3rd
+46,"[{'link': '/coaches/neilsro99c.html', 'name': 'R. Neilson'}]",NHL,FLA,1994-95,20,22,0,Florida Panthers,.479,,6,48,5th
+83,"[{'link': '/coaches/neilsro99c.html', 'name': 'R. Neilson'}]",NHL,FLA,1993-94,33,34,0,Florida Panthers,.494,,17,84,5th

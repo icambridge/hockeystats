@@ -1,20 +1,20 @@
-points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
-0,['P. Laviolette'],2017-18,0,0,0,0,0,,Nashville Predators,NSH,,0,NHL
-94,['P. Laviolette'],2016-17,41,29,12,.573,82,4th,Nashville Predators,NSH,Lost Stanley Cup Final,0,NHL
-96,['P. Laviolette'],2015-16,41,27,14,.585,82,4th,Nashville Predators,NSH,Lost NHL Second Round,0,NHL
-104,['P. Laviolette'],2014-15,47,25,10,.634,82,2nd,Nashville Predators,NSH,Lost NHL First Round,0,NHL
-88,['B. Trotz'],2013-14,38,32,12,.537,82,6th,Nashville Predators,NSH,,0,NHL
-41,['B. Trotz'],2012-13,16,23,9,.427,48,5th,Nashville Predators,NSH,,0,NHL
-104,['B. Trotz'],2011-12,48,26,8,.634,82,2nd,Nashville Predators,NSH,Lost NHL Conference Semi-Finals,0,NHL
-99,['B. Trotz'],2010-11,44,27,11,.604,82,2nd,Nashville Predators,NSH,Lost NHL Conference Semi-Finals,0,NHL
-100,['B. Trotz'],2009-10,47,29,6,.610,82,3rd,Nashville Predators,NSH,Lost NHL Conference Quarter-Finals,0,NHL
-88,['B. Trotz'],2008-09,40,34,8,.537,82,5th,Nashville Predators,NSH,,0,NHL
-91,['B. Trotz'],2007-08,41,32,9,.555,82,2nd,Nashville Predators,NSH,Lost NHL Conference Quarter-Finals,0,NHL
-110,['B. Trotz'],2006-07,51,23,8,.671,82,2nd,Nashville Predators,NSH,Lost NHL Conference Quarter-Finals,0,NHL
-106,['B. Trotz'],2005-06,49,25,8,.646,82,2nd,Nashville Predators,NSH,Lost NHL Conference Quarter-Finals,0,NHL
-91,['B. Trotz'],2003-04,38,29,4,.555,82,3rd,Nashville Predators,NSH,Lost NHL Conference Quarter-Finals,11,NHL
-74,['B. Trotz'],2002-03,27,35,7,.451,82,4th,Nashville Predators,NSH,,13,NHL
-69,['B. Trotz'],2001-02,28,41,0,.421,82,4th,Nashville Predators,NSH,,13,NHL
-80,['B. Trotz'],2000-01,34,36,3,.488,82,3rd,Nashville Predators,NSH,,9,NHL
-70,['B. Trotz'],1999-00,28,40,7,.427,82,4th,Nashville Predators,NSH,,7,NHL
-63,['B. Trotz'],1998-99,28,47,0,.384,82,4th,Nashville Predators,NSH,,7,NHL
+points,coaches,leage,code,season,wins,loses,overtime_loses,team_name,points_percentage,playoff_result,ties,games_played,finishing_position
+0,"[{'link': '/coaches/laviope01c.html', 'name': 'P. Laviolette'}]",NHL,NSH,2017-18,0,0,0,Nashville Predators,0,,0,0,
+94,"[{'link': '/coaches/laviope01c.html', 'name': 'P. Laviolette'}]",NHL,NSH,2016-17,41,29,12,Nashville Predators,.573,Lost Stanley Cup Final,0,82,4th
+96,"[{'link': '/coaches/laviope01c.html', 'name': 'P. Laviolette'}]",NHL,NSH,2015-16,41,27,14,Nashville Predators,.585,Lost NHL Second Round,0,82,4th
+104,"[{'link': '/coaches/laviope01c.html', 'name': 'P. Laviolette'}]",NHL,NSH,2014-15,47,25,10,Nashville Predators,.634,Lost NHL First Round,0,82,2nd
+88,"[{'link': '/coaches/trotzba99c.html', 'name': 'B. Trotz'}]",NHL,NSH,2013-14,38,32,12,Nashville Predators,.537,,0,82,6th
+41,"[{'link': '/coaches/trotzba99c.html', 'name': 'B. Trotz'}]",NHL,NSH,2012-13,16,23,9,Nashville Predators,.427,,0,48,5th
+104,"[{'link': '/coaches/trotzba99c.html', 'name': 'B. Trotz'}]",NHL,NSH,2011-12,48,26,8,Nashville Predators,.634,Lost NHL Conference Semi-Finals,0,82,2nd
+99,"[{'link': '/coaches/trotzba99c.html', 'name': 'B. Trotz'}]",NHL,NSH,2010-11,44,27,11,Nashville Predators,.604,Lost NHL Conference Semi-Finals,0,82,2nd
+100,"[{'link': '/coaches/trotzba99c.html', 'name': 'B. Trotz'}]",NHL,NSH,2009-10,47,29,6,Nashville Predators,.610,Lost NHL Conference Quarter-Finals,0,82,3rd
+88,"[{'link': '/coaches/trotzba99c.html', 'name': 'B. Trotz'}]",NHL,NSH,2008-09,40,34,8,Nashville Predators,.537,,0,82,5th
+91,"[{'link': '/coaches/trotzba99c.html', 'name': 'B. Trotz'}]",NHL,NSH,2007-08,41,32,9,Nashville Predators,.555,Lost NHL Conference Quarter-Finals,0,82,2nd
+110,"[{'link': '/coaches/trotzba99c.html', 'name': 'B. Trotz'}]",NHL,NSH,2006-07,51,23,8,Nashville Predators,.671,Lost NHL Conference Quarter-Finals,0,82,2nd
+106,"[{'link': '/coaches/trotzba99c.html', 'name': 'B. Trotz'}]",NHL,NSH,2005-06,49,25,8,Nashville Predators,.646,Lost NHL Conference Quarter-Finals,0,82,2nd
+91,"[{'link': '/coaches/trotzba99c.html', 'name': 'B. Trotz'}]",NHL,NSH,2003-04,38,29,4,Nashville Predators,.555,Lost NHL Conference Quarter-Finals,11,82,3rd
+74,"[{'link': '/coaches/trotzba99c.html', 'name': 'B. Trotz'}]",NHL,NSH,2002-03,27,35,7,Nashville Predators,.451,,13,82,4th
+69,"[{'link': '/coaches/trotzba99c.html', 'name': 'B. Trotz'}]",NHL,NSH,2001-02,28,41,0,Nashville Predators,.421,,13,82,4th
+80,"[{'link': '/coaches/trotzba99c.html', 'name': 'B. Trotz'}]",NHL,NSH,2000-01,34,36,3,Nashville Predators,.488,,9,82,3rd
+70,"[{'link': '/coaches/trotzba99c.html', 'name': 'B. Trotz'}]",NHL,NSH,1999-00,28,40,7,Nashville Predators,.427,,7,82,4th
+63,"[{'link': '/coaches/trotzba99c.html', 'name': 'B. Trotz'}]",NHL,NSH,1998-99,28,47,0,Nashville Predators,.384,,7,82,4th

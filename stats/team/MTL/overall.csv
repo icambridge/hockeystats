@@ -1,101 +1,101 @@
-points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
-0,['C. Julien'],2017-18,0,0,0,0,0,,Montreal Canadiens,MTL,,0,NHL
-103,"['M. Therrien', 'C. Julien']",2016-17,47,26,9,.628,82,1st,Montreal Canadiens,MTL,Lost NHL First Round,0,NHL
-82,['M. Therrien'],2015-16,38,38,6,.500,82,6th,Montreal Canadiens,MTL,,0,NHL
-110,['M. Therrien'],2014-15,50,22,10,.671,82,1st,Montreal Canadiens,MTL,Lost NHL Second Round,0,NHL
-100,['M. Therrien'],2013-14,46,28,8,.610,82,3rd,Montreal Canadiens,MTL,Lost NHL Conference Finals,0,NHL
-63,['M. Therrien'],2012-13,29,14,5,.656,48,1st,Montreal Canadiens,MTL,Lost NHL Conference Quarter-Finals,0,NHL
-78,"['J. Martin', 'R. Cunneyworth']",2011-12,31,35,16,.476,82,5th,Montreal Canadiens,MTL,,0,NHL
-96,['J. Martin'],2010-11,44,30,8,.585,82,2nd,Montreal Canadiens,MTL,Lost NHL Conference Quarter-Finals,0,NHL
-88,['J. Martin'],2009-10,39,33,10,.537,82,4th,Montreal Canadiens,MTL,Lost NHL Conference Finals,0,NHL
-93,"['G. Carbonneau', 'B. Gainey']",2008-09,41,30,11,.567,82,2nd,Montreal Canadiens,MTL,Lost NHL Conference Quarter-Finals,0,NHL
-104,['G. Carbonneau'],2007-08,47,25,10,.634,82,1st,Montreal Canadiens,MTL,Lost NHL Conference Semi-Finals,0,NHL
-90,['G. Carbonneau'],2006-07,42,34,6,.549,82,4th,Montreal Canadiens,MTL,,0,NHL
-93,"['C. Julien', 'B. Gainey']",2005-06,42,31,9,.567,82,3rd,Montreal Canadiens,MTL,Lost NHL Conference Quarter-Finals,0,NHL
-93,['C. Julien'],2003-04,41,30,4,.567,82,4th,Montreal Canadiens,MTL,Lost NHL Conference Semi-Finals,7,NHL
-77,"['M. Therrien', 'C. Julien']",2002-03,30,35,9,.470,82,4th,Montreal Canadiens,MTL,,8,NHL
-87,['M. Therrien'],2001-02,36,31,3,.530,82,4th,Montreal Canadiens,MTL,Lost NHL Conference Semi-Finals,12,NHL
-70,"['A. Vigneault', 'M. Therrien']",2000-01,28,40,6,.427,82,5th,Montreal Canadiens,MTL,,8,NHL
-83,['A. Vigneault'],1999-00,35,34,4,.506,82,4th,Montreal Canadiens,MTL,,9,NHL
-75,['A. Vigneault'],1998-99,32,39,0,.457,82,5th,Montreal Canadiens,MTL,,11,NHL
-87,['A. Vigneault'],1997-98,37,32,0,.530,82,4th,Montreal Canadiens,MTL,Lost NHL Conference Semi-Finals,13,NHL
-77,['M. Tremblay'],1996-97,31,36,0,.470,82,4th,Montreal Canadiens,MTL,Lost NHL Conference Quarter-Finals,15,NHL
-90,"['J. Demers', 'J. Laperriere', 'M. Tremblay']",1995-96,40,32,0,.549,82,3rd,Montreal Canadiens,MTL,Lost NHL Conference Quarter-Finals,10,NHL
-43,['J. Demers'],1994-95,18,23,0,.448,48,6th,Montreal Canadiens,MTL,,7,NHL
-96,['J. Demers'],1993-94,41,29,0,.571,84,3rd,Montreal Canadiens,MTL,Lost NHL Conference Quarter-Finals,14,NHL
-102,['J. Demers'],1992-93,48,30,0,.607,84,3rd,Montreal Canadiens,MTL,,6,NHL
-93,['P. Burns'],1991-92,41,28,0,.581,80,1st,Montreal Canadiens,MTL,Lost NHL Division Finals,11,NHL
-89,['P. Burns'],1990-91,39,30,0,.556,80,2nd,Montreal Canadiens,MTL,Lost NHL Division Finals,11,NHL
-93,['P. Burns'],1989-90,41,28,0,.581,80,3rd,Montreal Canadiens,MTL,Lost NHL Division Finals,11,NHL
-115,['P. Burns'],1988-89,53,18,0,.719,80,1st,Montreal Canadiens,MTL,Lost Stanley Cup Final,9,NHL
-103,['J. Perron'],1987-88,45,22,0,.644,80,1st,Montreal Canadiens,MTL,Lost NHL Division Finals,13,NHL
-92,['J. Perron'],1986-87,41,29,0,.575,80,2nd,Montreal Canadiens,MTL,Lost NHL Conference Finals,10,NHL
-87,['J. Perron'],1985-86,40,33,0,.544,80,2nd,Montreal Canadiens,MTL,,7,NHL
-94,['J. Lemaire'],1984-85,41,27,0,.588,80,1st,Montreal Canadiens,MTL,Lost NHL Division Finals,12,NHL
-75,"['B. Berry', 'J. Lemaire']",1983-84,35,40,0,.469,80,4th,Montreal Canadiens,MTL,Lost NHL Conference Finals,5,NHL
-98,['B. Berry'],1982-83,42,24,0,.613,80,2nd,Montreal Canadiens,MTL,Lost NHL Division Semi-Finals,14,NHL
-109,['B. Berry'],1981-82,46,17,0,.681,80,1st,Montreal Canadiens,MTL,Lost NHL Division Semi-Finals,17,NHL
-103,['C. Ruel'],1980-81,45,22,0,.644,80,1st,Montreal Canadiens,MTL,Lost NHL Preliminary Round,13,NHL
-107,"['B. Geoffrion', 'C. Ruel']",1979-80,47,20,0,.669,80,1st,Montreal Canadiens,MTL,Lost NHL Quarter-Finals,13,NHL
-115,['S. Bowman'],1978-79,52,17,0,.719,80,1st,Montreal Canadiens,MTL,,11,NHL
-129,['S. Bowman'],1977-78,59,10,0,.806,80,1st,Montreal Canadiens,MTL,,11,NHL
-132,['S. Bowman'],1976-77,60,8,0,.825,80,1st,Montreal Canadiens,MTL,,12,NHL
-127,['S. Bowman'],1975-76,58,11,0,.794,80,1st,Montreal Canadiens,MTL,,11,NHL
-113,['S. Bowman'],1974-75,47,14,0,.706,80,1st,Montreal Canadiens,MTL,Lost NHL Semi-Finals,19,NHL
-99,['S. Bowman'],1973-74,45,24,0,.635,78,2nd,Montreal Canadiens,MTL,Lost NHL Quarter-Finals,9,NHL
-120,['S. Bowman'],1972-73,52,10,0,.769,78,1st,Montreal Canadiens,MTL,,16,NHL
-108,['S. Bowman'],1971-72,46,16,0,.692,78,3rd,Montreal Canadiens,MTL,Lost NHL Quarter-Finals,16,NHL
-97,"['C. Ruel', 'A. MacNeil']",1970-71,42,23,0,.622,78,3rd,Montreal Canadiens,MTL,,13,NHL
-92,['C. Ruel'],1969-70,38,22,0,.605,76,5th,Montreal Canadiens,MTL,,16,NHL
-103,['C. Ruel'],1968-69,46,19,0,.678,76,1st,Montreal Canadiens,MTL,,11,NHL
-94,['T. Blake'],1967-68,42,22,0,.635,74,1st,Montreal Canadiens,MTL,,10,NHL
-77,['T. Blake'],1966-67,32,25,0,.550,70,2nd,Montreal Canadiens,MTL,Lost Stanley Cup Final,13,NHL
-90,['T. Blake'],1965-66,41,21,0,.643,70,1st,Montreal Canadiens,MTL,,8,NHL
-83,['T. Blake'],1964-65,36,23,0,.593,70,2nd,Montreal Canadiens,MTL,,11,NHL
-85,['T. Blake'],1963-64,36,21,0,.607,70,1st,Montreal Canadiens,MTL,Lost NHL Semi-Finals,13,NHL
-79,['T. Blake'],1962-63,28,19,0,.564,70,3rd,Montreal Canadiens,MTL,Lost NHL Semi-Finals,23,NHL
-98,['T. Blake'],1961-62,42,14,0,.700,70,1st,Montreal Canadiens,MTL,Lost NHL Semi-Finals,14,NHL
-92,['T. Blake'],1960-61,41,19,0,.657,70,1st,Montreal Canadiens,MTL,Lost NHL Semi-Finals,10,NHL
-92,['T. Blake'],1959-60,40,18,0,.657,70,1st,Montreal Canadiens,MTL,,12,NHL
-91,['T. Blake'],1958-59,39,18,0,.650,70,1st,Montreal Canadiens,MTL,,13,NHL
-96,['T. Blake'],1957-58,43,17,0,.686,70,1st,Montreal Canadiens,MTL,,10,NHL
-82,['T. Blake'],1956-57,35,23,0,.586,70,2nd,Montreal Canadiens,MTL,,12,NHL
-100,['T. Blake'],1955-56,45,15,0,.714,70,1st,Montreal Canadiens,MTL,,10,NHL
-93,['D. Irvin'],1954-55,41,18,0,.664,70,2nd,Montreal Canadiens,MTL,Lost Stanley Cup Final,11,NHL
-81,['D. Irvin'],1953-54,35,24,0,.579,70,2nd,Montreal Canadiens,MTL,Lost Stanley Cup Final,11,NHL
-75,['D. Irvin'],1952-53,28,23,0,.536,70,2nd,Montreal Canadiens,MTL,,19,NHL
-78,['D. Irvin'],1951-52,34,26,0,.557,70,2nd,Montreal Canadiens,MTL,Lost Stanley Cup Final,10,NHL
-65,['D. Irvin'],1950-51,25,30,0,.464,70,3rd,Montreal Canadiens,MTL,Lost Stanley Cup Final,15,NHL
-77,['D. Irvin'],1949-50,29,22,0,.550,70,2nd,Montreal Canadiens,MTL,Lost NHL Semi-Finals,19,NHL
-65,['D. Irvin'],1948-49,28,23,0,.542,60,3rd,Montreal Canadiens,MTL,Lost NHL Semi-Finals,9,NHL
-51,['D. Irvin'],1947-48,20,29,0,.425,60,5th,Montreal Canadiens,MTL,,11,NHL
-78,['D. Irvin'],1946-47,34,16,0,.650,60,1st,Montreal Canadiens,MTL,Lost Stanley Cup Final,10,NHL
-61,['D. Irvin'],1945-46,28,17,0,.610,50,1st,Montreal Canadiens,MTL,,5,NHL
-80,['D. Irvin'],1944-45,38,8,0,.800,50,1st,Montreal Canadiens,MTL,Lost NHL Semi-Finals,4,NHL
-83,['D. Irvin'],1943-44,38,5,0,.830,50,1st,Montreal Canadiens,MTL,,7,NHL
-50,['D. Irvin'],1942-43,19,19,0,.500,50,4th,Montreal Canadiens,MTL,Lost NHL Semi-Finals,12,NHL
-39,['D. Irvin'],1941-42,18,27,0,.406,48,6th,Montreal Canadiens,MTL,Lost NHL Quarter-Finals,3,NHL
-38,['D. Irvin'],1940-41,16,26,0,.396,48,6th,Montreal Canadiens,MTL,Lost NHL Quarter-Finals,6,NHL
-25,['P. Lepine'],1939-40,10,33,0,.260,48,7th,Montreal Canadiens,MTL,,5,NHL
-39,"['C. Hart', 'J. Dugal']",1938-39,15,24,0,.406,48,6th,Montreal Canadiens,MTL,Lost NHL Quarter-Finals,9,NHL
-49,['C. Hart'],1937-38,18,17,0,.510,48,3rd,Montreal Canadiens,MTL,Lost NHL Quarter-Finals,13,NHL
-54,['C. Hart'],1936-37,24,18,0,.563,48,1st,Montreal Canadiens,MTL,Lost NHL Semi-Finals,6,NHL
-33,['S. Mantha'],1935-36,11,26,0,.344,48,4th,Montreal Canadiens,MTL,,11,NHL
-44,"['N. Lalonde', 'L. Dandurand']",1934-35,19,23,0,.458,48,3rd,Montreal Canadiens,MTL,Lost NHL Quarter-Finals,6,NHL
-50,['N. Lalonde'],1933-34,22,20,0,.521,48,2nd,Montreal Canadiens,MTL,Lost NHL Quarter-Finals,6,NHL
-41,['N. Lalonde'],1932-33,18,25,0,.427,48,3rd,Montreal Canadiens,MTL,Lost NHL Quarter-Finals,5,NHL
-57,['C. Hart'],1931-32,25,16,0,.594,48,1st,Montreal Canadiens,MTL,Lost NHL Semi-Finals,7,NHL
-60,['C. Hart'],1930-31,26,10,0,.682,44,1st,Montreal Canadiens,MTL,,8,NHL
-51,['C. Hart'],1929-30,21,14,0,.580,44,2nd,Montreal Canadiens,MTL,,9,NHL
-59,['C. Hart'],1928-29,22,7,0,.670,44,1st,Montreal Canadiens,MTL,Lost NHL Semi-Finals,15,NHL
-59,['C. Hart'],1927-28,26,11,0,.670,44,1st,Montreal Canadiens,MTL,Lost NHL Semi-Finals,7,NHL
-58,['C. Hart'],1926-27,28,14,0,.659,44,2nd,Montreal Canadiens,MTL,Lost NHL Semi-Finals,2,NHL
-23,['L. Dandurand'],1925-26,11,24,0,.319,36,7th,Montreal Canadiens,MTL,,1,NHL
-36,['L. Dandurand'],1924-25,17,11,0,.600,30,3rd,Montreal Canadiens,MTL,,2,NHL
-26,['L. Dandurand'],1923-24,13,11,0,.542,24,2nd,Montreal Canadiens,MTL,,0,NHL
-28,['L. Dandurand'],1922-23,13,9,0,.583,24,2nd,Montreal Canadiens,MTL,Lost NHL Final,2,NHL
-25,"['N. Lalonde', 'L. Dandurand']",1921-22,12,11,0,.521,24,3rd,Montreal Canadiens,MTL,,1,NHL
-26,['N. Lalonde'],1920-21,13,11,0,.542,24,3rd,Montreal Canadiens,MTL,,0,NHL
-26,['N. Lalonde'],1919-20,13,11,0,.542,24,2nd,Montreal Canadiens,MTL,,0,NHL
-20,['N. Lalonde'],1918-19,10,8,0,.556,18,2nd,Montreal Canadiens,MTL,,0,NHL
-26,['N. Lalonde'],1917-18,13,9,0,.591,22,1st,Montreal Canadiens,MTL,Lost NHL Final,0,NHL
+points,coaches,leage,code,season,wins,loses,overtime_loses,team_name,points_percentage,playoff_result,ties,games_played,finishing_position
+0,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",NHL,MTL,2017-18,0,0,0,Montreal Canadiens,0,,0,0,
+103,"[{'link': '/coaches/therrmi99c.html', 'name': 'M. Therrien'}, {'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",NHL,MTL,2016-17,47,26,9,Montreal Canadiens,.628,Lost NHL First Round,0,82,1st
+82,"[{'link': '/coaches/therrmi99c.html', 'name': 'M. Therrien'}]",NHL,MTL,2015-16,38,38,6,Montreal Canadiens,.500,,0,82,6th
+110,"[{'link': '/coaches/therrmi99c.html', 'name': 'M. Therrien'}]",NHL,MTL,2014-15,50,22,10,Montreal Canadiens,.671,Lost NHL Second Round,0,82,1st
+100,"[{'link': '/coaches/therrmi99c.html', 'name': 'M. Therrien'}]",NHL,MTL,2013-14,46,28,8,Montreal Canadiens,.610,Lost NHL Conference Finals,0,82,3rd
+63,"[{'link': '/coaches/therrmi99c.html', 'name': 'M. Therrien'}]",NHL,MTL,2012-13,29,14,5,Montreal Canadiens,.656,Lost NHL Conference Quarter-Finals,0,48,1st
+78,"[{'link': '/coaches/martija99c.html', 'name': 'J. Martin'}, {'link': '/coaches/cunnera01c.html', 'name': 'R. Cunneyworth'}]",NHL,MTL,2011-12,31,35,16,Montreal Canadiens,.476,,0,82,5th
+96,"[{'link': '/coaches/martija99c.html', 'name': 'J. Martin'}]",NHL,MTL,2010-11,44,30,8,Montreal Canadiens,.585,Lost NHL Conference Quarter-Finals,0,82,2nd
+88,"[{'link': '/coaches/martija99c.html', 'name': 'J. Martin'}]",NHL,MTL,2009-10,39,33,10,Montreal Canadiens,.537,Lost NHL Conference Finals,0,82,4th
+93,"[{'link': '/coaches/carbogu01c.html', 'name': 'G. Carbonneau'}, {'link': '/coaches/gainebo01c.html', 'name': 'B. Gainey'}]",NHL,MTL,2008-09,41,30,11,Montreal Canadiens,.567,Lost NHL Conference Quarter-Finals,0,82,2nd
+104,"[{'link': '/coaches/carbogu01c.html', 'name': 'G. Carbonneau'}]",NHL,MTL,2007-08,47,25,10,Montreal Canadiens,.634,Lost NHL Conference Semi-Finals,0,82,1st
+90,"[{'link': '/coaches/carbogu01c.html', 'name': 'G. Carbonneau'}]",NHL,MTL,2006-07,42,34,6,Montreal Canadiens,.549,,0,82,4th
+93,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}, {'link': '/coaches/gainebo01c.html', 'name': 'B. Gainey'}]",NHL,MTL,2005-06,42,31,9,Montreal Canadiens,.567,Lost NHL Conference Quarter-Finals,0,82,3rd
+93,"[{'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",NHL,MTL,2003-04,41,30,4,Montreal Canadiens,.567,Lost NHL Conference Semi-Finals,7,82,4th
+77,"[{'link': '/coaches/therrmi99c.html', 'name': 'M. Therrien'}, {'link': '/coaches/juliecl01c.html', 'name': 'C. Julien'}]",NHL,MTL,2002-03,30,35,9,Montreal Canadiens,.470,,8,82,4th
+87,"[{'link': '/coaches/therrmi99c.html', 'name': 'M. Therrien'}]",NHL,MTL,2001-02,36,31,3,Montreal Canadiens,.530,Lost NHL Conference Semi-Finals,12,82,4th
+70,"[{'link': '/coaches/vigneal01c.html', 'name': 'A. Vigneault'}, {'link': '/coaches/therrmi99c.html', 'name': 'M. Therrien'}]",NHL,MTL,2000-01,28,40,6,Montreal Canadiens,.427,,8,82,5th
+83,"[{'link': '/coaches/vigneal01c.html', 'name': 'A. Vigneault'}]",NHL,MTL,1999-00,35,34,4,Montreal Canadiens,.506,,9,82,4th
+75,"[{'link': '/coaches/vigneal01c.html', 'name': 'A. Vigneault'}]",NHL,MTL,1998-99,32,39,0,Montreal Canadiens,.457,,11,82,5th
+87,"[{'link': '/coaches/vigneal01c.html', 'name': 'A. Vigneault'}]",NHL,MTL,1997-98,37,32,0,Montreal Canadiens,.530,Lost NHL Conference Semi-Finals,13,82,4th
+77,"[{'link': '/coaches/trembma02c.html', 'name': 'M. Tremblay'}]",NHL,MTL,1996-97,31,36,0,Montreal Canadiens,.470,Lost NHL Conference Quarter-Finals,15,82,4th
+90,"[{'link': '/coaches/demerja99c.html', 'name': 'J. Demers'}, {'link': '/coaches/laperja01c.html', 'name': 'J. Laperriere'}, {'link': '/coaches/trembma02c.html', 'name': 'M. Tremblay'}]",NHL,MTL,1995-96,40,32,0,Montreal Canadiens,.549,Lost NHL Conference Quarter-Finals,10,82,3rd
+43,"[{'link': '/coaches/demerja99c.html', 'name': 'J. Demers'}]",NHL,MTL,1994-95,18,23,0,Montreal Canadiens,.448,,7,48,6th
+96,"[{'link': '/coaches/demerja99c.html', 'name': 'J. Demers'}]",NHL,MTL,1993-94,41,29,0,Montreal Canadiens,.571,Lost NHL Conference Quarter-Finals,14,84,3rd
+102,"[{'link': '/coaches/demerja99c.html', 'name': 'J. Demers'}]",NHL,MTL,1992-93,48,30,0,Montreal Canadiens,.607,,6,84,3rd
+93,"[{'link': '/coaches/burnspa99c.html', 'name': 'P. Burns'}]",NHL,MTL,1991-92,41,28,0,Montreal Canadiens,.581,Lost NHL Division Finals,11,80,1st
+89,"[{'link': '/coaches/burnspa99c.html', 'name': 'P. Burns'}]",NHL,MTL,1990-91,39,30,0,Montreal Canadiens,.556,Lost NHL Division Finals,11,80,2nd
+93,"[{'link': '/coaches/burnspa99c.html', 'name': 'P. Burns'}]",NHL,MTL,1989-90,41,28,0,Montreal Canadiens,.581,Lost NHL Division Finals,11,80,3rd
+115,"[{'link': '/coaches/burnspa99c.html', 'name': 'P. Burns'}]",NHL,MTL,1988-89,53,18,0,Montreal Canadiens,.719,Lost Stanley Cup Final,9,80,1st
+103,"[{'link': '/coaches/perroje99c.html', 'name': 'J. Perron'}]",NHL,MTL,1987-88,45,22,0,Montreal Canadiens,.644,Lost NHL Division Finals,13,80,1st
+92,"[{'link': '/coaches/perroje99c.html', 'name': 'J. Perron'}]",NHL,MTL,1986-87,41,29,0,Montreal Canadiens,.575,Lost NHL Conference Finals,10,80,2nd
+87,"[{'link': '/coaches/perroje99c.html', 'name': 'J. Perron'}]",NHL,MTL,1985-86,40,33,0,Montreal Canadiens,.544,,7,80,2nd
+94,"[{'link': '/coaches/lemaija01c.html', 'name': 'J. Lemaire'}]",NHL,MTL,1984-85,41,27,0,Montreal Canadiens,.588,Lost NHL Division Finals,12,80,1st
+75,"[{'link': '/coaches/berrybo01c.html', 'name': 'B. Berry'}, {'link': '/coaches/lemaija01c.html', 'name': 'J. Lemaire'}]",NHL,MTL,1983-84,35,40,0,Montreal Canadiens,.469,Lost NHL Conference Finals,5,80,4th
+98,"[{'link': '/coaches/berrybo01c.html', 'name': 'B. Berry'}]",NHL,MTL,1982-83,42,24,0,Montreal Canadiens,.613,Lost NHL Division Semi-Finals,14,80,2nd
+109,"[{'link': '/coaches/berrybo01c.html', 'name': 'B. Berry'}]",NHL,MTL,1981-82,46,17,0,Montreal Canadiens,.681,Lost NHL Division Semi-Finals,17,80,1st
+103,"[{'link': '/coaches/ruelcl99c.html', 'name': 'C. Ruel'}]",NHL,MTL,1980-81,45,22,0,Montreal Canadiens,.644,Lost NHL Preliminary Round,13,80,1st
+107,"[{'link': '/coaches/geoffbe01c.html', 'name': 'B. Geoffrion'}, {'link': '/coaches/ruelcl99c.html', 'name': 'C. Ruel'}]",NHL,MTL,1979-80,47,20,0,Montreal Canadiens,.669,Lost NHL Quarter-Finals,13,80,1st
+115,"[{'link': '/coaches/bowmasc99c.html', 'name': 'S. Bowman'}]",NHL,MTL,1978-79,52,17,0,Montreal Canadiens,.719,,11,80,1st
+129,"[{'link': '/coaches/bowmasc99c.html', 'name': 'S. Bowman'}]",NHL,MTL,1977-78,59,10,0,Montreal Canadiens,.806,,11,80,1st
+132,"[{'link': '/coaches/bowmasc99c.html', 'name': 'S. Bowman'}]",NHL,MTL,1976-77,60,8,0,Montreal Canadiens,.825,,12,80,1st
+127,"[{'link': '/coaches/bowmasc99c.html', 'name': 'S. Bowman'}]",NHL,MTL,1975-76,58,11,0,Montreal Canadiens,.794,,11,80,1st
+113,"[{'link': '/coaches/bowmasc99c.html', 'name': 'S. Bowman'}]",NHL,MTL,1974-75,47,14,0,Montreal Canadiens,.706,Lost NHL Semi-Finals,19,80,1st
+99,"[{'link': '/coaches/bowmasc99c.html', 'name': 'S. Bowman'}]",NHL,MTL,1973-74,45,24,0,Montreal Canadiens,.635,Lost NHL Quarter-Finals,9,78,2nd
+120,"[{'link': '/coaches/bowmasc99c.html', 'name': 'S. Bowman'}]",NHL,MTL,1972-73,52,10,0,Montreal Canadiens,.769,,16,78,1st
+108,"[{'link': '/coaches/bowmasc99c.html', 'name': 'S. Bowman'}]",NHL,MTL,1971-72,46,16,0,Montreal Canadiens,.692,Lost NHL Quarter-Finals,16,78,3rd
+97,"[{'link': '/coaches/ruelcl99c.html', 'name': 'C. Ruel'}, {'link': '/coaches/macneal01c.html', 'name': 'A. MacNeil'}]",NHL,MTL,1970-71,42,23,0,Montreal Canadiens,.622,,13,78,3rd
+92,"[{'link': '/coaches/ruelcl99c.html', 'name': 'C. Ruel'}]",NHL,MTL,1969-70,38,22,0,Montreal Canadiens,.605,,16,76,5th
+103,"[{'link': '/coaches/ruelcl99c.html', 'name': 'C. Ruel'}]",NHL,MTL,1968-69,46,19,0,Montreal Canadiens,.678,,11,76,1st
+94,"[{'link': '/coaches/blaketo01c.html', 'name': 'T. Blake'}]",NHL,MTL,1967-68,42,22,0,Montreal Canadiens,.635,,10,74,1st
+77,"[{'link': '/coaches/blaketo01c.html', 'name': 'T. Blake'}]",NHL,MTL,1966-67,32,25,0,Montreal Canadiens,.550,Lost Stanley Cup Final,13,70,2nd
+90,"[{'link': '/coaches/blaketo01c.html', 'name': 'T. Blake'}]",NHL,MTL,1965-66,41,21,0,Montreal Canadiens,.643,,8,70,1st
+83,"[{'link': '/coaches/blaketo01c.html', 'name': 'T. Blake'}]",NHL,MTL,1964-65,36,23,0,Montreal Canadiens,.593,,11,70,2nd
+85,"[{'link': '/coaches/blaketo01c.html', 'name': 'T. Blake'}]",NHL,MTL,1963-64,36,21,0,Montreal Canadiens,.607,Lost NHL Semi-Finals,13,70,1st
+79,"[{'link': '/coaches/blaketo01c.html', 'name': 'T. Blake'}]",NHL,MTL,1962-63,28,19,0,Montreal Canadiens,.564,Lost NHL Semi-Finals,23,70,3rd
+98,"[{'link': '/coaches/blaketo01c.html', 'name': 'T. Blake'}]",NHL,MTL,1961-62,42,14,0,Montreal Canadiens,.700,Lost NHL Semi-Finals,14,70,1st
+92,"[{'link': '/coaches/blaketo01c.html', 'name': 'T. Blake'}]",NHL,MTL,1960-61,41,19,0,Montreal Canadiens,.657,Lost NHL Semi-Finals,10,70,1st
+92,"[{'link': '/coaches/blaketo01c.html', 'name': 'T. Blake'}]",NHL,MTL,1959-60,40,18,0,Montreal Canadiens,.657,,12,70,1st
+91,"[{'link': '/coaches/blaketo01c.html', 'name': 'T. Blake'}]",NHL,MTL,1958-59,39,18,0,Montreal Canadiens,.650,,13,70,1st
+96,"[{'link': '/coaches/blaketo01c.html', 'name': 'T. Blake'}]",NHL,MTL,1957-58,43,17,0,Montreal Canadiens,.686,,10,70,1st
+82,"[{'link': '/coaches/blaketo01c.html', 'name': 'T. Blake'}]",NHL,MTL,1956-57,35,23,0,Montreal Canadiens,.586,,12,70,2nd
+100,"[{'link': '/coaches/blaketo01c.html', 'name': 'T. Blake'}]",NHL,MTL,1955-56,45,15,0,Montreal Canadiens,.714,,10,70,1st
+93,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,MTL,1954-55,41,18,0,Montreal Canadiens,.664,Lost Stanley Cup Final,11,70,2nd
+81,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,MTL,1953-54,35,24,0,Montreal Canadiens,.579,Lost Stanley Cup Final,11,70,2nd
+75,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,MTL,1952-53,28,23,0,Montreal Canadiens,.536,,19,70,2nd
+78,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,MTL,1951-52,34,26,0,Montreal Canadiens,.557,Lost Stanley Cup Final,10,70,2nd
+65,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,MTL,1950-51,25,30,0,Montreal Canadiens,.464,Lost Stanley Cup Final,15,70,3rd
+77,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,MTL,1949-50,29,22,0,Montreal Canadiens,.550,Lost NHL Semi-Finals,19,70,2nd
+65,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,MTL,1948-49,28,23,0,Montreal Canadiens,.542,Lost NHL Semi-Finals,9,60,3rd
+51,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,MTL,1947-48,20,29,0,Montreal Canadiens,.425,,11,60,5th
+78,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,MTL,1946-47,34,16,0,Montreal Canadiens,.650,Lost Stanley Cup Final,10,60,1st
+61,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,MTL,1945-46,28,17,0,Montreal Canadiens,.610,,5,50,1st
+80,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,MTL,1944-45,38,8,0,Montreal Canadiens,.800,Lost NHL Semi-Finals,4,50,1st
+83,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,MTL,1943-44,38,5,0,Montreal Canadiens,.830,,7,50,1st
+50,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,MTL,1942-43,19,19,0,Montreal Canadiens,.500,Lost NHL Semi-Finals,12,50,4th
+39,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,MTL,1941-42,18,27,0,Montreal Canadiens,.406,Lost NHL Quarter-Finals,3,48,6th
+38,"[{'link': '/coaches/irvindi01c.html', 'name': 'D. Irvin'}]",NHL,MTL,1940-41,16,26,0,Montreal Canadiens,.396,Lost NHL Quarter-Finals,6,48,6th
+25,"[{'link': '/coaches/lepinpi01c.html', 'name': 'P. Lepine'}]",NHL,MTL,1939-40,10,33,0,Montreal Canadiens,.260,,5,48,7th
+39,"[{'link': '/coaches/hartce99c.html', 'name': 'C. Hart'}, {'link': '/coaches/dugalju99c.html', 'name': 'J. Dugal'}]",NHL,MTL,1938-39,15,24,0,Montreal Canadiens,.406,Lost NHL Quarter-Finals,9,48,6th
+49,"[{'link': '/coaches/hartce99c.html', 'name': 'C. Hart'}]",NHL,MTL,1937-38,18,17,0,Montreal Canadiens,.510,Lost NHL Quarter-Finals,13,48,3rd
+54,"[{'link': '/coaches/hartce99c.html', 'name': 'C. Hart'}]",NHL,MTL,1936-37,24,18,0,Montreal Canadiens,.563,Lost NHL Semi-Finals,6,48,1st
+33,"[{'link': '/coaches/manthsy01c.html', 'name': 'S. Mantha'}]",NHL,MTL,1935-36,11,26,0,Montreal Canadiens,.344,,11,48,4th
+44,"[{'link': '/coaches/lalonne01c.html', 'name': 'N. Lalonde'}, {'link': '/coaches/dandule99c.html', 'name': 'L. Dandurand'}]",NHL,MTL,1934-35,19,23,0,Montreal Canadiens,.458,Lost NHL Quarter-Finals,6,48,3rd
+50,"[{'link': '/coaches/lalonne01c.html', 'name': 'N. Lalonde'}]",NHL,MTL,1933-34,22,20,0,Montreal Canadiens,.521,Lost NHL Quarter-Finals,6,48,2nd
+41,"[{'link': '/coaches/lalonne01c.html', 'name': 'N. Lalonde'}]",NHL,MTL,1932-33,18,25,0,Montreal Canadiens,.427,Lost NHL Quarter-Finals,5,48,3rd
+57,"[{'link': '/coaches/hartce99c.html', 'name': 'C. Hart'}]",NHL,MTL,1931-32,25,16,0,Montreal Canadiens,.594,Lost NHL Semi-Finals,7,48,1st
+60,"[{'link': '/coaches/hartce99c.html', 'name': 'C. Hart'}]",NHL,MTL,1930-31,26,10,0,Montreal Canadiens,.682,,8,44,1st
+51,"[{'link': '/coaches/hartce99c.html', 'name': 'C. Hart'}]",NHL,MTL,1929-30,21,14,0,Montreal Canadiens,.580,,9,44,2nd
+59,"[{'link': '/coaches/hartce99c.html', 'name': 'C. Hart'}]",NHL,MTL,1928-29,22,7,0,Montreal Canadiens,.670,Lost NHL Semi-Finals,15,44,1st
+59,"[{'link': '/coaches/hartce99c.html', 'name': 'C. Hart'}]",NHL,MTL,1927-28,26,11,0,Montreal Canadiens,.670,Lost NHL Semi-Finals,7,44,1st
+58,"[{'link': '/coaches/hartce99c.html', 'name': 'C. Hart'}]",NHL,MTL,1926-27,28,14,0,Montreal Canadiens,.659,Lost NHL Semi-Finals,2,44,2nd
+23,"[{'link': '/coaches/dandule99c.html', 'name': 'L. Dandurand'}]",NHL,MTL,1925-26,11,24,0,Montreal Canadiens,.319,,1,36,7th
+36,"[{'link': '/coaches/dandule99c.html', 'name': 'L. Dandurand'}]",NHL,MTL,1924-25,17,11,0,Montreal Canadiens,.600,,2,30,3rd
+26,"[{'link': '/coaches/dandule99c.html', 'name': 'L. Dandurand'}]",NHL,MTL,1923-24,13,11,0,Montreal Canadiens,.542,,0,24,2nd
+28,"[{'link': '/coaches/dandule99c.html', 'name': 'L. Dandurand'}]",NHL,MTL,1922-23,13,9,0,Montreal Canadiens,.583,Lost NHL Final,2,24,2nd
+25,"[{'link': '/coaches/lalonne01c.html', 'name': 'N. Lalonde'}, {'link': '/coaches/dandule99c.html', 'name': 'L. Dandurand'}]",NHL,MTL,1921-22,12,11,0,Montreal Canadiens,.521,,1,24,3rd
+26,"[{'link': '/coaches/lalonne01c.html', 'name': 'N. Lalonde'}]",NHL,MTL,1920-21,13,11,0,Montreal Canadiens,.542,,0,24,3rd
+26,"[{'link': '/coaches/lalonne01c.html', 'name': 'N. Lalonde'}]",NHL,MTL,1919-20,13,11,0,Montreal Canadiens,.542,,0,24,2nd
+20,"[{'link': '/coaches/lalonne01c.html', 'name': 'N. Lalonde'}]",NHL,MTL,1918-19,10,8,0,Montreal Canadiens,.556,,0,18,2nd
+26,"[{'link': '/coaches/lalonne01c.html', 'name': 'N. Lalonde'}]",NHL,MTL,1917-18,13,9,0,Montreal Canadiens,.591,Lost NHL Final,0,22,1st

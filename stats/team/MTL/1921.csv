@@ -1,14 +1,14 @@
-offensive_point_share,name,even_strength_goals,shorthanded_goals,plus_minus,shotsPercentage,age,shots,assists,positions,overall_point_share,points,games_played,power_play_assists,defensive_point_share,game_winning_goals,power_play_goals,total_ice_time,shorthanded_assists,goals,even_strength_assists,average_ice_time,pim
-5.6,Newsy Lalonde,0,0,0,,33,0,10,C,6.3,43,24,0,0.7,0,0,,0,33,0,,36
-1.8,Didier Pitre,0,0,0,,37,0,5,RW,2.5,21,23,0,0.7,0,0,,0,16,0,,25
-2.3,Harry Mummery,0,0,0,,31,0,5,D,5.2,20,24,0,2.9,0,0,,0,15,0,,69
-1.1,Louis Berlinguette,0,0,0,,33,0,9,LW,1.8,20,24,0,0.7,0,0,,0,11,0,,28
-1.4,Amos Arbour,0,0,0,,26,0,3,LW,2.1,18,23,0,0.7,0,0,,0,15,0,,40
-1.2,Bert Corbeau,0,0,0,,26,0,2,D,4.1,13,24,0,2.9,0,0,,0,11,0,,86
-0.1,Odie Cleghorn,0,0,0,,29,0,6,C,0.7,12,21,0,0.6,0,0,,0,6,0,,8
-0.4,Cully Wilson,0,0,0,,28,0,1,RW,0.7,7,11,0,0.3,0,0,,0,6,0,,29
--0.4,Jack McDonald,0,0,0,,33,0,1,C,-0.2,1,6,0,0.2,0,0,,0,0,0,,0
--0.3,Billy Bell,0,0,0,,29,0,0,F,-0.2,0,4,0,0.1,0,0,,0,0,0,,2
--0.1,Dave Campbell,0,0,0,,24,0,0,D,0.1,0,2,0,0.2,0,0,,0,0,0,,0
--0.3,Dave Ritchie,0,0,0,,29,0,0,D,0.4,0,6,0,0.7,0,0,,0,0,0,,2
-0.0,Georges Vezina,0,0,0,,34,0,0,G,4.1,0,24,0,0.0,0,0,,0,0,0,,0
+shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
+0,,C,,0,0,0,0,33,0,33,10,Newsy Lalonde,6.3,0.7,43,0,36,,24,0,5.6,0,/players/l/lalonne01.html
+0,,RW,,0,0,0,0,37,0,16,5,Didier Pitre,2.5,0.7,21,0,25,,23,0,1.8,0,/players/p/pitredi01.html
+0,,D,,0,0,0,0,31,0,15,5,Harry Mummery,5.2,2.9,20,0,69,,24,0,2.3,0,/players/m/mummeha01.html
+0,,LW,,0,0,0,0,33,0,11,9,Louis Berlinguette,1.8,0.7,20,0,28,,24,0,1.1,0,/players/b/berlilo01.html
+0,,LW,,0,0,0,0,26,0,15,3,Amos Arbour,2.1,0.7,18,0,40,,23,0,1.4,0,/players/a/arbouam01.html
+0,,D,,0,0,0,0,26,0,11,2,Bert Corbeau,4.1,2.9,13,0,86,,24,0,1.2,0,/players/c/corbebe01.html
+0,,C,,0,0,0,0,29,0,6,6,Odie Cleghorn,0.7,0.6,12,0,8,,21,0,0.1,0,/players/c/cleghod01.html
+0,,RW,,0,0,0,0,28,0,6,1,Cully Wilson,0.7,0.3,7,0,29,,11,0,0.4,0,/players/w/wilsocu01.html
+0,,C,,0,0,0,0,33,0,0,1,Jack McDonald,-0.2,0.2,1,0,0,,6,0,-0.4,0,/players/m/mcdonja01.html
+0,,F,,0,0,0,0,29,0,0,0,Billy Bell,-0.2,0.1,0,0,2,,4,0,-0.3,0,/players/b/bellbi01.html
+0,,D,,0,0,0,0,24,0,0,0,Dave Campbell,0.1,0.2,0,0,0,,2,0,-0.1,0,/players/c/campbda01.html
+0,,D,,0,0,0,0,29,0,0,0,Dave Ritchie,0.4,0.7,0,0,2,,6,0,-0.3,0,/players/r/ritchda01.html
+0,,G,,0,0,0,0,34,0,0,0,Georges Vezina,4.1,0.0,0,0,0,,24,0,0.0,0,/players/v/vezinge01.html

@@ -1,13 +1,13 @@
-offensive_point_share,name,even_strength_goals,shorthanded_goals,plus_minus,shotsPercentage,age,shots,assists,positions,overall_point_share,points,games_played,power_play_assists,defensive_point_share,game_winning_goals,power_play_goals,total_ice_time,shorthanded_assists,goals,even_strength_assists,average_ice_time,pim
-4.1,Billy Boucher,0,0,0,,24,0,6,RW,5.0,22,23,0,0.9,0,0,,0,16,0,,48
-3.6,Aurele Joliat,0,0,0,,22,0,5,LW,4.5,20,24,0,0.9,0,0,,0,15,0,,27
-2.7,Howie Morenz,0,0,0,,21,0,3,C,3.6,16,24,0,0.9,0,0,,0,13,0,,20
-1.7,Sprague Cleghorn,0,0,0,,33,0,4,D,5.2,12,23,0,3.5,0,0,,0,8,0,,45
--0.3,Odie Cleghorn,0,0,0,,32,0,5,RW/C,0.6,7,22,0,0.8,0,0,,0,2,0,,16
-0.2,Billy Coutu,0,0,0,,31,0,1,D,2.6,4,16,0,2.4,0,0,,0,3,0,,18
--0.6,Sylvio Mantha,0,0,0,,21,0,3,D,3.0,4,24,0,3.6,0,0,,0,1,0,,11
--0.5,Bobby Boucher,0,0,0,,19,0,0,F,-0.1,1,11,0,0.4,0,0,,0,1,0,,0
--0.8,Billy Bell,0,0,0,,32,0,0,F,-0.4,0,11,0,0.4,0,0,,0,0,0,,0
--1.3,Billy Cameron,0,0,0,,27,0,0,RW,-0.7,0,18,0,0.7,0,0,,0,0,0,,2
--0.7,Joe Malone,0,0,0,,33,0,0,C,-0.4,0,10,0,0.4,0,0,,0,0,0,,0
-0.0,Georges Vezina,0,0,0,,37,0,0,G,5.7,0,24,0,0.0,0,0,,0,0,0,,0
+shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
+0,,RW,,0,0,0,0,24,0,16,6,Billy Boucher,5.0,0.9,22,0,48,,23,0,4.1,0,/players/b/bouchbi01.html
+0,,LW,,0,0,0,0,22,0,15,5,Aurele Joliat,4.5,0.9,20,0,27,,24,0,3.6,0,/players/j/joliaau01.html
+0,,C,,0,0,0,0,21,0,13,3,Howie Morenz,3.6,0.9,16,0,20,,24,0,2.7,0,/players/m/morenho01.html
+0,,D,,0,0,0,0,33,0,8,4,Sprague Cleghorn,5.2,3.5,12,0,45,,23,0,1.7,0,/players/c/cleghsp01.html
+0,,RW/C,,0,0,0,0,32,0,2,5,Odie Cleghorn,0.6,0.8,7,0,16,,22,0,-0.3,0,/players/c/cleghod01.html
+0,,D,,0,0,0,0,31,0,3,1,Billy Coutu,2.6,2.4,4,0,18,,16,0,0.2,0,/players/c/coutubi01.html
+0,,D,,0,0,0,0,21,0,1,3,Sylvio Mantha,3.0,3.6,4,0,11,,24,0,-0.6,0,/players/m/manthsy01.html
+0,,F,,0,0,0,0,19,0,1,0,Bobby Boucher,-0.1,0.4,1,0,0,,11,0,-0.5,0,/players/b/bouchbo01.html
+0,,F,,0,0,0,0,32,0,0,0,Billy Bell,-0.4,0.4,0,0,0,,11,0,-0.8,0,/players/b/bellbi01.html
+0,,RW,,0,0,0,0,27,0,0,0,Billy Cameron,-0.7,0.7,0,0,2,,18,0,-1.3,0,/players/c/camerbi01.html
+0,,C,,0,0,0,0,33,0,0,0,Joe Malone,-0.4,0.4,0,0,0,,10,0,-0.7,0,/players/m/malonjo01.html
+0,,G,,0,0,0,0,37,0,0,0,Georges Vezina,5.7,0.0,0,0,0,,24,0,0.0,0,/players/v/vezinge01.html

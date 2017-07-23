@@ -1,16 +1,16 @@
-offensive_point_share,name,even_strength_goals,shorthanded_goals,plus_minus,shotsPercentage,age,shots,assists,positions,overall_point_share,points,games_played,power_play_assists,defensive_point_share,game_winning_goals,power_play_goals,total_ice_time,shorthanded_assists,goals,even_strength_assists,average_ice_time,pim
-3.7,Harry Oliver,0,0,0,,29,0,5,RW,5.0,18,43,0,1.2,0,0,,0,13,0,,20
-4.5,Eddie Shore,0,0,0,,25,0,6,D,9.4,17,43,0,4.9,0,0,,0,11,0,,165
-2.4,Frank Fredrickson,0,0,0,,32,0,4,C,3.5,14,41,0,1.2,0,0,,0,10,0,,83
-1.4,Dutch Gainor,0,0,0,,23,0,4,LW,2.6,12,42,0,1.2,0,0,,0,8,0,,35
-0.8,Percy Galbraith,0,0,0,,29,0,5,LW,2.0,11,42,0,1.2,0,0,,0,6,0,,26
-1.2,Harry Connor,0,0,0,,23,0,1,LW,2.4,10,42,0,1.2,0,0,,0,9,0,,36
-1.3,Lionel Hitchman,0,0,0,,26,0,3,D,6.2,8,44,0,5.0,0,0,,0,5,0,,87
-1.3,Jimmy Herbert,0,0,0,,30,0,0,C,1.7,5,12,0,0.3,0,0,,0,5,0,,23
--0.8,Dit Clapper,0,0,0,,20,0,1,RW/D,0.3,5,40,0,1.1,0,0,,0,4,0,,20
--1.3,Fred Gordon,0,0,0,,27,0,2,F,0.0,5,43,0,1.2,0,0,,0,3,0,,40
-0.0,Sprague Cleghorn,0,0,0,,37,0,2,D,4.2,4,37,0,4.2,0,0,,0,2,0,,14
--1.1,Hago Harrington,0,0,0,,23,0,0,LW,-0.5,1,22,0,0.6,0,0,,0,1,0,,7
--0.2,Nobby Clark,0,0,0,,30,0,0,D,0.4,0,5,0,0.6,0,0,,0,0,0,,0
--0.1,Martin Lauder,0,0,0,,21,0,0,D,0.2,0,3,0,0.3,0,0,,0,0,0,,2
-0.0,Hal Winkler,0,0,0,,35,0,0,G,9.7,0,44,0,0.0,0,0,,0,0,0,,0
+shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
+0,,RW,,0,0,0,0,29,0,13,5,Harry Oliver,5.0,1.2,18,0,20,,43,0,3.7,0,/players/o/oliveha01.html
+0,,D,,0,0,0,0,25,0,11,6,Eddie Shore,9.4,4.9,17,0,165,,43,0,4.5,0,/players/s/shoreed01.html
+0,,C,,0,0,0,0,32,0,10,4,Frank Fredrickson,3.5,1.2,14,0,83,,41,0,2.4,0,/players/f/fredrfr01.html
+0,,LW,,0,0,0,0,23,0,8,4,Dutch Gainor,2.6,1.2,12,0,35,,42,0,1.4,0,/players/g/gainodu01.html
+0,,LW,,0,0,0,0,29,0,6,5,Percy Galbraith,2.0,1.2,11,0,26,,42,0,0.8,0,/players/g/galbrpe01.html
+0,,LW,,0,0,0,0,23,0,9,1,Harry Connor,2.4,1.2,10,0,36,,42,0,1.2,0,/players/c/connoha01.html
+0,,D,,0,0,0,0,26,0,5,3,Lionel Hitchman,6.2,5.0,8,0,87,,44,0,1.3,0,/players/h/hitchli01.html
+0,,C,,0,0,0,0,30,0,5,0,Jimmy Herbert,1.7,0.3,5,0,23,,12,0,1.3,0,/players/h/herbeji01.html
+0,,RW/D,,0,0,0,0,20,0,4,1,Dit Clapper,0.3,1.1,5,0,20,,40,0,-0.8,0,/players/c/clappdi01.html
+0,,F,,0,0,0,0,27,0,3,2,Fred Gordon,0.0,1.2,5,0,40,,43,0,-1.3,0,/players/g/gordofr01.html
+0,,D,,0,0,0,0,37,0,2,2,Sprague Cleghorn,4.2,4.2,4,0,14,,37,0,0.0,0,/players/c/cleghsp01.html
+0,,LW,,0,0,0,0,23,0,1,0,Hago Harrington,-0.5,0.6,1,0,7,,22,0,-1.1,0,/players/h/harriha01.html
+0,,D,,0,0,0,0,30,0,0,0,Nobby Clark,0.4,0.6,0,0,0,,5,0,-0.2,0,/players/c/clarkno01.html
+0,,D,,0,0,0,0,21,0,0,0,Martin Lauder,0.2,0.3,0,0,2,,3,0,-0.1,0,/players/l/laudema01.html
+0,,G,,0,0,0,0,35,0,0,0,Hal Winkler,9.7,0.0,0,0,0,,44,0,0.0,0,/players/w/winklha01.html

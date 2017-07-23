@@ -1,2 +1,2 @@
-points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
-0,['G. Gallant'],2017-18,0,0,0,0,0,,Vegas Golden Knights,VEG,,0,NHL
+points,coaches,leage,code,season,wins,loses,overtime_loses,team_name,points_percentage,playoff_result,ties,games_played,finishing_position
+0,"[{'link': '/coaches/gallage01c.html', 'name': 'G. Gallant'}]",NHL,VEG,2017-18,0,0,0,Vegas Golden Knights,0,,0,0,

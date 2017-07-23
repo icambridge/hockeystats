@@ -1,23 +1,23 @@
-offensive_point_share,name,even_strength_goals,shorthanded_goals,plus_minus,shotsPercentage,age,shots,assists,positions,overall_point_share,points,games_played,power_play_assists,defensive_point_share,game_winning_goals,power_play_goals,total_ice_time,shorthanded_assists,goals,even_strength_assists,average_ice_time,pim
-8.7,Denis Potvin,13,0,12,12.1,22,256,67,D,14.3,98,78,33,5.6,4,18,,2,31,32,,100
-6.7,Bryan Trottier,20,1,28,18.0,19,178,63,C,8.6,95,80,30,1.9,5,11,,0,32,33,,21
-5.5,Jean Potvin,7,1,16,10.2,26,167,55,D,11.4,72,78,34,5.8,2,9,,0,17,21,,74
-4.7,Billy Harris,16,0,22,14.0,24,228,38,RW,6.4,70,80,17,1.8,4,16,,2,32,19,,54
-3.3,Jude Drouin,11,0,18,13.7,27,153,41,C,4.9,62,76,12,1.6,2,10,,0,21,29,,58
-4.1,Clark Gillies,19,0,20,16.2,21,210,27,LW,5.8,61,80,11,1.7,6,15,,0,34,16,,96
-2.8,J.P. Parise,15,2,12,14.5,34,152,35,LW,4.3,57,80,10,1.5,4,5,,0,22,25,,80
-3.0,Ed Westfall,17,2,17,16.2,35,154,31,RW,4.6,56,80,10,1.6,3,6,,4,25,17,,27
-2.2,Bob Nystrom,21,0,24,12.4,23,185,25,RW,4.0,48,80,3,1.8,4,2,,0,23,22,,106
-0.9,Garry Howatt,21,0,26,18.3,23,115,13,LW,2.8,34,80,1,1.9,2,0,,0,21,12,,197
--0.1,Andre St. Laurent,9,0,14,8.9,22,101,17,C,1.2,26,67,0,1.3,2,0,,0,9,17,,56
-0.8,Gerry Hart,6,0,35,5.5,28,110,18,D,7.9,24,80,0,7.1,0,0,,1,6,17,,151
-0.1,Dave Lewis,0,0,29,0.0,22,91,19,D,6.3,19,73,0,6.3,0,0,,0,0,19,,54
--1.5,Lorne Henning,3,4,6,8.3,23,84,10,C,-0.2,17,80,0,1.3,0,0,,3,7,7,,16
--0.8,Billy MacMillan,9,0,5,12.0,32,75,7,RW,0.3,16,64,0,1.0,2,0,,0,9,7,,10
--0.1,Bert Marshall,0,0,37,0.0,32,70,16,D,6.5,16,71,1,6.6,0,0,,0,0,15,,72
-0.2,Ralph Stewart,5,1,3,21.4,27,28,7,C,0.7,13,31,0,0.5,1,0,,0,6,7,,2
-0.0,Bob Bourne,2,0,-2,12.5,21,16,3,C,0.1,5,14,1,0.1,1,0,,0,2,2,,13
--1.0,Dave Fortier,0,0,9,0.0,24,58,2,D,3.2,2,59,0,4.2,0,0,,1,0,1,,68
-0.1,Pat Price,0,0,4,0.0,20,4,2,D,0.6,2,4,0,0.5,0,0,,0,0,2,,2
-0.0,Glenn Resch,0,0,0,,27,0,1,G,11.6,1,44,0,0.0,0,0,,0,0,0,,0
-0.0,Billy Smith,0,0,0,,25,0,1,G,8.6,1,39,0,0.0,0,0,,0,0,0,,10
+shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
+0,,D,12.1,32,256,13,2,22,4,31,67,Denis Potvin,14.3,5.6,98,18,100,,78,12,8.7,33,/players/p/potvide01.html
+1,,C,18.0,33,178,20,0,19,5,32,63,Bryan Trottier,8.6,1.9,95,11,21,,80,28,6.7,30,/players/t/trottbr01.html
+1,,D,10.2,21,167,7,0,26,2,17,55,Jean Potvin,11.4,5.8,72,9,74,,78,16,5.5,34,/players/p/potvije01.html
+0,,RW,14.0,19,228,16,2,24,4,32,38,Billy Harris,6.4,1.8,70,16,54,,80,22,4.7,17,/players/h/harribi02.html
+0,,C,13.7,29,153,11,0,27,2,21,41,Jude Drouin,4.9,1.6,62,10,58,,76,18,3.3,12,/players/d/drouiju01.html
+0,,LW,16.2,16,210,19,0,21,6,34,27,Clark Gillies,5.8,1.7,61,15,96,,80,20,4.1,11,/players/g/gillicl01.html
+2,,LW,14.5,25,152,15,0,34,4,22,35,J.P. Parise,4.3,1.5,57,5,80,,80,12,2.8,10,/players/p/parisjp01.html
+2,,RW,16.2,17,154,17,4,35,3,25,31,Ed Westfall,4.6,1.6,56,6,27,,80,17,3.0,10,/players/w/westfed01.html
+0,,RW,12.4,22,185,21,0,23,4,23,25,Bob Nystrom,4.0,1.8,48,2,106,,80,24,2.2,3,/players/n/nystrbo01.html
+0,,LW,18.3,12,115,21,0,23,2,21,13,Garry Howatt,2.8,1.9,34,0,197,,80,26,0.9,1,/players/h/howatga01.html
+0,,C,8.9,17,101,9,0,22,2,9,17,Andre St. Laurent,1.2,1.3,26,0,56,,67,14,-0.1,0,/players/s/stlauan01.html
+0,,D,5.5,17,110,6,1,28,0,6,18,Gerry Hart,7.9,7.1,24,0,151,,80,35,0.8,0,/players/h/hartge01.html
+0,,D,0.0,19,91,0,0,22,0,0,19,Dave Lewis,6.3,6.3,19,0,54,,73,29,0.1,0,/players/l/lewisda02.html
+4,,C,8.3,7,84,3,3,23,0,7,10,Lorne Henning,-0.2,1.3,17,0,16,,80,6,-1.5,0,/players/h/hennilo01.html
+0,,RW,12.0,7,75,9,0,32,2,9,7,Billy MacMillan,0.3,1.0,16,0,10,,64,5,-0.8,0,/players/m/macmibi01.html
+0,,D,0.0,15,70,0,0,32,0,0,16,Bert Marshall,6.5,6.6,16,0,72,,71,37,-0.1,1,/players/m/marshbe01.html
+1,,C,21.4,7,28,5,0,27,1,6,7,Ralph Stewart,0.7,0.5,13,0,2,,31,3,0.2,0,/players/s/stewara01.html
+0,,C,12.5,2,16,2,0,21,1,2,3,Bob Bourne,0.1,0.1,5,0,13,,14,-2,0.0,1,/players/b/bournbo01.html
+0,,D,0.0,1,58,0,1,24,0,0,2,Dave Fortier,3.2,4.2,2,0,68,,59,9,-1.0,0,/players/f/fortida01.html
+0,,D,0.0,2,4,0,0,20,0,0,2,Pat Price,0.6,0.5,2,0,2,,4,4,0.1,0,/players/p/pricepa01.html
+0,,G,,0,0,0,0,27,0,0,1,Glenn Resch,11.6,0.0,1,0,0,,44,0,0.0,0,/players/r/reschgl01.html
+0,,G,,0,0,0,0,25,0,0,1,Billy Smith,8.6,0.0,1,0,10,,39,0,0.0,0,/players/s/smithbi01.html

@@ -1,46 +1,46 @@
-points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
-0,['D. Weight'],2017-18,0,0,0,0,0,,New York Islanders,NYI,,0,NHL
-94,"['J. Capuano', 'D. Weight']",2016-17,41,29,12,.573,82,5th,New York Islanders,NYI,,0,NHL
-100,['J. Capuano'],2015-16,45,27,10,.610,82,4th,New York Islanders,NYI,Lost NHL Second Round,0,NHL
-101,['J. Capuano'],2014-15,47,28,7,.616,82,2nd,New York Islanders,NYI,Lost NHL First Round,0,NHL
-79,['J. Capuano'],2013-14,34,37,11,.482,82,8th,New York Islanders,NYI,,0,NHL
-55,['J. Capuano'],2012-13,24,17,7,.573,48,3rd,New York Islanders,NYI,Lost NHL Conference Quarter-Finals,0,NHL
-79,['J. Capuano'],2011-12,34,37,11,.482,82,5th,New York Islanders,NYI,,0,NHL
-73,"['S. Gordon', 'J. Capuano']",2010-11,30,39,13,.445,82,5th,New York Islanders,NYI,,0,NHL
-79,['S. Gordon'],2009-10,34,37,11,.482,82,5th,New York Islanders,NYI,,0,NHL
-61,['S. Gordon'],2008-09,26,47,9,.372,82,5th,New York Islanders,NYI,,0,NHL
-79,"['T. Nolan', 'A. Arbour', 'T. Nolan']",2007-08,35,38,9,.482,82,5th,New York Islanders,NYI,,0,NHL
-92,['T. Nolan'],2006-07,40,30,12,.561,82,4th,New York Islanders,NYI,Lost NHL Conference Quarter-Finals,0,NHL
-78,"['S. Stirling', 'B. Shaw']",2005-06,36,40,6,.476,82,4th,New York Islanders,NYI,,0,NHL
-91,['S. Stirling'],2003-04,38,29,4,.555,82,3rd,New York Islanders,NYI,Lost NHL Conference Quarter-Finals,11,NHL
-83,['P. Laviolette'],2002-03,35,34,2,.506,82,3rd,New York Islanders,NYI,Lost NHL Conference Quarter-Finals,11,NHL
-96,['P. Laviolette'],2001-02,42,28,4,.585,82,2nd,New York Islanders,NYI,Lost NHL Conference Quarter-Finals,8,NHL
-52,"['B. Goring', 'L. Henning']",2000-01,21,51,3,.317,82,5th,New York Islanders,NYI,,7,NHL
-58,['B. Goring'],1999-00,24,48,1,.354,82,5th,New York Islanders,NYI,,9,NHL
-58,"['M. Milbury', 'B. Stewart']",1998-99,24,48,0,.354,82,5th,New York Islanders,NYI,,10,NHL
-71,"['R. Bowness', 'M. Milbury']",1997-98,30,41,0,.433,82,4th,New York Islanders,NYI,,11,NHL
-70,"['M. Milbury', 'R. Bowness']",1996-97,29,41,0,.427,82,7th,New York Islanders,NYI,,12,NHL
-54,['M. Milbury'],1995-96,22,50,0,.329,82,7th,New York Islanders,NYI,,10,NHL
-35,['L. Henning'],1994-95,15,28,0,.365,48,7th,New York Islanders,NYI,,5,NHL
-84,['A. Arbour'],1993-94,36,36,0,.500,84,4th,New York Islanders,NYI,Lost NHL Conference Quarter-Finals,12,NHL
-87,['A. Arbour'],1992-93,40,37,0,.518,84,3rd,New York Islanders,NYI,Lost NHL Conference Finals,7,NHL
-79,['A. Arbour'],1991-92,34,35,0,.494,80,5th,New York Islanders,NYI,,11,NHL
-60,['A. Arbour'],1990-91,25,45,0,.375,80,6th,New York Islanders,NYI,,10,NHL
-73,['A. Arbour'],1989-90,31,38,0,.456,80,4th,New York Islanders,NYI,Lost NHL Division Semi-Finals,11,NHL
-61,"['T. Simpson', 'A. Arbour']",1988-89,28,47,0,.381,80,6th,New York Islanders,NYI,,5,NHL
-88,['T. Simpson'],1987-88,39,31,0,.550,80,1st,New York Islanders,NYI,Lost NHL Division Semi-Finals,10,NHL
-82,['T. Simpson'],1986-87,35,33,0,.513,80,3rd,New York Islanders,NYI,Lost NHL Division Finals,12,NHL
-90,['A. Arbour'],1985-86,39,29,0,.563,80,3rd,New York Islanders,NYI,Lost NHL Division Semi-Finals,12,NHL
-86,['A. Arbour'],1984-85,40,34,0,.538,80,3rd,New York Islanders,NYI,Lost NHL Division Finals,6,NHL
-104,['A. Arbour'],1983-84,50,26,0,.650,80,1st,New York Islanders,NYI,Lost Stanley Cup Final,4,NHL
-96,['A. Arbour'],1982-83,42,26,0,.600,80,2nd,New York Islanders,NYI,,12,NHL
-118,['A. Arbour'],1981-82,54,16,0,.738,80,1st,New York Islanders,NYI,,10,NHL
-110,['A. Arbour'],1980-81,48,18,0,.688,80,1st,New York Islanders,NYI,,14,NHL
-91,['A. Arbour'],1979-80,39,28,0,.569,80,2nd,New York Islanders,NYI,,13,NHL
-116,['A. Arbour'],1978-79,51,15,0,.725,80,1st,New York Islanders,NYI,Lost NHL Semi-Finals,14,NHL
-111,['A. Arbour'],1977-78,48,17,0,.694,80,1st,New York Islanders,NYI,Lost NHL Quarter-Finals,15,NHL
-106,['A. Arbour'],1976-77,47,21,0,.663,80,2nd,New York Islanders,NYI,Lost NHL Semi-Finals,12,NHL
-101,['A. Arbour'],1975-76,42,21,0,.631,80,2nd,New York Islanders,NYI,Lost NHL Semi-Finals,17,NHL
-88,['A. Arbour'],1974-75,33,25,0,.550,80,3rd,New York Islanders,NYI,Lost NHL Semi-Finals,22,NHL
-56,['A. Arbour'],1973-74,19,41,0,.359,78,8th,New York Islanders,NYI,,18,NHL
-30,"['P. Goyette', 'E. Ingarfield']",1972-73,12,60,0,.192,78,8th,New York Islanders,NYI,,6,NHL
+points,coaches,leage,code,season,wins,loses,overtime_loses,team_name,points_percentage,playoff_result,ties,games_played,finishing_position
+0,"[{'link': '/coaches/weighdo01c.html', 'name': 'D. Weight'}]",NHL,NYI,2017-18,0,0,0,New York Islanders,0,,0,0,
+94,"[{'link': '/coaches/capuaja01c.html', 'name': 'J. Capuano'}, {'link': '/coaches/weighdo01c.html', 'name': 'D. Weight'}]",NHL,NYI,2016-17,41,29,12,New York Islanders,.573,,0,82,5th
+100,"[{'link': '/coaches/capuaja01c.html', 'name': 'J. Capuano'}]",NHL,NYI,2015-16,45,27,10,New York Islanders,.610,Lost NHL Second Round,0,82,4th
+101,"[{'link': '/coaches/capuaja01c.html', 'name': 'J. Capuano'}]",NHL,NYI,2014-15,47,28,7,New York Islanders,.616,Lost NHL First Round,0,82,2nd
+79,"[{'link': '/coaches/capuaja01c.html', 'name': 'J. Capuano'}]",NHL,NYI,2013-14,34,37,11,New York Islanders,.482,,0,82,8th
+55,"[{'link': '/coaches/capuaja01c.html', 'name': 'J. Capuano'}]",NHL,NYI,2012-13,24,17,7,New York Islanders,.573,Lost NHL Conference Quarter-Finals,0,48,3rd
+79,"[{'link': '/coaches/capuaja01c.html', 'name': 'J. Capuano'}]",NHL,NYI,2011-12,34,37,11,New York Islanders,.482,,0,82,5th
+73,"[{'link': '/coaches/gordosc01c.html', 'name': 'S. Gordon'}, {'link': '/coaches/capuaja01c.html', 'name': 'J. Capuano'}]",NHL,NYI,2010-11,30,39,13,New York Islanders,.445,,0,82,5th
+79,"[{'link': '/coaches/gordosc01c.html', 'name': 'S. Gordon'}]",NHL,NYI,2009-10,34,37,11,New York Islanders,.482,,0,82,5th
+61,"[{'link': '/coaches/gordosc01c.html', 'name': 'S. Gordon'}]",NHL,NYI,2008-09,26,47,9,New York Islanders,.372,,0,82,5th
+79,"[{'link': '/coaches/nolante01c.html', 'name': 'T. Nolan'}, {'link': '/coaches/arboual01c.html', 'name': 'A. Arbour'}, {'link': '/coaches/nolante01c.html', 'name': 'T. Nolan'}]",NHL,NYI,2007-08,35,38,9,New York Islanders,.482,,0,82,5th
+92,"[{'link': '/coaches/nolante01c.html', 'name': 'T. Nolan'}]",NHL,NYI,2006-07,40,30,12,New York Islanders,.561,Lost NHL Conference Quarter-Finals,0,82,4th
+78,"[{'link': '/coaches/stirlst99c.html', 'name': 'S. Stirling'}, {'link': '/coaches/shawbr01c.html', 'name': 'B. Shaw'}]",NHL,NYI,2005-06,36,40,6,New York Islanders,.476,,0,82,4th
+91,"[{'link': '/coaches/stirlst99c.html', 'name': 'S. Stirling'}]",NHL,NYI,2003-04,38,29,4,New York Islanders,.555,Lost NHL Conference Quarter-Finals,11,82,3rd
+83,"[{'link': '/coaches/laviope01c.html', 'name': 'P. Laviolette'}]",NHL,NYI,2002-03,35,34,2,New York Islanders,.506,Lost NHL Conference Quarter-Finals,11,82,3rd
+96,"[{'link': '/coaches/laviope01c.html', 'name': 'P. Laviolette'}]",NHL,NYI,2001-02,42,28,4,New York Islanders,.585,Lost NHL Conference Quarter-Finals,8,82,2nd
+52,"[{'link': '/coaches/gorinbu01c.html', 'name': 'B. Goring'}, {'link': '/coaches/hennilo01c.html', 'name': 'L. Henning'}]",NHL,NYI,2000-01,21,51,3,New York Islanders,.317,,7,82,5th
+58,"[{'link': '/coaches/gorinbu01c.html', 'name': 'B. Goring'}]",NHL,NYI,1999-00,24,48,1,New York Islanders,.354,,9,82,5th
+58,"[{'link': '/coaches/milbumi01c.html', 'name': 'M. Milbury'}, {'link': '/coaches/stewabi01c.html', 'name': 'B. Stewart'}]",NHL,NYI,1998-99,24,48,0,New York Islanders,.354,,10,82,5th
+71,"[{'link': '/coaches/bowneri01c.html', 'name': 'R. Bowness'}, {'link': '/coaches/milbumi01c.html', 'name': 'M. Milbury'}]",NHL,NYI,1997-98,30,41,0,New York Islanders,.433,,11,82,4th
+70,"[{'link': '/coaches/milbumi01c.html', 'name': 'M. Milbury'}, {'link': '/coaches/bowneri01c.html', 'name': 'R. Bowness'}]",NHL,NYI,1996-97,29,41,0,New York Islanders,.427,,12,82,7th
+54,"[{'link': '/coaches/milbumi01c.html', 'name': 'M. Milbury'}]",NHL,NYI,1995-96,22,50,0,New York Islanders,.329,,10,82,7th
+35,"[{'link': '/coaches/hennilo01c.html', 'name': 'L. Henning'}]",NHL,NYI,1994-95,15,28,0,New York Islanders,.365,,5,48,7th
+84,"[{'link': '/coaches/arboual01c.html', 'name': 'A. Arbour'}]",NHL,NYI,1993-94,36,36,0,New York Islanders,.500,Lost NHL Conference Quarter-Finals,12,84,4th
+87,"[{'link': '/coaches/arboual01c.html', 'name': 'A. Arbour'}]",NHL,NYI,1992-93,40,37,0,New York Islanders,.518,Lost NHL Conference Finals,7,84,3rd
+79,"[{'link': '/coaches/arboual01c.html', 'name': 'A. Arbour'}]",NHL,NYI,1991-92,34,35,0,New York Islanders,.494,,11,80,5th
+60,"[{'link': '/coaches/arboual01c.html', 'name': 'A. Arbour'}]",NHL,NYI,1990-91,25,45,0,New York Islanders,.375,,10,80,6th
+73,"[{'link': '/coaches/arboual01c.html', 'name': 'A. Arbour'}]",NHL,NYI,1989-90,31,38,0,New York Islanders,.456,Lost NHL Division Semi-Finals,11,80,4th
+61,"[{'link': '/coaches/simpste99c.html', 'name': 'T. Simpson'}, {'link': '/coaches/arboual01c.html', 'name': 'A. Arbour'}]",NHL,NYI,1988-89,28,47,0,New York Islanders,.381,,5,80,6th
+88,"[{'link': '/coaches/simpste99c.html', 'name': 'T. Simpson'}]",NHL,NYI,1987-88,39,31,0,New York Islanders,.550,Lost NHL Division Semi-Finals,10,80,1st
+82,"[{'link': '/coaches/simpste99c.html', 'name': 'T. Simpson'}]",NHL,NYI,1986-87,35,33,0,New York Islanders,.513,Lost NHL Division Finals,12,80,3rd
+90,"[{'link': '/coaches/arboual01c.html', 'name': 'A. Arbour'}]",NHL,NYI,1985-86,39,29,0,New York Islanders,.563,Lost NHL Division Semi-Finals,12,80,3rd
+86,"[{'link': '/coaches/arboual01c.html', 'name': 'A. Arbour'}]",NHL,NYI,1984-85,40,34,0,New York Islanders,.538,Lost NHL Division Finals,6,80,3rd
+104,"[{'link': '/coaches/arboual01c.html', 'name': 'A. Arbour'}]",NHL,NYI,1983-84,50,26,0,New York Islanders,.650,Lost Stanley Cup Final,4,80,1st
+96,"[{'link': '/coaches/arboual01c.html', 'name': 'A. Arbour'}]",NHL,NYI,1982-83,42,26,0,New York Islanders,.600,,12,80,2nd
+118,"[{'link': '/coaches/arboual01c.html', 'name': 'A. Arbour'}]",NHL,NYI,1981-82,54,16,0,New York Islanders,.738,,10,80,1st
+110,"[{'link': '/coaches/arboual01c.html', 'name': 'A. Arbour'}]",NHL,NYI,1980-81,48,18,0,New York Islanders,.688,,14,80,1st
+91,"[{'link': '/coaches/arboual01c.html', 'name': 'A. Arbour'}]",NHL,NYI,1979-80,39,28,0,New York Islanders,.569,,13,80,2nd
+116,"[{'link': '/coaches/arboual01c.html', 'name': 'A. Arbour'}]",NHL,NYI,1978-79,51,15,0,New York Islanders,.725,Lost NHL Semi-Finals,14,80,1st
+111,"[{'link': '/coaches/arboual01c.html', 'name': 'A. Arbour'}]",NHL,NYI,1977-78,48,17,0,New York Islanders,.694,Lost NHL Quarter-Finals,15,80,1st
+106,"[{'link': '/coaches/arboual01c.html', 'name': 'A. Arbour'}]",NHL,NYI,1976-77,47,21,0,New York Islanders,.663,Lost NHL Semi-Finals,12,80,2nd
+101,"[{'link': '/coaches/arboual01c.html', 'name': 'A. Arbour'}]",NHL,NYI,1975-76,42,21,0,New York Islanders,.631,Lost NHL Semi-Finals,17,80,2nd
+88,"[{'link': '/coaches/arboual01c.html', 'name': 'A. Arbour'}]",NHL,NYI,1974-75,33,25,0,New York Islanders,.550,Lost NHL Semi-Finals,22,80,3rd
+56,"[{'link': '/coaches/arboual01c.html', 'name': 'A. Arbour'}]",NHL,NYI,1973-74,19,41,0,New York Islanders,.359,,18,78,8th
+30,"[{'link': '/coaches/goyetph01c.html', 'name': 'P. Goyette'}, {'link': '/coaches/ingarea01c.html', 'name': 'E. Ingarfield'}]",NHL,NYI,1972-73,12,60,0,New York Islanders,.192,,6,78,8th

@@ -1,16 +1,16 @@
-offensive_point_share,name,even_strength_goals,shorthanded_goals,plus_minus,shotsPercentage,age,shots,assists,positions,overall_point_share,points,games_played,power_play_assists,defensive_point_share,game_winning_goals,power_play_goals,total_ice_time,shorthanded_assists,goals,even_strength_assists,average_ice_time,pim
-8.2,Bill Cook,0,0,0,,35,0,14,RW,9.2,48,48,0,1.0,0,0,,0,34,0,,33
-5.4,Cecil Dillon,0,0,0,,23,0,15,RW,6.4,38,48,0,1.0,0,0,,0,23,0,,22
-3.6,Frank Boucher,0,0,0,,30,0,23,C,4.6,35,48,0,1.0,0,0,,0,12,0,,18
-3.9,Bun Cook,0,0,0,,28,0,20,LW,4.8,34,45,0,0.9,0,0,,0,14,0,,43
-2.3,Art Somers,0,0,0,,30,0,15,C,3.3,26,48,0,1.0,0,0,,0,11,0,,45
-0.8,Murray Murdoch,0,0,0,,27,0,16,C/LW,1.8,21,48,0,1.0,0,0,,0,5,0,,32
-2.3,Butch Keeling,0,0,0,,26,0,3,C/LW,3.3,20,48,0,1.0,0,0,,0,17,0,,38
-1.0,Ching Johnson,0,0,0,,33,0,10,D,4.8,13,47,0,3.8,0,0,,0,3,0,,106
--0.5,Dutch Gainor,0,0,0,,27,0,9,LW,0.4,12,46,0,0.9,0,0,,0,3,0,,9
-0.8,Earl Seibert,0,0,0,,20,0,6,D,4.5,10,46,0,3.7,0,0,,0,4,0,,88
-0.6,Doug Brennan,0,0,0,,27,0,3,D,3.7,7,38,0,3.1,0,0,,0,4,0,,40
--1.4,Vic Desjardins,0,0,0,,31,0,3,C,-0.4,6,48,0,1.0,0,0,,0,3,0,,16
-0.3,Ott Heller,0,0,0,,21,0,2,D,2.0,4,21,0,1.7,0,0,,0,2,0,,9
--2.0,Hib Milks,0,0,0,,32,0,4,C,-1.1,4,48,0,1.0,0,0,,0,0,0,,12
-0.0,John Ross Roach,0,0,0,,31,0,0,G,8.9,0,48,0,0.0,0,0,,0,0,0,,0
+shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
+0,,RW,,0,0,0,0,35,0,34,14,Bill Cook,9.2,1.0,48,0,33,,48,0,8.2,0,/players/c/cookbi01.html
+0,,RW,,0,0,0,0,23,0,23,15,Cecil Dillon,6.4,1.0,38,0,22,,48,0,5.4,0,/players/d/dilloce01.html
+0,,C,,0,0,0,0,30,0,12,23,Frank Boucher,4.6,1.0,35,0,18,,48,0,3.6,0,/players/b/bouchfr01.html
+0,,LW,,0,0,0,0,28,0,14,20,Bun Cook,4.8,0.9,34,0,43,,45,0,3.9,0,/players/c/cookbu01.html
+0,,C,,0,0,0,0,30,0,11,15,Art Somers,3.3,1.0,26,0,45,,48,0,2.3,0,/players/s/somerar01.html
+0,,C/LW,,0,0,0,0,27,0,5,16,Murray Murdoch,1.8,1.0,21,0,32,,48,0,0.8,0,/players/m/murdomu01.html
+0,,C/LW,,0,0,0,0,26,0,17,3,Butch Keeling,3.3,1.0,20,0,38,,48,0,2.3,0,/players/k/keelibu01.html
+0,,D,,0,0,0,0,33,0,3,10,Ching Johnson,4.8,3.8,13,0,106,,47,0,1.0,0,/players/j/johnsch01.html
+0,,LW,,0,0,0,0,27,0,3,9,Dutch Gainor,0.4,0.9,12,0,9,,46,0,-0.5,0,/players/g/gainodu01.html
+0,,D,,0,0,0,0,20,0,4,6,Earl Seibert,4.5,3.7,10,0,88,,46,0,0.8,0,/players/s/seibeea01.html
+0,,D,,0,0,0,0,27,0,4,3,Doug Brennan,3.7,3.1,7,0,40,,38,0,0.6,0,/players/b/brenndo01.html
+0,,C,,0,0,0,0,31,0,3,3,Vic Desjardins,-0.4,1.0,6,0,16,,48,0,-1.4,0,/players/d/desjavi01.html
+0,,D,,0,0,0,0,21,0,2,2,Ott Heller,2.0,1.7,4,0,9,,21,0,0.3,0,/players/h/helleot01.html
+0,,C,,0,0,0,0,32,0,0,4,Hib Milks,-1.1,1.0,4,0,12,,48,0,-2.0,0,/players/m/milkshi01.html
+0,,G,,0,0,0,0,31,0,0,0,John Ross Roach,8.9,0.0,0,0,0,,48,0,0.0,0,/players/r/roachjo01.html

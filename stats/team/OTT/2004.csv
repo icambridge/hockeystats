@@ -1,37 +1,37 @@
-offensive_point_share,name,even_strength_goals,shorthanded_goals,plus_minus,shotsPercentage,age,shots,assists,positions,overall_point_share,points,games_played,power_play_assists,defensive_point_share,game_winning_goals,power_play_goals,total_ice_time,shorthanded_assists,goals,even_strength_assists,average_ice_time,pim
-9.2,Marian Hossa,21,1,4,15.5,25,233,46,RW,10.8,82,81,25,1.6,5,14,1509,0,36,21,18:37,46
-8.6,Daniel Alfredsson,23,0,12,13.9,31,230,48,RW,10.4,80,77,29,1.9,5,9,1494,1,32,18,19:24,24
-8.1,Martin Havlat,18,0,12,17.7,22,175,37,RW,9.6,68,68,17,1.6,7,13,1138,0,31,20,16:44,46
-5.6,Jason Spezza,17,0,22,15.5,20,142,33,C,7.6,55,78,8,2.0,3,5,1142,0,22,25,14:38,71
-3.7,Bryan Smolinski,15,0,22,10.4,32,182,27,C,5.8,46,80,7,2.2,3,4,1332,1,19,19,16:39,49
-3.1,Radek Bonk,6,0,2,12.2,28,98,32,C,4.3,44,66,21,1.2,1,6,1164,0,12,11,17:38,66
-4.5,Wade Redden,5,0,21,9.7,26,175,26,D,9.7,43,81,10,5.2,3,12,2017,0,17,16,24:54,65
-4.3,Zdeno Chara,9,0,33,8.6,26,185,25,D,10.3,41,79,7,6.1,3,7,1946,3,16,15,24:38,147
-2.6,Peter Schaefer,11,2,22,13.4,26,112,24,LW,4.7,39,81,4,2.1,3,2,1264,0,15,20,15:36,26
-1.7,Todd White,7,1,12,9.2,28,98,20,C,3.1,29,53,6,1.4,2,1,929,0,9,14,17:32,22
-1.5,Chris Phillips,7,0,15,7.5,25,93,16,D,5.6,23,82,3,4.2,1,0,1709,0,7,13,20:50,46
-1.6,Josh Langfeld,5,0,6,11.9,26,59,10,RW,2.2,17,38,1,0.6,2,2,414,0,7,9,10:53,16
-0.7,Karel Rachunek,1,0,17,1.0,24,99,16,D,4.1,17,60,7,3.4,0,0,1183,0,1,9,19:43,29
-0.7,Chris Neil,8,0,13,10.5,24,76,8,RW,1.9,16,82,1,1.2,1,0,726,0,8,7,8:51,194
-0.5,Antoine Vermette,6,1,5,11.1,21,63,7,LW,1.3,14,57,0,0.8,0,0,684,1,7,6,11:59,16
-1.0,Peter Bondra,3,0,1,9.6,35,52,9,RW,1.4,14,23,2,0.4,1,2,422,0,5,7,18:21,16
--0.7,Shaun Van Allen,1,1,6,4.9,36,41,10,LW,0.3,12,73,0,1.0,0,0,839,1,2,9,11:29,80
-0.5,Vaclav Varada,5,0,2,10.6,27,47,5,LW,1.0,10,30,0,0.5,1,0,430,0,5,5,14:21,26
-0.4,Mike Fisher,3,0,-3,8.5,23,47,6,C,0.7,10,24,0,0.3,0,1,418,0,4,6,17:26,39
-0.1,Brian Pothier,1,0,6,2.6,26,78,6,D,2.2,8,55,2,2.1,1,1,920,0,2,4,16:43,24
--0.2,Petr Schastlivy,1,0,-1,5.4,24,37,4,LW,0.1,6,43,0,0.3,1,1,410,0,2,4,9:32,14
--0.2,Curtis Leschyshyn,1,0,13,3.3,34,30,4,D,2.2,5,56,0,2.4,0,0,778,0,1,4,13:54,16
-0.1,Shane Hnidy,0,0,2,0.0,28,16,5,D,1.0,5,37,0,0.9,0,0,419,0,0,5,11:19,72
-0.2,Anton Volchenkov,1,0,1,6.7,21,15,2,D,0.7,3,19,0,0.5,0,0,248,0,1,2,13:04,8
-0.0,Patrick Lalime,0,0,0,,29,0,2,G,7.2,2,57,0,0.0,0,0,3324,0,0,0,58:19,17
-0.2,Rob Ray,1,0,0,33.3,35,3,0,RW,0.2,1,6,0,0.0,0,0,28,0,1,0,4:40,14
--0.1,Greg de Vries,0,0,0,0.0,31,12,1,D,0.2,1,13,1,0.4,0,0,232,0,0,0,17:51,6
-0.0,Serge Payer,0,0,1,0.0,24,2,1,C,0.1,1,5,0,0.1,0,0,53,0,0,1,10:30,2
-0.0,Martin Prusek,0,0,0,,28,0,1,G,4.5,1,29,0,0.0,0,0,1528,0,0,0,52:41,0
--0.1,Todd Simpson,0,0,-1,0.0,30,10,1,D,0.2,1,16,0,0.3,0,0,230,0,0,1,14:21,47
-0.0,Ray Emery,0,0,0,,21,0,0,G,0.3,0,3,0,0.0,0,0,126,0,0,0,42:04,2
--0.1,Denis Hamel,0,0,-3,0.0,26,6,0,LW,-0.2,0,5,0,-0.1,0,0,31,0,0,0,6:16,0
-0.0,Jody Hull,0,0,0,,34,0,0,RW,0.0,0,1,0,0.0,0,0,3,0,0,0,2:51,0
--0.1,Chris Kelly,0,0,-2,0.0,23,4,0,C,-0.2,0,4,0,0.0,0,0,38,0,0,0,9:29,0
-0.0,Brooks Laich,0,0,0,0.0,20,1,0,C,0.0,0,1,0,0.0,0,0,10,0,0,0,9:34,2
-0.0,Julien Vauclair,0,0,1,,24,0,0,D,0.1,0,1,0,0.1,0,0,13,0,0,0,12:48,2
+shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
+1,18:37,RW,15.5,21,233,21,0,25,5,36,46,Marian Hossa,10.8,1.6,82,14,46,1509,81,4,9.2,25,/players/h/hossama01.html
+0,19:24,RW,13.9,18,230,23,1,31,5,32,48,Daniel Alfredsson,10.4,1.9,80,9,24,1494,77,12,8.6,29,/players/a/alfreda01.html
+0,16:44,RW,17.7,20,175,18,0,22,7,31,37,Martin Havlat,9.6,1.6,68,13,46,1138,68,12,8.1,17,/players/h/havlama01.html
+0,14:38,C,15.5,25,142,17,0,20,3,22,33,Jason Spezza,7.6,2.0,55,5,71,1142,78,22,5.6,8,/players/s/spezzja01.html
+0,16:39,C,10.4,19,182,15,1,32,3,19,27,Bryan Smolinski,5.8,2.2,46,4,49,1332,80,22,3.7,7,/players/s/smolibr01.html
+0,17:38,C,12.2,11,98,6,0,28,1,12,32,Radek Bonk,4.3,1.2,44,6,66,1164,66,2,3.1,21,/players/b/bonkra01.html
+0,24:54,D,9.7,16,175,5,0,26,3,17,26,Wade Redden,9.7,5.2,43,12,65,2017,81,21,4.5,10,/players/r/reddewa01.html
+0,24:38,D,8.6,15,185,9,3,26,3,16,25,Zdeno Chara,10.3,6.1,41,7,147,1946,79,33,4.3,7,/players/c/charazd01.html
+2,15:36,LW,13.4,20,112,11,0,26,3,15,24,Peter Schaefer,4.7,2.1,39,2,26,1264,81,22,2.6,4,/players/s/schaepe01.html
+1,17:32,C,9.2,14,98,7,0,28,2,9,20,Todd White,3.1,1.4,29,1,22,929,53,12,1.7,6,/players/w/whiteto02.html
+0,20:50,D,7.5,13,93,7,0,25,1,7,16,Chris Phillips,5.6,4.2,23,0,46,1709,82,15,1.5,3,/players/p/phillch02.html
+0,10:53,RW,11.9,9,59,5,0,26,2,7,10,Josh Langfeld,2.2,0.6,17,2,16,414,38,6,1.6,1,/players/l/langfjo01.html
+0,19:43,D,1.0,9,99,1,0,24,0,1,16,Karel Rachunek,4.1,3.4,17,0,29,1183,60,17,0.7,7,/players/r/rachuka01.html
+0,8:51,RW,10.5,7,76,8,0,24,1,8,8,Chris Neil,1.9,1.2,16,0,194,726,82,13,0.7,1,/players/n/neilch01.html
+1,11:59,LW,11.1,6,63,6,1,21,0,7,7,Antoine Vermette,1.3,0.8,14,0,16,684,57,5,0.5,0,/players/v/vermean01.html
+0,18:21,RW,9.6,7,52,3,0,35,1,5,9,Peter Bondra,1.4,0.4,14,2,16,422,23,1,1.0,2,/players/b/bondrpe01.html
+1,11:29,LW,4.9,9,41,1,1,36,0,2,10,Shaun Van Allen,0.3,1.0,12,0,80,839,73,6,-0.7,0,/players/v/vanalsh01.html
+0,14:21,LW,10.6,5,47,5,0,27,1,5,5,Vaclav Varada,1.0,0.5,10,0,26,430,30,2,0.5,0,/players/v/varadva01.html
+0,17:26,C,8.5,6,47,3,0,23,0,4,6,Mike Fisher,0.7,0.3,10,1,39,418,24,-3,0.4,0,/players/f/fishemi01.html
+0,16:43,D,2.6,4,78,1,0,26,1,2,6,Brian Pothier,2.2,2.1,8,1,24,920,55,6,0.1,2,/players/p/pothibr01.html
+0,9:32,LW,5.4,4,37,1,0,24,1,2,4,Petr Schastlivy,0.1,0.3,6,1,14,410,43,-1,-0.2,0,/players/s/schaspe01.html
+0,13:54,D,3.3,4,30,1,0,34,0,1,4,Curtis Leschyshyn,2.2,2.4,5,0,16,778,56,13,-0.2,0,/players/l/leschcu01.html
+0,11:19,D,0.0,5,16,0,0,28,0,0,5,Shane Hnidy,1.0,0.9,5,0,72,419,37,2,0.1,0,/players/h/hnidysh01.html
+0,13:04,D,6.7,2,15,1,0,21,0,1,2,Anton Volchenkov,0.7,0.5,3,0,8,248,19,1,0.2,0,/players/v/volchan01.html
+0,58:19,G,,0,0,0,0,29,0,0,2,Patrick Lalime,7.2,0.0,2,0,17,3324,57,0,0.0,0,/players/l/lalimpa01.html
+0,4:40,RW,33.3,0,3,1,0,35,0,1,0,Rob Ray,0.2,0.0,1,0,14,28,6,0,0.2,0,/players/r/rayro01.html
+0,17:51,D,0.0,0,12,0,0,31,0,0,1,Greg de Vries,0.2,0.4,1,0,6,232,13,0,-0.1,1,/players/d/devrigr01.html
+0,10:30,C,0.0,1,2,0,0,24,0,0,1,Serge Payer,0.1,0.1,1,0,2,53,5,1,0.0,0,/players/p/payerse01.html
+0,52:41,G,,0,0,0,0,28,0,0,1,Martin Prusek,4.5,0.0,1,0,0,1528,29,0,0.0,0,/players/p/prusema01.html
+0,14:21,D,0.0,1,10,0,0,30,0,0,1,Todd Simpson,0.2,0.3,1,0,47,230,16,-1,-0.1,0,/players/s/simpsto01.html
+0,42:04,G,,0,0,0,0,21,0,0,0,Ray Emery,0.3,0.0,0,0,2,126,3,0,0.0,0,/players/e/emeryra01.html
+0,6:16,LW,0.0,0,6,0,0,26,0,0,0,Denis Hamel,-0.2,-0.1,0,0,0,31,5,-3,-0.1,0,/players/h/hamelde01.html
+0,2:51,RW,,0,0,0,0,34,0,0,0,Jody Hull,0.0,0.0,0,0,0,3,1,0,0.0,0,/players/h/hulljo01.html
+0,9:29,C,0.0,0,4,0,0,23,0,0,0,Chris Kelly,-0.2,0.0,0,0,0,38,4,-2,-0.1,0,/players/k/kellych01.html
+0,9:34,C,0.0,0,1,0,0,20,0,0,0,Brooks Laich,0.0,0.0,0,0,2,10,1,0,0.0,0,/players/l/laichbr01.html
+0,12:48,D,,0,0,0,0,24,0,0,0,Julien Vauclair,0.1,0.1,0,0,2,13,1,1,0.0,0,/players/v/vauclju01.html

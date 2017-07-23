@@ -1,26 +1,26 @@
-points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
-0,['J. Cooper'],2017-18,0,0,0,0,0,,Tampa Bay Lightning,TBL,,0,NHL
-94,['J. Cooper'],2016-17,42,30,10,.573,82,5th,Tampa Bay Lightning,TBL,,0,NHL
-97,['J. Cooper'],2015-16,46,31,5,.591,82,2nd,Tampa Bay Lightning,TBL,Lost NHL Conference Finals,0,NHL
-108,['J. Cooper'],2014-15,50,24,8,.659,82,2nd,Tampa Bay Lightning,TBL,Lost Stanley Cup Final,0,NHL
-101,['J. Cooper'],2013-14,46,27,9,.616,82,2nd,Tampa Bay Lightning,TBL,Lost NHL First Round,0,NHL
-40,"['G. Boucher', 'J. Cooper']",2012-13,18,26,4,.417,48,4th,Tampa Bay Lightning,TBL,,0,NHL
-84,['G. Boucher'],2011-12,38,36,8,.512,82,3rd,Tampa Bay Lightning,TBL,,0,NHL
-103,['G. Boucher'],2010-11,46,25,11,.628,82,2nd,Tampa Bay Lightning,TBL,Lost NHL Conference Finals,0,NHL
-80,['R. Tocchet'],2009-10,34,36,12,.488,82,3rd,Tampa Bay Lightning,TBL,,0,NHL
-66,"['B. Melrose', 'R. Tocchet']",2008-09,24,40,18,.402,82,5th,Tampa Bay Lightning,TBL,,0,NHL
-71,['J. Tortorella'],2007-08,31,42,9,.433,82,5th,Tampa Bay Lightning,TBL,,0,NHL
-93,['J. Tortorella'],2006-07,44,33,5,.567,82,2nd,Tampa Bay Lightning,TBL,Lost NHL Conference Quarter-Finals,0,NHL
-92,['J. Tortorella'],2005-06,43,33,6,.561,82,2nd,Tampa Bay Lightning,TBL,Lost NHL Conference Quarter-Finals,0,NHL
-106,['J. Tortorella'],2003-04,46,22,6,.646,82,1st,Tampa Bay Lightning,TBL,,8,NHL
-93,['J. Tortorella'],2002-03,36,25,5,.567,82,1st,Tampa Bay Lightning,TBL,Lost NHL Conference Semi-Finals,16,NHL
-69,['J. Tortorella'],2001-02,27,40,4,.421,82,3rd,Tampa Bay Lightning,TBL,,11,NHL
-59,"['S. Ludzik', 'J. Tortorella']",2000-01,24,47,5,.360,82,5th,Tampa Bay Lightning,TBL,,6,NHL
-54,['S. Ludzik'],1999-00,19,47,7,.329,82,4th,Tampa Bay Lightning,TBL,,9,NHL
-47,['J. Demers'],1998-99,19,54,0,.287,82,4th,Tampa Bay Lightning,TBL,,9,NHL
-44,"['T. Crisp', 'R. Paterson', 'J. Demers']",1997-98,17,55,0,.268,82,7th,Tampa Bay Lightning,TBL,,10,NHL
-74,['T. Crisp'],1996-97,32,40,0,.451,82,6th,Tampa Bay Lightning,TBL,,10,NHL
-88,['T. Crisp'],1995-96,38,32,0,.537,82,5th,Tampa Bay Lightning,TBL,Lost NHL Conference Quarter-Finals,12,NHL
-37,['T. Crisp'],1994-95,17,28,0,.385,48,6th,Tampa Bay Lightning,TBL,,3,NHL
-71,['T. Crisp'],1993-94,30,43,0,.423,84,7th,Tampa Bay Lightning,TBL,,11,NHL
-53,['T. Crisp'],1992-93,23,54,0,.315,84,6th,Tampa Bay Lightning,TBL,,7,NHL
+points,coaches,leage,code,season,wins,loses,overtime_loses,team_name,points_percentage,playoff_result,ties,games_played,finishing_position
+0,"[{'link': '/coaches/coopejo01c.html', 'name': 'J. Cooper'}]",NHL,TBL,2017-18,0,0,0,Tampa Bay Lightning,0,,0,0,
+94,"[{'link': '/coaches/coopejo01c.html', 'name': 'J. Cooper'}]",NHL,TBL,2016-17,42,30,10,Tampa Bay Lightning,.573,,0,82,5th
+97,"[{'link': '/coaches/coopejo01c.html', 'name': 'J. Cooper'}]",NHL,TBL,2015-16,46,31,5,Tampa Bay Lightning,.591,Lost NHL Conference Finals,0,82,2nd
+108,"[{'link': '/coaches/coopejo01c.html', 'name': 'J. Cooper'}]",NHL,TBL,2014-15,50,24,8,Tampa Bay Lightning,.659,Lost Stanley Cup Final,0,82,2nd
+101,"[{'link': '/coaches/coopejo01c.html', 'name': 'J. Cooper'}]",NHL,TBL,2013-14,46,27,9,Tampa Bay Lightning,.616,Lost NHL First Round,0,82,2nd
+40,"[{'link': '/coaches/bouchgu99c.html', 'name': 'G. Boucher'}, {'link': '/coaches/coopejo01c.html', 'name': 'J. Cooper'}]",NHL,TBL,2012-13,18,26,4,Tampa Bay Lightning,.417,,0,48,4th
+84,"[{'link': '/coaches/bouchgu99c.html', 'name': 'G. Boucher'}]",NHL,TBL,2011-12,38,36,8,Tampa Bay Lightning,.512,,0,82,3rd
+103,"[{'link': '/coaches/bouchgu99c.html', 'name': 'G. Boucher'}]",NHL,TBL,2010-11,46,25,11,Tampa Bay Lightning,.628,Lost NHL Conference Finals,0,82,2nd
+80,"[{'link': '/coaches/tocchri01c.html', 'name': 'R. Tocchet'}]",NHL,TBL,2009-10,34,36,12,Tampa Bay Lightning,.488,,0,82,3rd
+66,"[{'link': '/coaches/melroba01c.html', 'name': 'B. Melrose'}, {'link': '/coaches/tocchri01c.html', 'name': 'R. Tocchet'}]",NHL,TBL,2008-09,24,40,18,Tampa Bay Lightning,.402,,0,82,5th
+71,"[{'link': '/coaches/tortojo99c.html', 'name': 'J. Tortorella'}]",NHL,TBL,2007-08,31,42,9,Tampa Bay Lightning,.433,,0,82,5th
+93,"[{'link': '/coaches/tortojo99c.html', 'name': 'J. Tortorella'}]",NHL,TBL,2006-07,44,33,5,Tampa Bay Lightning,.567,Lost NHL Conference Quarter-Finals,0,82,2nd
+92,"[{'link': '/coaches/tortojo99c.html', 'name': 'J. Tortorella'}]",NHL,TBL,2005-06,43,33,6,Tampa Bay Lightning,.561,Lost NHL Conference Quarter-Finals,0,82,2nd
+106,"[{'link': '/coaches/tortojo99c.html', 'name': 'J. Tortorella'}]",NHL,TBL,2003-04,46,22,6,Tampa Bay Lightning,.646,,8,82,1st
+93,"[{'link': '/coaches/tortojo99c.html', 'name': 'J. Tortorella'}]",NHL,TBL,2002-03,36,25,5,Tampa Bay Lightning,.567,Lost NHL Conference Semi-Finals,16,82,1st
+69,"[{'link': '/coaches/tortojo99c.html', 'name': 'J. Tortorella'}]",NHL,TBL,2001-02,27,40,4,Tampa Bay Lightning,.421,,11,82,3rd
+59,"[{'link': '/coaches/ludzist01c.html', 'name': 'S. Ludzik'}, {'link': '/coaches/tortojo99c.html', 'name': 'J. Tortorella'}]",NHL,TBL,2000-01,24,47,5,Tampa Bay Lightning,.360,,6,82,5th
+54,"[{'link': '/coaches/ludzist01c.html', 'name': 'S. Ludzik'}]",NHL,TBL,1999-00,19,47,7,Tampa Bay Lightning,.329,,9,82,4th
+47,"[{'link': '/coaches/demerja99c.html', 'name': 'J. Demers'}]",NHL,TBL,1998-99,19,54,0,Tampa Bay Lightning,.287,,9,82,4th
+44,"[{'link': '/coaches/crispte01c.html', 'name': 'T. Crisp'}, {'link': '/coaches/paterri01c.html', 'name': 'R. Paterson'}, {'link': '/coaches/demerja99c.html', 'name': 'J. Demers'}]",NHL,TBL,1997-98,17,55,0,Tampa Bay Lightning,.268,,10,82,7th
+74,"[{'link': '/coaches/crispte01c.html', 'name': 'T. Crisp'}]",NHL,TBL,1996-97,32,40,0,Tampa Bay Lightning,.451,,10,82,6th
+88,"[{'link': '/coaches/crispte01c.html', 'name': 'T. Crisp'}]",NHL,TBL,1995-96,38,32,0,Tampa Bay Lightning,.537,Lost NHL Conference Quarter-Finals,12,82,5th
+37,"[{'link': '/coaches/crispte01c.html', 'name': 'T. Crisp'}]",NHL,TBL,1994-95,17,28,0,Tampa Bay Lightning,.385,,3,48,6th
+71,"[{'link': '/coaches/crispte01c.html', 'name': 'T. Crisp'}]",NHL,TBL,1993-94,30,43,0,Tampa Bay Lightning,.423,,11,84,7th
+53,"[{'link': '/coaches/crispte01c.html', 'name': 'T. Crisp'}]",NHL,TBL,1992-93,23,54,0,Tampa Bay Lightning,.315,,7,84,6th

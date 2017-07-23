@@ -1,46 +1,46 @@
-points,coaches,season,wins,loses,overtime_loses,points_percentage,games_played,finishing_position,team_name,code,playoff_result,ties,leage
-0,['G. Gulutzan'],2017-18,0,0,0,0,0,,Calgary Flames,CGY,,0,NHL
-94,['G. Gulutzan'],2016-17,45,33,4,.573,82,4th,Calgary Flames,CGY,Lost NHL First Round,0,NHL
-77,['B. Hartley'],2015-16,35,40,7,.470,82,5th,Calgary Flames,CGY,,0,NHL
-97,['B. Hartley'],2014-15,45,30,7,.591,82,3rd,Calgary Flames,CGY,Lost NHL Second Round,0,NHL
-77,['B. Hartley'],2013-14,35,40,7,.470,82,6th,Calgary Flames,CGY,,0,NHL
-42,['B. Hartley'],2012-13,19,25,4,.438,48,4th,Calgary Flames,CGY,,0,NHL
-90,['B. Sutter'],2011-12,37,29,16,.549,82,2nd,Calgary Flames,CGY,,0,NHL
-94,['B. Sutter'],2010-11,41,29,12,.573,82,2nd,Calgary Flames,CGY,,0,NHL
-90,['B. Sutter'],2009-10,40,32,10,.549,82,3rd,Calgary Flames,CGY,,0,NHL
-98,['M. Keenan'],2008-09,46,30,6,.598,82,2nd,Calgary Flames,CGY,Lost NHL Conference Quarter-Finals,0,NHL
-94,['M. Keenan'],2007-08,42,30,10,.573,82,3rd,Calgary Flames,CGY,Lost NHL Conference Quarter-Finals,0,NHL
-96,['J. Playfair'],2006-07,43,29,10,.585,82,3rd,Calgary Flames,CGY,Lost NHL Conference Quarter-Finals,0,NHL
-103,['D. Sutter'],2005-06,46,25,11,.628,82,1st,Calgary Flames,CGY,Lost NHL Conference Quarter-Finals,0,NHL
-94,['D. Sutter'],2003-04,42,30,3,.573,82,3rd,Calgary Flames,CGY,Lost Stanley Cup Final,7,NHL
-75,"['G. Gilbert', 'A. MacNeil', 'D. Sutter']",2002-03,29,36,4,.457,82,5th,Calgary Flames,CGY,,13,NHL
-79,['G. Gilbert'],2001-02,32,35,3,.482,82,4th,Calgary Flames,CGY,,12,NHL
-73,"['D. Hay', 'G. Gilbert']",2000-01,27,36,4,.445,82,4th,Calgary Flames,CGY,,15,NHL
-77,['B. Sutter'],1999-00,31,36,5,.470,82,4th,Calgary Flames,CGY,,10,NHL
-72,['B. Sutter'],1998-99,30,40,0,.439,82,3rd,Calgary Flames,CGY,,12,NHL
-67,['B. Sutter'],1997-98,26,41,0,.409,82,5th,Calgary Flames,CGY,,15,NHL
-73,['P. Page'],1996-97,32,41,0,.445,82,5th,Calgary Flames,CGY,,9,NHL
-79,['P. Page'],1995-96,34,37,0,.482,82,2nd,Calgary Flames,CGY,Lost NHL Conference Quarter-Finals,11,NHL
-55,['D. King'],1994-95,24,17,0,.573,48,1st,Calgary Flames,CGY,Lost NHL Conference Quarter-Finals,7,NHL
-97,['D. King'],1993-94,42,29,0,.577,84,1st,Calgary Flames,CGY,Lost NHL Conference Quarter-Finals,13,NHL
-97,['D. King'],1992-93,43,30,0,.577,84,2nd,Calgary Flames,CGY,Lost NHL Division Semi-Finals,11,NHL
-74,"['D. Risebrough', 'G. Charron']",1991-92,31,37,0,.463,80,5th,Calgary Flames,CGY,,12,NHL
-100,['D. Risebrough'],1990-91,46,26,0,.625,80,2nd,Calgary Flames,CGY,Lost NHL Division Semi-Finals,8,NHL
-99,['T. Crisp'],1989-90,42,23,0,.619,80,1st,Calgary Flames,CGY,Lost NHL Division Semi-Finals,15,NHL
-117,['T. Crisp'],1988-89,54,17,0,.731,80,1st,Calgary Flames,CGY,,9,NHL
-105,['T. Crisp'],1987-88,48,23,0,.656,80,1st,Calgary Flames,CGY,Lost NHL Division Finals,9,NHL
-95,['B. Johnson'],1986-87,46,31,0,.594,80,2nd,Calgary Flames,CGY,Lost NHL Division Semi-Finals,3,NHL
-89,['B. Johnson'],1985-86,40,31,0,.556,80,2nd,Calgary Flames,CGY,Lost Stanley Cup Final,9,NHL
-94,['B. Johnson'],1984-85,41,27,0,.588,80,3rd,Calgary Flames,CGY,Lost NHL Division Semi-Finals,12,NHL
-82,['B. Johnson'],1983-84,34,32,0,.513,80,2nd,Calgary Flames,CGY,Lost NHL Division Finals,14,NHL
-78,['B. Johnson'],1982-83,32,34,0,.488,80,2nd,Calgary Flames,CGY,Lost NHL Division Finals,14,NHL
-75,['A. MacNeil'],1981-82,29,34,0,.469,80,3rd,Calgary Flames,CGY,Lost NHL Division Semi-Finals,17,NHL
-92,['A. MacNeil'],1980-81,39,27,0,.575,80,3rd,Calgary Flames,CGY,Lost NHL Semi-Finals,14,NHL
-83,['A. MacNeil'],1979-80,35,32,0,.519,80,4th,Atlanta Flames,ATF,Lost NHL Preliminary Round,13,NHL
-90,['F. Creighton'],1978-79,41,31,0,.563,80,4th,Atlanta Flames,ATF,Lost NHL Preliminary Round,8,NHL
-87,['F. Creighton'],1977-78,34,27,0,.544,80,3rd,Atlanta Flames,ATF,Lost NHL Preliminary Round,19,NHL
-80,['F. Creighton'],1976-77,34,34,0,.500,80,3rd,Atlanta Flames,ATF,Lost NHL Preliminary Round,12,NHL
-82,['F. Creighton'],1975-76,35,33,0,.513,80,3rd,Atlanta Flames,ATF,Lost NHL Preliminary Round,12,NHL
-83,"['B. Geoffrion', 'F. Creighton']",1974-75,34,31,0,.519,80,4th,Atlanta Flames,ATF,,15,NHL
-74,['B. Geoffrion'],1973-74,30,34,0,.474,78,4th,Atlanta Flames,ATF,Lost NHL Quarter-Finals,14,NHL
-65,['B. Geoffrion'],1972-73,25,38,0,.417,78,7th,Atlanta Flames,ATF,,15,NHL
+points,coaches,leage,code,season,wins,loses,overtime_loses,team_name,points_percentage,playoff_result,ties,games_played,finishing_position
+0,"[{'link': '/coaches/gulutgl99c.html', 'name': 'G. Gulutzan'}]",NHL,CGY,2017-18,0,0,0,Calgary Flames,0,,0,0,
+94,"[{'link': '/coaches/gulutgl99c.html', 'name': 'G. Gulutzan'}]",NHL,CGY,2016-17,45,33,4,Calgary Flames,.573,Lost NHL First Round,0,82,4th
+77,"[{'link': '/coaches/hartlbo99c.html', 'name': 'B. Hartley'}]",NHL,CGY,2015-16,35,40,7,Calgary Flames,.470,,0,82,5th
+97,"[{'link': '/coaches/hartlbo99c.html', 'name': 'B. Hartley'}]",NHL,CGY,2014-15,45,30,7,Calgary Flames,.591,Lost NHL Second Round,0,82,3rd
+77,"[{'link': '/coaches/hartlbo99c.html', 'name': 'B. Hartley'}]",NHL,CGY,2013-14,35,40,7,Calgary Flames,.470,,0,82,6th
+42,"[{'link': '/coaches/hartlbo99c.html', 'name': 'B. Hartley'}]",NHL,CGY,2012-13,19,25,4,Calgary Flames,.438,,0,48,4th
+90,"[{'link': '/coaches/suttebr02c.html', 'name': 'B. Sutter'}]",NHL,CGY,2011-12,37,29,16,Calgary Flames,.549,,0,82,2nd
+94,"[{'link': '/coaches/suttebr02c.html', 'name': 'B. Sutter'}]",NHL,CGY,2010-11,41,29,12,Calgary Flames,.573,,0,82,2nd
+90,"[{'link': '/coaches/suttebr02c.html', 'name': 'B. Sutter'}]",NHL,CGY,2009-10,40,32,10,Calgary Flames,.549,,0,82,3rd
+98,"[{'link': '/coaches/keenami99c.html', 'name': 'M. Keenan'}]",NHL,CGY,2008-09,46,30,6,Calgary Flames,.598,Lost NHL Conference Quarter-Finals,0,82,2nd
+94,"[{'link': '/coaches/keenami99c.html', 'name': 'M. Keenan'}]",NHL,CGY,2007-08,42,30,10,Calgary Flames,.573,Lost NHL Conference Quarter-Finals,0,82,3rd
+96,"[{'link': '/coaches/playfji01c.html', 'name': 'J. Playfair'}]",NHL,CGY,2006-07,43,29,10,Calgary Flames,.585,Lost NHL Conference Quarter-Finals,0,82,3rd
+103,"[{'link': '/coaches/sutteda01c.html', 'name': 'D. Sutter'}]",NHL,CGY,2005-06,46,25,11,Calgary Flames,.628,Lost NHL Conference Quarter-Finals,0,82,1st
+94,"[{'link': '/coaches/sutteda01c.html', 'name': 'D. Sutter'}]",NHL,CGY,2003-04,42,30,3,Calgary Flames,.573,Lost Stanley Cup Final,7,82,3rd
+75,"[{'link': '/coaches/gilbegr01c.html', 'name': 'G. Gilbert'}, {'link': '/coaches/macneal01c.html', 'name': 'A. MacNeil'}, {'link': '/coaches/sutteda01c.html', 'name': 'D. Sutter'}]",NHL,CGY,2002-03,29,36,4,Calgary Flames,.457,,13,82,5th
+79,"[{'link': '/coaches/gilbegr01c.html', 'name': 'G. Gilbert'}]",NHL,CGY,2001-02,32,35,3,Calgary Flames,.482,,12,82,4th
+73,"[{'link': '/coaches/haydo99c.html', 'name': 'D. Hay'}, {'link': '/coaches/gilbegr01c.html', 'name': 'G. Gilbert'}]",NHL,CGY,2000-01,27,36,4,Calgary Flames,.445,,15,82,4th
+77,"[{'link': '/coaches/suttebr01c.html', 'name': 'B. Sutter'}]",NHL,CGY,1999-00,31,36,5,Calgary Flames,.470,,10,82,4th
+72,"[{'link': '/coaches/suttebr01c.html', 'name': 'B. Sutter'}]",NHL,CGY,1998-99,30,40,0,Calgary Flames,.439,,12,82,3rd
+67,"[{'link': '/coaches/suttebr01c.html', 'name': 'B. Sutter'}]",NHL,CGY,1997-98,26,41,0,Calgary Flames,.409,,15,82,5th
+73,"[{'link': '/coaches/pagepi99c.html', 'name': 'P. Page'}]",NHL,CGY,1996-97,32,41,0,Calgary Flames,.445,,9,82,5th
+79,"[{'link': '/coaches/pagepi99c.html', 'name': 'P. Page'}]",NHL,CGY,1995-96,34,37,0,Calgary Flames,.482,Lost NHL Conference Quarter-Finals,11,82,2nd
+55,"[{'link': '/coaches/kingda99c.html', 'name': 'D. King'}]",NHL,CGY,1994-95,24,17,0,Calgary Flames,.573,Lost NHL Conference Quarter-Finals,7,48,1st
+97,"[{'link': '/coaches/kingda99c.html', 'name': 'D. King'}]",NHL,CGY,1993-94,42,29,0,Calgary Flames,.577,Lost NHL Conference Quarter-Finals,13,84,1st
+97,"[{'link': '/coaches/kingda99c.html', 'name': 'D. King'}]",NHL,CGY,1992-93,43,30,0,Calgary Flames,.577,Lost NHL Division Semi-Finals,11,84,2nd
+74,"[{'link': '/coaches/risebdo01c.html', 'name': 'D. Risebrough'}, {'link': '/coaches/charrgu01c.html', 'name': 'G. Charron'}]",NHL,CGY,1991-92,31,37,0,Calgary Flames,.463,,12,80,5th
+100,"[{'link': '/coaches/risebdo01c.html', 'name': 'D. Risebrough'}]",NHL,CGY,1990-91,46,26,0,Calgary Flames,.625,Lost NHL Division Semi-Finals,8,80,2nd
+99,"[{'link': '/coaches/crispte01c.html', 'name': 'T. Crisp'}]",NHL,CGY,1989-90,42,23,0,Calgary Flames,.619,Lost NHL Division Semi-Finals,15,80,1st
+117,"[{'link': '/coaches/crispte01c.html', 'name': 'T. Crisp'}]",NHL,CGY,1988-89,54,17,0,Calgary Flames,.731,,9,80,1st
+105,"[{'link': '/coaches/crispte01c.html', 'name': 'T. Crisp'}]",NHL,CGY,1987-88,48,23,0,Calgary Flames,.656,Lost NHL Division Finals,9,80,1st
+95,"[{'link': '/coaches/johnsbo99c.html', 'name': 'B. Johnson'}]",NHL,CGY,1986-87,46,31,0,Calgary Flames,.594,Lost NHL Division Semi-Finals,3,80,2nd
+89,"[{'link': '/coaches/johnsbo99c.html', 'name': 'B. Johnson'}]",NHL,CGY,1985-86,40,31,0,Calgary Flames,.556,Lost Stanley Cup Final,9,80,2nd
+94,"[{'link': '/coaches/johnsbo99c.html', 'name': 'B. Johnson'}]",NHL,CGY,1984-85,41,27,0,Calgary Flames,.588,Lost NHL Division Semi-Finals,12,80,3rd
+82,"[{'link': '/coaches/johnsbo99c.html', 'name': 'B. Johnson'}]",NHL,CGY,1983-84,34,32,0,Calgary Flames,.513,Lost NHL Division Finals,14,80,2nd
+78,"[{'link': '/coaches/johnsbo99c.html', 'name': 'B. Johnson'}]",NHL,CGY,1982-83,32,34,0,Calgary Flames,.488,Lost NHL Division Finals,14,80,2nd
+75,"[{'link': '/coaches/macneal01c.html', 'name': 'A. MacNeil'}]",NHL,CGY,1981-82,29,34,0,Calgary Flames,.469,Lost NHL Division Semi-Finals,17,80,3rd
+92,"[{'link': '/coaches/macneal01c.html', 'name': 'A. MacNeil'}]",NHL,CGY,1980-81,39,27,0,Calgary Flames,.575,Lost NHL Semi-Finals,14,80,3rd
+83,"[{'link': '/coaches/macneal01c.html', 'name': 'A. MacNeil'}]",NHL,ATF,1979-80,35,32,0,Atlanta Flames,.519,Lost NHL Preliminary Round,13,80,4th
+90,"[{'link': '/coaches/creigfr99c.html', 'name': 'F. Creighton'}]",NHL,ATF,1978-79,41,31,0,Atlanta Flames,.563,Lost NHL Preliminary Round,8,80,4th
+87,"[{'link': '/coaches/creigfr99c.html', 'name': 'F. Creighton'}]",NHL,ATF,1977-78,34,27,0,Atlanta Flames,.544,Lost NHL Preliminary Round,19,80,3rd
+80,"[{'link': '/coaches/creigfr99c.html', 'name': 'F. Creighton'}]",NHL,ATF,1976-77,34,34,0,Atlanta Flames,.500,Lost NHL Preliminary Round,12,80,3rd
+82,"[{'link': '/coaches/creigfr99c.html', 'name': 'F. Creighton'}]",NHL,ATF,1975-76,35,33,0,Atlanta Flames,.513,Lost NHL Preliminary Round,12,80,3rd
+83,"[{'link': '/coaches/geoffbe01c.html', 'name': 'B. Geoffrion'}, {'link': '/coaches/creigfr99c.html', 'name': 'F. Creighton'}]",NHL,ATF,1974-75,34,31,0,Atlanta Flames,.519,,15,80,4th
+74,"[{'link': '/coaches/geoffbe01c.html', 'name': 'B. Geoffrion'}]",NHL,ATF,1973-74,30,34,0,Atlanta Flames,.474,Lost NHL Quarter-Finals,14,78,4th
+65,"[{'link': '/coaches/geoffbe01c.html', 'name': 'B. Geoffrion'}]",NHL,ATF,1972-73,25,38,0,Atlanta Flames,.417,,15,78,7th

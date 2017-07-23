@@ -1,18 +1,18 @@
-offensive_point_share,name,even_strength_goals,shorthanded_goals,plus_minus,shotsPercentage,age,shots,assists,positions,overall_point_share,points,games_played,power_play_assists,defensive_point_share,game_winning_goals,power_play_goals,total_ice_time,shorthanded_assists,goals,even_strength_assists,average_ice_time,pim
-7.6,Frank Boucher,0,0,0,,28,0,36,C,8.2,62,42,0,0.7,0,0,,0,26,0,,16
-7.5,Bill Cook,0,0,0,,33,0,30,RW,8.2,59,44,0,0.7,0,0,,0,29,0,,56
-5.0,Bun Cook,0,0,0,,26,0,18,LW,5.7,42,43,0,0.7,0,0,,0,24,0,,55
-2.6,Butch Keeling,0,0,0,,24,0,7,C/LW,3.3,26,43,0,0.7,0,0,,0,19,0,,34
-1.9,Murray Murdoch,0,0,0,,25,0,13,C/LW,2.6,26,44,0,0.7,0,0,,0,13,0,,22
-0.4,Paul Thompson,0,0,0,,23,0,12,LW,1.1,19,44,0,0.7,0,0,,0,7,0,,36
-1.2,Leo Bourgeault,0,0,0,,27,0,6,D,3.9,13,44,0,2.7,0,0,,0,7,0,,54
-0.3,Ching Johnson,0,0,0,,31,0,3,D,2.1,6,30,0,1.9,0,0,,0,3,0,,82
--1.6,Leroy Goldsworthy,0,0,0,,23,0,1,RW,-0.9,5,44,0,0.7,0,0,,0,4,0,,16
--1.1,Leo Quenneville,0,0,0,,29,0,3,F,-0.7,3,25,0,0.4,0,0,,0,0,0,,10
--0.8,Ralph Taylor,0,0,0,,24,0,0,RW,-0.5,2,22,0,0.3,0,0,,0,2,0,,32
--0.5,Sparky Vail,0,0,0,,23,0,1,D,1.5,2,32,0,2.0,0,0,,0,1,0,,2
--0.9,Obs Heximer,0,0,0,,19,0,0,RW,-0.6,1,19,0,0.3,0,0,,0,1,0,,4
--0.2,Leo Reise,0,0,0,,37,0,1,D,0.6,1,14,0,0.9,0,0,,0,0,0,,8
--0.8,Yip Foster,0,0,0,,22,0,0,D,1.2,0,31,0,1.9,0,0,,0,0,0,,10
--0.3,Bill Regan,0,0,0,,21,0,0,D,0.4,0,10,0,0.6,0,0,,0,0,0,,4
-0.0,John Ross Roach,0,0,0,,29,0,0,G,6.3,0,44,0,0.0,0,0,,0,0,0,,0
+shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
+0,,C,,0,0,0,0,28,0,26,36,Frank Boucher,8.2,0.7,62,0,16,,42,0,7.6,0,/players/b/bouchfr01.html
+0,,RW,,0,0,0,0,33,0,29,30,Bill Cook,8.2,0.7,59,0,56,,44,0,7.5,0,/players/c/cookbi01.html
+0,,LW,,0,0,0,0,26,0,24,18,Bun Cook,5.7,0.7,42,0,55,,43,0,5.0,0,/players/c/cookbu01.html
+0,,C/LW,,0,0,0,0,24,0,19,7,Butch Keeling,3.3,0.7,26,0,34,,43,0,2.6,0,/players/k/keelibu01.html
+0,,C/LW,,0,0,0,0,25,0,13,13,Murray Murdoch,2.6,0.7,26,0,22,,44,0,1.9,0,/players/m/murdomu01.html
+0,,LW,,0,0,0,0,23,0,7,12,Paul Thompson,1.1,0.7,19,0,36,,44,0,0.4,0,/players/t/thomppa01.html
+0,,D,,0,0,0,0,27,0,7,6,Leo Bourgeault,3.9,2.7,13,0,54,,44,0,1.2,0,/players/b/bourgle01.html
+0,,D,,0,0,0,0,31,0,3,3,Ching Johnson,2.1,1.9,6,0,82,,30,0,0.3,0,/players/j/johnsch01.html
+0,,RW,,0,0,0,0,23,0,4,1,Leroy Goldsworthy,-0.9,0.7,5,0,16,,44,0,-1.6,0,/players/g/goldsle01.html
+0,,F,,0,0,0,0,29,0,0,3,Leo Quenneville,-0.7,0.4,3,0,10,,25,0,-1.1,0,/players/q/quennle01.html
+0,,RW,,0,0,0,0,24,0,2,0,Ralph Taylor,-0.5,0.3,2,0,32,,22,0,-0.8,0,/players/t/taylora01.html
+0,,D,,0,0,0,0,23,0,1,1,Sparky Vail,1.5,2.0,2,0,2,,32,0,-0.5,0,/players/v/vailsp01.html
+0,,RW,,0,0,0,0,19,0,1,0,Obs Heximer,-0.6,0.3,1,0,4,,19,0,-0.9,0,/players/h/heximob01.html
+0,,D,,0,0,0,0,37,0,0,1,Leo Reise,0.6,0.9,1,0,8,,14,0,-0.2,0,/players/r/reisele01.html
+0,,D,,0,0,0,0,22,0,0,0,Yip Foster,1.2,1.9,0,0,10,,31,0,-0.8,0,/players/f/fosteyi01.html
+0,,D,,0,0,0,0,21,0,0,0,Bill Regan,0.4,0.6,0,0,4,,10,0,-0.3,0,/players/r/reganbi01.html
+0,,G,,0,0,0,0,29,0,0,0,John Ross Roach,6.3,0.0,0,0,0,,44,0,0.0,0,/players/r/roachjo01.html
