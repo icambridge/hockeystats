@@ -15,7 +15,6 @@
 
 import http.client
 from lxml import html
-from datetime import datetime
 import csv
 import os
 import time
@@ -89,7 +88,7 @@ def buildPlayer(tree):
 
     return {
         "position": regex.sub("",postion),
-        "handed": handed,
+        "handed": regex.sub("", handed),
         "name": name,
         "heigh_and_weight": heightWeight,
         "date_of_birth": dob
@@ -135,6 +134,279 @@ def buildGoalieNHLYears(tree):
     if len(years) > 0:
         return buildGoalieNHLPlusYears(tree)
     return buildGoalieNHLNormalYears(tree)
+
+def buildGoaliePlayoffYears(tree):
+        years = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/th/text()')
+        agesPre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[1]')
+        teamsPre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[2]')
+        leagues = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[3]/a/text()')
+        wonPre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[4]')
+        gamesPlayedPre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[5]')
+        gamesStartedPre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[6]')
+        winsPre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[7]')
+        losesPre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[8]')
+        tiesPre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[9]')
+        goalsAllowedPre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[10]')
+        shotsAgainistPre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[11]')
+        savesPre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[12]')
+        savesPrecentagePre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[13]')
+        goalsAllowedAveragePre  = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[14]')
+        shutoutsPre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[15]')
+        minutesPre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[16]')
+        goodStartsPre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[17]')
+        goodStartsPrecentagePre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[18]')
+        badStartsPre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[19]')
+        goalsAllowedPrecentagePre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[20]')
+        goalsSavedAboveAveragePre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[21]')
+        goalsPre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[22]')
+        assistsPre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[23]')
+        pointsPre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[24]')
+        pimPre = tree.xpath('//*[@id="stats_playoffs_nhl"]/tbody/tr/td[25]')
+
+        ages = [x.text if x.text else '' for x in agesPre]
+        points = [x.text if x.text else 0 for x in pointsPre]
+        assists = [x.text if x.text else 0 for x in assistsPre]
+        goals = [x.text if x.text else 0 for x in goalsPre]
+        gamesPlayed = [x.text if x.text else 0 for x in gamesPlayedPre]
+        pim = [x.text if x.text else 0 for x in pimPre]
+        won = [x.text if x.text else '' for x in wonPre]
+
+        gamesStarted = [x.text if x.text else 0 for x in gamesStartedPre]
+        wins = [x.text if x.text else 0 for x in winsPre]
+        loses = [x.text if x.text else 0 for x in losesPre]
+        ties = [x.text if x.text else 0 for x in tiesPre]
+        goalsAllowedAverage = [x.text if x.text else 0 for x in goalsAllowedAveragePre]
+        goalsAllowed = [x.text if x.text else 0 for x in goalsAllowedPre]
+        shotsAgainist = [x.text if x.text else 0 for x in shotsAgainistPre]
+        saves = [x.text if x.text else 0 for x in savesPre]
+        savesPrecentage = [x.text if x.text else 0 for x in savesPrecentagePre]
+        shutouts = [x.text if x.text else 0 for x in shutoutsPre]
+
+        minutes = [x.text if x.text else 0 for x in minutesPre]
+        goodStarts = [x.text if x.text else 0 for x in goodStartsPre]
+        goodStartsPrecentage = [x.text if x.text else 0 for x in goodStartsPrecentagePre]
+        badStarts = [x.text if x.text else 0 for x in badStartsPre]
+        goalsAllowedPrecentage = [x.text if x.text else 0 for x in goalsAllowedPrecentagePre]
+        goalsSavedAboveAverage = [x.text if x.text else 0 for x in goalsSavedAboveAveragePre]
+
+        teams = buildTeams(teamsPre)
+        stats = []
+        count = len(years)
+        counter = 0
+        while counter < count:
+            year = {
+                "year": years[counter],
+                "age": ages[counter],
+                "league":  leagues[counter],
+                "team": teams[counter],
+                "games_played": gamesPlayed[counter],
+                "goals": goals[counter],
+                "assists": assists[counter],
+                "points": points[counter],
+                "pim": pim[counter],
+                "games_started": gamesStarted[counter],
+                "wins": wins[counter],
+                "loses": loses[counter],
+                "ties": ties[counter],
+                "goals_allowed_average": goalsAllowedAverage[counter],
+                "goals_allowed": goalsAllowed[counter],
+                "shots_againist": shotsAgainist[counter],
+                "saves": saves[counter],
+                "saves_percentage": savesPrecentage[counter],
+                "shutouts": shutouts[counter],
+                "minutes": minutes[counter],
+                "good_starts": goodStarts[counter],
+                "good_start_precentages": goodStartsPrecentage[counter],
+                "bad_start": badStarts[counter],
+                "goals_allowed_precentage": goalsAllowedPrecentage[counter],
+                "goals_saved_aboved_average": goalsSavedAboveAverage[counter],
+                "won": won[counter],
+            }
+            stats.append(year)
+            counter = counter + 1
+
+        return stats
+
+
+def buildGoalieOtherYears(tree):
+        years = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/th/text()')
+        agesPre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[1]')
+        teamsPre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[2]')
+        leagues = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[3]/text()')
+        gamesPlayedPre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[4]')
+        gamesStartedPre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[5]')
+        winsPre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[6]')
+        losesPre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[7]')
+        tiesPre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[8]')
+        goalsAllowedPre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[9]')
+        shotsAgainistPre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[10]')
+        savesPre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[11]')
+        savesPrecentagePre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[12]')
+        goalsAllowedAveragePre  = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[13]')
+        shutoutsPre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[14]')
+        minutesPre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[15]')
+        goodStartsPre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[16]')
+        goodStartsPrecentagePre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[17]')
+        badStartsPre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[18]')
+        goalsAllowedPrecentagePre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[19]')
+        goalsSavedAboveAveragePre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[20]')
+        goalsPre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[21]')
+        assistsPre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[22]')
+        pointsPre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[23]')
+        pimPre = tree.xpath('//*[@id="stats_basic_others"]/tbody/tr/td[24]')
+
+        ages = [x.text if x.text else '' for x in agesPre]
+        points = [x.text if x.text else 0 for x in pointsPre]
+        assists = [x.text if x.text else 0 for x in assistsPre]
+        goals = [x.text if x.text else 0 for x in goalsPre]
+        gamesPlayed = [x.text if x.text else 0 for x in gamesPlayedPre]
+        pim = [x.text if x.text else 0 for x in pimPre]
+
+        gamesStarted = [x.text if x.text else 0 for x in gamesStartedPre]
+        wins = [x.text if x.text else 0 for x in winsPre]
+        loses = [x.text if x.text else 0 for x in losesPre]
+        ties = [x.text if x.text else 0 for x in tiesPre]
+        goalsAllowedAverage = [x.text if x.text else 0 for x in goalsAllowedAveragePre]
+        goalsAllowed = [x.text if x.text else 0 for x in goalsAllowedPre]
+        shotsAgainist = [x.text if x.text else 0 for x in shotsAgainistPre]
+        saves = [x.text if x.text else 0 for x in savesPre]
+        savesPrecentage = [x.text if x.text else 0 for x in savesPrecentagePre]
+        shutouts = [x.text if x.text else 0 for x in shutoutsPre]
+
+        minutes = [x.text if x.text else 0 for x in minutesPre]
+        goodStarts = [x.text if x.text else 0 for x in goodStartsPre]
+        goodStartsPrecentage = [x.text if x.text else 0 for x in goodStartsPrecentagePre]
+        badStarts = [x.text if x.text else 0 for x in badStartsPre]
+        goalsAllowedPrecentage = [x.text if x.text else 0 for x in goalsAllowedPrecentagePre]
+        goalsSavedAboveAverage = [x.text if x.text else 0 for x in goalsSavedAboveAveragePre]
+
+        teams = buildTeams(teamsPre)
+        stats = []
+        count = len(years)
+        counter = 0
+        while counter < count:
+            year = {
+                "year": years[counter],
+                "age": ages[counter],
+                "league":  leagues[counter],
+                "team": teams[counter],
+                "games_played": gamesPlayed[counter],
+                "goals": goals[counter],
+                "assists": assists[counter],
+                "points": points[counter],
+                "pim": pim[counter],
+                "games_started": gamesStarted[counter],
+                "wins": wins[counter],
+                "loses": loses[counter],
+                "ties": ties[counter],
+                "goals_allowed_average": goalsAllowedAverage[counter],
+                "goals_allowed": goalsAllowed[counter],
+                "shots_againist": shotsAgainist[counter],
+                "saves": saves[counter],
+                "saves_percentage": savesPrecentage[counter],
+                "shutouts": shutouts[counter],
+                "minutes": minutes[counter],
+                "good_starts": goodStarts[counter],
+                "good_start_precentages": goodStartsPrecentage[counter],
+                "bad_start": badStarts[counter],
+                "goals_allowed_precentage": goalsAllowedPrecentage[counter],
+                "goals_saved_aboved_average": goalsSavedAboveAverage[counter],
+                "won": won[counter],
+            }
+            stats.append(year)
+            counter = counter + 1
+
+        return stats
+
+def buildGoalieOtherPlayoffYears(tree):
+        years = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/th/text()')
+        agesPre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[1]')
+        teamsPre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[2]')
+        leagues = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[3]/text()')
+        gamesPlayedPre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[4]')
+        gamesStartedPre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[5]')
+        winsPre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[6]')
+        losesPre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[7]')
+        tiesPre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[8]')
+        goalsAllowedPre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[9]')
+        shotsAgainistPre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[10]')
+        savesPre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[11]')
+        savesPrecentagePre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[12]')
+        goalsAllowedAveragePre  = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[13]')
+        shutoutsPre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[14]')
+        minutesPre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[15]')
+        goodStartsPre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[16]')
+        goodStartsPrecentagePre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[17]')
+        badStartsPre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[18]')
+        goalsAllowedPrecentagePre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[19]')
+        goalsSavedAboveAveragePre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[20]')
+        goalsPre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[21]')
+        assistsPre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[22]')
+        pointsPre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[23]')
+        pimPre = tree.xpath('//*[@id="stats_playoffs_other"]/tbody/tr/td[24]')
+
+        ages = [x.text if x.text else '' for x in agesPre]
+        points = [x.text if x.text else 0 for x in pointsPre]
+        assists = [x.text if x.text else 0 for x in assistsPre]
+        goals = [x.text if x.text else 0 for x in goalsPre]
+        gamesPlayed = [x.text if x.text else 0 for x in gamesPlayedPre]
+        pim = [x.text if x.text else 0 for x in pimPre]
+
+        gamesStarted = [x.text if x.text else 0 for x in gamesStartedPre]
+        wins = [x.text if x.text else 0 for x in winsPre]
+        loses = [x.text if x.text else 0 for x in losesPre]
+        ties = [x.text if x.text else 0 for x in tiesPre]
+        goalsAllowedAverage = [x.text if x.text else 0 for x in goalsAllowedAveragePre]
+        goalsAllowed = [x.text if x.text else 0 for x in goalsAllowedPre]
+        shotsAgainist = [x.text if x.text else 0 for x in shotsAgainistPre]
+        saves = [x.text if x.text else 0 for x in savesPre]
+        savesPrecentage = [x.text if x.text else 0 for x in savesPrecentagePre]
+        shutouts = [x.text if x.text else 0 for x in shutoutsPre]
+
+        minutes = [x.text if x.text else 0 for x in minutesPre]
+        goodStarts = [x.text if x.text else 0 for x in goodStartsPre]
+        goodStartsPrecentage = [x.text if x.text else 0 for x in goodStartsPrecentagePre]
+        badStarts = [x.text if x.text else 0 for x in badStartsPre]
+        goalsAllowedPrecentage = [x.text if x.text else 0 for x in goalsAllowedPrecentagePre]
+        goalsSavedAboveAverage = [x.text if x.text else 0 for x in goalsSavedAboveAveragePre]
+
+        teams = buildTeams(teamsPre)
+        stats = []
+        count = len(years)
+        counter = 0
+        while counter < count:
+            year = {
+                "year": years[counter],
+                "age": ages[counter],
+                "league":  leagues[counter],
+                "team": teams[counter],
+                "games_played": gamesPlayed[counter],
+                "goals": goals[counter],
+                "assists": assists[counter],
+                "points": points[counter],
+                "pim": pim[counter],
+                "games_started": gamesStarted[counter],
+                "wins": wins[counter],
+                "loses": loses[counter],
+                "ties": ties[counter],
+                "goals_allowed_average": goalsAllowedAverage[counter],
+                "goals_allowed": goalsAllowed[counter],
+                "shots_againist": shotsAgainist[counter],
+                "saves": saves[counter],
+                "saves_percentage": savesPrecentage[counter],
+                "shutouts": shutouts[counter],
+                "minutes": minutes[counter],
+                "good_starts": goodStarts[counter],
+                "good_start_precentages": goodStartsPrecentage[counter],
+                "bad_start": badStarts[counter],
+                "goals_allowed_precentage": goalsAllowedPrecentage[counter],
+                "goals_saved_aboved_average": goalsSavedAboveAverage[counter],
+                "won": won[counter],
+            }
+            stats.append(year)
+            counter = counter + 1
+
+        return stats
 
 
 def buildGoalieNHLNormalYears(tree):
@@ -537,8 +809,20 @@ def crawlPlayer(url):
         years = buildNHLBasicYears(tree)
         writeCsv(playerName, "nhl_basic", years)
     else:
-        years = buildGoalieNHLYears(tree)
-        writeCsv(playerName, "nhl_basic", years)
+        scrapeGoalie(playerName, tree)
+
+def scrapeGoalie(playerName, tree):
+    years = buildGoalieNHLYears(tree)
+    writeCsv(playerName, "nhl_basic", years)
+
+    years = buildGoaliePlayoffYears(tree)
+    writeCsv(playerName, "nhl_playoffs", years)
+
+    years = buildGoalieOtherYears(tree)
+    writeCsv(playerName, "other_basic", years)
+
+    years = buildGoalieOtherPlayoffYears(tree)
+    writeCsv(playerName, "other_playoffs", years)
 
 letters = list(string.ascii_lowercase)
 
