@@ -1,0 +1,5 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,5,0,0,WHA,1976-77,21,0,NEW,,0,9,-2,0,0,,,0,0
+0,13,9,0,WHA,1977-78,22,2,NEW,,7,2,4,0,0,,,0,0
+0,11,2,0,WHA,1978-79,23,1,EDO,,1,12,-5,0,0,,,0,0
+0,4,2,0,NHL,1979-80,24,1,LAK,,1,7,-3,0,6,,,16.7,1

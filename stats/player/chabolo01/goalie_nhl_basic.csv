@@ -1,0 +1,12 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,10,[],0,1.46,0,0,NHL,0,26,0,0,0,0,0,0,56,0,1926-27,NYR,9,8.6,0,0,22,36,2307
+0,11,[],0,1.74,0,0,NHL,0,27,0,0,0,0,0,0,79,0,1927-28,NYR,16,8.0,0,9,19,0,2730
+0,10,[],0,1.52,0,0,NHL,0,28,0,0,2,0,0,0,65,0,1928-29,TOR,17,5.7,0,5,20,0,2562
+0,0,[],0,2.59,0,0,NHL,0,29,0,0,0,0,0,0,113,0,1929-30,TOR,20,8.1,0,6,16,42,2620
+0,6,[],0,2.09,0,0,NHL,0,30,0,0,0,0,0,0,80,0,1930-31,TOR,8,7.2,0,8,21,37,2300
+0,4,[],0,2.36,0,0,NHL,0,31,0,0,2,0,0,0,106,0,1931-32,TOR,16,7.3,0,6,22,44,2698
+0,5,[],0,2.26,0,0,NHL,0,32,0,0,4,0,0,0,111,0,1932-33,TOR,18,7.5,0,6,24,0,2946
+0,8,[],0,2.07,0,0,NHL,0,33,0,0,2,0,0,0,101,0,1933-34,MTL,20,9.1,0,6,21,47,2928
+0,8,"[{'link': '/awards/nhl_all_star.html#1935', 'name': None}, {'link': '/awards/vezina.html#1935', 'name': None}]",0,0,0,0,NHL,0,34,0,0,0,0,0,0,88,0,1934-35,CBH,17,0,0,5,26,0,2940
+0,2,[],0,2.08,0,0,NHL,0,35,0,0,0,0,0,0,35,0,1935-36,MTM,3,2.7,0,5,8,16,1010
+0,1,[],0,4.05,0,0,NHL,0,36,0,0,0,0,0,0,25,0,1936-37,NYA,3,-0.2,0,1,2,6,370

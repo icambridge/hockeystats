@@ -1,0 +1,11 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,2,[],1,2.51,0,0,NHL,0,21,0,0,2,0,0,0,62,0,1976-77,BUF,7,5.7,1,2,16,25,1480
+0,5,"[{'link': '/awards/nhl_all_star.html#1978', 'name': None}, {'link': '/awards/voting-1978.html#calder', 'name': 'Calder-3'}, {'link': '/awards/voting-1978.html#hart', 'name': 'Hart-4'}]",3,2.64,0,0,NHL,0,22,0,0,12,0,0,0,185,0,1977-78,BUF,16,0,3,17,0,0,0
+0,2,"[{'link': '/awards/voting-1979.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-1979.html#hart', 'name': 'Hart-10'}]",2,3.02,0,0,NHL,0,23,0,0,8,0,0,0,159,0,1978-79,BUF,18,10.5,2,9,26,54,3160
+0,2,"[{'link': '/awards/nhl_all_star.html#1980', 'name': None}, {'link': '/awards/vezina.html#1980', 'name': None}]",1,2.57,0,0,NHL,0,24,0,0,8,0,0,0,125,0,1979-80,BUF,9,11.4,1,12,27,49,2920
+0,0,"[{'link': '/awards/voting-1981.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1981.html#hart', 'name': 'Hart-14'}]",2,2.96,0,0,NHL,0,25,0,0,0,0,0,0,133,0,1980-81,BUF,10,10.1,2,12,23,45,2700
+0,0,"[{'link': '/awards/voting-1982.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-1982.html#vezina', 'name': 'Vezina-7'}]",2,3.51,0,0,NHL,0,26,0,0,2,0,0,0,205,0,1981-82,BUF,23,0,2,9,26,62,3500
+0,1,[],1,4.02,0,0,NHL,0,27,0,0,0,0,0,0,148,0,1982-83,CGY,15,5.4,1,6,16,39,2209
+0,0,[],2,4.09,-3.03,1217,NHL,0,28,0,1060,2,0,0,102,157,.871,1983-84,CGY,19,6.3,2,5,13,41,2303
+0,1,[],0,4.08,-7.39,858,NHL,0,29,0,743,4,0,0,107,115,.866,1984-85,CGY,15,4.1,0,2,11,34,1691
+0,0,[],0,4.78,-16.68,1140,NHL,0,30,0,980,4,0,0,112,160,.860,1985-86,TOR,23,4.8,0,0,12,38,2009

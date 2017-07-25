@@ -1,0 +1,13 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+17:19,0,5,1,0,0,NHL,20,2,0,24,-6,45,0,3,0,0,0,0,0,2005-06,CHI,3,0,2,0,6.7,433,25,[]
+17:18,0,3,0,0,0,NHL,21,0,0,10,-2,18,0,1,0,0,0,2,0,2006-07,CHI,1,0,2,0,5.6,156,9,[]
+17:02,279,36,4,0,30,NHL,22,7,0,59,-7,163,0.0,12,1,7,0,10,30,2007-08,CHI,19,137,17,28,11.7,1141,67,[]
+14:52,320,31,4,0,23,NHL,23,12,2,81,7,202,18.2,12,9,3,0,4,26,2008-09,CHI,15,169,16,18,7.4,1145,77,[]
+16:25,350,34,3,0,38,NHL,24,12,1,94,-7,211,50.0,11,1,6,0,5,48,2009-10,CHI,17,215,17,27,8.1,1346,82,[]
+23:18,615,53,6,0,71,NHL,25,17,0,93,-2,347,0,12,0,8,0,16,84,2010-11,ATL,20,138,33,58,5.8,1888,81,"[{'link': '/awards/voting-2011.html#AS', 'name': 'AS-8'}, {'link': '/awards/voting-2011.html#norris', 'name': 'Norris-7'}]"
+24:07,478,53,3,0,57,NHL,26,25,0,72,-8,223,0,8,0,4,1,15,49,2011-12,WPG,12,112,41,55,5.4,1592,66,"[{'link': '/awards/voting-2012.html#AS', 'name': 'AS-11'}, {'link': '/awards/voting-2012.html#norris', 'name': 'Norris-13'}]"
+24:24,275,28,2,0,47,NHL,27,14,0,34,-1,142,0,4,0,4,0,6,26,2012-13,WPG,8,80,20,50,5.6,1049,43,"[{'link': '/awards/voting-2013.html#AS', 'name': 'AS-15'}, {'link': '/awards/voting-2013.html#norris', 'name': 'Norris-15'}]"
+23:05,489,56,1,0,80,NHL,28,18,0,86,-20,256,0.0,12,2,8,0,18,68,2013-14,WPG,20,213,36,72,7.8,1801,78,[]
+22:41,425,45,3,0,60,NHL,29,14,0,124,5,209,0.0,13,3,5,1,12,47,2014-15,WPG,18,204,27,57,8.6,1565,69,"[{'link': '/awards/voting-2015.html#AS', 'name': 'AS-11'}, {'link': '/awards/voting-2015.html#hart', 'name': 'Hart-18'}, {'link': '/awards/voting-2015.html#norris', 'name': 'Norris-12'}]"
+25:12,482,53,6,1,105,NHL,30,19,0,119,4,247,0,15,0,3,1,14,73,2015-16,WPG,19,222,34,92,7.7,2041,81,"[{'link': '/awards/voting-2016.html#AS', 'name': 'AS-12'}, {'link': '/awards/voting-2016.html#norris', 'name': 'Norris-12'}]"
+27:27,452,52,1,0,124,NHL,31,24,0,117,10,241,0,12,0,1,2,13,65,2016-17,WPG,13,183,39,85,5.4,2196,80,"[{'link': '/awards/voting-2017.html#AS', 'name': 'AS-13'}, {'link': '/awards/voting-2017.html#norris', 'name': 'Norris-12'}]"

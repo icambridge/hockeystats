@@ -1,0 +1,13 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,60,4,0,NHL,20,19,89,-14,271,16,6,1,18,1977-78,CLR,22,38,"[{'link': '/awards/voting-1978.html#calder', 'name': 'Calder-2'}]",8.1,,75
+,42,0,0,NHL,21,18,91,-30,217,9,5,0,10,1978-79,CLR,14,28,"[{'link': '/awards/voting-1979.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-1979.html#norris', 'name': 'Norris-7'}]",6.5,,63
+,65,4,0,NHL,22,29,106,14,170,10,5,1,20,1979-80,TOT,15,50,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-6'}]",8.8,,71
+,6,0,0,NHL,22,3,8,-2,20,1,0,0,2,1979-80,CLR,1,5,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-6'}]",5.0,,10
+,59,4,0,NHL,22,26,98,16,150,9,5,1,18,1979-80,NYR,14,45,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-6'}]",9.3,,61
+,34,0,1,NHL,23,13,231,9,182,4,6,1,9,1980-81,NYR,11,23,"[{'link': '/awards/voting-1981.html#AS', 'name': 'AS-29'}]",6.0,,75
+,38,0,0,NHL,24,12,111,19,160,4,5,2,15,1981-82,NYR,9,29,"[{'link': '/awards/voting-1982.html#AS', 'name': 'AS-9'}, {'link': '/awards/voting-1982.html#hart', 'name': 'Hart-6'}, {'link': '/awards/voting-1982.html#norris', 'name': 'Norris-7'}]",5.6,,60
+,34,1,0,NHL,25,15,112,22,162,8,4,0,7,1982-83,NYR,12,22,"[{'link': '/awards/voting-1983.html#AS', 'name': 'AS-17'}]",7.4,,66
+,36,0,1,NHL,26,21,134,12,159,6,2,3,3,1983-84,NYR,9,27,"[{'link': '/awards/voting-1984.html#AS', 'name': 'AS-8'}, {'link': '/awards/voting-1984.html#norris', 'name': 'Norris-9'}]",5.7,,72
+,26,0,2,NHL,27,13,65,-11,70,3,2,1,5,1984-85,NYR,7,19,[],10.0,,56
+,12,1,0,NHL,28,3,24,7,53,1,3,0,5,1985-86,NYR,4,8,[],7.5,,25
+,8,0,0,NHL,32,7,53,3,36,1,0,0,0,1989-90,LAK,1,7,[],2.8,,52

@@ -1,0 +1,21 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,0,0,0,High-MN,0,14,0,0,0,0,0,0,0,0,2001-02,Academy of Holy Angels Stars,0,0,0,6,6,0
+0,0,0,0,0,0,High-MN,0,15,0,0,0,0,0,0,0,0,2002-03,Academy of Holy Angels Stars,1,0,1,14,16,0
+0,0,0,2.38,0,0,U-17,0,16,0,0,0,0,0,0,31,0,2003-04,U.S. National Team Development Program,3,0,0,9,16,781
+0,3,0,2.91,0,0,NAHL,0,16,0,0,0,0,0,0,71,0,2003-04,U.S. National Team Development Program,8,0,3,14,25,1463
+0,0,0,0.00,0,0,WJ18-A,0,16,0,0,0,0,0,0,0,0,2003-04,United States,0,0,0,0,1,9
+0,3,0,2.70,0,0,U-18,0,17,0,0,0,0,0,0,59,0,2004-05,U.S. National Team Development Program,0,0,0,0,24,1309
+0,1,0,2.16,0,0,NAHL,0,17,0,0,2,0,0,0,18,0,2004-05,U.S. National Team Development Program,1,0,0,8,9,500
+0,1,0,1.33,0,0,WJ18-A,0,17,0,0,0,0,0,0,8,0,2004-05,United States,0,0,0,6,6,360
+0,2,0,2.36,0,0,WCHA,0,18,0,0,2,0,0,0,26,0,2005-06,University of Minnesota,3,0,2,6,12,660
+0,0,0,5.00,0,0,WJC-A,0,18,0,0,0,0,0,0,5,0,2005-06,United States,0,0,0,1,1,60
+0,1,0,2.35,0,0,WCHA,0,19,0,0,4,0,0,0,45,0,2006-07,University of Minnesota,3,0,1,14,20,1148
+0,0,0,1.73,0,138,WJC-A,0,19,0,129,0,0,0,0,9,.935,2006-07,United States,1,0,0,4,5,313
+0,1,0,2.93,0,0,WCHA,0,20,0,0,0,0,0,0,39,0,2007-08,University of Minnesota,7,0,0,6,14,798
+0,0,0,4.50,0,25,AHL,0,20,0,22,0,0,0,0,3,.880,2007-08,Lowell Devils,1,0,0,0,1,40
+0,4,4,2.62,0,1874,AHL,0,21,0,1725,4,0,0,0,149,.920,2008-09,Lowell Devils,22,4,6,28,58,3407
+0,0,0,2.65,0,137,ECHL,0,21,0,125,2,0,0,0,12,.912,2008-09,Trenton Devils,2,0,0,2,5,272
+0,1,1,2.80,0,921,AHL,0,22,0,838,6,0,0,0,83,.910,2009-10,Lowell Devils,16,1,0,14,31,1778
+0,2,0,2.90,0,908,AHL,0,23,0,819,10,0,0,0,89,.902,2010-11,Albany Devils,15,0,3,11,33,1842
+0,2,0,2.67,0,964,AHL,0,24,0,873,0,0,0,0,91,.906,2011-12,Albany Devils,19,0,2,12,36,2042
+0,1,1,2.58,0,842,AHL,0,25,0,771,0,0,0,0,71,.916,2012-13,Albany Devils,14,1,5,8,28,1654

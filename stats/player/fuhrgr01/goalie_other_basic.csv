@@ -1,0 +1,12 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,2,0,3.14,0,0,WHL,0,17,0,0,0,0,0,0,130,0,1979-80,Victoria Cougars,12,0,0,30,43,2488
+0,4,0,2.78,0,0,WHL,0,18,0,0,0,0,0,0,160,0,1980-81,Victoria Cougars,9,0,1,48,59,3448
+0,0,0,3.97,0,0,AHL,0,20,0,0,0,0,0,0,40,0,1982-83,Moncton Alpines,5,0,1,4,10,604
+0,0,0,3.00,0,0,Can-Cup,0,22,0,0,0,0,0,0,6,0,1984-85,Canada,0,0,1,1,2,120
+0,0,0,4.00,0,0,RV-87,0,24,0,0,0,0,0,0,8,0,1986-87,NHL All-Stars,1,0,0,1,2,120
+0,0,0,3.34,0,0,Can-Cup,0,25,0,0,0,0,0,0,32,0,1987-88,Canada,1,0,2,6,9,575
+0,1,0,3.62,0,0,WEC-A,0,26,0,0,0,0,0,0,18,0,1988-89,Canada,3,0,1,1,5,298
+0,0,0,3.00,0,0,AHL,0,27,0,0,0,0,0,0,6,0,1989-90,Cape Breton Oilers,0,0,0,2,2,120
+0,0,0,4.25,0,0,AHL,0,28,0,0,0,0,0,0,17,0,1990-91,Cape Breton Oilers,2,0,0,2,4,240
+0,0,0,1.94,0,0,AHL,0,31,0,0,0,0,0,0,10,0,1993-94,Rochester Americans,0,0,2,3,5,310
+0,0,0,6.06,0,62,AHL,0,37,0,52,0,0,0,0,10,.839,1999-00,Saint John Flames,2,0,0,0,2,99

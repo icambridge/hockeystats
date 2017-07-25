@@ -1,0 +1,21 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,1,0,0,NHL,20,0,6,0,0,0,0,0,0,1952-53,NYR,0,1,[],0,,18
+,4,0,0,NHL,21,0,18,0,0,0,0,0,0,1953-54,NYR,2,2,[],0,,20
+,40,0,0,NHL,22,0,37,0,0,0,0,0,0,1954-55,NYR,20,20,[],0,,70
+,66,0,0,NHL,23,0,59,0,0,0,0,0,0,1955-56,NYR,19,47,"[{'link': '/awards/voting-1956.html#hart', 'name': 'Hart-8'}]",0,,70
+,77,0,0,NHL,24,0,60,0,0,0,0,0,0,1956-57,NYR,27,50,"[{'link': '/awards/voting-1957.html#hart', 'name': 'Hart-3'}]",0,,0
+,78,0,0,NHL,25,0,42,0,0,0,0,0,0,1957-58,NYR,30,48,"[{'link': '/awards/nhl_all_star.html#1958', 'name': None}, {'link': '/awards/voting-1958.html#hart', 'name': 'Hart-2'}]",0,,65
+,88,0,0,NHL,26,0,48,0,0,0,0,0,0,1958-59,NYR,40,48,"[{'link': '/awards/nhl_all_star.html#1959', 'name': None}, {'link': '/awards/voting-1959.html#byng', 'name': 'Byng-5'}, {'link': '/awards/hart.html#1959', 'name': None}]",0,,0
+,74,0,0,NHL,27,0,28,0,0,0,0,0,0,1959-60,NYR,26,48,[],0,,0
+,77,0,0,NHL,28,0,22,0,0,0,0,0,0,1960-61,NYR,29,48,[],0,,0
+,0,0,0,NHL,29,0,44,0,0,0,0,0,0,1961-62,NYR,28,0,"[{'link': '/awards/nhl_all_star.html#1962', 'name': None}, {'link': '/awards/voting-1962.html#hart', 'name': 'Hart-5'}]",0,,0
+,81,0,0,NHL,30,0,54,0,0,0,0,0,0,1962-63,NYR,35,46,"[{'link': '/awards/nhl_all_star.html#1963', 'name': None}]",0,,0
+,77,1,0,NHL,31,0,34,0,0,15,4,0,0,1963-64,TOT,19,0,[],0,,0
+,59,1,0,NHL,31,0,26,0,0,12,4,0,0,1963-64,NYR,16,43,[],0,,56
+,18,0,0,NHL,31,0,8,0,0,3,0,0,0,1963-64,TOR,3,15,[],0,,15
+,45,1,0,NHL,32,0,34,0,0,10,6,0,0,1964-65,TOR,16,29,[],0,,55
+,47,3,0,NHL,33,0,25,0,0,11,4,0,0,1965-66,DET,15,32,[],0,,70
+,31,1,0,NHL,34,0,24,0,0,8,0,0,0,1966-67,DET,8,23,[],0,,60
+,59,4,0,NHL,35,25,55,-11,293,18,2,0,14,1967-68,PIT,20,39,[],6.8,,74
+,44,3,0,NHL,38,15,34,-11,209,8,7,0,14,1970-71,PIT,15,29,[],7.2,,76
+,7,0,0,WHA,42,0,2,0,12,0,0,0,0,1974-75,VNB,1,6,[],8.3,,11

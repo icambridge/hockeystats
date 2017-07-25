@@ -1,0 +1,11 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,3.39,0,0,QAAA,0,16,0,0,0,0,0,0,32,0,1991-92,Montreal-Bourassa,4,0,0,5,9,567
+0,1,0,3.30,0,0,QMJHL,0,18,0,0,0,0,0,0,86,0,1993-94,Chicoutimi Sagueneens,10,0,0,16,26,1565
+0,1,0,2.50,0,0,M-Cup,0,18,0,0,0,0,0,0,10,0,1993-94,Chicoutimi Sagueneens,2,0,0,2,4,240
+0,0,0,2.79,0,223,QMJHL,0,19,0,203,0,0,0,0,20,.910,1994-95,Chicoutimi Sagueneens,5,0,0,2,7,430
+0,0,0,3.31,0,0,AHL,0,20,0,0,0,0,0,0,7,0,1995-96,Worcester IceCats,1,0,0,1,2,127
+0,0,0,3.39,0,126,AHL,0,24,0,116,10,0,0,0,10,.921,1999-00,Quebec Citadelles,3,0,0,0,3,177
+0,0,0,1.84,0,67,AHL,0,25,0,64,0,0,0,0,3,.955,2000-01,Quebec Citadelles,1,0,0,0,2,98
+0,0,0,2.44,0,0,Germany,0,26,0,0,0,0,0,0,8,0,2001-02,Krefeld Pinguine,0,0,0,0,3,197
+0,0,0,2.16,0,206,AHL,0,27,0,189,2,0,0,0,17,.917,2002-03,Hamilton Bulldogs,3,0,0,5,8,472
+0,0,0,1.13,0,0,QNAHL,0,29,0,0,0,0,0,0,9,0,2004-05,Quebec RadioX,0,0,0,8,8,480

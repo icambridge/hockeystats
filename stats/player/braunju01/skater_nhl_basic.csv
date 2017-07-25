@@ -1,0 +1,8 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+16:30,112,11,0,0,21,NHL,23,9,0,2,-1,44,0,0,0,2,0,0,14,2010-11,SJS,2,27,9,14,4.5,462,28,[]
+16:33,246,11,0,0,66,NHL,24,7,0,23,-2,113,0,1,0,1,0,2,16,2011-12,SJS,2,46,9,31,1.8,1092,66,[]
+18:48,139,7,0,0,51,NHL,25,6,0,6,-5,48,0,0,0,0,0,1,12,2012-13,SJS,0,53,7,24,0.0,771,41,[]
+20:59,269,17,1,0,146,NHL,26,13,0,20,19,121,0,3,0,1,0,0,40,2013-14,SJS,4,77,13,39,3.3,1721,82,[]
+21:02,211,23,0,0,130,NHL,27,20,0,48,8,94,0,1,0,0,0,2,19,2014-15,SJS,1,79,22,36,1.1,1472,70,[]
+20:34,244,23,0,0,140,NHL,28,18,0,36,11,114,0,4,0,0,0,1,33,2015-16,SJS,4,95,19,46,3.5,1645,80,[]
+20:05,237,13,0,0,161,NHL,29,7,0,28,1,95,0,4,0,0,2,0,40,2016-17,SJS,4,136,9,59,4.2,1626,81,[]

@@ -1,0 +1,5 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,0,[],0,2.40,0,69,NHL,1,24,.500,63,0,0,2,0,6,.913,2008-09,PIT,1,0.4,0,0,2,3,150
+1,0,[],0,12.50,0,14,NHL,0,25,.000,9,0,0,1,0,5,.643,2009-10,PIT,1,-0.4,0,0,0,1,24
+0,0,[],0,3.00,0,57,NHL,1,29,1.000,53,0,0,1,0,4,.930,2013-14,MIN,0,0.5,0,0,1,2,80
+1,0,[],0,4.17,0,25,NHL,0,30,.000,20,0,0,1,0,5,.800,2014-15,MIN,0,-0.2,0,1,0,2,72

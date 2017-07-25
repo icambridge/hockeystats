@@ -1,0 +1,5 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,11,0,0,NHL,22,9,37,-1,45,1,0,1,0,1974-75,NYR,1,10,[],2.2,,35
+,9,0,0,NHL,23,7,77,-15,62,1,0,0,1,1975-76,NYR,1,8,[],1.6,,59
+,0,0,0,NHL,24,0,0,-3,3,0,0,0,0,1976-77,NYR,0,0,[],0.0,,5
+,0,0,0,NHL,27,0,0,0,2,0,0,0,0,1979-80,EDM,0,0,[],0.0,,1

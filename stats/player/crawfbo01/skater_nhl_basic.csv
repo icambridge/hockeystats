@@ -1,0 +1,12 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,1,0,0,NHL,20,0,2,-6,12,1,0,0,0,1979-80,STL,1,0,[],8.3,,8
+,1,0,0,NHL,22,1,0,-4,9,0,0,0,0,1981-82,STL,0,1,[],0.0,,3
+,14,0,0,NHL,23,8,2,-5,63,4,1,0,1,1982-83,STL,5,9,[],7.9,,27
+,61,3,0,NHL,24,17,32,-1,179,31,5,0,8,1983-84,HAR,36,25,[],20.1,,0
+,28,0,0,NHL,25,12,8,-3,90,12,2,0,2,1984-85,HAR,14,14,[],15.6,,45
+,37,2,0,NHL,26,19,26,-14,125,11,4,0,3,1985-86,TOT,15,22,[],12.0,,68
+,34,2,0,NHL,26,17,16,-16,110,10,4,0,3,1985-86,HAR,14,20,[],12.7,,57
+,3,0,0,NHL,26,2,10,2,15,1,0,0,0,1985-86,NYR,1,2,[],6.7,,11
+,0,0,0,NHL,27,0,2,-1,15,0,0,0,0,1986-87,TOT,0,0,[],0.0,,15
+,0,0,0,NHL,27,0,2,-1,1,0,0,0,0,1986-87,NYR,0,0,[],0.0,,3
+,0,0,0,NHL,27,0,0,0,14,0,0,0,0,1986-87,WSH,0,0,[],0.0,,12

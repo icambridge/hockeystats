@@ -1,0 +1,17 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,1.50,0,0,S-SJHL,0,18,0,0,0,0,0,0,3,0,1932-33,Regina Pats,0,0,0,0,2,120
+0,1,0,3.78,0,0,N-SSHL,0,21,0,0,0,0,0,0,70,0,1935-36,Prince Albert Mintos,6,0,1,11,18,1110
+0,1,0,2.78,0,0,AHL,0,22,0,0,0,0,0,0,57,0,1936-37,Pittsburgh Hornets,9,0,3,8,20,1230
+0,1,0,2.57,0,0,AHL,0,23,0,0,0,0,0,0,24,0,1937-38,Pittsburgh Hornets,4,0,2,3,9,560
+0,1,0,2.50,0,0,AHA,0,24,0,0,0,0,0,0,10,0,1938-39,Kansas City Greyhounds,1,0,0,3,4,240
+0,1,0,3.03,0,0,AHL,0,24,0,0,0,0,0,0,106,0,1938-39,2 Teams,14,0,4,16,34,2100
+0,1,0,3.04,0,0,AHL,0,24,0,0,0,0,0,0,103,0,1938-39,Pittsburgh Hornets,14,0,3,16,33,2030
+0,0,0,2.57,0,0,AHL,0,24,0,0,0,0,0,0,3,0,1938-39,Syracuse Stars,0,0,1,0,1,70
+0,2,0,2.23,0,0,AHL,0,25,0,0,0,0,0,0,68,0,1939-40,Indianapolis Capitols,7,0,6,16,29,1830
+0,1,0,2.88,0,0,AHL,0,26,0,0,0,0,0,0,168,0,1940-41,Indianapolis Capitols,28,0,11,17,56,3500
+0,1,0,2.90,0,0,AHA,0,27,0,0,0,0,0,0,116,0,1941-42,Omaha Knights,14,0,6,19,39,2397
+0,0,0,4.75,0,0,AHL,0,28,0,0,0,0,0,0,19,0,1942-43,Pittsburgh Hornets,3,0,0,1,4,240
+0,0,0,1.00,0,0,AHL,0,29,0,0,0,0,0,0,1,0,1943-44,Buffalo Bisons,0,0,0,1,1,60
+0,1,0,3.90,0,0,AHL,0,30,0,0,0,0,0,0,117,0,1944-45,2 Teams,21,0,4,5,30,1800
+0,0,0,2.00,0,0,AHL,0,30,0,0,0,0,0,0,2,0,1944-45,Buffalo Bisons,0,0,1,0,1,60
+0,1,0,3.97,0,0,AHL,0,30,0,0,0,0,0,0,115,0,1944-45,St. Louis Flyers,21,0,3,5,29,1740

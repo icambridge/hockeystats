@@ -1,0 +1,8 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+10:57,7,2,0,0,2,NHL,21,1,29,2,0,5,40.8,1,42,0,0,0,8,2010-11,BUF,1,18,1,2,20.0,88,8,[]
+10:14,21,5,1,0,2,NHL,22,2,8,2,3,13,36.4,3,14,0,0,0,8,2011-12,CGY,3,26,2,9,23.1,225,22,[]
+10:27,4,1,0,0,1,NHL,23,1,7,2,-2,1,41.2,0,10,0,0,0,0,2012-13,CGY,0,3,1,1,0.0,42,4,[]
+14:27,93,21,1,1,10,NHL,24,10,7,27,6,46,21.9,4,25,2,3,1,29,2013-14,CGY,7,63,14,13,15.2,679,47,[]
+14:28,114,19,0,0,24,NHL,25,11,34,8,-2,62,35.4,5,62,1,2,0,46,2014-15,CGY,6,101,13,23,9.7,825,57,[]
+13:46,90,18,2,3,25,NHL,26,5,3,11,-9,50,60.0,8,2,0,2,0,23,2015-16,MTL,11,112,7,15,22.0,853,62,"[{'link': '/awards/voting-2016.html#byng', 'name': 'Byng-38'}]"
+15:04,158,43,6,1,34,NHL,27,17,10,29,21,96,66.7,21,5,0,0,4,40,2016-17,MTL,22,119,21,22,22.9,1220,81,"[{'link': '/awards/voting-2017.html#selke', 'name': 'Selke-40'}]"

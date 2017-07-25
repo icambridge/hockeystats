@@ -1,0 +1,11 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,2.00,0,0,OCHL,0,17,0,0,0,0,0,0,2,0,1909-10,Ottawa Stewartons,1,0,0,0,1,60
+0,0,0,4.33,0,0,IPAHU,0,18,0,0,0,0,0,0,13,0,1910-11,Ottawa New Edinburghs,0,0,0,3,3,180
+0,0,0,4.56,0,0,IPAHU,0,19,0,0,0,0,0,0,18,0,1911-12,Ottawa New Edinburghs,1,0,0,3,4,237
+0,1,0,1.00,0,0,NHA,0,22,0,0,0,0,0,0,2,0,1914-15,Ottawa Senators,1,0,0,1,2,120
+0,0,0,8.67,0,0,St-Cup,0,22,0,0,0,0,0,0,26,0,1914-15,Ottawa Senators,3,0,0,0,3,180
+0,0,0,3.50,0,0,NHA,0,24,0,0,0,0,0,0,7,0,1916-17,Ottawa Senators,1,0,0,1,2,120
+0,1,0,2.20,0,0,St-Cup,0,27,0,0,0,0,0,0,11,0,1919-20,Ottawa Senators,2,0,0,3,5,300
+0,0,0,2.40,0,0,St-Cup,0,28,0,0,0,0,0,0,12,0,1920-21,Ottawa Senators,2,0,0,3,5,300
+0,1,0,1.33,0,0,St-Cup,0,30,0,0,0,0,0,0,8,0,1922-23,Ottawa Senators,1,0,0,5,6,361
+0,3,0,0.75,0,0,St-Cup,0,33,0,0,0,0,0,0,3,0,1925-26,Montreal Maroons,1,0,0,3,4,240

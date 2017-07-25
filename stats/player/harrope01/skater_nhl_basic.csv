@@ -1,0 +1,10 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+15:12,0,2,0,0,0,NHL,23,2,0,8,0,11,0,0,0,0,0,0,0,2006-07,LAK,0,0,2,0,0.0,182,12,[]
+16:23,35,5,0,0,13,NHL,24,3,1,2,3,16,50.0,2,1,0,0,0,6,2007-08,LAK,2,7,3,15,12.5,410,25,[]
+13:10,174,12,1,0,37,NHL,25,4,6,28,-13,95,37.5,3,10,1,0,4,10,2008-09,LAK,4,36,8,23,4.2,909,69,[]
+9:15,45,3,0,0,15,NHL,26,2,2,8,-2,23,14.3,1,12,0,0,0,6,2009-10,LAK,1,20,2,2,4.3,361,39,[]
+12:15,30,4,0,0,6,NHL,27,3,0,4,3,12,0,1,0,0,0,0,5,2010-11,LAK,1,5,3,6,8.3,233,19,[]
+14:36,18,2,0,0,11,NHL,28,1,0,0,0,11,0,0,0,0,0,1,1,2011-12,NJD,0,3,2,2,0.0,161,11,[]
+17:38,68,5,0,0,10,NHL,29,1,0,6,-8,36,0,1,0,1,0,2,5,2012-13,NJD,2,21,3,7,5.6,406,23,[]
+18:40,72,4,0,0,29,NHL,30,4,0,14,-2,32,0,0,0,0,0,0,3,2013-14,NJD,0,17,4,12,0.0,616,33,[]
+15:15,62,5,0,0,39,NHL,31,2,0,4,-10,31,0,3,0,0,0,0,6,2014-15,NJD,3,40,2,12,9.7,655,43,[]

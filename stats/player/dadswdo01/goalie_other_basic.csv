@@ -1,0 +1,15 @@
+shots_againist,good_start_precentages,ties,saves,minutes,games_played,assists,year,goals,wins,goals_allowed_average,league,games_started,goals_allowed,goals_allowed_precentage,goals_saved_aboved_average,loses,good_starts,saves_percentage,age,pim,shutouts,points,bad_start,team
+0,0,0,0,865,15,0,1981-82,0,0,4.44,ON-Jr.B,0,64,0,0,0,0,0,17,0,0,0,0,Thornhill Thunderbirds
+0,0,1,0,1575,27,0,1982-83,0,13,5.68,ON-Jr.A,0,149,0,0,12,0,0,18,0,0,0,0,Richmond Hill Rams
+0,0,0,0,1520,26,0,1983-84,0,0,3.87,ON-Jr.B,0,98,0,0,0,0,0,19,0,0,0,0,Pickering Panthers
+0,0,1,0,1654,28,0,1984-85,0,17,3.52,ECAC,0,97,0,0,10,0,0,20,0,0,0,0,Cornell Big Red
+0,0,3,0,1815,30,0,1985-86,0,20,3.04,ECAC,0,92,0,0,7,0,0,21,0,1,0,0,Cornell Big Red
+0,0,0,0,2276,42,0,1986-87,0,23,3.64,AHL,0,138,0,0,12,0,0,22,0,1,0,0,Moncton Golden Flames
+0,0,0,0,2930,56,0,1988-89,0,19,4.75,IHL,0,232,0,0,25,0,0,24,0,0,0,0,2 Teams
+0,0,0,0,1723,32,0,1988-89,0,15,3.83,IHL,0,110,0,0,10,0,0,24,0,0,0,0,Salt Lake Golden Eagles
+0,0,0,0,1207,24,0,1988-89,0,4,6.06,IHL,0,122,0,0,15,0,0,24,0,0,0,0,Indianapolis Ice
+0,0,1,0,1599,28,0,1990-91,0,16,2.93,Nat-Tm,0,78,0,0,6,0,0,26,0,0,0,0,Canada
+0,0,1,0,1361,24,0,1991-92,0,14,3.92,ECHL,0,89,0,0,9,0,0,27,0,0,0,0,Cincinnati Cyclones
+0,0,2,0,1168,22,0,1991-92,0,7,3.44,AHL,0,67,0,0,9,0,0,27,0,0,0,0,Utica Devils
+0,0,1,0,1006,17,0,1992-93,0,5,3.76,IHL,0,63,0,0,11,0,0,28,0,1,0,0,Cincinnati Cyclones
+0,0,0,0,401,8,0,1992-93,0,3,5.39,ECHL,0,36,0,0,3,0,0,28,0,0,0,0,Birmingham Bulls

@@ -1,0 +1,11 @@
+game_winning_goals,plus_minus,shots,shorthanded_assists,games_played,assists,year,even_strength_assists,shorthanded_goals,goals,power_play_goals,average_ice_time,league,shotsPercentage,power_play_assists,age,pim,awards,points,even_strength_goals,total_ice_time,team
+0,0,0,0,0,15,1962-63,0,0,7,0,,NHL,0,0,26,105,"[{'link': '/awards/calder.html#1963', 'name': None}]",22,0,,TOR
+0,0,0,0,43,1,1963-64,0,0,0,0,,NHL,0,0,27,29,[],1,0,,TOR
+0,0,0,0,67,23,1964-65,0,0,5,5,,NHL,0,0,28,129,[],28,0,,TOR
+0,0,0,0,64,14,1965-66,0,0,6,5,,NHL,0,0,29,97,[],20,1,,TOR
+0,0,0,0,39,12,1966-67,0,0,2,1,,NHL,0,0,30,48,[],14,1,,TOR
+0,-12,165,0,0,21,1967-68,17,0,11,1,,NHL,6.7,4,31,126,[],32,10,,TOT
+0,-18,103,0,40,11,1967-68,7,0,4,1,,NHL,3.9,4,31,80,[],15,3,,OAK
+0,6,62,0,36,10,1967-68,10,0,7,0,,NHL,11.3,0,31,46,[],17,7,,DET
+0,4,114,1,69,29,1968-69,18,0,2,1,,NHL,1.8,10,32,97,[],31,1,,DET
+0,0,0,0,60,15,1972-73,0,0,3,0,,WHA,0,0,36,74,[],18,3,,NYW

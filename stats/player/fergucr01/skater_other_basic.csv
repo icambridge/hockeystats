@@ -1,0 +1,21 @@
+pim,team,assists,plus_minus,points,league,games_played,year,age,goals
+20,Yale University Bulldogs,6,0,17,ECAC,24,1988-89,18,11
+36,Yale University Bulldogs,13,0,19,ECAC,28,1989-90,19,6
+34,Yale University Bulldogs,10,0,21,ECAC,29,1990-91,20,11
+26,Yale University Bulldogs,16,0,25,ECAC,27,1991-92,21,9
+20,Fredericton Canadiens,13,0,28,AHL,55,1992-93,22,15
+24,Wheeling Thunderbirds,5,0,11,ECHL,9,1992-93,22,6
+60,Fredericton Canadiens,32,0,61,AHL,57,1993-94,23,29
+62,Fredericton Canadiens,35,0,62,AHL,80,1994-95,24,27
+8,Saint John Flames,13,0,18,AHL,18,1995-96,25,5
+25,Phoenix Roadrunners,9,0,15,IHL,31,1995-96,25,6
+57,Carolina Monarchs,41,0,70,AHL,74,1996-97,26,29
+41,Beast of New Haven,28,9,52,AHL,64,1997-98,27,24
+76,Beast of New Haven,27,-16,45,AHL,61,1998-99,28,18
+28,Louisville Panthers,27,20,56,AHL,61,1999-00,29,29
+65,HC Fribourg-Gotteron,22,0,38,Swiss,42,2000-01,30,16
+106,HC Fribourg-Gotteron,21,0,30,Swiss,43,2001-02,31,9
+52,HC Fribourg-Gotteron,14,0,32,Swiss,44,2002-03,32,18
+42,ERC Ingolstadt,11,0,21,Germany,51,2003-04,33,10
+28,ERC Ingolstadt,12,0,21,Germany,49,2004-05,34,9
+77,ERC Ingolstadt,11,0,21,Germany,48,2005-06,35,10

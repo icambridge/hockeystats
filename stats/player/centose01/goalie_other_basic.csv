@@ -1,0 +1,19 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,4.71,0,0,QAAA,0,15,0,0,0,0,0,0,102,0,1996-97,Laval-Laurentides,10,0,2,10,27,1298
+0,0,0,3.08,0,0,QAAA,0,16,0,0,0,0,0,0,87,0,1997-98,Laval-Laurentides,11,0,2,16,30,1696
+0,1,0,3.76,0,0,QMJHL,0,17,0,0,0,0,0,0,104,0,1998-99,Rouyn-Noranda Huskies,9,0,4,14,32,1658
+0,1,0,3.48,0,0,QMJHL,0,18,0,0,0,0,0,0,160,0,1999-00,Rouyn-Noranda Huskies,17,0,3,24,50,2758
+0,3,2,3.65,0,1369,QMJHL,0,19,0,1211,48,0,0,0,158,.885,2000-01,Rouyn-Noranda Huskies,14,2,4,25,46,2599
+0,1,1,2.09,0,545,CHL,0,20,0,509,0,0,0,0,36,.934,2001-02,Memphis RiverKings,1,1,0,16,19,1035
+0,2,1,2.52,0,810,AHL,0,20,0,750,6,0,0,0,60,.926,2001-02,St. John\'s Maple Leafs,7,1,4,12,25,1429
+0,0,0,3.90,0,559,AHL,0,21,0,491,4,0,0,0,68,.878,2002-03,St. John\'s Maple Leafs,10,0,1,7,19,1045
+0,1,0,2.55,0,325,ECHL,0,21,0,301,2,0,0,0,24,.926,2002-03,Greensboro Generals,3,0,3,3,10,565
+0,2,0,3.15,0,1140,AHL,0,22,0,1030,23,0,0,0,110,.904,2003-04,St. John\'s Maple Leafs,17,0,4,13,39,2097
+0,3,1,2.52,0,1289,ECHL,0,23,0,1192,31,0,0,0,97,.925,2004-05,2 Teams,13,1,5,19,40,2305
+0,2,1,2.60,0,1039,ECHL,0,23,0,959,27,0,0,0,80,.923,2004-05,Las Vegas Wranglers,12,1,4,13,31,1845
+0,1,0,2.22,0,250,ECHL,0,23,0,233,4,0,0,0,17,.932,2004-05,Long Beach Ice Dogs,1,0,1,6,9,460
+0,0,0,4.62,0,0,Finland,0,24,0,0,0,0,0,0,5,0,2005-06,HIFK Helsinki,0,0,1,0,1,65
+0,2,0,2.64,0,0,AHL,0,24,0,0,0,0,0,0,30,0,2005-06,Manitoba Moose,4,0,1,5,12,683
+0,1,1,3.01,0,593,CHL,0,24,0,540,14,0,0,0,53,.911,2005-06,Oklahoma City Blazers,7,1,1,9,18,1058
+0,1,3,3.14,0,1067,CHL,0,25,0,967,12,0,0,0,100,.906,2006-07,Oklahoma City Blazers,12,3,1,19,34,1913
+0,0,3,0,0,0,CHL,0,26,0,0,8,0,0,0,0,0,2007-08,Mississippi RiverKings,0,3,0,0,0,0

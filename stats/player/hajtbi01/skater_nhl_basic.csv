@@ -1,0 +1,15 @@
+power_play_goals,assists,points,power_play_assists,league,even_strength_assists,game_winning_goals,shorthanded_goals,shotsPercentage,games_played,average_ice_time,year,team,age,plus_minus,shorthanded_assists,even_strength_goals,pim,awards,total_ice_time,goals,shots
+0,2,2,1,NHL,1,0,0,0.0,6,,1973-74,BUF,22,-1,0,0,0,[],,0,4
+1,26,29,1,NHL,23,0,0,2.8,76,,1974-75,BUF,23,47,2,2,68,[],,3,107
+0,21,27,2,NHL,19,0,0,5.1,0,,1975-76,BUF,24,39,0,6,48,[],,6,117
+0,20,26,3,NHL,17,1,0,5.7,79,,1976-77,BUF,25,39,0,6,56,[],,6,106
+0,18,22,0,NHL,18,0,0,5.1,76,,1977-78,BUF,26,36,0,4,30,[],,4,78
+0,8,11,1,NHL,7,1,1,5.7,40,,1978-79,BUF,27,-4,0,2,20,[],,3,53
+0,12,16,0,NHL,12,0,1,6.3,75,,1979-80,BUF,28,36,0,3,24,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-11'}]",,4,63
+0,19,21,0,NHL,18,0,0,3.4,68,,1980-81,BUF,29,38,1,2,42,"[{'link': '/awards/voting-1981.html#AS', 'name': 'AS-17'}, {'link': '/awards/voting-1981.html#norris', 'name': 'Norris-15'}]",,2,58
+0,9,11,0,NHL,9,0,0,3.4,65,,1981-82,BUF,30,11,0,2,44,[],,2,58
+0,12,15,0,NHL,12,1,0,5.8,72,,1982-83,BUF,31,6,0,3,26,[],,3,52
+0,24,27,0,NHL,23,0,1,5.7,79,,1983-84,BUF,32,25,1,2,32,"[{'link': '/awards/voting-1984.html#AS', 'name': 'AS-15'}, {'link': '/awards/voting-1984.html#byng', 'name': 'Byng-13'}]",,3,53
+1,13,18,0,NHL,13,0,1,9.4,57,,1984-85,BUF,33,32,0,3,14,"[{'link': '/awards/voting-1985.html#AS', 'name': 'AS-17'}]",,5,53
+0,16,17,1,NHL,14,0,0,2.4,58,,1985-86,BUF,34,17,1,1,25,[],,1,42
+0,2,2,0,NHL,2,0,0,0.0,23,,1986-87,BUF,35,0,0,0,4,[],,0,11

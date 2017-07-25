@@ -1,0 +1,15 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,23,3,0,NHL,20,7,15,-6,67,8,6,0,2,1976-77,STL,14,9,[],20.9,,31
+,41,1,0,NHL,21,16,27,-35,128,13,4,0,8,1977-78,STL,17,24,[],13.3,,72
+,95,1,0,NHL,22,41,14,-15,156,24,7,0,23,1978-79,STL,31,64,"[{'link': '/awards/voting-1979.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-1979.html#byng', 'name': 'Byng-7'}]",19.9,,74
+,94,4,0,NHL,23,36,24,3,184,31,7,0,20,1979-80,STL,38,56,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-6'}]",20.7,,79
+,104,4,2,NHL,24,37,47,9,170,20,9,0,36,1980-81,STL,31,73,"[{'link': '/awards/voting-1981.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-1981.html#byng', 'name': 'Byng-16'}]",18.2,,78
+,92,6,0,NHL,25,48,70,-10,177,19,11,0,14,1981-82,STL,30,62,[],16.9,,74
+,84,1,0,NHL,26,40,24,-10,184,15,9,0,20,1982-83,STL,24,60,[],13.0,,75
+,107,4,0,NHL,27,44,43,-3,197,27,14,0,22,1983-84,STL,41,66,"[{'link': '/awards/voting-1984.html#AS', 'name': 'AS-6'}, {'link': '/awards/voting-1984.html#byng', 'name': 'Byng-7'}]",20.8,,79
+,103,3,0,NHL,28,41,27,-10,174,24,6,0,32,1984-85,STL,30,73,"[{'link': '/awards/voting-1985.html#byng', 'name': 'Byng-10'}, {'link': '/awards/voting-1985.html#hart', 'name': 'Hart-15'}]",17.2,,76
+,102,2,0,NHL,29,44,34,10,167,18,16,0,24,1985-86,STL,34,68,"[{'link': '/awards/voting-1986.html#byng', 'name': 'Byng-5'}, {'link': '/awards/voting-1986.html#hart', 'name': 'Hart-10'}]",20.4,,80
+,72,3,0,NHL,30,27,32,-25,130,11,9,0,25,1986-87,STL,20,52,[],15.4,,64
+,89,2,0,NHL,31,35,52,-12,119,11,9,0,34,1987-88,STL,20,69,"[{'link': '/awards/voting-1988.html#byng', 'name': 'Byng-9'}]",16.8,,79
+,67,6,0,NHL,32,25,54,-20,115,13,9,0,20,1988-89,STL,22,45,"[{'link': '/awards/voting-1989.html#byng', 'name': 'Byng-15'}]",19.1,,66
+,57,0,0,NHL,33,19,24,-8,108,14,3,0,21,1989-90,DET,17,40,"[{'link': '/awards/voting-1990.html#byng', 'name': 'Byng-18'}]",15.7,,73

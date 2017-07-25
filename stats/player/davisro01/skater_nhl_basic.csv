@@ -1,0 +1,10 @@
+game_winning_goals,takeaways,plus_minus,shots,faceoff_loses,shorthanded_assists,games_played,assists,faceoff_wins,year,even_strength_assists,shorthanded_goals,goals,power_play_goals,pim,league,shotsPercentage,power_play_assists,hits,faceoff_percentage,blocks,age,total_shots,average_ice_time,awards,points,giveaways,even_strength_goals,total_ice_time,team
+0,0,4,15,0,0,15,2,0,2002-03,2,0,1,0,22,NHL,6.7,0,0,0,0,22,0,17:53,[],3,0,1,268,SJS
+0,0,-3,33,0,0,55,3,0,2003-04,3,0,0,0,92,NHL,0.0,0,0,0,0,23,0,14:22,[],3,0,0,790,SJS
+0,0,6,36,0,0,69,5,0,2005-06,5,0,1,0,76,NHL,2.8,0,0,0,0,25,0,13:50,[],6,0,1,955,SJS
+0,0,-2,14,0,0,22,2,0,2006-07,2,0,0,0,27,NHL,0.0,0,0,0,0,26,0,9:19,[],2,0,0,205,SJS
+0,14,-6,32,0,0,34,1,0,2007-08,1,1,1,0,53,NHL,3.1,0,69,0,39,27,58,13:52,[],2,17,0,471,TOT
+0,1,-3,10,0,0,15,0,0,2007-08,0,0,0,0,21,NHL,0.0,0,36,0,4,27,17,7:47,[],0,0,0,117,SJS
+0,13,-3,22,0,0,19,1,0,2007-08,1,1,1,0,32,NHL,4.5,0,33,0,35,27,41,18:40,[],2,17,0,355,NYI
+0,1,-4,15,0,0,23,2,0,2008-09,2,0,0,0,51,NHL,0.0,0,28,0,12,28,33,10:05,[],2,7,0,232,VAN
+0,0,0,0,0,0,1,0,0,2009-10,0,0,0,0,0,NHL,0,0,0,0,0,29,0,3:59,[],0,0,0,4,NJD

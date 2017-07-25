@@ -1,0 +1,8 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,3.04,0,0,BCHL,0,18,0,0,0,0,0,0,13,0,1997-98,Vernon Vipers,1,0,0,2,6,257
+0,0,0,5.66,0,0,IHL,0,21,0,0,0,0,0,0,5,0,2000-01,Cleveland Lumberjacks,1,0,0,0,2,53
+0,0,0,2.40,0,7,AHL,0,22,0,6,0,0,0,0,1,.857,2001-02,Houston Aeros,0,0,0,0,2,25
+0,1,0,2.04,0,323,ECHL,0,24,0,304,0,0,0,0,19,.941,2003-04,Louisiana IceGators,4,0,0,4,8,560
+0,0,0,2.43,0,106,UHL,0,25,0,97,2,0,0,0,9,.915,2004-05,Adirondack Frostbite,3,0,0,0,3,222
+0,0,0,4.83,0,106,AHL,0,26,0,89,0,0,0,0,17,.840,2005-06,Providence Bruins,2,0,0,2,4,211
+0,2,0,2.36,0,471,ECHL,0,27,0,436,2,0,0,0,35,.926,2006-07,Alaska Aces,6,0,0,9,15,890

@@ -1,0 +1,11 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,4.17,0,0,M-Cup,0,17,0,0,0,0,0,0,25,0,1963-64,Port Arthur North Stars,3,0,0,3,6,360
+0,0,0,6.00,0,0,M-Cup,0,18,0,0,0,0,0,0,25,0,1964-65,Port Arthur North Stars,3,0,0,1,5,250
+0,0,0,3.14,0,0,M-Cup,0,19,0,0,0,0,0,0,33,0,1965-66,Fort William Canadiens,4,0,0,6,11,630
+0,0,0,3.19,0,0,TBJHL,0,20,0,0,0,0,0,0,17,0,1966-67,Port Arthur Marrs,1,0,0,4,5,320
+0,1,0,3.67,0,0,M-Cup,0,20,0,0,0,0,0,0,71,0,1966-67,Port Arthur Marrs,8,0,0,11,19,1160
+0,0,0,5.25,0,0,IHL,0,21,0,0,0,0,0,0,21,0,1967-68,Dayton Gems,0,0,0,0,4,240
+0,1,0,2.47,0,0,IHL,0,22,0,0,0,0,0,0,15,0,1968-69,Dayton Gems,0,0,0,0,6,365
+0,0,0,4.50,0,0,CHL,0,24,0,0,0,0,0,0,21,0,1970-71,Oklahoma City Blazers,4,0,0,1,5,280
+0,0,0,4.86,0,0,AHL,0,26,0,0,0,0,0,0,34,0,1972-73,Boston Braves,4,0,0,4,8,420
+0,0,0,4.37,0,0,WHL,0,27,0,0,0,0,0,0,19,0,1973-74,San Diego Gulls,4,0,0,0,4,261

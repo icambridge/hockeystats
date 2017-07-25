@@ -1,0 +1,19 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,2.00,0,0,Swe-U18,0,17,0,0,0,0,0,0,2,0,1999-00,Vasteras IK U18,0,0,0,0,1,60
+0,0,0,2.44,0,0,Swe-Jr.,0,17,0,0,0,0,0,0,36,0,1999-00,Vasteras IK Jr.,0,0,0,0,16,885
+0,0,0,0,0,0,Sweden-4,0,18,0,0,0,0,0,0,0,0,2000-01,Vasteras IK Ungdom,0,0,0,0,33,0
+0,0,0,0,0,0,Sweden-3,0,19,0,0,0,0,0,0,0,0,2001-02,Vasteras IK Ungdom,0,0,0,0,37,0
+0,1,0,2.84,0,0,Sweden-2,0,20,0,0,0,0,0,0,91,0,2002-03,Vasteras IK Ungdom,0,0,0,0,32,1920
+0,3,0,2.56,0,0,Sweden-2,0,21,0,0,0,0,0,0,79,0,2003-04,Vasteras IK Ungdom,0,0,0,0,32,1850
+0,3,0,2.08,0,0,Sweden-2,0,22,0,0,0,0,0,0,76,0,2004-05,Vasteras IK Ungdom,0,0,0,0,37,2189
+0,0,0,2.03,0,0,Sweden-2,0,23,0,0,0,0,0,0,4,0,2005-06,VIK Vasteras HK ,0,0,0,0,2,118
+0,2,0,1.79,0,0,Sweden,0,23,0,0,0,0,0,0,18,0,2005-06,HV 71 Jonkoping,0,0,0,0,10,602
+0,0,0,1.00,0,0,Swe-Jr.,0,23,0,0,0,0,0,0,1,0,2005-06,HV 71 Jonkoping Jr.,0,0,0,0,1,60
+0,4,0,2.40,0,0,Sweden,0,24,0,0,0,0,0,0,98,0,2006-07,HV 71 Jonkoping,0,0,0,0,41,2455
+0,0,0,4.07,0,0,WC-A,0,24,0,0,0,0,0,0,4,0,2006-07,Sweden,1,0,0,0,1,59
+0,1,0,2.92,0,728,AHL,0,25,0,653,2,0,0,0,75,.897,2007-08,Manchester Monarchs,13,0,2,10,30,1540
+0,0,0,2.02,0,54,AHL,0,28,0,50,0,0,0,0,4,.926,2010-11,Manchester Monarchs,1,0,0,1,2,119
+0,4,1,2.12,0,0,KHL,0,28,0,0,0,0,0,0,35,0,2010-11,Salavat Yulayev Ufa,0,1,0,0,18,991
+0,0,0,3.84,0,83,WC-A,0,28,0,75,0,0,0,0,8,.904,2010-11,Sweden,2,0,0,0,2,125
+0,3,0,2.47,0,0,KHL,0,29,0,0,2,0,0,0,56,0,2011-12,Salavat Yulayev Ufa,5,0,0,11,24,1363
+0,1,0,2.64,0,0,KHL,0,30,0,0,0,0,0,0,55,0,2012-13,HK Donbass Donetsk,10,0,0,5,21,1248

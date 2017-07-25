@@ -1,0 +1,12 @@
+game_winning_goals,plus_minus,shots,shorthanded_assists,games_played,assists,year,even_strength_assists,shorthanded_goals,goals,power_play_goals,average_ice_time,league,shotsPercentage,power_play_assists,age,pim,awards,points,even_strength_goals,total_ice_time,team
+0,-6,5,0,13,2,1994-95,2,0,0,0,,NHL,0.0,0,22,0,[],2,0,,TOT
+0,-5,4,0,10,2,1994-95,2,0,0,0,,NHL,0.0,0,22,0,[],2,0,,MTL
+0,-1,1,0,3,0,1994-95,0,0,0,0,,NHL,0.0,0,22,0,[],0,0,,NYI
+0,-1,1,0,10,2,1995-96,2,0,0,0,,NHL,0.0,0,23,0,[],2,0,,NYI
+0,2,13,0,9,4,1996-97,4,1,1,0,,NHL,7.7,0,24,2,[],5,0,,PHI
+0,0,3,0,3,0,1997-98,0,0,1,0,,NHL,33.3,0,25,0,[],1,1,,PHI
+2,-14,90,0,76,10,1999-00,10,1,7,0,13:45,NHL,7.8,0,27,14,[],17,6,1045,MTL
+0,-17,97,0,78,16,2000-01,13,1,12,0,15:53,NHL,12.4,3,28,16,[],28,11,1239,MTL
+0,0,0,0,2,0,2001-02,0,0,0,0,5:20,NHL,0,0,29,0,[],0,0,11,MTL
+0,-1,1,0,3,1,2002-03,1,0,0,0,10:36,NHL,0.0,0,30,0,[],1,0,32,NJD
+0,-1,0,0,2,0,2003-04,0,0,0,0,7:06,NHL,0,0,31,0,[],0,0,14,NJD

@@ -1,0 +1,8 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,15,0,0,NHL,30,0,10,0,0,0,0,0,0,1926-27,PTP,7,8,[],0,,41
+,10,0,0,NHL,31,0,32,0,0,0,0,0,0,1927-28,TOT,5,5,[],0,,39
+,0,0,0,NHL,31,0,0,0,0,0,0,0,0,1927-28,PTP,0,0,[],0,,7
+,10,0,0,NHL,31,0,32,0,0,0,0,0,0,1927-28,CBH,5,5,[],0,,32
+,7,0,0,NHL,32,0,32,0,0,0,0,0,0,1928-29,CBH,3,4,[],0,,0
+,18,0,0,NHL,33,0,26,0,0,0,0,0,0,1929-30,CBH,10,8,[],0,,42
+,6,0,0,NHL,34,0,12,0,0,0,0,0,0,1930-31,CBH,3,3,[],0,,41

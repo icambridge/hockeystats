@@ -1,0 +1,6 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,10,0,0,NHL,19,0,33,0,0,0,0,0,0,1946-47,TOR,3,7,[],0,,18
+,14,0,0,NHL,20,0,0,0,0,0,0,0,0,1947-48,TOR,5,9,[],0,,57
+,9,0,0,NHL,21,0,95,0,0,0,0,0,0,1948-49,TOR,5,4,[],0,,0
+,17,0,0,NHL,22,0,85,0,0,0,0,0,0,1949-50,TOR,7,10,[],0,,59
+,12,0,0,NHL,23,0,96,0,0,0,0,0,0,1950-51,TOR,6,6,[],0,,58

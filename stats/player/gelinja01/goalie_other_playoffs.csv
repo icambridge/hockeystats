@@ -1,0 +1,9 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,3.00,0,0,TNDHL,0,19,0,0,0,0,0,0,3,0,1943-44,Toronto RCAF,1,0,0,0,1,60
+0,0,0,5.60,0,0,MCHL,0,20,0,0,0,0,0,0,28,0,1944-45,Montreal RCAF,0,0,0,0,5,300
+0,0,0,4.89,0,0,QJHL,0,20,0,0,0,0,0,0,43,0,1944-45,Montreal Jr. Royals,7,0,0,2,9,528
+0,1,0,2.27,0,0,QMHL,0,27,0,0,0,0,0,0,28,0,1951-52,Quebec Aces,4,0,0,8,12,739
+0,1,0,2.35,0,0,QMHL,0,28,0,0,0,0,0,0,51,0,1952-53,Quebec Aces,8,0,0,13,21,1303
+0,4,0,1.86,0,0,QHL,0,29,0,0,0,0,0,0,26,0,1953-54,Quebec Aces,0,0,0,0,14,840
+0,0,0,4.69,0,0,Ed-Cup,0,29,0,0,0,0,0,0,14,0,1953-54,Quebec Aces,2,0,0,1,3,179
+0,0,0,3.50,0,0,QHL,0,30,0,0,0,0,0,0,14,0,1954-55,Quebec Aces,3,0,0,1,4,240

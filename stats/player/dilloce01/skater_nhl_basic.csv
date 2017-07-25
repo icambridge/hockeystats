@@ -1,0 +1,11 @@
+game_winning_goals,plus_minus,shots,shorthanded_assists,games_played,assists,year,even_strength_assists,shorthanded_goals,goals,power_play_goals,average_ice_time,league,shotsPercentage,power_play_assists,age,pim,awards,points,even_strength_goals,total_ice_time,team
+0,0,0,0,25,3,1930-31,0,0,7,0,,NHL,0,0,22,8,[],10,0,,NYR
+0,0,0,0,0,15,1931-32,0,0,23,0,,NHL,0,0,23,22,[],38,0,,NYR
+0,0,0,0,48,10,1932-33,0,0,21,0,,NHL,0,0,24,12,[],31,0,,NYR
+0,0,0,0,0,26,1933-34,0,0,13,0,,NHL,0,0,25,10,[],39,0,,NYR
+0,0,0,0,48,9,1934-35,0,0,25,0,,NHL,0,0,26,4,"[{'link': '/awards/voting-1935.html#byng', 'name': 'Byng-5'}]",34,0,,NYR
+0,0,0,0,48,14,1935-36,0,0,18,0,,NHL,0,0,27,12,"[{'link': '/awards/nhl_all_star.html#1936', 'name': None}, {'link': '/awards/voting-1936.html#byng', 'name': 'Byng-3'}]",32,0,,NYR
+0,0,0,0,48,11,1936-37,0,0,20,0,,NHL,0,0,28,13,"[{'link': '/awards/nhl_all_star.html#1937', 'name': None}]",31,0,,NYR
+0,0,0,0,48,18,1937-38,0,0,21,0,,NHL,0,0,29,6,"[{'link': '/awards/nhl_all_star.html#1938', 'name': None}, {'link': '/awards/voting-1938.html#byng', 'name': 'Byng-3'}]",39,0,,NYR
+0,0,0,0,0,15,1938-39,0,0,12,0,,NHL,0,0,30,6,[],27,0,,NYR
+0,0,0,0,44,10,1939-40,0,0,7,0,,NHL,0,0,31,12,[],17,0,,DET

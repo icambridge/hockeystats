@@ -1,0 +1,7 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,6.99,0,0,NAHL,0,17,0,0,0,0,0,0,12,0,1999-00,Chicago Freeze,2,0,0,0,2,103
+0,0,0,3.79,0,0,NAHL,0,18,0,0,0,0,0,0,12,0,2000-01,Chicago Freeze,2,0,0,1,3,190
+0,0,0,2.50,0,152,OHL,0,19,0,137,0,0,0,0,15,.901,2001-02,Plymouth Whalers,4,0,0,2,6,360
+0,0,0,2.03,0,34,AHL,0,20,0,32,0,0,0,0,2,.941,2002-03,Utah Grizzlies,1,0,0,0,1,59
+0,0,1,2.54,0,55,AHL,0,28,0,50,0,0,0,0,5,.909,2010-11,Lake Erie Monsters,1,1,0,1,2,118
+0,0,0,3.13,0,0,Germany,0,30,0,0,2,0,0,0,22,0,2012-13,Straubing Tigers,4,0,0,3,7,422

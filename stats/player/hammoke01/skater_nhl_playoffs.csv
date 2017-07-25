@@ -1,0 +1,5 @@
+shorthanded_goals,power_play_goals,year,team,average_ice_time,age,points,shotsPercentage,assists,league,pim,game_winning_goals,goals,win,plus_minus,total_ice_time,games_played,even_strength_goals,shots
+0,0,1984-85,LAK,,21,0,0.0,0,NHL,4,0,0,,1,,3,0,3
+0,0,1987-88,LAK,,24,0,0.0,0,NHL,4,0,0,,-5,,2,0,2
+0,0,1990-91,BOS,,27,0,0.0,0,NHL,10,0,0,,-5,,8,0,4
+0,0,1991-92,VAN,,28,0,0.0,0,NHL,6,0,0,,0,,2,0,2

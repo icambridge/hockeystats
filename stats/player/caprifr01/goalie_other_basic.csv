@@ -1,0 +1,22 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,1,0,4.83,0,0,OMJHL,0,17,0,0,0,0,0,0,74,0,1979-80,London Knights,7,0,3,3,18,919
+0,0,0,5.25,0,0,OMJHL,0,18,0,0,0,0,0,0,190,0,1980-81,London Knights,26,0,0,11,42,2171
+0,0,0,4.50,0,0,OHL,0,19,0,0,0,0,0,0,196,0,1981-82,London Knights,17,0,2,24,45,2614
+0,0,0,2.33,0,0,WJC-A,0,19,0,0,0,0,0,0,7,0,1981-82,Canada,0,0,0,3,3,180
+0,0,0,6.40,0,0,CHL,0,19,0,0,0,0,0,0,19,0,1981-82,Dallas Black Hawks,3,0,0,0,3,178
+0,0,0,3.66,0,0,AHL,0,20,0,0,0,0,0,0,50,0,1982-83,Fredericton Express,8,0,1,5,14,819
+0,2,0,2.70,0,0,AHL,0,21,0,0,0,0,0,0,49,0,1983-84,Fredericton Express,5,0,2,11,18,1089
+0,0,0,4.29,0,0,AHL,0,23,0,0,0,0,0,0,109,0,1985-86,Fredericton Express,11,0,2,12,26,1526
+0,0,0,4.11,0,0,AHL,0,24,0,0,0,0,0,0,47,0,1986-87,Fredericton Express,5,0,0,5,12,686
+0,2,0,3.89,0,0,IHL,0,26,0,0,0,0,0,0,143,0,1988-89,Milwaukee Admirals,12,0,0,24,39,2204
+0,0,0,5.02,0,0,AHL,0,27,0,0,0,0,0,0,46,0,1989-90,Maine Mariners,6,0,1,2,10,550
+0,0,0,4.26,0,0,IHL,0,27,0,0,0,0,0,0,78,0,1989-90,Milwaukee Admirals,6,0,3,8,20,1098
+0,0,0,4.89,0,0,Italy,0,30,0,0,0,0,0,0,93,0,1992-93,HC Gardena,0,0,0,0,19,1140
+0,0,0,4.98,0,0,Italy,0,31,0,0,0,0,0,0,100,0,1993-94,HC Gardena,0,0,0,0,22,1204
+0,0,0,3.58,0,0,Italy,0,33,0,0,0,0,0,0,100,0,1995-96,HC Gardena,0,0,0,0,36,1678
+0,1,0,1.95,0,0,BH-Cup,0,34,0,0,0,0,0,0,14,0,1996-97,Cardiff Devils,0,0,0,7,7,430
+0,0,0,3.23,0,0,Britain,0,34,0,0,0,0,0,0,38,0,1996-97,Cardiff Devils,0,0,0,0,12,705
+0,1,0,2.00,0,0,BH-Cup,0,35,0,0,0,0,0,0,16,0,1997-98,Cardiff Devils,0,0,0,0,8,480
+0,0,0,2.95,0,0,Britain,0,35,0,0,0,0,0,0,61,0,1997-98,Cardiff Devils,0,0,0,0,21,1242
+0,0,0,3.40,0,410,WPHL,0,36,0,362,0,0,0,0,48,.883,1998-99,Corpus Christi Ice Rays,5,0,1,9,15,847
+0,0,0,3.68,0,0,Britain,0,36,0,0,0,0,0,0,24,0,1998-99,Ayr Scottish Eagles,5,0,0,2,7,391

@@ -1,0 +1,6 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,3,0,0,NHL,17,0,4,0,0,0,0,0,0,1943-44,DET,0,3,[],0,,7
+,0,0,0,NHL,18,0,2,0,0,0,0,0,0,1944-45,DET,0,0,[],0,,2
+,35,0,0,NHL,25,0,96,0,0,0,0,0,0,1951-52,NYR,12,23,"[{'link': '/awards/nhl_all_star.html#1952', 'name': None}, {'link': '/awards/voting-1952.html#calder', 'name': 'Calder-2'}]",0,,68
+,25,0,0,NHL,26,0,73,0,0,0,0,0,0,1952-53,NYR,7,18,[],0,,0
+,17,0,0,NHL,27,0,40,0,0,0,0,0,0,1953-54,NYR,3,14,[],0,,41

@@ -1,0 +1,10 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,10,0,0,NHL,20,0,18,0,0,0,0,0,0,1945-46,DET,3,7,[],0,,43
+,15,0,0,NHL,21,0,0,0,0,0,0,0,0,1946-47,DET,5,10,[],0,,30
+,9,0,0,NHL,22,0,2,0,0,0,0,0,0,1947-48,DET,3,6,[],0,,19
+,29,0,0,NHL,23,0,6,0,0,0,0,0,0,1948-49,DET,19,10,[],0,,51
+,31,0,0,NHL,24,0,21,0,0,0,0,0,0,1949-50,DET,24,7,[],0,,69
+,13,0,0,NHL,25,0,2,0,0,0,0,0,0,1950-51,DET,7,6,[],0,,53
+,1,0,0,NHL,26,0,4,0,0,0,0,0,0,1951-52,MTL,0,1,[],0,,10
+,37,0,0,NHL,27,0,22,0,0,0,0,0,0,1952-53,CBH,19,18,[],0,,0
+,11,0,0,NHL,28,0,14,0,0,0,0,0,0,1953-54,CBH,6,5,[],0,,40

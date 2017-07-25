@@ -1,0 +1,6 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,23,0,0,NHL,25,17,96,-2,82,5,0,0,1,1992-93,WIN,5,18,[],6.1,,71
+,7,0,0,NHL,26,5,78,-12,39,0,0,0,2,1993-94,TOT,0,7,[],0.0,,60
+,7,0,0,NHL,26,5,78,-13,39,0,0,0,2,1993-94,WIN,0,7,[],0.0,,59
+,0,0,0,NHL,26,0,0,1,0,0,0,0,0,1993-94,DET,0,0,[],0,,1
+,0,0,0,NHL,28,0,2,-1,0,0,0,0,0,1995-96,SJS,0,0,[],0,,1

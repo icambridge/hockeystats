@@ -1,0 +1,9 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,28,0,0,NHL,23,0,82,0,0,0,0,0,0,1926-27,TOR,15,13,[],0,,42
+,12,0,0,NHL,24,0,72,0,0,0,0,0,0,1927-28,TOR,9,3,[],0,,43
+,0,0,0,NHL,25,0,78,0,0,0,0,0,0,1928-29,TOR,0,10,"[{'link': '/awards/voting-1929.html#hart', 'name': 'Hart-2'}]",0,,0
+,43,0,0,NHL,26,0,69,0,0,0,0,0,0,1929-30,TOR,22,21,[],0,,43
+,42,0,0,NHL,27,0,46,0,0,0,0,0,0,1930-31,TOR,23,19,[],0,,40
+,13,0,0,NHL,28,0,62,0,0,0,0,0,0,1931-32,TOR,8,5,[],0,,41
+,18,0,0,NHL,29,0,52,0,0,0,0,0,0,1932-33,TOR,10,8,[],0,,47
+,5,0,0,NHL,30,0,11,0,0,0,0,0,0,1933-34,TOR,2,3,[],0,,13

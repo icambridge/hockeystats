@@ -1,0 +1,19 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,3,0,2.12,0,0,High-MA,0,17,0,0,0,0,0,0,53,0,2004-05,Cushing Academy Penguins,0,0,0,0,28,1498
+0,0,0,0,0,0,EmJHL,0,17,0,0,0,0,0,0,0,0,2004-05,Junior Bruins,0,0,0,0,25,0
+0,4,0,2.25,0,0,High-MA,0,18,0,0,0,0,0,0,60,0,2005-06,Cushing Academy Penguins,0,0,0,0,30,1598
+0,4,0,3.34,0,1156,USHL,0,19,0,1049,0,0,0,0,107,.907,2006-07,2 Teams,15,0,2,16,33,1924
+0,0,0,4.85,0,259,USHL,0,19,0,230,0,0,0,0,29,.888,2006-07,Chicago Steel,5,0,0,2,7,359
+0,4,0,2.99,0,897,USHL,0,19,0,819,0,0,0,0,78,.913,2006-07,Cedar Rapids RoughRiders,10,0,2,14,26,1565
+0,4,3,1.85,0,0,WCHA,0,20,0,0,0,0,0,0,65,0,2007-08,Colorado College,9,3,1,25,35,2103
+0,3,3,2.63,0,0,WCHA,0,21,0,0,0,0,0,0,91,0,2008-09,Colorado College,11,3,10,14,35,2073
+0,1,1,2.15,0,235,AHL,0,22,0,219,0,0,0,0,16,.932,2009-10,Texas Stars,4,1,0,4,8,446
+0,4,0,2.28,0,852,ECHL,0,22,0,775,2,0,0,0,77,.910,2009-10,Idaho Steelheads,7,0,4,22,35,2028
+0,6,2,2.20,0,1595,AHL,0,23,0,1478,2,0,0,0,117,.927,2010-11,Texas Stars,19,2,5,28,55,3191
+0,2,2,3.13,0,391,AHL,0,24,0,347,0,0,0,0,44,.887,2011-12,Texas Stars,6,2,1,7,15,844
+0,0,0,1.85,0,19,WC-A,0,24,0,17,0,0,0,0,2,.895,2011-12,United States,0,0,0,1,1,65
+0,0,0,2.31,0,175,AHL,0,25,0,161,0,0,0,0,14,.920,2012-13,Texas Stars,1,0,0,5,6,363
+0,0,0,0,0,0,AHL,0,26,0,0,0,0,0,0,0,0,2013-14,Oklahoma City Barons,0,0,0,0,0,0
+0,0,0,0,0,0,AHL,0,27,0,0,0,0,0,0,0,0,2014-15,Oklahoma City Barons,0,0,0,0,0,0
+0,0,0,0,0,0,AHL,0,28,0,0,0,0,0,0,0,0,2015-16,Utica Comets,0,0,0,0,0,0
+0,0,0,0,0,0,AHL,0,29,0,0,0,0,0,0,0,0,2016-17,Utica Comets,0,0,0,0,0,0

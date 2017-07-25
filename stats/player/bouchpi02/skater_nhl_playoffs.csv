@@ -1,0 +1,5 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,5,1,0,NHL,2002-03,18,0,MIN,66,1,2,-1,0,8,,,0.0,0
+0,5,2,0,NHL,2006-07,22,1,MIN,74,1,0,-3,0,2,,,50.0,1
+1,6,4,1,NHL,2007-08,23,2,MIN,107,2,2,1,0,18,26,,11.1,1
+0,5,2,0,NHL,2012-13,28,1,MIN,73,1,0,2,0,10,15,,10.0,1

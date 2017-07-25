@@ -1,0 +1,5 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,0,[],0,3.00,0,0,NHL,0,24,0,0,0,0,0,0,12,0,1948-49,BOS,2,0.5,0,0,2,4,240
+0,3,"[{'link': '/awards/calder.html#1950', 'name': None}]",0,3.28,0,0,NHL,0,25,0,0,0,0,0,0,220,0,1949-50,BOS,30,7.3,0,15,22,67,4020
+0,4,[],0,2.81,0,0,NHL,0,26,0,0,4,0,0,0,197,0,1950-51,BOS,30,10.9,0,18,22,0,0
+0,0,[],0,9.00,0,0,NHL,0,29,0,0,0,0,0,0,18,0,1953-54,CBH,2,-1.2,0,0,0,2,120

@@ -1,0 +1,11 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,2.29,0,0,OHL,0,18,0,0,0,0,0,0,4,0,1995-96,Detroit Jr. Whalers,2,0,0,0,3,105
+0,0,0,3.60,0,0,OHL,0,19,0,0,0,0,0,0,19,0,1996-97,Detroit Jr. Whalers,4,0,0,1,5,317
+0,0,0,3.10,0,0,OHL,0,20,0,0,0,0,0,0,45,0,1997-98,Plymouth Whalers,7,0,0,8,15,870
+0,0,0,4.00,0,30,AHL,0,21,0,26,0,0,0,0,4,.867,1998-99,Springfield Falcons,1,0,0,0,1,60
+0,0,0,4.00,0,98,AHL,0,22,0,86,0,0,0,0,12,.878,1999-00,Springfield Falcons,2,0,0,1,3,180
+0,1,1,2.46,0,0,Russia,0,30,0,0,4,0,0,0,25,0,2007-08,Ak Bars Kazan,0,1,0,0,10,609
+0,0,0,2.59,0,0,KHL,0,31,0,0,4,0,0,0,8,0,2008-09,SKA St. Petersburg,0,0,0,0,3,185
+0,0,0,2.29,0,0,KHL,0,32,0,0,0,0,0,0,9,0,2009-10,SKA St. Petersburg,0,0,0,0,4,236
+0,0,0,1.94,0,0,KHL,0,33,0,0,4,0,0,0,7,0,2010-11,Dynamo Minsk,0,0,0,0,4,216
+0,0,1,1.85,0,0,Swiss,0,34,0,0,0,0,0,0,8,0,2011-12,SCL Tigers Langnau,0,1,0,4,4,259

@@ -1,0 +1,30 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,32,0,0,NHL,19,16,130,4,113,7,2,1,6,1980-81,EDM,9,23,[],8.0,,74
+,89,1,0,NHL,20,34,106,35,234,16,13,3,23,1981-82,EDM,29,60,"[{'link': '/awards/nhl_all_star.html#1982', 'name': None}, {'link': '/awards/voting-1982.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1982.html#norris', 'name': 'Norris-3'}]",12.4,,80
+,96,2,1,NHL,21,39,87,52,259,19,9,1,27,1982-83,EDM,29,67,"[{'link': '/awards/nhl_all_star.html#1983', 'name': None}, {'link': '/awards/voting-1983.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-1983.html#norris', 'name': 'Norris-5'}]",11.2,,0
+,126,4,1,NHL,22,55,104,52,258,25,14,7,24,1983-84,EDM,40,86,"[{'link': '/awards/voting-1984.html#AS', 'name': 'AS-3'}, {'link': '/awards/nhl_all_star.html#1984', 'name': None}, {'link': '/awards/voting-1984.html#hart', 'name': 'Hart-10'}, {'link': '/awards/voting-1984.html#norris', 'name': 'Norris-2'}]",15.5,,0
+,121,6,2,NHL,23,53,97,55,284,23,12,4,27,1984-85,EDM,37,84,"[{'link': '/awards/nhl_all_star.html#1985', 'name': None}, {'link': '/awards/voting-1985.html#hart', 'name': 'Hart-15'}, {'link': '/awards/norris.html#1985', 'name': None}]",13.0,,0
+,138,3,0,NHL,24,62,120,61,307,30,9,5,23,1985-86,EDM,48,90,"[{'link': '/awards/nhl_all_star.html#1986', 'name': None}, {'link': '/awards/voting-1986.html#hart', 'name': 'Hart-4'}, {'link': '/awards/norris.html#1986', 'name': None}]",15.6,,79
+,67,3,2,NHL,25,27,49,12,165,5,10,1,22,1986-87,EDM,17,50,"[{'link': '/awards/voting-1987.html#AS', 'name': 'AS-7'}, {'link': '/awards/voting-1987.html#norris', 'name': 'Norris-5'}]",10.3,,59
+,67,2,2,NHL,26,14,93,-1,193,7,6,2,36,1987-88,PIT,15,52,"[{'link': '/awards/voting-1988.html#AS', 'name': 'AS-12'}, {'link': '/awards/voting-1988.html#norris', 'name': 'Norris-7'}]",7.8,,46
+,113,2,0,NHL,27,30,195,-10,342,19,11,0,53,1988-89,PIT,30,83,"[{'link': '/awards/nhl_all_star.html#1989', 'name': None}, {'link': '/awards/voting-1989.html#norris', 'name': 'Norris-2'}]",8.8,,75
+,103,3,0,NHL,28,35,95,-25,324,19,10,1,38,1989-90,PIT,29,74,"[{'link': '/awards/nhl_all_star.html#1990', 'name': None}, {'link': '/awards/voting-1990.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1990.html#norris', 'name': 'Norris-4'}]",9.0,,0
+,93,3,0,NHL,29,35,128,-18,240,16,8,0,34,1990-91,PIT,24,69,"[{'link': '/awards/voting-1991.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-1991.html#norris', 'name': 'Norris-5'}]",10.0,,76
+,69,1,0,NHL,30,30,87,1,232,6,5,2,26,1991-92,TOT,11,58,"[{'link': '/awards/voting-1992.html#AS', 'name': 'AS-14'}]",4.7,,64
+,64,1,0,NHL,30,28,62,4,207,5,5,2,24,1991-92,PIT,10,54,"[{'link': '/awards/voting-1992.html#AS', 'name': 'AS-14'}]",4.8,,54
+,5,0,0,NHL,30,2,25,-3,25,1,0,0,2,1991-92,LAK,1,4,"[{'link': '/awards/voting-1992.html#AS', 'name': 'AS-14'}]",4.0,,10
+,87,0,0,NHL,31,29,77,16,254,7,5,0,46,1992-93,TOT,12,75,"[{'link': '/awards/voting-1993.html#AS', 'name': 'AS-7'}, {'link': '/awards/voting-1993.html#norris', 'name': 'Norris-9'}]",4.7,,80
+,57,0,0,NHL,31,21,50,9,182,6,2,0,28,1992-93,LAK,8,49,"[{'link': '/awards/voting-1993.html#AS', 'name': 'AS-7'}, {'link': '/awards/voting-1993.html#norris', 'name': 'Norris-9'}]",4.4,,50
+,30,0,0,NHL,31,8,27,7,72,1,3,0,18,1992-93,DET,4,26,"[{'link': '/awards/voting-1993.html#AS', 'name': 'AS-7'}, {'link': '/awards/voting-1993.html#norris', 'name': 'Norris-9'}]",5.6,,30
+,77,3,0,NHL,32,30,106,28,278,9,5,2,31,1993-94,DET,14,63,"[{'link': '/awards/voting-1994.html#AS', 'name': 'AS-7'}, {'link': '/awards/voting-1994.html#norris', 'name': 'Norris-7'}]",5.0,,80
+,58,2,1,NHL,33,17,72,18,181,9,4,0,27,1994-95,DET,14,44,"[{'link': '/awards/nhl_all_star.html#1995', 'name': None}, {'link': '/awards/voting-1995.html#hart', 'name': 'Hart-4'}, {'link': '/awards/norris.html#1995', 'name': None}]",7.7,,45
+,74,3,1,NHL,34,30,90,19,234,10,3,0,30,1995-96,DET,14,60,"[{'link': '/awards/voting-1996.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-1996.html#norris', 'name': 'Norris-5'}]",6.0,,76
+,34,2,1,NHL,35,17,38,11,110,7,1,0,8,1996-97,TOT,9,25,"[{'link': '/awards/voting-1997.html#AS', 'name': 'AS-20'}]",8.2,,57
+,8,1,0,NHL,35,3,18,0,39,2,1,0,2,1996-97,HAR,3,5,"[{'link': '/awards/voting-1997.html#AS', 'name': 'AS-20'}]",7.7,,20
+,26,1,1,NHL,35,14,20,11,71,5,0,0,6,1996-97,PHI,6,20,"[{'link': '/awards/voting-1997.html#AS', 'name': 'AS-20'}]",8.5,,37
+,29,1,0,NHL,36,8,30,3,107,1,1,0,19,1997-98,PHI,2,27,[],1.9,,57
+18:53,14,0,0,NHL,37,6,28,-7,87,1,1,0,6,1998-99,TOT,2,12,[],2.3,1020,54
+15:22,4,0,0,NHL,37,1,0,-6,8,0,0,0,3,1998-99,CHI,0,4,[],0.0,154,10
+19:41,10,0,0,NHL,37,5,28,-1,79,1,1,0,3,1998-99,CAR,2,8,[],2.5,866,44
+22:35,40,3,0,NHL,38,13,40,-6,155,5,6,0,16,1999-00,CAR,11,29,[],7.1,1558,69
+18:57,4,0,0,NHL,39,3,30,-6,28,0,0,0,1,2000-01,BOS,0,4,[],0.0,341,18

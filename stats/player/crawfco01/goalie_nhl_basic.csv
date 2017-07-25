@@ -1,0 +1,11 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,0,[],0,3.49,0,41,NHL,0,21,0,36,0,0,0,0,5,.878,2005-06,CHI,0,0.1,0,1,0,2,86
+0,1,[],0,2.14,0,112,NHL,2,23,.667,104,0,0,3,0,8,.929,2007-08,CHI,2,0.9,0,0,1,5,224
+0,0,[],0,3.05,0,35,NHL,1,25,1.000,32,0,0,1,0,3,.914,2009-10,CHI,1,0.2,0,0,0,1,59
+6,4,"[{'link': '/awards/voting-2011.html#calder', 'name': 'Calder-4'}]",1,2.30,6.59,1545,NHL,34,26,.618,1417,2,0,55,95,128,.917,2010-11,CHI,18,10.0,1,6,33,57,3337
+13,0,[],0,2.72,-15.70,1507,NHL,27,27,.491,1361,0,0,55,112,146,.903,2011-12,CHI,17,7.3,0,7,30,57,3218
+1,3,"[{'link': '/awards/voting-2013.html#AS', 'name': 'AS-6'}, {'link': '/awards/jennings.html#2013', 'name': None}, {'link': '/awards/voting-2013.html#vezina', 'name': 'Vezina-8'}]",0,1.94,10.73,769,NHL,19,28,.679,712,4,0,28,84,57,.926,2012-13,CHI,5,6.0,0,5,19,30,1761
+6,2,[],1,2.26,4.09,1533,NHL,31,29,.554,1405,0,0,56,97,128,.917,2013-14,CHI,16,9.8,1,10,32,59,3395
+4,2,"[{'link': '/awards/voting-2015.html#AS', 'name': 'AS-10'}, {'link': '/awards/jennings.html#2015', 'name': None}, {'link': '/awards/voting-2015.html#vezina', 'name': 'Vezina-6'}]",1,2.27,15.77,1661,NHL,38,30,.667,1535,8,0,57,89,126,.924,2014-15,CHI,20,11.9,1,5,32,57,3333
+9,0,"[{'link': '/awards/voting-2016.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-2016.html#vezina', 'name': 'Vezina-5'}]",1,2.37,15.27,1718,NHL,40,31,.690,1587,2,0,58,90,131,.924,2015-16,CHI,18,12.0,1,5,35,58,3323
+7,2,[],1,2.55,8.34,1691,NHL,29,32,.527,1553,2,0,55,94,138,.918,2016-17,CHI,18,11.0,1,4,32,55,3247

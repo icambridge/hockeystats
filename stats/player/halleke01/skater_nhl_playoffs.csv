@@ -1,0 +1,8 @@
+shorthanded_goals,power_play_goals,year,team,average_ice_time,age,points,shotsPercentage,assists,league,pim,game_winning_goals,goals,win,plus_minus,total_ice_time,games_played,even_strength_goals,shots
+0,0,1990-91,BUF,,20,5,7.7,4,NHL,10,0,1,,-1,,6,1,13
+0,0,1991-92,MTL,,21,0,0.0,0,NHL,6,0,0,,-3,,9,0,12
+0,1,1992-93,MTL,,22,7,4.2,6,NHL,16,0,1,SC,-1,,17,0,24
+0,0,1993-94,MTL,,23,2,12.5,1,NHL,19,0,1,,-3,,7,1,8
+1,0,1994-95,PHI,,24,8,28.6,4,NHL,10,1,4,,10,,15,3,14
+0,0,1995-96,PHI,,25,1,0.0,1,NHL,8,0,0,,0,,6,0,6
+0,0,1998-99,MDA,22:58,28,0,0.0,0,NHL,2,0,0,,-1,92,4,0,7

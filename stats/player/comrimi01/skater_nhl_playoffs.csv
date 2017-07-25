@@ -1,0 +1,4 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+1,6,3,1,NHL,2000-01,20,1,EDM,90,2,0,0,0,7,,,14.3,0
+0,6,1,0,NHL,2002-03,22,1,EDM,79,0,10,-1,0,9,,,11.1,1
+0,20,6,0,NHL,2006-07,26,2,OTT,254,4,17,-1,0,25,,,8.0,2

@@ -1,0 +1,22 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,0.00,0,0,Exhib.,0,16,0,0,0,0,0,0,0,0,1924-25,Owen Sound Jr. Greys,0,0,0,0,1,20
+0,1,0,1.60,0,0,Exhib.,0,17,0,0,0,0,0,0,4,0,1925-26,Owen Sound Jr. Greys,1,0,0,2,3,150
+0,2,0,2.19,0,0,Exhib.,0,18,0,0,0,0,0,0,35,0,1926-27,Owen Sound Jr. Greys,3,0,1,12,16,960
+0,0,0,5.78,0,0,Can-Pro,0,19,0,0,0,0,0,0,24,0,1927-28,London Panthers,4,0,1,1,6,249
+0,3,0,1.71,0,0,AHA,0,21,0,0,0,0,0,0,36,0,1929-30,Minneapolis Millers,0,0,0,0,21,1260
+0,1,0,2.57,0,0,Can-Am,0,22,0,0,0,0,0,0,69,0,1930-31,Boston Tigers,12,0,4,10,26,1609
+0,4,0,2.33,0,0,IHL,0,23,0,0,0,0,0,0,66,0,1931-32,Syracuse Stars,12,0,4,11,27,1700
+0,2,0,2.70,0,0,IHL,0,24,0,0,0,0,0,0,119,0,1932-33,Syracuse Stars,15,0,6,23,44,2640
+0,0,0,3.12,0,0,IHL,0,25,0,0,0,0,0,0,26,0,1933-34,Syracuse Windsor,0,0,0,0,9,500
+0,2,0,3.19,0,0,Can-Am,0,26,0,0,0,0,0,0,134,0,1934-35,2 Teams,24,0,2,15,42,2520
+0,1,0,2.03,0,0,Can-Am,0,26,0,0,0,0,0,0,20,0,1934-35,Boston Cubs,3,0,1,5,10,590
+0,1,0,3.54,0,0,Can-Am,0,26,0,0,0,0,0,0,114,0,1934-35,Philadelphia Arrows,21,0,1,10,32,1930
+0,5,0,2.88,0,0,Can-Am,0,27,0,0,0,0,0,0,107,0,1935-36,2 Teams,16,0,3,17,36,2230
+0,2,0,3.21,0,0,Can-Am,0,27,0,0,0,0,0,0,93,0,1935-36,New Haven Eagles,15,0,2,11,28,1740
+0,3,0,1.71,0,0,Can-Am,0,27,0,0,0,0,0,0,14,0,1935-36,Springfield Indians,1,0,1,6,8,490
+0,7,0,2.43,0,0,IAHL,0,28,0,0,0,0,0,0,125,0,1936-37,Springfield Indians,18,0,9,23,50,3090
+0,3,0,3.74,0,0,IAHL,0,29,0,0,0,0,0,0,174,0,1937-38,Springfield Indians,28,0,7,9,45,2790
+0,5,0,3.22,0,0,IAHL,0,30,0,0,0,0,0,0,174,0,1938-39,Springfield Indians,28,0,9,15,52,3240
+0,3,0,2.68,0,0,IAHL,0,31,0,0,0,0,0,0,149,0,1939-40,Springfield Indians,24,0,6,24,54,3330
+0,7,0,2.33,0,0,AHA,0,32,0,0,0,0,0,0,116,0,1940-41,St. Paul Saints,23,0,0,25,48,2991
+0,10,0,1.94,0,0,AHA,0,33,0,0,0,0,0,0,99,0,1941-42,St. Paul Saints,17,0,5,28,50,3060

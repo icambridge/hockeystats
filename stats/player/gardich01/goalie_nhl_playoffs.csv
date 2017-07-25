@@ -1,0 +1,5 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,won,assists,ties,wins,games_played,minutes
+0,0,0,1.05,0,0,NHL,0,25,0,0,0,0,0,0,3,0,1929-30,CBH,1,,0,1,0,2,172
+0,0,0,0,0,0,NHL,0,26,0,0,0,0,0,0,14,0,1930-31,CBH,3,,0,1,5,9,638
+0,0,0,3.00,0,0,NHL,0,27,0,0,0,0,0,0,6,0,1931-32,CBH,1,,0,0,1,2,120
+0,0,0,0,0,0,NHL,0,29,0,0,0,0,0,0,12,0,1933-34,CBH,1,SC,0,1,0,8,542

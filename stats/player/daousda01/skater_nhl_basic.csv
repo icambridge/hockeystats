@@ -1,0 +1,11 @@
+game_winning_goals,plus_minus,shots,shorthanded_assists,games_played,assists,year,even_strength_assists,shorthanded_goals,goals,power_play_goals,average_ice_time,league,shotsPercentage,power_play_assists,age,pim,awards,points,even_strength_goals,total_ice_time,team
+0,-3,125,1,52,34,1982-83,17,0,18,9,,NHL,14.4,16,22,35,"[{'link': '/awards/voting-1983.html#calder', 'name': 'Calder-7'}]",52,9,,TOT
+0,-2,6,0,4,1,1982-83,1,0,0,0,,NHL,0.0,0,22,4,"[{'link': '/awards/voting-1983.html#calder', 'name': 'Calder-7'}]",1,0,,MTL
+0,-1,119,1,48,33,1982-83,16,0,18,9,,NHL,15.1,16,22,31,"[{'link': '/awards/voting-1983.html#calder', 'name': 'Calder-7'}]",51,9,,TOR
+1,-16,154,0,78,56,1983-84,30,0,18,8,,NHL,11.7,26,23,88,[],74,10,,TOR
+2,-27,141,4,79,37,1984-85,27,3,17,1,,NHL,12.1,6,24,98,[],54,13,,TOR
+0,-21,92,1,80,13,1985-86,11,0,7,1,,NHL,7.6,1,25,88,[],20,6,,TOR
+1,0,25,0,33,3,1986-87,3,0,4,0,,NHL,16.0,0,26,35,[],7,4,,TOR
+1,-7,57,0,67,8,1987-88,8,0,9,0,,NHL,15.8,0,27,57,[],17,9,,TOR
+1,-20,66,1,68,5,1988-89,3,2,7,0,,NHL,10.6,1,28,54,[],12,5,,TOR
+0,1,53,4,65,11,1989-90,7,4,7,0,,NHL,13.2,0,29,89,[],18,3,,TOR

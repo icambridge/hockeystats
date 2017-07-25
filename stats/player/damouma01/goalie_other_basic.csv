@@ -1,0 +1,20 @@
+shots_againist,good_start_precentages,ties,saves,minutes,games_played,assists,year,goals,wins,goals_allowed_average,league,games_started,goals_allowed,goals_allowed_precentage,goals_saved_aboved_average,loses,good_starts,saves_percentage,age,pim,shutouts,points,bad_start,team
+0,0,0,0,1501,30,0,1978-79,0,0,5.96,OMJHL,0,149,0,0,0,0,0,17,0,0,0,0,Sault Ste. Marie Greyhounds
+0,0,0,0,1429,33,0,1979-80,0,6,4.91,OMJHL,0,117,0,0,15,0,0,18,0,0,0,0,Sault Ste. Marie Greyhounds
+0,0,1,0,653,16,0,1980-81,0,7,3.49,OMJHL,0,38,0,0,1,0,0,19,0,0,0,0,Sault Ste. Marie Greyhounds
+0,0,1,0,2384,46,0,1981-82,0,28,3.27,OHL,0,130,0,0,12,0,0,20,0,1,0,0,Sault Ste. Marie Greyhounds
+0,0,2,0,2373,42,0,1982-83,0,16,3.87,CHL,0,153,0,0,21,0,0,21,0,1,0,0,Colorado Flames
+0,0,1,0,1917,36,0,1983-84,0,18,4.10,CHL,0,131,0,0,12,0,0,22,0,0,0,0,Colorado Flames
+0,0,2,0,2051,37,0,1984-85,0,18,3.36,AHL,0,115,0,0,14,0,0,23,0,0,0,0,Moncton Golden Flames
+0,0,2,0,694,12,0,1984-85,0,7,2.85,IHL,0,33,0,0,2,0,0,23,0,0,0,0,Salt Lake Golden Eagles
+0,0,3,0,1129,21,0,1985-86,0,6,3.83,AHL,0,72,0,0,9,0,0,24,0,0,0,0,Moncton Golden Flames
+0,0,0,0,461,8,0,1986-87,0,5,3.90,AHL,0,30,0,0,3,0,0,25,0,0,0,0,Binghamton Whalers
+0,0,0,0,523,10,0,1986-87,0,3,4.24,IHL,0,37,0,0,6,0,0,25,0,0,0,0,Salt Lake Golden Eagles
+0,0,0,0,30,1,0,1986-87,0,0,8.00,Nat-Tm,0,4,0,0,0,0,0,25,0,0,0,0,Canada
+0,0,5,0,3245,62,0,1987-88,0,26,3.27,IHL,0,177,0,0,19,0,0,26,0,0,0,0,Salt Lake Golden Eagles
+0,0,3,0,2174,39,0,1988-89,0,19,3.51,AHL,0,127,0,0,13,0,0,27,0,0,0,0,Hershey Bears
+0,0,0,0,324,6,0,1988-89,0,2,3.70,IHL,0,20,0,0,3,0,0,27,0,0,0,0,Indianapolis Ice
+0,0,6,0,2505,43,0,1989-90,0,15,3.54,AHL,0,148,0,0,20,0,0,28,0,2,0,0,Hershey Bears
+0,0,4,0,1331,28,0,1990-91,0,10,3.61,AHL,0,80,0,0,8,0,0,29,0,0,0,0,Hershey Bears
+0,0,0,0,136,3,0,1990-91,0,1,3.97,IHL,0,9,0,0,0,0,0,29,0,0,0,0,Fort Wayne Komets
+0,0,2,0,1073,21,0,1991-92,0,9,4.42,AHL,0,79,0,0,8,0,0,30,0,0,0,0,Hershey Bears

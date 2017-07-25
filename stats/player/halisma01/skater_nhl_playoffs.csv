@@ -1,0 +1,4 @@
+shorthanded_goals,power_play_goals,year,team,average_ice_time,age,points,shotsPercentage,assists,league,pim,game_winning_goals,goals,win,plus_minus,total_ice_time,games_played,even_strength_goals,shots
+0,0,2010-11,NSH,141,22,2,28.6,0,NHL,0,1,2,,-1,15,12,2,7
+0,0,2011-12,NSH,35,23,1,0,1,NHL,4,0,0,,1,2,5,0,0
+0,0,2014-15,WPG,9,26,0,0.0,0,NHL,0,0,0,,-1,1,1,0,1

@@ -1,0 +1,22 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,2,0,2.90,0,0,OHA-Jr.,0,16,0,0,0,0,0,0,29,0,1956-57,Toronto Marlboros,0,0,0,0,10,600
+0,1,0,3.68,0,0,OHA-Jr.,0,17,0,0,0,0,0,0,113,0,1957-58,Peterborough Petes,0,0,0,0,31,1840
+0,2,0,3.00,0,0,OHA-Jr.,0,18,0,0,0,0,0,0,129,0,1958-59,Peterborough Petes,14,0,4,24,43,2580
+0,3,0,3.96,0,0,EHL,0,19,0,0,0,0,0,0,218,0,1959-60,Washington Presidents,0,0,0,0,55,3300
+0,1,0,3.29,0,0,AHL,0,21,0,0,0,0,0,0,17,0,1961-62,Springfield Indians,1,0,0,4,5,310
+0,0,0,5.20,0,0,EHL,0,21,0,0,0,0,0,0,26,0,1961-62,Charlotte Checkers,0,0,0,0,5,300
+0,2,0,3.08,0,0,AHL,0,22,0,0,0,0,0,0,112,0,1962-63,Springfield Indians,14,0,7,12,38,2180
+0,0,0,3.71,0,0,AHL,0,23,0,0,0,0,0,0,110,0,1963-64,Springfield Indians,14,0,1,12,31,1780
+0,2,0,3.52,0,0,AHL,0,24,0,0,0,0,0,0,195,0,1964-65,Springfield Indians,29,0,4,21,55,3321
+0,2,0,2.62,0,0,AHL,0,25,0,0,0,0,0,0,80,0,1965-66,Springfield Indians,15,0,1,15,33,1832
+0,1,0,4.37,0,0,AHL,0,26,0,0,0,0,0,0,136,0,1966-67,Springfield Indians,17,0,5,11,35,1866
+0,0,0,3.79,0,0,AHL,0,27,0,0,0,0,0,0,151,0,1967-68,Springfield Kings,18,0,4,19,42,2393
+0,2,0,4.15,0,0,WHL,0,28,0,0,0,0,0,0,122,0,1968-69,Denver Spurs,21,0,3,7,31,1764
+0,0,0,4.65,0,0,WHL,0,29,0,0,0,0,0,0,120,0,1969-70,Denver Spurs,16,0,4,8,31,1548
+0,2,0,3.92,0,0,WHL,0,30,0,0,0,0,0,0,109,0,1970-71,Denver Spurs,13,0,4,10,30,1668
+0,0,0,2.33,0,0,WHL,0,31,0,0,0,0,0,0,45,0,1971-72,Denver Spurs,3,0,0,15,20,1160
+0,0,0,3.70,0,0,AHL,0,34,0,0,0,0,0,0,170,0,1974-75,Syracuse Eagles,21,0,9,16,50,2755
+0,3,0,3.13,0,0,NAPro,0,35,0,0,0,0,0,0,90,0,1975-76,Syracuse Blazers,0,0,0,0,32,1725
+0,1,0,3.81,0,0,NAPro,0,36,0,0,0,0,0,0,83,0,1976-77,Syracuse Blazers,0,0,0,0,22,1307
+0,0,0,0.00,0,0,AHL,0,37,0,0,0,0,0,0,0,0,1977-78,Binghamton Dusters,0,0,0,0,1,1
+0,0,0,3.16,0,0,AHL,0,40,0,0,0,0,0,0,1,0,1980-81,Binghamton Whalers,0,0,0,0,1,19

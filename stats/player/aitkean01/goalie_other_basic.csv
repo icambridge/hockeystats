@@ -1,0 +1,22 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,2.37,0,0,N-SSHL,0,17,0,0,0,0,0,0,19,0,1921-22,Yorkton Terriers,3,0,0,3,6,480
+0,1,0,0.86,0,0,SCSHL,0,19,0,0,0,0,0,0,5,0,1923-24,Saskatoon Nationals,0,0,1,4,5,350
+0,1,0,3.00,0,0,N-SSHL,0,21,0,0,0,0,0,0,12,0,1925-26,Saskatoon Empires,0,0,0,4,4,240
+0,7,0,2.97,0,0,PrHL,0,22,0,0,0,0,0,0,94,0,1926-27,Saskatoon Sheiks,15,0,3,14,32,1902
+0,7,0,1.42,0,0,PrHL,0,23,0,0,0,0,0,0,41,0,1927-28,Saskatoon Sheiks,5,0,5,18,28,1733
+0,6,0,1.36,0,0,Can-Am,0,24,0,0,0,0,0,0,58,0,1928-29,Springfield Indians,14,0,13,13,40,2550
+0,16,0,0.94,0,0,PCHL,0,25,0,0,0,0,0,0,34,0,1929-30,Portland Buckaroos,10,0,6,20,36,2160
+0,6,0,1.74,0,0,PCHL,0,26,0,0,0,0,0,0,61,0,1930-31,Portland Buckaroos,15,0,8,12,35,2100
+0,4,0,2.18,0,0,Can-Am,0,27,0,0,0,0,0,0,74,0,1931-32,Bronx Tigers,13,0,4,16,33,2040
+0,0,0,2.00,0,0,Can-Am,0,30,0,0,0,0,0,0,2,0,1934-35,Philadelphia Arrows,0,0,0,1,1,60
+0,5,0,1.90,0,0,NWHL,0,30,0,0,0,0,0,0,40,0,1934-35,Portland Buckaroos,4,0,6,11,21,1260
+0,5,0,1.62,0,0,NWHL,0,31,0,0,0,0,0,0,68,0,1935-36,Portland Buckaroos,14,0,8,18,40,2520
+0,8,0,1.76,0,0,PCHL,0,32,0,0,0,0,0,0,72,0,1936-37,2 Teams,13,0,5,23,41,2460
+0,7,0,1.80,0,0,PCHL,0,32,0,0,0,0,0,0,72,0,1936-37,Portland Buckaroos,13,0,5,22,40,2400
+0,1,0,0.00,0,0,PCHL,0,32,0,0,0,0,0,0,0,0,1936-37,Spokane Clippers,0,0,0,1,1,60
+0,5,0,1.95,0,0,PCHL,0,33,0,0,0,0,0,0,85,0,1937-38,Portland Buckaroos,18,0,8,16,42,2620
+0,9,0,2.39,0,0,PCHL,0,34,0,0,0,0,0,0,117,0,1938-39,2 Teams,9,0,8,31,49,2940
+0,9,0,2.37,0,0,PCHL,0,34,0,0,0,0,0,0,114,0,1938-39,Portland Buckaroos,9,0,8,31,48,2880
+0,0,0,3.00,0,0,PCHL,0,34,0,0,0,0,0,0,3,0,1938-39,Seattle Seahawks,0,0,0,0,1,60
+0,4,0,2.45,0,0,PCHL,0,35,0,0,0,0,0,0,98,0,1939-40,Portland Buckaroos,18,0,5,17,40,2400
+0,0,0,2.00,0,0,PCHL,0,36,0,0,0,0,0,0,2,0,1940-41,Portland Buckaroos,0,0,0,1,1,60

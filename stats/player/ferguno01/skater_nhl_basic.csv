@@ -1,0 +1,11 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,54,3,0,NHL,23,19,31,-9,217,27,7,0,1,1968-69,OAK,34,20,"[{'link': '/awards/voting-1969.html#calder', 'name': 'Calder-2'}]",15.7,,76
+,20,2,0,NHL,24,7,19,-15,125,9,2,0,2,1969-70,OAK,11,9,[],8.8,,72
+,31,2,0,NHL,25,14,9,-21,90,12,2,0,3,1970-71,CGS,14,17,[],15.6,,54
+,34,3,0,NHL,26,17,13,-5,94,10,4,0,3,1971-72,CGS,14,20,[],14.9,,77
+,68,5,1,WHA,27,0,8,0,0,19,8,0,0,1972-73,NYW,28,40,[],0,,56
+,36,4,0,WHA,28,0,12,0,0,12,3,0,0,1973-74,NYJ,15,21,[],0,,75
+,69,0,0,WHA,29,0,6,22,227,34,2,0,0,1974-75,SDM,36,33,[],15.9,,78
+,74,4,0,WHA,30,0,12,14,253,33,4,0,0,1975-76,SDM,37,37,[],14.6,,79
+,71,8,0,WHA,31,0,5,-5,217,29,10,0,0,1976-77,SDM,39,32,[],18.0,,77
+,47,0,0,WHA,32,0,2,14,159,18,8,0,0,1977-78,EDO,26,21,[],16.4,,71

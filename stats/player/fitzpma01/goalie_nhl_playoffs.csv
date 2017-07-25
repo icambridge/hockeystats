@@ -1,0 +1,4 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,won,assists,ties,wins,games_played,minutes
+0,0,0,5.13,0,71,NHL,0,21,0,58,19,0,0,0,13,.817,1989-90,NYI,2,,0,0,0,4,152
+0,0,0,3.12,0,23,NHL,0,24,0,19,2,0,0,0,4,.826,1992-93,NYI,1,,0,0,0,3,77
+0,0,0,6.00,0,30,NHL,0,27,0,24,0,0,0,0,6,.800,1995-96,FLA,0,,0,0,0,2,60

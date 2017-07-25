@@ -1,0 +1,17 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,5.00,0,0,QAAA,0,16,0,0,0,0,0,0,15,0,1991-92,Abitibi Forestiers,2,0,0,1,3,180
+0,0,0,15.00,0,0,QMJHL,0,18,0,0,0,0,0,0,2,0,1993-94,St-Hyacinthe Laser,0,0,0,0,1,8
+0,0,0,4.17,0,0,QMJHL,0,19,0,0,0,0,0,0,18,0,1994-95,St-Jean Lynx,3,0,0,2,5,259
+0,0,0,4.54,0,0,AHL,0,20,0,0,0,0,0,0,24,0,1995-96,P.E.I. Senators,3,0,0,2,5,317
+0,0,0,3.00,0,0,AHL,0,21,0,0,0,0,0,0,3,0,1996-97,Syracuse Crunch,1,0,0,0,1,60
+0,0,0,3.31,0,0,AHL,0,22,0,0,0,0,0,0,18,0,1997-98,Worcester IceCats,3,0,0,3,6,326
+0,0,0,2.59,0,72,IHL,0,23,0,66,0,0,0,0,6,.917,1998-99,Cincinnati Cyclones,2,0,0,1,3,139
+0,0,0,4.76,0,37,AHL,0,24,0,32,0,0,0,0,5,.865,1999-00,Hershey Bears,1,0,0,0,2,63
+0,1,0,1.49,0,290,AHL,0,25,0,276,0,0,0,0,14,.952,2000-01,Hershey Bears,2,0,0,7,9,564
+0,0,0,2.50,0,143,AHL,0,26,0,132,0,0,0,0,11,.923,2001-02,Chicago Wolves,2,0,0,2,5,264
+0,0,0,2.00,0,40,AHL,0,27,0,37,2,0,0,0,3,.925,2002-03,Chicago Wolves,2,0,0,0,2,90
+0,0,0,2.84,0,217,AHL,0,29,0,196,2,0,0,0,21,.903,2004-05,Cincinnati Mighty Ducks,4,0,0,2,8,444
+0,4,2,2.10,0,663,AHL,0,30,0,617,2,0,0,0,46,.931,2005-06,Hershey Bears,5,2,0,16,21,1316
+0,1,0,2.62,0,555,AHL,0,31,0,504,0,0,0,0,51,.908,2006-07,Hershey Bears,6,0,0,13,19,1169
+0,0,0,4.01,0,136,AHL,0,32,0,117,0,0,0,0,19,.860,2007-08,Hershey Bears,3,0,0,1,5,284
+0,0,0,3.45,0,0,Germany,0,33,0,0,0,0,0,0,17,0,2008-09,Sinupret Ice Tigers Nurnberg,4,0,0,1,5,296

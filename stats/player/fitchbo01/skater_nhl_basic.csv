@@ -1,0 +1,11 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,3,0,0,WHA,23,0,21,0,0,1,0,0,0,1973-74,EDO,1,2,[],0,,31
+,30,0,0,WHA,24,0,96,-26,108,9,2,0,0,1974-75,INR,11,19,[],10.2,,78
+,47,2,0,WHA,25,0,134,8,108,17,5,0,0,1975-76,TOT,22,25,[],20.4,,73
+,31,2,0,WHA,25,0,112,0,74,10,5,0,0,1975-76,INR,15,16,[],20.3,,52
+,16,0,0,WHA,25,0,22,8,34,7,0,0,0,1975-76,QBN,7,9,[],20.6,,21
+,39,0,0,WHA,26,0,105,1,110,8,1,0,0,1976-77,QBN,9,30,[],8.2,,81
+,43,0,1,WHA,27,0,76,-5,125,12,2,0,0,1977-78,QBN,15,28,[],12.0,,72
+,45,0,0,WHA,28,0,69,-3,115,9,1,0,0,1978-79,QBN,10,35,[],8.7,,79
+,31,0,1,NHL,29,17,59,-24,88,5,5,0,3,1979-80,QUE,11,20,[],12.5,,70
+,1,0,0,NHL,30,0,0,-1,1,1,0,0,0,1980-81,QUE,1,0,[],100.0,,8

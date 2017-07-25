@@ -1,0 +1,20 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,3.78,0,0,Fin-U18,0,17,0,0,0,0,0,0,44,0,1995-96,HIFK Helsinki U18,0,0,0,0,12,699
+0,0,0,2.75,0,0,Fin-Jr.,0,18,0,0,0,0,0,0,57,0,1996-97,HIFK Helsinki Jr.,0,0,0,0,21,1243
+0,0,0,3.69,0,0,Finland-2,0,18,0,0,0,0,0,0,24,0,1996-97,PiTa Helsinki,0,0,0,0,8,390
+0,0,0,6.00,0,0,Finland,0,18,0,0,0,0,0,0,3,0,1996-97,HIFK Helsinki,0,0,0,0,2,30
+0,0,0,2.98,0,0,Fin-Jr.,0,19,0,0,0,0,0,0,42,0,1997-98,HIFK Helsinki Jr.,7,0,0,7,14,847
+0,1,0,2.95,0,0,Finland-2,0,19,0,0,0,0,0,0,23,0,1997-98,Hermes Kokkola,3,0,1,4,9,468
+0,1,0,1.69,0,0,Finland,0,20,0,0,0,0,0,0,26,0,1998-99,HIFK Helsinki,5,0,1,9,16,923
+0,1,0,3.01,0,0,Fin-Jr.,0,20,0,0,0,0,0,0,45,0,1998-99,HIFK Helsinki Jr.,7,0,1,7,15,898
+0,0,0,6.58,0,0,Finland,0,21,0,0,0,0,0,0,17,0,1999-00,HIFK Helsinki,4,0,0,0,4,155
+0,1,0,2.27,0,0,Finland-2,0,21,0,0,0,0,0,0,50,0,1999-00,FPS Forssa,8,0,1,13,22,1320
+0,2,0,2.55,0,0,Finland,0,22,0,0,0,0,0,0,120,0,2000-01,SaiPa Lappeenranta,24,0,3,22,49,2826
+0,1,0,3.05,0,0,Sweden,0,23,0,0,0,0,0,0,111,0,2001-02,AIK Solna,0,0,0,0,40,2186
+0,0,0,2.21,0,0,Sweden-Q,0,23,0,0,0,0,0,0,20,0,2001-02,AIK Solna,0,0,0,0,9,543
+0,4,0,2.16,0,0,Finland,0,24,0,0,0,0,0,0,77,0,2002-03,Karpat Oulu,8,0,9,16,36,2136
+0,7,0,2.03,0,0,Finland,0,25,0,0,0,0,0,0,87,0,2003-04,Karpat Oulu,8,0,0,24,43,2572
+0,7,0,2.17,0,0,Finland,0,26,0,0,0,0,0,0,102,0,2004-05,Karpat Oulu,10,0,10,27,47,2819
+0,10,0,1.68,0,0,Finland,0,27,0,0,0,0,0,0,86,0,2005-06,Karpat Oulu,9,0,10,32,51,3077
+0,1,1,2.11,0,218,WC-A,0,29,0,201,2,0,0,0,17,.922,2007-08,Finland,2,1,0,6,8,483
+0,1,0,1.09,0,42,Olympics,0,31,0,40,2,0,0,0,2,.952,2009-10,Finland,0,0,0,1,2,110

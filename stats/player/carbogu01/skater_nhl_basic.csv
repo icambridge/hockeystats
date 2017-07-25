@@ -1,0 +1,20 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,1,0,0,NHL,20,0,0,0,1,0,0,0,1,1980-81,MTL,0,1,[],0.0,,2
+,47,2,5,NHL,22,27,68,18,109,13,0,0,2,1982-83,MTL,18,29,[],16.5,,77
+,54,2,7,NHL,23,25,75,5,166,14,3,0,5,1983-84,MTL,24,30,"[{'link': '/awards/voting-1984.html#selke', 'name': 'Selke-28'}]",14.5,,78
+,57,2,4,NHL,24,33,43,28,163,19,0,1,0,1984-85,MTL,23,34,"[{'link': '/awards/voting-1985.html#selke', 'name': 'Selke-5'}]",14.1,,79
+,56,3,2,NHL,25,33,57,18,147,17,1,3,0,1985-86,MTL,20,36,"[{'link': '/awards/voting-1986.html#selke', 'name': 'Selke-3'}]",13.6,,80
+,45,2,0,NHL,26,24,68,9,120,18,0,2,1,1986-87,MTL,18,27,"[{'link': '/awards/voting-1987.html#selke', 'name': 'Selke-2'}]",15.0,,79
+,38,1,3,NHL,27,19,61,14,109,14,0,2,0,1987-88,MTL,17,21,"[{'link': '/awards/selke.html#1988', 'name': None}]",15.6,,0
+,56,10,2,NHL,28,25,44,37,142,23,1,2,3,1988-89,MTL,26,30,"[{'link': '/awards/selke.html#1989', 'name': None}]",18.3,,79
+,55,3,1,NHL,29,34,37,21,125,17,1,0,2,1989-90,MTL,19,36,"[{'link': '/awards/voting-1990.html#selke', 'name': 'Selke-2'}]",15.2,,68
+,44,3,1,NHL,30,22,63,-1,131,15,4,1,1,1990-91,MTL,20,24,"[{'link': '/awards/voting-1991.html#selke', 'name': 'Selke-4'}]",15.3,,78
+,39,4,1,NHL,31,21,39,2,120,16,1,0,0,1991-92,MTL,18,21,"[{'link': '/awards/selke.html#1992', 'name': None}]",15.0,,72
+,17,0,1,NHL,32,11,20,-9,73,3,0,2,0,1992-93,MTL,4,13,[],5.5,,61
+,38,1,0,NHL,33,19,48,16,120,14,0,2,3,1993-94,MTL,14,24,"[{'link': '/awards/voting-1994.html#selke', 'name': 'Selke-4'}]",11.7,,79
+,16,1,0,NHL,34,10,16,11,33,4,1,1,0,1994-95,STL,5,11,[],15.2,,42
+,23,1,2,NHL,35,14,38,-2,54,6,0,1,0,1995-96,DAL,8,15,[],14.8,,71
+,21,0,1,NHL,36,16,36,9,99,4,0,0,0,1996-97,DAL,5,16,[],5.1,,73
+,24,1,1,NHL,37,17,40,3,81,6,0,0,0,1997-98,DAL,7,17,[],8.6,,77
+13:21,16,2,0,NHL,38,11,31,-3,60,4,0,0,1,1998-99,DAL,4,12,[],6.7,988,74
+15:38,16,4,1,NHL,39,6,36,10,70,9,0,0,0,1999-00,DAL,10,6,"[{'link': '/awards/voting-2000.html#selke', 'name': 'Selke-9'}]",14.3,1079,69

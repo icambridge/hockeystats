@@ -1,0 +1,16 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,6,0,0,NHL,22,0,38,0,0,0,0,0,0,1941-42,MTL,0,6,[],0,,44
+,18,0,0,NHL,23,0,47,0,0,0,0,0,0,1942-43,MTL,2,16,[],0,,45
+,19,0,0,NHL,24,0,52,0,0,0,0,0,0,1943-44,MTL,5,14,"[{'link': '/awards/nhl_all_star.html#1944', 'name': None}]",0,,39
+,34,0,0,NHL,25,0,34,0,0,0,0,0,0,1944-45,MTL,11,23,"[{'link': '/awards/nhl_all_star.html#1945', 'name': None}]",0,,0
+,17,0,0,NHL,26,0,52,0,0,0,0,0,0,1945-46,MTL,7,10,"[{'link': '/awards/nhl_all_star.html#1946', 'name': None}]",0,,45
+,12,0,0,NHL,27,0,60,0,0,0,0,0,0,1946-47,MTL,5,7,"[{'link': '/awards/nhl_all_star.html#1947', 'name': None}]",0,,60
+,10,0,0,NHL,28,0,78,0,0,0,0,0,0,1947-48,MTL,4,6,[],0,,60
+,6,0,0,NHL,29,0,42,0,0,0,0,0,0,1948-49,MTL,3,3,[],0,,27
+,8,0,0,NHL,30,0,88,0,0,0,0,0,0,1949-50,MTL,1,7,[],0,,69
+,13,0,0,NHL,31,0,80,0,0,0,0,0,0,1950-51,MTL,3,10,[],0,,52
+,12,0,0,NHL,32,0,45,0,0,0,0,0,0,1951-52,MTL,3,9,[],0,,60
+,10,0,0,NHL,33,0,55,0,0,0,0,0,0,1952-53,MTL,2,8,[],0,,58
+,11,0,0,NHL,34,0,89,0,0,0,0,0,0,1953-54,MTL,1,10,[],0,,70
+,17,0,0,NHL,35,0,81,0,0,0,0,0,0,1954-55,MTL,2,15,[],0,,70
+,0,0,0,NHL,36,0,22,0,0,0,0,0,0,1955-56,MTL,0,0,[],0,,36

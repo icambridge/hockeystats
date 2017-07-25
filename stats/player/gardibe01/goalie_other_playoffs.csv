@@ -1,0 +1,10 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,2.20,0,0,M-Cup,0,18,0,0,0,0,0,0,11,0,1931-32,Calgary Jimmies,3,0,0,2,5,300
+0,1,0,2.29,0,0,M-Cup,0,19,0,0,0,0,0,0,16,0,1932-33,Calgary Jimmies,2,0,0,5,7,420
+0,1,0,2.00,0,0,N-SSHL,0,20,0,0,0,0,0,0,8,0,1933-34,Saskatoon Elites,1,0,0,3,4,240
+0,1,0,1.39,0,0,EAHL,0,21,0,0,0,0,0,0,13,0,1934-35,New York Crescents,1,0,0,7,8,560
+0,1,0,0.91,0,0,Can-Am,0,22,0,0,0,0,0,0,4,0,1935-36,Philadelphia Ramblers,1,0,0,3,4,265
+0,2,0,2.50,0,0,IAHL,0,23,0,0,0,0,0,0,15,0,1936-37,Philadelphia Ramblers,3,0,0,3,6,360
+0,2,0,1.63,0,0,IAHL,0,24,0,0,0,0,0,0,10,0,1937-38,Philadelphia Ramblers,2,0,0,3,5,369
+0,0,0,1.97,0,0,IAHL,0,25,0,0,0,0,0,0,11,0,1938-39,Philadelphia Ramblers,2,0,0,3,5,335
+0,0,0,3.50,0,0,AHL,0,28,0,0,0,0,0,0,7,0,1941-42,Washington Lions,2,0,0,0,2,120

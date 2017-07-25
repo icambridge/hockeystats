@@ -1,0 +1,10 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,51,4,0,NHL,22,22,22,-12,105,16,4,0,9,1978-79,VAN,20,31,"[{'link': '/awards/voting-1979.html#calder', 'name': 'Calder-7'}]",19.0,,76
+,75,2,0,NHL,23,27,22,14,146,23,7,0,18,1979-80,VAN,30,45,[],20.5,,80
+,69,1,0,NHL,24,36,34,2,158,17,4,1,11,1980-81,VAN,21,48,[],13.3,,79
+,86,4,3,NHL,25,35,32,15,183,28,6,0,14,1981-82,VAN,37,49,"[{'link': '/awards/voting-1982.html#byng', 'name': 'Byng-11'}]",20.2,,76
+,86,4,2,NHL,26,36,61,-17,175,18,12,1,17,1982-83,VAN,32,54,"[{'link': '/awards/voting-1983.html#selke', 'name': 'Selke-16'}]",18.3,,0
+,78,5,1,NHL,27,41,32,-2,170,9,11,1,15,1983-84,VAN,21,57,"[{'link': '/awards/voting-1984.html#selke', 'name': 'Selke-21'}]",12.4,,75
+,64,3,0,NHL,28,28,43,-22,152,19,3,2,12,1984-85,VAN,22,42,[],14.5,,76
+,41,3,1,NHL,29,17,34,-16,121,11,2,0,10,1985-86,VAN,14,27,[],11.6,,71
+,43,3,3,NHL,30,25,18,4,87,7,2,2,4,1986-87,BOS,12,31,[],13.8,,64

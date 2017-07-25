@@ -1,0 +1,7 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,6,0,0,WHA,1975-76,20,0,INR,,0,25,-2,0,0,,,0,0
+0,9,1,0,WHA,1976-77,21,0,INR,,1,24,2,0,0,,,0,0
+0,9,1,0,WHA,1977-78,22,0,WNJ,,1,61,6,0,0,,,0,0
+0,9,5,0,WHA,1978-79,23,0,WNJ,,5,28,7,0,0,,,0,0
+0,3,0,0,NHL,1979-80,24,0,PIT,,0,37,0,0,0,,,0,0
+0,5,0,0,NHL,1980-81,25,0,QUE,,0,33,-3,0,2,,,0.0,0

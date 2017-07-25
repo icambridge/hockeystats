@@ -1,0 +1,12 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,66,5,0,NHL,22,14,12,-4,141,7,8,0,37,1985-86,PHI,15,51,"[{'link': '/awards/voting-1986.html#calder', 'name': 'Calder-5'}]",10.6,,70
+,55,0,0,NHL,23,23,2,-2,127,9,5,0,18,1986-87,PHI,14,41,"[{'link': '/awards/voting-1987.html#byng', 'name': 'Byng-9'}]",11.0,,72
+,42,2,0,NHL,24,15,12,-6,101,8,2,0,17,1987-88,PHI,10,32,[],9.9,,71
+,69,2,1,NHL,25,17,23,5,121,9,8,2,32,1988-89,PHI,18,51,[],14.9,,79
+,62,2,3,NHL,26,27,16,7,126,15,5,0,12,1989-90,PHI,23,39,"[{'link': '/awards/voting-1990.html#byng', 'name': 'Byng-11'}]",18.3,,70
+,69,4,0,NHL,27,29,14,-2,131,11,8,1,20,1990-91,PHI,19,50,"[{'link': '/awards/voting-1991.html#byng', 'name': 'Byng-11'}, {'link': '/awards/voting-1991.html#selke', 'name': 'Selke-16'}]",14.5,,73
+,23,1,2,NHL,28,9,4,0,74,4,1,0,7,1991-92,PHI,7,16,[],9.5,,51
+,49,0,0,NHL,29,29,16,12,82,7,4,2,7,1992-93,PHI,11,38,[],13.4,,55
+,20,0,0,NHL,30,17,10,-2,53,3,0,0,0,1993-94,TOT,3,17,[],5.7,,53
+,17,0,0,NHL,30,16,8,-1,49,1,0,0,0,1993-94,PHI,1,16,[],2.0,,48
+,3,0,0,NHL,30,1,2,-1,4,2,0,0,0,1993-94,DAL,2,1,[],50.0,,5

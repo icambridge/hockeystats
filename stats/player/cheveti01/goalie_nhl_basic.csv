@@ -1,0 +1,12 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,0,[],0,4.43,0,74,NHL,0,20,0,65,0,0,0,0,9,.878,1988-89,DET,2,0.4,0,0,0,2,122
+0,0,[],1,3.79,0.51,854,NHL,0,21,0,753,2,0,0,99,101,.882,1989-90,DET,9,4.6,1,8,10,28,1600
+0,2,"[{'link': '/awards/voting-1991.html#AS', 'name': 'AS-10'}]",5,3.55,-18.41,1716,NHL,0,22,0,1502,2,0,0,109,0,.875,1990-91,DET,26,7.9,5,5,30,65,3615
+0,2,"[{'link': '/awards/voting-1992.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-1992.html#hart', 'name': 'Hart-13'}, {'link': '/awards/voting-1992.html#vezina', 'name': 'Vezina-4'}]",4,3.20,-4.77,0,NHL,0,23,0,1752,6,0,0,102,226,.886,1991-92,DET,23,10.2,4,9,0,0,0
+0,4,"[{'link': '/awards/voting-1993.html#vezina', 'name': 'Vezina-7'}]",4,3.25,8.32,1897,NHL,0,24,0,1687,4,0,0,96,210,.889,1992-93,DET,24,10.7,4,7,34,67,3880
+0,2,[],1,3.64,-15.83,1212,NHL,0,25,0,1069,2,0,0,112,143,.882,1993-94,TOT,17,5.1,1,2,21,44,2360
+0,1,[],1,3.47,-14.72,727,NHL,0,25,0,636,0,0,0,119,91,.875,1993-94,DET,9,2.6,1,1,16,30,1572
+0,1,[],0,3.96,-1.11,485,NHL,0,25,0,433,2,0,0,102,52,.893,1993-94,WIN,8,2.5,0,1,5,14,788
+0,0,[],1,3.70,-15.67,818,NHL,0,26,0,721,2,0,0,119,97,.881,1994-95,WIN,16,3.0,1,3,8,30,1571
+0,0,[],0,3.93,-14.70,948,NHL,0,27,0,837,0,0,0,115,111,.883,1995-96,WIN,18,3.8,0,3,8,30,1695
+0,0,[],0,3.23,0,33,NHL,0,28,0,28,0,0,0,0,5,.848,1996-97,BOS,1,0.0,0,0,0,2,93

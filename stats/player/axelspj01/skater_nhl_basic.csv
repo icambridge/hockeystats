@@ -1,0 +1,12 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+,0,27,1,0,0,NHL,22,19,0,38,-14,144,0,6,0,2,0,0,0,1997-98,BOS,8,0,19,0,5.6,,82,"[{'link': '/awards/voting-1998.html#calder', 'name': 'Calder-12'}]"
+16:38,0,17,2,0,0,NHL,23,8,0,18,-14,146,0,7,0,0,1,1,0,1998-99,BOS,7,0,10,0,4.8,1281,77,"[{'link': '/awards/voting-1999.html#selke', 'name': 'Selke-16'}]"
+16:43,0,26,4,0,0,NHL,24,15,0,24,1,186,0,10,0,0,0,1,0,1999-00,BOS,10,0,16,0,5.4,1354,81,[]
+12:30,0,23,2,0,0,NHL,25,15,0,27,-12,146,0,8,0,0,0,0,0,2000-01,BOS,8,0,15,0,5.5,1013,81,[]
+14:42,0,24,0,2,0,NHL,26,15,0,16,6,127,0,5,0,0,2,0,0,2001-02,BOS,7,0,17,0,5.5,1146,78,[]
+16:37,0,36,1,2,0,NHL,27,15,0,24,8,122,0,13,0,2,2,2,0,2002-03,BOS,17,0,19,0,13.9,1097,66,"[{'link': '/awards/voting-2003.html#selke', 'name': 'Selke-15'}]"
+16:19,0,20,1,0,0,NHL,28,13,0,42,2,107,0,6,0,0,1,0,0,2003-04,BOS,6,0,14,0,5.6,1109,68,"[{'link': '/awards/voting-2004.html#selke', 'name': 'Selke-34'}]"
+17:36,0,28,1,2,0,NHL,30,16,0,4,-3,113,0,7,0,1,1,1,0,2005-06,BOS,10,0,18,0,8.8,1039,59,"[{'link': '/awards/voting-2006.html#byng', 'name': 'Byng-17'}, {'link': '/awards/voting-2006.html#selke', 'name': 'Selke-16'}]"
+19:34,0,27,0,2,0,NHL,31,9,0,52,-10,81,0,6,0,3,0,7,0,2006-07,BOS,11,0,16,0,13.6,1076,55,[]
+17:36,186,29,2,2,37,NHL,32,14,17,15,11,100,38.6,11,27,0,2,0,39,2007-08,BOS,13,44,16,29,13.0,1320,75,"[{'link': '/awards/voting-2008.html#byng', 'name': 'Byng-27'}, {'link': '/awards/voting-2008.html#selke', 'name': 'Selke-9'}]"
+16:14,162,30,0,0,31,NHL,33,15,16,16,-1,87,34.8,4,30,2,0,9,41,2008-09,BOS,6,55,24,20,6.9,1217,75,"[{'link': '/awards/voting-2009.html#byng', 'name': 'Byng-42'}, {'link': '/awards/voting-2009.html#selke', 'name': 'Selke-20'}]"

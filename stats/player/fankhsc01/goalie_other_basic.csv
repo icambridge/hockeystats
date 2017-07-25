@@ -1,0 +1,20 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,4.45,0,0,H-East,0,19,0,0,0,0,0,0,37,0,1994-95,U. of Massachusetts-Lowell,4,0,1,4,11,499
+0,3,0,2.57,0,0,SJHL,0,20,0,0,0,0,0,0,109,0,1995-96,Melfort Mustangs,9,0,4,31,45,2544
+0,0,0,4.41,0,0,H-East,0,21,0,0,0,0,0,0,38,0,1996-97,U. of Massachusetts-Lowell,4,0,1,2,11,517
+0,0,0,3.61,0,0,H-East,0,22,0,0,0,0,0,0,48,0,1997-98,U. of Massachusetts-Lowell,7,0,2,4,16,798
+0,1,0,2.78,0,0,H-East,0,23,0,0,2,0,0,0,80,0,1998-99,U. of Massachusetts-Lowell,14,0,0,16,32,1729
+0,0,1,2.58,0,191,ECHL,0,24,0,173,2,0,0,0,18,.906,1999-00,Greenville Grrrowl,1,1,0,6,7,419
+0,0,0,2.63,0,127,IHL,0,24,0,113,0,0,0,0,14,.890,1999-00,Orlando Solar Bears,2,0,1,2,6,320
+0,0,0,3.05,0,24,AHL,0,24,0,21,0,0,0,0,3,.875,1999-00,Louisville Panthers,1,0,0,0,1,59
+0,1,3,2.58,0,676,IHL,0,25,0,607,10,0,0,0,69,.898,2000-01,Orlando Solar Bears,12,3,3,13,28,1603
+0,0,0,3.67,0,135,ECHL,0,26,0,124,2,0,0,0,11,.919,2001-02,Greenville Grrrowl,2,0,0,1,3,180
+0,1,1,2.25,0,306,AHL,0,26,0,283,4,0,0,0,23,.925,2001-02,2 Teams,2,1,2,6,10,612
+0,0,0,1.92,0,72,AHL,0,26,0,68,2,0,0,0,4,.944,2001-02,Chicago Wolves,0,0,1,1,2,125
+0,1,1,2.34,0,234,AHL,0,26,0,215,2,0,0,0,19,.919,2001-02,Hershey Bears,2,1,1,5,8,487
+0,1,1,3.33,0,1430,ECHL,0,27,0,1287,10,0,0,0,143,.900,2002-03,2 Teams,17,1,3,22,45,2573
+0,0,0,3.86,0,840,ECHL,0,27,0,746,10,0,0,0,94,.888,2002-03,Reading Royals,12,0,1,11,26,1463
+0,1,1,2.65,0,590,ECHL,0,27,0,541,0,0,0,0,49,.917,2002-03,Arkansas RiverBlades,5,1,2,11,19,1110
+0,0,0,0,0,0,German-2,0,28,0,0,0,0,0,0,0,0,2003-04,SC Bietigheim-Bissingen,0,0,0,0,34,0
+0,4,2,2.34,0,1418,ECHL,0,29,0,1302,57,0,0,0,116,.918,2004-05,Toledo Storm,15,2,4,29,51,2969
+0,0,0,7.50,0,41,AHL,0,29,0,32,0,0,0,0,9,.780,2004-05,Chicago Wolves,2,0,0,0,2,72

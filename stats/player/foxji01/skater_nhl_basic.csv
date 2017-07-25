@@ -1,0 +1,10 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,43,2,0,NHL,20,19,8,0,92,16,2,0,6,1980-81,LAK,18,25,[],19.6,,71
+,68,0,1,NHL,21,33,23,-15,157,24,5,0,5,1981-82,LAK,30,38,[],19.1,,77
+,68,1,0,NHL,22,26,8,-11,137,21,7,1,13,1982-83,LAK,28,40,"[{'link': '/awards/voting-1983.html#byng', 'name': 'Byng-17'}]",20.4,,77
+,72,5,0,NHL,23,35,26,-12,153,20,10,0,7,1983-84,LAK,30,42,[],19.6,,0
+,83,2,0,NHL,24,44,10,4,174,24,6,0,9,1984-85,LAK,30,53,"[{'link': '/awards/voting-1985.html#byng', 'name': 'Byng-14'}]",17.2,,79
+,31,0,0,NHL,25,12,2,-9,81,12,2,0,5,1985-86,LAK,14,17,[],17.3,,39
+,61,2,0,NHL,26,31,48,-10,162,15,4,1,10,1986-87,LAK,19,42,[],11.7,,76
+,51,1,0,NHL,27,24,18,-7,120,14,2,0,11,1987-88,LAK,16,35,[],13.3,,68
+,2,1,0,NHL,29,1,0,-1,7,1,0,0,0,1989-90,LAK,1,1,[],14.3,,11

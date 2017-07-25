@@ -1,0 +1,11 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,1,[],0,1.20,0,123,WHA,0,23,0,118,0,0,0,0,5,.959,1973-74,HSA,0,0,0,0,0,4,250
+0,0,"[{'link': '/awards/wha_all_star.html#1975', 'name': None}, {'link': '/awards/hatskin.html#1975', 'name': None}, {'link': '/awards/mvpwhaplay.html#1975', 'name': None}]",1,0,12.21,1307,WHA,0,24,0,1176,6,0,0,91,131,.900,1974-75,HSA,0,0,1,0,0,43,2590
+0,3,"[{'link': '/awards/wha_all_star.html#1976', 'name': 'ASW-2'}]",1,3.27,18.75,1752,WHA,0,25,0,1570,22,0,0,91,182,.896,1975-76,HSA,0,0,1,0,0,57,3343
+0,0,"[{'link': '/awards/hatskin.html#1977', 'name': None}]",0,0,18.87,1082,WHA,0,26,0,975,0,0,0,85,107,.901,1976-77,HSA,0,0,0,0,0,39,2345
+0,3,[],1,2.76,0,0,NHL,0,27,0,0,0,0,0,0,107,0,1977-78,BOS,6,8.0,1,7,26,40,2328
+0,0,[],1,4.21,0,0,NHL,0,28,0,0,6,0,0,0,136,0,1978-79,LAK,19,3.3,1,2,11,34,1940
+0,2,[],1,4.19,0,0,NHL,0,29,0,0,2,0,0,0,98,0,1979-80,LAK,11,2.4,1,4,9,26,1405
+0,0,[],0,5.11,0,0,NHL,0,30,0,0,2,0,0,0,68,0,1980-81,TOT,7,0.9,0,2,4,14,799
+0,0,[],0,4.67,0,0,NHL,0,30,0,0,0,0,0,0,28,0,1980-81,LAK,2,0.6,0,1,3,6,360
+0,0,[],0,5.47,0,0,NHL,0,30,0,0,2,0,0,0,40,0,1980-81,QUE,5,0.3,0,1,1,8,439

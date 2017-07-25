@@ -1,0 +1,16 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+,0,50,3,0,0,NHL,21,22,0,16,17,86,0,12,0,3,1,12,0,1994-95,QUE,15,0,35,0,17.4,,47,"[{'link': '/awards/calder.html#1995', 'name': None}]"
+,0,116,3,3,0,NHL,22,50,0,47,26,217,0,20,0,7,4,32,0,1995-96,COL,30,0,86,0,13.8,,82,"[{'link': '/awards/voting-1996.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-1996.html#byng', 'name': 'Byng-11'}, {'link': '/awards/voting-1996.html#hart', 'name': 'Hart-13'}]"
+,0,86,4,4,0,NHL,23,34,0,73,31,188,0,19,0,5,3,21,0,1996-97,COL,28,0,58,0,14.9,,65,"[{'link': '/awards/voting-1997.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1997.html#hart', 'name': 'Hart-11'}, {'link': '/awards/voting-1997.html#selke', 'name': 'Selke-2'}]"
+,0,91,7,3,0,NHL,24,36,0,94,6,202,0,15,0,7,0,30,0,1997-98,COL,25,0,66,0,12.4,,72,"[{'link': '/awards/nhl_all_star.html#1998', 'name': None}, {'link': '/awards/voting-1998.html#hart', 'name': 'Hart-8'}, {'link': '/awards/voting-1998.html#selke', 'name': 'Selke-6'}]"
+23:29,0,97,7,2,0,NHL,25,35,0,108,27,217,0,19,0,9,4,28,0,1998-99,COL,30,0,67,0,13.8,1832,78,"[{'link': '/awards/voting-1999.html#AS', 'name': 'AS-7'}, {'link': '/awards/nhl_all_star.html#1999', 'name': None}, {'link': '/awards/voting-1999.html#hart', 'name': 'Hart-7'}, {'link': '/awards/voting-1999.html#selke', 'name': 'Selke-8'}]"
+20:55,0,51,2,0,0,NHL,26,25,0,52,9,105,0,11,0,3,0,12,0,1999-00,COL,14,0,37,0,13.3,1025,49,"[{'link': '/awards/voting-2000.html#selke', 'name': 'Selke-28'}]"
+20:48,0,89,5,2,0,NHL,27,34,0,54,23,178,0,13,0,12,4,24,0,2000-01,COL,27,0,62,0,15.2,1518,73,"[{'link': '/awards/voting-2001.html#AS', 'name': 'AS-6'}, {'link': '/awards/voting-2001.html#byng', 'name': 'Byng-32'}, {'link': '/awards/voting-2001.html#selke', 'name': 'Selke-11'}]"
+19:20,0,0,2,0,0,NHL,29,52,0,70,0,166,0,21,0,8,0,25,0,2002-03,COL,29,0,0,0,17.5,1450,75,"[{'link': '/awards/nhl_all_star.html#2003', 'name': None}, {'link': '/awards/voting-2003.html#byng', 'name': 'Byng-44'}, {'link': '/awards/hart.html#2003', 'name': None}, {'link': '/awards/ross.html#2003', 'name': None}, {'link': '/awards/voting-2003.html#selke', 'name': 'Selke-4'}]"
+19:12,0,55,5,1,0,NHL,30,16,0,30,16,85,0,14,0,3,0,21,0,2003-04,COL,18,0,37,0,21.2,749,39,"[{'link': '/awards/voting-2004.html#AS', 'name': 'AS-15'}, {'link': '/awards/voting-2004.html#selke', 'name': 'Selke-34'}]"
+18:47,0,75,2,1,0,NHL,32,32,0,46,21,132,0,10,0,8,0,24,0,2005-06,PHI,19,0,56,0,14.4,1127,60,"[{'link': '/awards/voting-2006.html#AS', 'name': 'AS-9'}, {'link': '/awards/voting-2006.html#hart', 'name': 'Hart-17'}]"
+18:18,0,55,3,0,0,NHL,33,23,0,88,7,99,0,7,0,6,0,19,0,2006-07,TOT,13,0,42,0,13.1,1043,57,[]
+17:44,0,40,2,0,0,NHL,33,16,0,72,2,63,0,6,0,5,0,13,0,2006-07,PHI,11,0,29,0,17.5,710,40,[]
+19:36,0,15,1,0,0,NHL,33,7,0,16,5,36,0,1,0,1,0,6,0,2006-07,NSH,2,0,13,0,5.6,333,17,[]
+19:15,21,14,0,0,0,NHL,34,9,4,8,7,15,100.0,1,0,0,0,4,10,2007-08,COL,1,9,13,15,6.7,173,9,[]
+17:35,7,0,0,0,0,NHL,37,0,0,4,-4,3,0,0,0,0,0,0,1,2010-11,COL,0,3,0,0,0.0,35,2,[]

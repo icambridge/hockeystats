@@ -1,0 +1,23 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,1,0,3.50,0,0,OCHL,0,17,0,0,0,0,0,0,42,0,1921-22,Ottawa Munitions,7,0,2,4,12,720
+0,2,0,1.73,0,0,USAHA,0,19,0,0,0,0,0,0,21,0,1923-24,New Haven Bears,6,0,0,6,12,730
+0,0,0,3.50,0,0,USAHA,0,20,0,0,0,0,0,0,58,0,1924-25,Boston Maples,15,0,0,6,21,995
+0,6,0,1.57,0,0,Can-Am,0,22,0,0,0,0,0,0,51,0,1926-27,Springfield Indians,12,0,5,14,31,1950
+0,12,0,1.74,0,0,Can-Am,0,23,0,0,0,0,0,0,71,0,1927-28,Springfield Indians,13,0,3,24,40,2450
+0,7,0,1.83,0,0,Can-Pro,0,24,0,0,0,0,0,0,64,0,1928-29,Windsor Hornets,9,0,3,22,34,2100
+0,3,0,2.19,0,0,IHL,0,25,0,0,0,0,0,0,89,0,1929-30,Windsor Bulldogs,13,0,8,20,41,2440
+0,8,0,1.94,0,0,IHL,0,26,0,0,0,0,0,0,82,0,1930-31,2 Teams,11,0,10,19,40,2540
+0,0,0,3.43,0,0,IHL,0,26,0,0,0,0,0,0,4,0,1930-31,Windsor Bulldogs,0,0,1,0,1,70
+0,8,0,1.89,0,0,IHL,0,26,0,0,0,0,0,0,78,0,1930-31,Detroit Olympics,11,0,9,19,39,2470
+0,5,0,2.61,0,0,IHL,0,27,0,0,0,0,0,0,84,0,1931-32,Pittsburgh Yellowjackets,13,0,5,12,31,1930
+0,2,0,3.53,0,0,IHL,0,28,0,0,0,0,0,0,53,0,1932-33,2 Teams,0,0,0,2,15,900
+0,2,0,3.92,0,0,IHL,0,28,0,0,0,0,0,0,51,0,1932-33,Detroit Olympics,0,0,0,0,13,780
+0,0,0,1.00,0,0,IHL,0,28,0,0,0,0,0,0,2,0,1932-33,Windsor Bulldogs,0,0,0,2,2,120
+0,5,0,2.15,0,0,IHL,0,29,0,0,0,0,0,0,84,0,1933-34,2 Teams,1,0,0,0,39,2340
+0,5,0,2.11,0,0,IHL,0,29,0,0,0,0,0,0,80,0,1933-34,Detroit Olympics,0,0,0,0,38,2280
+0,0,0,4.00,0,0,IHL,0,29,0,0,0,0,0,0,4,0,1933-34,Cleveland Falcons,1,0,0,0,1,60
+0,5,0,2.57,0,0,Can-Am,0,30,0,0,0,0,0,0,114,0,1934-35,Quebec Castors,18,0,6,19,43,2660
+0,6,0,3.35,0,0,Can-Am,0,31,0,0,0,0,0,0,133,0,1935-36,2 Teams,20,0,3,15,39,2380
+0,6,0,3.34,0,0,Can-Am,0,31,0,0,0,0,0,0,129,0,1935-36,Springfield Indians,20,0,3,15,38,2320
+0,0,0,4.00,0,0,Can-Am,0,31,0,0,0,0,0,0,4,0,1935-36,Philadelphia Ramblers,0,0,0,0,1,60
+0,0,0,2.88,0,0,AHA,0,32,0,0,0,0,0,0,31,0,1936-37,Kansas City Greyhounds,8,0,2,0,10,646

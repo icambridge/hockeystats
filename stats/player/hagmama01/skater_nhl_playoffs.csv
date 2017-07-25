@@ -1,0 +1,4 @@
+shorthanded_goals,power_play_goals,year,team,average_ice_time,age,points,shotsPercentage,assists,league,pim,game_winning_goals,goals,win,plus_minus,total_ice_time,games_played,even_strength_goals,shots
+0,0,1976-77,BOS,,21,1,0.0,1,NHL,0,0,0,,0,,8,0,3
+0,0,1980-81,EDM,,25,5,36.4,1,NHL,6,2,4,,0,,9,4,11
+0,0,1981-82,EDM,,26,1,100.0,0,NHL,0,0,1,,-1,,3,1,1

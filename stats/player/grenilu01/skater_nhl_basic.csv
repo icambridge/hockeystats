@@ -1,0 +1,4 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,5,1,0,NHL,23,3,2,1,25,2,0,0,0,1969-70,MTL,2,3,[],8.0,,23
+,16,1,1,NHL,24,7,12,-1,63,7,1,0,0,1970-71,LAK,9,7,[],14.3,,68
+,7,0,0,NHL,25,3,4,-6,22,2,1,0,1,1971-72,LAK,3,4,[],13.6,,60

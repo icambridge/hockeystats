@@ -1,0 +1,22 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,2,0,4.43,0,0,ON-Jr.B,0,16,0,0,0,0,0,0,110,0,1987-88,Oakville Blades,0,0,0,0,28,1491
+0,0,0,5.54,0,0,OHL,0,17,0,0,0,0,0,0,141,0,1988-89,Kingston Raiders,18,0,1,7,37,1528
+0,0,0,3.78,0,0,OHL,0,18,0,0,0,0,0,0,101,0,1989-90,Kingston Frontenacs,9,0,0,17,32,1602
+0,0,0,5.29,0,0,OHL,0,19,0,0,0,0,0,0,282,0,1990-91,Kingston Frontenacs,36,0,3,16,59,3200
+0,1,0,3.73,0,0,AHL,0,20,0,0,0,0,0,0,88,0,1991-92,Moncton Hawks,10,0,5,8,25,1415
+0,1,0,3.62,0,0,IHL,0,20,0,0,0,0,0,0,59,0,1991-92,Fort Wayne Komets,4,0,2,10,18,978
+0,0,0,3.96,0,0,AHL,0,21,0,0,0,0,0,0,145,0,1992-93,Moncton Hawks,16,0,9,10,38,2196
+0,0,0,3.99,0,0,AHL,0,22,0,0,0,0,0,0,41,0,1993-94,Moncton Hawks,5,0,1,3,13,616
+0,0,0,3.48,0,0,IHL,0,22,0,0,0,0,0,0,66,0,1993-94,Fort Wayne Komets,9,0,3,9,22,1139
+0,0,0,4.15,0,0,IHL,0,23,0,0,0,0,0,0,15,0,1994-95,Fort Wayne Komets,2,0,1,0,5,217
+0,0,0,2.40,0,0,Nat-Tm,0,23,0,0,0,0,0,0,53,0,1994-95,Canada,0,0,0,0,24,1326
+0,0,0,3.09,0,0,ECHL,0,24,0,0,0,0,0,0,149,0,1995-96,South Carolina Stingrays,11,0,7,31,49,2891
+0,0,0,3.12,0,0,AHL,0,24,0,0,0,0,0,0,9,0,1995-96,St. John\'s Maple Leafs,1,0,0,1,5,173
+0,1,0,3.74,0,0,ECHL,0,25,0,0,0,0,0,0,168,0,1996-97,Pensacola Ice Pilots,21,0,1,23,46,2692
+0,0,0,3.62,0,0,ECHL,0,26,0,0,0,0,0,0,194,0,1997-98,Pensacola Ice Pilots,17,0,7,29,54,3213
+0,1,2,2.50,0,1173,AHL,0,27,0,1074,6,0,0,0,99,.916,1998-99,Kentucky Thoroughblades,15,2,6,18,40,2376
+0,0,1,3.02,0,664,ECHL,0,28,0,602,6,0,0,0,62,.907,1999-00,Louisiana IceGators,6,1,3,12,22,1230
+0,3,3,2.71,0,1280,AHL,0,28,0,1178,6,0,0,0,102,.920,1999-00,Louisville Panthers,12,3,2,24,39,2259
+0,2,0,3.63,0,1581,AHL,0,29,0,1416,17,0,0,0,165,.896,2000-01,Louisville Panthers,33,0,4,11,54,2725
+0,0,0,2.26,0,601,ECHL,0,30,0,549,6,0,0,0,52,.913,2001-02,Reading Royals,8,0,2,12,23,1380
+0,3,2,2.59,0,0,Sweden,0,31,0,0,4,0,0,0,100,0,2002-03,Leksands IF,0,2,0,0,39,2313

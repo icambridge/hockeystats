@@ -1,0 +1,13 @@
+game_winning_goals,plus_minus,shots,shorthanded_assists,games_played,assists,year,even_strength_assists,shorthanded_goals,goals,power_play_goals,average_ice_time,league,shotsPercentage,power_play_assists,age,pim,awards,points,even_strength_goals,total_ice_time,team
+0,0,0,0,20,0,1917-18,0,0,36,0,,NHL,0,0,26,80,[],46,0,,OTS
+0,0,0,0,0,4,1918-19,0,0,18,0,,NHL,0,0,27,58,[],22,0,,OTS
+0,0,0,0,0,6,1919-20,0,0,16,0,,NHL,0,0,28,31,[],22,0,,OTS
+0,0,0,0,0,5,1920-21,0,0,34,0,,NHL,0,0,29,10,[],39,0,,OTS
+0,0,0,0,22,12,1921-22,0,0,27,0,,NHL,0,0,30,20,[],39,0,,OTS
+0,0,0,0,0,11,1922-23,0,0,23,0,,NHL,0,0,31,28,[],34,0,,OTS
+0,0,0,0,22,2,1923-24,0,0,0,0,,NHL,0,0,32,10,[],0,0,,OTS
+0,0,0,0,29,0,1924-25,0,0,27,0,,NHL,0,0,33,16,[],42,0,,OTS
+0,0,0,0,0,12,1925-26,0,0,24,0,,NHL,0,0,34,18,"[{'link': '/awards/voting-1926.html#byng', 'name': 'Byng-4'}]",36,0,,OTS
+0,0,0,0,42,6,1926-27,0,0,17,0,,NHL,0,0,35,16,[],23,0,,OTS
+0,0,0,0,44,0,1927-28,0,0,3,0,,NHL,0,0,36,12,[],3,0,,OTS
+0,0,0,0,23,2,1928-29,0,0,1,0,,NHL,0,0,37,2,[],3,0,,BOS

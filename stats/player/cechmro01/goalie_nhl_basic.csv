@@ -1,0 +1,5 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,10,"[{'link': '/awards/nhl_all_star.html#2001', 'name': None}, {'link': '/awards/voting-2001.html#hart', 'name': 'Hart-4'}, {'link': '/awards/voting-2001.html#vezina', 'name': 'Vezina-2'}]",1,2.01,26.62,1464,NHL,0,29,0,1349,4,0,0,81,115,.921,2000-01,PHI,15,11.9,1,6,35,59,3431
+0,4,"[{'link': '/awards/voting-2002.html#AS', 'name': 'AS-6'}]",0,2.05,15.33,1131,NHL,0,30,0,1042,10,0,0,85,89,.921,2001-02,PHI,13,8.7,0,6,24,46,2603
+0,6,"[{'link': '/awards/voting-2003.html#AS', 'name': 'AS-5'}, {'link': '/awards/jennings.html#2003', 'name': None}, {'link': '/awards/voting-2003.html#vezina', 'name': 'Vezina-7'}]",0,1.83,22.71,1368,NHL,0,31,0,1266,8,0,0,82,102,.925,2002-03,PHI,15,10.9,0,10,33,58,3350
+0,5,[],0,2.51,-6.31,1198,NHL,0,32,0,1085,2,0,0,106,113,.906,2003-04,LAK,21,6.6,0,6,18,49,2701

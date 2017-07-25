@@ -1,0 +1,4 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,1,[],0,3.24,8.23,504,WHA,0,27,0,457,0,0,0,85,47,.907,1974-75,NEW,0,0,0,0,0,16,870
+0,2,[],1,3.42,3.90,1221,WHA,0,28,0,1085,6,0,0,97,136,.889,1975-76,NEW,0,0,1,0,0,41,2385
+0,0,[],1,3.84,8.29,1438,WHA,0,29,0,1279,12,0,0,95,159,.889,1976-77,NEW,0,0,1,0,0,45,2484

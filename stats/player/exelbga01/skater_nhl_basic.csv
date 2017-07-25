@@ -1,0 +1,8 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+18:04,0,2,0,0,0,NHL,21,2,0,41,0,9,0,0,0,0,0,0,0,2002-03,ATL,0,0,2,0,0.0,271,15,[]
+19:32,0,10,0,0,0,NHL,22,8,0,134,-10,42,0,1,0,0,1,0,0,2003-04,ATL,1,0,9,0,2.4,1387,71,"[{'link': '/awards/voting-2004.html#calder', 'name': 'Calder-18'}]"
+15:41,0,10,0,0,0,NHL,24,8,0,75,11,44,0,1,0,0,1,0,0,2005-06,ATL,1,0,9,0,2.3,1176,75,[]
+18:00,0,10,0,1,0,NHL,25,8,0,56,2,57,0,1,0,0,0,0,0,2006-07,ATL,2,0,8,0,3.5,1044,58,[]
+18:53,92,7,0,0,135,NHL,26,5,0,85,-21,37,0,2,0,0,0,0,30,2007-08,ATL,2,175,5,39,5.4,1492,79,[]
+16:43,83,7,0,0,99,NHL,27,6,0,120,-2,42,0,0,0,0,1,0,27,2008-09,ATL,0,151,7,22,0.0,987,59,[]
+10:06,51,4,0,0,54,NHL,28,3,0,73,-8,14,0,1,0,0,0,0,5,2009-10,TOR,1,87,3,22,7.1,515,51,[]

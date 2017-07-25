@@ -1,0 +1,20 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,5,0,0,NHL,20,5,51,-19,30,0,0,0,0,1976-77,TOR,0,5,[],0.0,,45
+,13,0,0,NHL,21,9,31,4,54,2,0,0,2,1977-78,TOR,2,11,[],3.7,,49
+,47,3,1,NHL,22,18,78,4,208,9,3,0,16,1978-79,PIT,13,34,"[{'link': '/awards/voting-1979.html#AS', 'name': 'AS-12'}]",6.3,,70
+,36,1,0,NHL,23,13,45,-23,123,5,3,1,14,1979-80,PIT,8,28,[],6.5,,67
+,83,1,1,NHL,24,27,136,-16,242,8,7,1,39,1980-81,PIT,16,67,"[{'link': '/awards/nhl_all_star.html#1981', 'name': None}, {'link': '/awards/voting-1981.html#hart', 'name': 'Hart-11'}, {'link': '/awards/norris.html#1981', 'name': None}]",6.6,,76
+,75,0,1,NHL,25,34,131,-16,193,3,7,0,30,1981-82,PIT,11,64,"[{'link': '/awards/voting-1982.html#AS', 'name': 'AS-12'}, {'link': '/awards/voting-1982.html#norris', 'name': 'Norris-13'}]",5.7,,73
+,56,0,1,NHL,26,24,110,-26,177,6,8,2,15,1982-83,PIT,15,41,[],8.5,,61
+,29,1,0,NHL,27,6,84,-21,112,3,0,0,20,1983-84,TOT,3,26,[],2.7,,55
+,26,1,0,NHL,27,4,82,-25,107,3,0,0,19,1983-84,PIT,3,23,[],2.8,,50
+,3,0,0,NHL,27,2,2,4,5,0,0,0,1,1983-84,WIN,0,3,[],0.0,,5
+,51,2,0,NHL,28,20,98,23,135,7,6,0,18,1984-85,WIN,13,38,"[{'link': '/awards/voting-1985.html#AS', 'name': 'AS-7'}, {'link': '/awards/voting-1985.html#norris', 'name': 'Norris-7'}]",9.6,,71
+,49,2,0,NHL,29,18,93,-12,152,13,3,1,14,1985-86,WIN,16,33,"[{'link': '/awards/voting-1986.html#AS', 'name': 'AS-13'}]",10.5,,68
+,42,4,0,NHL,30,16,93,-6,172,11,5,0,10,1986-87,WIN,16,26,[],9.3,,71
+,59,1,0,NHL,31,12,210,-20,165,7,8,2,30,1987-88,WIN,15,44,"[{'link': '/awards/voting-1988.html#AS', 'name': 'AS-17'}]",9.1,,78
+,44,2,0,NHL,32,17,78,-19,124,4,2,3,18,1988-89,WIN,6,38,[],4.8,,78
+,18,0,0,NHL,33,12,50,8,92,1,2,0,3,1989-90,WIN,3,15,[],3.3,,53
+,28,1,0,NHL,34,12,44,6,89,7,2,1,6,1990-91,WIN,9,19,[],10.1,,52
+,10,0,0,NHL,35,5,54,4,84,1,0,3,1,1991-92,WIN,1,9,[],1.2,,66
+,2,0,0,NHL,36,1,14,-6,21,1,0,0,0,1992-93,WIN,1,1,[],4.8,,22

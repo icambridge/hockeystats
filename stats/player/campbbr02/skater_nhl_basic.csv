@@ -1,0 +1,20 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+15:48,0,5,0,0,0,NHL,20,2,0,4,-2,10,0,1,0,0,0,2,0,1999-00,BUF,1,0,4,0,10.0,190,12,[]
+15:40,0,0,0,0,0,NHL,21,0,0,2,-2,7,0,0,0,0,0,0,0,2000-01,BUF,0,0,0,0,0.0,125,8,[]
+15:18,0,6,0,0,0,NHL,22,2,0,12,0,30,0,3,0,0,0,1,0,2001-02,BUF,3,0,3,0,10.0,444,29,[]
+18:40,0,19,1,0,0,NHL,23,14,0,20,-8,90,0,2,0,0,0,3,0,2002-03,BUF,2,0,17,0,2.2,1213,65,[]
+16:02,0,11,0,0,0,NHL,24,7,0,12,-8,45,0,3,0,0,0,1,0,2003-04,BUF,3,0,8,0,6.7,850,53,[]
+17:43,0,44,5,0,0,NHL,26,10,0,16,-14,105,0,7,0,5,0,22,0,2005-06,BUF,12,0,32,0,11.4,1399,79,[]
+21:53,0,48,1,0,0,NHL,27,33,0,35,28,92,0,5,0,1,1,8,0,2006-07,BUF,6,0,42,0,6.5,1794,82,"[{'link': '/awards/voting-2007.html#AS', 'name': 'AS-9'}, {'link': '/awards/voting-2007.html#norris', 'name': 'Norris-9'}]"
+25:06,302,62,0,0,96,NHL,28,26,0,20,8,142,0,3,0,5,0,28,22,2007-08,TOT,8,61,54,62,5.6,2084,0,"[{'link': '/awards/voting-2008.html#AS', 'name': 'AS-4'}, {'link': '/awards/nhl_all_star.html#2008', 'name': None}, {'link': '/awards/voting-2008.html#byng', 'name': 'Byng-6'}, {'link': '/awards/voting-2008.html#norris', 'name': 'Norris-5'}]"
+25:06,225,43,0,0,77,NHL,28,20,0,12,-1,102,0,2,0,3,0,18,16,2007-08,BUF,5,57,38,40,4.9,1582,63,"[{'link': '/awards/voting-2008.html#AS', 'name': 'AS-4'}, {'link': '/awards/nhl_all_star.html#2008', 'name': None}, {'link': '/awards/voting-2008.html#byng', 'name': 'Byng-6'}, {'link': '/awards/voting-2008.html#norris', 'name': 'Norris-5'}]"
+25:07,77,19,0,0,19,NHL,28,6,0,8,9,40,0,1,0,2,0,10,6,2007-08,SJS,3,4,16,22,7.5,502,20,"[{'link': '/awards/voting-2008.html#AS', 'name': 'AS-4'}, {'link': '/awards/nhl_all_star.html#2008', 'name': None}, {'link': '/awards/voting-2008.html#byng', 'name': 'Byng-6'}, {'link': '/awards/voting-2008.html#norris', 'name': 'Norris-5'}]"
+22:34,242,52,1,0,72,NHL,29,25,0,22,5,108,0,3,0,4,0,20,15,2008-09,CHI,7,34,45,33,6.5,1851,82,"[{'link': '/awards/voting-2009.html#AS', 'name': 'AS-16'}, {'link': '/awards/voting-2009.html#byng', 'name': 'Byng-12'}, {'link': '/awards/voting-2009.html#norris', 'name': 'Norris-16'}]"
+23:13,267,38,2,0,79,NHL,30,22,0,18,18,131,0,4,0,3,1,8,23,2009-10,CHI,7,37,31,38,5.3,1579,68,"[{'link': '/awards/voting-2010.html#AS', 'name': 'AS-19'}, {'link': '/awards/voting-2010.html#byng', 'name': 'Byng-45'}]"
+22:59,196,27,1,0,101,NHL,31,18,0,6,28,84,0,3,0,2,0,4,21,2010-11,CHI,5,28,22,42,6.0,1494,65,"[{'link': '/awards/voting-2011.html#byng', 'name': 'Byng-14'}, {'link': '/awards/voting-2011.html#norris', 'name': 'Norris-16'}]"
+26:54,274,53,0,0,118,NHL,32,19,0,6,-9,131,0,3,0,1,0,30,29,2011-12,FLA,4,46,49,46,3.1,2206,82,"[{'link': '/awards/voting-2012.html#AS', 'name': 'AS-7'}, {'link': '/awards/byng.html#2012', 'name': None}, {'link': '/awards/voting-2012.html#hart', 'name': 'Hart-20'}, {'link': '/awards/voting-2012.html#norris', 'name': 'Norris-7'}]"
+26:25,144,27,2,0,65,NHL,33,8,0,12,-22,70,0,2,0,6,0,11,14,2012-13,FLA,8,14,19,27,11.4,1268,0,"[{'link': '/awards/voting-2013.html#AS', 'name': 'AS-28'}, {'link': '/awards/voting-2013.html#byng', 'name': 'Byng-20'}]"
+26:57,279,37,2,0,108,NHL,34,18,0,20,-6,116,0.0,5,1,2,2,10,43,2013-14,FLA,7,50,30,45,6.0,2211,82,[]
+23:13,219,27,0,0,85,NHL,35,13,0,22,4,118,0,2,0,1,0,11,16,2014-15,FLA,3,44,24,34,2.5,1903,82,"[{'link': '/awards/voting-2015.html#AS', 'name': 'AS-27'}, {'link': '/awards/voting-2015.html#byng', 'name': 'Byng-48'}, {'link': '/awards/voting-2015.html#norris', 'name': 'Norris-22'}]"
+22:17,199,31,1,1,80,NHL,36,17,0,26,31,99,0,5,0,0,0,8,23,2015-16,FLA,6,27,25,54,6.1,1827,82,"[{'link': '/awards/voting-2016.html#AS', 'name': 'AS-14'}, {'link': '/awards/voting-2016.html#byng', 'name': 'Byng-69'}, {'link': '/awards/voting-2016.html#norris', 'name': 'Norris-17'}]"
+18:26,170,17,1,0,83,NHL,37,9,0,24,12,74,0,3,0,2,0,3,11,2016-17,CHI,5,43,12,59,6.8,1474,80,"[{'link': '/awards/voting-2017.html#byng', 'name': 'Byng-60'}]"

@@ -1,0 +1,14 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,1,0,3.40,0,0,QAAA,0,16,0,0,0,0,0,0,80,0,1993-94,Trois-Rivieres Estacades,8,0,1,14,23,1412
+0,3,0,2.48,0,0,QMJHL,0,17,0,0,0,0,0,0,132,0,1994-95,Beauport Harfangs,16,0,9,29,56,3199
+0,1,0,2.84,0,0,QMJHL,0,18,0,0,0,0,0,0,152,0,1995-96,Beauport Harfangs,17,0,7,29,55,3207
+0,0,0,0.00,0,0,WJC-A,0,19,0,0,0,0,0,0,0,0,1996-97,Canada,0,0,0,0,1,1
+0,3,0,3.30,0,1088,QMJHL,0,19,0,983,0,0,0,0,105,.903,1996-97,2 Teams,14,0,2,17,34,1907
+0,1,0,3.98,0,584,QMJHL,0,19,0,522,0,0,0,0,62,.894,1996-97,Beauport Harfangs,10,0,1,6,18,935
+0,2,0,2.65,0,504,QMJHL,0,19,0,461,0,0,0,0,43,.915,1996-97,Hull Olympiques,4,0,1,11,16,972
+0,0,0,2.09,0,42,ECHL,0,20,0,39,0,0,0,0,3,.929,1997-98,South Carolina Stingrays,1,0,1,0,2,86
+0,5,0,2.93,0,1220,AHL,0,20,0,1107,0,0,0,0,113,.907,1997-98,Rochester Americans,18,0,6,14,41,2312
+0,6,3,2.07,0,1532,AHL,0,21,0,1424,22,0,0,0,108,.930,1998-99,Rochester Americans,13,3,3,36,52,3129
+0,1,0,2.09,0,158,AHL,0,22,0,146,8,0,0,0,12,.924,1999-00,Rochester Americans,0,0,0,6,6,344
+0,1,0,1.00,0,88,AHL,0,23,0,84,2,0,0,0,4,.955,2000-01,Rochester Americans,1,0,0,3,4,239
+0,0,0,3.39,0,72,AHL,0,32,0,65,0,0,0,0,7,.903,2009-10,Bridgeport Sound Tigers,1,0,0,1,2,124

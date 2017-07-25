@@ -1,0 +1,4 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,won,assists,ties,wins,games_played,minutes
+0,0,0,0,0,0,NHL,0,24,0,0,0,0,0,0,0,0,2012-13,LAK,0,,0,0,0,0,0
+0,0,0,0.00,0,9,NHL,0,24,0,9,0,0,0,0,0,1.000,2012-13,LAK,0,,0,0,0,1,30
+1,0,0,3.28,0,79,NHL,1,28,.000,69,0,0,0,0,10,.873,2016-17,ANA,2,,0,0,1,4,183

@@ -1,0 +1,5 @@
+game_winning_goals,shotsPercentage,plus_minus,shots,power_play_goals,age,average_ice_time,games_played,assists,year,points,shorthanded_goals,goals,even_strength_goals,team,win,pim,total_ice_time,league
+0,0.0,0,1,0,22,,2,0,1977-78,0,0,0,0,CLR,,10,,NHL
+0,0.0,2,6,0,26,,15,2,1981-82,2,0,0,0,VAN,,31,,NHL
+0,0.0,-4,2,0,27,,4,0,1982-83,0,0,0,0,VAN,,10,,NHL
+0,33.3,2,3,0,28,,4,0,1983-84,1,0,1,1,VAN,,8,,NHL

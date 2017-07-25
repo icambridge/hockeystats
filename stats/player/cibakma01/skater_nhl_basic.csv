@@ -1,0 +1,4 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+11:08,6,0,0,NHL,21,5,8,-6,22,1,0,0,0,2001-02,TBL,1,5,[],4.5,290,26
+7:35,9,0,0,NHL,23,7,30,-1,44,2,0,0,0,2003-04,TBL,2,7,[],4.5,478,63
+6:36,8,0,0,NHL,25,6,22,-9,50,2,0,0,0,2005-06,TBL,2,6,[],4.0,429,65

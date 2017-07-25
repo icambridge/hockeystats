@@ -1,0 +1,15 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,1,0,0,NHL,21,0,18,0,0,0,0,0,0,1953-54,DET,0,1,[],0,,36
+,7,0,0,NHL,24,0,38,0,0,0,0,0,0,1956-57,DET,1,6,[],0,,44
+,7,0,0,NHL,25,0,104,0,0,0,0,0,0,1957-58,DET,1,6,[],0,,69
+,12,0,0,NHL,26,0,86,0,0,0,0,0,0,1958-59,CBH,2,10,[],0,,0
+,6,0,0,NHL,27,0,66,0,0,0,0,0,0,1959-60,CBH,1,5,[],0,,57
+,5,0,0,NHL,28,0,40,0,0,0,0,0,0,1960-61,CBH,3,2,[],0,,53
+,6,0,0,NHL,29,0,68,0,0,0,0,0,0,1961-62,TOR,1,5,[],0,,52
+,1,0,0,NHL,30,0,4,0,0,0,0,0,0,1962-63,TOR,1,0,[],0,,4
+,1,0,0,NHL,31,0,0,0,0,0,0,0,0,1963-64,TOR,0,1,[],0,,6
+,1,0,0,NHL,33,0,2,0,0,0,0,0,0,1965-66,TOR,0,1,[],0,,4
+,11,0,0,NHL,35,9,50,-6,39,0,1,1,0,1967-68,STL,1,10,[],2.6,,74
+,7,1,0,NHL,36,5,50,20,25,1,0,0,1,1968-69,STL,1,6,"[{'link': '/awards/voting-1969.html#norris', 'name': 'Norris-5'}]",4.0,,67
+,3,0,0,NHL,37,3,85,7,30,0,0,0,0,1969-70,STL,0,3,[],0.0,,68
+,2,0,0,NHL,38,1,6,6,3,0,0,1,0,1970-71,STL,0,2,[],0.0,,22

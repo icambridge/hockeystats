@@ -1,0 +1,8 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,26,0,1,NHL,26,14,36,2,90,10,0,0,1,1997-98,OTT,11,15,"[{'link': '/awards/voting-1998.html#calder', 'name': 'Calder-12'}]",12.2,,61
+17:08,47,6,4,NHL,27,25,50,33,136,17,0,1,0,1998-99,OTT,21,26,"[{'link': '/awards/voting-1999.html#selke', 'name': 'Selke-2'}]",15.4,1371,80
+18:04,28,4,1,NHL,28,13,36,4,91,13,1,0,0,1999-00,OTT,15,13,[],16.5,849,47
+16:01,33,4,2,NHL,29,16,24,23,79,14,1,0,0,2000-01,OTT,17,16,"[{'link': '/awards/voting-2001.html#selke', 'name': 'Selke-16'}]",21.5,817,51
+17:44,39,1,0,NHL,30,21,35,27,121,12,0,4,2,2001-02,OTT,12,27,"[{'link': '/awards/voting-2002.html#selke', 'name': 'Selke-10'}]",9.9,1312,74
+17:54,37,4,0,NHL,31,16,48,13,138,14,2,0,5,2002-03,OTT,16,21,"[{'link': '/awards/voting-2003.html#selke', 'name': 'Selke-38'}]",11.6,1433,80
+14:30,15,4,0,NHL,32,7,12,7,54,6,2,0,0,2003-04,VAN,8,7,[],14.8,594,41

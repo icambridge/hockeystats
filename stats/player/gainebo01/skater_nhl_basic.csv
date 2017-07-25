@@ -1,0 +1,17 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,10,0,0,NHL,20,7,34,-9,55,3,0,0,0,1973-74,MTL,3,7,[],5.5,,66
+,37,2,0,NHL,21,19,49,23,132,16,1,0,1,1974-75,MTL,17,20,[],12.9,,0
+,28,1,2,NHL,22,12,57,20,155,12,1,1,0,1975-76,MTL,15,13,[],9.7,,78
+,33,3,1,NHL,23,19,41,31,143,13,0,0,0,1976-77,MTL,14,19,"[{'link': '/awards/voting-1977.html#AS', 'name': 'AS-8'}]",9.8,,0
+,31,1,2,NHL,24,13,57,11,140,13,0,1,2,1977-78,MTL,15,16,"[{'link': '/awards/selke.html#1978', 'name': None}]",10.7,,66
+,38,1,1,NHL,25,18,44,11,153,18,1,0,0,1978-79,MTL,20,18,"[{'link': '/awards/voting-1979.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-1979.html#hart', 'name': 'Hart-13'}, {'link': '/awards/selke.html#1979', 'name': None}, {'link': '/awards/smythe.html#1979', 'name': None}]",13.1,,79
+,33,3,1,NHL,26,13,32,-2,153,9,4,1,5,1979-80,MTL,14,19,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-4'}, {'link': '/awards/selke.html#1980', 'name': None}]",9.2,,64
+,47,3,3,NHL,27,20,36,13,181,15,5,1,3,1980-81,MTL,23,24,"[{'link': '/awards/voting-1981.html#AS', 'name': 'AS-11'}, {'link': '/awards/voting-1981.html#byng', 'name': 'Byng-16'}, {'link': '/awards/selke.html#1981', 'name': None}]",12.7,,78
+,45,1,3,NHL,28,23,24,37,172,17,1,0,1,1981-82,MTL,21,24,"[{'link': '/awards/voting-1982.html#AS', 'name': 'AS-11'}, {'link': '/awards/voting-1982.html#byng', 'name': 'Byng-9'}, {'link': '/awards/voting-1982.html#hart', 'name': 'Hart-15'}, {'link': '/awards/voting-1982.html#selke', 'name': 'Selke-2'}]",12.2,,79
+,30,3,1,NHL,29,16,43,7,150,11,0,2,0,1982-83,MTL,12,18,"[{'link': '/awards/voting-1983.html#selke', 'name': 'Selke-6'}]",8.0,,0
+,39,3,0,NHL,30,20,41,10,125,17,0,2,0,1983-84,MTL,17,22,"[{'link': '/awards/voting-1984.html#selke', 'name': 'Selke-9'}]",13.6,,77
+,32,3,3,NHL,31,10,40,13,166,16,0,2,1,1984-85,MTL,19,13,"[{'link': '/awards/voting-1985.html#selke', 'name': 'Selke-9'}]",11.4,,79
+,43,4,2,NHL,32,21,20,10,135,18,0,2,0,1985-86,MTL,20,23,"[{'link': '/awards/voting-1986.html#selke', 'name': 'Selke-6'}]",14.8,,80
+,16,3,1,NHL,33,8,19,0,73,7,0,0,0,1986-87,MTL,8,8,"[{'link': '/awards/voting-1987.html#selke', 'name': 'Selke-21'}]",11.0,,47
+,22,1,0,NHL,34,11,14,8,101,11,0,0,0,1987-88,MTL,11,11,[],10.9,,78
+,17,2,0,NHL,35,6,34,13,65,9,1,1,0,1988-89,MTL,10,7,[],15.4,,49

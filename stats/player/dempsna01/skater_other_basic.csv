@@ -1,0 +1,16 @@
+assists,year,games_played,points,goals,team,age,pim,plus_minus,league
+20,1990-91,34,31,11,St. Albert Saints,16,73,0,AMHL
+22,1991-92,70,26,4,Regina Pats,17,72,0,WHL
+29,1992-93,72,41,12,Regina Pats,18,95,0,WHL
+36,1993-94,56,50,14,Regina Pats,19,100,0,WHL
+30,1994-95,74,37,7,St. John\'s Maple Leafs,20,91,0,AHL
+15,1995-96,73,20,5,St. John\'s Maple Leafs,21,103,0,AHL
+18,1996-97,52,26,8,St. John\'s Maple Leafs,22,108,0,AHL
+16,1997-98,68,28,12,St. John\'s Maple Leafs,23,85,-12,AHL
+29,1998-99,67,31,2,St. John\'s Maple Leafs,24,70,-12,AHL
+12,1999-00,44,27,15,St. John\'s Maple Leafs,25,40,-6,AHL
+28,2000-01,55,39,11,St. John\'s Maple Leafs,26,60,0,AHL
+48,2001-02,75,61,13,St. John\'s Maple Leafs,27,66,4,AHL
+3,2004-05,10,5,2,Eisbaren Berlin,30,26,0,Germany
+17,2006-07,46,21,4,Providence Bruins,32,40,7,AHL
+10,2007-08,29,13,3,SC Bern,33,20,0,Swiss

@@ -1,0 +1,9 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,2,0,0,NHL,21,0,2,-2,25,2,0,0,0,1979-80,WSH,2,0,[],8.0,,32
+,18,0,1,NHL,22,11,16,-5,52,2,2,0,2,1980-81,WSH,5,13,[],9.6,,40
+,14,0,1,NHL,23,6,14,-2,45,6,0,1,0,1981-82,WSH,7,7,[],15.6,,43
+,39,2,0,NHL,24,27,20,18,54,11,0,1,0,1982-83,WSH,11,28,[],20.4,,68
+,36,2,2,NHL,25,22,20,9,71,10,0,1,1,1983-84,WSH,12,24,"[{'link': '/awards/voting-1984.html#selke', 'name': 'Selke-16'}]",16.9,,0
+,6,0,0,NHL,26,5,19,2,27,1,0,0,0,1984-85,WSH,1,5,[],3.7,,44
+,3,0,0,NHL,27,2,9,0,11,0,1,0,0,1985-86,LAK,1,2,[],9.1,,12
+,0,0,0,NHL,29,0,0,-2,3,0,0,0,0,1987-88,LAK,0,0,[],0.0,,7

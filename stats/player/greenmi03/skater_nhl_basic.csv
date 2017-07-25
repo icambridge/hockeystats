@@ -1,0 +1,13 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+14:54,0,3,0,0,0,NHL,20,1,0,18,-8,13,0,1,0,0,0,1,0,2005-06,WSH,1,0,2,0,7.7,328,22,[]
+15:29,0,12,0,0,0,NHL,21,4,0,36,-10,68,0,2,0,0,0,6,0,2006-07,WSH,2,0,10,0,2.9,1084,70,[]
+23:38,460,56,4,0,68,NHL,22,23,0,62,6,234,0.0,10,1,8,0,15,53,2007-08,WSH,18,94,38,85,7.7,1938,82,"[{'link': '/awards/voting-2008.html#AS', 'name': 'AS-7'}, {'link': '/awards/voting-2008.html#norris', 'name': 'Norris-7'}]"
+25:46,465,73,4,1,110,NHL,23,22,0,68,24,243,0,12,0,18,0,20,49,2008-09,WSH,31,86,42,95,12.8,1752,68,"[{'link': '/awards/nhl_all_star.html#2009', 'name': None}, {'link': '/awards/voting-2009.html#hart', 'name': 'Hart-13'}, {'link': '/awards/voting-2009.html#norris', 'name': 'Norris-2'}]"
+25:29,435,76,4,0,105,NHL,24,31,0,54,39,205,0,9,0,10,1,25,44,2009-10,WSH,19,133,57,73,9.3,1911,75,"[{'link': '/awards/nhl_all_star.html#2010', 'name': None}, {'link': '/awards/voting-2010.html#hart', 'name': 'Hart-14'}, {'link': '/awards/voting-2010.html#norris', 'name': 'Norris-2'}]"
+25:12,246,24,1,0,106,NHL,25,10,0,48,6,115,0,3,0,5,1,5,25,2010-11,WSH,8,100,16,54,7.0,1234,49,[]
+21:03,149,7,1,0,44,NHL,26,3,0,12,5,64,0,0,0,3,0,1,23,2011-12,WSH,3,27,4,30,4.7,673,32,[]
+24:51,200,26,2,0,61,NHL,27,4,0,20,-3,96,0,8,0,4,0,10,14,2012-13,WSH,12,36,14,25,12.5,870,35,"[{'link': '/awards/voting-2013.html#AS', 'name': 'AS-17'}, {'link': '/awards/voting-2013.html#norris', 'name': 'Norris-17'}]"
+22:44,368,38,2,0,107,NHL,28,17,0,64,-16,172,0,6,0,3,0,12,32,2013-14,WSH,9,62,29,65,5.2,1591,70,[]
+19:06,308,45,2,0,93,NHL,29,19,0,34,15,159,0,9,0,1,0,16,30,2014-15,WSH,10,82,35,61,6.3,1376,72,[]
+19:46,255,35,0,0,71,NHL,30,13,0,38,-6,124,0.0,2,2,5,0,15,18,2015-16,DET,7,106,28,40,5.6,1463,74,[]
+23:33,284,36,2,0,92,NHL,31,15,0,40,-20,125,0,11,0,3,0,7,24,2016-17,DET,14,67,22,52,11.2,1696,72,[]

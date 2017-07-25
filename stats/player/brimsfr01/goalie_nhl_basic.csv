@@ -1,0 +1,11 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,0,"[{'link': '/awards/nhl_all_star.html#1939', 'name': None}, {'link': '/awards/calder.html#1939', 'name': None}, {'link': '/awards/vezina.html#1939', 'name': None}]",0,0,0,0,NHL,0,23,0,0,0,0,0,0,68,0,1938-39,BOS,9,0,0,1,0,43,2610
+0,6,"[{'link': '/awards/nhl_all_star.html#1940', 'name': None}]",0,1.99,0,0,NHL,0,24,0,0,0,0,0,0,98,0,1939-40,BOS,12,10.4,0,5,0,0,2950
+0,0,"[{'link': '/awards/nhl_all_star.html#1941', 'name': None}]",0,2.01,0,0,NHL,0,25,0,0,0,0,0,0,102,0,1940-41,BOS,8,0,0,0,27,0,0
+0,3,"[{'link': '/awards/nhl_all_star.html#1942', 'name': None}, {'link': '/awards/voting-1942.html#hart', 'name': 'Hart-3'}, {'link': '/awards/vezina.html#1942', 'name': None}]",0,0,0,0,NHL,0,26,0,0,0,0,0,0,115,0,1941-42,BOS,17,0,0,0,24,47,2930
+0,1,"[{'link': '/awards/nhl_all_star.html#1943', 'name': None}, {'link': '/awards/voting-1943.html#hart', 'name': 'Hart-5'}]",0,3.52,0,0,NHL,0,27,0,0,0,0,0,0,176,0,1942-43,BOS,17,8.6,0,9,24,0,3000
+0,2,"[{'link': '/awards/nhl_all_star.html#1946', 'name': None}]",0,3.26,0,0,NHL,0,30,0,0,0,0,0,0,111,0,1945-46,BOS,14,5.9,0,4,16,34,2040
+0,3,"[{'link': '/awards/nhl_all_star.html#1947', 'name': None}]",0,2.92,0,0,NHL,0,31,0,0,2,0,0,0,175,0,1946-47,BOS,23,11.3,0,0,26,0,0
+0,3,"[{'link': '/awards/nhl_all_star.html#1948', 'name': None}, {'link': '/awards/voting-1948.html#hart', 'name': 'Hart-2'}]",0,2.80,0,0,NHL,0,32,0,0,0,0,0,0,168,0,1947-48,BOS,24,10.7,0,0,23,0,0
+0,1,[],0,2.72,0,0,NHL,0,33,0,0,2,0,0,0,147,0,1948-49,BOS,20,9.0,0,8,26,54,3240
+0,5,[],0,3.49,0,0,NHL,0,34,0,0,2,0,0,0,0,0,1949-50,CBH,0,6.2,0,10,22,0,0

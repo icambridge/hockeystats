@@ -1,0 +1,5 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,2,[],0,2.65,0,0,NHL,0,23,0,0,0,0,0,0,69,0,1938-39,MTL,13,3.6,0,5,7,25,1560
+0,2,[],0,3.25,0,0,NHL,0,24,0,0,0,0,0,0,123,0,1939-40,TOT,25,2.4,0,3,9,37,2270
+0,2,[],0,3.26,0,0,NHL,0,24,0,0,0,0,0,0,120,0,1939-40,MTL,24,2.3,0,3,9,36,2210
+0,0,[],0,3.00,0,0,NHL,0,24,0,0,0,0,0,0,3,0,1939-40,DET,1,0.1,0,0,0,1,60

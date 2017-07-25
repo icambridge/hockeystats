@@ -1,0 +1,13 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,12,0,0,NHL,23,8,48,-7,100,2,0,0,2,1971-72,PIT,2,10,"[{'link': '/awards/voting-1972.html#calder', 'name': 'Calder-4'}]",2.0,,77
+,27,0,0,NHL,24,21,42,-4,132,3,0,1,2,1972-73,PIT,3,24,[],2.3,,78
+,17,0,0,NHL,25,11,30,-13,123,1,2,0,3,1973-74,PIT,3,14,[],2.4,,71
+,17,1,0,NHL,26,13,49,3,126,2,0,1,1,1974-75,PIT,2,15,[],1.6,,78
+,29,1,1,NHL,27,18,51,27,125,5,1,0,4,1975-76,PIT,7,22,"[{'link': '/awards/voting-1976.html#hart', 'name': 'Hart-10'}]",5.6,,0
+,9,1,0,NHL,28,5,29,-15,92,2,1,0,1,1976-77,PIT,3,6,"[{'link': '/awards/voting-1977.html#AS', 'name': 'AS-16'}]",3.3,,69
+,19,1,0,NHL,29,14,24,-30,92,4,0,1,0,1977-78,PIT,4,15,[],4.3,,67
+,13,0,0,NHL,30,10,28,-10,70,2,0,0,1,1978-79,TOR,2,11,[],2.9,,65
+,19,0,0,NHL,31,13,42,0,102,3,0,1,2,1979-80,TOR,3,16,[],2.9,,80
+,2,0,0,NHL,32,1,30,-17,35,0,0,1,0,1980-81,TOT,0,2,[],0.0,,59
+,0,0,0,NHL,32,0,2,-4,3,0,0,0,0,1980-81,TOR,0,0,[],0.0,,6
+,2,0,0,NHL,32,1,28,-13,32,0,0,1,0,1980-81,PIT,0,2,[],0.0,,53

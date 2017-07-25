@@ -1,0 +1,13 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,10,0,0,NHL,21,0,2,0,0,0,0,0,0,1945-46,NYR,8,2,[],0,,16
+,29,0,0,NHL,22,0,30,0,0,0,0,0,0,1946-47,NYR,13,16,"[{'link': '/awards/voting-1947.html#calder', 'name': 'Calder-3'}]",0,,52
+,25,0,0,NHL,23,0,71,0,0,0,0,0,0,1947-48,NYR,7,18,[],0,,58
+,35,0,0,NHL,24,0,35,0,0,0,0,0,0,1948-49,TOR,13,22,[],0,,53
+,26,0,0,NHL,25,0,12,0,0,0,0,0,0,1949-50,TOR,7,19,[],0,,31
+,51,0,0,NHL,26,0,42,0,0,0,0,0,0,1950-51,TOR,23,28,[],0,,66
+,41,0,0,NHL,27,0,40,0,0,0,0,0,0,1951-52,TOR,15,26,[],0,,0
+,35,0,0,NHL,28,0,60,0,0,0,0,0,0,1952-53,CBH,11,24,[],0,,0
+,34,0,0,NHL,29,0,62,0,0,0,0,0,0,1953-54,BOS,14,20,[],0,,70
+,38,0,0,NHL,30,0,40,0,0,0,0,0,0,1954-55,BOS,16,22,[],0,,70
+,36,0,0,NHL,31,0,57,0,0,0,0,0,0,1955-56,BOS,15,21,[],0,,70
+,32,0,0,NHL,32,0,66,0,0,0,0,0,0,1956-57,BOS,12,20,[],0,,0

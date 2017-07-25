@@ -1,0 +1,13 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,9,0,0,NHL,20,2,4,-10,35,3,1,0,3,1977-78,STL,4,5,[],11.4,,22
+,19,2,0,NHL,21,14,0,-9,57,3,1,0,1,1978-79,STL,4,15,[],7.0,,36
+,33,3,0,NHL,22,10,4,9,70,17,2,0,4,1979-80,STL,19,14,[],27.1,,40
+,55,4,0,NHL,23,22,38,32,112,21,2,0,10,1980-81,STL,23,32,"[{'link': '/awards/voting-1981.html#selke', 'name': 'Selke-15'}]",20.5,,61
+,48,2,0,NHL,24,19,19,-6,132,17,6,0,6,1981-82,TOT,23,25,[],17.4,,60
+,40,2,0,NHL,24,16,17,-7,103,14,4,0,6,1981-82,STL,18,22,[],17.5,,48
+,8,0,0,NHL,24,3,2,1,29,3,2,0,0,1981-82,VAN,5,3,[],17.2,,12
+,2,0,0,NHL,25,1,0,-3,6,1,0,0,0,1982-83,VAN,1,1,[],16.7,,8
+,34,2,0,NHL,26,13,6,-4,76,8,7,0,6,1983-84,TOT,15,19,[],19.7,,50
+,6,0,0,NHL,26,3,2,-1,22,2,1,0,0,1983-84,VAN,3,3,[],13.6,,18
+,28,2,0,NHL,26,10,4,-3,54,6,6,0,6,1983-84,HAR,12,16,[],22.2,,32
+,11,0,0,NHL,27,4,12,-4,20,2,1,0,4,1984-85,HAR,3,8,[],15.0,,13

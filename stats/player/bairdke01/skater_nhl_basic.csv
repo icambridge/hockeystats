@@ -1,0 +1,12 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,2,0,0,NHL,20,2,15,-10,6,0,0,0,0,1971-72,CGS,0,2,[],0.0,,10
+,29,0,0,WHA,21,0,112,0,0,13,1,0,0,1972-73,ALO,14,15,[],0,,75
+,36,1,0,WHA,22,0,115,0,0,15,2,0,0,1973-74,EDO,17,19,[],0,,68
+,58,0,0,WHA,23,0,151,-19,173,22,8,0,0,1974-75,EDO,30,28,[],17.3,,77
+,37,1,0,WHA,24,0,87,-6,93,10,3,0,0,1975-76,EDO,13,24,[],14.0,,48
+,3,0,0,WHA,25,0,2,0,10,1,0,0,0,1976-77,TOT,1,2,[],10.0,,9
+,3,0,0,WHA,25,0,0,2,7,1,0,0,0,1976-77,EDO,1,2,[],14.3,,2
+,0,0,0,WHA,25,0,2,-2,3,0,0,0,0,1976-77,CGC,0,0,[],0.0,,7
+,27,0,0,WHA,26,0,31,5,76,14,2,0,0,1977-78,TOT,16,11,[],21.1,,55
+,6,0,0,WHA,26,0,2,0,10,2,0,0,0,1977-78,EDO,2,4,[],20.0,,6
+,21,0,0,WHA,26,0,29,5,66,12,2,0,0,1977-78,WNJ,14,7,[],21.2,,49

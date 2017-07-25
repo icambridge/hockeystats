@@ -1,0 +1,16 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,1,2.72,0,0,USHL,0,18,0,0,4,0,0,0,129,0,1999-00,Twin Cities Vulcans,15,1,7,25,49,2848
+0,1,0,3.06,0,0,WCHA,0,19,0,0,0,0,0,0,38,0,2000-01,University of Denver,6,0,1,7,15,745
+0,1,1,2.34,0,0,WCHA,0,20,0,0,0,0,0,0,40,0,2001-02,University of Denver,4,1,1,12,18,1026
+0,3,0,2.30,0,0,WCHA,0,21,0,0,0,0,0,0,55,0,2002-03,University of Denver,6,0,4,12,26,1436
+0,7,2,2.45,0,0,WCHA,0,22,0,0,0,0,0,0,91,0,2003-04,University of Denver,11,2,4,24,39,2225
+0,0,0,4.07,0,32,AHL,0,23,0,28,2,0,0,0,4,.875,2004-05,Chicago Wolves,1,0,0,0,1,59
+0,2,1,2.43,0,677,ECHL,0,23,0,618,2,0,0,0,59,.913,2004-05,Gwinnett Gladiators,10,1,5,9,24,1458
+0,0,0,3.65,0,271,AHL,0,24,0,239,0,0,0,0,32,.882,2005-06,Chicago Wolves,6,0,0,3,11,526
+0,1,2,2.73,0,449,ECHL,0,24,0,408,2,0,0,0,41,.909,2005-06,Gwinnett Gladiators,4,2,1,10,15,902
+0,0,0,3.23,0,169,AHL,0,25,0,152,0,0,0,0,17,.899,2006-07,Rochester Americans,3,0,0,2,6,316
+0,5,1,2.44,0,1161,ECHL,0,25,0,1056,14,0,0,0,105,.910,2006-07,Dayton Bombers,17,1,3,23,43,2584
+0,1,0,2.93,0,740,AHL,0,26,0,657,2,0,0,0,83,.888,2007-08,Grand Rapids Griffins,14,0,4,10,31,1697
+0,4,0,2.53,0,768,AHL,0,27,0,699,2,0,0,0,69,.910,2008-09,Wilkes-Barre Penguins,11,0,2,15,28,1635
+0,1,0,2.98,0,186,AHL,0,28,0,166,0,0,0,0,20,.892,2009-10,Wilkes-Barre Penguins,3,0,0,4,7,403
+0,0,1,3.13,0,740,ECHL,0,28,0,657,0,0,0,0,83,.888,2009-10,Wheeling Nailers,11,1,3,12,28,1590

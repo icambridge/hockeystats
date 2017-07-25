@@ -1,0 +1,11 @@
+power_play_goals,assists,points,power_play_assists,league,even_strength_assists,game_winning_goals,shorthanded_goals,shotsPercentage,games_played,average_ice_time,year,team,age,plus_minus,shorthanded_assists,even_strength_goals,pim,awards,total_ice_time,goals,shots
+0,16,19,0,NHL,16,0,0,4.8,67,,1968-69,PHI,27,-24,0,3,28,[],,3,62
+0,9,10,0,NHL,9,0,0,2.9,53,,1969-70,PHI,28,-4,0,1,28,[],,1,34
+0,11,12,1,NHL,10,1,0,2.0,70,,1970-71,PHI,29,-18,0,1,34,[],,1,51
+0,1,1,0,NHL,1,0,0,0.0,6,,1971-72,PHI,30,-5,0,0,0,[],,0,2
+0,26,30,0,WHA,0,0,0,0,68,,1972-73,HSA,31,0,0,4,65,[],,4,0
+0,14,16,0,WHA,0,0,0,0,69,,1973-74,HSA,32,0,0,2,39,[],,2,0
+0,18,20,0,WHA,0,0,0,3.9,76,,1974-75,HSA,33,35,0,2,40,[],,2,51
+0,12,14,0,WHA,0,1,0,4.1,77,,1975-76,HSA,34,7,0,2,30,[],,2,49
+0,14,14,0,WHA,0,0,0,0.0,67,,1976-77,HSA,35,9,0,0,18,[],,0,45
+0,11,13,0,WHA,0,0,0,12.5,56,,1977-78,HSA,36,4,0,2,22,[],,2,16

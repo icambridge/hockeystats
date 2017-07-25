@@ -1,0 +1,11 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,6,0,0,NHL,22,0,0,0,0,0,0,0,0,1947-48,MTL,1,5,[],0,,31
+,16,0,0,NHL,24,0,8,0,0,0,0,0,0,1949-50,MTL,8,8,[],0,,49
+,27,0,0,NHL,25,0,23,0,0,0,0,0,0,1950-51,MTL,13,14,[],0,,69
+,38,0,0,NHL,26,0,10,0,0,0,0,0,0,1951-52,MTL,20,18,"[{'link': '/awards/voting-1952.html#byng', 'name': 'Byng-5'}]",0,,64
+,22,0,0,NHL,27,0,10,0,0,0,0,0,0,1952-53,MTL,16,6,[],0,,68
+,21,0,0,NHL,28,0,22,0,0,0,0,0,0,1953-54,MTL,13,8,[],0,,70
+,21,0,0,NHL,29,0,36,0,0,0,0,0,0,1954-55,MTL,11,10,[],0,,68
+,32,0,0,NHL,30,0,10,0,0,0,0,0,0,1955-56,MTL,14,18,"[{'link': '/awards/voting-1956.html#byng', 'name': 'Byng-2'}]",0,,70
+,16,0,0,NHL,31,0,20,0,0,0,0,0,0,1956-57,MTL,7,9,"[{'link': '/awards/voting-1957.html#byng', 'name': 'Byng-5'}]",0,,0
+,5,0,0,NHL,32,0,8,0,0,0,0,0,0,1957-58,MTL,2,3,[],0,,42

@@ -1,0 +1,19 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,2,0,2.43,0,0,QAHA,0,14,0,0,0,0,0,0,34,0,1991-92,Drummondville,0,0,0,0,14,840
+0,7,0,1.83,0,0,QAHA,0,15,0,0,0,0,0,0,37,0,1992-93,Drummondville,0,0,0,0,20,1215
+0,1,0,3.12,0,0,QAAA,0,16,0,0,0,0,0,0,75,0,1993-94,Magog Cantonniers,5,0,1,14,24,1443
+0,2,0,2.75,0,0,QMJHL,0,17,0,0,0,0,0,0,99,0,1994-95,Laval Titan,13,0,1,25,41,2157
+0,1,0,3.87,0,0,QMJHL,0,18,0,0,0,0,0,0,184,0,1995-96,2 Teams,19,0,1,25,51,2853
+0,0,0,6.17,0,0,QMJHL,0,18,0,0,0,0,0,0,97,0,1995-96,Laval Titan,10,0,0,4,18,944
+0,1,0,2.73,0,0,QMJHL,0,18,0,0,0,0,0,0,87,0,1995-96,Val-d\'Or Foreurs,9,0,1,21,33,1909
+0,1,0,3.04,0,1929,QMJHL,0,19,0,1753,0,0,0,0,176,.909,1996-97,Shawinigan Cataractes,17,0,4,37,62,3474
+0,0,0,2.62,0,135,AHL,0,20,0,125,0,0,0,0,10,.926,1997-98,Portland Pirates,3,0,0,1,4,229
+0,0,0,2.86,0,1134,ECHL,0,20,0,1020,0,0,0,0,114,.899,1997-98,Hampton Roads Admirals,16,0,6,20,43,2388
+0,0,0,3.33,0,92,AHL,0,21,0,82,0,0,0,0,10,.891,1998-99,Portland Pirates,3,0,0,0,3,180
+0,0,0,0.00,0,2,UHL,0,21,0,2,0,0,0,0,0,1.000,1998-99,Quad City Mallards,0,0,0,0,6,4
+0,0,0,2.77,0,557,AHL,0,22,0,509,0,0,0,0,48,.914,1999-00,Portland Pirates,4,0,3,10,18,1041
+0,1,0,3.43,0,1081,AHL,0,23,0,968,19,0,0,0,113,.895,2000-01,Portland Pirates,16,0,1,16,34,1978
+0,3,1,2.67,0,1712,AHL,0,24,0,1581,4,0,0,0,131,.923,2001-02,Portland Pirates,18,1,10,20,49,2941
+0,2,0,2.31,0,375,AHL,0,25,0,347,2,0,0,0,28,.925,2002-03,Portland Pirates,7,0,2,3,12,727
+0,1,0,2.39,0,0,Russia,0,28,0,0,0,0,0,0,86,0,2005-06,HK MVD Moscow Region,0,0,0,0,38,2155
+0,3,0,2.60,0,0,Russia,0,29,0,0,2,0,0,0,93,0,2006-07,Vityaz Chekhov,0,0,0,0,37,2149

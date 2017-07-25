@@ -1,0 +1,14 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,4.98,0,0,ON-Jr.A,0,17,0,0,0,0,0,0,17,0,1993-94,Peterborough Jr. Petes,0,0,0,0,4,205
+0,0,0,5.25,0,0,OHL,0,17,0,0,0,0,0,0,37,0,1993-94,Peterborough Petes,4,0,2,0,9,423
+0,0,0,3.95,0,0,OHL,0,18,0,0,0,0,0,0,117,0,1994-95,Peterborough Petes,15,0,5,11,35,1779
+0,2,0,3.17,0,0,OHL,0,19,0,0,0,0,0,0,174,0,1995-96,Peterborough Petes,16,0,6,31,58,3292
+0,2,0,3.30,0,1797,OHL,0,20,0,1646,0,0,0,0,151,.916,1996-97,Peterborough Petes,16,0,0,28,49,2744
+0,0,0,3.88,0,331,AHL,0,21,0,295,0,0,0,0,36,.891,1997-98,Adirondack Red Wings,6,0,1,1,12,557
+0,0,0,3.05,0,923,IHL,0,22,0,844,4,0,0,0,79,.914,1998-99,Cleveland Lumberjacks,12,0,4,11,27,1556
+0,1,1,3.26,0,532,IHL,0,23,0,486,4,0,0,0,46,.914,1999-00,Detroit Vipers,8,1,2,4,15,846
+0,6,3,2.89,0,1475,IHL,0,24,0,1341,14,0,0,0,134,.909,2000-01,Cleveland Lumberjacks,18,3,5,24,49,2785
+0,1,3,2.33,0,909,ECHL,0,25,0,841,8,0,0,0,68,.925,2001-02,Augusta Lynx,9,3,3,16,30,1748
+0,0,0,12.00,0,18,AHL,0,25,0,14,0,0,0,0,4,.778,2001-02,Springfield Falcons,1,0,0,0,1,20
+0,0,0,2.89,0,388,AHL,0,26,0,355,6,0,0,0,33,.915,2002-03,Springfield Falcons,4,0,1,6,13,685
+0,0,0,3.40,0,62,AHL,0,27,0,56,0,0,0,0,6,.903,2003-04,Springfield Falcons,1,0,1,0,2,106

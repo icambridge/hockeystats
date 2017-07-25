@@ -1,0 +1,8 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,15,4,1,NHL,2009-10,20,4,SJS,171,0,4,1,0,18,40,,22.2,4
+1,18,14,0,NHL,2010-11,21,7,SJS,349,7,2,2,0,64,99,,10.9,6
+0,5,4,0,NHL,2011-12,22,1,SJS,100,3,0,-1,0,19,31,,5.3,1
+0,11,11,3,NHL,2012-13,23,5,SJS,226,6,0,-6,0,33,58,,15.2,0
+0,7,3,0,NHL,2013-14,24,1,SJS,130,2,7,0,0,18,36,,5.6,1
+4,0,0,2,NHL,2015-16,26,10,SJS,464,0,8,5,0,65,129,,15.4,6
+1,6,3,0,NHL,2016-17,27,2,SJS,110,1,0,-1,0,10,24,,20.0,1

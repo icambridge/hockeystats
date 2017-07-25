@@ -1,0 +1,25 @@
+shots_againist,good_start_precentages,ties,saves,minutes,games_played,assists,year,goals,wins,goals_allowed_average,league,games_started,goals_allowed,goals_allowed_precentage,goals_saved_aboved_average,loses,good_starts,saves_percentage,age,pim,shutouts,points,bad_start,team
+0,0,0,0,1740,29,0,1987-88,0,0,2.38,High-CT,0,69,0,0,0,0,0,15,0,4,0,0,The Canterbury School
+0,0,0,0,1500,25,0,1988-89,0,0,2.52,High-CT,0,63,0,0,0,0,0,16,0,2,0,0,The Canterbury School
+0,0,0,0,1558,32,0,1989-90,0,0,2.62,High-CT,0,68,0,0,0,0,0,17,0,3,0,0,The Canterbury School
+0,0,2,0,1275,23,0,1990-91,0,14,2.96,H-East,0,63,0,0,5,0,0,18,0,0,0,0,University of Maine
+0,0,0,0,180,3,0,1990-91,0,1,3.67,WJC-A,0,11,0,0,2,0,0,18,0,0,0,0,United States
+0,0,0,0,382,7,0,1991-92,0,6,2.20,H-East,0,14,0,0,0,0,0,19,0,1,0,0,University of Maine
+0,0,1,0,360,6,0,1991-92,0,5,2.33,WJC-A,0,14,0,0,0,0,0,19,0,0,0,0,United States
+0,0,1,0,157,3,0,1991-92,0,0,3.82,Nat-Tm,0,10,0,0,1,0,0,19,0,0,0,0,United States
+0,0,0,0,107,3,0,1991-92,0,0,3.93,WC-A,0,7,0,0,1,0,0,19,0,0,0,0,United States
+0,0,1,0,1429,25,0,1992-93,0,21,2.65,H-East,0,63,0,0,1,0,0,20,0,0,0,0,University of Maine
+0,0,0,0,60,1,0,1992-93,0,1,1.00,WC-A,0,1,0,0,0,0,0,20,0,0,0,0,United States
+0,0,2,0,1983,33,0,1993-94,0,22,3.78,Nat-Tm,0,125,0,0,9,0,0,21,0,2,0,0,United States
+0,0,2,0,180,3,0,1993-94,0,0,5.00,Olympics,0,15,0,0,1,0,0,21,0,0,0,0,United States
+0,0,1,0,304,5,0,1993-94,0,2,5.13,AHL,0,26,0,0,2,0,0,21,0,0,0,0,Albany River Rats
+966,0,8,867,2120,35,0,1994-95,0,20,2.80,AHL,0,99,0,0,7,0,.898,22,0,1,0,0,Albany River Rats
+1182,0,2,1073,2592,44,0,1995-96,0,30,2.52,AHL,0,109,0,0,10,0,.908,23,0,1,0,0,Albany River Rats
+93,0,1,81,184,3,0,1996-97,0,1,3.91,AHL,0,12,0,0,1,0,.871,24,0,0,0,0,Albany River Rats
+0,0,0,0,40,2,0,1997-98,0,0,6.00,WC-A,0,4,0,0,1,0,0,25,0,0,0,0,United States
+15,0,0,14,60,1,0,1999-00,0,1,1.00,IHL,0,1,0,0,0,0,.933,27,0,0,0,0,Milwaukee Admirals
+23,0,0,23,60,1,0,2001-02,0,1,0.00,Olympics,0,0,0,0,0,0,1.000,29,0,1,0,0,United States
+0,0,0,0,237,4,0,2003-04,0,1,2.53,WC-A,0,10,0,0,3,0,0,31,0,0,0,0,United States
+0,0,0,0,726,13,1,2004-05,0,0,2.98,Sweden-2,0,36,0,0,0,0,0,32,27,4,1,0,Skelleftea AIK HK
+0,0,0,0,0,0,0,2004-05,0,0,0,WC-A,0,0,0,0,0,0,0,32,0,0,0,0,United States
+36,0,0,31,120,2,0,2005-06,0,2,2.50,ECHL,0,5,0,0,0,0,.861,33,2,0,0,0,Gwinnett Gladiators

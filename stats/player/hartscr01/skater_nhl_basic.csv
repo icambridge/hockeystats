@@ -1,0 +1,12 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,49,0,0,WHA,19,0,73,9,181,5,4,0,0,1978-79,BRB,9,40,[],5.0,,77
+,44,2,0,NHL,20,15,81,-2,202,7,7,0,15,1979-80,MNS,14,30,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-14'}]",6.9,,79
+,43,2,0,NHL,21,10,124,-9,207,5,8,1,19,1980-81,MNS,13,30,"[{'link': '/awards/voting-1981.html#AS', 'name': 'AS-27'}]",6.3,,74
+,77,2,0,NHL,22,30,117,11,204,12,5,0,30,1981-82,MNS,17,60,"[{'link': '/awards/voting-1982.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-1982.html#norris', 'name': 'Norris-4'}]",8.3,,76
+,62,1,1,NHL,23,27,109,7,200,8,3,1,22,1982-83,MNS,12,50,"[{'link': '/awards/voting-1983.html#AS', 'name': 'AS-18'}]",6.0,,78
+,14,0,0,NHL,24,2,37,-2,54,2,5,0,5,1983-84,MNS,7,7,[],13.0,,26
+,18,1,1,NHL,25,6,54,-5,93,5,1,0,5,1984-85,MNS,7,11,[],7.5,,32
+,57,2,0,NHL,26,12,127,7,185,6,4,0,35,1985-86,MNS,10,47,[],5.4,,75
+,61,1,0,NHL,27,17,93,-2,189,7,4,0,33,1986-87,MNS,11,50,"[{'link': '/awards/voting-1987.html#AS', 'name': 'AS-18'}, {'link': '/awards/voting-1987.html#norris', 'name': 'Norris-12'}]",5.8,,73
+,19,1,0,NHL,28,4,29,-2,83,1,2,1,11,1987-88,MNS,3,16,[],3.6,,27
+,18,0,0,NHL,29,8,47,-8,75,3,1,0,6,1988-89,MNS,4,14,[],5.3,,30

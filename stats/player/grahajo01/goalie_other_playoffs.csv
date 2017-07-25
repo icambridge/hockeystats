@@ -1,0 +1,5 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,1,0,2.38,0,546,AHL,0,23,0,498,6,0,0,0,48,.912,1998-99,Providence Bruins,4,0,0,15,19,1209
+0,0,0,2.50,0,421,AHL,0,24,0,386,4,0,0,0,35,.917,1999-00,Providence Bruins,3,0,0,10,13,839
+0,2,0,2.65,0,597,AHL,0,25,0,551,6,0,0,0,46,.923,2000-01,Providence Bruins,9,0,0,8,17,1043
+0,0,1,2.57,0,159,AHL,0,35,0,146,2,0,0,0,13,.918,2010-11,Lake Erie Monsters,3,1,0,2,5,303

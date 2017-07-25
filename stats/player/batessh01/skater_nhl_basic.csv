@@ -1,0 +1,11 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+,0,2,0,0,0,NHL,22,0,0,2,-3,12,0,2,0,0,0,0,0,1997-98,BOS,2,0,0,0,16.7,,13,[]
+8:35,0,9,0,0,0,NHL,23,4,0,2,3,30,0,5,0,0,0,0,0,1998-99,BOS,5,0,4,0,16.7,283,33,[]
+10:52,0,12,1,0,0,NHL,24,7,0,14,-17,65,0,5,0,0,0,0,0,1999-00,BOS,5,0,7,0,7.7,478,44,[]
+9:19,0,5,0,0,0,NHL,25,1,0,26,-12,59,0,2,0,0,0,2,0,2000-01,BOS,2,0,3,0,3.4,419,45,[]
+18:45,0,52,4,4,0,NHL,26,23,0,30,18,150,0,12,0,1,1,11,0,2001-02,NYI,17,0,35,0,11.3,1332,71,[]
+18:26,0,42,1,0,0,NHL,27,15,0,52,-9,126,0,6,0,1,0,14,0,2002-03,NYI,13,0,29,0,10.3,1364,74,"[{'link': '/awards/voting-2003.html#selke', 'name': 'Selke-38'}]"
+18:26,0,32,1,1,0,NHL,28,19,0,46,-8,115,0,8,0,0,0,4,0,2003-04,NYI,9,0,23,0,7.8,1272,69,[]
+17:12,0,34,4,1,0,NHL,30,17,0,60,-11,95,0,13,0,1,0,2,0,2005-06,NYI,15,0,19,0,15.8,1135,66,[]
+12:32,0,10,0,1,0,NHL,31,6,0,34,13,50,0,3,0,0,0,0,0,2006-07,NYI,4,0,6,0,8.0,601,48,[]
+7:00,1,0,0,0,1,NHL,32,0,1,0,-2,0,25.0,0,3,0,0,0,0,2007-08,NYI,0,2,0,0,0,14,2,[]

@@ -1,0 +1,20 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,0,[],1,3.87,-1.04,605,NHL,0,23,0,531,6,0,0,101,74,.878,1988-89,CHI,12,3.2,1,3,4,23,1148
+0,4,"[{'link': '/awards/nhl_all_star.html#1991', 'name': None}, {'link': '/awards/calder.html#1991', 'name': None}, {'link': '/awards/voting-1991.html#hart', 'name': 'Hart-3'}, {'link': '/awards/jennings.html#1991', 'name': None}, {'link': '/awards/vezina.html#1991', 'name': None}]",3,0,0,0,NHL,0,25,0,0,34,0,0,0,170,0,1990-91,CHI,19,0,3,7,0,0,0
+0,0,"[{'link': '/awards/voting-1992.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1992.html#vezina', 'name': 'Vezina-4'}]",2,2.70,6.80,1241,NHL,0,26,0,1109,38,0,0,95,132,.894,1991-92,CHI,18,7.2,2,10,21,52,2928
+0,0,"[{'link': '/awards/nhl_all_star.html#1993', 'name': None}, {'link': '/awards/jennings.html#1993', 'name': None}, {'link': '/awards/vezina.html#1993', 'name': None}]",3,2.59,39.36,1880,NHL,0,27,0,1703,28,0,0,82,177,.906,1992-93,CHI,18,13.0,3,0,41,0,0
+0,0,"[{'link': '/awards/voting-1994.html#AS', 'name': 'AS-7'}, {'link': '/awards/voting-1994.html#vezina', 'name': 'Vezina-7'}]",4,2.67,20.52,1892,NHL,0,28,0,1714,61,0,0,90,178,.906,1993-94,CHI,24,12.0,4,6,37,70,3998
+0,0,"[{'link': '/awards/nhl_all_star.html#1995', 'name': None}, {'link': '/awards/jennings.html#1995', 'name': None}, {'link': '/awards/voting-1995.html#vezina', 'name': 'Vezina-2'}]",3,2.28,5.43,990,NHL,0,29,0,897,11,0,0,94,93,.906,1994-95,CHI,15,6.0,3,3,22,42,2450
+0,1,[],2,2.74,4.47,1373,NHL,0,30,0,1238,36,0,0,97,135,.902,1995-96,CHI,17,7.8,2,10,22,50,2956
+0,2,[],0,2.89,-5.52,1317,NHL,0,31,0,1186,34,0,0,104,131,.901,1996-97,TOT,24,6.6,0,6,14,46,2723
+0,1,[],0,2.69,2.13,946,NHL,0,31,0,858,26,0,0,98,88,.907,1996-97,CHI,15,5.4,0,6,11,33,1966
+0,1,[],0,3.41,-7.65,371,NHL,0,31,0,328,8,0,0,122,43,.884,1996-97,SJS,9,1.3,0,0,3,13,757
+0,9,"[{'link': '/awards/voting-1998.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1998.html#hart', 'name': 'Hart-15'}, {'link': '/awards/voting-1998.html#vezina', 'name': 'Vezina-4'}]",0,0,13.17,1335,NHL,0,32,0,1223,18,0,0,89,112,.916,1997-98,DAL,12,9.3,0,10,37,61,3581
+0,5,"[{'link': '/awards/voting-1999.html#AS', 'name': 'AS-5'}, {'link': '/awards/jennings.html#1999', 'name': None}, {'link': '/awards/voting-1999.html#vezina', 'name': 'Vezina-7'}]",0,1.99,9.60,1373,NHL,0,33,0,1256,26,0,0,92,117,.915,1998-99,DAL,15,9.1,0,9,35,61,3536
+0,4,"[{'link': '/awards/voting-2000.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-2000.html#hart', 'name': 'Hart-15'}, {'link': '/awards/voting-2000.html#vezina', 'name': 'Vezina-4'}]",3,2.10,23.20,1571,NHL,0,34,0,1444,10,0,0,0,127,0,1999-00,DAL,21,12.1,3,7,32,62,3620
+0,8,"[{'link': '/awards/voting-2001.html#AS', 'name': 'AS-8'}, {'link': '/awards/voting-2001.html#vezina', 'name': 'Vezina-11'}]",1,2.34,1.88,1508,NHL,0,35,0,1364,4,0,0,99,144,.905,2000-01,DAL,20,9.5,1,7,35,63,3687
+0,1,[],5,2.65,-18.50,1458,NHL,0,36,0,1305,12,0,0,114,153,.895,2001-02,DAL,27,6.9,5,0,21,60,3467
+0,7,"[{'link': '/awards/voting-2003.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-2003.html#hart', 'name': 'Hart-15'}, {'link': '/awards/voting-2003.html#vezina', 'name': 'Vezina-3'}]",2,2.26,24.55,1816,NHL,0,37,0,1675,24,0,0,85,141,.922,2002-03,TOR,20,13.9,2,5,37,62,3738
+0,10,"[{'link': '/awards/voting-2004.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-2004.html#hart', 'name': 'Hart-10'}, {'link': '/awards/voting-2004.html#vezina', 'name': 'Vezina-7'}]",2,2.13,10.07,1483,NHL,0,38,0,1361,16,0,0,92,122,.918,2003-04,TOR,19,10.3,2,6,34,59,3444
+0,0,[],1,3.29,-13.27,1476,NHL,0,40,0,1317,12,0,0,109,159,.892,2005-06,TOR,22,7.5,1,4,22,49,2897
+0,1,"[{'link': '/awards/voting-2007.html#AS', 'name': 'AS-11'}]",2,2.77,-5.12,1550,NHL,0,41,0,1398,10,0,0,103,152,.902,2006-07,FLA,17,8.9,2,0,27,58,3289

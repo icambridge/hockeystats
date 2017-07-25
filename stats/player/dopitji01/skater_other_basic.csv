@@ -1,0 +1,36 @@
+assists,year,games_played,points,goals,team,age,pim,plus_minus,league
+2,1989-90,5,3,1,Dukla Jihlava,21,0,0,Czech
+13,1990-91,42,24,11,DS Olomouc,22,26,0,Czech
+20,1991-92,38,44,24,DS Olomouc,23,28,0,Czech
+17,1992-93,28,29,12,HC Olomouc,24,16,0,Czech
+8,1992-93,11,15,7,EHC Eisbaren Berlin,24,49,0,Germany
+21,1993-94,42,44,23,EHC Eisbaren Berlin,25,52,0,Germany
+0,1993-94,3,1,1,Czech Republic,25,0,0,WC-A
+40,1994-95,42,68,28,EHC Eisbaren Berlin,26,55,0,Germany
+1,1994-95,8,2,1,Czech Republic,26,4,0,WC-A
+20,1995-96,38,39,19,HC Petra Vsetin,27,20,0,CzRep
+1,1995-96,6,3,2,Czech Republic,27,2,0,WC-A
+0,1996-97,2,1,1,Czech Republic,28,2,0,W-Cup
+31,1996-97,52,61,30,HC Petra Vsetin,28,55,0,CzRep
+1,1996-97,9,2,3,Czech Republic,28,4,0,WC-A
+34,1997-98,52,55,21,HC Petra Vsetin,29,64,0,CzRep
+4,1997-98,6,6,2,HC Petra Vsetin,29,4,0,EuroHL
+2,1997-98,6,3,1,Czech Republic,29,0,0,Olympics
+1,1997-98,8,4,3,Czech Republic,29,6,0,WC-A
+32,1998-99,50,51,19,HC Slovnaft Vsetin,30,43,0,CzRep
+29,1999-00,49,59,30,HC Slovnaft Viva Vsetin,31,83,0,CzRep
+2,1999-00,3,2,0,HC Slovnaft Vsetin,31,2,0,EuroHL
+7,1999-00,9,11,4,Czech Republic,31,16,8,WC-A
+31,2000-01,46,50,19,HC Slovnaft Vsetin,32,53,0,CzRep
+1,2000-01,9,3,2,Czech Republic,32,4,4,WC-A
+2,2001-02,4,4,2,Czech Republic,33,2,3,Olympics
+28,2003-04,47,48,20,HC Moeller Pardubice,35,44,0,CzRep
+2,2003-04,7,3,1,Czech Republic,35,2,3,WC-A
+1,2004-05,5,1,0,Czech Republic,36,0,1,W-Cup
+23,2004-05,44,27,4,HC Moeller Pardubice,36,12,0,CzRep
+14,2005-06,43,23,9,HC Znojemsti Orli Znojmo,37,26,0,CzRep
+14,2006-07,48,28,14,HC Znojemsti Orli Znojmo,38,62,0,CzRep
+16,2007-08,42,30,14,HC Znojemsti Orli Znojmo,39,18,0,CzRep
+25,2008-09,51,39,14,HC Znojemsti Orli Znojmo,40,20,0,CzRep
+24,2009-10,61,49,25,HC Kometa Brno,41,12,0,CzRep
+4,2010-11,26,7,3,HC Kometa Brno,42,0,0,CzRep

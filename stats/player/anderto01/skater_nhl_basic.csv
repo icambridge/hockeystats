@@ -1,0 +1,9 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,7,0,0,NHL,24,0,16,0,0,0,0,0,0,1934-35,DET,5,2,[],0,,27
+,5,0,0,NHL,25,0,20,0,0,0,0,0,0,1935-36,NYA,3,2,[],0,,24
+,25,0,0,NHL,26,0,24,0,0,0,0,0,0,1936-37,NYA,10,15,[],0,,45
+,25,0,0,NHL,27,0,22,0,0,0,0,0,0,1937-38,NYA,4,21,[],0,,45
+,40,0,0,NHL,28,0,14,0,0,0,0,0,0,1938-39,NYA,13,27,[],0,,47
+,31,0,0,NHL,29,0,22,0,0,0,0,0,0,1939-40,NYA,12,19,[],0,,48
+,15,0,0,NHL,30,0,8,0,0,0,0,0,0,1940-41,NYA,3,12,[],0,,35
+,41,0,0,NHL,31,0,54,0,0,0,0,0,0,1941-42,BRO,12,29,"[{'link': '/awards/nhl_all_star.html#1942', 'name': None}, {'link': '/awards/hart.html#1942', 'name': None}]",0,,48

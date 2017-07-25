@@ -1,0 +1,8 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,3,[],0,2.83,0,0,NHL,0,23,0,0,0,0,0,0,0,0,1927-28,CBH,0,0.5,0,2,6,40,2420
+0,5,[],0,1.85,0,0,NHL,0,24,0,0,2,0,0,0,0,0,1928-29,CBH,0,3.2,0,8,7,0,2758
+0,3,"[{'link': '/awards/voting-1930.html#hart', 'name': 'Hart-7'}]",0,2.42,0,0,NHL,0,25,0,0,0,0,0,0,111,0,1929-30,CBH,18,9.3,0,5,21,0,2750
+0,0,"[{'link': '/awards/nhl_all_star.html#1931', 'name': None}]",0,1.73,0,0,NHL,0,26,0,0,0,0,0,0,78,0,1930-31,CBH,17,10.4,0,3,24,0,2710
+0,4,"[{'link': '/awards/nhl_all_star.html#1932', 'name': None}, {'link': '/awards/vezina.html#1932', 'name': None}]",0,0,0,0,NHL,0,27,0,0,0,0,0,0,92,0,1931-32,CBH,19,0,0,0,18,0,2989
+0,5,"[{'link': '/awards/nhl_all_star.html#1933', 'name': None}]",0,2.01,0,0,NHL,0,28,0,0,0,0,0,0,101,0,1932-33,CBH,20,9.2,0,0,16,0,0
+0,0,"[{'link': '/awards/nhl_all_star.html#1934', 'name': None}, {'link': '/awards/vezina.html#1934', 'name': None}]",0,1.63,0,0,NHL,0,29,0,0,0,0,0,0,83,0,1933-34,CBH,17,0,0,0,20,0,3050

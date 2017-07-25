@@ -1,0 +1,9 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,0,[],0,5.47,0,0,NHL,0,20,0,0,2,0,0,0,28,0,1975-76,MNS,4,-0.1,0,1,0,6,307
+0,0,[],0,5.50,0,0,NHL,0,21,0,0,0,0,0,0,11,0,1976-77,MNS,2,-0.1,0,0,0,2,120
+0,1,[],0,3.82,0,0,NHL,0,22,0,0,10,0,0,0,99,0,1977-78,MNS,16,3.0,0,2,6,27,1555
+0,1,[],0,3.51,0,0,NHL,0,23,0,0,10,0,0,0,82,0,1978-79,TOR,12,3.7,0,3,8,25,1403
+0,0,[],1,4.42,0,0,NHL,0,24,0,0,4,0,0,0,110,0,1979-80,TOR,17,2.1,1,2,9,30,1492
+0,0,[],0,5.04,0,0,NHL,0,26,0,0,2,0,0,0,78,0,1981-82,TOT,8,1.3,0,1,5,19,929
+0,0,[],0,5.49,0,0,NHL,0,26,0,0,0,0,0,0,64,0,1981-82,PIT,7,0.6,0,0,3,13,700
+0,0,[],0,3.67,0,0,NHL,0,26,0,0,2,0,0,0,14,0,1981-82,BUF,1,0.7,0,1,2,6,229

@@ -1,0 +1,4 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,1,0,0,NHL,1985-86,21,0,CGY,,0,0,0,0,2,,,0.0,0
+1,7,7,0,NHL,1988-89,24,3,VAN,,4,10,2,0,10,,,30.0,2
+0,5,3,0,NHL,1995-96,31,0,TBL,,3,6,-5,0,7,,,0.0,0

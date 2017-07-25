@@ -1,0 +1,5 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,4,1,0,NHL,1933-34,25,0,MTM,,1,0,0,0,0,,,0,0
+0,0,4,0,NHL,1934-35,26,2,MTM,,2,2,0,0,0,,SC,0,0
+0,3,0,0,NHL,1935-36,27,0,MTM,,0,0,0,0,0,,,0,0
+0,5,1,0,NHL,1936-37,28,1,MTM,,0,2,0,0,0,,,0,0

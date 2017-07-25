@@ -1,0 +1,17 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,4.40,0,0,QJHL,0,15,0,0,0,0,0,0,22,0,1964-65,Sorel Eperviers,4,0,0,1,5,300
+0,0,0,7.36,0,0,QJHL,0,16,0,0,0,0,0,0,27,0,1965-66,Sorel Eperviers,3,0,0,1,4,220
+0,0,0,2.50,0,0,QJHL,0,17,0,0,0,0,0,0,5,0,1966-67,Sorel Eperviers,1,0,0,1,2,120
+0,3,0,3.85,0,0,QJHL,0,19,0,0,0,0,0,0,135,0,1968-69,Drummondville Rangers,0,0,0,0,34,2105
+0,0,0,6.00,0,0,AHL,0,20,0,0,0,0,0,0,10,0,1969-70,Quebec Aces,0,0,0,0,2,100
+0,1,0,3.00,0,0,EHL,0,20,0,0,0,0,0,0,42,0,1969-70,Charlotte Checkers,0,0,0,0,14,840
+0,2,0,3.17,0,0,AHL,0,21,0,0,0,0,0,0,110,0,1970-71,Quebec Aces,15,0,8,12,37,2083
+0,1,0,2.77,0,0,AHL,0,22,0,0,0,0,0,0,122,0,1971-72,Richmond Robins,17,0,8,20,45,2645
+0,0,0,4.38,0,0,AHL,0,23,0,0,0,0,0,0,49,0,1972-73,Richmond Robins,0,0,0,0,12,671
+0,0,0,4.18,0,0,AHL,0,24,0,0,0,0,0,0,179,0,1973-74,Richmond Robins,23,0,7,13,45,2567
+0,3,0,3.56,0,0,AHL,0,26,0,0,0,0,0,0,159,0,1975-76,Richmond Robins,24,0,2,19,45,2679
+0,1,0,4.00,0,0,CHL,0,27,0,0,0,0,0,0,131,0,1976-77,Tulsa Oilers,12,0,3,17,34,1966
+0,0,0,4.37,0,0,CHL,0,28,0,0,0,0,0,0,96,0,1977-78,Tulsa Oilers,14,0,0,8,24,1319
+0,3,0,3.83,0,0,NEHL,0,29,0,0,0,0,0,0,126,0,1978-79,2 Teams,0,0,0,0,35,1973
+0,2,0,4.08,0,0,NEHL,0,29,0,0,0,0,0,0,89,0,1978-79,Utica Mohawks,0,0,0,0,24,1308
+0,1,0,3.34,0,0,NEHL,0,29,0,0,0,0,0,0,37,0,1978-79,New Jersey-Hampton Aces,0,0,0,0,11,665

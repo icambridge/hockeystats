@@ -1,0 +1,11 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,2.00,0,0,OHA-Jr.,0,17,0,0,0,0,0,0,2,0,1962-63,St. Catharines Black Hawks,0,0,0,0,1,60
+0,3,0,3.36,0,0,OHA-Jr.,0,18,0,0,0,0,0,0,98,0,1963-64,Niagara Falls Flyers,0,0,0,0,28,1748
+0,0,0,3.59,0,0,OHA-Jr.,0,19,0,0,0,0,0,0,79,0,1964-65,Niagara Falls Flyers,0,0,0,0,22,1320
+0,0,0,3.00,0,0,CPHL,0,19,0,0,0,0,0,0,3,0,1964-65,Minneapolis Bruins,0,0,0,1,1,60
+0,0,0,3.34,0,0,CPHL,0,20,0,0,0,0,0,0,59,0,1965-66,Oklahoma City Blazers,8,0,5,4,18,1060
+0,0,0,3.00,0,0,WHL,0,20,0,0,0,0,0,0,6,0,1965-66,San Francisco Seals,1,0,0,1,2,120
+0,1,0,2.84,0,0,CPHL,0,21,0,0,0,0,0,0,88,0,1966-67,Oklahoma City Blazers,13,0,4,14,33,1860
+0,0,0,4.82,0,0,AHL,0,23,0,0,0,0,0,0,16,0,1968-69,Quebec Aces,4,0,0,0,4,199
+0,0,0,3.00,0,0,CHL,0,30,0,0,0,0,0,0,12,0,1975-76,Oklahoma City Blazers,1,0,0,3,4,240
+0,1,0,4.48,0,0,AHL,0,33,0,0,0,0,0,0,137,0,1978-79,Philadelphia Firebirds,15,0,4,12,32,1834

@@ -1,0 +1,11 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+9:10,67,9,0,0,11,NHL,20,3,22,20,0,44,44.9,6,27,0,0,0,14,2007-08,OTT,6,51,3,12,13.6,412,45,[]
+13:41,228,32,2,0,18,NHL,21,8,21,59,-10,145,44.7,10,26,7,0,7,33,2008-09,OTT,17,97,15,25,11.7,1108,81,[]
+14:19,148,26,2,0,23,NHL,22,13,17,53,6,83,34.0,7,33,2,0,4,36,2009-10,OTT,9,78,17,12,10.8,873,61,[]
+15:35,219,34,3,0,41,NHL,23,15,65,43,-19,149,47.1,9,73,5,0,5,31,2010-11,OTT,14,119,20,25,9.4,1277,82,[]
+14:39,245,47,3,0,30,NHL,24,29,62,124,2,153,41.6,14,87,1,0,3,35,2011-12,OTT,15,196,32,26,9.8,1201,82,[]
+16:31,112,19,2,0,33,NHL,25,11,3,28,6,69,33.3,5,6,1,0,2,17,2012-13,CBJ,6,99,13,8,8.7,744,45,[]
+16:04,189,39,5,0,42,NHL,26,18,6,96,5,111,46.2,15,7,3,0,3,43,2013-14,CBJ,18,210,21,22,16.2,1124,70,[]
+18:50,273,73,3,0,52,NHL,27,27,125,50,16,182,47.5,20,138,11,0,15,51,2014-15,CBJ,31,193,42,23,17.0,1488,79,"[{'link': '/awards/voting-2015.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-2015.html#AS', 'name': 'AS-6'}, {'link': '/awards/voting-2015.html#byng', 'name': 'Byng-43'}, {'link': '/awards/voting-2015.html#selke', 'name': 'Selke-38'}]"
+16:54,244,37,2,0,46,NHL,28,12,83,53,-14,149,47.2,12,93,0,0,13,27,2015-16,CBJ,12,152,25,25,8.1,1216,72,[]
+18:26,280,51,5,0,50,NHL,29,15,41,55,-4,185,46.6,15,47,11,0,10,44,2016-17,CBJ,26,157,25,35,14.1,1456,79,"[{'link': '/awards/clancy.html#2017', 'name': None}]"

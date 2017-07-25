@@ -1,0 +1,12 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,2,0,0,NHL,23,1,0,-1,2,1,0,0,0,1989-90,WIN,1,1,[],50.0,,2
+,24,1,1,NHL,24,10,24,-14,109,11,1,0,1,1990-91,WIN,13,11,[],11.9,,66
+,12,0,2,NHL,25,4,32,-15,65,4,1,0,1,1991-92,WIN,7,5,[],10.8,,52
+,27,1,1,NHL,26,15,23,-2,100,11,0,0,0,1992-93,TBL,12,15,[],12.0,,67
+,43,4,1,NHL,27,16,32,7,149,11,8,0,7,1993-94,TBL,20,23,[],13.4,,81
+,9,0,0,NHL,28,5,14,-1,76,3,1,0,0,1994-95,TOT,4,5,[],5.3,,38
+,6,0,0,NHL,28,3,6,-1,56,2,1,0,0,1994-95,TBL,3,3,[],5.4,,26
+,3,0,0,NHL,28,2,8,0,20,1,0,0,0,1994-95,NJD,1,2,[],5.0,,12
+,1,0,0,NHL,29,0,0,0,6,1,0,0,0,1995-96,TOT,1,0,[],16.7,,12
+,1,0,0,NHL,29,0,0,0,5,1,0,0,0,1995-96,NYI,1,0,[],20.0,,10
+,0,0,0,NHL,29,0,0,0,1,0,0,0,0,1995-96,CHI,0,0,[],0.0,,2

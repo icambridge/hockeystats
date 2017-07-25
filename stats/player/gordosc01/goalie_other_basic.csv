@@ -1,0 +1,20 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,2.43,0,0,ECAC,0,19,0,0,0,0,0,0,15,0,1982-83,Boston College Eagles,3,0,0,3,9,371
+0,1,0,3.75,0,0,ECAC,0,20,0,0,0,0,0,0,127,0,1983-84,Boston College Eagles,13,0,0,21,35,2034
+0,1,0,3.61,0,0,H-East,0,21,0,0,0,0,0,0,131,0,1984-85,Boston College Eagles,11,0,2,23,36,2179
+0,2,0,3.63,0,0,H-East,0,22,0,0,0,0,0,0,112,0,1985-86,Boston College Eagles,8,0,1,17,32,1852
+0,0,0,4.46,0,0,AHL,0,23,0,0,0,0,0,0,120,0,1986-87,Fredericton Express,12,0,2,9,32,1616
+0,0,0,5.31,0,0,AHL,0,24,0,0,0,0,0,0,145,0,1987-88,Baltimore Skipjacks,17,0,3,7,34,1638
+0,0,0,5.17,0,0,AHL,0,25,0,0,0,0,0,0,10,0,1988-89,Halifax Citadels,2,0,0,0,2,116
+0,2,0,3.82,0,0,ECHL,0,25,0,0,0,0,0,0,117,0,1988-89,Johnstown Chiefs,9,0,3,18,31,1839
+0,0,0,3.33,0,0,AHL,0,26,0,0,0,0,0,0,158,0,1989-90,Halifax Citadels,16,0,3,28,48,2851
+0,2,0,3.70,0,0,AHL,0,27,0,0,0,0,0,0,87,0,1990-91,Halifax Citadels,10,0,2,12,24,1410
+0,0,0,7.50,0,0,WEC-A,0,27,0,0,0,0,0,0,9,0,1990-91,United States,1,0,0,0,2,72
+0,0,0,4.03,0,0,Nat-Tm,0,28,0,0,0,0,0,0,112,0,1991-92,United States,12,0,3,13,29,1666
+0,0,0,7.06,0,0,Olympics,0,28,0,0,0,0,0,0,2,0,1991-92,United States,0,0,0,0,1,17
+0,0,0,3.44,0,0,AHL,0,28,0,0,0,0,0,0,38,0,1991-92,2 Teams,4,0,1,6,11,663
+0,0,0,3.82,0,0,AHL,0,28,0,0,0,0,0,0,27,0,1991-92,Halifax Citadels,3,0,1,3,7,424
+0,0,0,2.76,0,0,AHL,0,28,0,0,0,0,0,0,11,0,1991-92,New Haven Nighthawks,1,0,0,3,4,239
+0,0,0,4.30,0,0,ECHL,0,29,0,0,0,0,0,0,99,0,1992-93,Nashville Knights,9,0,1,13,23,1380
+0,0,0,3.88,0,0,ECHL,0,30,0,0,0,0,0,0,98,0,1993-94,Knoxville Cherokees,10,0,1,15,26,1517
+0,0,0,3.35,0,0,IHL,0,30,0,0,0,0,0,0,13,0,1993-94,Atlanta Knights,1,0,3,0,5,233

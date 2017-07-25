@@ -1,0 +1,10 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+14:43,250,47,1,0,14,NHL,20,11,215,16,19,143,39.8,14,325,7,0,15,30,2008-09,STL,21,58,26,21,14.7,1119,76,"[{'link': '/awards/voting-2009.html#byng', 'name': 'Byng-55'}, {'link': '/awards/voting-2009.html#calder', 'name': 'Calder-7'}]"
+13:30,229,26,4,0,11,NHL,21,10,220,16,-5,129,43.7,7,284,6,0,3,26,2009-10,STL,13,70,13,20,10.1,959,71,[]
+17:11,314,52,1,0,33,NHL,22,20,450,26,-3,175,46.2,14,524,8,1,9,28,2010-11,STL,22,116,30,19,12.6,1392,81,[]
+17:58,374,38,3,2,36,NHL,23,15,567,30,4,188,48.5,17,601,0,0,4,39,2011-12,STL,19,97,19,24,10.1,1473,82,[]
+16:50,131,25,3,2,24,NHL,24,7,279,12,-2,74,46.3,10,324,5,0,1,10,2012-13,STL,17,53,8,9,0,808,0,[]
+16:10,245,32,2,0,30,NHL,25,16,373,38,10,144,47.6,12,410,2,0,2,42,2013-14,STL,14,88,18,12,9.7,1261,78,[]
+14:35,232,27,0,0,26,NHL,26,14,161,26,-2,145,48.9,12,168,0,0,1,36,2014-15,STL,12,93,15,13,8.3,1122,77,[]
+15:29,128,15,5,0,17,NHL,27,5,139,16,1,80,50.2,6,138,4,0,0,22,2015-16,STL,10,48,5,9,12.5,651,42,[]
+15:59,275,34,5,0,42,NHL,28,7,584,32,-7,153,50.0,19,585,4,0,4,43,2016-17,STL,23,155,11,23,15.0,1311,0,[]

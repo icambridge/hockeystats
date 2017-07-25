@@ -1,0 +1,6 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,18,1,0,NHL,29,9,12,11,90,3,4,0,2,1974-75,TOR,7,11,[],7.8,,42
+,8,0,0,NHL,30,4,6,0,46,2,0,0,2,1975-76,TOR,2,6,[],4.3,,33
+,13,0,0,NHL,31,7,12,-4,61,1,0,0,5,1976-77,TOR,1,12,[],1.6,,48
+,26,0,0,NHL,32,13,6,-7,105,4,4,0,5,1977-78,VAN,8,18,[],7.6,,32
+,31,0,1,WHA,33,0,16,-5,148,5,2,0,0,1978-79,EDO,8,23,[],5.4,,54

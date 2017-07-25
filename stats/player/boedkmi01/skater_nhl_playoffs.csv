@@ -1,0 +1,4 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,4,1,0,NHL,2010-11,21,0,PHX,36,1,2,-1,0,3,3,,0.0,0
+0,16,8,2,NHL,2011-12,22,4,PHX,271,4,0,1,0,32,53,,12.5,4
+0,4,2,0,NHL,2016-17,27,1,SJS,56,1,2,0,0,5,7,,20.0,1

@@ -1,0 +1,14 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,2,0,2.74,0,0,SMHL,0,16,0,0,0,0,0,0,96,0,2000-01,Regina Pat Canadians,13,0,0,17,36,2106
+0,4,0,2.39,0,1008,WHL,0,17,0,913,9,0,0,0,95,.906,2001-02,Regina Pats,13,0,1,27,42,2389
+0,0,0,1.00,0,0,WJ18-A,0,17,0,0,0,0,0,0,2,0,2001-02,Canada,0,0,0,2,2,120
+0,3,2,2.75,0,1798,WHL,0,18,0,1643,17,0,0,0,155,.914,2002-03,Regina Pats,25,2,13,18,57,3384
+0,1,0,0.00,0,0,WJC-A,0,19,0,0,2,0,0,0,0,0,2003-04,Canada,0,0,0,1,1,60
+0,7,0,2.42,0,1723,WHL,0,19,0,1591,0,0,0,0,132,.923,2003-04,2 Teams,25,0,5,25,55,3276
+0,2,0,2.42,0,912,WHL,0,19,0,845,0,0,0,0,67,.927,2003-04,Regina Pats,14,0,2,12,28,1664
+0,5,0,2.42,0,811,WHL,0,19,0,746,0,0,0,0,65,.920,2003-04,Brandon Wheat Kings,11,0,3,13,27,1612
+0,4,2,2.01,0,1135,AHL,0,20,0,1055,11,0,0,0,80,.930,2004-05,Houston Aeros,16,2,3,21,42,2388
+0,2,4,2.68,0,1270,AHL,0,21,0,1171,8,0,0,0,99,.922,2005-06,Houston Aeros,8,4,0,29,38,2215
+0,1,2,2.48,0,1181,AHL,0,22,0,1087,12,0,0,0,94,.920,2006-07,Houston Aeros,16,2,4,17,38,2270
+0,0,0,3.00,0,61,AHL,0,28,0,56,0,0,0,0,5,.918,2012-13,Houston Aeros,1,0,0,1,2,100
+0,0,0,0,0,0,AHL,0,30,0,0,0,0,0,0,0,0,2014-15,Iowa Wild,0,0,0,0,0,0

@@ -1,0 +1,8 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,1,0,3.52,0,0,OMJHL,0,18,0,0,0,0,0,0,74,0,1977-78,Peterborough Petes,6,0,4,11,21,1260
+0,1,0,3.39,0,0,M-Cup,0,18,0,0,0,0,0,0,17,0,1977-78,Peterborough Petes,2,0,0,3,5,301
+0,1,0,3.21,0,0,OMJHL,0,19,0,0,0,0,0,0,61,0,1978-79,Peterborough Petes,0,0,0,0,19,1140
+0,0,0,3.17,0,0,M-Cup,0,19,0,0,0,0,0,0,16,0,1978-79,Peterborough Petes,2,0,0,3,5,303
+0,0,0,4.33,0,0,CHL,0,21,0,0,0,0,0,0,13,0,1980-81,Dallas Black Hawks,0,0,0,0,4,180
+0,0,0,3.67,0,0,CHL,0,22,0,0,0,0,0,0,62,0,1981-82,Dallas Black Hawks,7,0,0,9,16,1015
+0,0,0,3.31,0,0,AHL,0,23,0,0,0,0,0,0,41,0,1982-83,Fredericton Express,6,0,0,6,12,743

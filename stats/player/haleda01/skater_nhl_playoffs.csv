@@ -1,0 +1,5 @@
+shorthanded_goals,power_play_goals,year,team,average_ice_time,age,points,shotsPercentage,assists,league,pim,game_winning_goals,goals,win,plus_minus,total_ice_time,games_played,even_strength_goals,shots
+0,0,2003-04,NJD,9,22,0,0,0,NHL,0,0,0,,1,,1,0,0
+0,0,2005-06,NJD,97,24,2,0.0,2,NHL,12,0,0,,-1,,8,0,3
+0,0,2006-07,CGY,25,25,0,0,0,NHL,6,0,0,,-1,,2,0,0
+0,0,2007-08,CGY,77,26,0,0.0,0,NHL,2,0,0,,-1,13,6,0,5

@@ -1,0 +1,19 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,2.40,0,0,OCJHL,0,15,0,0,0,0,0,0,12,0,1924-25,Ottawa Jr. Shamrocks,3,0,0,2,5,300
+0,0,0,3.45,0,0,OCHL,0,15,0,0,0,0,0,0,23,0,1924-25,Ottawa Shamrocks,3,0,0,3,6,400
+0,2,0,2.73,0,0,OCHL,0,16,0,0,0,0,0,0,41,0,1925-26,Ottawa Shamrocks,10,0,0,5,15,900
+0,0,0,1.80,0,0,OCHL,0,18,0,0,0,0,0,0,27,0,1927-28,Ottawa New Edinburghs,4,0,1,10,15,900
+0,7,0,1.13,0,0,OCHL,0,19,0,0,0,0,0,0,17,0,1928-29,Ottawa New Edinburghs,6,0,0,9,15,900
+0,0,0,3.00,0,0,OCHL,0,20,0,0,0,0,0,0,3,0,1929-30,Ottawa New Edinburghs,1,0,0,0,1,60
+0,5,0,2.58,0,0,Can-Am,0,22,0,0,0,0,0,0,108,0,1931-32,Providence Reds,11,0,6,23,40,2510
+0,1,0,2.00,0,0,Can-Am,0,23,0,0,0,0,0,0,10,0,1932-33,Providence Reds,3,0,0,2,5,300
+0,6,0,2.93,0,0,IAHL,0,29,0,0,0,0,0,0,164,0,1938-39,3 Teams,28,0,10,16,56,3360
+0,1,0,2.75,0,0,IAHL,0,29,0,0,0,0,0,0,11,0,1938-39,Syracuse Stars,1,0,0,3,4,240
+0,5,0,2.88,0,0,IAHL,0,29,0,0,0,0,0,0,144,0,1938-39,New Haven Eagles,25,0,10,13,50,3000
+0,0,0,4.50,0,0,IAHL,0,29,0,0,0,0,0,0,9,0,1938-39,Providence Reds,2,0,0,0,2,120
+0,3,0,2.94,0,0,IAHL,0,30,0,0,0,0,0,0,169,0,1939-40,Syracuse Stars,27,0,9,20,56,3450
+0,3,0,2.97,0,0,AHL,0,31,0,0,0,0,0,0,172,0,1940-41,Buffalo Bisons,27,0,9,19,55,3470
+0,7,0,2.34,0,0,AHL,0,32,0,0,0,0,0,0,73,0,1941-42,Cleveland Barons,12,0,2,16,31,1870
+0,1,0,3.19,0,0,AHL,0,33,0,0,0,0,0,0,109,0,1942-43,Cleveland Barons,15,0,5,13,33,2050
+0,0,0,12.00,0,0,QSHL,0,34,0,0,0,0,0,0,12,0,1943-44,Ottawa Commandos,1,0,0,0,1,60
+0,0,0,5.33,0,0,QSHL,0,35,0,0,0,0,0,0,16,0,1944-45,Ottawa Commandos,0,0,0,0,3,180

@@ -1,0 +1,5 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,won,assists,ties,wins,games_played,minutes
+0,0,0,3.33,0,65,NHL,0,25,0,59,0,0,0,0,6,.908,2007-08,COL,0,,0,0,0,3,108
+0,0,0,6.67,0,4,NHL,0,27,0,3,0,0,0,0,1,.750,2009-10,COL,0,,0,0,0,1,9
+1,0,0,6.67,0,31,NHL,1,30,.000,24,0,0,0,0,7,.774,2012-13,MTL,2,,0,0,0,2,63
+0,0,0,9.00,0,8,NHL,0,31,0,5,0,0,0,0,3,.625,2013-14,MTL,0,,0,0,0,1,20

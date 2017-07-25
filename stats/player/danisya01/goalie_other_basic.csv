@@ -1,0 +1,15 @@
+shots_againist,good_start_precentages,ties,saves,minutes,games_played,assists,year,goals,wins,goals_allowed_average,league,games_started,goals_allowed,goals_allowed_precentage,goals_saved_aboved_average,loses,good_starts,saves_percentage,age,pim,shutouts,points,bad_start,team
+0,0,0,0,1367,26,0,1999-00,0,15,3.12,ON-Jr.A,0,71,0,0,5,0,0,18,0,0,0,0,Cornwall Colts
+0,0,1,0,667,12,0,2000-01,0,2,3.60,ECAC,0,40,0,0,8,0,0,19,0,0,0,0,Brown University Bears
+0,0,2,0,1451,24,0,2001-02,0,11,1.86,ECAC,0,45,0,0,10,0,0,20,0,3,0,0,Brown University Bears
+0,0,5,0,2074,34,0,2002-03,0,15,2.31,ECAC,0,80,0,0,14,0,0,21,0,5,0,0,Brown University Bears
+0,0,4,0,1821,30,0,2003-04,0,15,1.81,ECAC,0,55,0,0,11,0,0,22,2,5,0,0,Brown University Bears
+45,0,0,42,120,2,0,2003-04,0,2,1.50,AHL,0,3,0,0,0,0,.933,22,0,1,0,0,Hamilton Bulldogs
+1578,0,6,1458,3075,53,0,2004-05,0,28,2.34,AHL,0,120,0,0,17,0,.924,23,2,5,0,0,Hamilton Bulldogs
+1128,0,3,1017,2242,39,0,2005-06,0,17,2.97,AHL,0,111,0,0,17,0,.902,24,4,0,0,0,Hamilton Bulldogs
+1248,0,5,1129,2540,44,0,2006-07,0,23,2.81,AHL,0,119,0,0,14,0,.905,25,2,1,0,0,Hamilton Bulldogs
+1054,0,4,941,2064,38,0,2007-08,0,11,3.28,AHL,0,113,0,0,19,0,.893,26,0,0,0,0,Hamilton Bulldogs
+301,0,0,278,611,10,0,2008-09,0,7,2.26,AHL,0,23,0,0,3,0,.924,27,0,0,0,0,Bridgeport Sound Tigers
+0,0,0,0,1652,31,1,2010-11,0,0,3.05,KHL,0,84,0,0,0,0,0,29,2,2,1,0,Amur Khabarovsk
+1165,0,2,1077,2545,43,1,2011-12,0,26,2.07,AHL,0,88,0,0,14,0,.924,30,2,5,1,0,Oklahoma City Barons
+1343,0,6,1223,2775,47,0,2012-13,0,26,2.59,AHL,0,120,0,0,15,0,.911,31,0,2,0,0,Oklahoma City Barons

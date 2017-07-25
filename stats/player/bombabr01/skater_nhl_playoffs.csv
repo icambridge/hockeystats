@@ -1,0 +1,5 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,5,0,0,NHL,1998-99,26,0,NJD,16:03,0,0,0,0,2,80,,0.0,0
+0,1,0,0,NHL,1999-00,27,0,NJD,18:55,0,0,0,0,0,19,SC,0,0
+0,4,0,0,NHL,2002-03,30,0,MIN,14:52,0,0,-1,0,1,59,,0.0,0
+0,6,1,0,NHL,2003-04,31,0,NSH,19:39,1,2,1,0,3,118,,0.0,0

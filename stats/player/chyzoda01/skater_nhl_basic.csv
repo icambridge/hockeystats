@@ -1,0 +1,7 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,14,1,0,NHL,18,4,45,-4,59,5,3,0,2,1989-90,NYI,8,6,[],13.6,,34
+,14,0,0,NHL,19,7,61,-19,66,5,0,0,2,1990-91,NYI,5,9,[],7.6,,56
+,2,0,0,NHL,20,0,17,-4,18,1,0,0,1,1991-92,NYI,1,1,[],5.6,,12
+,1,0,0,NHL,22,0,4,-1,4,1,0,0,0,1993-94,NYI,1,0,[],25.0,,3
+,0,0,0,NHL,23,0,11,-2,11,0,0,0,0,1994-95,NYI,0,0,[],0.0,,13
+,0,0,0,NHL,25,0,6,1,6,0,0,0,0,1996-97,CHI,0,0,[],0.0,,8

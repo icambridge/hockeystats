@@ -1,0 +1,13 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,2,0,2.87,0,0,MEHL,0,16,0,0,0,0,0,0,143,0,1997-98,Chicago Jets,0,0,0,0,50,2991
+0,0,0,2.86,0,0,NAHL,0,17,0,0,0,0,0,0,40,0,1998-99,Chicago Freeze,3,0,0,11,14,840
+0,1,0,3.10,0,0,OHL,0,17,0,0,0,0,0,0,52,0,1998-99,Guelph Storm,5,0,1,12,21,1006
+0,0,1,3.59,0,1205,OHL,0,18,0,1088,6,0,0,0,117,.903,1999-00,Guelph Storm,17,1,2,12,38,1955
+0,3,2,2.63,0,1913,OHL,0,19,0,1757,22,0,0,0,156,.918,2000-01,Guelph Storm,19,2,9,30,59,3555
+0,2,2,2.95,0,675,AHL,0,20,0,598,2,0,0,0,77,.886,2001-02,Norfolk Admirals,13,2,4,9,28,1568
+0,4,0,1.94,0,754,AHL,0,21,0,696,2,0,0,0,58,.923,2002-03,Norfolk Admirals,11,0,5,15,32,1795
+0,3,0,2.11,0,857,AHL,0,22,0,783,4,0,0,0,74,.914,2003-04,Norfolk Admirals,20,0,0,17,37,2108
+0,2,0,1.83,0,379,AHL,0,23,0,352,2,0,0,0,27,.929,2004-05,Norfolk Admirals,4,0,1,9,15,886
+0,1,0,2.36,0,0,WC-A,0,24,0,0,0,0,0,0,11,0,2005-06,United States,2,0,0,3,5,280
+0,1,0,2.56,0,1087,AHL,0,25,0,999,8,0,0,0,88,.919,2006-07,Rochester Americans,10,0,1,23,34,2060
+0,0,0,5.63,0,21,WC-A,0,26,0,15,0,0,0,0,6,.714,2007-08,United States,0,0,0,0,2,64

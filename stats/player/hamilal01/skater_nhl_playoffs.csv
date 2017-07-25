@@ -1,0 +1,8 @@
+shorthanded_goals,power_play_goals,year,team,average_ice_time,age,points,shotsPercentage,assists,league,pim,game_winning_goals,goals,win,plus_minus,total_ice_time,games_played,even_strength_goals,shots
+0,0,1968-69,NYR,,22,0,0,0,NHL,0,0,0,,1,,1,0,0
+0,0,1969-70,NYR,,23,0,0.0,0,NHL,2,0,0,,-1,,5,0,3
+0,0,1973-74,EDO,,27,2,0,1,WHA,15,0,1,,0,,4,0,0
+0,0,1975-76,EDO,,29,1,0,1,WHA,6,0,0,,-2,,4,0,0
+0,0,1976-77,EDO,,30,4,0,4,WHA,4,0,0,,1,,5,0,0
+0,0,1978-79,EDO,,32,9,0,5,WHA,4,0,4,,1,,13,0,0
+0,0,1979-80,EDM,,33,0,0.0,0,NHL,0,0,0,,0,,1,0,2

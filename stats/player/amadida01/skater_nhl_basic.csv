@@ -1,0 +1,4 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,0,0,0,NHL,18,0,2,0,0,0,0,0,0,1957-58,DET,0,0,[],0,,2
+,10,0,0,NHL,28,3,101,-10,92,4,0,1,2,1967-68,LAK,4,6,[],4.3,,58
+,6,1,0,NHL,29,5,60,-21,72,0,1,0,0,1968-69,LAK,1,5,[],1.4,,65

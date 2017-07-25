@@ -1,0 +1,14 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,1,0,5.12,0,0,OHA-Jr.,0,19,0,0,0,0,0,0,58,0,1943-44,Toronto Young Rangers,9,0,1,1,11,680
+0,0,0,5.50,0,0,TMHL,0,19,0,0,0,0,0,0,22,0,1943-44,Toronto CIL,4,0,0,0,4,240
+0,1,0,3.00,0,0,TNDHL,0,19,0,0,0,0,0,0,21,0,1943-44,Toronto RCAF,2,0,0,5,7,420
+0,0,0,3.00,0,0,MCHL,0,20,0,0,0,0,0,0,24,0,1944-45,Montreal RCAF,0,0,0,0,8,480
+0,3,0,3.80,0,0,QJHL,0,20,0,0,0,0,0,0,19,0,1944-45,Montreal Jr. Royals,3,0,0,2,5,300
+0,1,0,3.47,0,0,MCHL,0,21,0,0,0,0,0,0,52,0,1945-46,McGill Redmen,2,0,0,13,15,900
+0,1,0,2.81,0,0,MCHL,0,22,0,0,0,0,0,0,45,0,1946-47,McGill Redmen,5,0,1,10,16,960
+0,1,0,3.10,0,0,MCHL,0,23,0,0,0,0,0,0,62,0,1947-48,McGill Redmen,6,0,0,14,20,1200
+0,0,0,3.33,0,0,MCHL,0,24,0,0,0,0,0,0,20,0,1948-49,McGill Redmen,3,0,0,3,6,360
+0,0,0,3.41,0,0,QMHL,0,27,0,0,0,0,0,0,42,0,1951-52,Quebec Aces,4,0,2,6,12,740
+0,1,0,2.72,0,0,QMHL,0,28,0,0,0,0,0,0,59,0,1952-53,Quebec Aces,9,0,4,8,21,1300
+0,5,0,2.74,0,0,QHL,0,29,0,0,0,0,0,0,158,0,1953-54,Quebec Aces,27,0,6,24,57,3466
+0,1,0,3.56,0,0,QHL,0,30,0,0,0,0,0,0,38,0,1954-55,Quebec Aces,7,0,0,4,11,640

@@ -1,0 +1,7 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,0,0,0,NHL,23,0,0,0,0,0,0,0,0,1976-77,PHI,0,0,[],0,,1
+,25,1,0,NHL,26,18,59,23,73,4,0,0,3,1979-80,PHI,4,21,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-28'}]",5.5,,59
+,14,0,0,NHL,27,12,100,-33,84,1,0,0,1,1980-81,TOT,1,13,[],1.2,,76
+,3,0,0,NHL,27,3,18,-3,12,0,0,0,0,1980-81,PHI,0,3,[],0.0,,22
+,11,0,0,NHL,27,9,82,-30,72,1,0,0,1,1980-81,HAR,1,10,[],1.4,,54
+,5,0,0,NHL,28,4,19,-4,25,1,0,0,0,1981-82,HAR,1,4,[],4.0,,20

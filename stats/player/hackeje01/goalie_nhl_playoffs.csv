@@ -1,0 +1,5 @@
+ties,assists,points,games_started,league,pim,goals,goals_allowed_average,loses,saves,games_played,good_start_precentages,goals_allowed_precentage,won,bad_start,saves_percentage,year,team,goals_saved_aboved_average,goals_allowed,shots_againist,shutouts,age,good_starts,minutes,wins
+0,0,0,0,NHL,0,0,2.31,0,10,2,0,0,,0,.909,1994-95,CHI,0,1,11,0,26,0,26,0
+0,0,0,0,NHL,0,0,5.00,1,27,1,0,0,,0,.844,1995-96,CHI,0,5,32,0,27,0,60,0
+0,0,0,0,NHL,0,0,4.35,4,165,6,0,162,,0,.868,1996-97,CHI,-9.60,25,190,0,28,0,345,2
+0,0,0,0,NHL,0,0,1.68,2,71,3,0,0,,0,.934,2002-03,BOS,0,5,76,0,34,0,179,1

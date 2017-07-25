@@ -1,0 +1,6 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+3:20,0,0,0,0,0,NHL,23,0,2,0,0,0,100.0,0,0,0,0,0,0,2007-08,TOR,0,1,0,1,0,3,1,[]
+11:23,65,13,1,0,19,NHL,26,8,212,33,8,27,46.4,5,245,0,0,0,13,2010-11,TOR,5,68,8,19,18.5,524,46,[]
+9:59,55,5,1,0,14,NHL,27,4,84,35,-8,25,51.5,1,79,0,0,0,6,2011-12,TOT,1,46,4,8,4.0,369,37,[]
+10:04,32,2,1,0,4,NHL,27,1,8,16,-3,12,53.3,1,7,0,0,0,4,2011-12,TOR,1,26,1,6,8.3,171,17,[]
+9:55,23,3,0,0,10,NHL,27,3,76,19,-5,13,51.4,0,72,0,0,0,2,2011-12,CBJ,0,20,3,2,0.0,198,20,[]

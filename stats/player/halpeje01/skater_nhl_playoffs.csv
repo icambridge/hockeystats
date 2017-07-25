@@ -1,0 +1,9 @@
+shorthanded_goals,power_play_goals,year,team,average_ice_time,age,points,shotsPercentage,assists,league,pim,game_winning_goals,goals,win,plus_minus,total_ice_time,games_played,even_strength_goals,shots
+0,1,1999-00,WSH,76,23,3,18.2,1,NHL,0,1,2,,-1,,5,1,11
+0,1,2000-01,WSH,120,24,5,22.2,3,NHL,17,1,2,,0,,6,1,9
+0,0,2002-03,WSH,120,26,1,0.0,1,NHL,2,0,0,,-2,,6,0,9
+0,0,2006-07,DAL,133,30,3,22.2,1,NHL,4,1,2,,-1,,7,2,9
+0,0,2009-10,LAK,61,33,0,0.0,0,NHL,4,0,0,,-1,7,6,0,1
+0,0,2010-11,MTL,71,34,1,11.1,0,NHL,0,0,1,,-1,13,4,1,9
+0,0,2011-12,WSH,16,35,0,0.0,0,NHL,4,0,0,,-1,2,2,0,1
+0,0,2012-13,MTL,43,36,1,0.0,1,NHL,0,0,0,,1,14,3,0,8

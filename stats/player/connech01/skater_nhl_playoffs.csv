@@ -1,0 +1,4 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,1,0,0,NHL,2007-08,24,0,DAL,4,0,0,-1,0,0,0,,0,0
+0,1,0,0,NHL,2009-10,26,0,PIT,11,0,0,0,0,0,0,,0,0
+0,7,1,0,NHL,2010-11,27,1,PIT,87,0,0,1,0,9,17,,11.1,1

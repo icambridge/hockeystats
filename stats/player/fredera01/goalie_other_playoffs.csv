@@ -1,0 +1,16 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,11.50,0,0,Al-Cup,0,14,0,0,0,0,0,0,23,0,1943-44,Fort Frances Maple Leafs,2,0,0,0,2,120
+0,0,0,4.50,0,0,Al-Cup,0,17,0,0,0,0,0,0,18,0,1946-47,Fort Frances Canadians,3,0,0,1,4,240
+0,0,0,5.61,0,0,MJHL,0,18,0,0,0,0,0,0,29,0,1947-48,Brandon Wheat Kings,3,0,1,1,5,310
+0,1,0,3.14,0,0,MJHL,0,19,0,0,0,0,0,0,23,0,1948-49,Brandon Wheat Kings,2,0,1,4,7,440
+0,1,0,2.70,0,0,M-Cup,0,19,0,0,0,0,0,0,49,0,1948-49,Brandon Wheat Kings,6,0,1,11,18,1090
+0,0,0,3.83,0,0,WCSHL,0,20,0,0,0,0,0,0,23,0,1949-50,Edmonton Flyers,4,0,0,2,6,360
+0,1,0,3.38,0,0,WCSHL,0,21,0,0,0,0,0,0,27,0,1950-51,Edmonton Flyers,0,0,0,0,8,480
+0,0,0,3.41,0,0,MMHL,0,22,0,0,0,0,0,0,15,0,1951-52,Charlottetown Islanders,4,0,0,0,4,264
+0,1,0,2.73,0,0,QMHL,0,23,0,0,0,0,0,0,33,0,1952-53,Ottawa Senators,6,0,0,5,11,726
+0,0,0,2.11,0,0,QHL,0,24,0,0,0,0,0,0,48,0,1953-54,Ottawa Senators,10,0,0,12,22,1364
+0,1,0,3.00,0,0,AHL,0,25,0,0,0,0,0,0,32,0,1954-55,Buffalo Bisons,5,0,0,5,10,639
+0,0,0,4.16,0,0,WHL,0,26,0,0,0,0,0,0,35,0,1955-56,Calgary Stampeders,4,0,0,4,8,505
+0,1,0,2.58,0,0,QHL,0,27,0,0,0,0,0,0,26,0,1956-57,Chicoutimi Sagueneens,4,0,0,6,10,605
+0,1,0,3.29,0,0,EOHL,0,28,0,0,0,0,0,0,23,0,1957-58,Cornwall Chevies,0,0,0,0,7,420
+0,0,0,3.80,0,0,NOHA,0,29,0,0,0,0,0,0,19,0,1958-59,Sudbury Wolves,0,0,0,0,5,300

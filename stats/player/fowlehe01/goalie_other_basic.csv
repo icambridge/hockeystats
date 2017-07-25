@@ -1,0 +1,12 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,2.00,0,0,SCSHL,0,17,0,0,0,0,0,0,2,0,1909-10,Saskatoon Bankers,0,0,0,1,1,60
+0,0,0,6.20,0,0,PCHA,0,24,0,0,0,0,0,0,143,0,1916-17,Spokane Canaries,15,0,0,8,23,1383
+0,1,0,3.34,0,0,PCHA,0,25,0,0,0,0,0,0,65,0,1917-18,Seattle Metropolitans,7,0,0,11,18,1168
+0,1,0,3.21,0,0,PCHA,0,27,0,0,0,0,0,0,71,0,1919-20,Victoria Aristocrats,12,0,0,10,22,1327
+0,3,0,3.43,0,0,PCHA,0,28,0,0,0,0,0,0,88,0,1920-21,Victoria Aristocrats,13,0,1,10,24,1541
+0,1,0,2.86,0,0,PCHA,0,29,0,0,0,0,0,0,70,0,1921-22,Victoria Aristocrats,12,0,1,11,24,1468
+0,4,0,2.76,0,0,PCHA,0,30,0,0,0,0,0,0,85,0,1922-23,Victoria Cougars,14,0,0,16,30,1846
+0,0,0,3.35,0,0,PCHA,0,31,0,0,0,0,0,0,103,0,1923-24,Victoria Cougars,18,0,1,11,30,1843
+0,1,0,3.62,0,0,WCHL,0,32,0,0,0,0,0,0,29,0,1924-25,Edmonton Eskimos,3,0,0,5,8,480
+0,0,0,4.06,0,0,PrHL,0,34,0,0,0,0,0,0,127,0,1926-27,Edmonton Eskimos,18,0,2,12,32,1879
+0,0,0,1.71,0,0,Cal-Pro,0,37,0,0,0,0,0,0,72,0,1929-30,Oakland Sheiks,12,0,6,24,42,2520

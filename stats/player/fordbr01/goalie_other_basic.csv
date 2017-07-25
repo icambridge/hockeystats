@@ -1,0 +1,20 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,3.00,0,0,AJHL,0,16,0,0,0,0,0,0,3,0,1977-78,St. Albert Saints,0,0,0,1,1,60
+0,0,0,3.80,0,0,AJHL,0,17,0,0,0,0,0,0,114,0,1978-79,St. Albert Saints,8,0,1,19,30,1798
+0,0,0,3.88,0,0,AJHL,0,18,0,0,0,0,0,0,149,0,1979-80,St. Albert Saints,15,0,2,22,39,2303
+0,0,0,5.03,0,0,WHL,0,19,0,0,0,0,0,0,204,0,1980-81,Billings Bighorns,26,0,0,14,44,2435
+0,0,0,5.50,0,0,WHL,0,20,0,0,0,0,0,0,256,0,1981-82,Billings Bighorns,26,0,1,19,53,2791
+0,0,0,3.49,0,0,AHL,0,21,0,0,0,0,0,0,84,0,1982-83,Fredericton Express,7,0,2,14,27,1443
+0,0,0,2.07,0,0,ACHL,0,21,0,0,0,0,0,0,7,0,1982-83,Carolina Thunderbirds,0,0,0,0,4,203
+0,2,0,2.95,0,0,AHL,0,22,0,0,0,0,0,0,105,0,1983-84,Fredericton Express,17,0,1,17,36,2132
+0,1,0,2.68,0,0,IHL,0,23,0,0,0,0,0,0,59,0,1984-85,Muskegon Mohawks,5,0,0,17,22,1321
+0,0,0,3.47,0,0,AHL,0,23,0,0,0,0,0,0,21,0,1984-85,Baltimore Skipjacks,3,0,0,3,6,363
+0,1,0,3.66,0,0,AHL,0,24,0,0,0,0,0,0,136,0,1985-86,Baltimore Skipjacks,20,0,4,12,39,2230
+0,0,0,3.86,0,0,IHL,0,24,0,0,0,0,0,0,33,0,1985-86,Muskegon Lumberjacks,4,0,0,4,9,513
+0,0,0,3.85,0,0,AHL,0,25,0,0,0,0,0,0,99,0,1986-87,Baltimore Skipjacks,11,0,0,10,32,1541
+0,0,0,3.73,0,0,AHL,0,26,0,0,0,0,0,0,118,0,1987-88,Springfield Indians,15,0,4,12,35,1898
+0,0,0,4.35,0,0,NBSHL,0,27,0,0,0,0,0,0,100,0,1988-89,Fredericton Capitals,0,0,0,0,30,1378
+0,2,0,3.35,0,0,AHL,0,27,0,0,0,0,0,0,60,0,1988-89,Rochester Americans,4,0,1,12,19,1075
+0,0,0,3.85,0,0,AHL,0,28,0,0,0,0,0,0,69,0,1989-90,Rochester Americans,6,0,4,7,19,1076
+0,1,0,4.59,0,0,NBSHL,0,29,0,0,0,0,0,0,101,0,1990-91,Saint John Vitos,0,0,0,0,22,1320
+0,0,0,5.00,0,0,AHL,0,29,0,0,0,0,0,0,5,0,1990-91,Moncton Hawks,1,0,0,0,1,60

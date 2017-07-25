@@ -1,0 +1,19 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,4.88,0,0,MTJHL,0,17,0,0,0,0,0,0,52,0,1962-63,Brampton 7-Ups,0,0,0,0,11,640
+0,0,0,6.42,0,0,NSSHL,0,17,0,0,0,0,0,0,77,0,1962-63,Windsor Maple Leafs,0,0,0,0,12,720
+0,0,0,3.45,0,0,Nfld-Sr.,0,18,0,0,0,0,0,0,69,0,1963-64,Buchans Miners,5,0,0,15,20,1200
+0,0,0,3.82,0,0,NSSHL,0,19,0,0,0,0,0,0,172,0,1964-65,New Glasgow Rangers,0,0,0,0,45,2700
+0,0,0,3.88,0,0,Nfld-Sr.,0,21,0,0,0,0,0,0,152,0,1966-67,Gander Flyers,12,0,1,26,40,2350
+0,0,0,6.00,0,0,AHL,0,22,0,0,0,0,0,0,12,0,1967-68,Cleveland Barons,0,0,0,0,2,120
+0,0,0,4.00,0,0,IHL,0,22,0,0,0,0,0,0,4,0,1967-68,Toledo Blades,0,0,0,1,1,60
+0,13,0,2.35,0,0,EHL,0,23,0,0,0,0,0,0,169,0,1968-69,Clinton Comets,18,0,10,44,72,4320
+0,0,0,3.12,0,0,AHL,0,24,0,0,0,0,0,0,8,0,1969-70,Montreal Voyageurs,0,0,0,0,5,154
+0,3,0,2.20,0,0,EHL,0,24,0,0,0,0,0,0,11,0,1969-70,Clinton Comets,0,0,0,0,5,300
+0,0,0,7.50,0,0,AHL,0,25,0,0,0,0,0,0,5,0,1970-71,Montreal Voyageurs,1,0,0,0,1,40
+0,6,0,2.43,0,0,IHL,0,25,0,0,0,0,0,0,120,0,1970-71,Muskegon Mohawks,15,0,4,30,50,2958
+0,0,0,3.80,0,0,AHL,0,26,0,0,0,0,0,0,15,0,1971-72,Baltimore Clippers,2,0,1,1,6,237
+0,0,0,2.90,0,0,WHL,0,26,0,0,0,0,0,0,26,0,1971-72,Salt Lake Golden Eagles,3,0,2,4,9,538
+0,1,0,3.58,0,0,WHL,0,27,0,0,0,0,0,0,120,0,1972-73,Salt Lake Golden Eagles,14,0,4,17,35,2009
+0,1,0,2.98,0,0,AHL,0,28,0,0,0,0,0,0,101,0,1973-74,New Haven Nighthawks,11,0,6,17,37,2034
+0,0,0,5.11,0,0,AHL,0,29,0,0,0,0,0,0,133,0,1974-75,Syracuse Eagles,20,0,1,5,32,1561
+0,0,0,4.72,0,0,SHL,0,29,0,0,0,0,0,0,17,0,1974-75,Greensboro Generals,0,0,0,0,4,216

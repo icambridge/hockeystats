@@ -1,0 +1,16 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,4.90,0,0,AJHL,0,16,0,0,0,0,0,0,90,0,1983-84,Hobbema Hawks,19,0,1,6,22,1102
+0,3,0,2.86,0,0,WHL,0,17,0,0,0,0,0,0,100,0,1984-85,Medicine Hat Tigers,6,0,2,27,37,2095
+0,0,0,3.76,0,0,WHL,0,18,0,0,0,0,0,0,142,0,1985-86,Medicine Hat Tigers,11,0,0,28,45,2264
+0,0,0,4.48,0,0,WHL,0,19,0,0,0,0,0,0,209,0,1986-87,2 Teams,20,0,1,24,49,2801
+0,0,0,4.27,0,0,WHL,0,19,0,0,0,0,0,0,46,0,1986-87,Medicine Hat Tigers,3,0,0,7,11,646
+0,0,0,4.54,0,0,WHL,0,19,0,0,0,0,0,0,163,0,1986-87,Spokane Chiefs,17,0,1,17,38,2155
+0,0,0,3.69,0,0,WHL,0,20,0,0,0,0,0,0,235,0,1987-88,Spokane Chiefs,26,0,1,36,67,3824
+0,0,0,3.77,0,0,IHL,0,21,0,0,0,0,0,0,138,0,1988-89,Milwaukee Admirals,9,0,0,23,42,2198
+0,2,0,3.45,0,0,IHL,0,22,0,0,0,0,0,0,160,0,1989-90,Milwaukee Admirals,21,0,4,22,56,2779
+0,0,0,3.57,0,0,IHL,0,24,0,0,0,0,0,0,31,0,1991-92,Milwaukee Admirals,4,0,2,2,9,521
+0,0,0,4.84,0,0,AHL,0,25,0,0,0,0,0,0,62,0,1992-93,Hamilton Canucks,10,0,2,1,14,769
+0,0,0,4.56,0,0,IHL,0,25,0,0,0,0,0,0,134,0,1992-93,Cincinnati Cyclones,18,0,2,11,33,1762
+0,2,0,3.36,0,0,IHL,0,26,0,0,0,0,0,0,146,0,1993-94,Kalamazoo Wings,13,0,5,25,48,2607
+0,1,0,3.27,0,1318,IHL,0,27,0,1186,0,0,0,0,132,.900,1994-95,Houston Aeros,17,0,5,18,43,2421
+0,0,0,3.84,0,1501,IHL,0,28,0,1327,0,0,0,0,174,.884,1995-96,Houston Aeros,25,0,5,16,52,2722

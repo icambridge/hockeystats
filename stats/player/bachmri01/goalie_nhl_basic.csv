@@ -1,0 +1,8 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,0,[],0,0.00,0,4,NHL,0,23,0,4,0,0,0,0,0,1.000,2010-11,DAL,0,0.1,0,0,0,1,10
+2,1,[],1,2.77,-1.76,477,NHL,9,24,.600,434,0,0,15,104,43,.910,2011-12,DAL,5,2.7,1,1,8,18,933
+3,0,[],0,3.25,-7.63,288,NHL,4,25,.500,255,0,0,8,130,33,.885,2012-13,DAL,5,0.9,0,0,6,13,609
+2,0,[],0,3.02,0,83,NHL,1,26,.333,76,0,0,3,0,7,.916,2013-14,EDM,2,0.5,0,1,0,3,139
+1,1,[],0,2.84,0,168,NHL,3,27,.750,153,0,0,4,0,15,.911,2014-15,EDM,2,0.9,0,0,3,6,317
+0,0,[],0,3.00,0,31,NHL,0,28,.000,28,0,0,1,0,3,.903,2015-16,VAN,0,0.1,0,0,1,1,60
+0,0,[],0,2.64,0,162,NHL,2,29,.400,149,0,0,5,0,13,.920,2016-17,VAN,3,1.1,0,0,2,5,295

@@ -1,0 +1,16 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,0,0,0,NHL,21,0,0,0,0,0,0,0,0,1972-73,DET,0,0,[],0,,3
+,7,0,0,NHL,22,5,4,1,10,1,1,0,0,1973-74,DET,2,5,[],20.0,,12
+,68,0,0,WHA,23,0,29,49,155,27,4,0,0,1974-75,PHR,31,37,[],20.0,,53
+,113,4,0,WHA,24,0,109,36,232,31,10,0,0,1975-76,PHR,41,72,"[{'link': '/awards/wha_all_star.html#1976', 'name': 'ASW-2'}]",17.7,,80
+,117,5,0,WHA,25,0,86,26,284,35,11,0,0,1976-77,PHR,46,71,"[{'link': '/awards/wha_all_star.html#1977', 'name': None}, {'link': '/awards/howe.html#1977', 'name': None}]",16.2,,80
+,109,0,2,WHA,26,0,54,31,262,37,20,0,0,1977-78,CNS,59,50,"[{'link': '/awards/wha_all_star.html#1978', 'name': 'ASW-2'}]",22.5,,80
+,116,0,3,WHA,27,0,87,11,260,22,14,0,0,1978-79,CNS,39,0,"[{'link': '/awards/wha_all_star.html#1979', 'name': None}]",15.0,,0
+,51,3,0,NHL,28,25,28,6,112,11,7,1,7,1979-80,QUE,18,33,[],16.1,,52
+,73,3,0,NHL,29,33,104,-19,148,16,8,1,15,1980-81,QUE,24,49,"[{'link': '/awards/voting-1981.html#selke', 'name': 'Selke-6'}]",16.2,,78
+,41,2,0,NHL,30,26,28,6,69,7,2,2,4,1981-82,TOT,9,32,[],13.0,,49
+,9,0,0,NHL,30,4,4,-2,20,1,0,2,2,1981-82,QUE,1,8,[],5.0,,19
+,32,2,0,NHL,30,22,24,8,49,6,2,0,2,1981-82,NYR,8,24,[],16.3,,30
+,31,0,0,NHL,31,17,41,11,56,11,1,1,1,1982-83,NYR,12,19,[],21.4,,61
+,5,1,0,NHL,32,2,22,2,7,3,0,0,0,1983-84,NYR,3,2,[],42.9,,31
+,19,1,1,NHL,33,10,35,-7,61,8,0,0,0,1984-85,NYR,9,10,[],14.8,,48

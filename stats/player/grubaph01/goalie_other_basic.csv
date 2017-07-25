@@ -1,0 +1,21 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,8.31,0,0,Ger-Jr.,0,15,0,0,0,0,0,0,49,0,2006-07,Starbulls Rosenheim Jr.,0,0,0,0,6,354
+0,0,0,3.31,0,0,Ger-Jr.,0,16,0,0,0,0,0,0,71,0,2007-08,Starbulls Rosenheim Jr.,0,0,0,0,23,1288
+0,1,0,2.74,0,0,German-3,0,16,0,0,0,0,0,0,14,0,2007-08,Starbulls Rosenheim,0,0,0,0,5,307
+0,1,0,3.93,0,555,OHL,0,17,0,493,0,0,0,0,62,.888,2008-09,Belleville Bulls,8,0,0,7,17,947
+0,2,0,0.64,0,0,WJC-B,0,18,0,0,0,0,0,0,3,0,2009-10,Germany,0,0,0,5,5,280
+0,7,3,2.86,0,426,OHL,0,18,0,296,0,0,0,0,130,.695,2009-10,2 Teams,15,3,7,23,50,2728
+0,5,2,3.15,0,0,OHL,0,18,0,0,0,0,0,0,90,0,2009-10,Belleville Bulls,14,2,5,10,31,1717
+0,2,1,2.37,0,426,OHL,0,18,0,386,0,0,0,0,40,.906,2009-10,Windsor Spitfires,1,1,2,13,19,1011
+0,2,1,3.62,0,1394,OHL,0,19,0,1259,2,0,0,0,135,.903,2010-11,Kingston Frontenacs,13,1,3,22,38,2239
+0,0,0,4.43,0,0,WJC-A,0,19,0,0,0,0,0,0,13,0,2010-11,Germany,4,0,0,0,4,176
+0,1,1,2.22,0,1151,ECHL,0,20,0,1057,0,0,0,0,94,.918,2011-12,South Carolina Stingrays,13,1,5,23,43,2536
+0,0,1,2.30,0,667,ECHL,0,21,0,608,2,0,0,0,59,.912,2012-13,Reading Royals,5,1,1,19,26,1542
+0,2,0,2.25,0,756,AHL,0,21,0,695,0,0,0,0,61,.919,2012-13,Hershey Bears,9,0,2,15,28,1624
+0,0,0,0,0,0,AHL,0,22,0,0,0,0,0,0,0,0,2013-14,Hershey Bears,0,0,0,0,0,0
+0,0,0,0,0,0,Internationa,0,22,0,0,0,0,0,0,0,0,2013-14,Germany (all),0,0,0,0,0,0
+0,0,0,0,0,0,WC,0,22,0,0,0,0,0,0,0,0,2013-14,Germany,0,0,0,0,0,0
+0,0,0,0,0,0,AHL,0,23,0,0,0,0,0,0,0,0,2014-15,Hershey Bears,0,0,0,0,0,0
+0,0,0,0,0,0,OGQ,0,25,0,0,0,0,0,0,0,0,2016-17,Germany,0,0,0,0,0,0
+0,0,0,0,0,0,WCup,0,25,0,0,0,0,0,0,0,0,2016-17,Team Europe,0,0,0,0,0,0
+0,0,0,0,0,0,Internationa,0,25,0,0,0,0,0,0,0,0,2016-17,Germany (all),0,0,0,0,0,0

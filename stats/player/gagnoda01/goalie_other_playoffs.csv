@@ -1,0 +1,9 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,2.33,0,0,ECHL,0,23,0,0,0,0,0,0,27,0,1990-91,Hampton Roads Admirals,1,0,0,10,11,696
+0,0,0,0.00,0,0,IHL,0,25,0,0,0,0,0,0,0,0,1992-93,Fort Wayne Komets,0,0,0,0,1,6
+0,0,0,2.71,0,0,ECHL,0,26,0,0,0,0,0,0,41,0,1993-94,Toledo Storm,2,0,0,12,14,909
+0,0,0,9.00,0,0,IHL,0,27,0,0,0,0,0,0,9,0,1994-95,Minnesota Moose,1,0,0,0,1,60
+0,0,0,2.74,0,0,ECHL,0,29,0,0,0,0,0,0,10,0,1996-97,Roanoke Express,2,0,0,1,3,219
+0,1,0,2.04,0,0,ECHL,0,30,0,0,0,0,0,0,15,0,1997-98,Roanoke Express,4,0,0,3,7,441
+0,0,0,2.59,0,78,ECHL,0,31,0,72,2,0,0,0,6,.923,1998-99,Roanoke Express,2,0,0,0,3,139
+0,0,0,3.50,0,68,ECHL,0,32,0,61,2,0,0,0,7,.897,1999-00,Roanoke Express,1,0,0,1,2,120

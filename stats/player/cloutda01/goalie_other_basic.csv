@@ -1,0 +1,16 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,5.83,0,0,ON-Jr.B,0,15,0,0,0,0,0,0,80,0,1991-92,St. Thomas Stars,0,0,0,0,14,823
+0,0,0,2.35,0,0,NOJHA,0,16,0,0,0,0,0,0,10,0,1992-93,Timmins Golden Bears,0,0,0,4,5,255
+0,0,0,4.62,0,0,OHL,0,16,0,0,0,0,0,0,44,0,1992-93,Sault Ste. Marie Greyhounds,6,0,0,4,12,572
+0,2,0,3.56,0,0,OHL,0,17,0,0,0,0,0,0,174,0,1993-94,Sault Ste. Marie Greyhounds,14,0,6,28,55,2934
+0,1,0,4.41,0,0,OHL,0,18,0,-185,0,0,0,0,185,0,1994-95,Sault Ste. Marie Greyhounds,26,0,2,15,45,2518
+0,0,0,2.67,0,0,WJC-A,0,18,0,0,0,0,0,0,8,0,1994-95,Canada,0,0,0,3,3,180
+0,2,0,2.84,0,0,OHL,0,19,0,0,0,0,0,0,78,0,1995-96,2 Teams,5,0,2,21,30,1645
+0,0,0,4.02,0,0,OHL,0,19,0,0,0,0,0,0,43,0,1995-96,Sault Ste. Marie Greyhounds,3,0,0,9,13,641
+0,2,0,2.09,0,0,OHL,0,19,0,0,0,0,0,0,35,0,1995-96,Guelph Storm,2,0,2,12,17,1004
+0,3,0,3.55,0,1851,AHL,0,20,0,1652,0,0,0,0,199,.892,1996-97,Binghamton Rangers,28,0,8,23,60,3367
+0,0,0,2.63,0,744,AHL,0,21,0,682,0,0,0,0,62,.917,1997-98,Hartford Wolf Pack,8,0,3,12,24,1417
+0,0,0,3.05,0,31,IHL,0,24,0,28,0,0,0,0,3,.903,2000-01,Detroit Vipers,1,0,0,0,1,59
+0,1,0,1.94,0,0,Austria,0,28,0,0,6,0,0,0,25,0,2004-05,Klagenfurter AC,0,0,5,7,13,772
+0,0,0,3.50,0,320,AHL,0,31,0,278,15,0,0,0,42,.869,2007-08,Manchester Monarchs,9,0,0,4,14,719
+0,0,0,2.47,0,56,AHL,0,33,0,50,10,0,0,0,6,.893,2009-10,Rockford IceHogs,1,0,0,1,3,146

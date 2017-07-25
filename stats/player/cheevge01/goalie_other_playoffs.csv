@@ -1,0 +1,10 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,3.30,0,0,OHA-Jr.,0,19,0,0,0,0,0,0,33,0,1959-60,St. Michael\'s Majors,0,0,0,0,10,600
+0,1,0,2.60,0,0,OHA-Jr.,0,20,0,0,0,0,0,0,52,0,1960-61,St. Michael\'s Majors,0,0,0,0,20,1200
+0,1,0,2.33,0,0,M-Cup,0,20,0,0,0,0,0,0,21,0,1960-61,St. Michael\'s Majors,2,0,0,7,9,540
+0,0,0,4.00,0,0,AHL,0,21,0,0,0,0,0,0,8,0,1961-62,Rochester Americans,0,0,0,2,2,120
+0,1,0,3.59,0,0,EPHL,0,22,0,0,0,0,0,0,29,0,1962-63,Sudbury Wolves,4,0,0,4,8,485
+0,0,0,4.00,0,0,AHL,0,23,0,0,0,0,0,0,8,0,1963-64,Rochester Americans,2,0,0,0,2,120
+0,0,0,2.34,0,0,AHL,0,24,0,0,0,0,0,0,24,0,1964-65,Rochester Americans,2,0,0,8,10,615
+0,0,0,2.11,0,0,CPHL,0,25,0,0,0,0,0,0,19,0,1965-66,Oklahoma City Blazers,1,0,0,8,9,540
+0,1,0,2.57,0,0,CPHL,0,26,0,0,0,0,0,0,29,0,1966-67,Oklahoma City Blazers,3,0,0,8,11,677

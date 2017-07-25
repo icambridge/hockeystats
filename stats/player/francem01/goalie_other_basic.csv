@@ -1,0 +1,23 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,8.50,0,0,N-SJHL,0,15,0,0,0,0,0,0,34,0,1941-42,North Battleford Beavers,4,0,0,0,4,240
+0,0,0,7.37,0,0,N-SJHL,0,16,0,0,0,0,0,0,59,0,1942-43,North Battleford Beavers,0,0,0,0,8,480
+0,0,0,5.57,0,0,EAHL,0,17,0,0,0,0,0,0,78,0,1943-44,Philadelphia Falcons,0,0,0,0,14,840
+0,0,0,6.75,0,0,EAHL,0,18,0,0,0,0,0,0,243,0,1944-45,Washington Lions,0,0,0,0,36,2160
+0,0,0,3.06,0,0,S-SJHL,0,19,0,0,0,0,0,0,55,0,1945-46,Moose Jaw Canucks,0,0,0,18,18,1080
+0,0,0,5.00,0,0,WCSHL,0,19,0,0,0,0,0,0,5,0,1945-46,Regina Capitals,0,0,0,0,1,60
+0,0,0,4.62,0,0,WCSHL,0,20,0,0,0,0,0,0,148,0,1946-47,Regina Capitals,0,0,0,0,32,1920
+0,1,0,3.43,0,0,USHL,0,21,0,0,0,0,0,0,24,0,1947-48,Kansas City Pla-Mors,2,0,2,3,7,420
+0,4,0,4.14,0,0,AHL,0,22,0,0,0,0,0,0,203,0,1948-49,New Haven Ramblers,27,0,7,15,49,2940
+0,1,0,3.62,0,0,AHL,0,23,0,0,0,0,0,0,246,0,1949-50,New Haven Ramblers,36,0,10,22,68,4080
+0,2,0,3.05,0,0,AHL,0,24,0,0,0,0,0,0,167,0,1950-51,Cincinnati Mohawks,26,0,7,20,53,3280
+0,4,0,3.08,0,0,AHL,0,25,0,0,0,0,0,0,162,0,1951-52,Cincinnati Mohawks,22,0,5,24,51,3160
+0,5,0,3.09,0,0,WHL,0,26,0,0,0,0,0,0,216,0,1952-53,Vancouver Canucks,28,0,10,32,70,4200
+0,5,0,3.14,0,0,AHL,0,27,0,0,0,0,0,0,204,0,1953-54,Cleveland Barons,28,0,0,37,65,3900
+0,2,0,3.58,0,0,AHL,0,28,0,0,0,0,0,0,204,0,1954-55,Cleveland Barons,26,0,3,28,57,3420
+0,5,0,3.43,0,0,WHL,0,29,0,0,0,0,0,0,239,0,1955-56,Saskatoon Quakers,33,0,8,27,68,4185
+0,4,0,3.08,0,0,WHL,0,30,0,0,0,0,0,0,214,0,1956-57,Seattle Americans,27,0,6,35,68,4167
+0,2,0,4.37,0,0,WHL,0,31,0,0,0,0,0,0,294,0,1957-58,Victoria Cougars,47,0,2,18,67,4040
+0,1,0,3.89,0,0,WHL,0,32,0,0,0,0,0,0,269,0,1958-59,Spokane Spokes,37,0,6,25,68,4150
+0,0,0,4.38,0,0,WHL,0,33,0,0,0,0,0,0,302,0,1959-60,2 Teams,46,0,3,20,69,4140
+0,0,0,4.41,0,0,WHL,0,33,0,0,0,0,0,0,300,0,1959-60,Spokane Spokes,46,0,3,19,68,4080
+0,0,0,2.00,0,0,WHL,0,33,0,0,0,0,0,0,2,0,1959-60,Seattle Totems,0,0,0,1,1,60

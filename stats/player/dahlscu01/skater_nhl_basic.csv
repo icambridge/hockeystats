@@ -1,0 +1,9 @@
+game_winning_goals,plus_minus,shots,shorthanded_assists,games_played,assists,year,even_strength_assists,shorthanded_goals,goals,power_play_goals,average_ice_time,league,shotsPercentage,power_play_assists,age,pim,awards,points,even_strength_goals,total_ice_time,team
+0,0,0,0,48,9,1937-38,0,0,10,0,,NHL,0,0,25,11,"[{'link': '/awards/calder.html#1938', 'name': None}]",19,0,,CBH
+0,0,0,0,0,14,1938-39,0,0,6,0,,NHL,0,0,26,2,[],20,0,,CBH
+0,0,0,0,45,19,1939-40,0,0,11,0,,NHL,0,0,27,15,[],30,0,,CBH
+0,0,0,0,40,14,1940-41,0,0,11,0,,NHL,0,0,28,6,[],25,0,,CBH
+0,0,0,0,33,14,1941-42,0,0,13,0,,NHL,0,0,29,6,[],27,0,,CBH
+0,0,0,0,38,13,1942-43,0,0,11,0,,NHL,0,0,30,10,[],24,0,,CBH
+0,0,0,0,50,22,1943-44,0,0,20,0,,NHL,0,0,31,8,[],42,0,,CBH
+0,0,0,0,40,13,1944-45,0,0,6,0,,NHL,0,0,32,0,[],19,0,,CBH

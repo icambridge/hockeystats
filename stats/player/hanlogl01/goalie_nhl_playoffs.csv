@@ -1,0 +1,10 @@
+ties,assists,points,games_started,league,pim,goals,goals_allowed_average,loses,saves,games_played,good_start_precentages,goals_allowed_precentage,won,bad_start,saves_percentage,year,team,goals_saved_aboved_average,goals_allowed,shots_againist,shutouts,age,good_starts,minutes,wins
+0,0,0,0,NHL,0,0,3.00,0,0,2,0,0,,0,0,1979-80,VAN,0,3,0,0,22,0,60,0
+0,0,0,0,NHL,0,0,4.95,2,0,3,0,0,,0,0,1981-82,STL,0,9,0,0,24,0,109,0
+0,0,0,0,NHL,14,0,5.00,1,0,1,0,0,,0,0,1982-83,NYR,0,5,0,0,25,0,60,0
+0,0,0,0,NHL,6,0,2.53,3,153,5,0,76,,0,0,1983-84,NYR,4.04,13,166,1,26,0,308,2
+0,0,0,0,NHL,0,0,5.00,3,85,3,0,120,,0,.859,1984-85,NYR,-2.30,14,99,0,27,0,168,0
+0,0,0,0,NHL,0,0,4.80,0,26,3,0,0,,0,.813,1985-86,NYR,0,6,32,0,28,0,75,0
+0,0,0,0,NHL,2,0,0,2,214,8,0,56,,0,0,1986-87,DET,10.03,13,227,0,29,0,467,5
+0,0,0,0,NHL,0,0,3.06,3,149,8,0,98,,0,.871,1987-88,DET,0.37,22,171,0,30,0,431,4
+0,0,0,0,NHL,0,0,5.38,1,40,2,0,0,,0,.851,1988-89,DET,0,7,47,0,31,0,78,0

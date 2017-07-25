@@ -1,0 +1,4 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,1,0,0,NHL,22,1,15,-3,1,0,0,0,0,1986-87,WIN,0,1,[],0.0,,11
+,1,0,0,NHL,23,1,12,0,3,0,0,0,0,1987-88,WIN,0,1,[],0.0,,4
+,0,0,0,NHL,24,0,4,-3,2,0,0,0,0,1988-89,QUE,0,0,[],0.0,,5

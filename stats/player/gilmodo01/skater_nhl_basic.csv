@@ -1,0 +1,29 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,53,1,1,NHL,20,21,57,6,157,21,3,1,6,1983-84,STL,25,28,[],15.9,,0
+,57,3,1,NHL,21,25,49,3,162,17,3,3,8,1984-85,STL,21,36,"[{'link': '/awards/voting-1985.html#selke', 'name': 'Selke-12'}]",13.0,,78
+,53,5,1,NHL,22,22,41,-3,183,22,2,1,5,1985-86,STL,25,28,"[{'link': '/awards/voting-1986.html#selke', 'name': 'Selke-24'}]",13.7,,74
+,105,2,1,NHL,23,38,58,-2,207,24,17,1,24,1986-87,STL,42,63,"[{'link': '/awards/voting-1987.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-1987.html#byng', 'name': 'Byng-11'}, {'link': '/awards/voting-1987.html#hart', 'name': 'Hart-5'}, {'link': '/awards/voting-1987.html#selke', 'name': 'Selke-6'}]",20.3,,80
+,86,4,2,NHL,24,24,59,-13,163,15,19,1,25,1987-88,STL,36,50,[],22.1,,72
+,85,5,0,NHL,25,41,44,45,161,15,11,3,15,1988-89,CGY,26,59,"[{'link': '/awards/voting-1989.html#byng', 'name': 'Byng-21'}, {'link': '/awards/voting-1989.html#selke', 'name': 'Selke-6'}]",16.1,,72
+,91,3,1,NHL,26,40,54,20,152,11,12,3,24,1989-90,CGY,24,67,"[{'link': '/awards/voting-1990.html#selke', 'name': 'Selke-9'}]",15.8,,78
+,81,5,2,NHL,27,43,144,27,135,16,2,3,15,1990-91,CGY,20,61,"[{'link': '/awards/voting-1991.html#selke', 'name': 'Selke-13'}]",14.8,,78
+,87,4,1,NHL,28,41,78,25,168,15,10,1,19,1991-92,TOT,26,61,"[{'link': '/awards/voting-1992.html#hart', 'name': 'Hart-9'}, {'link': '/awards/voting-1992.html#selke', 'name': 'Selke-5'}]",15.5,,78
+,38,1,1,NHL,28,17,46,12,64,6,4,0,10,1991-92,CGY,11,27,"[{'link': '/awards/voting-1992.html#hart', 'name': 'Hart-9'}, {'link': '/awards/voting-1992.html#selke', 'name': 'Selke-5'}]",17.2,,38
+,49,3,0,NHL,28,24,32,13,104,9,6,1,9,1991-92,TOR,15,34,"[{'link': '/awards/voting-1992.html#hart', 'name': 'Hart-9'}, {'link': '/awards/voting-1992.html#selke', 'name': 'Selke-5'}]",14.4,,40
+,127,2,3,NHL,29,49,100,32,211,14,15,2,44,1992-93,TOR,32,95,"[{'link': '/awards/voting-1993.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1993.html#hart', 'name': 'Hart-2'}, {'link': '/awards/selke.html#1993', 'name': None}]",15.2,,83
+,111,3,1,NHL,30,50,105,25,167,16,10,4,30,1993-94,TOR,27,84,"[{'link': '/awards/voting-1994.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1994.html#hart', 'name': 'Hart-4'}, {'link': '/awards/voting-1994.html#selke', 'name': 'Selke-2'}]",16.2,,83
+,33,1,0,NHL,31,11,26,-5,73,7,3,0,12,1994-95,TOR,10,23,[],13.7,,44
+,72,3,2,NHL,32,19,77,-5,180,20,10,2,19,1995-96,TOR,32,40,"[{'link': '/awards/voting-1996.html#selke', 'name': 'Selke-19'}]",17.8,,81
+,82,1,1,NHL,33,42,68,2,143,17,4,0,18,1996-97,TOT,22,60,"[{'link': '/awards/voting-1997.html#hart', 'name': 'Hart-19'}, {'link': '/awards/voting-1997.html#selke', 'name': 'Selke-14'}]",15.4,,81
+,60,1,1,NHL,33,30,46,-5,103,12,2,0,15,1996-97,TOR,15,45,"[{'link': '/awards/voting-1997.html#hart', 'name': 'Hart-19'}, {'link': '/awards/voting-1997.html#selke', 'name': 'Selke-14'}]",14.6,,61
+,22,0,0,NHL,33,12,22,7,40,5,2,0,3,1996-97,NJD,7,15,"[{'link': '/awards/voting-1997.html#hart', 'name': 'Hart-19'}, {'link': '/awards/voting-1997.html#selke', 'name': 'Selke-14'}]",17.5,,20
+,53,5,0,NHL,34,19,68,10,94,10,3,1,20,1997-98,NJD,13,40,[],13.8,,63
+22:29,56,4,1,NHL,35,27,56,-16,110,8,7,0,13,1998-99,CHI,16,40,[],14.5,1619,72
+19:50,73,3,0,NHL,36,35,63,-9,113,15,10,0,13,1999-00,TOT,25,48,"[{'link': '/awards/voting-2000.html#AS', 'name': 'AS-7'}]",22.1,1468,74
+19:59,56,3,0,NHL,36,22,51,-12,100,14,8,0,12,1999-00,CHI,22,34,"[{'link': '/awards/voting-2000.html#AS', 'name': 'AS-7'}]",22.0,1259,63
+18:58,17,0,0,NHL,36,13,12,3,13,1,2,0,1,1999-00,BUF,3,14,"[{'link': '/awards/voting-2000.html#AS', 'name': 'AS-7'}]",23.1,209,11
+18:02,38,0,0,NHL,37,20,70,3,91,3,4,0,11,2000-01,BUF,7,31,[],7.7,1281,71
+18:39,41,2,0,NHL,38,24,48,-7,78,5,5,0,7,2001-02,MTL,10,31,[],12.8,1306,70
+16:34,30,0,0,NHL,39,13,36,-6,85,8,3,0,6,2002-03,TOT,11,19,[],12.9,1027,62
+16:45,30,0,0,NHL,39,13,36,-6,85,8,3,0,6,2002-03,MTL,11,19,[],12.9,1022,61
+4:51,0,0,0,NHL,39,0,0,0,0,0,0,0,0,2002-03,TOR,0,0,[],0,5,1

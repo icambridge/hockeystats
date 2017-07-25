@@ -1,0 +1,5 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,won,assists,ties,wins,games_played,minutes
+0,0,0,1.00,0,0,NHL,0,26,0,0,0,0,0,0,1,0,1973-74,LAK,0,,0,0,1,1,60
+0,0,0,4.50,0,0,NHL,0,28,0,0,0,0,0,0,9,0,1975-76,LAK,1,,0,0,1,2,120
+0,0,0,3.92,0,0,NHL,0,32,0,0,2,0,0,0,22,0,1979-80,MNS,3,,0,0,3,7,337
+0,0,0,6.00,0,0,NHL,0,33,0,0,0,0,0,0,2,0,1980-81,EDM,0,,0,0,0,1,20

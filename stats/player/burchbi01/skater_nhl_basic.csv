@@ -1,0 +1,14 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,9,0,0,NHL,22,0,4,0,0,0,0,0,0,1922-23,HAM,6,3,[],0,,10
+,22,0,0,NHL,23,0,6,0,0,0,0,0,0,1923-24,HAM,16,6,[],0,,0
+,27,0,0,NHL,24,0,10,0,0,0,0,0,0,1924-25,HAM,20,7,"[{'link': '/awards/hart.html#1925', 'name': None}]",0,,27
+,25,0,0,NHL,25,0,33,0,0,0,0,0,0,1925-26,NYA,22,3,"[{'link': '/awards/voting-1926.html#byng', 'name': 'Byng-2'}, {'link': '/awards/voting-1926.html#hart', 'name': 'Hart-11'}]",0,,0
+,27,0,0,NHL,26,0,40,0,0,0,0,0,0,1926-27,NYA,19,8,"[{'link': '/awards/byng.html#1927', 'name': None}]",0,,43
+,12,0,0,NHL,27,0,34,0,0,0,0,0,0,1927-28,NYA,10,2,[],0,,32
+,16,0,0,NHL,28,0,45,0,0,0,0,0,0,1928-29,NYA,11,5,[],0,,0
+,10,0,0,NHL,29,0,22,0,0,0,0,0,0,1929-30,NYA,7,3,[],0,,35
+,22,0,0,NHL,30,0,35,0,0,0,0,0,0,1930-31,NYA,14,8,[],0,,0
+,22,0,0,NHL,31,0,20,0,0,0,0,0,0,1931-32,NYA,7,15,[],0,,0
+,6,0,0,NHL,32,0,6,0,0,0,0,0,0,1932-33,TOT,5,1,[],0,,47
+,4,0,0,NHL,32,0,4,0,0,0,0,0,0,1932-33,BOS,3,1,[],0,,23
+,2,0,0,NHL,32,0,2,0,0,0,0,0,0,1932-33,CBH,2,0,[],0,,24

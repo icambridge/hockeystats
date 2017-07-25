@@ -1,0 +1,17 @@
+game_winning_goals,takeaways,plus_minus,shots,faceoff_loses,shorthanded_assists,games_played,assists,faceoff_wins,year,even_strength_assists,shorthanded_goals,goals,power_play_goals,pim,league,shotsPercentage,power_play_assists,hits,faceoff_percentage,blocks,age,total_shots,average_ice_time,awards,points,giveaways,even_strength_goals,total_ice_time,team
+0,0,-7,10,0,0,12,1,0,1993-94,1,0,1,1,4,NHL,10.0,0,0,0,0,19,0,,[],2,0,0,,OTT
+0,0,-4,21,0,0,16,3,0,1994-95,2,0,4,1,0,NHL,19.0,1,0,0,0,20,0,,[],7,0,3,,OTT
+1,0,-3,66,0,0,31,10,0,1995-96,6,0,7,2,6,NHL,10.6,4,0,0,0,21,0,,[],17,0,5,,OTT
+1,0,0,15,0,0,8,0,0,1996-97,0,0,3,2,2,NHL,20.0,0,0,0,0,22,0,,[],3,0,1,,STL
+6,0,11,147,0,0,61,30,0,1997-98,23,4,22,4,22,NHL,15.0,7,0,0,0,23,0,,[],52,0,14,,STL
+10,0,13,259,0,0,82,52,0,1998-99,37,0,37,14,16,NHL,14.3,15,0,0,0,24,0,20:10,"[{'link': '/awards/voting-1999.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-1999.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1999.html#byng', 'name': 'Byng-4'}, {'link': '/awards/voting-1999.html#hart', 'name': 'Hart-12'}]",89,0,23,1654,STL
+4,0,34,241,0,0,71,47,0,1999-00,32,0,28,8,8,NHL,11.6,15,0,0,0,25,0,19:13,"[{'link': '/awards/voting-2000.html#AS', 'name': 'AS-6'}, {'link': '/awards/byng.html#2000', 'name': None}, {'link': '/awards/voting-2000.html#selke', 'name': 'Selke-6'}]",75,0,20,1365,STL
+5,0,27,124,0,0,44,25,0,2000-01,19,0,20,5,16,NHL,16.1,6,0,0,0,26,0,18:03,"[{'link': '/awards/voting-2001.html#byng', 'name': 'Byng-23'}]",45,0,15,794,STL
+0,0,13,212,0,0,82,43,0,2001-02,25,0,35,11,46,NHL,16.5,18,0,0,0,27,0,19:11,"[{'link': '/awards/voting-2002.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-2002.html#AS', 'name': 'AS-10'}]",78,0,24,1573,STL
+4,0,0,205,0,0,78,57,0,2002-03,32,0,36,11,32,NHL,17.6,25,0,0,0,28,0,19:47,"[{'link': '/awards/voting-2003.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-2003.html#byng', 'name': 'Byng-6'}]",93,0,25,1544,STL
+5,0,1,179,0,0,68,35,0,2003-04,22,0,23,8,18,NHL,12.8,13,0,0,0,29,0,20:30,"[{'link': '/awards/voting-2004.html#byng', 'name': 'Byng-14'}]",58,0,15,1395,STL
+7,0,21,184,0,2,58,37,0,2005-06,16,5,25,7,42,NHL,13.6,19,0,0,0,31,0,21:04,[],62,0,13,1222,LAK
+4,0,0,175,0,1,71,39,0,2006-07,21,1,25,9,28,NHL,14.3,17,0,0,0,32,0,20:39,"[{'link': '/awards/voting-2007.html#AS', 'name': 'AS-14'}, {'link': '/awards/voting-2007.html#byng', 'name': 'Byng-49'}]",64,0,15,1466,MIN
+1,26,9,126,487,1,68,39,403,2007-08,27,0,15,2,24,NHL,11.9,11,17,45.3,48,33,233,19:42,"[{'link': '/awards/voting-2008.html#byng', 'name': 'Byng-41'}]",54,42,13,1340,MIN
+1,18,6,143,109,0,69,33,130,2008-09,21,0,20,4,20,NHL,14.0,12,21,54.4,31,34,266,17:29,"[{'link': '/awards/voting-2009.html#byng', 'name': 'Byng-44'}]",53,20,16,1206,VAN
+0,5,3,53,40,0,28,13,46,2009-10,6,0,3,1,0,NHL,5.7,7,18,53.5,12,35,91,16:13,[],16,9,2,454,VAN

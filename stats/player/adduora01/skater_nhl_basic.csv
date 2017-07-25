@@ -1,0 +1,8 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,0,0,0,WHA,27,0,0,0,0,0,0,0,0,1973-74,CLC,0,0,[],0,,2
+,74,0,0,WHA,28,0,23,27,129,14,1,0,0,1974-75,SDM,15,59,[],11.6,,78
+,90,2,0,WHA,29,0,22,29,92,17,6,0,0,1975-76,SDM,23,67,[],25.0,,80
+,30,0,0,WHA,30,0,22,-13,94,2,4,0,0,1976-77,TOT,6,24,[],6.4,,53
+,23,0,0,WHA,30,0,17,-14,47,1,3,0,0,1976-77,MNF,4,19,[],8.5,,40
+,7,0,0,WHA,30,0,5,1,47,1,1,0,0,1976-77,SDM,2,5,[],4.3,,13
+,3,0,0,WHA,31,0,0,-5,10,1,0,0,0,1977-78,INR,1,2,[],10.0,,8

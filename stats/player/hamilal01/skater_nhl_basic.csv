@@ -1,0 +1,15 @@
+power_play_goals,assists,points,power_play_assists,league,even_strength_assists,game_winning_goals,shorthanded_goals,shotsPercentage,games_played,average_ice_time,year,team,age,plus_minus,shorthanded_assists,even_strength_goals,pim,awards,total_ice_time,goals,shots
+0,0,0,0,NHL,0,0,0,0,4,,1965-66,NYR,19,0,0,0,0,[],,0,0
+0,0,0,0,NHL,0,0,0,0,2,,1967-68,NYR,21,0,0,0,0,[],,0,0
+0,0,0,0,NHL,0,0,0,0.0,16,,1968-69,NYR,22,0,0,0,8,[],,0,9
+0,5,5,0,NHL,5,0,0,0.0,59,,1969-70,NYR,23,-8,0,0,54,[],,0,42
+0,28,30,6,NHL,21,0,0,2.0,69,,1970-71,BUF,24,-23,1,2,71,[],,2,98
+1,30,34,4,NHL,26,1,0,4.4,76,,1971-72,BUF,25,-12,0,3,105,[],,4,91
+2,50,61,0,WHA,0,1,1,0,0,,1972-73,ALO,26,0,0,8,124,[],,11,0
+6,45,59,0,WHA,0,2,0,0,0,,1973-74,EDO,27,0,0,8,104,"[{'link': '/awards/wha_all_star.html#1974', 'name': 'ASW-2'}]",,14,0
+1,13,14,0,WHA,0,0,0,2.0,25,,1974-75,EDO,28,5,0,0,42,[],,1,49
+1,32,34,0,WHA,0,0,0,2.4,54,,1975-76,EDO,29,-8,0,1,78,[],,2,83
+3,37,45,0,WHA,0,0,0,5.7,81,,1976-77,EDO,30,-19,0,5,60,[],,8,140
+6,43,54,0,WHA,0,0,0,6.0,59,,1977-78,EDO,31,24,0,5,46,"[{'link': '/awards/wha_all_star.html#1978', 'name': None}]",,11,183
+2,38,44,0,WHA,0,0,0,3.9,0,,1978-79,EDO,32,22,0,4,38,[],,6,153
+1,15,19,6,NHL,9,0,0,11.8,31,,1979-80,EDM,33,-2,0,3,20,[],,4,34

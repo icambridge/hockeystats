@@ -1,0 +1,5 @@
+shots_againist,good_start_precentages,ties,saves,minutes,games_played,assists,year,goals,wins,goals_allowed_average,league,games_started,goals_allowed,goals_allowed_precentage,goals_saved_aboved_average,loses,good_starts,saves_percentage,age,goalie_point_share,pim,awards,shutouts,points,bad_start,team
+99,0,1,84,243,5,0,2001-02,0,1,3.70,NHL,0,15,0,0,2,0,.848,22,-0.1,2,[],0,0,0,PHX
+159,0,0,141,297,6,0,2002-03,0,1,3.64,NHL,0,18,0,0,4,0,.887,23,0.6,0,[],0,0,0,TOT
+88,0,0,77,175,4,0,2002-03,0,0,3.77,NHL,0,11,0,0,3,0,.875,23,0.2,0,[],0,0,0,PHX
+71,0,0,64,122,2,0,2002-03,0,1,3.44,NHL,0,7,0,0,1,0,.901,23,0.4,0,[],0,0,0,CAR

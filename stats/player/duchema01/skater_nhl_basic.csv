@@ -1,0 +1,9 @@
+game_winning_goals,takeaways,plus_minus,shots,faceoff_loses,shorthanded_assists,games_played,assists,faceoff_wins,year,even_strength_assists,shorthanded_goals,goals,power_play_goals,pim,league,shotsPercentage,power_play_assists,hits,faceoff_percentage,blocks,age,total_shots,average_ice_time,awards,points,giveaways,even_strength_goals,total_ice_time,team
+2,64,1,180,609,0,81,31,479,2009-10,20,1,24,10,16,NHL,13.3,11,51,44.0,28,19,309,17:44,"[{'link': '/awards/voting-2010.html#byng', 'name': 'Byng-22'}, {'link': '/awards/voting-2010.html#calder', 'name': 'Calder-3'}]",55,39,13,1436,COL
+2,65,-8,202,618,0,80,40,628,2010-11,28,0,27,3,33,NHL,13.4,12,57,50.4,48,20,356,18:57,"[{'link': '/awards/voting-2011.html#byng', 'name': 'Byng-48'}]",67,52,24,1516,COL
+2,31,-11,132,191,0,58,14,200,2011-12,10,0,14,5,8,NHL,10.6,4,43,51.2,41,21,249,16:17,[],28,21,9,945,COL
+3,44,-12,132,405,1,47,26,488,2012-13,18,0,17,2,12,NHL,12.9,7,48,54.6,47,22,214,20:55,"[{'link': '/awards/voting-2013.html#AS', 'name': 'AS-11'}, {'link': '/awards/voting-2013.html#byng', 'name': 'Byng-26'}, {'link': '/awards/voting-2013.html#selke', 'name': 'Selke-21'}]",43,24,15,983,COL
+6,40,8,217,526,0,71,47,532,2013-14,35,0,23,5,19,NHL,10.6,12,53,50.3,44,23,374,18:30,"[{'link': '/awards/voting-2014.html#byng', 'name': 'Byng-8'}, {'link': '/awards/voting-2014.html#hart', 'name': 'Hart-17'}]",70,36,18,1313,COL
+4,49,3,207,582,0,82,34,635,2014-15,29,0,21,2,16,NHL,10.1,5,43,52.2,74,24,344,18:34,[],55,34,19,1523,COL
+6,43,-8,200,311,0,76,29,428,2015-16,22,0,30,8,24,NHL,15.0,7,41,57.9,37,25,325,18:35,[],59,31,22,1413,COL
+3,60,-34,160,411,0,77,23,687,2016-17,17,1,18,3,12,NHL,11.3,6,42,62.6,41,26,275,18:18,"[{'link': '/awards/voting-2017.html#byng', 'name': 'Byng-60'}]",41,46,14,1409,COL

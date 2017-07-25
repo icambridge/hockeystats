@@ -1,0 +1,22 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,2.93,0,0,BCJHL,0,16,0,0,0,0,0,0,58,0,1981-82,Penticton Knights,0,0,0,0,21,1187
+0,0,0,4.68,0,0,BCJHL,0,17,0,0,0,0,0,0,156,0,1982-83,Penticton Knights,0,0,0,0,33,1999
+0,1,0,2.74,0,0,CCHA,0,18,0,0,0,0,0,0,83,0,1983-84,Michigan State Spartans,8,0,0,23,32,1815
+0,0,0,2.63,0,0,CCHA,0,19,0,0,0,0,0,0,67,0,1984-85,Michigan State Spartans,4,0,0,22,26,1531
+0,1,0,0.50,0,0,WJC-A,0,19,0,0,0,0,0,0,1,0,1984-85,Canada,0,0,0,2,2,120
+0,0,0,3.69,0,0,CCHA,0,20,0,0,0,0,0,0,87,0,1985-86,Michigan State Spartans,5,0,1,17,24,1414
+0,1,0,3.90,0,0,CCHA,0,21,0,0,0,0,0,0,90,0,1986-87,Michigan State Spartans,7,0,1,14,24,1383
+0,0,0,5.10,0,0,IHL,0,22,0,0,0,0,0,0,170,0,1987-88,Milwaukee Admirals,22,0,1,10,38,2001
+0,1,0,3.88,0,0,AHL,0,23,0,0,0,0,0,0,156,0,1988-89,Maine Mariners,17,0,6,16,47,2411
+0,3,0,3.55,0,0,AHL,0,24,0,0,0,0,0,0,217,0,1989-90,Maine Mariners,28,0,10,23,64,3664
+0,1,0,3.66,0,0,AHL,0,25,0,0,0,0,0,0,142,0,1990-91,2 Teams,15,0,7,16,42,2329
+0,0,0,3.44,0,0,AHL,0,25,0,0,0,0,0,0,7,0,1990-91,Maine Mariners,1,0,0,1,2,122
+0,1,0,3.67,0,0,AHL,0,25,0,0,0,0,0,0,135,0,1990-91,Cape Breton Oilers,14,0,7,15,40,2207
+0,0,0,4.20,0,0,AHL,0,26,0,0,0,0,0,0,119,0,1991-92,Cape Breton Oilers,13,0,1,15,29,1699
+0,0,0,5.68,0,0,AHL,0,27,0,0,0,0,0,0,53,0,1992-93,Cape Breton Oilers,5,0,0,5,10,560
+0,0,0,3.44,0,0,IHL,0,27,0,0,0,0,0,0,28,0,1992-93,Kansas City Blades,1,0,1,6,8,489
+0,0,0,4.49,0,0,AHL,0,28,0,0,0,0,0,0,58,0,1993-94,Hershey Bears,9,0,1,5,17,775
+0,1,0,2.35,0,0,ColHL,0,29,0,0,0,0,0,0,7,0,1994-95,Detroit Falcons,1,0,0,2,3,179
+0,0,0,3.83,0,699,IHL,0,29,0,605,0,0,0,0,94,.866,1994-95,2 Teams,8,0,2,17,32,1474
+0,0,0,4.44,0,383,IHL,0,29,0,324,0,0,0,0,59,.846,1994-95,Detroit Vipers,5,0,1,9,18,797
+0,0,0,3.10,0,316,IHL,0,29,0,281,0,0,0,0,35,.889,1994-95,Las Vegas Thunder,3,0,1,8,14,677

@@ -1,0 +1,19 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,1,0,0,NHL,19,0,2,0,0,0,0,0,0,1960-61,NYR,0,1,[],0,,1
+,0,0,0,NHL,20,0,0,0,0,0,0,0,0,1961-62,NYR,0,0,[],0,,1
+,31,0,0,NHL,21,0,20,0,0,0,0,0,0,1962-63,NYR,11,20,[],0,,0
+,64,0,0,NHL,22,0,62,0,0,17,7,0,0,1963-64,NYR,24,40,[],0,,70
+,61,3,0,NHL,23,0,52,0,0,15,10,0,0,1964-65,NYR,25,36,[],0,,0
+,25,2,0,NHL,24,0,20,0,0,7,3,0,0,1965-66,NYR,10,15,[],0,,34
+,46,5,0,NHL,25,0,12,0,0,23,5,0,0,1966-67,NYR,28,18,"[{'link': '/awards/voting-1967.html#byng', 'name': 'Byng-4'}, {'link': '/awards/voting-1967.html#hart', 'name': 'Hart-7'}]",0,,64
+,77,6,0,NHL,26,34,12,13,281,21,8,0,14,1967-68,NYR,29,48,"[{'link': '/awards/nhl_all_star.html#1968', 'name': None}, {'link': '/awards/voting-1968.html#byng', 'name': 'Byng-3'}]",10.3,,73
+,77,5,0,NHL,27,33,22,12,301,20,8,0,16,1968-69,NYR,28,49,[],9.3,,66
+,53,1,0,NHL,28,22,22,2,230,13,3,0,15,1969-70,NYR,16,37,[],7.0,,72
+,61,5,0,NHL,29,23,65,22,226,22,8,0,8,1970-71,NYR,30,31,[],13.3,,78
+,97,4,0,NHL,30,38,64,51,238,37,6,0,16,1971-72,NYR,43,54,"[{'link': '/awards/nhl_all_star.html#1972', 'name': None}, {'link': '/awards/voting-1972.html#hart', 'name': 'Hart-10'}]",18.1,,73
+,84,4,0,NHL,31,43,25,12,183,19,6,0,16,1972-73,NYR,25,59,[],13.7,,76
+,77,8,0,NHL,32,32,20,11,168,20,16,0,9,1973-74,NYR,36,41,[],21.4,,75
+,97,1,0,NHL,33,31,22,1,239,25,11,0,30,1974-75,NYR,36,61,"[{'link': '/awards/voting-1975.html#AS', 'name': 'AS-3'}]",15.1,,76
+,86,4,0,NHL,34,30,32,-8,211,27,9,0,20,1975-76,NYR,36,50,"[{'link': '/awards/masterton.html#1976', 'name': None}]",17.1,,70
+,75,2,0,NHL,35,28,50,-17,187,20,7,0,20,1976-77,NYR,27,48,"[{'link': '/awards/voting-1977.html#AS', 'name': 'AS-6'}]",14.4,,77
+,9,0,0,NHL,36,3,6,-10,27,1,1,0,4,1977-78,NYR,2,7,[],7.4,,19

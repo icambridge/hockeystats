@@ -1,0 +1,13 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,0,0,0,NHL,20,0,0,-2,2,0,0,0,0,1990-91,VAN,0,0,[],0.0,,2
+,0,0,0,NHL,21,0,29,-1,6,0,0,0,0,1991-92,VAN,0,0,[],0.0,,4
+,0,0,0,NHL,22,0,0,0,0,0,0,0,0,1992-93,VAN,0,0,[],0,,2
+,3,1,0,NHL,23,2,190,-11,25,1,0,0,0,1993-94,VAN,1,2,[],4.0,,55
+,0,0,0,NHL,24,0,107,-4,16,0,0,0,0,1994-95,TOT,0,0,[],0.0,,32
+,0,0,0,NHL,24,0,46,-4,4,0,0,0,0,1994-95,VAN,0,0,[],0.0,,7
+,0,0,0,NHL,24,0,61,0,12,0,0,0,0,1994-95,PHI,0,0,[],0.0,,25
+,4,0,0,NHL,25,3,204,-4,34,1,0,0,0,1995-96,PHI,1,3,[],2.9,,64
+,0,0,0,NHL,26,0,51,1,3,0,0,0,0,1996-97,TOT,0,0,[],0.0,,15
+,0,0,0,NHL,26,0,49,0,3,0,0,0,0,1996-97,PIT,0,0,[],0.0,,13
+,0,0,0,NHL,26,0,2,1,0,0,0,0,0,1996-97,MDA,0,0,[],0,,2
+,1,0,0,NHL,27,0,18,1,6,1,0,0,0,1997-98,MDA,1,0,[],16.7,,9

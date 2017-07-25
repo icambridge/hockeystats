@@ -1,0 +1,19 @@
+goals_allowed,ties,assists,points,games_started,league,goals,goals_allowed_average,loses,saves,games_played,good_start_precentages,goals_allowed_precentage,bad_start,saves_percentage,year,team,goals_saved_aboved_average,age,shots_againist,shutouts,pim,good_starts,awards,minutes,wins,goalie_point_share
+10,1,0,0,0,NHL,0,1.67,1,0,6,0,0,0,0,1952-53,DET,0,21,0,1,0,0,[],360,4,1.5
+2,0,0,0,0,NHL,0,1.00,0,0,2,0,0,0,0,1954-55,DET,0,23,0,0,0,0,[],120,2,0.7
+147,0,0,0,0,NHL,0,2.10,24,0,0,0,0,0,0,1955-56,DET,0,24,0,0,14,0,"[{'link': '/awards/nhl_all_star.html#1956', 'name': None}, {'link': '/awards/calder.html#1956', 'name': None}]",0,30,14.6
+155,12,0,0,0,NHL,0,2.21,20,0,0,0,0,0,0,1956-57,DET,0,25,0,4,2,0,"[{'link': '/awards/nhl_all_star.html#1957', 'name': None}]",0,0,0
+200,7,0,0,0,NHL,0,2.86,0,0,0,0,0,0,0,1957-58,CBH,0,26,0,7,10,0,"[{'link': '/awards/nhl_all_star.html#1958', 'name': None}, {'link': '/awards/voting-1958.html#hart', 'name': 'Hart-5'}]",0,24,11.0
+0,0,0,0,0,NHL,0,2.97,29,0,0,0,0,0,0,1958-59,CBH,0,27,0,1,0,0,[],0,28,10.8
+0,13,1,1,0,NHL,0,2.56,0,0,0,0,0,0,0,1959-60,CBH,0,28,0,0,2,0,"[{'link': '/awards/nhl_all_star.html#1960', 'name': None}, {'link': '/awards/voting-1960.html#hart', 'name': 'Hart-3'}]",0,28,0
+176,0,1,1,0,NHL,0,2.51,24,0,0,0,0,0,0,1960-61,CBH,0,29,0,0,0,0,"[{'link': '/awards/nhl_all_star.html#1961', 'name': None}, {'link': '/awards/voting-1961.html#hart', 'name': 'Hart-5'}]",0,29,0
+0,13,0,0,0,NHL,0,2.63,26,0,0,0,0,0,0,1961-62,CBH,0,30,0,0,12,0,"[{'link': '/awards/nhl_all_star.html#1962', 'name': None}, {'link': '/awards/voting-1962.html#hart', 'name': 'Hart-6'}]",0,31,13.8
+161,15,0,0,0,NHL,0,2.47,20,0,66,0,0,0,0,1962-63,CBH,0,31,0,0,0,0,"[{'link': '/awards/nhl_all_star.html#1963', 'name': None}, {'link': '/awards/voting-1963.html#hart', 'name': 'Hart-4'}, {'link': '/awards/vezina.html#1963', 'name': None}]",3910,0,0
+148,11,2,2,0,NHL,0,2.30,19,0,65,0,0,0,0,1963-64,CBH,0,32,0,7,2,0,"[{'link': '/awards/nhl_all_star.html#1964', 'name': None}, {'link': '/awards/voting-1964.html#hart', 'name': 'Hart-6'}]",3860,0,0
+99,5,0,0,0,NHL,0,2.43,17,0,41,0,0,0,0,1964-65,CBH,0,33,0,4,2,0,[],2440,18,8.4
+164,7,2,2,0,NHL,0,2.63,21,0,0,0,0,0,0,1965-66,CBH,0,34,0,4,14,0,"[{'link': '/awards/nhl_all_star.html#1966', 'name': None}, {'link': '/awards/voting-1966.html#hart', 'name': 'Hart-4'}]",0,0,0
+66,5,0,0,0,NHL,0,0,5,0,32,0,0,0,0,1966-67,CBH,0,35,0,2,10,0,"[{'link': '/awards/nhl_all_star.html#1967', 'name': None}, {'link': '/awards/vezina.html#1967', 'name': None}]",1664,19,6.1
+118,9,0,0,0,NHL,0,2.48,21,0,49,0,0,0,0,1967-68,STL,0,36,0,5,0,0,"[{'link': '/awards/smythe.html#1968', 'name': None}]",2858,19,9.1
+85,8,2,2,0,NHL,0,2.17,12,0,41,0,0,0,0,1968-69,STL,0,37,0,0,20,0,"[{'link': '/awards/nhl_all_star.html#1969', 'name': None}, {'link': '/awards/voting-1969.html#hart', 'name': 'Hart-8'}, {'link': '/awards/vezina.html#1969', 'name': None}]",2354,19,9.4
+49,3,0,0,0,NHL,0,2.91,8,0,18,0,0,0,0,1969-70,STL,0,38,0,1,0,0,[],1010,7,2.7
+71,8,1,1,0,NHL,0,2.42,11,0,32,0,0,0,0,1970-71,STL,0,39,0,2,0,0,[],1761,13,6.6

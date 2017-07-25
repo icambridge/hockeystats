@@ -1,0 +1,6 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,15,1,0,NHL,22,4,19,3,34,8,0,0,3,1979-80,MNS,8,7,[],23.5,,20
+,39,2,0,NHL,23,10,58,-9,132,17,9,0,3,1980-81,MNS,26,13,"[{'link': '/awards/voting-1981.html#calder', 'name': 'Calder-11'}]",19.7,,56
+,55,1,0,NHL,24,28,14,9,178,22,4,0,1,1981-82,MNS,26,29,"[{'link': '/awards/voting-1982.html#byng', 'name': 'Byng-20'}]",14.6,,69
+,17,2,0,NHL,25,8,4,-3,52,9,0,0,0,1982-83,CGY,9,8,[],17.3,,45
+,15,1,0,NHL,26,7,13,-19,74,8,0,0,0,1983-84,LAK,8,7,[],10.8,,58

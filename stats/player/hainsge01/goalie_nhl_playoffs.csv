@@ -1,0 +1,11 @@
+ties,assists,points,games_started,league,pim,goals,goals_allowed_average,loses,saves,games_played,good_start_precentages,goals_allowed_precentage,won,bad_start,saves_percentage,year,team,goals_saved_aboved_average,goals_allowed,shots_againist,shutouts,age,good_starts,minutes,wins
+2,0,0,0,NHL,0,0,1.43,1,0,4,0,0,,0,0,1926-27,MTL,0,6,0,1,31,0,252,1
+1,0,0,0,NHL,0,0,1.41,1,0,2,0,0,,0,0,1927-28,MTL,0,3,0,0,32,0,128,0
+0,0,0,0,NHL,0,0,1.67,0,0,3,0,0,,0,0,1928-29,MTL,0,5,0,0,33,0,180,0
+1,0,0,0,NHL,0,0,0,0,0,0,0,0,SC,0,0,1929-30,MTL,0,6,0,0,34,0,0,0
+0,0,0,0,NHL,0,0,1.75,0,0,0,0,0,SC,0,0,1930-31,MTL,0,0,0,0,35,0,0,0
+0,0,0,0,NHL,0,0,2.60,3,0,4,0,0,,0,0,1931-32,MTL,0,13,0,0,36,0,300,1
+1,0,0,0,NHL,0,0,4.00,1,0,2,0,0,,0,0,1932-33,MTL,0,8,0,0,37,0,120,0
+0,0,0,0,NHL,0,0,2.19,3,0,5,0,0,,0,0,1933-34,TOR,0,11,0,0,38,0,302,2
+0,0,0,0,NHL,0,0,1.57,0,0,0,0,0,,0,0,1934-35,TOR,0,0,0,0,39,0,0,3
+0,0,0,0,NHL,0,0,2.99,0,0,0,0,0,,0,0,1935-36,TOR,0,0,0,0,40,0,0,4

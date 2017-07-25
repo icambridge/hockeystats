@@ -1,0 +1,11 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,5,0,0,NHL,1937-38,22,0,TOR,,0,2,0,0,0,,,0,0
+0,10,7,0,NHL,1938-39,23,2,TOR,,5,4,0,0,0,,,0,0
+0,3,0,0,NHL,1939-40,24,0,TOR,,0,0,0,0,0,,,0,0
+0,3,2,0,NHL,1940-41,25,0,MTL,,2,11,0,0,0,,,0,0
+0,6,2,0,NHL,1942-43,27,1,BOS,,1,12,0,0,0,,,0,0
+0,0,8,0,NHL,1943-44,28,5,MTL,,3,12,0,0,0,,SC,0,0
+0,6,2,0,NHL,1944-45,29,1,MTL,,1,10,0,0,0,,,0,0
+0,9,6,0,NHL,1945-46,30,4,MTL,,2,0,0,0,0,,SC,0,0
+0,0,4,0,NHL,1946-47,31,1,MTL,,3,19,0,0,0,,,0,0
+0,4,0,0,NHL,1948-49,33,0,MTL,,0,8,0,0,0,,,0,0

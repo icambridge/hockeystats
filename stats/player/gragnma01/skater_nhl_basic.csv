@@ -1,0 +1,9 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+6:18,2,0,0,0,0,NHL,20,0,0,4,-2,1,0,0,0,0,0,0,0,2007-08,BUF,0,2,0,0,0.0,13,2,[]
+15:23,7,0,0,0,3,NHL,21,0,0,2,2,3,0,0,0,0,0,0,2,2008-09,BUF,0,3,0,0,0.0,62,4,[]
+15:17,21,3,1,0,6,NHL,23,0,0,2,0,11,0,1,0,0,0,2,6,2010-11,BUF,1,6,2,3,9.1,138,9,[]
+16:09,84,15,0,0,41,NHL,24,7,1,26,6,47,100.0,1,0,1,0,6,10,2011-12,TOT,2,19,13,33,4.3,936,58,"[{'link': '/awards/voting-2012.html#calder', 'name': 'Calder-12'}]"
+16:23,67,12,0,0,27,NHL,24,5,1,20,10,35,100.0,0,0,1,0,6,8,2011-12,BUF,1,12,11,30,2.9,721,44,"[{'link': '/awards/voting-2012.html#calder', 'name': 'Calder-12'}]"
+15:25,17,3,0,0,14,NHL,24,2,0,6,-4,12,0,1,0,0,0,0,2,2011-12,VAN,1,7,2,3,8.3,216,14,"[{'link': '/awards/voting-2012.html#calder', 'name': 'Calder-12'}]"
+7:53,0,0,0,0,0,NHL,25,0,0,0,0,0,0,0,0,0,0,0,0,2012-13,CAR,0,0,0,1,0,8,1,[]
+14:22,9,0,0,0,1,NHL,28,0,0,2,-2,0,0,0,0,0,0,0,1,2015-16,NJD,0,1,0,1,0,57,4,[]

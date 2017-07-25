@@ -1,0 +1,5 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+15:11,2,1,0,0,0,NHL,20,0,0,0,1,1,0,1,0,0,0,0,1,2013-14,CGY,1,0,0,0,100.0,15,1,[]
+17:43,282,64,4,0,27,NHL,21,27,3,14,11,167,37.5,16,5,8,0,13,67,2014-15,CGY,24,14,40,78,14.4,1417,80,"[{'link': '/awards/voting-2015.html#AS', 'name': 'AS-9'}, {'link': '/awards/voting-2015.html#byng', 'name': 'Byng-17'}, {'link': '/awards/voting-2015.html#calder', 'name': 'Calder-3'}]"
+19:56,371,78,6,0,10,NHL,22,33,2,20,4,217,40.0,24,3,6,0,15,41,2015-16,CGY,30,26,48,90,13.8,1575,79,"[{'link': '/awards/voting-2016.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-2016.html#byng', 'name': 'Byng-4'}]"
+18:29,307,61,3,0,14,NHL,23,31,0,4,-7,182,0,14,0,4,0,12,44,2016-17,CGY,18,9,43,86,9.9,1331,72,"[{'link': '/awards/voting-2017.html#AS', 'name': 'AS-9'}, {'link': '/awards/byng.html#2017', 'name': None}]"

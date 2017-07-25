@@ -1,0 +1,9 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+19:14,93,27,1,0,15,NHL,23,16,358,6,-5,51,55.2,6,290,2,0,3,26,2009-10,TOR,8,52,19,10,15.7,712,37,"[{'link': '/awards/voting-2010.html#calder', 'name': 'Calder-15'}]"
+19:17,202,32,4,1,48,NHL,24,12,787,14,-29,120,54.6,8,654,6,0,5,46,2010-11,TOR,15,85,17,51,12.5,1581,82,[]
+18:51,200,47,1,0,34,NHL,25,20,631,22,-7,109,52.7,14,567,4,1,8,40,2011-12,TOR,18,117,29,26,16.5,1375,73,[]
+20:19,115,28,3,1,23,NHL,26,11,559,6,-1,61,52.6,7,504,4,0,5,37,2012-13,TOR,12,65,16,37,19.7,934,46,"[{'link': '/awards/voting-2013.html#byng', 'name': 'Byng-34'}, {'link': '/awards/voting-2013.html#selke', 'name': 'Selke-43'}]"
+20:57,159,49,1,1,42,NHL,27,27,681,14,3,90,48.7,13,718,5,0,3,49,2013-14,TOR,19,62,30,24,0,1215,58,[]
+19:09,247,49,3,2,46,NHL,28,20,944,44,-34,154,53.2,9,831,12,0,6,68,2014-15,TOR,23,83,26,23,14.9,1570,82,[]
+17:20,183,35,1,0,24,NHL,29,16,597,18,-9,99,56.4,9,462,3,0,7,33,2015-16,TOR,12,46,23,18,12.1,988,57,[]
+16:26,238,55,1,0,26,NHL,30,26,774,30,-1,145,56.7,11,591,7,0,11,52,2016-17,TOR,18,45,37,48,12.4,1282,78,[]

@@ -1,0 +1,13 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,21,0,0,NHL,23,0,25,0,0,0,0,0,0,1930-31,BOS,10,11,[],0,,32
+,0,0,0,NHL,24,0,0,0,0,0,0,0,0,1931-32,BOS,0,0,[],0,,1
+,20,0,0,NHL,25,0,12,0,0,0,0,0,0,1932-33,BOS,8,12,[],0,,48
+,22,0,0,NHL,26,0,26,0,0,0,0,0,0,1933-34,BOS,9,13,[],0,,0
+,27,0,0,NHL,27,0,27,0,0,0,0,0,0,1934-35,BOS,9,18,[],0,,48
+,32,0,0,NHL,28,0,27,0,0,0,0,0,0,1935-36,BOS,14,18,[],0,,48
+,15,0,0,NHL,29,0,10,0,0,0,0,0,0,1936-37,BOS,8,7,[],0,,48
+,10,0,0,NHL,30,0,5,0,0,0,0,0,0,1937-38,TOT,4,6,[],0,,44
+,0,0,0,NHL,30,0,0,0,0,0,0,0,0,1937-38,BOS,0,0,[],0,,14
+,3,0,0,NHL,30,0,0,0,0,0,0,0,0,1937-38,DET,1,2,[],0,,11
+,7,0,0,NHL,30,0,5,0,0,0,0,0,0,1937-38,NYA,3,4,[],0,,19
+,0,0,0,NHL,31,0,5,0,0,0,0,0,0,1938-39,NYA,0,0,[],0,,17

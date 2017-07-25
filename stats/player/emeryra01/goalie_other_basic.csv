@@ -1,0 +1,13 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,6.36,0,0,ON-Jr.C,0,16,0,0,0,0,0,0,140,0,1998-99,Dunnville Terriers,19,0,0,3,22,1320
+0,1,0,2.81,0,0,ON-Jr.B,0,17,0,0,0,0,0,0,62,0,1999-00,Welland Cougars,10,0,1,13,23,1323
+0,1,0,3.02,0,0,OHL,0,17,0,0,0,0,0,0,36,0,1999-00,Sault Ste. Marie Greyhounds,3,0,0,9,16,716
+0,1,0,3.55,0,0,OHL,0,18,0,0,0,0,0,0,174,0,2000-01,Sault Ste. Marie Greyhounds,29,0,2,18,52,2938
+0,4,3,2.73,0,1847,OHL,0,19,0,1689,21,0,0,0,158,.914,2001-02,Sault Ste. Marie Greyhounds,17,3,9,33,59,3477
+0,7,3,2.42,0,1544,AHL,0,20,0,1426,52,0,0,0,118,.924,2002-03,Binghamton Senators,17,3,6,27,50,2924
+0,3,2,2.47,0,1644,AHL,0,21,0,1516,72,0,0,0,128,.922,2003-04,Binghamton Senators,23,2,7,21,53,3109
+0,0,1,2.65,0,1469,AHL,0,22,0,1337,50,0,0,0,132,.910,2004-05,Binghamton Senators,18,1,5,28,51,2993
+0,0,0,3.00,0,86,AHL,0,25,0,80,2,0,0,0,6,.930,2007-08,Binghamton Senators,1,0,0,1,2,120
+0,2,0,2.12,0,0,KHL,0,26,0,0,2,0,0,0,73,0,2008-09,Atlant Moscow Region,0,0,0,0,36,2070
+0,0,0,2.03,0,14,AHL,0,27,0,12,0,0,0,0,2,.857,2009-10,Adirondack Phantoms,1,0,0,0,1,59
+0,0,0,1.98,0,175,AHL,0,28,0,165,0,0,0,0,10,.943,2010-11,Syracuse Crunch,1,0,0,4,5,303

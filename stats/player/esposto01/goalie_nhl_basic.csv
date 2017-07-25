@@ -1,0 +1,17 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,2,[],0,2.73,0,0,NHL,0,25,0,0,0,0,0,0,34,0,1968-69,MTL,4,2.3,0,4,5,13,746
+0,0,"[{'link': '/awards/nhl_all_star.html#1970', 'name': None}, {'link': '/awards/calder.html#1970', 'name': None}, {'link': '/awards/voting-1970.html#hart', 'name': 'Hart-2'}, {'link': '/awards/vezina.html#1970', 'name': None}]",2,2.17,0,0,NHL,0,26,0,0,2,0,0,0,136,0,1969-70,CBH,17,14.7,2,8,0,63,3763
+0,6,"[{'link': '/awards/voting-1971.html#hart', 'name': 'Hart-8'}]",1,2.27,0,0,NHL,0,27,0,0,4,0,0,0,126,0,1970-71,CBH,14,0,1,6,0,57,3325
+0,0,"[{'link': '/awards/nhl_all_star.html#1972', 'name': None}, {'link': '/awards/voting-1972.html#hart', 'name': 'Hart-6'}, {'link': '/awards/vezina.html#1972', 'name': None}]",1,0,0,0,NHL,0,28,0,0,2,0,0,0,82,0,1971-72,CBH,10,13.0,1,6,31,48,2780
+0,4,"[{'link': '/awards/nhl_all_star.html#1973', 'name': None}, {'link': '/awards/voting-1973.html#hart', 'name': 'Hart-9'}]",2,2.51,0,0,NHL,0,29,0,0,0,0,0,0,140,0,1972-73,CBH,17,12.6,2,7,32,56,3340
+0,10,"[{'link': '/awards/nhl_all_star.html#1974', 'name': None}, {'link': '/awards/voting-1974.html#hart', 'name': 'Hart-5'}, {'link': '/awards/vezina.html#1974', 'name': None}]",1,2.04,0,0,NHL,0,30,0,0,0,0,0,0,141,0,1973-74,CBH,14,18.2,1,0,34,70,4143
+0,6,"[{'link': '/awards/voting-1975.html#AS', 'name': 'AS-6'}]",1,2.74,0,0,NHL,0,31,0,0,11,0,0,0,193,0,1974-75,CBH,30,15.2,1,7,34,71,0
+0,4,[],1,2.97,0,0,NHL,0,32,0,0,2,0,0,0,198,0,1975-76,CBH,23,13.2,1,0,30,0,0
+0,2,"[{'link': '/awards/voting-1977.html#AS', 'name': 'AS-7'}]",2,3.45,0,0,NHL,0,33,0,0,6,0,0,0,0,0,1976-77,CBH,0,10.1,2,8,25,0,0
+0,5,"[{'link': '/awards/voting-1978.html#hart', 'name': 'Hart-9'}]",4,2.63,0,0,NHL,0,34,0,0,0,0,0,0,168,0,1977-78,CBH,22,14.0,4,14,28,64,3840
+0,4,"[{'link': '/awards/voting-1979.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-1979.html#hart', 'name': 'Hart-11'}]",1,3.27,0,0,NHL,0,35,0,0,2,0,0,0,0,0,1978-79,CBH,28,11.2,1,11,24,63,0
+0,0,"[{'link': '/awards/nhl_all_star.html#1980', 'name': None}, {'link': '/awards/voting-1980.html#hart', 'name': 'Hart-3'}]",1,2.97,0,0,NHL,0,36,0,0,2,0,0,0,205,0,1979-80,CBH,22,0,1,0,31,0,0
+0,0,"[{'link': '/awards/voting-1981.html#AS', 'name': 'AS-7'}]",3,3.75,0,0,NHL,0,37,0,0,0,0,0,0,246,0,1980-81,CBH,23,10.8,3,14,29,0,0
+0,1,[],2,4.52,0,0,NHL,0,38,0,0,0,0,0,0,231,0,1981-82,CBH,25,6.3,2,8,19,52,3069
+0,1,"[{'link': '/awards/voting-1983.html#AS', 'name': 'AS-12'}, {'link': '/awards/voting-1983.html#vezina', 'name': 'Vezina-8'}]",0,3.46,0,0,NHL,0,39,0,0,0,0,0,0,135,0,1982-83,CBH,11,7.4,0,5,23,39,2340
+0,1,[],3,4.82,-9.31,622,NHL,0,40,0,534,0,0,0,112,88,.859,1983-84,CBH,10,2.7,3,3,5,18,1095

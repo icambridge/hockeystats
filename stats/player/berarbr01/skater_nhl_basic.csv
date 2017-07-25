@@ -1,0 +1,13 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+,0,48,1,0,0,NHL,19,23,0,86,1,172,0,5,0,3,0,17,0,1996-97,NYI,8,0,40,0,4.7,,0,"[{'link': '/awards/voting-1997.html#AS', 'name': 'AS-14'}, {'link': '/awards/calder.html#1997', 'name': None}, {'link': '/awards/voting-1997.html#norris', 'name': 'Norris-11'}]"
+,0,46,2,1,0,NHL,20,11,0,59,-32,192,0,5,0,8,0,21,0,1997-98,NYI,14,0,32,0,7.3,,75,[]
+23:35,0,34,5,0,0,NHL,21,11,0,48,1,135,0,5,0,4,0,14,0,1998-99,TOT,9,0,25,0,6.7,1627,69,[]
+24:45,0,15,3,0,0,NHL,21,6,0,26,-6,72,0,2,0,2,0,5,0,1998-99,NYI,4,0,11,0,5.6,767,31,[]
+22:38,0,19,2,0,0,NHL,21,5,0,22,7,63,0,3,0,2,0,9,0,1998-99,TOR,5,0,14,0,7.9,860,38,[]
+19:34,0,30,0,0,0,NHL,22,17,0,42,11,98,0,2,0,1,0,10,0,1999-00,TOR,3,0,27,0,3.1,1253,64,[]
+19:38,0,23,0,0,0,NHL,24,15,0,60,-1,132,0,2,0,0,1,5,0,2001-02,NYR,2,0,21,0,1.5,1610,82,[]
+21:21,0,38,1,0,0,NHL,25,16,0,64,-4,205,0,6,0,4,0,12,0,2002-03,BOS,10,0,28,0,4.9,1709,80,[]
+21:46,0,47,0,0,0,NHL,26,15,0,53,-24,203,0,7,0,6,0,19,0,2003-04,CHI,13,0,34,0,6.4,1263,58,"[{'link': '/awards/masterton.html#2004', 'name': None}, {'link': '/awards/voting-2004.html#norris', 'name': 'Norris-17'}]"
+22:40,0,32,2,0,0,NHL,28,9,0,32,-29,126,0,1,0,11,0,11,0,2005-06,CBJ,12,0,20,0,9.5,997,44,[]
+18:58,0,3,0,0,0,NHL,29,2,0,8,-4,22,0,0,0,0,0,1,0,2006-07,CBJ,0,0,3,0,0.0,209,11,[]
+17:38,206,22,2,0,59,NHL,30,6,0,48,-17,87,0,1,0,4,0,11,19,2007-08,NYI,5,37,17,37,5.7,953,54,[]

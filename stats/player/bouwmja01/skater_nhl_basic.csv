@@ -1,0 +1,17 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+20:09,0,16,0,0,0,NHL,19,4,0,14,-29,110,0,2,0,2,0,8,0,2002-03,FLA,4,0,12,0,3.6,1652,82,"[{'link': '/awards/voting-2003.html#calder', 'name': 'Calder-7'}]"
+23:02,0,20,0,0,0,NHL,20,8,0,30,-15,85,0,2,0,0,1,9,0,2003-04,FLA,2,0,18,0,2.4,1405,61,[]
+25:29,0,46,0,0,0,NHL,22,25,0,79,1,189,0,5,0,0,0,16,0,2005-06,FLA,5,0,41,0,2.6,2090,82,[]
+26:09,0,42,3,0,0,NHL,23,22,0,66,23,174,0,9,0,3,0,8,0,2006-07,FLA,12,0,30,0,6.9,2144,82,"[{'link': '/awards/voting-2007.html#AS', 'name': 'AS-11'}, {'link': '/awards/voting-2007.html#norris', 'name': 'Norris-11'}]"
+27:28,332,37,0,0,118,NHL,24,12,0,72,-5,182,0,11,0,4,0,10,19,2007-08,FLA,15,105,22,65,8.2,2252,82,"[{'link': '/awards/voting-2008.html#AS', 'name': 'AS-19'}]"
+26:59,361,42,2,0,128,NHL,25,15,0,68,-2,182,0,6,0,9,1,11,27,2008-09,FLA,15,115,27,51,8.2,2213,82,"[{'link': '/awards/voting-2009.html#AS', 'name': 'AS-15'}, {'link': '/awards/voting-2009.html#norris', 'name': 'Norris-14'}]"
+25:55,292,29,0,0,125,NHL,26,13,0,48,-4,130,0,2,0,1,2,11,24,2009-10,CGY,3,72,26,55,2.3,2125,82,[]
+25:59,270,24,1,0,134,NHL,27,13,0,44,-2,121,0,3,0,1,0,7,23,2010-11,CGY,4,72,20,57,3.3,2131,82,[]
+25:57,240,29,1,0,118,NHL,28,16,0,26,-21,107,0,3,0,2,0,8,25,2011-12,CGY,5,69,24,60,4.7,2129,82,[]
+24:38,155,22,0,0,61,NHL,29,7,0,22,-6,79,0,6,0,1,2,6,11,2012-13,TOT,7,41,15,28,8.9,1158,47,"[{'link': '/awards/voting-2013.html#byng', 'name': 'Byng-62'}]"
+25:10,109,15,0,0,51,NHL,29,4,0,16,-11,55,0,5,0,1,1,4,5,2012-13,CGY,6,33,9,24,10.9,830,33,"[{'link': '/awards/voting-2013.html#byng', 'name': 'Byng-62'}]"
+23:24,46,7,0,0,10,NHL,29,3,0,6,5,24,0,1,0,0,1,2,6,2012-13,STL,1,8,6,4,4.2,328,14,"[{'link': '/awards/voting-2013.html#byng', 'name': 'Byng-62'}]"
+24:03,289,37,0,0,106,NHL,30,23,3,20,26,152,75.0,3,1,1,0,10,18,2013-14,STL,4,51,33,22,2.6,1972,82,"[{'link': '/awards/voting-2014.html#AS', 'name': 'AS-15'}, {'link': '/awards/voting-2014.html#norris', 'name': 'Norris-17'}]"
+22:40,199,13,0,0,99,NHL,31,7,0,24,7,92,0,2,0,0,0,4,14,2014-15,STL,2,42,11,18,2.2,1632,72,[]
+23:07,230,19,0,0,110,NHL,32,15,0,18,-4,105,0,2,0,1,0,1,11,2015-16,STL,3,71,16,30,2.9,1664,72,"[{'link': '/awards/voting-2016.html#byng', 'name': 'Byng-46'}]"
+22:24,205,15,0,0,111,NHL,33,13,0,28,6,106,0,1,0,0,0,1,11,2016-17,STL,1,67,14,37,0.9,1815,81,[]

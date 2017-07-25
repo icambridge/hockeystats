@@ -1,0 +1,17 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,1,0,4.01,0,0,OHL,0,17,0,0,0,0,0,0,112,0,1999-00,Toronto St. Michael\'s Majors,18,0,1,6,34,1676
+0,0,0,3.13,0,0,WJ18-A,0,17,0,0,0,0,0,0,13,0,1999-00,Slovakia,0,0,0,0,5,249
+0,3,0,2.86,0,0,OHL,0,18,0,0,0,0,0,0,95,0,2000-01,Toronto St. Michael\'s Majors,12,0,3,17,37,1996
+0,0,0,4.02,0,0,WJC-A,0,18,0,0,0,0,0,0,16,0,2000-01,Slovakia,0,0,0,0,4,239
+0,2,0,2.29,0,1148,OHL,0,19,0,1059,0,0,0,0,89,.922,2001-02,Toronto St. Michael\'s Majors,9,0,5,26,42,2329
+0,1,0,3.11,0,0,WJC-A,0,19,0,0,0,0,0,0,11,0,2001-02,Slovakia,0,0,0,0,4,212
+0,2,0,2.66,0,734,AHL,0,20,0,669,0,0,0,0,65,.911,2002-03,Hershey Bears,10,0,2,10,28,1467
+0,3,0,2.80,0,1437,AHL,0,21,0,1317,2,0,0,0,120,.916,2003-04,Hershey Bears,20,0,6,17,46,2574
+0,5,2,2.65,0,1822,AHL,0,22,0,1674,17,0,0,0,148,.919,2004-05,Hershey Bears,25,2,2,29,59,3356
+0,0,0,2.01,0,0,Olympics,0,23,0,0,0,0,0,0,6,0,2005-06,Slovakia,1,0,0,2,3,179
+0,0,0,3.05,0,0,WC-A,0,25,0,0,0,0,0,0,3,0,2007-08,Slovakia,1,0,0,0,1,59
+0,149,0,2.76,0,149,WC-A,0,27,0,136,0,0,0,0,13,.913,2009-10,Slovakia,4,0,0,2,6,283
+0,0,0,0,0,0,Internationa,0,31,0,0,0,0,0,0,0,0,2013-14,Slovakia (all),0,0,0,0,0,0
+0,0,0,0,0,0,Olympics,0,31,0,0,0,0,0,0,0,0,2013-14,Slovakia,0,0,0,0,0,0
+0,0,0,0,0,0,AHL,0,32,0,0,0,0,0,0,0,0,2014-15,St. John\'s IceCaps,0,0,0,0,0,0
+0,0,0,0,0,0,AHL,0,33,0,0,0,0,0,0,0,0,2015-16,Ontario Reign,0,0,0,0,0,0

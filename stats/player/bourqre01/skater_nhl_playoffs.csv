@@ -1,0 +1,4 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,5,1,0,NHL,2008-09,27,1,CGY,86,0,22,-2,0,12,17,,8.3,1
+1,5,3,0,NHL,2012-13,31,2,MTL,81,1,10,-1,0,17,33,,11.8,1
+0,17,11,2,NHL,2013-14,32,8,MTL,249,3,27,4,0,51,88,,15.7,8

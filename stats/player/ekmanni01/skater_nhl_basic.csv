@@ -1,0 +1,6 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+11:12,4,0,0,NHL,23,1,36,-8,42,1,1,0,1,1999-00,TBL,2,2,[],4.8,313,28
+15:45,20,1,1,NHL,24,7,40,-15,72,6,2,0,4,2000-01,TBL,9,11,[],12.5,678,43
+14:54,55,5,4,NHL,27,24,34,30,147,17,1,1,8,2003-04,SJS,22,33,"[{'link': '/awards/voting-2004.html#byng', 'name': 'Byng-49'}, {'link': '/awards/voting-2004.html#selke', 'name': 'Selke-11'}]",15.0,1222,82
+15:12,57,2,0,NHL,29,22,54,20,176,16,5,0,14,2005-06,SJS,21,36,[],11.9,1171,77
+13:49,15,0,0,NHL,30,5,24,-14,69,4,2,0,4,2006-07,PIT,6,9,[],8.7,469,34

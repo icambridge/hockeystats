@@ -1,0 +1,12 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,29,2,0,NHL,23,15,16,10,66,8,4,0,2,1983-84,WSH,12,17,"[{'link': '/awards/voting-1984.html#calder', 'name': 'Calder-5'}]",18.2,,45
+,28,1,0,NHL,24,11,23,11,79,14,1,0,2,1984-85,WSH,15,13,[],19.0,,57
+,43,4,0,NHL,25,15,36,1,108,14,6,2,6,1985-86,LAK,20,23,[],18.5,,55
+,50,4,2,NHL,26,18,26,-12,142,12,6,0,12,1986-87,LAK,20,30,[],14.1,,68
+,26,0,0,NHL,27,13,20,-12,81,5,2,0,6,1987-88,TOT,7,19,[],8.6,,53
+,21,0,0,NHL,27,9,20,-14,68,4,2,0,6,1987-88,LAK,6,15,[],8.8,,42
+,5,0,0,NHL,27,4,0,2,13,1,0,0,0,1987-88,PIT,1,4,[],7.7,,11
+,7,0,0,NHL,30,3,0,1,16,0,0,0,4,1990-91,WIN,0,7,[],0.0,,6
+,6,1,0,NHL,31,4,0,9,16,2,0,0,0,1991-92,WIN,2,4,[],12.5,,10
+,16,1,0,NHL,32,9,14,2,45,2,2,0,3,1992-93,WIN,4,12,[],8.9,,41
+,0,0,0,NHL,33,0,6,-7,8,0,0,0,0,1993-94,WIN,0,0,[],0.0,,16

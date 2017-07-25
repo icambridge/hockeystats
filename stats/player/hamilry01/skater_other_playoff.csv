@@ -1,0 +1,11 @@
+pim,year,team,assists,plus_minus,age,games_played,points,goals,league
+0,2002-03,Barrie Colts,0,0,17,6,1,1,OHL
+8,2003-04,Barrie Colts,1,-4,18,7,1,0,OHL
+2,2004-05,Barrie Colts,0,-5,19,6,2,2,OHL
+11,2005-06,Barrie Colts,9,-2,20,14,17,8,OHL
+0,2005-06,Houston Aeros,0,0,20,1,0,0,AHL
+0,2007-08,Houston Aeros,0,-1,22,2,1,1,AHL
+4,2008-09,Toronto Marlies,2,-2,23,6,3,1,AHL
+6,2011-12,Toronto Marlies,3,-9,26,17,5,2,AHL
+0,2012-13,Toronto Marlies,1,-1,27,4,2,1,AHL
+-4,2014-15,Oklahoma City Barons,0,2,29,10,5,5,AHL

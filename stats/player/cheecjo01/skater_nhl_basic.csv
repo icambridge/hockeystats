@@ -1,0 +1,8 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+10:43,0,16,3,0,0,NHL,22,7,0,39,-5,94,0,9,0,0,0,0,0,2002-03,SJS,9,0,7,0,9.6,707,66,[]
+16:12,0,47,9,0,0,NHL,23,12,0,33,5,175,0,20,0,8,0,7,0,2003-04,SJS,28,0,19,0,16.0,1312,81,[]
+19:57,0,93,0,2,0,NHL,25,20,0,58,23,317,0,30,0,24,0,17,0,2005-06,SJS,0,0,37,0,17.7,1637,82,"[{'link': '/awards/voting-2006.html#AS', 'name': 'AS-10'}, {'link': '/awards/voting-2006.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-2006.html#hart', 'name': 'Hart-15'}, {'link': '/awards/richard.html#2006', 'name': None}]"
+17:34,0,69,5,0,0,NHL,26,17,0,69,11,250,0,22,0,15,0,15,0,2006-07,SJS,37,0,32,0,14.8,1334,76,[]
+16:36,343,37,4,0,26,NHL,27,9,4,46,11,220,20.0,13,16,10,0,5,24,2007-08,SJS,23,123,14,44,10.5,1145,69,[]
+15:19,284,29,4,1,18,NHL,28,13,1,59,-3,152,25.0,6,3,5,0,4,31,2008-09,SJS,12,107,17,31,7.9,1011,66,[]
+11:57,193,14,0,0,18,NHL,29,9,4,20,-13,117,40.0,5,6,0,0,0,16,2009-10,OTT,5,77,9,16,4.3,729,61,[]

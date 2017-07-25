@@ -1,0 +1,5 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,1,0,0,NHL,1968-69,20,0,BOS,,0,2,0,0,0,,,0,0
+0,1,0,0,NHL,1970-71,22,0,BOS,,0,10,0,0,0,,,0,0
+0,13,6,1,NHL,1971-72,23,2,BOS,,4,16,2,0,18,,SC,11.1,2
+0,2,0,0,WHA,1978-79,30,0,EDO,,0,4,-1,0,0,,,0,0

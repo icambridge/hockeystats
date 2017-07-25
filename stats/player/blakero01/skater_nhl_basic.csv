@@ -1,0 +1,23 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+,0,0,0,0,0,NHL,20,0,0,4,0,3,0,0,0,0,0,0,0,1989-90,LAK,0,0,0,0,0.0,,4,[]
+,0,46,2,0,0,NHL,21,18,0,125,3,150,0,3,0,9,0,16,0,1990-91,LAK,12,0,34,0,8.0,,75,"[{'link': '/awards/voting-1991.html#AS', 'name': 'AS-13'}, {'link': '/awards/voting-1991.html#calder', 'name': 'Calder-5'}]"
+,0,20,0,0,0,NHL,22,7,0,102,-5,131,0,2,0,5,0,6,0,1991-92,LAK,7,0,13,0,5.3,,57,[]
+,0,59,4,0,0,NHL,23,19,0,152,18,243,0,6,0,10,2,22,0,1992-93,LAK,16,0,43,0,6.6,,76,[]
+,0,68,6,0,0,NHL,24,19,0,137,-7,304,0,13,0,7,3,26,0,1993-94,LAK,20,0,48,0,6.6,,84,"[{'link': '/awards/voting-1994.html#AS', 'name': 'AS-11'}]"
+,0,11,1,0,0,NHL,25,5,0,38,-16,76,0,0,0,4,0,2,0,1994-95,LAK,4,0,7,0,5.3,,24,[]
+,0,3,0,0,0,NHL,26,0,0,8,0,13,0,1,0,0,0,2,0,1995-96,LAK,1,0,2,0,7.7,,6,[]
+,0,31,1,0,0,NHL,27,14,0,82,-28,169,0,4,0,4,0,9,0,1996-97,LAK,8,0,23,0,4.7,,62,[]
+,0,50,4,0,0,NHL,28,15,0,94,-3,261,0,12,0,11,1,11,0,1997-98,LAK,23,0,27,0,8.8,,81,"[{'link': '/awards/nhl_all_star.html#1998', 'name': None}, {'link': '/awards/voting-1998.html#hart', 'name': 'Hart-10'}, {'link': '/awards/norris.html#1998', 'name': None}]"
+24:52,0,35,2,1,0,NHL,29,16,0,128,-7,216,0,6,0,5,1,6,0,1998-99,LAK,12,0,23,0,5.6,1542,62,"[{'link': '/awards/voting-1999.html#AS', 'name': 'AS-16'}, {'link': '/awards/voting-1999.html#norris', 'name': 'Norris-17'}]"
+28:30,0,57,5,0,0,NHL,30,24,0,112,10,327,0,6,0,12,1,14,0,1999-00,LAK,18,0,39,0,5.5,2194,77,"[{'link': '/awards/nhl_all_star.html#2000', 'name': None}, {'link': '/awards/voting-2000.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-2000.html#norris', 'name': 'Norris-3'}]"
+27:46,0,59,2,0,0,NHL,31,20,0,77,3,267,0,9,0,10,1,19,0,2000-01,TOT,19,0,40,0,7.1,1860,67,"[{'link': '/awards/voting-2001.html#AS', 'name': 'AS-3'}, {'link': '/awards/nhl_all_star.html#2001', 'name': None}, {'link': '/awards/voting-2001.html#hart', 'name': 'Hart-23'}, {'link': '/awards/voting-2001.html#norris', 'name': 'Norris-4'}]"
+28:11,0,49,1,0,0,NHL,31,14,0,69,-8,223,0,8,0,9,1,17,0,2000-01,LAK,17,0,32,0,7.6,1522,54,"[{'link': '/awards/voting-2001.html#AS', 'name': 'AS-3'}, {'link': '/awards/nhl_all_star.html#2001', 'name': None}, {'link': '/awards/voting-2001.html#hart', 'name': 'Hart-23'}, {'link': '/awards/voting-2001.html#norris', 'name': 'Norris-4'}]"
+26:03,0,10,1,0,0,NHL,31,6,0,8,11,44,0,1,0,1,0,2,0,2000-01,COL,2,0,8,0,4.5,339,13,"[{'link': '/awards/voting-2001.html#AS', 'name': 'AS-3'}, {'link': '/awards/nhl_all_star.html#2001', 'name': None}, {'link': '/awards/voting-2001.html#hart', 'name': 'Hart-23'}, {'link': '/awards/voting-2001.html#norris', 'name': 'Norris-4'}]"
+27:35,0,56,2,0,0,NHL,32,22,0,58,16,229,0,6,0,10,1,17,0,2001-02,COL,16,0,40,0,7.0,2068,75,"[{'link': '/awards/nhl_all_star.html#2002', 'name': None}, {'link': '/awards/voting-2002.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-2002.html#norris', 'name': 'Norris-3'}]"
+26:21,0,45,3,2,0,NHL,33,14,0,57,20,269,0,7,0,8,1,13,0,2002-03,COL,17,0,28,0,6.3,2082,79,"[{'link': '/awards/voting-2003.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-2003.html#norris', 'name': 'Norris-5'}]"
+24:23,0,46,3,0,0,NHL,34,14,0,61,6,242,0,5,0,8,1,18,0,2003-04,COL,13,0,33,0,5.4,1805,74,"[{'link': '/awards/voting-2004.html#AS', 'name': 'AS-8'}, {'link': '/awards/voting-2004.html#norris', 'name': 'Norris-8'}]"
+24:22,0,51,1,1,0,NHL,36,19,0,94,2,264,0,6,0,7,1,17,0,2005-06,COL,14,0,37,0,5.3,1974,81,"[{'link': '/awards/voting-2006.html#norris', 'name': 'Norris-12'}]"
+24:24,0,34,1,0,0,NHL,37,4,0,82,-26,208,0,3,0,11,1,15,0,2006-07,LAK,14,0,20,0,6.7,1757,72,[]
+22:44,276,31,2,0,143,NHL,38,12,4,98,-19,144,50.0,4,4,5,0,10,21,2007-08,LAK,9,93,22,58,6.3,1614,71,[]
+21:16,365,45,1,0,114,NHL,39,19,0,110,15,198,0,4,0,6,0,16,23,2008-09,SJS,10,66,35,37,5.1,1553,73,"[{'link': '/awards/voting-2009.html#AS', 'name': 'AS-21'}]"
+21:21,342,30,1,0,114,NHL,40,18,0,60,14,182,0,3,0,4,1,4,19,2009-10,SJS,7,68,23,51,3.8,1495,70,[]

@@ -1,0 +1,8 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,1,0,0,NHL,20,0,2,-3,11,1,0,0,0,1971-72,DET,1,0,[],9.1,,16
+,28,0,1,NHL,21,14,82,-2,136,13,0,0,0,1972-73,DET,14,14,"[{'link': '/awards/voting-1973.html#calder', 'name': 'Calder-9'}]",10.3,,73
+,31,5,3,NHL,22,10,32,-22,132,14,2,0,2,1973-74,DET,19,12,[],14.4,,70
+,29,1,0,NHL,23,10,23,-12,129,14,1,0,4,1974-75,MNS,15,14,[],11.6,,51
+,35,0,0,WHA,24,0,47,3,85,0,0,0,0,1975-76,MFS,15,20,[],17.6,,36
+,11,0,0,NHL,24,4,14,-13,42,2,2,0,3,1975-76,KCS,4,7,[],9.5,,28
+,2,0,0,NHL,25,2,4,0,10,0,0,0,0,1976-77,CLR,0,2,[],0.0,,9

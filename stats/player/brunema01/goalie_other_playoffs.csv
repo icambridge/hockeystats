@@ -1,0 +1,12 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,3.65,0,0,QAAA,0,16,0,0,0,0,0,0,19,0,1982-83,Ste-Foy Gouverneurs,1,0,0,4,5,312
+0,0,0,3.75,0,0,QAAA,0,17,0,0,0,0,0,0,45,0,1983-84,Ste-Foy Gouverneurs,3,0,0,8,11,720
+0,0,0,6.50,0,0,QMJHL,0,18,0,0,0,0,0,0,13,0,1984-85,Quebec Remparts,2,0,0,0,2,120
+0,0,0,4.32,0,0,QMJHL,0,19,0,0,0,0,0,0,60,0,1985-86,Laval Titan,5,0,0,9,14,834
+0,0,0,4.61,0,0,QMJHL,0,20,0,0,0,0,0,0,63,0,1986-87,Laval Titan,6,0,0,8,14,820
+0,0,0,5.07,0,0,AHL,0,22,0,0,0,0,0,0,12,0,1988-89,Halifax Citadels,2,0,0,0,3,142
+0,1,0,3.86,0,0,Italy,0,25,0,0,0,0,0,0,43,0,1991-92,HC Asiago,0,0,0,0,11,668
+0,1,0,2.92,0,0,Germany,0,30,0,0,0,0,0,0,24,0,1996-97,EHC Eisbaren Berlin,0,0,0,0,8,493
+0,1,0,2.87,0,0,Germany,0,31,0,0,0,0,0,0,29,0,1997-98,EHC Eisbaren Berlin,3,0,0,7,10,607
+0,4,0,1.33,0,0,German-2,0,34,0,0,0,0,0,0,16,0,2000-01,ERC Ingolstadt,0,0,0,0,12,720
+0,0,0,1.48,0,0,German-2,0,35,0,0,0,0,0,0,17,0,2001-02,ERC Ingolstadt,0,0,0,0,11,691

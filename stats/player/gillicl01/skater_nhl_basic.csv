@@ -1,0 +1,15 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,47,4,0,NHL,20,20,66,-4,165,17,8,0,2,1974-75,NYI,25,22,[],15.2,,0
+,61,6,0,NHL,21,16,96,20,210,19,15,0,11,1975-76,NYI,34,27,[],16.2,,0
+,55,5,0,NHL,22,14,93,18,215,21,12,0,8,1976-77,NYI,33,22,"[{'link': '/awards/voting-1977.html#AS', 'name': 'AS-5'}]",15.3,,70
+,85,2,0,NHL,23,33,76,49,277,26,9,0,17,1977-78,NYI,35,50,"[{'link': '/awards/nhl_all_star.html#1978', 'name': None}, {'link': '/awards/voting-1978.html#hart', 'name': 'Hart-10'}]",12.6,,80
+,91,5,0,NHL,24,38,68,57,210,24,11,0,18,1978-79,NYI,35,56,"[{'link': '/awards/nhl_all_star.html#1979', 'name': None}, {'link': '/awards/voting-1979.html#selke', 'name': 'Selke-6'}]",16.7,,75
+,54,5,0,NHL,25,23,49,29,175,12,7,0,12,1979-80,NYI,19,35,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-12'}]",10.9,,73
+,78,3,0,NHL,26,28,99,26,188,24,9,0,17,1980-81,NYI,33,45,"[{'link': '/awards/voting-1981.html#AS', 'name': 'AS-6'}]",17.6,,80
+,77,5,0,NHL,27,33,75,39,200,30,8,0,6,1981-82,NYI,38,39,"[{'link': '/awards/voting-1982.html#AS', 'name': 'AS-22'}, {'link': '/awards/voting-1982.html#AS', 'name': 'AS-5'}]",19.0,,79
+,41,2,0,NHL,28,13,76,9,145,17,4,0,7,1982-83,NYI,21,20,[],14.5,,70
+,28,2,0,NHL,29,15,65,5,138,9,3,0,1,1983-84,NYI,12,16,"[{'link': '/awards/voting-1984.html#selke', 'name': 'Selke-16'}]",8.7,,76
+,32,2,0,NHL,30,14,73,0,125,10,5,0,3,1984-85,NYI,15,17,[],12.0,,54
+,14,0,0,NHL,31,9,55,-8,74,3,1,0,1,1985-86,NYI,4,10,[],5.4,,55
+,27,2,0,NHL,32,16,81,0,106,9,1,0,1,1986-87,BUF,10,17,[],9.4,,61
+,7,1,0,NHL,33,2,51,1,23,5,0,0,0,1987-88,BUF,5,2,[],21.7,,25

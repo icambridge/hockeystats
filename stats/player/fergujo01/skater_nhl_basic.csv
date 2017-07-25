@@ -1,0 +1,9 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,45,4,0,NHL,25,0,125,0,0,15,3,0,0,1963-64,MTL,18,27,"[{'link': '/awards/voting-1964.html#calder', 'name': 'Calder-2'}]",0,,59
+,44,2,0,NHL,26,0,156,0,0,11,6,0,0,1964-65,MTL,17,27,[],0,,69
+,25,1,0,NHL,27,0,153,0,0,10,1,0,0,1965-66,MTL,11,14,[],0,,65
+,42,2,0,NHL,28,0,0,0,0,15,5,0,0,1966-67,MTL,20,22,[],0,,67
+,33,3,0,NHL,29,14,117,18,153,15,0,0,4,1967-68,MTL,15,18,[],9.8,,61
+,52,7,0,NHL,30,20,185,30,185,27,2,0,3,1968-69,MTL,29,23,[],15.7,,71
+,32,7,0,NHL,31,13,139,11,116,13,6,0,0,1969-70,MTL,19,13,[],16.4,,48
+,30,4,0,NHL,32,12,162,2,117,13,3,0,2,1970-71,MTL,16,14,[],13.7,,60

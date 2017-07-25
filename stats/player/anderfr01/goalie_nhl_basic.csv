@@ -1,0 +1,5 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,0,"[{'link': '/awards/voting-2014.html#calder', 'name': 'Calder-9'}]",1,2.29,7.47,783,NHL,12,24,.500,723,0,0,24,89,60,.923,2013-14,ANA,5,5.6,1,0,20,28,1569
+9,3,[],3,2.38,-0.43,1436,NHL,32,25,.604,1313,4,0,53,100,123,.914,2014-15,ANA,12,8.6,3,5,35,54,3106
+5,3,"[{'link': '/awards/jennings.html#2016', 'name': None}]",1,2.30,4.46,1086,NHL,24,26,.649,998,2,0,37,95,88,.919,2015-16,ANA,9,7.0,1,7,22,43,2298
+11,4,[],1,2.67,8.58,2052,NHL,38,27,.576,1883,16,0,66,95,169,.918,2016-17,TOR,16,13.1,1,0,33,66,3799

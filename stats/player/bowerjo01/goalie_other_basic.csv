@@ -1,0 +1,16 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,2.57,0,0,SJHL,0,20,0,0,0,0,0,0,27,0,1944-45,Prince Albert Black Hawks,4,0,1,5,10,630
+0,4,0,3.92,0,0,AHL,0,21,0,0,0,0,0,0,164,0,1945-46,2 Teams,18,0,6,18,42,2508
+0,4,0,3.90,0,0,AHL,0,21,0,0,0,0,0,0,160,0,1945-46,Cleveland Barons,17,0,6,18,41,2460
+0,0,0,5.00,0,0,AHL,0,21,0,0,0,0,0,0,4,0,1945-46,Providence Reds,1,0,0,0,1,48
+0,3,0,3.10,0,0,AHL,0,22,0,0,0,0,0,0,124,0,1946-47,Cleveland Barons,11,0,7,22,40,2400
+0,1,0,2.65,0,0,AHL,0,23,0,0,0,0,0,0,83,0,1947-48,Cleveland Barons,6,0,6,18,31,1880
+0,3,0,3.46,0,0,AHL,0,24,0,0,0,0,0,0,127,0,1948-49,Cleveland Barons,9,0,5,23,37,2200
+0,5,0,3.30,0,0,AHL,0,25,0,0,0,0,0,0,201,0,1949-50,Cleveland Barons,15,0,8,38,61,3660
+0,5,0,2.99,0,0,AHL,0,26,0,0,0,0,0,0,213,0,1950-51,Cleveland Barons,21,0,5,44,70,4280
+0,3,0,2.41,0,0,AHL,0,27,0,0,0,0,0,0,165,0,1951-52,Cleveland Barons,19,0,5,44,68,4110
+0,6,0,2.53,0,0,AHL,0,28,0,0,0,0,0,0,155,0,1952-53,Cleveland Barons,19,0,2,40,61,3680
+0,7,0,2.71,0,0,WHL,0,30,0,0,0,0,0,0,171,0,1954-55,Vancouver Canucks,25,0,8,30,63,3780
+0,3,0,2.81,0,0,AHL,0,31,0,0,0,0,0,0,174,0,1955-56,Providence Reds,14,0,2,45,61,3710
+0,4,0,2.37,0,0,AHL,0,32,0,0,0,0,0,0,138,0,1956-57,Providence Reds,19,0,8,30,57,3501
+0,8,0,2.17,0,0,AHL,0,33,0,0,0,0,0,0,140,0,1957-58,Cleveland Barons,23,0,3,37,64,3870

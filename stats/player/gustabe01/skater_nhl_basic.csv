@@ -1,0 +1,10 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,60,3,1,NHL,21,23,17,-17,185,15,6,0,15,1979-80,WSH,22,38,[],11.9,,80
+,55,1,2,NHL,22,22,26,11,170,15,4,0,12,1980-81,WSH,21,34,[],12.4,,72
+,60,2,0,NHL,23,25,40,-20,142,23,3,0,9,1981-82,WSH,26,34,[],18.3,,70
+,64,4,0,NHL,24,17,16,9,139,20,2,1,24,1982-83,WSH,22,42,[],15.8,,67
+,75,5,0,NHL,25,27,16,29,146,24,8,0,16,1983-84,WSH,32,43,"[{'link': '/awards/voting-1984.html#AS', 'name': 'AS-7'}, {'link': '/awards/voting-1984.html#selke', 'name': 'Selke-14'}]",21.9,,69
+,43,3,1,NHL,26,20,8,13,98,7,6,0,9,1984-85,WSH,14,29,[],14.3,,51
+,75,6,4,NHL,27,28,26,9,113,11,8,1,23,1985-86,WSH,23,52,"[{'link': '/awards/voting-1986.html#AS', 'name': 'AS-6'}, {'link': '/awards/voting-1986.html#selke', 'name': 'Selke-4'}]",20.4,,70
+,54,3,5,NHL,29,17,29,2,136,6,7,1,18,1987-88,WSH,18,36,"[{'link': '/awards/voting-1988.html#selke', 'name': 'Selke-18'}]",13.2,,78
+,69,6,4,NHL,30,31,18,13,107,9,5,1,19,1988-89,WSH,18,51,"[{'link': '/awards/voting-1989.html#byng', 'name': 'Byng-6'}, {'link': '/awards/voting-1989.html#selke', 'name': 'Selke-5'}]",16.8,,72

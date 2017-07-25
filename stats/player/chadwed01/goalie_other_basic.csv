@@ -1,0 +1,19 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,2,0,3.78,0,0,OHA-Jr.,0,17,0,0,0,0,0,0,148,0,1950-51,St. Michael\'s Majors,0,0,0,0,40,2350
+0,0,0,3.48,0,0,OHA-Jr.,0,18,0,0,0,0,0,0,168,0,1951-52,St. Michael\'s Majors,17,0,3,28,49,2900
+0,3,0,3.28,0,0,OHA-Jr.,0,19,0,0,0,0,0,0,151,0,1952-53,St. Michael\'s Majors,0,0,0,0,46,2760
+0,0,0,1.00,0,0,AHL,0,19,0,0,0,0,0,0,1,0,1952-53,Pittsburgh Hornets,0,0,0,1,1,60
+0,0,0,4.86,0,0,OHA-Sr.,0,20,0,0,0,0,0,0,17,0,1953-54,Stratford Indians,0,0,0,0,4,210
+0,0,0,4.50,0,0,AHL,0,20,0,0,0,0,0,0,9,0,1953-54,Pittsburgh Hornets,1,0,0,1,2,120
+0,3,0,2.57,0,0,NOHA,0,21,0,0,0,0,0,0,96,0,1954-55,Sault Ste. Marie Greyhounds,0,0,0,0,38,2240
+0,0,0,5.00,0,0,AHL,0,21,0,0,0,0,0,0,10,0,1954-55,Buffalo Bisons,1,0,0,1,2,120
+0,2,0,2.96,0,0,WHL,0,22,0,0,0,0,0,0,204,0,1955-56,Winnipeg Warriors,27,0,2,39,68,4129
+0,4,0,2.75,0,0,AHL,0,26,0,0,0,0,0,0,184,0,1959-60,Rochester Americans,24,0,4,39,67,4020
+0,2,0,3.29,0,0,AHL,0,27,0,0,0,0,0,0,236,0,1960-61,Rochester Americans,35,0,4,32,71,4300
+0,2,0,3.19,0,0,EPHL,0,28,0,0,0,0,0,0,214,0,1961-62,Kingston Frontenacs,23,0,8,36,67,4020
+0,6,0,3.22,0,0,AHL,0,29,0,0,0,0,0,0,219,0,1962-63,Hershey Bears,26,0,7,34,68,4080
+0,2,0,3.40,0,0,AHL,0,30,0,0,0,0,0,0,189,0,1963-64,Hershey Bears,22,0,3,31,57,3340
+0,5,0,3.02,0,0,AHL,0,31,0,0,0,0,0,0,186,0,1964-65,Buffalo Bisons,21,0,6,33,61,3696
+0,3,0,3.09,0,0,AHL,0,32,0,0,0,0,0,0,102,0,1965-66,Buffalo Bisons,18,0,1,14,34,1983
+0,0,0,5.18,0,0,AHL,0,33,0,0,0,0,0,0,158,0,1966-67,Buffalo Bisons,23,0,2,5,36,1829
+0,1,0,3.75,0,0,AHL,0,34,0,0,0,0,0,0,55,0,1967-68,Buffalo Bisons,8,0,1,5,18,881

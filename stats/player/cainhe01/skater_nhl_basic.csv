@@ -1,0 +1,14 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,9,0,0,NHL,21,0,14,0,0,0,0,0,0,1933-34,MTM,4,5,[],0,,30
+,27,0,0,NHL,22,0,13,0,0,0,0,0,0,1934-35,MTM,20,7,[],0,,44
+,18,0,0,NHL,23,0,16,0,0,0,0,0,0,1935-36,MTM,5,13,[],0,,48
+,30,0,0,NHL,24,0,18,0,0,0,0,0,0,1936-37,MTM,13,17,[],0,,42
+,30,0,0,NHL,25,0,10,0,0,0,0,0,0,1937-38,MTM,11,19,[],0,,47
+,27,0,0,NHL,26,0,26,0,0,0,0,0,0,1938-39,MTL,13,14,[],0,,45
+,31,0,0,NHL,27,0,30,0,0,0,0,0,0,1939-40,BOS,21,10,[],0,,48
+,18,0,0,NHL,28,0,6,0,0,0,0,0,0,1940-41,BOS,8,10,[],0,,41
+,18,0,0,NHL,29,0,2,0,0,0,0,0,0,1941-42,BOS,8,10,[],0,,34
+,36,0,0,NHL,30,0,19,0,0,0,0,0,0,1942-43,BOS,18,18,[],0,,45
+,0,0,0,NHL,31,0,4,0,0,0,0,0,0,1943-44,BOS,36,46,"[{'link': '/awards/nhl_all_star.html#1944', 'name': None}, {'link': '/awards/voting-1944.html#byng', 'name': 'Byng-2'}]",0,,48
+,45,0,0,NHL,32,0,16,0,0,0,0,0,0,1944-45,BOS,32,13,[],0,,0
+,29,0,0,NHL,33,0,4,0,0,0,0,0,0,1945-46,BOS,17,12,[],0,,48

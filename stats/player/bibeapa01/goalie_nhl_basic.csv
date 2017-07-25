@@ -1,0 +1,10 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,0,[],0,4.29,0,0,NHL,0,21,0,0,0,0,0,0,15,0,1940-41,MTL,2,-0.1,0,0,1,4,210
+0,1,[],0,3.30,0,0,NHL,0,22,0,0,0,0,0,0,131,0,1941-42,MTL,19,5.4,0,2,17,38,2380
+0,1,[],0,3.81,0,0,NHL,0,23,0,0,0,0,0,0,0,0,1942-43,MTL,0,7.5,0,12,19,0,3010
+0,0,"[{'link': '/awards/nhl_all_star.html#1944', 'name': None}]",0,3.00,0,0,NHL,0,24,0,0,0,0,0,0,87,0,1943-44,TOR,14,7.0,0,2,13,29,1740
+0,0,[],0,4.55,0,0,NHL,0,25,0,0,0,0,0,0,116,0,1944-45,BOS,18,2.5,0,2,6,26,1530
+0,2,[],0,2.88,0,0,NHL,0,26,0,0,0,0,0,0,75,0,1945-46,TOT,10,5.4,0,4,12,26,1560
+0,2,[],0,2.81,0,0,NHL,0,26,0,0,0,0,0,0,45,0,1945-46,BOS,4,3.4,0,4,8,16,960
+0,0,[],0,3.00,0,0,NHL,0,26,0,0,0,0,0,0,30,0,1945-46,MTL,6,2.0,0,0,4,10,600
+0,1,[],0,4.15,0,0,NHL,0,27,0,0,2,0,0,0,170,0,1946-47,CBH,25,3.2,0,3,13,41,2460

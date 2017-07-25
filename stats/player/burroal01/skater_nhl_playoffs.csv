@@ -1,0 +1,9 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,11,1,0,NHL,2006-07,25,1,VAN,116,0,14,0,0,12,,,8.3,1
+0,10,4,1,NHL,2008-09,27,3,VAN,188,1,20,3,0,22,33,,13.6,3
+0,12,6,0,NHL,2009-10,28,3,VAN,226,3,22,4,0,27,42,,11.1,3
+1,0,17,2,NHL,2010-11,29,9,VAN,517,8,34,0,1,62,101,,14.5,7
+0,5,1,0,NHL,2011-12,30,1,VAN,94,0,7,-1,0,17,26,,5.9,1
+1,4,3,0,NHL,2012-13,31,2,VAN,82,1,6,1,0,11,21,,18.2,1
+0,3,2,0,NHL,2014-15,33,0,VAN,43,2,21,1,0,11,17,,0.0,0
+0,15,5,0,NHL,2016-17,35,0,OTT,216,5,18,0,0,20,39,,0.0,0

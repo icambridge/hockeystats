@@ -1,0 +1,21 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,5,0,0,NHL,21,0,2,0,0,3,0,0,0,1963-64,CBH,3,2,[],0,,27
+,55,9,1,NHL,22,0,44,0,0,17,5,0,0,1964-65,CBH,23,32,[],0,,0
+,53,6,0,NHL,23,0,49,0,0,20,7,0,0,1965-66,CBH,27,26,[],0,,69
+,61,3,1,NHL,24,0,40,0,0,18,2,0,0,1966-67,CBH,21,40,[],0,,69
+,84,3,1,NHL,25,30,21,19,284,25,9,0,19,1967-68,BOS,35,0,"[{'link': '/awards/nhl_all_star.html#1968', 'name': None}, {'link': '/awards/voting-1968.html#byng', 'name': 'Byng-5'}]",12.3,,74
+,0,9,2,NHL,26,46,79,56,351,37,10,2,29,1968-69,BOS,49,0,"[{'link': '/awards/nhl_all_star.html#1969', 'name': None}, {'link': '/awards/hart.html#1969', 'name': None}, {'link': '/awards/ross.html#1969', 'name': None}]",14.0,,74
+,99,5,1,NHL,27,30,50,28,405,24,0,1,25,1969-70,BOS,0,56,"[{'link': '/awards/nhl_all_star.html#1970', 'name': None}, {'link': '/awards/voting-1970.html#hart', 'name': 'Hart-6'}]",10.6,,0
+,0,0,1,NHL,28,49,71,71,0,0,0,1,26,1970-71,BOS,0,76,"[{'link': '/awards/nhl_all_star.html#1971', 'name': None}, {'link': '/awards/voting-1971.html#hart', 'name': 'Hart-2'}, {'link': '/awards/pearson.html#1971', 'name': None}, {'link': '/awards/ross.html#1971', 'name': None}]",13.8,,78
+,0,0,2,NHL,29,41,76,55,0,36,0,2,24,1971-72,BOS,0,67,"[{'link': '/awards/nhl_all_star.html#1972', 'name': None}, {'link': '/awards/voting-1972.html#hart', 'name': 'Hart-3'}, {'link': '/awards/ross.html#1972', 'name': None}]",15.5,,76
+,0,0,0,NHL,30,50,87,16,0,31,19,1,24,1972-73,BOS,0,0,"[{'link': '/awards/nhl_all_star.html#1973', 'name': None}, {'link': '/awards/voting-1973.html#hart', 'name': 'Hart-2'}, {'link': '/awards/ross.html#1973', 'name': None}]",13.4,,78
+,0,9,4,NHL,31,49,58,51,0,0,14,2,26,1973-74,BOS,0,77,"[{'link': '/awards/nhl_all_star.html#1974', 'name': None}, {'link': '/awards/hart.html#1974', 'name': None}, {'link': '/awards/pearson.html#1974', 'name': None}, {'link': '/awards/ross.html#1974', 'name': None}]",17.3,,0
+,127,8,4,NHL,32,38,62,18,347,30,0,1,27,1974-75,BOS,0,66,"[{'link': '/awards/nhl_all_star.html#1975', 'name': None}]",17.6,,79
+,83,2,1,NHL,33,25,36,-40,274,15,0,0,23,1975-76,TOT,35,48,[],12.8,,74
+,16,0,0,NHL,33,4,8,-1,57,3,3,0,6,1975-76,BOS,6,10,[],10.5,,12
+,67,2,1,NHL,33,21,28,-39,217,12,16,0,17,1975-76,NYR,29,38,[],13.4,,62
+,80,4,0,NHL,34,28,52,-28,344,19,15,1,17,1976-77,NYR,34,46,[],9.9,,0
+,81,5,0,NHL,35,25,53,-22,259,17,21,1,17,1977-78,NYR,38,43,[],14.7,,79
+,78,7,0,NHL,36,24,37,-1,215,28,14,0,12,1978-79,NYR,42,36,"[{'link': '/awards/voting-1979.html#AS', 'name': 'AS-6'}, {'link': '/awards/voting-1979.html#hart', 'name': 'Hart-15'}]",19.5,,0
+,78,5,0,NHL,37,29,73,-13,245,21,13,0,15,1979-80,NYR,34,44,[],13.9,,80
+,20,0,0,NHL,38,10,20,-13,91,4,3,0,3,1980-81,NYR,7,13,[],7.7,,41

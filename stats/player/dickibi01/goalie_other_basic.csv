@@ -1,0 +1,12 @@
+shots_againist,good_start_precentages,ties,saves,minutes,games_played,assists,year,goals,wins,goals_allowed_average,league,games_started,goals_allowed,goals_allowed_precentage,goals_saved_aboved_average,loses,good_starts,saves_percentage,age,pim,shutouts,points,bad_start,team
+0,0,2,0,250,4,0,1933-34,0,1,0.72,MIHC,0,3,0,0,1,0,0,17,0,2,0,0,Mount Allison University
+0,0,0,0,430,7,0,1933-34,0,7,1.53,NBCHL,0,11,0,0,0,0,0,17,0,1,0,0,Mount Allison University
+0,0,1,0,250,4,0,1934-35,0,3,2.40,MIHC,0,10,0,0,0,0,0,18,0,0,0,0,Mount Allison University
+0,0,0,0,370,6,0,1934-35,0,4,2.43,NBCHL,0,15,0,0,2,0,0,18,0,0,0,0,Mount Allison University
+0,0,0,0,60,1,0,1935-36,0,0,2.00,X-Games,0,2,0,0,1,0,0,19,0,0,0,0,Mount Allison University
+0,0,1,0,240,4,0,1936-37,0,3,0.75,MIHC,0,3,0,0,0,0,0,20,0,2,0,0,Mount Allison University
+0,0,1,0,1780,29,0,1937-38,0,16,2.33,SNBHL,0,69,0,0,11,0,0,21,0,4,0,0,Saint John Beavers
+0,0,5,0,2050,34,0,1938-39,0,20,2.49,X-Games,0,85,0,0,9,0,0,22,0,4,0,0,Saint John Beavers
+0,0,1,0,2100,35,0,1939-40,0,26,2.43,CBSHL,0,85,0,0,8,0,0,23,0,5,0,0,Sydney Millionaires
+0,0,1,0,2400,40,0,1940-41,0,24,3.12,CBSHL,0,125,0,0,15,0,0,24,0,3,0,0,Sydney Millionaires
+0,0,9,0,2400,40,0,1941-42,0,10,3.47,QSHL,0,139,0,0,21,0,0,25,0,2,0,0,Montreal Pats

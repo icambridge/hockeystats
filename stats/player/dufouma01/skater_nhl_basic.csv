@@ -1,0 +1,4 @@
+game_winning_goals,plus_minus,shots,shorthanded_assists,games_played,assists,year,even_strength_assists,shorthanded_goals,goals,power_play_goals,average_ice_time,league,shotsPercentage,power_play_assists,age,pim,awards,points,even_strength_goals,total_ice_time,team
+0,0,0,0,10,0,1963-64,0,0,1,0,,NHL,0,0,22,2,[],1,1,,NYR
+0,0,0,0,2,0,1964-65,0,0,0,0,,NHL,0,0,23,0,[],0,0,,NYR
+0,-1,2,0,2,0,1968-69,0,0,0,0,,NHL,0.0,0,27,0,[],0,0,,LAK

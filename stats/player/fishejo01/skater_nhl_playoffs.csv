@@ -1,0 +1,5 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,5,2,0,NHL,1939-40,23,1,DET,,1,0,0,0,0,,,0,0
+0,5,1,0,NHL,1940-41,24,1,DET,,0,6,0,0,0,,,0,0
+0,1,0,0,NHL,1941-42,25,0,DET,,0,0,0,0,0,,,0,0
+0,1,0,0,NHL,1942-43,26,0,DET,,0,0,0,0,0,,SC,0,0

@@ -1,0 +1,12 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,2,0,3.15,0,800,QMJHL,0,17,0,721,2,0,0,0,79,.901,2007-08,St. John\'s Fog Devils,12,0,0,9,30,1507
+0,2,0,1.43,0,0,WJ18-A,0,17,0,0,2,0,0,0,10,0,2007-08,Canada,1,0,0,6,7,420
+0,3,0,2.86,0,1706,QMJHL,0,18,0,1562,2,0,0,0,144,.916,2008-09,Junior de Montreal,25,0,0,28,53,3023
+0,2,0,2.06,0,102,WJC-A,0,19,0,92,0,0,0,0,10,.902,2009-10,Canada,0,0,0,4,5,291
+0,4,0,2.20,0,1174,QMJHL,0,19,0,1082,0,0,0,0,92,.922,2009-10,2 Teams,14,0,0,29,45,2512
+0,1,0,2.66,0,624,QMJHL,0,19,0,569,0,0,0,0,55,.912,2009-10,Junior de Montreal,11,0,0,11,23,1241
+0,3,0,1.75,0,550,QMJHL,0,19,0,513,0,0,0,0,37,.933,2009-10,Drummondville Voltigeurs,3,0,0,18,22,1271
+0,6,2,2.52,0,1424,AHL,0,20,0,1306,0,0,0,0,118,.917,2010-11,Peoria Rivermen,19,2,3,25,47,2805
+0,1,0,2.93,0,1236,AHL,0,21,0,1131,0,0,0,0,105,.915,2011-12,Peoria Rivermen,20,0,2,13,38,2148
+0,2,0,2.89,0,1036,AHL,0,22,0,937,0,0,0,0,99,.904,2012-13,Peoria Rivermen,19,0,2,13,35,2054
+0,0,0,0,0,0,AHL,0,23,0,0,0,0,0,0,0,0,2013-14,Chicago Wolves,0,0,0,0,0,0

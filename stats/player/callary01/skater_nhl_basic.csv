@@ -1,0 +1,14 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+10:31,0,6,1,0,0,NHL,21,2,0,9,5,40,0,4,0,0,0,0,0,2006-07,NYR,4,0,2,0,10.0,147,14,[]
+12:22,139,13,1,1,25,NHL,22,5,1,31,7,92,20.0,7,4,0,0,0,18,2007-08,NYR,8,139,5,12,8.7,643,52,[]
+17:04,389,40,1,1,32,NHL,23,16,7,45,7,237,70.0,19,3,2,0,2,53,2008-09,NYR,22,265,18,9,9.3,1382,81,"[{'link': '/awards/voting-2009.html#selke', 'name': 'Selke-64'}]"
+19:24,368,37,3,0,81,NHL,24,6,17,48,-12,204,48.6,10,18,9,1,11,52,2009-10,NYR,19,285,18,14,9.3,1494,77,"[{'link': '/awards/voting-2010.html#selke', 'name': 'Selke-21'}]"
+19:54,299,48,5,0,77,NHL,25,18,2,46,-7,179,11.8,13,15,10,2,5,42,2010-11,NYR,23,224,25,12,12.8,1194,60,"[{'link': '/awards/voting-2011.html#selke', 'name': 'Selke-10'}]"
+21:02,391,54,9,1,88,NHL,26,19,10,61,-8,235,50.0,15,10,13,2,4,51,2011-12,NYR,29,271,25,16,12.3,1599,76,"[{'link': '/awards/voting-2012.html#AS', 'name': 'AS-14'}, {'link': '/awards/voting-2012.html#selke', 'name': 'Selke-4'}]"
+21:31,245,31,4,2,66,NHL,27,12,14,12,9,144,46.7,8,16,6,1,2,23,2012-13,NYR,16,154,15,18,11.1,968,45,"[{'link': '/awards/voting-2013.html#AS', 'name': 'AS-9'}, {'link': '/awards/voting-2013.html#byng', 'name': 'Byng-10'}, {'link': '/awards/voting-2013.html#selke', 'name': 'Selke-8'}]"
+18:39,304,36,3,1,60,NHL,28,14,13,24,1,163,40.6,9,19,7,0,5,34,2013-14,TOT,17,189,19,20,10.4,1212,65,[]
+17:57,211,25,2,1,47,NHL,28,11,7,16,-3,109,36.8,6,12,4,0,3,24,2013-14,NYR,11,132,14,16,10.1,808,45,[]
+20:13,93,11,1,0,13,NHL,28,3,6,8,4,54,46.2,3,7,3,0,2,10,2013-14,TBL,6,57,5,4,11.1,404,20,[]
+17:44,304,54,4,0,48,NHL,29,24,12,41,9,191,38.7,14,19,10,0,6,43,2014-15,TBL,24,181,30,24,12.6,1366,77,[]
+17:14,284,28,1,0,71,NHL,30,16,21,45,-5,156,58.3,8,15,2,0,2,34,2015-16,TBL,10,164,18,23,6.4,1258,73,[]
+14:09,42,4,1,0,13,NHL,31,2,5,23,-4,22,55.6,2,4,0,0,0,7,2016-17,TBL,2,48,2,10,9.1,255,18,[]

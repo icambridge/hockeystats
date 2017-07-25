@@ -1,0 +1,4 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,3,0,0,NHL,26,0,41,0,0,0,0,0,0,1933-34,MTM,2,1,[],0,,30
+,2,0,0,NHL,27,0,89,0,0,0,0,0,0,1934-35,STE,0,2,[],0,,48
+,2,0,0,NHL,28,0,16,0,0,0,0,0,0,1935-36,MTL,0,2,[],0,,18

@@ -1,0 +1,8 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,3.00,0,0,AMHL,0,17,0,0,0,0,0,0,31,0,2000-01,Calgary Flames,4,0,0,6,10,620
+0,4,0,2.09,0,0,AJHL,0,19,0,0,0,0,0,0,48,0,2002-03,Camrose Kodiaks,5,0,0,16,21,1378
+0,1,0,1.73,0,277,WHL,0,20,0,259,0,0,0,0,18,.935,2003-04,Moose Jaw Warriors,4,0,0,6,10,624
+0,1,0,1.99,0,179,ECHL,0,21,0,169,0,0,0,0,10,.944,2004-05,Greenville Grrrowl,3,0,0,2,5,302
+0,0,0,15.00,0,0,AHL,0,23,0,-2,0,0,0,0,2,0,2006-07,Norfolk Admirals,0,0,0,0,1,8
+0,0,0,0,0,0,AHL,0,28,0,0,0,0,0,0,0,0,2011-12,Houston Aeros,0,0,0,0,0,0
+0,1,0,2.40,0,84,AHL,0,28,0,77,0,0,0,0,7,.917,2011-12,Houston Aeros,1,0,0,1,4,175

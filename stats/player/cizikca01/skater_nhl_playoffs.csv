@@ -1,0 +1,4 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,6,4,0,NHL,2012-13,21,2,NYI,65,2,12,1,0,8,14,,25.0,2
+0,7,1,0,NHL,2014-15,23,1,NYI,96,0,0,1,0,11,26,,9.1,1
+0,11,3,0,NHL,2015-16,24,0,NYI,163,3,16,-1,0,12,25,,0.0,0

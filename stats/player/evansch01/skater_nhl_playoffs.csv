@@ -1,0 +1,4 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,7,1,0,NHL,1971-72,25,1,STL,,0,4,-1,0,2,,,50.0,1
+0,5,1,0,NHL,1972-73,26,0,STL,,1,4,-1,0,3,,,0.0,0
+0,10,10,0,WHA,1975-76,29,5,CGC,,5,4,-2,0,0,,,0,0

@@ -1,0 +1,21 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,5.85,0,0,SMHL,0,15,0,0,0,0,0,0,8,0,1997-98,Saskatoon Contacts,1,0,0,1,3,82
+0,1,0,4.06,0,0,SJHL,0,17,0,0,0,0,0,0,140,0,1999-00,Kindersley Klippers,0,0,0,0,36,2067
+0,0,0,0.00,0,0,WHL,0,17,0,0,0,0,0,0,0,0,1999-00,Red Deer Rebels,0,0,0,0,1,14
+0,4,0,2.78,0,0,WHL,0,18,0,0,0,0,0,0,122,0,2000-01,2 Teams,22,0,3,21,49,2634
+0,3,0,2.07,0,0,WHL,0,18,0,0,0,0,0,0,39,0,2000-01,Red Deer Rebels,5,0,1,14,21,1133
+0,1,0,3.32,0,0,WHL,0,18,0,0,0,0,0,0,83,0,2000-01,Saskatoon Blades,17,0,2,7,28,1501
+0,2,1,3.29,0,1982,WHL,0,19,0,1777,16,0,0,0,205,.897,2001-02,Saskatoon Blades,34,1,4,27,67,3738
+0,0,1,3.41,0,1137,ECHL,0,20,0,1018,0,0,0,0,119,.895,2002-03,Greenville Grrrowl,15,1,3,16,38,2092
+0,0,0,3.64,0,16,AHL,0,20,0,14,0,0,0,0,2,.875,2002-03,Chicago Wolves,1,0,0,0,2,33
+0,0,1,2.63,0,374,AHL,0,21,0,342,2,0,0,0,32,.914,2003-04,Chicago Wolves,3,1,2,7,13,731
+0,4,1,2.14,0,934,ECHL,0,21,0,865,6,0,0,0,69,.926,2003-04,Gwinnett Gladiators,10,1,2,21,33,1936
+0,1,1,2.86,0,704,AHL,0,22,0,641,2,0,0,0,63,.911,2004-05,Chicago Wolves,9,1,0,11,24,1321
+0,1,1,3.36,0,891,AHL,0,23,0,785,4,0,0,0,106,.881,2005-06,Chicago Wolves,12,1,4,15,35,1892
+0,2,0,3.03,0,1186,AHL,0,24,0,1066,0,0,0,0,120,.899,2006-07,Chicago Wolves,15,0,1,23,42,2380
+0,3,1,2.47,0,0,Russia,0,25,0,0,2,0,0,0,110,0,2007-08,Neftekhimik Nizhnekamsk,0,1,0,0,50,2676
+0,3,0,2.73,0,0,KHL,0,26,0,0,6,0,0,0,100,0,2008-09,HK MVD Moscow Region,0,0,0,0,38,2200
+0,5,0,2.06,0,0,KHL,0,27,0,0,2,0,0,0,88,0,2009-10,HK MVD Moscow Region,0,0,0,0,44,2562
+0,2,2,2.24,0,0,KHL,0,28,0,0,4,0,0,0,72,0,2010-11,OHK Dynamo Moscow,0,2,0,0,34,1928
+0,3,1,1.97,0,0,KHL,0,29,0,0,9,0,0,0,88,0,2011-12,Traktor Chelyabinsk,10,1,0,29,45,2675
+0,3,1,2.20,0,0,KHL,0,30,0,0,4,0,0,0,78,0,2012-13,Traktor Chelyabinsk,11,1,0,17,36,2128

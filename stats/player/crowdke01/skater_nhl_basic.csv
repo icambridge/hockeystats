@@ -1,0 +1,12 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,1,0,0,WHA,20,0,17,-1,0,1,0,0,0,1978-79,BRB,1,0,[],0,,5
+,25,1,0,NHL,22,11,172,9,69,12,1,0,1,1980-81,BOS,13,12,[],18.8,,47
+,44,1,0,NHL,23,19,101,0,130,23,0,0,2,1981-82,BOS,23,21,[],17.7,,71
+,74,5,0,NHL,24,29,105,22,156,25,10,0,10,1982-83,BOS,35,39,[],22.4,,74
+,52,4,0,NHL,25,22,128,12,110,20,4,0,6,1983-84,BOS,24,28,[],21.8,,63
+,70,1,0,NHL,26,31,152,31,173,18,14,0,7,1984-85,BOS,32,38,[],18.5,,79
+,84,4,0,NHL,27,30,177,14,184,18,20,0,16,1985-86,BOS,38,46,[],20.7,,78
+,52,5,0,NHL,28,26,106,20,114,18,4,0,4,1986-87,BOS,22,30,"[{'link': '/awards/voting-1987.html#selke', 'name': 'Selke-21'}]",19.3,,58
+,43,3,0,NHL,29,19,173,14,123,11,6,0,7,1987-88,BOS,17,26,[],13.8,,68
+,33,2,0,NHL,30,11,147,6,121,10,5,0,7,1988-89,BOS,15,18,[],12.4,,69
+,17,1,0,NHL,31,13,93,2,48,4,0,0,0,1989-90,LAK,4,13,[],8.3,,55

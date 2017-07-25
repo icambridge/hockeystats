@@ -1,0 +1,7 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,1,0,3.35,0,0,AJHL,0,14,0,0,0,0,0,0,58,0,1997-98,Bow Valley Eagles,6,0,1,9,20,1039
+0,0,0,4.51,0,0,AJHL,0,15,0,0,0,0,0,0,146,0,1998-99,Bow Valley Eagles,19,0,6,7,38,1941
+0,3,0,2.52,0,0,WHL,0,16,0,0,0,0,0,0,126,0,1999-00,Kootenay Ice,8,0,7,34,51,3004
+0,1,0,2.77,0,0,WHL,0,17,0,0,0,0,0,0,135,0,2000-01,Kootenay Ice,14,0,2,33,50,2922
+0,0,0,2.70,0,116,AHL,0,18,0,105,0,0,0,0,11,.905,2001-02,Hartford Wolf Pack,1,0,1,2,4,244
+0,0,0,3.54,0,379,ECHL,0,21,0,338,0,0,0,0,41,.892,2004-05,Victoria Salmon Kings,9,0,0,3,12,695

@@ -1,0 +1,11 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,3.25,0,0,EHL,0,19,0,0,0,0,0,0,13,0,1958-59,Washington Presidents,0,0,0,4,4,240
+0,3,0,4.04,0,0,EHL,0,20,0,0,0,0,0,0,206,0,1959-60,Clinton/NY Rovers,0,0,0,0,51,3060
+0,0,0,4.00,0,0,AHL,0,20,0,0,0,0,0,0,4,0,1959-60,Providence Reds,0,0,0,1,1,60
+0,0,0,4.37,0,0,AHL,0,21,0,0,0,0,0,0,183,0,1960-61,Providence Reds,24,0,0,17,43,2510
+0,0,0,4.50,0,0,EHL,0,21,0,0,0,0,0,0,54,0,1960-61,New York Rovers,10,0,0,2,12,720
+0,2,0,3.60,0,0,AHL,0,22,0,0,0,0,0,0,144,0,1961-62,Providence Reds,19,0,1,20,40,2400
+0,4,0,2.62,0,0,AHL,0,23,0,0,0,0,0,0,102,0,1962-63,Providence Reds,14,0,2,22,39,2340
+0,6,0,3.36,0,0,AHL,0,24,0,0,0,0,0,0,232,0,1963-64,Providence Reds,34,0,5,30,69,4140
+0,0,0,3.84,0,0,AHL,0,25,0,0,0,0,0,0,226,0,1964-65,Providence Reds,38,0,2,19,59,3527
+0,0,0,3.00,0,0,AHL,0,26,0,0,0,0,0,0,21,0,1965-66,Baltimore Clippers,4,0,0,3,7,420

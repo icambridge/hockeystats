@@ -1,0 +1,10 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,1,0,0,NHL,21,0,0,0,0,0,0,0,0,1936-37,BOS,1,0,[],0,,1
+,34,0,0,NHL,22,0,9,0,0,0,0,0,0,1937-38,BOS,20,14,[],0,,48
+,31,0,0,NHL,23,0,4,0,0,0,0,0,0,1938-39,BOS,13,18,"[{'link': '/awards/nhl_all_star.html#1939', 'name': None}]",0,,0
+,43,0,0,NHL,24,0,2,0,0,0,0,0,0,1939-40,BOS,17,26,"[{'link': '/awards/nhl_all_star.html#1940', 'name': None}, {'link': '/awards/byng.html#1940', 'name': None}]",0,,48
+,39,0,0,NHL,25,0,2,0,0,0,0,0,0,1940-41,BOS,17,22,"[{'link': '/awards/nhl_all_star.html#1941', 'name': None}, {'link': '/awards/byng.html#1941', 'name': None}]",0,,0
+,35,0,0,NHL,26,0,11,0,0,0,0,0,0,1941-42,BOS,13,22,[],0,,36
+,21,0,0,NHL,30,0,4,0,0,0,0,0,0,1945-46,BOS,11,10,[],0,,39
+,54,0,0,NHL,31,0,4,0,0,0,0,0,0,1946-47,BOS,30,24,"[{'link': '/awards/nhl_all_star.html#1947', 'name': None}, {'link': '/awards/byng.html#1947', 'name': None}]",0,,58
+,2,0,0,NHL,36,0,0,0,0,0,0,0,0,1951-52,BOS,1,1,[],0,,1

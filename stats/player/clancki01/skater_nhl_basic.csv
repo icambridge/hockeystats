@@ -1,0 +1,17 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,10,0,0,NHL,18,0,21,0,0,0,0,0,0,1921-22,OTS,4,6,[],0,,0
+,5,0,0,NHL,19,0,20,0,0,0,0,0,0,1922-23,OTS,3,2,[],0,,0
+,16,0,0,NHL,20,0,26,0,0,0,0,0,0,1923-24,OTS,8,8,[],0,,0
+,21,0,0,NHL,21,0,61,0,0,0,0,0,0,1924-25,OTS,14,7,[],0,,29
+,12,0,0,NHL,22,0,80,0,0,0,0,0,0,1925-26,OTS,8,4,"[{'link': '/awards/voting-1926.html#hart', 'name': 'Hart-8'}]",0,,35
+,19,0,0,NHL,23,0,78,0,0,0,0,0,0,1926-27,OTS,9,10,"[{'link': '/awards/voting-1927.html#hart', 'name': 'Hart-5'}]",0,,43
+,15,0,0,NHL,24,0,73,0,0,0,0,0,0,1927-28,OTS,8,7,[],0,,39
+,15,0,0,NHL,25,0,89,0,0,0,0,0,0,1928-29,OTS,13,2,"[{'link': '/awards/voting-1929.html#hart', 'name': 'Hart-5'}]",0,,0
+,40,0,0,NHL,26,0,83,0,0,0,0,0,0,1929-30,OTS,17,23,"[{'link': '/awards/voting-1930.html#hart', 'name': 'Hart-4'}]",0,,0
+,21,0,0,NHL,27,0,63,0,0,0,0,0,0,1930-31,TOR,7,14,"[{'link': '/awards/nhl_all_star.html#1931', 'name': None}, {'link': '/awards/voting-1931.html#hart', 'name': 'Hart-3'}]",0,,0
+,19,0,0,NHL,28,0,61,0,0,0,0,0,0,1931-32,TOR,10,9,"[{'link': '/awards/nhl_all_star.html#1932', 'name': None}]",0,,0
+,25,0,0,NHL,29,0,79,0,0,0,0,0,0,1932-33,TOR,13,12,"[{'link': '/awards/nhl_all_star.html#1933', 'name': None}]",0,,48
+,28,0,0,NHL,30,0,62,0,0,0,0,0,0,1933-34,TOR,11,17,"[{'link': '/awards/nhl_all_star.html#1934', 'name': None}, {'link': '/awards/voting-1934.html#hart', 'name': 'Hart-3'}]",0,,46
+,21,0,0,NHL,31,0,53,0,0,0,0,0,0,1934-35,TOR,5,16,[],0,,47
+,15,0,0,NHL,32,0,61,0,0,0,0,0,0,1935-36,TOR,5,10,[],0,,47
+,1,0,0,NHL,33,0,4,0,0,0,0,0,0,1936-37,TOR,1,0,[],0,,6

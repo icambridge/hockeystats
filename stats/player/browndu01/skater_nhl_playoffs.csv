@@ -1,0 +1,7 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+1,6,5,0,NHL,2009-10,25,1,LAK,113,4,6,-7,0,15,33,,6.7,0
+1,6,2,0,NHL,2010-11,26,1,LAK,120,1,6,-3,0,10,30,,10.0,0
+1,20,0,0,NHL,2011-12,27,0,LAK,415,0,34,0,0,59,98,SC,13.6,5
+2,18,4,0,NHL,2012-13,28,3,LAK,338,1,8,2,0,31,79,,9.7,1
+1,0,14,2,NHL,2013-14,29,6,LAK,441,8,22,7,0,64,134,SC,9.4,5
+0,5,1,0,NHL,2015-16,31,0,LAK,81,1,4,-2,0,3,10,,0.0,0

@@ -1,0 +1,17 @@
+assists,year,games_played,points,goals,team,age,pim,plus_minus,league
+8,1990-91,27,14,6,Grand Valley Harvesters,16,57,0,ON-Jr.D
+8,1991-92,40,17,9,Collingwood Blues,17,111,0,ON-Jr.B
+3,1992-93,53,6,3,Guelph Storm,18,88,0,OHL
+20,1993-94,35,28,8,Cole Harbour Red Wings,19,210,0,NSMHL
+31,1994-95,40,41,10,Cole Harbour Red Wings,20,320,0,NSMHL
+11,1995-96,65,23,12,Hampton Roads Admirals,21,354,0,ECHL
+0,1996-97,2,0,0,Manitoba Moose,22,17,0,IHL
+0,1996-97,3,0,0,Portland Pirates,22,19,0,AHL
+8,1996-97,64,16,8,Hampton Roads Admirals,22,338,0,ECHL
+10,1997-98,78,15,5,Providence Bruins,23,407,0,AHL
+12,1998-99,75,22,10,Providence Bruins,24,401,3,AHL
+4,1999-00,47,10,6,Providence Bruins,25,221,-6,AHL
+15,2000-01,67,21,6,Norfolk Admirals,26,234,2,AHL
+2,2001-02,12,2,0,Norfolk Admirals,27,21,1,AHL
+0,2006-07,15,0,0,Providence Bruins,32,30,-3,AHL
+7,2008-09,65,9,2,Grand Rapids Griffins,34,126,-8,AHL

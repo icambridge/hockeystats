@@ -1,0 +1,14 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,1,0,0,NHL,20,0,0,0,0,0,0,0,0,1930-31,MTM,1,0,[],0,,19
+,1,0,0,NHL,21,0,0,0,0,0,0,0,0,1931-32,MTM,1,0,[],0,,12
+,41,0,0,NHL,22,0,18,0,0,0,0,0,0,1932-33,MTM,16,25,[],0,,48
+,9,0,0,NHL,23,0,18,0,0,0,0,0,0,1933-34,MTM,5,4,"[{'link': '/awards/voting-1934.html#byng', 'name': 'Byng-3'}]",0,,44
+,10,0,0,NHL,24,0,8,0,0,0,0,0,0,1934-35,TOT,5,5,[],0,,48
+,3,0,0,NHL,24,0,0,0,0,0,0,0,0,1934-35,MTM,1,2,[],0,,11
+,7,0,0,NHL,24,0,8,0,0,0,0,0,0,1934-35,BOS,4,3,[],0,,37
+,24,0,0,NHL,25,0,24,0,0,0,0,0,0,1935-36,MTL,5,19,[],0,,48
+,26,0,0,NHL,26,0,24,0,0,0,0,0,0,1936-37,MTL,8,18,[],0,,47
+,35,0,0,NHL,27,0,25,0,0,0,0,0,0,1937-38,MTL,13,22,[],0,,48
+,38,0,0,NHL,28,0,27,0,0,0,0,0,0,1938-39,MTL,5,33,[],0,,47
+,10,0,0,NHL,29,0,8,0,0,0,0,0,0,1939-40,MTL,2,8,[],0,,23
+,0,0,0,NHL,30,0,12,0,0,0,0,0,0,1940-41,MTL,0,0,[],0,,7

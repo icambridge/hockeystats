@@ -1,0 +1,11 @@
+game_winning_goals,shotsPercentage,plus_minus,shots,power_play_goals,age,average_ice_time,games_played,assists,year,points,shorthanded_goals,goals,even_strength_goals,team,win,pim,total_ice_time,league
+0,0.0,4,16,0,24,,12,1,1996-97,1,0,0,0,EDM,,8,,NHL
+0,0.0,-4,2,0,25,,7,0,1997-98,0,0,0,0,EDM,,21,,NHL
+0,0.0,3,7,0,26,231,19,2,1998-99,2,0,0,0,COL,,22,,NHL
+0,0.0,2,1,0,27,41,5,0,1999-00,0,0,0,0,COL,,4,,NHL
+0,0.0,5,20,0,28,328,23,1,2000-01,1,0,0,0,COL,SC,20,,NHL
+1,9.8,1,41,0,29,508,21,9,2001-02,13,0,4,4,COL,,2,,NHL
+0,16.7,2,12,0,30,155,7,0,2002-03,2,0,2,2,COL,,0,,NHL
+0,0.0,-2,10,0,31,125,7,1,2003-04,1,0,0,0,OTT,,8,,NHL
+0,20.0,-2,5,0,34,77,4,0,2006-07,1,0,1,1,ATL,,4,,NHL
+1,33.3,-2,3,0,35,118,6,0,2007-08,1,0,1,1,NSH,,2,5,NHL

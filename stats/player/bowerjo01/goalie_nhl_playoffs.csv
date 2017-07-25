@@ -1,0 +1,11 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,won,assists,ties,wins,games_played,minutes
+0,0,0,3.06,0,0,NHL,0,34,0,0,0,0,0,0,0,0,1958-59,TOR,0,,0,0,5,0,0
+0,0,0,2.88,0,0,NHL,0,35,0,0,0,0,0,0,0,0,1959-60,TOR,0,,0,0,4,0,0
+0,0,0,2.67,0,0,NHL,0,36,0,0,2,0,0,0,8,0,1960-61,TOR,3,,0,0,0,3,180
+0,0,0,0,0,0,NHL,0,37,0,0,0,0,0,0,20,0,1961-62,TOR,3,SC,0,0,0,10,579
+0,0,1,0,0,0,NHL,0,38,0,0,0,0,0,0,16,0,1962-63,TOR,2,SC,1,0,0,10,600
+0,0,0,0,0,0,NHL,0,39,0,0,0,0,0,0,30,0,1963-64,TOR,0,SC,0,0,0,0,0
+0,0,0,2.43,0,0,NHL,0,40,0,0,0,0,0,0,13,0,1964-65,TOR,3,,0,0,2,5,321
+0,0,0,4.00,0,0,NHL,0,41,0,0,0,0,0,0,8,0,1965-66,TOR,2,,0,0,0,2,120
+0,0,0,1.64,0,0,NHL,0,42,0,0,2,0,0,0,5,0,1966-67,TOR,0,SC,0,0,2,4,183
+0,0,0,4.29,0,0,NHL,0,44,0,0,0,0,0,0,11,0,1968-69,TOR,2,,0,0,0,4,154

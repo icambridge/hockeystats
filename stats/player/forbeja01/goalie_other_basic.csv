@@ -1,0 +1,20 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,2.33,0,0,OHA-Jr.,0,19,0,0,0,0,0,0,14,0,1916-17,Toronto Aura Lee,0,0,0,6,6,360
+0,0,0,3.25,0,0,OHA-Jr.,0,20,0,0,0,0,0,0,13,0,1917-18,Toronto Aura Lee,1,0,0,3,4,240
+0,0,0,4.50,0,0,OHA-Jr.,0,22,0,0,0,0,0,0,27,0,1919-20,Toronto Aura Lee,4,0,0,2,6,360
+0,2,0,1.54,0,0,Can-Am,0,30,0,0,0,0,0,0,20,0,1927-28,Providence Reds,0,0,0,0,13,780
+0,1,0,2.00,0,0,Can-Pro,0,30,0,0,0,0,0,0,16,0,1927-28,Niagara Falls Cataracts,0,0,0,0,8,480
+0,9,0,1.12,0,0,Can-Am,0,31,0,0,0,0,0,0,29,0,1928-29,New Haven Eagles,0,0,0,0,26,1560
+0,3,0,2.52,0,0,Can-Am,0,32,0,0,0,0,0,0,101,0,1929-30,New Haven Eagles,0,0,0,0,40,2400
+0,3,0,3.50,0,0,Can-Am,0,33,0,0,0,0,0,0,140,0,1930-31,New Haven Eagles,0,0,0,0,40,2400
+0,0,0,3.20,0,0,Can-Am,0,34,0,0,0,0,0,0,32,0,1931-32,2 Teams,0,0,0,0,10,600
+0,0,0,5.33,0,0,Can-Am,0,34,0,0,0,0,0,0,16,0,1931-32,Springfield Indians,0,0,0,0,3,180
+0,0,0,2.29,0,0,Can-Am,0,34,0,0,0,0,0,0,16,0,1931-32,Bronx Tigers,0,0,0,0,7,420
+0,0,0,3.00,0,0,Can-Am,0,35,0,0,0,0,0,0,15,0,1932-33,New Haven Eagles,0,0,0,0,5,300
+0,6,0,2.47,0,0,IHL,0,36,0,0,0,0,0,0,89,0,1933-34,Windsor Bulldogs,0,0,0,0,36,2160
+0,0,0,2.44,0,0,IHL,0,37,0,0,0,0,0,0,41,0,1934-35,2 Teams,6,0,1,9,16,1010
+0,0,0,2.47,0,0,IHL,0,37,0,0,0,0,0,0,21,0,1934-35,Syracuse Stars,3,0,0,5,8,510
+0,0,0,2.40,0,0,IHL,0,37,0,0,0,0,0,0,20,0,1934-35,London Tecumsehs,3,0,1,4,8,500
+0,0,0,3.33,0,0,IHL,0,38,0,0,0,0,0,0,35,0,1935-36,2 Teams,6,0,0,4,10,630
+0,0,0,4.00,0,0,IHL,0,38,0,0,0,0,0,0,20,0,1935-36,Rochester Cardinals,3,0,0,2,5,300
+0,0,0,2.73,0,0,IHL,0,38,0,0,0,0,0,0,15,0,1935-36,Syracuse Stars,3,0,0,2,5,330

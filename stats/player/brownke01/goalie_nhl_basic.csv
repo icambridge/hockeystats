@@ -1,0 +1,4 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,0,[],0,3.33,0,0,NHL,0,22,0,0,0,0,0,0,1,0,1970-71,CBH,0,0.0,0,0,0,1,18
+0,1,[],0,3.66,-3.75,540,WHA,0,24,0,477,2,0,0,106,63,.883,1972-73,ALO,0,0,0,0,0,20,1034
+0,2,[],1,3.52,6.59,845,WHA,0,26,0,759,2,0,0,93,86,.898,1974-75,EDO,0,0,1,0,0,32,1466

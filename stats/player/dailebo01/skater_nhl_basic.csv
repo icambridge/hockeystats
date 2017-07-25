@@ -1,0 +1,12 @@
+game_winning_goals,plus_minus,shots,shorthanded_assists,games_played,assists,year,even_strength_assists,shorthanded_goals,goals,power_play_goals,average_ice_time,league,shotsPercentage,power_play_assists,age,pim,awards,points,even_strength_goals,total_ice_time,team
+0,-32,124,0,76,17,1973-74,13,0,7,0,,NHL,5.6,4,20,143,[],24,7,,VAN
+1,-9,170,1,70,36,1974-75,24,0,12,7,,NHL,7.1,11,21,103,"[{'link': '/awards/voting-1975.html#AS', 'name': 'AS-16'}]",48,5,,VAN
+3,-5,187,0,67,24,1975-76,15,0,15,9,,NHL,8.0,9,22,119,[],39,6,,VAN
+1,0,177,1,76,30,1976-77,20,0,9,4,,NHL,5.1,9,23,90,[],39,5,,TOT
+1,-16,100,1,44,16,1976-77,11,0,4,2,,NHL,4.0,4,23,52,[],20,2,,VAN
+0,16,77,0,32,14,1976-77,9,0,5,2,,NHL,6.5,5,23,38,[],19,3,,PHI
+2,45,211,3,76,36,1977-78,19,2,21,5,,NHL,10.0,14,24,62,[],57,14,,PHI
+1,21,164,1,70,30,1978-79,16,0,9,1,,NHL,5.5,13,25,63,"[{'link': '/awards/voting-1979.html#AS', 'name': 'AS-18'}]",39,8,,PHI
+4,30,185,0,61,26,1979-80,21,1,13,2,,NHL,7.0,5,26,71,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-17'}]",39,10,,PHI
+0,8,141,0,53,27,1980-81,14,0,7,1,,NHL,5.0,13,27,141,[],34,6,,PHI
+0,4,22,1,12,5,1981-82,3,0,1,0,,NHL,4.5,1,28,22,[],6,1,,PHI

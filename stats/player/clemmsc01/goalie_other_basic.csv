@@ -1,0 +1,19 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,3.44,0,0,USHL,0,18,0,0,0,0,0,0,62,0,1995-96,Dubuque Fighting Saints,7,0,1,10,20,1082
+0,1,0,3.26,0,0,USHL,0,19,0,0,0,0,0,0,111,0,1996-97,Des Moines Buccaneers,9,0,2,22,36,2042
+0,4,0,2.78,0,0,H-East,0,20,0,0,0,0,0,0,102,0,1997-98,Boston College Eagles,9,0,4,24,37,2205
+0,1,0,2.87,0,0,H-East,0,21,0,0,4,0,0,0,120,0,1998-99,Boston College Eagles,12,0,4,26,42,2507
+0,5,1,2.20,0,0,H-East,0,22,0,0,2,0,0,0,59,0,1999-00,Boston College Eagles,7,1,0,19,29,1610
+0,3,0,2.13,0,0,H-East,0,23,0,0,0,0,0,0,82,0,2000-01,Boston College Eagles,7,0,2,30,39,2312
+0,0,0,3.29,0,999,AHL,0,24,0,907,0,0,0,0,92,.908,2001-02,Albany River Rats,19,0,4,5,29,1677
+0,1,0,2.65,0,1328,AHL,0,25,0,1209,0,0,0,0,119,.910,2002-03,Albany River Rats,24,0,8,12,47,2694
+0,0,0,3.07,0,683,AHL,0,26,0,616,4,0,0,0,67,.902,2003-04,Albany River Rats,12,0,4,5,22,1309
+0,2,2,2.81,0,1473,AHL,0,27,0,1349,6,0,0,0,124,.916,2004-05,Albany River Rats,25,2,5,13,46,2645
+0,0,0,5.08,0,33,AHL,0,28,0,28,0,0,0,0,5,.848,2005-06,Albany River Rats,1,0,0,0,1,59
+0,1,0,0.00,0,35,AHL,0,29,0,35,0,0,0,0,0,1.000,2006-07,Lowell Devils,0,0,0,1,1,60
+0,1,2,2.44,0,1070,AHL,0,30,0,974,4,0,0,0,96,.910,2007-08,Toronto Marlies,14,2,2,23,40,2363
+0,0,0,3.39,0,381,AHL,0,31,0,341,2,0,0,0,40,.895,2008-09,Lowell Devils,5,0,1,6,12,707
+0,1,0,1.56,0,153,WC-A,0,32,0,144,0,0,0,0,9,.941,2009-10,United States,3,0,0,3,6,347
+0,0,0,1.00,0,32,AHL,0,34,0,31,0,0,0,0,1,.969,2011-12,San Antonio Rampage,0,0,0,1,1,60
+0,0,0,0,0,0,AHL,0,36,0,0,0,0,0,0,0,0,2013-14,San Antonio Rampage,0,0,0,0,0,0
+0,0,0,0,0,0,AHL,0,37,0,0,0,0,0,0,0,0,2014-15,Albany Devils,0,0,0,0,0,0

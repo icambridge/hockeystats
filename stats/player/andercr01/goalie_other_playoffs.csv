@@ -1,0 +1,9 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,4.74,0,0,OHL,0,17,0,0,0,0,0,0,9,0,1998-99,Guelph Storm,2,0,0,0,3,114
+0,0,0,2.73,0,72,OHL,0,18,0,67,0,0,0,0,5,.931,1999-00,Guelph Storm,1,0,0,0,3,110
+0,0,0,4.25,0,130,OHL,0,19,0,113,0,0,0,0,17,.869,2000-01,Guelph Storm,4,0,0,0,4,240
+0,0,0,2.86,0,16,AHL,0,20,0,15,0,0,0,0,1,.938,2001-02,Norfolk Admirals,1,0,0,0,1,21
+0,0,0,2.61,0,188,AHL,0,21,0,173,4,0,0,0,15,.920,2002-03,Norfolk Admirals,3,0,0,2,5,345
+0,0,0,1.83,0,151,AHL,0,22,0,141,2,0,0,0,10,.934,2003-04,Norfolk Admirals,3,0,0,2,5,327
+0,0,0,2.36,0,186,AHL,0,23,0,172,2,0,0,0,14,.925,2004-05,Norfolk Admirals,4,0,0,2,6,356
+0,0,0,2.87,0,0,AHL,0,25,0,-18,4,0,0,0,18,0,2006-07,Rochester Americans,4,0,0,2,6,376

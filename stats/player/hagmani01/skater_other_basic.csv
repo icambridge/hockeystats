@@ -1,0 +1,30 @@
+pim,year,team,assists,plus_minus,age,games_played,points,goals,league
+32,1995-96,HIFK Helsinki U18,21,0,16,26,33,12,Fin-U18
+0,1995-96,HIFK Helsinki Jr.,1,0,16,12,4,3,Fin-Jr.
+30,1996-97,HIFK Helsinki Jr.,12,0,17,30,25,13,Fin-Jr.
+46,1996-97,HIFK Helsinki U18,12,0,17,21,31,19,Fin-U18
+0,1997-98,HIFK Helsinki U18,1,0,18,1,1,0,Fin-U18
+16,1997-98,HIFK Helsinki Jr.,5,0,18,26,14,9,Fin-Jr.
+0,1997-98,HIFK Helsinki,0,0,18,8,1,1,Finland
+0,1997-98,Finland,1,0,18,7,5,4,WJC-A
+43,1998-99,HIFK Helsinki Jr.,10,0,19,15,14,4,Fin-Jr.
+0,1998-99,HIFK Helsinki,1,0,19,1,1,0,EuroHL
+2,1998-99,Finland,5,0,19,6,8,3,WJC-A
+16,1998-99,2 Teams,2,0,19,31,4,2,Finland
+14,1998-99,HIFK Helsinki,1,0,19,17,2,1,Finland
+2,1998-99,Blues Espoo,1,0,19,14,2,1,Finland
+0,1999-00,Karpat Oulu Jr.,3,0,20,4,10,7,Fin-Jr.
+12,1999-00,Karpat Oulu,18,0,20,41,35,17,Finland-2
+32,2000-01,Karpat Oulu,18,0,21,56,46,28,Finland
+0,2001-02,Finland,2,0,22,4,3,1,Olympics
+2,2001-02,Finland,2,2,22,9,7,5,WC-A
+14,2002-03,Finland,1,-1,23,7,3,2,WC-A
+0,2003-04,Finland,0,-1,24,5,0,0,WC-A
+2,2004-05,Finland,0,0,25,5,1,1,W-Cup
+20,2004-05,HC Davos,22,0,25,44,39,17,Swiss
+2,2004-05,Finland,0,1,25,7,2,2,WC-A
+2,2005-06,Finland,1,1,26,8,1,0,Olympics
+0,2008-09,Finland,5,2,29,7,6,1,WC-A
+2,2009-10,Finland,2,-3,30,6,6,4,Olympics
+27,2012-13,Lokomotiv Yaroslavl,8,0,33,49,20,12,KHL
+4,2012-13,Finland,0,-1,33,10,1,1,WC-A

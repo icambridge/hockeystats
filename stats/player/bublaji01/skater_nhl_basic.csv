@@ -1,0 +1,6 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,2,0,0,NHL,32,1,16,8,23,1,0,0,0,1981-82,VAN,1,1,[],4.3,,23
+,30,0,0,NHL,33,16,59,-9,92,1,1,0,12,1982-83,VAN,2,28,[],2.2,,72
+,39,1,0,NHL,34,16,43,-10,84,4,2,0,17,1983-84,VAN,6,33,[],7.1,,62
+,17,0,0,NHL,35,12,54,-15,73,2,0,0,3,1984-85,VAN,2,15,[],2.7,,56
+,30,1,0,NHL,36,11,30,-25,62,2,4,1,12,1985-86,VAN,6,24,[],9.7,,43

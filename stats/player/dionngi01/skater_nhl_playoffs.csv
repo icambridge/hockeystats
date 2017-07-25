@@ -1,0 +1,5 @@
+game_winning_goals,shotsPercentage,plus_minus,shots,power_play_goals,age,average_ice_time,games_played,assists,year,points,shorthanded_goals,goals,even_strength_goals,team,win,pim,total_ice_time,league
+1,9.1,2,33,1,21,,11,4,1991-92,7,0,3,2,MTL,,10,,NHL
+1,14.3,-2,42,1,22,,20,6,1992-93,12,0,6,5,MTL,SC,20,,NHL
+0,12.5,-1,8,0,23,,5,2,1993-94,3,0,1,1,MTL,,0,,NHL
+0,0.0,-1,2,0,24,,3,0,1994-95,0,0,0,0,PHI,,4,,NHL

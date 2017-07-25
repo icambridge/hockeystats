@@ -1,0 +1,21 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,3.70,0,0,WCJHL,0,17,0,0,0,0,0,0,111,0,1949-50,Calgary Buffaloes,18,0,1,11,30,1800
+0,2,0,4.77,0,0,WCJHL,0,18,0,0,0,0,0,0,186,0,1950-51,2 Teams,28,0,2,8,38,2340
+0,2,0,4.63,0,0,WCJHL,0,18,0,0,0,0,0,0,176,0,1950-51,Calgary Buffaloes,27,0,2,8,37,2280
+0,0,0,10.00,0,0,WCJHL,0,18,0,0,0,0,0,0,10,0,1950-51,Medicine Hat Tigers,1,0,0,0,1,60
+0,1,0,3.07,0,0,WCJHL,0,19,0,0,0,0,0,0,132,0,1951-52,Calgary Buffaloes,17,0,4,21,42,2580
+0,0,0,4.68,0,0,WCJHL,0,20,0,0,0,0,0,0,145,0,1952-53,Calgary Buffaloes,13,0,3,14,30,1860
+0,2,0,3.73,0,0,OHA-Sr.,0,21,0,0,0,0,0,0,205,0,1953-54,Chatham Maroons,30,0,3,22,55,3300
+0,3,0,3.27,0,0,AHL,0,22,0,0,0,0,0,0,121,0,1954-55,Buffalo Bisons,19,0,5,13,37,2220
+0,0,0,3.65,0,0,AHL,0,23,0,0,0,0,0,0,201,0,1955-56,Buffalo Bisons,23,0,4,26,55,3300
+0,5,0,3.24,0,0,WHL,0,24,0,0,0,0,0,0,223,0,1956-57,Calgary Stampeders,35,0,4,29,68,4125
+0,3,0,3.07,0,0,WHL,0,25,0,0,0,0,0,0,184,0,1957-58,Seattle Totems,27,0,6,27,60,3600
+0,1,0,3.52,0,0,AHL,0,26,0,0,0,0,0,0,102,0,1958-59,Springfield Indians,14,0,2,13,29,1740
+0,5,0,2.45,0,0,WHL,0,27,0,0,0,0,0,0,172,0,1959-60,Vancouver Canucks,19,0,6,44,70,4220
+0,0,0,3.23,0,0,WHL,0,29,0,0,0,0,0,0,30,0,1961-62,Edmonton Flyers,4,0,1,4,9,557
+0,0,0,4.67,0,0,EPHL,0,29,0,0,0,0,0,0,14,0,1961-62,Sudbury Wolves,2,0,0,1,3,180
+0,2,0,3.35,0,0,AHL,0,30,0,0,0,0,0,0,134,0,1962-63,Pittsburgh Hornets,23,0,2,15,40,2400
+0,0,0,5.57,0,0,CPHL,0,31,0,0,0,0,0,0,39,0,1963-64,Cincinnati Wings,6,0,1,0,7,420
+0,1,0,3.15,0,0,AHL,0,31,0,0,0,0,0,0,82,0,1963-64,Pittsburgh Hornets,15,0,2,9,26,1560
+0,2,0,3.18,0,0,AHL,0,32,0,0,0,0,0,0,182,0,1964-65,Pittsburgh Hornets,25,0,7,24,57,3430
+0,3,0,1.89,0,0,AHL,0,34,0,0,0,0,0,0,18,0,1966-67,Pittsburgh Hornets,3,0,1,6,10,570

@@ -1,0 +1,9 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+15:15,60,6,0,0,32,NHL,20,5,0,8,11,21,0,1,0,0,0,0,10,2009-10,WSH,1,29,5,19,4.8,335,22,[]
+22:39,309,37,3,0,158,NHL,21,25,0,44,21,144,0,6,0,1,0,5,60,2010-11,WSH,7,70,30,80,4.9,1857,82,"[{'link': '/awards/voting-2011.html#calder', 'name': 'Calder-5'}]"
+21:52,303,32,0,0,153,NHL,22,19,0,22,-15,152,0.0,5,1,4,1,3,31,2011-12,WSH,9,83,23,92,5.9,1792,82,[]
+23:01,192,22,0,0,123,NHL,23,11,1,18,11,97,100.0,6,0,0,0,5,18,2012-13,WSH,6,59,16,41,6.2,1105,0,[]
+24:31,388,37,0,0,177,NHL,24,9,0,22,-3,208,0.0,5,1,5,1,17,55,2013-14,WSH,10,64,27,53,4.8,2010,82,[]
+23:04,394,55,3,1,200,NHL,25,30,0,28,11,193,0,8,0,3,0,13,41,2014-15,WSH,12,74,43,88,6.2,1892,82,"[{'link': '/awards/voting-2015.html#AS', 'name': 'AS-10'}, {'link': '/awards/voting-2015.html#byng', 'name': 'Byng-56'}, {'link': '/awards/voting-2015.html#norris', 'name': 'Norris-10'}]"
+23:42,257,39,4,0,114,NHL,26,18,0,14,16,124,0,6,0,2,1,12,24,2015-16,WSH,8,46,31,47,6.5,1327,56,"[{'link': '/awards/voting-2016.html#byng', 'name': 'Byng-53'}]"
+22:43,361,37,3,0,127,NHL,27,14,0,10,7,180,0,6,0,3,1,13,51,2016-17,WSH,9,58,28,88,5.0,1635,72,"[{'link': '/awards/voting-2017.html#AS', 'name': 'AS-22'}, {'link': '/awards/voting-2017.html#byng', 'name': 'Byng-12'}]"

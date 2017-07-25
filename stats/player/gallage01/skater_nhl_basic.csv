@@ -1,0 +1,12 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,18,2,0,NHL,21,12,66,9,44,6,0,0,0,1984-85,DET,6,12,[],13.6,,32
+,39,2,1,NHL,22,14,106,-10,116,16,3,0,5,1985-86,DET,20,19,[],17.2,,52
+,72,4,0,NHL,23,23,216,-5,191,21,17,0,11,1986-87,DET,38,34,"[{'link': '/awards/voting-1987.html#AS', 'name': 'AS-4'}]",19.9,,80
+,73,3,0,NHL,24,30,242,24,197,24,10,0,9,1987-88,DET,34,39,"[{'link': '/awards/voting-1988.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-1988.html#selke', 'name': 'Selke-24'}]",17.3,,73
+,93,7,0,NHL,25,33,230,7,221,26,13,0,21,1988-89,DET,39,54,"[{'link': '/awards/nhl_all_star.html#1989', 'name': None}, {'link': '/awards/voting-1989.html#selke', 'name': 'Selke-21'}]",17.6,,76
+,80,5,3,NHL,26,29,254,-6,219,21,12,1,14,1989-90,DET,36,44,"[{'link': '/awards/voting-1990.html#AS', 'name': 'AS-7'}]",16.4,,69
+,26,1,0,NHL,27,12,111,6,82,7,3,0,4,1990-91,DET,10,16,[],12.2,,45
+,36,1,0,NHL,28,21,187,16,116,10,4,0,1,1991-92,DET,14,22,[],12.1,,69
+,30,0,0,NHL,29,19,188,20,81,10,0,0,1,1992-93,DET,10,20,[],12.3,,67
+,13,2,0,NHL,30,9,74,-6,45,3,1,0,0,1993-94,TBL,4,9,[],8.9,,51
+,0,0,0,NHL,31,0,0,0,1,0,0,0,0,1994-95,TBL,0,0,[],0.0,,1

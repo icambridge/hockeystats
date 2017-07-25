@@ -1,0 +1,33 @@
+pim,year,team,assists,plus_minus,age,games_played,points,goals,league
+80,1984-85,Don Mills Flyers,38,0,16,38,76,38,MTHL
+91,1985-86,London Knights,13,0,17,62,17,4,OHL
+95,1986-87,3 Teams,14,0,18,64,25,11,OHL
+5,1986-87,London Knights,0,0,18,5,1,1,OHL
+4,1986-87,Kitchener Rangers,1,0,18,4,1,0,OHL
+86,1986-87,Belleville Bulls,13,0,18,55,23,10,OHL
+246,1987-88,2 Teams,47,0,19,63,107,60,OHL
+9,1987-88,Belleville Bulls,1,0,19,5,2,1,OHL
+237,1987-88,Windsor Spitfires,46,0,19,58,105,59,OHL
+325,1988-89,Cape Breton Oilers,9,0,20,61,18,9,AHL
+230,1989-90,Cape Breton Oilers,12,0,21,53,18,6,AHL
+137,1990-91,Cape Breton Oilers,23,0,22,60,47,24,AHL
+129,1991-92,2 Teams,30,0,23,66,46,16,AHL
+32,1991-92,Cape Breton Oilers,7,0,23,16,10,3,AHL
+97,1991-92,New Haven Nighthawks,23,0,23,50,36,13,AHL
+121,1992-93,Cape Breton Oilers,56,0,24,73,78,22,AHL
+108,1993-94,Saint John Flames,17,0,25,37,28,11,AHL
+43,1993-94,Phoenix Roadrunners,4,0,25,11,11,7,IHL
+50,1994-95,HC Courmaosta,15,0,26,16,24,9,Italy
+0,1994-95,Detroit Vipers,1,0,26,1,1,0,IHL
+88,1994-95,Worcester IceCats,10,0,26,28,21,11,AHL
+24,1995-96,HK Olimpija Ljubljana,4,0,27,13,13,9,Alpenliga
+84,1995-96,HK Olimpija Ljubljana,26,0,27,36,75,49,Slovenia
+88,1996-97,HK Olimpija Ljubljana,47,0,28,45,85,38,Alpenliga
+31,1996-97,HC Milano 24,5,0,28,4,11,6,Italy
+105,1997-98,Hannover Scorpions,28,0,29,48,53,25,Germany
+104,1998-99,Hannover Scorpions,20,0,30,42,38,18,Germany
+106,1999-00,Hannover Scorpions,19,0,31,40,31,12,Germany
+115,2000-01,Hannover Scorpions,9,0,32,34,23,14,Germany
+80,2001-02,Hannover Scorpions,24,0,33,55,41,17,Germany
+34,2002-03,Fresno Falcons,1,1,34,10,7,6,WCHL
+80,2003-04,Hannover Scorpions,13,0,35,42,20,7,Germany

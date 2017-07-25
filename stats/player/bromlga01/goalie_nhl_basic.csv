@@ -1,0 +1,9 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,0,[],0,3.31,0,0,NHL,0,24,0,0,2,0,0,0,33,0,1973-74,BUF,5,1.5,0,3,3,12,598
+0,4,"[{'link': '/awards/voting-1975.html#AS', 'name': 'AS-8'}]",4,3.10,0,0,NHL,0,25,0,0,2,0,0,0,144,0,1974-75,BUF,11,8.7,4,11,26,50,2787
+0,0,[],0,7.00,0,0,NHL,0,26,0,0,0,0,0,0,7,0,1975-76,BUF,1,-0.1,0,0,0,1,60
+0,0,[],0,3.83,-6.52,623,WHA,0,27,0,544,2,0,0,109,79,.873,1976-77,CGC,0,0,0,0,0,28,1237
+0,1,[],1,3.30,11.34,1090,WHA,0,28,0,966,4,0,0,92,124,.886,1977-78,WNJ,0,0,1,0,0,39,2252
+0,2,[],1,3.81,0,0,NHL,0,29,0,0,6,0,0,0,136,0,1978-79,VAN,19,4.8,1,6,11,38,2144
+0,1,[],0,3.00,0,0,NHL,0,30,0,0,2,0,0,0,43,0,1979-80,VAN,2,2.9,0,4,8,15,860
+0,0,[],1,3.80,0,0,NHL,0,31,0,0,0,0,0,0,62,0,1980-81,VAN,6,2.6,1,4,6,20,978

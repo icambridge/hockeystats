@@ -1,0 +1,4 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,2,0,0,NHL,20,2,53,-3,8,0,0,0,0,1988-89,MNS,0,2,[],0.0,,12
+,0,0,0,NHL,21,0,33,-5,4,0,0,0,0,1989-90,MNS,0,0,[],0.0,,5
+,12,0,0,NHL,23,3,326,-27,73,3,3,0,3,1991-92,SJS,6,6,[],8.2,,48

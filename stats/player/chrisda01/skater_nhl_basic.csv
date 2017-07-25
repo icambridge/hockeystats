@@ -1,0 +1,18 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,18,0,0,NHL,20,3,2,-5,34,5,3,1,6,1979-80,WIN,8,10,[],23.5,,15
+,71,0,1,NHL,21,24,22,-54,185,18,9,1,18,1980-81,WIN,28,43,"[{'link': '/awards/voting-1981.html#byng', 'name': 'Byng-16'}, {'link': '/awards/voting-1981.html#calder', 'name': 'Calder-9'}]",15.1,,80
+,76,3,1,NHL,22,28,28,-41,218,18,6,0,23,1981-82,WIN,25,51,"[{'link': '/awards/voting-1982.html#selke', 'name': 'Selke-22'}]",11.5,,80
+,44,2,0,NHL,23,16,23,-5,131,14,4,0,10,1982-83,WIN,18,26,[],13.7,,55
+,81,6,0,NHL,24,37,28,26,164,20,9,0,15,1983-84,WSH,29,52,"[{'link': '/awards/voting-1984.html#byng', 'name': 'Byng-13'}, {'link': '/awards/voting-1984.html#selke', 'name': 'Selke-21'}]",17.7,,0
+,69,2,0,NHL,25,31,14,20,152,21,5,1,11,1984-85,WSH,26,43,"[{'link': '/awards/voting-1985.html#byng', 'name': 'Byng-16'}, {'link': '/awards/voting-1985.html#selke', 'name': 'Selke-25'}]",17.1,,0
+,83,4,2,NHL,26,23,15,3,218,21,18,3,16,1985-86,WSH,41,42,"[{'link': '/awards/voting-1986.html#AS', 'name': 'AS-9'}, {'link': '/awards/voting-1986.html#byng', 'name': 'Byng-6'}]",18.8,,80
+,50,2,0,NHL,27,15,8,-5,152,18,5,1,11,1986-87,WSH,23,27,"[{'link': '/awards/voting-1987.html#byng', 'name': 'Byng-20'}]",15.1,,76
+,58,5,0,NHL,28,12,26,-14,187,23,14,0,9,1987-88,WSH,37,21,[],19.8,,0
+,65,1,1,NHL,29,21,12,2,177,17,16,1,9,1988-89,WSH,34,31,"[{'link': '/awards/voting-1989.html#byng', 'name': 'Byng-21'}]",19.2,,0
+,40,4,0,NHL,30,19,12,-8,153,13,2,0,6,1989-90,TOT,15,25,[],9.8,,78
+,11,1,0,NHL,30,6,4,-12,54,3,0,0,2,1989-90,WSH,3,8,[],5.6,,28
+,29,3,0,NHL,30,13,8,4,99,10,2,0,4,1989-90,BOS,12,17,[],12.1,,50
+,53,2,0,NHL,31,15,41,8,173,23,9,0,6,1990-91,BOS,32,21,[],18.5,,78
+,44,3,3,NHL,32,17,41,2,142,16,1,1,6,1991-92,STL,20,24,[],14.1,,78
+,18,1,0,NHL,33,11,12,6,75,3,1,1,2,1992-93,CHI,4,14,[],5.3,,60
+,3,0,0,NHL,34,2,0,0,6,0,0,0,1,1993-94,CHI,0,3,[],0.0,,9

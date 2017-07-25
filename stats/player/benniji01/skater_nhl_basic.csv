@@ -1,0 +1,12 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,31,0,0,NHL,18,10,46,-27,90,5,2,0,14,1981-82,TOR,7,24,[],7.8,,74
+,22,0,0,NHL,19,8,47,-8,68,2,3,1,8,1982-83,TOR,5,17,[],7.4,,74
+,51,1,0,NHL,20,19,66,-4,136,6,6,1,19,1983-84,TOR,12,39,[],8.8,,79
+,44,2,0,NHL,21,12,55,-39,160,3,6,0,23,1984-85,TOR,9,35,[],5.6,,0
+,25,0,0,NHL,22,12,71,-4,76,2,2,0,9,1985-86,TOR,4,21,[],5.3,,52
+,13,1,0,NHL,23,8,44,9,63,2,0,0,3,1986-87,TOT,2,11,[],3.2,,59
+,0,0,0,NHL,23,0,4,0,3,0,0,0,0,1986-87,TOR,0,0,[],0.0,,5
+,13,1,0,NHL,23,8,40,9,60,2,0,0,3,1986-87,VAN,2,11,[],3.3,,54
+,33,1,1,NHL,24,13,58,0,102,5,1,1,12,1987-88,VAN,7,26,[],6.9,,77
+,12,0,0,NHL,25,5,48,-4,55,2,1,0,4,1988-89,VAN,3,9,[],5.5,,65
+,12,0,1,NHL,26,6,26,4,49,2,0,0,3,1989-90,VAN,3,9,[],6.1,,45

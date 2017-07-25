@@ -1,0 +1,12 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,4.01,0,0,QAAA,0,18,0,0,0,0,0,0,20,0,1985-86,Richelieu Riverains,2,0,0,3,5,299
+0,0,0,6.00,0,0,QMJHL,0,19,0,0,0,0,0,0,26,0,1986-87,St-Jean Castors,3,0,0,1,5,260
+0,0,0,4.82,0,0,QMJHL,0,20,0,0,0,0,0,0,34,0,1987-88,St-Jean Castors,4,0,0,3,7,423
+0,1,0,2.60,0,0,IHL,0,21,0,0,0,0,0,0,21,0,1988-89,Fort Wayne Komets,4,0,0,4,9,484
+0,0,0,1.00,0,0,AHL,0,23,0,0,0,0,0,0,1,0,1990-91,Moncton Hawks,0,0,0,1,1,60
+0,0,0,2.95,0,0,IHL,0,23,0,0,0,0,0,0,57,0,1990-91,Fort Wayne Komets,9,0,0,10,19,1158
+0,2,0,2.62,0,0,AHL,0,26,0,0,0,0,0,0,57,0,1993-94,Moncton Hawks,9,0,0,12,21,1305
+0,0,0,2.49,0,0,IHL,0,28,0,0,0,0,0,0,10,0,1995-96,San Francisco Spiders,3,0,0,1,4,241
+0,0,0,2.29,0,0,IHL,0,29,0,0,0,0,0,0,19,0,1996-97,Quebec Rafales,3,0,0,5,9,498
+0,1,0,2.63,0,0,IHL,0,30,0,0,0,0,0,0,36,0,1997-98,Chicago Wolves,4,0,0,10,14,820
+0,0,0,3.73,0,0,Swiss,0,31,0,0,20,0,0,0,23,0,1998-99,HC Davos,4,0,0,2,6,370

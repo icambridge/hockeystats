@@ -1,0 +1,20 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,0,0,0,NHL,18,0,0,0,0,0,0,0,0,1944-45,BOS,0,0,[],0,,1
+,0,0,0,NHL,19,0,0,0,0,0,0,0,0,1945-46,BOS,0,0,[],0,,1
+,5,0,0,NHL,20,0,41,0,0,0,0,0,0,1946-47,BOS,1,4,[],0,,23
+,10,0,0,NHL,21,0,69,0,0,0,0,0,0,1947-48,BOS,4,6,[],0,,56
+,16,0,0,NHL,22,0,62,0,0,0,0,0,0,1948-49,BOS,4,12,[],0,,0
+,7,0,0,NHL,23,0,122,0,0,0,0,0,0,1949-50,BOS,2,5,[],0,,69
+,10,0,0,NHL,24,0,101,0,0,0,0,0,0,1950-51,TOT,3,7,[],0,,53
+,2,0,0,NHL,24,0,37,0,0,0,0,0,0,1950-51,BOS,1,1,[],0,,14
+,8,0,0,NHL,24,0,64,0,0,0,0,0,0,1950-51,TOR,2,6,[],0,,39
+,7,0,0,NHL,25,0,110,0,0,0,0,0,0,1951-52,TOR,0,7,[],0,,61
+,8,0,0,NHL,26,0,110,0,0,0,0,0,0,1952-53,TOR,2,6,[],0,,66
+,8,0,0,NHL,27,0,84,0,0,0,0,0,0,1953-54,TOR,0,8,[],0,,62
+,18,0,0,NHL,28,0,0,0,0,0,0,0,0,1954-55,BOS,4,14,"[{'link': '/awards/nhl_all_star.html#1955', 'name': None}, {'link': '/awards/voting-1955.html#norris', 'name': 'Norris-3'}]",0,,70
+,21,0,0,NHL,29,0,70,0,0,0,0,0,0,1955-56,BOS,4,17,"[{'link': '/awards/voting-1956.html#norris', 'name': 'Norris-5'}]",0,,62
+,31,0,0,NHL,30,0,108,0,0,0,0,0,0,1956-57,BOS,6,25,"[{'link': '/awards/nhl_all_star.html#1957', 'name': None}, {'link': '/awards/voting-1957.html#norris', 'name': 'Norris-3'}]",0,,68
+,15,0,0,NHL,31,0,71,0,0,0,0,0,0,1957-58,BOS,0,15,"[{'link': '/awards/nhl_all_star.html#1958', 'name': None}, {'link': '/awards/voting-1958.html#norris', 'name': 'Norris-3'}]",0,,66
+,21,0,0,NHL,32,0,101,0,0,0,0,0,0,1958-59,BOS,0,21,"[{'link': '/awards/voting-1959.html#norris', 'name': 'Norris-5'}]",0,,0
+,20,0,0,NHL,33,0,112,0,0,0,0,0,0,1959-60,BOS,2,18,[],0,,60
+,11,0,0,NHL,34,0,59,0,0,0,0,0,0,1960-61,BOS,2,9,[],0,,62

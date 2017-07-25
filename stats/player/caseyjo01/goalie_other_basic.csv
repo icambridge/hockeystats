@@ -1,0 +1,17 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,3.80,0,0,WCHA,0,18,0,0,0,0,0,0,19,0,1980-81,University of North Dakota,1,0,0,3,5,300
+0,1,0,2.77,0,0,WCHA,0,19,0,0,0,0,0,0,48,0,1981-82,University of North Dakota,3,0,0,15,18,1038
+0,0,0,4.11,0,0,WJC-A,0,19,0,0,0,0,0,0,15,0,1981-82,United States,2,0,0,1,5,219
+0,0,0,2.47,0,0,WCHA,0,20,0,0,0,0,0,0,42,0,1982-83,University of North Dakota,6,0,2,9,17,1020
+0,2,0,3.17,0,0,WCHA,0,21,0,0,0,0,0,0,115,0,1983-84,University of North Dakota,10,0,2,25,37,2180
+0,4,0,2.63,0,0,AHL,0,22,0,0,0,0,0,0,116,0,1984-85,Baltimore Skipjacks,11,0,4,30,46,2646
+0,0,0,3.88,0,0,AHL,0,23,0,0,0,0,0,0,30,0,1985-86,Springfield Indians,3,0,1,4,9,464
+0,0,0,4.36,0,0,AHL,0,24,0,0,0,0,0,0,56,0,1986-87,Springfield Indians,8,0,0,1,13,770
+0,0,0,4.45,0,0,IHL,0,24,0,0,0,0,0,0,133,0,1986-87,Indianapolis Checkers,15,0,0,14,31,1794
+0,2,0,3.64,0,0,IHL,0,25,0,0,0,0,0,0,154,0,1987-88,Kalamazoo Wings,13,0,5,24,42,2541
+0,0,0,2.69,0,0,WEC-A,0,27,0,0,0,0,0,0,15,0,1989-90,United States,2,0,0,4,6,334
+0,0,0,4.86,0,0,Fr-Tour,0,28,0,0,0,0,0,0,9,0,1990-91,Minnesota North Stars,1,0,0,0,3,111
+0,0,0,2.64,0,0,IHL,0,29,0,0,0,0,0,0,11,0,1991-92,Kalamazoo Wings,1,0,1,2,4,250
+0,3,0,3.05,0,1131,IHL,0,33,0,1003,0,0,0,0,128,.887,1995-96,Peoria Rivermen,19,0,2,21,43,2514
+0,0,0,2.45,0,119,AHL,0,34,0,109,0,0,0,0,10,.916,1996-97,Worcester IceCats,1,0,1,2,4,245
+0,2,0,2.78,0,642,IHL,0,35,0,580,0,0,0,0,62,.903,1997-98,Kansas City Blades,13,0,2,9,24,1340

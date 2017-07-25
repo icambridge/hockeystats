@@ -1,0 +1,5 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+1,8,11,1,NHL,2005-06,24,5,BUF,140,6,0,3,1,11,,,45.5,3
+0,16,9,0,NHL,2006-07,25,0,BUF,271,9,4,6,0,25,,,0.0,0
+0,6,1,0,NHL,2009-10,28,0,BUF,107,1,2,-2,0,16,23,,0.0,0
+0,6,2,0,NHL,2010-11,29,0,BUF,114,2,2,-2,0,12,20,,0.0,0

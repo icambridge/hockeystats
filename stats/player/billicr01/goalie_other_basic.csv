@@ -1,0 +1,13 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,3.41,0,0,High-MA,0,16,0,0,0,0,0,0,76,0,1982-83,Thayer Academy,0,0,0,0,23,1338
+0,1,0,4.16,0,0,OHL,0,17,0,0,0,0,0,0,162,0,1983-84,Belleville Bulls,19,0,0,20,44,2335
+0,1,0,4.25,0,0,OHL,0,18,0,0,0,0,0,0,180,0,1984-85,Belleville Bulls,19,0,0,26,47,2544
+0,1,0,2.60,0,0,WJC-A,0,18,0,0,0,0,0,0,13,0,1984-85,Canada,0,0,2,3,5,300
+0,0,0,3.67,0,0,OHL,0,19,0,0,0,0,0,0,11,0,1985-86,Belleville Bulls,1,0,0,2,3,180
+0,0,0,2.80,0,0,WJC-A,0,19,0,0,0,0,0,0,14,0,1985-86,Canada,1,0,0,4,5,300
+0,0,0,3.65,0,0,AHL,0,20,0,0,0,0,0,0,70,0,1986-87,Maine Mariners,8,0,2,9,20,1151
+0,1,0,3.67,0,0,AHL,0,21,0,0,0,0,0,0,208,0,1987-88,Utica Devils,27,0,8,22,59,3404
+0,2,0,3.70,0,0,AHL,0,22,0,0,0,0,0,0,150,0,1988-89,Utica Devils,18,0,6,17,41,2432
+0,0,0,3.97,0,0,AHL,0,23,0,0,0,0,0,0,138,0,1989-90,Utica Devils,13,0,1,20,38,2087
+0,2,0,3.51,0,0,Nat-Tm,0,24,0,0,0,0,0,0,110,0,1990-91,Canada,14,0,2,17,34,1879
+0,0,0,3.91,0,0,WEC-A,0,24,0,0,0,0,0,0,3,0,1990-91,Canada,0,0,1,0,3,46

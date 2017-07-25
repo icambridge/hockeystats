@@ -1,0 +1,15 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,3,[],0,2.30,0,0,NHL,0,22,0,0,0,0,0,0,106,0,1936-37,TOR,19,7.8,0,4,22,45,2770
+0,6,[],0,2.56,0,0,NHL,0,23,0,0,0,0,0,0,127,0,1937-38,TOR,15,7.3,0,9,24,0,2980
+0,8,[],0,2.15,0,0,NHL,0,24,0,0,0,0,0,0,107,0,1938-39,TOR,20,9.8,0,9,19,0,0
+0,4,[],0,2.23,0,0,NHL,0,25,0,0,0,0,0,0,108,0,1939-40,TOR,17,8.9,0,5,25,47,2900
+0,5,"[{'link': '/awards/nhl_all_star.html#1941', 'name': None}, {'link': '/awards/vezina.html#1941', 'name': None}]",0,0,0,0,NHL,0,26,0,0,0,0,0,0,99,0,1940-41,TOR,14,10.9,0,6,0,0,2970
+0,0,"[{'link': '/awards/nhl_all_star.html#1942', 'name': None}]",0,2.76,0,0,NHL,0,27,0,0,0,0,0,0,136,0,1941-42,TOR,18,9.2,0,3,27,0,0
+0,1,[],0,3.18,0,0,NHL,0,28,0,0,0,0,0,0,159,0,1942-43,TOR,0,10.0,0,9,22,0,3000
+0,0,[],0,3.53,0,0,NHL,0,31,0,0,0,0,0,0,53,0,1945-46,TOR,6,2.3,0,3,6,15,900
+0,4,"[{'link': '/awards/voting-1947.html#hart', 'name': 'Hart-4'}]",0,2.87,0,0,NHL,0,32,0,0,0,0,0,0,172,0,1946-47,TOR,19,11.6,0,10,31,0,0
+0,5,"[{'link': '/awards/nhl_all_star.html#1948', 'name': None}, {'link': '/awards/vezina.html#1948', 'name': None}]",0,0,0,0,NHL,0,33,0,0,2,0,0,0,143,0,1947-48,TOR,15,0,0,0,0,0,0
+0,5,[],0,2.68,0,0,NHL,0,34,0,0,0,0,0,0,161,0,1948-49,TOR,25,10.2,0,0,22,0,0
+0,0,"[{'link': '/awards/voting-1950.html#hart', 'name': 'Hart-9'}]",0,2.48,0,0,NHL,0,35,0,0,2,0,0,0,167,0,1949-50,TOR,25,13.0,0,12,30,68,4040
+0,6,[],0,2.23,0,0,NHL,0,36,0,0,4,0,0,0,68,0,1950-51,TOR,11,6.6,0,5,14,31,1827
+0,0,[],0,6.00,0,0,NHL,0,37,0,0,0,0,0,0,3,0,1951-52,TOR,1,-0.1,0,0,0,1,30

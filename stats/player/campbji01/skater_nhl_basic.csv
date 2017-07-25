@@ -1,0 +1,10 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,5,0,0,NHL,22,2,36,0,25,1,1,0,1,1995-96,MDA,2,3,[],8.0,,16
+,43,6,0,NHL,23,13,68,3,169,18,5,2,5,1996-97,STL,23,20,"[{'link': '/awards/voting-1997.html#calder', 'name': 'Calder-3'}]",13.6,,68
+,41,6,0,NHL,24,11,55,0,147,15,7,0,8,1997-98,STL,22,19,[],15.0,,76
+13:34,25,0,0,NHL,25,13,41,-8,99,3,1,0,8,1998-99,STL,4,21,[],4.0,746,55
+15:17,0,0,0,NHL,26,0,9,0,6,0,0,0,0,1999-00,STL,0,0,[],0.0,31,2
+10:19,20,1,0,NHL,27,6,53,-3,81,3,6,0,5,2000-01,MTL,9,11,[],11.1,588,57
+13:21,2,0,0,NHL,28,0,4,-3,12,1,0,0,1,2001-02,CHI,1,1,[],8.3,120,9
+8:56,0,0,0,NHL,29,0,0,0,3,0,0,0,0,2002-03,FLA,0,0,[],0.0,9,1
+8:47,0,0,0,NHL,32,0,2,0,0,0,0,0,0,2005-06,TBL,0,0,[],0,9,1

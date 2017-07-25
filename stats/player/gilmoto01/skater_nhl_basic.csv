@@ -1,0 +1,4 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,35,0,0,WHA,24,0,191,0,0,11,6,0,0,1972-73,LAS,17,18,[],0,,71
+,42,2,0,WHA,25,0,164,0,0,17,2,0,0,1973-74,EDO,19,23,[],0,,57
+,31,0,0,WHA,26,0,84,-22,140,12,0,0,0,1974-75,EDO,12,19,[],8.6,,74

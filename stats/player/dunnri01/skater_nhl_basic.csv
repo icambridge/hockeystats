@@ -1,0 +1,13 @@
+game_winning_goals,plus_minus,shots,shorthanded_assists,games_played,assists,year,even_strength_assists,shorthanded_goals,goals,power_play_goals,average_ice_time,league,shotsPercentage,power_play_assists,age,pim,awards,points,even_strength_goals,total_ice_time,team
+0,-3,23,0,25,3,1977-78,3,0,0,0,,NHL,0.0,0,20,16,[],3,0,,BUF
+0,-2,18,0,24,3,1978-79,1,0,0,0,,NHL,0.0,2,21,14,[],3,0,,BUF
+2,25,147,1,80,31,1979-80,20,0,7,4,,NHL,4.8,10,22,61,[],38,3,,BUF
+1,21,175,0,79,42,1980-81,19,0,7,4,,NHL,4.0,23,23,34,"[{'link': '/awards/voting-1981.html#AS', 'name': 'AS-22'}]",49,3,,BUF
+1,6,122,0,72,19,1981-82,14,0,7,0,,NHL,5.7,5,24,73,[],26,7,,BUF
+1,-4,88,0,0,11,1982-83,10,0,3,0,,NHL,3.4,1,25,47,[],14,3,,CGY
+0,-20,82,0,63,20,1983-84,11,0,5,0,,NHL,6.1,9,26,30,[],25,5,,HAR
+0,-3,17,0,13,4,1984-85,3,0,1,0,,NHL,5.9,1,27,2,[],5,1,,HAR
+0,-5,55,0,29,5,1985-86,4,0,4,4,,NHL,7.3,1,28,25,[],9,0,,BUF
+0,3,1,0,2,1,1986-87,0,0,0,0,,NHL,0.0,1,29,2,[],1,0,,BUF
+0,-7,19,0,12,0,1987-88,0,0,2,0,,NHL,10.5,0,30,8,[],2,2,,BUF
+0,-1,2,0,4,1,1988-89,0,0,0,0,,NHL,0.0,1,31,2,[],1,0,,BUF

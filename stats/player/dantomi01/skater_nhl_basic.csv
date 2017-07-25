@@ -1,0 +1,4 @@
+game_winning_goals,plus_minus,shots,shorthanded_assists,games_played,assists,year,even_strength_assists,shorthanded_goals,goals,power_play_goals,average_ice_time,league,shotsPercentage,power_play_assists,age,pim,awards,points,even_strength_goals,total_ice_time,team
+0,0,3,0,2,0,2000-01,0,0,0,0,7:52,NHL,0.0,0,20,6,[],0,0,16,NJD
+0,0,18,0,17,0,2002-03,0,0,2,0,8:59,NHL,11.1,0,22,35,[],2,2,153,NJD
+0,-8,72,0,68,5,2003-04,3,1,7,0,11:57,NHL,9.7,2,23,141,[],12,6,812,STL

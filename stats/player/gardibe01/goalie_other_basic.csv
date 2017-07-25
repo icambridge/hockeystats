@@ -1,0 +1,14 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,5.14,0,0,SCJHL,0,18,0,0,0,0,0,0,18,0,1931-32,Saskatoon Mercuries,2,0,0,1,3,210
+0,0,0,1.00,0,0,CCJHL,0,18,0,0,0,0,0,0,2,0,1931-32,Calgary Jimmies,0,0,0,2,2,120
+0,0,0,1.00,0,0,CCJHL,0,19,0,0,0,0,0,0,2,0,1932-33,Calgary Jimmies,0,0,0,2,2,120
+0,0,0,3.49,0,0,N-SSHL,0,20,0,0,0,0,0,0,53,0,1933-34,Saskatoon Elites,7,0,1,6,14,910
+0,6,0,1.67,0,0,EAHL,0,21,0,0,0,0,0,0,35,0,1934-35,New York Crescents,5,0,1,15,21,1260
+0,5,0,2.04,0,0,Can-Am,0,22,0,0,0,0,0,0,94,0,1935-36,Philadelphia Ramblers,16,0,3,26,45,2760
+0,4,0,2.07,0,0,IAHL,0,23,0,0,0,0,0,0,104,0,1936-37,Philadelphia Ramblers,13,0,8,28,49,3020
+0,8,0,2.20,0,0,IAHL,0,24,0,0,0,0,0,0,108,0,1937-38,Philadelphia Ramblers,18,0,4,26,48,2950
+0,2,0,2.79,0,0,IAHL,0,25,0,0,0,0,0,0,150,0,1938-39,Philadelphia Ramblers,16,0,4,32,52,3230
+0,5,0,2.96,0,0,IAHL,0,26,0,0,0,0,0,0,174,0,1939-40,2 Teams,31,0,8,18,57,3530
+0,4,0,3.04,0,0,IAHL,0,26,0,0,0,0,0,0,170,0,1939-40,Philadelphia Ramblers,31,0,8,15,54,3350
+0,1,0,1.33,0,0,IAHL,0,26,0,0,0,0,0,0,4,0,1939-40,New Haven Eagles,0,0,0,3,3,180
+0,4,0,2.86,0,0,AHL,0,28,0,0,0,0,0,0,99,0,1941-42,Washington Lions,19,0,3,12,34,2080

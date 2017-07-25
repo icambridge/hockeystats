@@ -1,0 +1,8 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,57,2,2,NHL,27,23,6,-7,170,11,7,1,13,1977-78,MNS,20,37,[],11.8,,77
+,34,0,0,NHL,28,18,6,-4,126,4,2,0,10,1978-79,MNS,6,28,[],4.8,,68
+,34,1,0,NHL,29,15,7,-3,139,9,1,0,9,1979-80,TOT,10,24,[],7.2,,70
+,15,1,0,NHL,29,8,0,1,38,1,0,0,6,1979-80,MNS,1,14,[],2.6,,22
+,19,0,0,NHL,29,7,7,-4,101,8,1,0,3,1979-80,VAN,9,10,[],8.9,,48
+,63,1,0,NHL,30,30,8,12,167,19,3,1,10,1980-81,VAN,22,41,"[{'link': '/awards/voting-1981.html#byng', 'name': 'Byng-16'}]",13.2,,80
+,18,1,0,NHL,31,10,6,-9,90,6,0,0,2,1981-82,VAN,6,12,[],6.7,,53

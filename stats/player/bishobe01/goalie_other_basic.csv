@@ -1,0 +1,18 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,1,0,1.73,0,0,MAHL,0,17,0,0,0,0,0,0,19,0,2003-04,St. Louis AAA Blues,1,0,2,8,11,660
+0,3,0,2.51,0,0,Exhib.,0,17,0,0,0,0,0,0,62,0,2003-04,St. Louis AAA Blues,7,0,4,15,26,1480
+0,5,3,1.93,0,1042,NAHL,0,18,0,959,29,0,0,0,83,.920,2004-05,Texas Tornado,8,3,0,35,45,2577
+0,0,0,2.28,0,0,H-East,0,19,0,0,4,0,0,0,68,0,2005-06,University of Maine,8,0,2,21,31,1788
+0,3,1,2.14,0,0,H-East,0,20,0,0,0,0,0,0,68,0,2006-07,University of Maine,9,1,2,21,34,1907
+0,2,2,2.43,0,0,H-East,0,21,0,0,6,0,0,0,80,0,2007-08,University of Maine,18,2,3,13,34,1972
+0,0,0,2.38,0,131,AHL,0,21,0,119,9,0,0,0,12,.908,2007-08,Peoria Rivermen,2,0,1,2,5,302
+0,1,2,2.81,0,860,AHL,0,22,0,771,2,0,0,0,89,.897,2008-09,Peoria Rivermen,16,2,1,15,33,1898
+0,0,4,2.77,0,1302,AHL,0,23,0,1173,6,0,0,0,129,.901,2009-10,Peoria Rivermen,18,4,4,23,48,2793
+0,0,0,0.00,0,5,WC-A,0,23,0,5,0,0,0,0,0,1.000,2009-10,United States,0,0,0,0,1,20
+0,2,2,2.56,0,1011,AHL,0,24,0,924,10,0,0,0,87,.914,2010-11,Peoria Rivermen,14,2,2,17,35,2043
+0,6,0,2.27,0,1309,AHL,0,25,0,1217,12,0,0,0,92,.930,2011-12,2 Teams,15,0,0,26,41,2437
+0,6,0,2.26,0,1184,AHL,0,25,0,1099,12,0,0,0,85,.928,2011-12,Peoria Rivermen,14,0,0,24,38,2258
+0,0,0,2.35,0,125,AHL,0,25,0,118,0,0,0,0,7,.944,2011-12,Binghamton Senators,1,0,0,2,3,179
+0,0,1,2.59,0,475,AHL,0,26,0,441,12,0,0,0,34,.928,2012-13,Binghamton Senators,3,1,2,8,13,787
+0,0,0,2.83,0,113,WC-A,0,26,0,99,0,0,0,0,14,.876,2012-13,United States,2,0,0,3,5,297
+0,0,0,0,0,0,WCup,0,30,0,0,0,0,0,0,0,0,2016-17,USA,0,0,0,0,0,0

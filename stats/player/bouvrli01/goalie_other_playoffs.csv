@@ -1,0 +1,12 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,1.50,0,0,MCJHL,0,17,0,0,0,0,0,0,3,0,1931-32,Montreal St. Francis Xavier,0,0,0,2,2,120
+0,0,0,1.50,0,0,MCJHL,0,18,0,0,0,0,0,0,3,0,1932-33,Montreal St. Francis Xavier,0,0,0,2,2,120
+0,0,0,3.00,0,0,MCHL,0,24,0,0,0,0,0,0,9,0,1938-39,Montreal Concordia,0,0,0,0,3,180
+0,1,0,3.40,0,0,MCHL,0,25,0,0,0,0,0,0,17,0,1939-40,Montreal Concordia,0,0,0,0,5,300
+0,0,0,2.67,0,0,QSHL,0,27,0,0,0,0,0,0,16,0,1941-42,Quebec Aces,0,0,0,0,6,360
+0,1,0,3.38,0,0,Al-Cup,0,27,0,0,0,0,0,0,27,0,1941-42,Quebec Aces,4,0,0,4,8,480
+0,0,0,3.00,0,0,QSHL,0,28,0,0,0,0,0,0,12,0,1942-43,Quebec Aces,0,0,0,0,4,240
+0,0,0,3.50,0,0,QSHL,0,29,0,0,0,0,0,0,21,0,1943-44,Quebec Aces,0,0,0,0,6,360
+0,0,0,3.00,0,0,Al-Cup,0,29,0,0,0,0,0,0,27,0,1943-44,Quebec Aces,0,0,0,9,9,540
+0,0,0,2.43,0,0,QSHL,0,30,0,0,0,0,0,0,17,0,1944-45,Quebec Aces,0,0,0,0,7,420
+0,0,0,4.75,0,0,QSHL,0,32,0,0,0,0,0,0,19,0,1946-47,Quebec Aces,3,0,0,1,4,240

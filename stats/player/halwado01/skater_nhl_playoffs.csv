@@ -1,0 +1,12 @@
+shorthanded_goals,power_play_goals,year,team,average_ice_time,age,points,shotsPercentage,assists,league,pim,game_winning_goals,goals,win,plus_minus,total_ice_time,games_played,even_strength_goals,shots
+0,0,1975-76,BOS,,20,0,0.0,0,NHL,0,0,0,,0,,1,0,1
+0,0,1976-77,BOS,,21,0,0.0,0,NHL,4,0,0,,0,,6,0,2
+0,0,1978-79,LAK,,23,0,0.0,0,NHL,12,0,0,,0,,1,0,1
+0,0,1979-80,LAK,,24,0,0,0,NHL,2,0,0,,0,,1,0,0
+0,0,1980-81,VAN,,25,1,0.0,1,NHL,6,0,0,,0,,2,0,1
+0,0,1981-82,VAN,,26,6,6.9,4,NHL,44,1,2,,4,,15,2,29
+0,0,1982-83,VAN,,27,1,10.0,0,NHL,21,0,1,,-1,,4,1,10
+0,2,1983-84,VAN,,28,4,30.0,1,NHL,2,0,3,,-4,,4,1,10
+0,0,1985-86,VAN,,30,0,0.0,0,NHL,4,0,0,,-2,,3,0,4
+0,0,1987-88,DET,,32,5,11.1,4,NHL,18,0,1,,5,,8,1,9
+0,0,1988-89,EDM,,33,0,0,0,NHL,0,0,0,,-2,,2,0,0

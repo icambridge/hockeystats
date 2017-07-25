@@ -1,0 +1,13 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,64,2,0,NHL,20,26,46,10,214,23,7,0,8,1972-73,PHI,30,34,"[{'link': '/awards/voting-1973.html#calder', 'name': 'Calder-2'}]",14.0,,69
+,69,5,2,NHL,21,16,54,34,290,23,9,5,14,1973-74,PHI,34,35,[],11.7,,75
+,71,4,5,NHL,22,20,66,46,276,21,8,2,15,1974-75,PHI,34,37,"[{'link': '/awards/voting-1975.html#AS', 'name': 'AS-4'}]",12.3,,79
+,112,10,4,NHL,23,36,104,74,0,31,15,3,23,1975-76,PHI,50,62,"[{'link': '/awards/nhl_all_star.html#1976', 'name': None}]",13.2,,0
+,55,3,0,NHL,24,20,62,32,245,17,3,2,13,1976-77,PHI,20,35,"[{'link': '/awards/voting-1977.html#AS', 'name': 'AS-6'}]",8.2,,73
+,72,9,4,NHL,25,20,34,31,262,29,8,2,9,1977-78,PHI,41,31,[],15.6,,80
+,80,4,0,NHL,26,25,22,19,258,18,10,2,19,1978-79,PHI,34,46,"[{'link': '/awards/nhl_all_star.html#1979', 'name': None}, {'link': '/awards/voting-1979.html#byng', 'name': 'Byng-22'}, {'link': '/awards/voting-1979.html#selke', 'name': 'Selke-24'}]",13.2,,79
+,72,7,2,NHL,27,22,17,39,265,31,7,3,7,1979-80,PHI,40,32,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-5'}]",15.1,,79
+,85,2,2,NHL,28,23,69,6,292,25,16,1,18,1980-81,PHI,43,42,"[{'link': '/awards/nhl_all_star.html#1981', 'name': None}]",14.7,,80
+,89,6,4,NHL,29,18,85,4,350,28,13,0,26,1981-82,PHI,45,44,"[{'link': '/awards/voting-1982.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1982.html#hart', 'name': 'Hart-15'}, {'link': '/awards/voting-1982.html#selke', 'name': 'Selke-13'}]",12.9,,80
+,60,1,2,NHL,30,22,28,17,215,20,5,0,11,1982-83,PHI,27,33,[],12.6,,66
+,54,1,0,NHL,31,18,36,4,203,19,3,1,13,1983-84,PHI,22,32,[],10.8,,63

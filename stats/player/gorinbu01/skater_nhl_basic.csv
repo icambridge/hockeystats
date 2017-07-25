@@ -1,0 +1,21 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,36,0,0,NHL,20,20,8,-15,125,11,2,0,3,1969-70,LAK,13,23,"[{'link': '/awards/voting-1970.html#calder', 'name': 'Calder-5'}]",10.4,,59
+,7,0,0,NHL,21,4,2,4,15,2,0,0,1,1970-71,LAK,2,5,[],13.3,,19
+,50,2,0,NHL,22,22,2,-10,137,18,3,0,7,1971-72,LAK,21,29,[],15.3,,74
+,59,1,1,NHL,23,25,2,0,148,23,4,1,5,1972-73,LAK,28,31,[],18.9,,67
+,61,5,3,NHL,24,24,2,2,161,20,5,0,9,1973-74,LAK,28,33,"[{'link': '/awards/voting-1974.html#byng', 'name': 'Byng-3'}]",17.4,,70
+,60,7,3,NHL,25,24,6,26,134,18,6,0,9,1974-75,LAK,27,33,"[{'link': '/awards/voting-1975.html#byng', 'name': 'Byng-4'}]",20.1,,60
+,73,2,5,NHL,26,21,8,0,193,23,5,0,19,1975-76,LAK,33,40,"[{'link': '/awards/voting-1976.html#byng', 'name': 'Byng-4'}]",17.1,,0
+,85,3,0,NHL,27,30,6,10,216,17,13,2,23,1976-77,LAK,30,55,"[{'link': '/awards/voting-1977.html#byng', 'name': 'Byng-4'}]",13.9,,78
+,73,5,3,NHL,28,24,2,-4,248,25,9,0,12,1977-78,LAK,37,36,"[{'link': '/awards/byng.html#1978', 'name': None}, {'link': '/awards/masterton.html#1978', 'name': None}]",14.9,,80
+,87,2,4,NHL,29,26,16,-20,217,19,13,1,24,1978-79,LAK,36,51,"[{'link': '/awards/voting-1979.html#byng', 'name': 'Byng-8'}, {'link': '/awards/voting-1979.html#selke', 'name': 'Selke-12'}]",16.6,,0
+,79,1,2,NHL,30,23,14,-14,180,22,2,0,30,1979-80,TOT,26,53,[],14.4,,0
+,68,1,1,NHL,30,20,12,-21,160,17,2,0,28,1979-80,LAK,20,48,[],12.5,,69
+,11,0,1,NHL,30,3,2,7,20,5,0,0,2,1979-80,NYI,6,5,[],30.0,,12
+,60,1,1,NHL,31,28,0,4,152,18,4,2,7,1980-81,NYI,23,37,"[{'link': '/awards/voting-1981.html#byng', 'name': 'Byng-7'}, {'link': '/awards/voting-1981.html#selke', 'name': 'Selke-10'}, {'link': '/awards/smythe.html#1981', 'name': None}]",15.1,,78
+,32,1,5,NHL,32,12,10,-3,63,9,1,0,5,1981-82,NYI,15,17,"[{'link': '/awards/voting-1982.html#selke', 'name': 'Selke-13'}]",23.8,,67
+,39,4,5,NHL,33,16,8,10,98,12,2,2,2,1982-83,NYI,19,20,"[{'link': '/awards/voting-1983.html#byng', 'name': 'Byng-17'}, {'link': '/awards/voting-1983.html#selke', 'name': 'Selke-24'}]",19.4,,75
+,46,3,5,NHL,34,22,8,9,89,17,0,0,2,1983-84,NYI,22,24,[],24.7,,71
+,41,2,3,NHL,35,15,8,-19,103,10,2,2,9,1984-85,TOT,15,26,"[{'link': '/awards/voting-1985.html#byng', 'name': 'Byng-15'}]",14.6,,68
+,7,0,1,NHL,35,3,2,-11,19,1,0,1,1,1984-85,NYI,2,5,"[{'link': '/awards/voting-1985.html#byng', 'name': 'Byng-15'}]",10.5,,29
+,34,2,2,NHL,35,12,6,-8,84,9,2,1,8,1984-85,BOS,13,21,"[{'link': '/awards/voting-1985.html#byng', 'name': 'Byng-15'}]",15.5,,39

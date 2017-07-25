@@ -1,0 +1,11 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,7,4,1,NHL,1977-78,21,2,NYI,,2,2,3,0,29,,,6.9,2
+2,10,8,1,NHL,1978-79,22,6,NYI,,2,2,5,0,25,,,24.0,4
+0,16,23,1,NHL,1979-80,23,10,NYI,,13,8,-4,0,55,,SC,18.2,4
+0,18,0,3,NHL,1980-81,24,0,NYI,,0,4,14,0,69,,SC,24.6,8
+0,0,27,0,NHL,1981-82,25,0,NYI,,10,0,7,0,0,,SC,27.4,0
+0,19,26,0,NHL,1982-83,26,0,NYI,,9,10,7,0,78,,SC,21.8,11
+2,0,18,3,NHL,1983-84,27,8,NYI,,10,4,6,0,62,,,12.9,6
+2,10,11,0,NHL,1984-85,28,5,NYI,,6,4,1,0,32,,,15.6,3
+0,3,3,0,NHL,1985-86,29,1,NYI,,2,4,-2,0,14,,,7.1,1
+2,6,5,0,NHL,1986-87,30,2,NYI,,3,0,-2,0,10,,,20.0,0

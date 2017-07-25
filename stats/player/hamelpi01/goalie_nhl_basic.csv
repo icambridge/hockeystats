@@ -1,0 +1,5 @@
+goals_allowed,ties,assists,points,games_started,league,goals,goals_allowed_average,loses,saves,games_played,good_start_precentages,goals_allowed_precentage,bad_start,saves_percentage,year,team,goals_saved_aboved_average,age,shots_againist,shutouts,pim,good_starts,awards,minutes,wins,goalie_point_share
+18,0,0,0,0,NHL,0,5.54,2,0,4,0,0,0,0,1974-75,TOR,0,22,0,0,2,0,[],195,1,-0.1
+0,0,0,0,0,NHL,0,0.00,0,0,1,0,0,0,0,1978-79,TOR,0,26,0,0,0,0,[],1,0,0.0
+130,3,2,2,0,NHL,0,4.01,19,0,35,0,0,0,0,1979-80,WIN,0,27,0,0,10,0,[],1947,9,3.8
+128,4,1,1,0,NHL,0,4.73,20,0,29,0,0,0,0,1980-81,WIN,0,28,0,0,4,0,[],1623,3,2.5

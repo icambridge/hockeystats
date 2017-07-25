@@ -1,0 +1,13 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,8.00,0,0,TBJHL,0,16,0,0,0,0,0,0,8,0,1948-49,Fort William Hurricanes,1,0,0,0,1,60
+0,1,0,3.40,0,0,TBJHL,0,17,0,0,0,0,0,0,17,0,1949-50,Fort William Hurricanes,0,0,0,0,5,300
+0,0,0,4.33,0,0,TBJHL,0,18,0,0,0,0,0,0,52,0,1950-51,Fort William Hurricanes,0,0,0,0,12,720
+0,0,0,3.33,0,0,TBJHL,0,19,0,0,0,0,0,0,30,0,1951-52,Fort William Hurricanes,2,0,0,7,9,540
+0,0,0,2.84,0,0,M-Cup,0,19,0,0,0,0,0,0,36,0,1951-52,Fort William Hurricanes,5,0,2,5,12,760
+0,0,0,3.25,0,0,QHL,0,21,0,0,0,0,0,0,13,0,1953-54,Sherbrooke Saints,3,0,0,1,4,240
+0,0,0,3.70,0,0,OSHL,0,23,0,0,0,0,0,0,37,0,1955-56,Kelowna Packers,6,0,0,4,10,600
+0,0,0,3.70,0,0,Al-Cup,0,23,0,0,0,0,0,0,37,0,1955-56,Vernon Canadians,6,0,0,4,10,600
+0,0,0,4.29,0,0,OSHL,0,24,0,0,0,0,0,0,30,0,1956-57,Kelowna Packers,5,0,0,2,7,420
+0,1,0,2.67,0,0,OSHL,0,25,0,0,0,0,0,0,32,0,1957-58,Kelowna Packers,3,0,1,8,12,720
+0,4,0,2.41,0,0,Al-Cup,0,25,0,0,0,0,0,0,41,0,1957-58,Kelowna Packers,6,0,0,11,17,1020
+0,0,0,4.00,0,0,WIHL,0,26,0,0,0,0,0,0,4,0,1958-59,Nelson Maple Leafs,0,0,0,1,1,60

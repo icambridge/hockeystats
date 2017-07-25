@@ -1,0 +1,17 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,14,0,0,NHL,19,0,9,0,0,0,0,0,0,1950-51,MTL,8,6,[],0,,18
+,54,0,0,NHL,20,0,66,0,0,0,0,0,0,1951-52,MTL,30,24,"[{'link': '/awards/calder.html#1952', 'name': None}]",0,,67
+,39,0,0,NHL,21,0,37,0,0,0,0,0,0,1952-53,MTL,22,17,[],0,,65
+,54,0,0,NHL,22,0,87,0,0,0,0,0,0,1953-54,MTL,29,25,[],0,,54
+,0,0,0,NHL,23,0,57,0,0,0,0,0,0,1954-55,MTL,0,37,"[{'link': '/awards/nhl_all_star.html#1955', 'name': None}, {'link': '/awards/ross.html#1955', 'name': None}]",0,,70
+,62,0,0,NHL,24,0,66,0,0,0,0,0,0,1955-56,MTL,29,33,[],0,,59
+,40,0,0,NHL,25,0,18,0,0,0,0,0,0,1956-57,MTL,19,21,[],0,,41
+,50,0,0,NHL,26,0,51,0,0,0,0,0,0,1957-58,MTL,27,23,[],0,,42
+,66,0,0,NHL,27,0,30,0,0,0,0,0,0,1958-59,MTL,22,44,[],0,,59
+,71,0,0,NHL,28,0,36,0,0,0,0,0,0,1959-60,MTL,30,41,"[{'link': '/awards/nhl_all_star.html#1960', 'name': None}]",0,,59
+,0,0,0,NHL,29,0,29,0,0,0,0,0,0,1960-61,MTL,0,45,"[{'link': '/awards/nhl_all_star.html#1961', 'name': None}, {'link': '/awards/voting-1961.html#byng', 'name': 'Byng-5'}, {'link': '/awards/hart.html#1961', 'name': None}, {'link': '/awards/ross.html#1961', 'name': None}]",0,,64
+,59,0,0,NHL,30,0,36,0,0,0,0,0,0,1961-62,MTL,23,36,[],0,,62
+,41,0,0,NHL,31,0,73,0,0,0,0,0,0,1962-63,MTL,23,18,[],0,,51
+,39,0,0,NHL,32,0,41,0,0,16,5,0,0,1963-64,MTL,21,18,[],0,,55
+,42,2,0,NHL,35,0,42,0,0,12,5,0,0,1966-67,NYR,17,25,[],0,,58
+,21,0,0,NHL,36,7,11,1,84,1,4,0,9,1967-68,NYR,5,16,[],6.0,,59

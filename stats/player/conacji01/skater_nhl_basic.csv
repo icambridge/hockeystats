@@ -1,0 +1,13 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,6,0,0,NHL,24,0,10,0,0,0,0,0,0,1945-46,DET,1,5,[],0,,20
+,29,0,0,NHL,25,0,2,0,0,0,0,0,0,1946-47,DET,16,13,"[{'link': '/awards/voting-1947.html#calder', 'name': 'Calder-2'}]",0,,33
+,40,0,0,NHL,26,0,2,0,0,0,0,0,0,1947-48,DET,17,23,"[{'link': '/awards/voting-1948.html#byng', 'name': 'Byng-5'}]",0,,60
+,49,0,0,NHL,27,0,43,0,0,0,0,0,0,1948-49,TOT,26,23,[],0,,59
+,1,0,0,NHL,27,0,2,0,0,0,0,0,0,1948-49,DET,1,0,[],0,,4
+,48,0,0,NHL,27,0,41,0,0,0,0,0,0,1948-49,CBH,25,23,[],0,,55
+,33,0,0,NHL,28,0,14,0,0,0,0,0,0,1949-50,CBH,13,20,[],0,,66
+,37,0,0,NHL,29,0,16,0,0,0,0,0,0,1950-51,CBH,10,27,[],0,,52
+,3,0,0,NHL,30,0,2,0,0,0,0,0,0,1951-52,TOT,1,2,[],0,,21
+,2,0,0,NHL,30,0,0,0,0,0,0,0,0,1951-52,CBH,1,1,[],0,,5
+,1,0,0,NHL,30,0,2,0,0,0,0,0,0,1951-52,NYR,0,1,[],0,,16
+,5,0,0,NHL,31,0,2,0,0,0,0,0,0,1952-53,NYR,1,4,[],0,,17

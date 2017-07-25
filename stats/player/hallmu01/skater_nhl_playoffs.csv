@@ -1,0 +1,8 @@
+shorthanded_goals,power_play_goals,year,team,average_ice_time,age,points,shotsPercentage,assists,league,pim,game_winning_goals,goals,win,plus_minus,total_ice_time,games_played,even_strength_goals,shots
+0,0,1962-63,CBH,,22,0,0.0,0,NHL,0,0,0,,0,,4,0,3
+0,0,1964-65,DET,,24,0,0.0,0,NHL,0,0,0,,0,,1,0,1
+0,0,1965-66,DET,,25,0,0.0,0,NHL,0,0,0,,-1,,1,0,1
+0,2,1972-73,HSA,,32,8,0,4,WHA,18,2,4,,0,,10,2,0
+0,0,1973-74,HSA,,33,15,0,6,WHA,6,3,9,,0,,14,0,0
+0,0,1974-75,HSA,,34,10,0,3,WHA,8,2,7,,0,,13,0,0
+0,0,1975-76,HSA,,35,5,0,4,WHA,0,0,1,,-5,,17,0,0

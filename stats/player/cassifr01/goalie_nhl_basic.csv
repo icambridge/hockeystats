@@ -1,0 +1,5 @@
+bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
+0,0,[],0,3.32,0,207,NHL,0,26,0,190,0,0,0,0,17,.918,2001-02,ATL,3,1.5,0,0,2,6,307
+0,0,[],0,5.37,0,58,NHL,0,27,0,47,0,0,0,0,11,.810,2002-03,ATL,1,-0.3,0,0,1,2,123
+0,0,[],0,4.07,0,30,NHL,0,30,0,26,0,0,0,0,4,.867,2005-06,WSH,1,0.1,0,0,0,1,59
+0,0,[],0,2.59,0,58,NHL,0,31,0,52,0,0,0,0,6,.897,2006-07,WSH,1,0.3,0,1,0,4,139

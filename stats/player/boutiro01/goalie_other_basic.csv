@@ -1,0 +1,16 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,1,0,3.72,0,0,SJHL,0,16,0,0,0,0,0,0,119,0,1973-74,Prince Albert Raiders,0,0,0,0,32,1920
+0,0,0,3.00,0,0,WCJHL,0,16,0,0,0,0,0,0,3,0,1973-74,Swift Current Broncos,0,0,0,0,1,60
+0,1,0,4.43,0,0,WCJHL,0,17,0,0,0,0,0,0,162,0,1974-75,Lethbridge Broncos,0,0,0,0,39,2196
+0,0,0,4.53,0,0,WCJHL,0,18,0,0,0,0,0,0,259,0,1975-76,Lethbridge Broncos,0,0,0,0,61,3430
+0,1,0,4.48,0,0,WCJHL,0,19,0,0,0,0,0,0,246,0,1976-77,Lethbridge Broncos,0,0,0,0,59,3296
+0,1,0,3.85,0,0,IHL,0,20,0,0,0,0,0,0,205,0,1977-78,Port Huron Flags,0,0,0,0,58,3192
+0,0,0,3.88,0,0,AHL,0,21,0,0,0,0,0,0,105,0,1978-79,Hershey Bears,8,0,5,13,30,1624
+0,0,0,3.10,0,0,IHL,0,21,0,0,0,0,0,0,24,0,1978-79,Port Huron Flags,0,0,0,0,9,464
+0,0,0,2.48,0,0,AHL,0,22,0,0,0,0,0,0,34,0,1979-80,Hershey Bears,2,0,0,11,15,821
+0,3,0,3.57,0,0,AHL,0,23,0,0,0,0,0,0,182,0,1980-81,Hershey Bears,15,0,5,32,53,3056
+0,1,0,4.13,0,0,AHL,0,24,0,0,0,0,0,0,238,0,1981-82,Hershey Bears,27,0,4,27,62,3459
+0,1,0,3.83,0,0,CHL,0,25,0,0,0,0,0,0,91,0,1982-83,2 Teams,12,0,2,9,25,1426
+0,0,0,4.65,0,0,CHL,0,25,0,0,0,0,0,0,48,0,1982-83,Birmingham South Stars,8,0,1,1,11,619
+0,1,0,3.20,0,0,CHL,0,25,0,0,0,0,0,0,43,0,1982-83,Salt Lake Golden Eagles,4,0,1,8,14,807
+0,3,0,4.30,0,0,AHL,0,26,0,0,0,0,0,0,188,0,1983-84,Binghamton Whalers,20,0,1,23,45,2623

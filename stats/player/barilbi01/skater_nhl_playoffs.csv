@@ -1,0 +1,6 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,0,3,0,NHL,1946-47,19,0,TOR,,3,18,0,0,0,,SC,0,0
+0,9,1,0,NHL,1947-48,20,1,TOR,,0,17,0,0,0,,SC,0,0
+0,9,1,0,NHL,1948-49,21,0,TOR,,1,20,0,0,0,,SC,0,0
+0,7,2,0,NHL,1949-50,22,1,TOR,,1,18,0,0,0,,,0,0
+0,0,5,0,NHL,1950-51,23,3,TOR,,2,31,0,0,0,,SC,0,0

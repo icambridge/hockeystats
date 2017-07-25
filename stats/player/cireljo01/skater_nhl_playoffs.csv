@@ -1,0 +1,4 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,19,7,0,NHL,1987-88,24,0,NJD,,7,49,-3,0,27,,,0.0,0
+0,6,2,0,NHL,1990-91,27,0,NYR,,2,26,2,0,4,,,0.0,0
+0,13,4,0,NHL,1991-92,28,0,NYR,,4,23,3,0,14,,,0.0,0

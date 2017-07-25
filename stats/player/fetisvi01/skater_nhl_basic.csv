@@ -1,0 +1,12 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,42,0,0,NHL,31,21,52,9,108,6,2,1,12,1989-90,NJD,8,34,"[{'link': '/awards/voting-1990.html#AS', 'name': 'AS-20'}, {'link': '/awards/voting-1990.html#calder', 'name': 'Calder-8'}]",7.4,,72
+,19,0,0,NHL,32,13,62,5,71,2,1,0,3,1990-91,NJD,3,16,[],4.2,,67
+,26,1,0,NHL,33,17,108,11,70,3,0,2,4,1991-92,NJD,3,23,[],4.3,,70
+,27,0,1,NHL,34,18,158,7,63,2,1,1,4,1992-93,NJD,4,23,[],6.3,,76
+,15,0,0,NHL,35,11,30,14,36,1,0,1,2,1993-94,NJD,1,14,[],2.8,,52
+,15,0,0,NHL,36,10,2,1,37,0,3,0,2,1994-95,TOT,3,12,[],8.1,,18
+,1,0,0,NHL,36,1,0,-2,1,0,0,0,0,1994-95,NJD,0,1,[],0.0,,4
+,14,0,0,NHL,36,9,2,3,36,0,3,0,2,1994-95,DET,3,11,[],8.3,,14
+,42,1,1,NHL,37,22,96,37,127,5,1,1,12,1995-96,DET,7,35,[],5.5,,69
+,28,1,0,NHL,38,20,76,26,95,5,0,0,3,1996-97,DET,5,23,[],5.3,,64
+,14,1,0,NHL,39,8,72,4,55,2,0,0,4,1997-98,DET,2,12,[],3.6,,58

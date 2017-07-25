@@ -1,0 +1,17 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,79,2,0,NHL,18,25,22,-5,215,19,18,0,17,1986-87,LAK,37,42,"[{'link': '/awards/voting-1987.html#calder', 'name': 'Calder-3'}]",17.2,,80
+,107,7,0,NHL,19,26,45,-19,264,33,22,0,26,1987-88,LAK,55,52,"[{'link': '/awards/voting-1988.html#AS', 'name': 'AS-9'}, {'link': '/awards/voting-1988.html#AS', 'name': 'AS-6'}, {'link': '/awards/voting-1988.html#byng', 'name': 'Byng-5'}]",20.8,,0
+,100,5,0,NHL,20,35,36,3,240,30,19,0,16,1988-89,EDM,49,51,"[{'link': '/awards/voting-1989.html#byng', 'name': 'Byng-4'}]",20.4,,0
+,39,1,0,NHL,21,11,8,-8,138,10,11,0,7,1989-90,TOT,21,18,[],15.2,,48
+,3,0,0,NHL,21,1,0,-2,11,0,1,0,1,1989-90,EDM,1,2,[],9.1,,4
+,36,1,0,NHL,21,10,8,-6,127,10,10,0,6,1989-90,DET,20,16,[],15.7,,44
+,46,4,1,NHL,22,17,28,3,175,15,5,0,8,1990-91,DET,21,25,[],12.0,,64
+,69,3,0,NHL,23,24,30,17,150,23,11,0,11,1991-92,DET,34,35,[],22.7,,80
+,73,5,0,NHL,24,20,32,-2,189,20,17,0,16,1992-93,TOT,37,36,"[{'link': '/awards/voting-1993.html#byng', 'name': 'Byng-12'}]",19.6,,0
+,51,4,0,NHL,24,13,18,0,108,12,13,0,13,1992-93,DET,25,26,"[{'link': '/awards/voting-1993.html#byng', 'name': 'Byng-12'}]",23.1,,52
+,22,1,0,NHL,24,7,14,-2,81,8,4,0,3,1992-93,LAK,12,10,"[{'link': '/awards/voting-1993.html#byng', 'name': 'Byng-12'}]",14.8,,34
+,28,1,0,NHL,25,11,24,-15,129,8,3,0,6,1993-94,TOT,11,17,[],8.5,,59
+,11,0,0,NHL,25,6,2,-2,47,3,1,0,1,1993-94,LAK,4,7,[],8.5,,25
+,17,1,0,NHL,25,5,22,-13,82,5,2,0,5,1993-94,VAN,7,10,[],8.5,,34
+,19,3,0,NHL,26,8,29,5,58,5,4,0,2,1994-95,HAR,9,10,[],15.5,,38
+,1,0,0,NHL,27,0,0,1,9,1,0,0,0,1995-96,HAR,1,0,[],11.1,,11

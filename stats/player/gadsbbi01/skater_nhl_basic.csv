@@ -1,0 +1,23 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,18,0,0,NHL,19,0,31,0,0,0,0,0,0,1946-47,CBH,8,10,[],0,,48
+,16,0,0,NHL,20,0,66,0,0,0,0,0,0,1947-48,CBH,6,10,[],0,,60
+,13,0,0,NHL,21,0,85,0,0,0,0,0,0,1948-49,CBH,3,10,[],0,,50
+,35,0,0,NHL,22,0,138,0,0,0,0,0,0,1949-50,CBH,10,25,[],0,,70
+,10,0,0,NHL,23,0,32,0,0,0,0,0,0,1950-51,CBH,3,7,[],0,,25
+,22,0,0,NHL,24,0,87,0,0,0,0,0,0,1951-52,CBH,7,15,[],0,,59
+,22,0,0,NHL,25,0,84,0,0,0,0,0,0,1952-53,CBH,2,20,"[{'link': '/awards/nhl_all_star.html#1953', 'name': None}]",0,,68
+,41,0,0,NHL,26,0,108,0,0,0,0,0,0,1953-54,CBH,12,29,"[{'link': '/awards/nhl_all_star.html#1954', 'name': None}]",0,,70
+,24,0,0,NHL,27,0,61,0,0,0,0,0,0,1954-55,TOT,11,13,[],0,,70
+,8,0,0,NHL,27,0,17,0,0,0,0,0,0,1954-55,CBH,3,5,[],0,,18
+,16,0,0,NHL,27,0,44,0,0,0,0,0,0,1954-55,NYR,8,8,[],0,,52
+,51,0,0,NHL,28,0,84,0,0,0,0,0,0,1955-56,NYR,9,42,"[{'link': '/awards/nhl_all_star.html#1956', 'name': None}, {'link': '/awards/voting-1956.html#norris', 'name': 'Norris-2'}]",0,,70
+,41,0,0,NHL,29,0,72,0,0,0,0,0,0,1956-57,NYR,4,37,"[{'link': '/awards/nhl_all_star.html#1957', 'name': None}, {'link': '/awards/voting-1957.html#norris', 'name': 'Norris-4'}]",0,,0
+,46,0,0,NHL,30,0,48,0,0,0,0,0,0,1957-58,NYR,14,32,"[{'link': '/awards/nhl_all_star.html#1958', 'name': None}, {'link': '/awards/voting-1958.html#hart', 'name': 'Hart-6'}, {'link': '/awards/voting-1958.html#norris', 'name': 'Norris-2'}]",0,,65
+,51,0,0,NHL,31,0,56,0,0,0,0,0,0,1958-59,NYR,5,46,"[{'link': '/awards/nhl_all_star.html#1959', 'name': None}, {'link': '/awards/voting-1959.html#norris', 'name': 'Norris-2'}]",0,,0
+,31,0,0,NHL,32,0,60,0,0,0,0,0,0,1959-60,NYR,9,22,[],0,,65
+,35,0,0,NHL,33,0,49,0,0,0,0,0,0,1960-61,NYR,9,26,[],0,,65
+,37,0,0,NHL,34,0,88,0,0,0,0,0,0,1961-62,DET,7,30,[],0,,0
+,28,0,0,NHL,35,0,116,0,0,0,0,0,0,1962-63,DET,4,24,"[{'link': '/awards/voting-1963.html#norris', 'name': 'Norris-5'}]",0,,0
+,18,0,0,NHL,36,0,80,0,0,2,0,0,0,1963-64,DET,2,16,[],0,,64
+,12,0,0,NHL,37,0,122,0,0,0,0,0,0,1964-65,DET,0,12,"[{'link': '/awards/nhl_all_star.html#1965', 'name': None}, {'link': '/awards/voting-1965.html#norris', 'name': 'Norris-3'}]",0,,61
+,17,0,0,NHL,38,0,72,0,0,5,0,0,0,1965-66,DET,5,12,[],0,,58

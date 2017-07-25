@@ -1,0 +1,11 @@
+game_winning_goals,plus_minus,shots,shorthanded_assists,games_played,assists,year,even_strength_assists,shorthanded_goals,goals,power_play_goals,average_ice_time,league,shotsPercentage,power_play_assists,age,pim,awards,points,even_strength_goals,total_ice_time,team
+0,6,11,0,17,1,1994-95,1,0,0,0,,NHL,0.0,0,25,4,[],1,0,,NJD
+0,4,29,0,41,6,1995-96,4,0,0,0,,NHL,0.0,2,26,28,[],6,0,,NJD
+0,2,21,0,28,4,1996-97,3,0,2,0,,NHL,9.5,1,27,6,[],6,2,,NJD
+0,12,28,1,50,8,1997-98,6,0,1,1,,NHL,3.6,1,28,12,[],9,0,,NJD
+0,4,51,0,62,10,1998-99,9,0,1,1,15:42,NHL,2.0,1,29,22,[],11,0,973,NJD
+0,3,47,0,64,8,1999-00,7,1,3,0,16:24,NHL,6.4,1,30,36,[],11,2,1049,TOT
+0,-5,9,0,23,0,1999-00,0,1,1,0,16:53,NHL,11.1,0,30,14,[],1,0,389,ATL
+0,-1,6,0,14,0,1999-00,0,0,0,0,11:19,NHL,0.0,0,30,10,[],0,0,158,DAL
+0,9,32,0,27,8,1999-00,7,0,2,0,18:36,NHL,6.3,1,30,12,[],10,2,502,CHI
+0,-16,75,2,69,11,2000-01,9,0,0,0,19:27,NHL,0.0,0,31,30,[],11,0,1342,CHI

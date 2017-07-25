@@ -1,0 +1,18 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,2,0,3.88,0,0,QMJHL,0,18,0,0,0,0,0,0,189,0,1975-76,Cornwall Royals,16,0,9,24,50,2921
+0,0,0,3.63,0,0,QMJHL,0,19,0,0,0,0,0,0,151,0,1976-77,Cornwall Royals,12,0,6,24,44,2497
+0,2,0,3.39,0,0,QMJHL,0,20,0,0,0,0,0,0,179,0,1977-78,Cornwall Royals,13,0,5,35,54,3164
+0,0,0,2.00,0,0,WJC-A,0,20,0,0,0,0,0,0,6,0,1977-78,Canada,1,0,0,2,3,180
+0,0,0,4.24,0,0,CHL,0,21,0,0,0,0,0,0,191,0,1978-79,Tulsa Oilers,26,0,3,15,46,2705
+0,1,0,3.79,0,0,CHL,0,22,0,0,0,0,0,0,122,0,1979-80,Birmingham Bulls,16,0,1,15,34,1933
+0,1,0,3.98,0,0,CHL,0,23,0,0,0,0,0,0,106,0,1980-81,Birmingham Bulls,13,0,2,11,29,1598
+0,0,0,5.13,0,0,CHL,0,24,0,0,0,0,0,0,45,0,1981-82,Oklahoma City Stars,8,0,0,1,10,526
+0,0,0,3.59,0,0,AHL,0,24,0,0,0,0,0,0,95,0,1981-82,Rochester Americans,10,0,2,15,29,1586
+0,0,0,3.86,0,0,CHL,0,25,0,0,0,0,0,0,122,0,1982-83,Colorado Flames,11,0,1,19,34,1896
+0,0,0,3.69,0,0,AHL,0,26,0,0,0,0,0,0,154,0,1983-84,St. Catharines Saints,13,0,4,25,42,2501
+0,0,0,4.12,0,0,AHL,0,27,0,0,0,0,0,0,55,0,1984-85,St. Catharines Saints,7,0,2,5,14,801
+0,1,0,2.94,0,0,AHL,0,28,0,0,0,0,0,0,38,0,1985-86,St. Catharines Saints,4,0,2,6,14,776
+0,1,0,4.12,0,0,AHL,0,29,0,0,0,0,0,0,117,0,1986-87,Newmarket Saints,17,0,0,6,31,1705
+0,0,0,3.68,0,0,AHL,0,30,0,0,0,0,0,0,166,0,1987-88,Newmarket Saints,19,0,4,22,49,2704
+0,1,0,4.34,0,0,AHL,0,31,0,0,0,0,0,0,145,0,1988-89,Newmarket Saints,16,0,2,17,37,2004
+0,0,0,4.05,0,0,AHL,0,32,0,0,0,0,0,0,51,0,1989-90,Newmarket Saints,7,0,1,4,14,755

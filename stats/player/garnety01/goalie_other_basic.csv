@@ -1,0 +1,18 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,6.32,0,0,ON-Jr.B,0,16,0,0,0,0,0,0,62,0,1994-95,Stoney Creek Spirit,7,0,1,2,10,589
+0,0,0,4.01,0,0,ON-Jr.A,0,16,0,0,0,0,0,0,28,0,1994-95,Hamilton Kilty\'s,0,0,0,0,8,419
+0,0,0,3.96,0,0,OHL,0,17,0,0,0,0,0,0,112,0,1995-96,Oshawa Generals,15,0,4,11,32,1697
+0,0,0,2.76,0,219,OHL,0,18,0,199,0,0,0,0,20,.909,1996-97,Oshawa Generals,1,0,0,6,9,434
+0,1,0,3.30,0,1601,OHL,0,19,0,1439,0,0,0,0,162,.899,1997-98,Oshawa Generals,17,0,8,23,54,2946
+0,4,4,2.98,0,1333,OHL,0,20,0,1209,18,0,0,0,124,.907,1998-99,Oshawa Generals,15,4,3,24,44,2496
+0,0,0,4.47,0,555,AHL,0,21,0,485,2,0,0,0,70,.874,1999-00,Saint John Flames,8,0,4,4,19,940
+0,0,2,3.27,0,520,ECHL,0,21,0,461,2,0,0,0,59,.887,1999-00,2 Teams,8,2,3,8,20,1084
+0,0,0,5.84,0,48,ECHL,0,21,0,37,0,0,0,0,11,.771,1999-00,Dayton Bombers,2,0,0,0,3,113
+0,0,2,2.97,0,472,ECHL,0,21,0,424,2,0,0,0,48,.898,1999-00,Johnstown Chiefs,6,2,3,8,17,971
+0,3,2,2.83,0,1364,ECHL,0,22,0,1250,2,0,0,0,114,.916,2000-01,2 Teams,16,2,4,20,40,2420
+0,0,1,2.94,0,172,ECHL,0,22,0,157,0,0,0,0,15,.913,2000-01,Johnstown Chiefs,1,1,1,3,5,306
+0,3,1,2.81,0,1192,ECHL,0,22,0,1093,2,0,0,0,99,.917,2000-01,Greenville Grrrowl,15,1,3,17,35,2114
+0,0,2,2.52,0,981,ECHL,0,23,0,907,4,0,0,0,74,.925,2001-02,Greenville Grrrowl,12,2,5,12,29,1763
+0,4,2,2.71,0,1236,ECHL,0,24,0,1130,21,0,0,0,106,.914,2002-03,Jackson Bandits,17,2,4,18,39,2351
+0,0,0,5.00,0,36,AHL,0,24,0,31,0,0,0,0,5,.861,2002-03,San Antonio Rampage,1,0,0,0,1,60
+0,7,0,2.54,0,0,German-3,0,25,0,0,0,0,0,0,137,0,2003-04,Stuttgart Wizards,0,0,0,0,54,3239

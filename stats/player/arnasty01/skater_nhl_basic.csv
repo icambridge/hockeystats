@@ -1,0 +1,10 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+9:28,0,4,0,0,0,NHL,22,1,0,4,-3,19,0,3,0,0,0,0,0,2001-02,CHI,3,0,1,0,15.8,199,21,[]
+14:30,0,39,6,0,0,NHL,23,15,0,20,7,178,0,16,0,3,0,5,0,2002-03,CHI,19,0,20,0,10.7,1190,82,"[{'link': '/awards/voting-2003.html#calder', 'name': 'Calder-4'}]"
+16:34,0,55,2,0,0,NHL,24,19,0,16,-13,222,0,16,0,6,0,14,0,2003-04,CHI,22,0,33,0,9.9,1358,82,"[{'link': '/awards/voting-2004.html#byng', 'name': 'Byng-23'}]"
+14:20,0,45,1,0,0,NHL,26,22,0,44,1,203,0,8,0,5,0,10,0,2005-06,TOT,13,0,32,0,6.4,1132,79,[]
+14:58,0,41,1,0,0,NHL,26,19,0,40,5,161,0,8,0,5,0,9,0,2005-06,CHI,13,0,28,0,8.1,898,60,[]
+12:19,0,4,0,0,0,NHL,26,3,0,4,-4,42,0,0,0,0,0,1,0,2005-06,OTT,0,0,4,0,0.0,234,19,[]
+14:20,0,49,3,0,0,NHL,27,22,0,26,-8,211,0,15,0,1,0,11,0,2006-07,COL,16,0,33,0,7.6,1176,82,[]
+15:16,265,31,1,0,17,NHL,28,14,375,16,-1,179,47.3,7,417,3,0,7,61,2007-08,COL,10,6,21,41,5.6,1068,70,[]
+13:19,192,22,1,0,15,NHL,29,16,332,14,-16,108,46.0,3,389,2,0,1,58,2008-09,COL,5,6,17,40,4.6,945,71,[]

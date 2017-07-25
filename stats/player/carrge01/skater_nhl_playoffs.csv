@@ -1,0 +1,7 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,0,4,0,NHL,1971-72,20,1,NYR,,3,21,3,0,14,,,7.1,1
+0,1,1,0,NHL,1972-73,21,0,NYR,,1,0,1,0,1,,,0.0,0
+1,5,3,0,NHL,1973-74,22,2,LAK,,1,14,2,0,8,,,25.0,1
+0,3,3,0,NHL,1974-75,23,1,LAK,,2,29,-2,0,5,,,20.0,1
+0,9,2,0,NHL,1976-77,25,1,LAK,,1,2,-1,0,7,,,14.3,1
+0,1,0,0,NHL,1978-79,27,0,ATF,,0,0,0,0,0,,,0,0

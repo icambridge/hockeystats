@@ -1,0 +1,16 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+18:37,0,12,0,0,0,NHL,25,4,0,14,2,84,0,3,0,2,0,3,0,2002-03,LAK,5,0,7,0,6.0,931,50,[]
+21:09,0,25,3,0,0,NHL,26,13,0,36,7,150,0,8,0,0,0,4,0,2003-04,LAK,8,0,17,0,5.3,1522,72,[]
+19:59,0,40,3,0,0,NHL,28,12,0,38,16,190,0,7,0,7,0,14,0,2005-06,LAK,14,0,26,0,7.4,1619,81,[]
+18:04,0,37,2,0,0,NHL,29,17,0,42,8,160,0,5,0,3,0,12,0,2006-07,OTT,8,0,29,0,5.0,1373,76,[]
+18:39,343,48,3,0,41,NHL,30,13,0,26,17,167,0,7,0,6,0,22,24,2007-08,TOT,13,31,35,33,7.8,1380,74,"[{'link': '/awards/voting-2008.html#AS', 'name': 'AS-19'}, {'link': '/awards/voting-2008.html#byng', 'name': 'Byng-83'}, {'link': '/awards/voting-2008.html#norris', 'name': 'Norris-17'}]"
+17:41,237,27,1,0,24,NHL,30,13,0,18,13,111,0,5,0,1,0,8,16,2007-08,OTT,6,25,21,27,5.4,902,51,"[{'link': '/awards/voting-2008.html#AS', 'name': 'AS-19'}, {'link': '/awards/voting-2008.html#byng', 'name': 'Byng-83'}, {'link': '/awards/voting-2008.html#norris', 'name': 'Norris-17'}]"
+20:46,106,21,2,0,17,NHL,30,0,0,8,4,56,0,2,0,5,0,14,8,2007-08,CAR,7,6,14,6,12.5,478,23,"[{'link': '/awards/voting-2008.html#AS', 'name': 'AS-19'}, {'link': '/awards/voting-2008.html#byng', 'name': 'Byng-83'}, {'link': '/awards/voting-2008.html#norris', 'name': 'Norris-17'}]"
+24:19,432,38,6,1,89,NHL,31,10,0,18,-1,213,0,5,0,8,0,14,43,2008-09,CAR,14,41,24,36,6.6,1970,81,[]
+23:18,233,18,0,0,65,NHL,32,8,0,12,-10,99,0,1,0,5,0,4,23,2009-10,TOT,6,34,12,20,6.1,1212,52,[]
+25:13,171,12,0,0,41,NHL,32,6,0,10,-6,76,0,0,0,4,0,2,17,2009-10,CAR,4,19,8,16,5.3,857,34,[]
+19:41,62,6,0,0,24,NHL,32,2,0,2,-4,23,0,1,0,1,0,2,6,2009-10,WSH,2,15,4,4,8.7,354,18,[]
+24:47,383,40,1,1,116,NHL,33,11,0,18,-14,191,0.0,5,1,5,0,18,59,2010-11,CAR,11,53,29,63,5.8,2032,82,"[{'link': '/awards/voting-2011.html#byng', 'name': 'Byng-39'}]"
+18:49,337,25,1,0,56,NHL,34,13,0,13,10,168,0,3,0,1,0,8,14,2011-12,BOS,4,27,21,32,2.4,1411,75,[]
+18:46,148,17,2,0,38,NHL,35,6,0,14,-3,71,0,3,0,3,0,5,15,2012-13,CAR,6,27,11,20,8.5,750,40,[]
+17:31,103,10,0,0,24,NHL,36,5,0,10,-7,54,0,3,0,0,0,2,5,2013-14,OTT,3,15,7,12,5.6,438,25,[]

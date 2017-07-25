@@ -1,0 +1,11 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,3.00,0,0,OCHL,0,17,0,0,0,0,0,0,21,0,1909-10,Ottawa Stewartons,2,0,0,5,7,420
+0,0,0,3.60,0,0,IPAHU,0,18,0,0,0,0,0,0,18,0,1910-11,Ottawa New Edinburghs,0,0,0,5,5,300
+0,0,0,4.00,0,0,OCHL,0,18,0,0,0,0,0,0,24,0,1910-11,Ottawa New Edinburghs,3,0,1,2,6,360
+0,0,0,3.11,0,0,IPAHU,0,19,0,0,0,0,0,0,34,0,1911-12,Ottawa New Edinburghs,0,0,0,11,11,657
+0,1,0,3.49,0,0,NHA,0,20,0,0,0,0,0,0,16,0,1912-13,Ottawa Senators,2,0,1,7,10,275
+0,0,0,3.67,0,0,NHA,0,21,0,0,0,0,0,0,29,0,1913-14,Ottawa Senators,3,0,0,5,9,474
+0,0,0,3.14,0,0,NHA,0,22,0,0,0,0,0,0,65,0,1914-15,Ottawa Senators,6,0,0,14,20,1243
+0,1,0,2.99,0,0,NHA,0,23,0,0,0,0,0,0,72,0,1915-16,Ottawa Senators,11,0,0,13,24,1447
+0,1,0,2.72,0,0,NHA,0,24,0,0,0,0,0,0,50,0,1916-17,Ottawa Senators,4,0,0,14,18,1103
+0,1,0,2.23,0,0,IHL,0,38,0,0,0,0,0,0,92,0,1930-31,Windsor Bulldogs,15,0,5,20,40,2478

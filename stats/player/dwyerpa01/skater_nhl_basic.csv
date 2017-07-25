@@ -1,0 +1,8 @@
+game_winning_goals,takeaways,plus_minus,shots,faceoff_loses,shorthanded_assists,games_played,assists,faceoff_wins,year,even_strength_assists,shorthanded_goals,goals,power_play_goals,pim,league,shotsPercentage,power_play_assists,hits,faceoff_percentage,blocks,age,total_shots,average_ice_time,awards,points,giveaways,even_strength_goals,total_ice_time,team
+0,0,-2,9,7,0,13,0,5,2008-09,0,0,1,0,0,NHL,11.1,0,16,41.7,6,25,17,8:34,[],1,1,1,111,CAR
+2,30,-3,80,146,1,58,5,78,2009-10,4,0,7,0,6,NHL,8.8,0,108,34.8,29,26,142,12:30,[],12,15,7,725,CAR
+2,36,-6,104,154,0,80,10,80,2010-11,9,1,8,0,12,NHL,7.7,1,163,34.2,62,27,181,12:35,[],18,7,7,1006,CAR
+0,33,0,120,14,0,73,7,15,2011-12,6,2,5,0,23,NHL,4.2,1,129,51.7,62,28,213,15:22,[],12,13,3,1122,CAR
+0,16,-7,93,30,0,46,8,17,2012-13,8,1,8,1,12,NHL,8.6,0,57,36.2,28,29,171,15:26,[],16,10,6,710,CAR
+2,44,-2,134,15,0,75,14,9,2013-14,14,2,8,0,14,NHL,6.0,0,107,37.5,48,30,234,14:39,[],22,26,6,1099,CAR
+0,26,-12,77,14,1,71,7,5,2014-15,6,0,5,0,10,NHL,6.5,0,145,26.3,38,31,138,12:46,[],12,14,5,907,CAR

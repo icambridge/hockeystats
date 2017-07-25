@@ -1,0 +1,4 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,5,2,0,NHL,1945-46,24,1,DET,,1,0,0,0,0,,,0,0
+0,5,3,0,NHL,1946-47,25,2,DET,,1,2,0,0,0,,,0,0
+0,9,2,0,NHL,1947-48,26,2,DET,,0,2,0,0,0,,,0,0

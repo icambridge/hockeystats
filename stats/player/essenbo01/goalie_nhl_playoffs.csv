@@ -1,0 +1,7 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,won,assists,ties,wins,games_played,minutes
+0,0,0,3.50,-0.97,100,NHL,0,25,0,88,0,0,0,109,12,.880,1989-90,WIN,1,,0,0,2,4,206
+0,0,0,5.45,0,17,NHL,0,27,0,14,0,0,0,0,3,.824,1991-92,WIN,0,,0,0,0,1,33
+0,0,0,3.27,-0.93,183,NHL,0,28,0,163,2,0,0,105,20,.891,1992-93,WIN,4,,0,0,2,6,367
+0,0,0,4.95,0,43,NHL,0,29,0,34,0,0,0,0,9,.791,1993-94,DET,2,,0,0,0,2,109
+0,0,0,2.22,0,11,NHL,0,33,0,10,0,0,0,0,1,.909,1997-98,EDM,0,,0,0,0,1,27
+0,0,0,2.95,0,58,NHL,0,36,0,52,0,0,0,0,6,.897,2000-01,VAN,2,,0,0,0,2,122

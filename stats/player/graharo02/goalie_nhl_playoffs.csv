@@ -1,0 +1,5 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,won,assists,ties,wins,games_played,minutes
+0,3,1,2.00,14.74,439,WHA,0,24,0,413,0,0,0,64,26,.941,1974-75,HSA,0,,1,0,0,13,780
+0,1,0,3.97,0,0,WHA,0,25,0,0,0,0,0,0,54,0,1975-76,HSA,0,,0,0,0,14,817
+0,0,1,3.85,-3.14,265,WHA,0,26,0,229,2,0,0,110,36,.864,1976-77,HSA,0,,1,0,0,9,561
+0,0,0,2.08,0,0,NHL,0,27,0,0,0,0,0,0,7,0,1977-78,BOS,1,,0,0,2,4,202

@@ -1,0 +1,17 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,4.50,0,0,NOJHA,0,15,0,0,0,0,0,0,9,0,1935-36,Noranda Copper Kings,1,0,0,1,2,120
+0,0,0,5.37,0,0,NOJHA,0,17,0,0,0,0,0,0,86,0,1937-38,Noranda Copper Kings,13,0,2,1,16,960
+0,2,0,3.47,0,0,EAHL,0,18,0,0,0,0,0,0,184,0,1938-39,Atlantic City Sea Gulls,25,0,6,22,53,3180
+0,1,0,3.87,0,0,QPHL,0,19,0,0,0,0,0,0,155,0,1939-40,Shawinigan Cataracts,0,0,0,0,40,2400
+0,0,0,3.55,0,0,QCHL,0,20,0,0,0,0,0,0,117,0,1940-41,Quebec Royal Rifles,11,0,5,17,33,1980
+0,1,0,2.14,0,0,QSHL,0,21,0,0,0,0,0,0,15,0,1941-42,Quebec Aces,0,0,0,0,7,420
+0,2,0,3.38,0,0,EAHL,0,22,0,0,0,0,0,0,88,0,1942-43,Philadelphia Falcons,0,0,0,0,26,1560
+0,4,0,2.19,0,0,EAHL,0,23,0,0,0,0,0,0,79,0,1943-44,Boston Olympics,1,0,1,34,36,2160
+0,0,0,2.00,0,0,AHL,0,23,0,0,0,0,0,0,2,0,1943-44,Providence Reds,0,0,1,0,1,60
+0,1,0,3.91,0,0,EAHL,0,24,0,0,0,0,0,0,129,0,1944-45,Boston Olympics,9,0,2,22,33,1980
+0,0,0,3.45,0,0,QPHL,0,25,0,0,0,0,0,0,38,0,1945-46,Sherbrooke Randies,0,0,0,0,11,660
+0,0,0,7.74,0,0,AHL,0,26,0,0,0,0,0,0,49,0,1946-47,Philadelphia Rockets,6,0,0,0,7,380
+0,0,0,6.04,0,0,PCHL,0,26,0,0,0,0,0,0,145,0,1946-47,San Francisco Shamrocks,0,0,0,0,24,1440
+0,0,0,4.75,0,0,QSHL,0,27,0,0,0,0,0,0,57,0,1947-48,New York Rovers,0,0,0,0,12,720
+0,1,0,4.80,0,0,AHL,0,27,0,0,0,0,0,0,144,0,1947-48,Philadelphia Rockets,21,0,1,8,30,1800
+0,2,0,4.32,0,0,ETSHL,0,29,0,0,0,0,0,0,82,0,1949-50,Magog Volants,0,0,0,0,19,1140

@@ -1,0 +1,12 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,4,2.61,0,0,MJrHL,0,20,0,0,22,0,0,0,119,0,2003-04,Truro Bearcats,10,4,0,30,45,2731
+0,4,1,1.80,0,0,CHA,0,21,0,0,2,0,0,0,35,0,2004-05,Bemidji State University,5,1,1,12,21,1167
+0,1,0,2.70,0,0,CHA,0,22,0,0,14,0,0,0,48,0,2005-06,Bemidji State University,7,0,2,8,18,1065
+0,2,0,3.03,0,0,CHA,0,23,0,0,4,0,0,0,84,0,2006-07,Bemidji State University,10,0,5,11,29,1666
+0,5,0,2.16,0,0,CHA,0,24,0,0,2,0,0,0,55,0,2007-08,Bemidji State University,8,0,3,14,27,1529
+0,0,0,3.99,0,0,AHL,0,24,0,0,0,0,0,0,23,0,2007-08,Iowa Stars,4,0,1,1,6,346
+0,4,0,2.30,0,1088,ECHL,0,25,0,996,12,0,0,0,92,.915,2008-09,Idaho Steelheads,12,0,1,27,42,2404
+0,3,2,2.46,0,1284,AHL,0,26,0,1180,0,0,0,0,104,.919,2009-10,Texas Stars,17,2,3,21,43,2539
+0,3,3,2.64,0,1541,AHL,0,27,0,1407,10,0,0,0,134,.913,2010-11,San Antonio Rampage,22,3,3,26,55,3040
+0,1,4,2.52,0,953,AHL,0,28,0,877,2,0,0,0,76,.920,2011-12,Chicago Wolves,11,4,0,20,32,1810
+0,6,0,2.42,0,1577,AHL,0,29,0,1452,6,0,0,0,125,.921,2012-13,Chicago Wolves,25,0,3,24,53,3094

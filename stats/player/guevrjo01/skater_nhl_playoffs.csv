@@ -1,0 +1,5 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,0,6,0,NHL,1974-75,23,0,BUF,,6,14,9,0,53,,,0.0,0
+0,9,5,0,NHL,1975-76,24,0,BUF,,5,2,5,0,31,,,0.0,0
+1,6,7,0,NHL,1976-77,25,3,BUF,,4,0,4,0,17,,,17.6,2
+0,8,3,0,NHL,1977-78,26,1,BUF,,2,2,4,0,23,,,4.3,1

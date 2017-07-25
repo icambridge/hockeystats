@@ -1,0 +1,17 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,1,0,4.24,0,0,QAAA,0,15,0,0,0,0,0,0,114,0,1995-96,Amos Forestiers,14,0,1,14,31,1613
+0,0,0,3.85,0,0,QMJHL,0,16,0,0,0,0,0,0,51,0,1996-97,Shawinigan Cataractes,7,0,1,4,17,794
+0,2,0,2.79,0,0,QMJHL,0,17,0,0,0,0,0,0,142,0,1997-98,Shawinigan Cataractes,18,0,3,32,54,3055
+0,5,1,2.74,0,1765,QMJHL,0,18,0,1615,35,0,0,0,150,.915,1998-99,Shawinigan Cataractes,16,1,4,36,56,3288
+0,4,3,3.34,0,1804,QMJHL,0,19,0,1618,10,0,0,0,186,.897,1999-00,Shawinigan Cataractes,20,3,5,32,59,3339
+0,1,0,2.64,0,706,IHL,0,20,0,637,2,0,0,0,69,.902,2000-01,Grand Rapids Griffins,7,0,1,17,28,1567
+0,2,2,2.48,0,547,AHL,0,21,0,489,0,0,0,0,58,.894,2001-02,Grand Rapids Griffins,12,2,1,11,25,1404
+0,3,0,2.12,0,382,ECHL,0,22,0,353,2,0,0,0,29,.924,2002-03,Peoria Rivermen,2,0,0,12,15,820
+0,0,0,1.97,0,73,AHL,0,22,0,68,0,0,0,0,5,.932,2002-03,Binghamton Senators,0,0,0,2,4,152
+0,4,0,2.25,0,469,AHL,0,23,0,428,0,0,0,0,41,.913,2003-04,Manchester Monarchs,6,0,0,10,22,1093
+0,0,0,2.27,0,90,ECHL,0,23,0,83,0,0,0,0,7,.922,2003-04,Reading Royals,1,0,1,1,3,185
+0,1,0,1.57,0,76,AHL,0,24,0,72,0,0,0,0,4,.947,2004-05,Cincinnati Mighty Ducks,1,0,0,1,3,153
+0,1,0,2.98,0,794,ECHL,0,24,0,719,4,0,0,0,75,.906,2004-05,2 Teams,10,0,3,11,28,1511
+0,1,0,3.01,0,774,ECHL,0,24,0,701,4,0,0,0,73,.906,2004-05,San Diego Gulls,9,0,3,11,27,1453
+0,0,0,2.07,0,20,ECHL,0,24,0,18,0,0,0,0,2,.900,2004-05,Peoria Rivermen,1,0,0,0,1,58
+0,0,0,3.43,0,392,ECHL,0,25,0,355,4,0,0,0,37,.906,2005-06,Phoenix RoadRunners,6,0,0,4,13,647

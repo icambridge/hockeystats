@@ -1,0 +1,12 @@
+game_winning_goals,plus_minus,shots,shorthanded_assists,games_played,assists,year,even_strength_assists,shorthanded_goals,goals,power_play_goals,average_ice_time,league,shotsPercentage,power_play_assists,age,pim,awards,points,even_strength_goals,total_ice_time,team
+0,-3,83,0,49,18,1972-73,11,0,3,0,,NHL,3.6,7,21,231,[],21,3,,STL
+0,16,108,0,69,19,1973-74,13,0,8,4,,NHL,7.4,6,22,284,[],27,4,,TOT
+0,-1,40,0,36,5,1973-74,2,0,4,2,,NHL,10.0,3,22,146,[],9,2,,STL
+0,17,68,0,33,14,1973-74,11,0,4,2,,NHL,5.9,3,22,138,[],18,2,,PIT
+0,0,1,0,1,1,1974-75,0,0,0,0,,NHL,0.0,1,23,10,[],1,0,,PIT
+0,-21,106,0,69,19,1975-76,15,0,1,0,,NHL,0.9,4,24,0,[],20,1,,TOT
+0,9,41,0,32,8,1975-76,7,0,0,0,,NHL,0.0,1,24,161,[],8,0,,PIT
+0,-30,65,0,37,11,1975-76,8,0,1,0,,NHL,1.5,3,24,209,[],12,1,,KCS
+0,-6,17,0,19,2,1976-77,2,0,0,0,,NHL,0.0,0,25,129,[],2,0,,CLR
+0,-12,64,0,45,4,1977-78,0,0,6,1,,WHA,9.4,0,26,0,[],10,5,,BRB
+0,-7,18,0,13,1,1978-79,1,0,1,0,,NHL,5.6,0,27,103,[],2,1,,STL

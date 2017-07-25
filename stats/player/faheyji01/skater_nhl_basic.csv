@@ -1,0 +1,5 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+18:20,20,0,0,NHL,23,6,33,-3,66,1,0,0,13,2002-03,SJS,1,19,"[{'link': '/awards/voting-2003.html#calder', 'name': 'Calder-10'}]",1.5,788,43
+16:54,2,0,0,NHL,24,1,18,-2,19,0,0,0,1,2003-04,SJS,0,2,[],0.0,254,15
+12:39,2,0,0,NHL,26,2,14,-11,22,0,0,0,0,2005-06,SJS,0,2,[],0.0,266,21
+10:47,1,0,0,NHL,27,1,2,0,7,0,0,0,0,2006-07,NJD,0,1,[],0.0,140,13

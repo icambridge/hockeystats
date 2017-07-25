@@ -1,0 +1,4 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,1,0,0,NHL,22,0,0,0,0,0,0,0,0,1926-27,NYA,1,0,[],0,,6
+,16,0,0,NHL,24,0,68,0,0,0,0,0,0,1928-29,DTC,13,3,[],0,,41
+,10,0,0,NHL,25,0,42,0,0,0,0,0,0,1929-30,DTC,3,7,[],0,,31

@@ -1,0 +1,11 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,0,0,0,NHL,23,0,0,-1,0,0,0,0,0,1989-90,QUE,0,0,[],0,,1
+,2,0,1,NHL,24,0,8,-4,18,1,0,0,0,1990-91,QUE,2,0,[],11.1,,18
+,17,1,0,NHL,25,8,32,-5,77,4,3,0,2,1991-92,QUE,7,10,[],9.1,,52
+,48,2,0,NHL,26,15,54,-20,160,9,10,0,14,1992-93,OTT,19,29,[],11.9,,76
+,17,2,0,NHL,27,5,38,2,68,12,0,0,0,1993-94,SJS,12,5,[],17.6,,65
+,11,0,1,NHL,28,3,22,-7,60,6,0,1,0,1994-95,SJS,7,4,[],11.7,,43
+,33,0,6,NHL,29,16,79,-19,117,8,2,1,0,1995-96,SJS,16,17,[],13.7,,77
+,16,3,0,NHL,30,6,28,2,69,7,1,1,1,1996-97,TOR,8,8,[],11.6,,58
+,5,0,0,NHL,31,5,10,1,16,0,0,0,0,1997-98,TOR,0,5,[],0.0,,13
+,1,0,0,NHL,32,1,0,1,1,0,0,0,0,1998-99,SJS,0,1,[],0.0,,1

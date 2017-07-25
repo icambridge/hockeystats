@@ -1,0 +1,11 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,25,0,0,NHL,19,0,8,0,0,0,0,0,0,1951-52,BOS,8,17,[],0,,33
+,33,0,0,NHL,20,0,44,0,0,0,0,0,0,1952-53,BOS,19,14,[],0,,69
+,5,0,0,NHL,21,0,2,0,0,0,0,0,0,1953-54,BOS,4,1,[],0,,14
+,40,0,0,NHL,22,0,30,0,0,0,0,0,0,1954-55,BOS,18,22,[],0,,64
+,26,0,0,NHL,23,0,34,0,0,0,0,0,0,1955-56,TOT,14,12,[],0,,63
+,7,0,0,NHL,23,0,24,0,0,0,0,0,0,1955-56,DET,3,4,[],0,,38
+,19,0,0,NHL,23,0,10,0,0,0,0,0,0,1955-56,BOS,11,8,[],0,,25
+,48,0,0,NHL,24,0,38,0,0,0,0,0,0,1956-57,BOS,31,17,"[{'link': '/awards/nhl_all_star.html#1957', 'name': None}]",0,,0
+,18,0,0,NHL,25,0,21,0,0,0,0,0,0,1957-58,BOS,9,9,[],0,,44
+,6,0,0,NHL,26,0,8,0,0,0,0,0,0,1958-59,BOS,1,5,[],0,,30

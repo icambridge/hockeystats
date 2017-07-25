@@ -1,0 +1,10 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,won,assists,ties,wins,games_played,minutes
+0,1,0,0,0,0,NHL,0,23,0,0,0,0,0,0,18,0,1938-39,BOS,4,SC,0,0,0,0,0
+0,0,0,2.50,0,0,NHL,0,24,0,0,0,0,0,0,15,0,1939-40,BOS,0,,0,0,2,6,360
+0,0,0,0,0,0,NHL,0,25,0,0,0,0,0,0,0,0,1940-41,BOS,3,SC,0,0,0,0,0
+0,0,0,3.13,0,0,NHL,0,26,0,0,0,0,0,0,16,0,1941-42,BOS,3,,0,0,2,5,307
+0,0,0,3.54,0,0,NHL,0,27,0,0,0,0,0,0,0,0,1942-43,BOS,0,,0,0,4,9,560
+0,0,0,2.67,0,0,NHL,0,30,0,0,0,0,0,0,0,0,1945-46,BOS,0,,0,0,5,0,0
+0,0,0,2.80,0,0,NHL,0,31,0,0,0,0,0,0,16,0,1946-47,BOS,4,,0,0,1,5,343
+0,0,0,3.79,0,0,NHL,0,32,0,0,0,0,0,0,20,0,1947-48,BOS,4,,0,0,1,5,317
+0,0,0,3.04,0,0,NHL,0,33,0,0,0,0,0,0,16,0,1948-49,BOS,4,,0,0,1,5,316

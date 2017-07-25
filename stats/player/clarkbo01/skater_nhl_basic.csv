@@ -1,0 +1,16 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,46,0,1,NHL,20,19,68,1,214,9,5,1,11,1969-70,PHI,15,31,"[{'link': '/awards/voting-1970.html#calder', 'name': 'Calder-4'}]",7.0,,0
+,63,5,1,NHL,21,28,78,9,185,16,10,0,8,1970-71,PHI,27,36,"[{'link': '/awards/voting-1971.html#hart', 'name': 'Hart-10'}]",14.6,,77
+,81,3,1,NHL,22,38,87,22,225,23,11,0,8,1971-72,PHI,35,46,"[{'link': '/awards/voting-1972.html#hart', 'name': 'Hart-8'}, {'link': '/awards/masterton.html#1972', 'name': None}]",15.6,,78
+,104,4,2,NHL,23,41,80,32,231,25,10,3,23,1972-73,PHI,37,67,"[{'link': '/awards/nhl_all_star.html#1973', 'name': None}, {'link': '/awards/hart.html#1973', 'name': None}, {'link': '/awards/pearson.html#1973', 'name': None}]",16.0,,78
+,87,5,0,NHL,24,33,113,35,221,20,10,1,18,1973-74,PHI,35,52,"[{'link': '/awards/nhl_all_star.html#1974', 'name': None}, {'link': '/awards/voting-1974.html#hart', 'name': 'Hart-4'}]",15.8,,77
+,116,4,3,NHL,25,64,125,79,193,14,10,2,23,1974-75,PHI,27,0,"[{'link': '/awards/nhl_all_star.html#1975', 'name': None}, {'link': '/awards/hart.html#1975', 'name': None}]",14.0,,0
+,119,2,4,NHL,26,59,136,0,194,16,10,3,27,1975-76,PHI,30,0,"[{'link': '/awards/nhl_all_star.html#1976', 'name': None}, {'link': '/awards/hart.html#1976', 'name': None}]",15.5,,76
+,90,3,0,NHL,27,46,71,39,158,15,6,1,16,1976-77,PHI,27,63,"[{'link': '/awards/voting-1977.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1977.html#hart', 'name': 'Hart-2'}]",17.1,,0
+,89,1,2,NHL,28,44,83,47,131,14,5,6,18,1977-78,PHI,21,68,"[{'link': '/awards/voting-1978.html#hart', 'name': 'Hart-6'}, {'link': '/awards/voting-1978.html#selke', 'name': 'Selke-4'}]",16.0,,71
+,73,1,1,NHL,29,32,68,12,143,10,5,5,20,1978-79,PHI,16,57,"[{'link': '/awards/voting-1979.html#AS', 'name': 'AS-6'}, {'link': '/awards/voting-1979.html#hart', 'name': 'Hart-16'}, {'link': '/awards/voting-1979.html#selke', 'name': 'Selke-8'}]",11.2,,0
+,69,2,2,NHL,30,44,65,42,139,9,1,4,9,1979-80,PHI,12,57,"[{'link': '/awards/voting-1980.html#hart', 'name': 'Hart-10'}]",8.6,,76
+,65,2,1,NHL,31,29,140,17,150,13,5,2,15,1980-81,PHI,19,46,"[{'link': '/awards/voting-1981.html#selke', 'name': 'Selke-18'}]",12.7,,80
+,63,3,1,NHL,32,33,154,28,110,14,2,2,11,1981-82,PHI,17,46,"[{'link': '/awards/voting-1982.html#selke', 'name': 'Selke-22'}]",15.5,,62
+,85,2,1,NHL,33,46,115,37,164,16,6,4,12,1982-83,PHI,23,62,"[{'link': '/awards/voting-1983.html#AS', 'name': 'AS-6'}, {'link': '/awards/voting-1983.html#hart', 'name': 'Hart-6'}, {'link': '/awards/selke.html#1983', 'name': None}]",14.0,,0
+,60,1,1,NHL,34,29,70,23,129,13,3,3,11,1983-84,PHI,17,43,"[{'link': '/awards/voting-1984.html#selke', 'name': 'Selke-11'}]",13.2,,73

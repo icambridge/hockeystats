@@ -1,0 +1,20 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,5.21,0,0,QMJHL,0,17,0,0,0,0,0,0,156,0,1985-86,Shawinigan Cataractes,16,0,1,13,33,1798
+0,0,0,6.14,0,0,QMJHL,0,18,0,0,0,0,0,0,308,0,1986-87,2 Teams,31,0,2,16,52,3010
+0,0,0,4.95,0,0,QMJHL,0,18,0,0,0,0,0,0,52,0,1986-87,Shawinigan Cataractes,4,0,1,5,11,630
+0,0,0,6.45,0,0,QMJHL,0,18,0,0,0,0,0,0,256,0,1986-87,Verdun Jr. Canadiens,27,0,1,11,41,2380
+0,0,0,5.86,0,0,QMJHL,0,19,0,0,0,0,0,0,265,0,1987-88,Verdun Jr. Canadiens,31,0,3,13,49,2712
+0,0,0,4.92,0,0,QMJHL,0,20,0,0,0,0,0,0,199,0,1988-89,Verdun Jr. Canadiens,35,0,1,8,44,2426
+0,0,0,3.58,0,0,AHL,0,20,0,0,0,0,0,0,18,0,1988-89,Sherbrooke Canadiens,1,0,0,4,5,302
+0,2,0,2.74,0,0,AHL,0,21,0,0,0,0,0,0,103,0,1989-90,Sherbrooke Canadiens,8,0,7,21,40,2254
+0,0,0,2.03,0,0,Fr-Tour,0,22,0,0,0,0,0,0,2,0,1990-91,Montreal Canadiens,0,0,0,1,2,59
+0,1,0,3.27,0,0,AHL,0,22,0,0,0,0,0,0,59,0,1990-91,Fredericton Canadiens,6,0,0,12,18,1083
+0,0,0,4.32,0,0,AHL,0,23,0,0,0,0,0,0,57,0,1991-92,Fredericton Canadiens,7,0,1,5,13,791
+0,1,0,3.53,0,0,IHL,0,23,0,0,0,0,0,0,96,0,1991-92,Peoria Rivermen,9,0,3,14,27,1632
+0,1,0,3.21,0,0,IHL,0,24,0,0,0,0,0,0,92,0,1992-93,Atlanta Knights,7,0,1,21,31,1722
+0,0,0,3.07,0,0,IHL,0,25,0,0,0,0,0,0,141,0,1993-94,Atlanta Knights,11,0,7,27,48,2755
+0,0,0,4.44,0,0,IHL,0,26,0,0,0,0,0,0,24,0,1994-95,Atlanta Knights,3,0,0,3,6,324
+0,0,0,4.16,0,0,IHL,0,27,0,0,0,0,0,0,92,0,1995-96,Atlanta Knights,10,0,3,9,25,1326
+0,0,0,3.32,0,0,IHL,0,28,0,0,0,0,0,0,127,0,1996-97,Phoenix Roadrunners,19,0,7,11,42,2296
+0,0,0,3.18,0,0,QSPHL,0,30,0,0,0,0,0,0,45,0,1998-99,Joliette Blizzard,1,0,1,12,15,850
+0,0,0,4.10,0,0,QSPHL,0,31,0,0,0,0,0,0,50,0,1999-00,Joliette Blizzard,5,0,0,8,13,732

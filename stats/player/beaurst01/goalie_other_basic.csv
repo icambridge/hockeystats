@@ -1,0 +1,17 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,5.74,0,0,QAAA,0,18,0,0,0,0,0,0,117,0,1985-86,Richelieu Riverains,11,0,0,10,21,1223
+0,0,0,4.47,0,0,QMJHL,0,19,0,0,0,0,0,0,60,0,1986-87,St-Jean Castors,7,0,0,6,14,805
+0,2,0,3.65,0,0,QMJHL,0,20,0,0,0,0,0,0,229,0,1987-88,St-Jean Castors,21,0,3,38,66,3767
+0,0,0,4.51,0,0,AHL,0,21,0,0,0,0,0,0,62,0,1988-89,Moncton Hawks,8,0,2,4,15,824
+0,0,0,3.11,0,0,IHL,0,21,0,0,0,0,0,0,43,0,1988-89,Fort Wayne Komets,5,0,0,9,16,830
+0,0,0,3.54,0,0,IHL,0,22,0,0,0,0,0,0,115,0,1989-90,Fort Wayne Komets,8,0,3,20,33,1949
+0,1,0,2.38,0,0,AHL,0,23,0,0,0,0,0,0,20,0,1990-91,Moncton Hawks,4,0,1,3,9,504
+0,0,0,3.71,0,0,IHL,0,23,0,0,0,0,0,0,109,0,1990-91,Fort Wayne Komets,13,0,2,14,32,1761
+0,0,0,3.63,0,0,AHL,0,25,0,0,0,0,0,0,48,0,1992-93,Hershey Bears,5,0,3,5,13,794
+0,1,0,3.49,0,0,AHL,0,26,0,0,0,0,0,0,121,0,1993-94,Moncton Hawks,11,0,6,18,37,2082
+0,2,0,3.17,0,677,AHL,0,27,0,604,0,0,0,0,73,.892,1994-95,Springfield Indians,11,0,3,10,24,1381
+0,1,0,3.09,0,2124,IHL,0,28,0,1917,0,0,0,0,207,.903,1995-96,San Francisco Spiders,24,0,8,36,69,4022
+0,4,0,2.65,0,1860,IHL,0,29,0,1686,0,0,0,0,174,.906,1996-97,Quebec Rafales,20,0,11,35,67,3945
+0,1,0,3.21,0,413,IHL,0,30,0,364,0,0,0,0,49,.881,1997-98,Chicago Wolves,6,0,0,10,18,917
+0,0,1,3.43,0,0,Swiss,0,31,0,0,16,0,0,0,151,0,1998-99,HC Davos,0,1,0,0,45,2638
+0,4,1,3.24,0,0,Germany,0,32,0,0,67,0,0,0,178,0,1999-00,Schwenninger Wild Wings,0,1,0,0,58,3301

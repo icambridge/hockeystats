@@ -1,0 +1,10 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,5,0,0,NHL,1986-87,21,0,PHI,,0,17,0,0,2,,,0.0,0
+0,16,0,0,NHL,1988-89,23,0,PHI,,0,56,0,0,2,,,0.0,0
+0,6,1,0,NHL,1992-93,27,0,CGY,,1,21,-2,0,3,,,0.0,0
+0,8,0,0,NHL,1993-94,28,0,WSH,,0,21,-1,0,0,,,0,0
+0,7,0,0,NHL,1994-95,29,0,WSH,,0,29,-3,0,4,,,0.0,0
+0,2,0,0,NHL,1995-96,30,0,WSH,,0,19,-1,0,3,,,0.0,0
+0,21,1,1,NHL,1997-98,32,1,WSH,,0,21,0,0,15,,,6.7,1
+0,6,1,0,NHL,1998-99,33,1,PHI,7:02,0,4,1,0,7,42,,14.3,1
+0,18,1,1,NHL,1999-00,34,1,PHI,8:47,0,23,-4,0,13,158,,7.7,1

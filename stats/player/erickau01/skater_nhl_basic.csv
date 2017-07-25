@@ -1,0 +1,7 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,7,0,0,NHL,22,0,29,0,0,0,0,0,0,1959-60,BOS,1,6,[],0,,58
+,8,0,0,NHL,23,0,65,0,0,0,0,0,0,1960-61,BOS,2,6,[],0,,68
+,0,0,0,NHL,25,0,8,0,0,0,0,0,0,1962-63,CBH,0,0,[],0,,3
+,1,0,0,NHL,26,0,34,0,0,0,0,0,0,1963-64,CBH,0,1,[],0,,31
+,15,0,0,NHL,30,9,46,-17,66,4,0,0,2,1967-68,OAK,4,11,[],6.1,,65
+,0,0,0,NHL,32,0,0,-1,1,0,0,0,0,1969-70,OAK,0,0,[],0.0,,1

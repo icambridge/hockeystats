@@ -1,0 +1,12 @@
+average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
+,53,0,0,WHA,18,0,36,16,154,21,5,0,0,1974-75,QBN,26,27,[],16.9,,63
+,114,5,0,WHA,19,0,27,33,246,44,16,0,0,1975-76,QBN,60,54,"[{'link': '/awards/wha_all_star.html#1976', 'name': 'ASW-2'}]",24.4,,80
+,0,7,1,WHA,20,0,39,47,332,40,25,0,0,1976-77,QBN,66,75,"[{'link': '/awards/wha_all_star.html#1977', 'name': 'ASW-2'}, {'link': '/awards/hunter.html#1977', 'name': None}]",19.9,,76
+,129,0,0,WHA,21,0,19,14,312,36,20,0,0,1977-78,QBN,56,73,"[{'link': '/awards/wha_all_star.html#1978', 'name': 'ASW-2'}]",17.9,,73
+,0,0,0,WHA,22,0,48,23,363,54,21,0,0,1978-79,QBN,0,54,"[{'link': '/awards/wha_all_star.html#1979', 'name': None}, {'link': '/awards/hunter.html#1979', 'name': None}]",20.7,,77
+,89,3,0,NHL,23,26,12,-6,254,29,13,0,21,1979-80,QUE,42,47,[],16.5,,67
+,31,2,0,NHL,24,8,18,2,89,13,2,0,8,1980-81,QUE,15,16,[],16.9,,34
+,97,5,0,NHL,25,36,34,26,214,29,8,0,24,1981-82,QUE,37,60,"[{'link': '/awards/voting-1982.html#byng', 'name': 'Byng-9'}]",17.3,,67
+,67,3,0,NHL,26,30,30,-4,185,23,5,0,9,1982-83,QUE,28,39,[],15.1,,68
+,60,6,0,NHL,27,20,25,-1,169,15,9,0,16,1983-84,BUF,24,36,[],14.2,,77
+,0,0,0,NHL,28,0,0,-2,6,0,0,0,0,1984-85,BUF,0,0,[],0.0,,4

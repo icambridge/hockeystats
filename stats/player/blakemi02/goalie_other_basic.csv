@@ -1,0 +1,9 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,4.35,0,0,CCHA,0,21,0,0,0,0,0,0,71,0,1977-78,Ohio State University,0,0,0,0,18,980
+0,0,0,4.33,0,0,CCHA,0,22,0,0,0,0,0,0,78,0,1978-79,Ohio State University,0,0,0,0,21,1080
+0,0,0,3.72,0,0,CCHA,0,23,0,0,0,0,0,0,48,0,1979-80,Ohio State University,4,0,1,8,15,775
+0,2,0,3.57,0,0,CCHA,0,24,0,0,0,0,0,0,125,0,1980-81,Ohio State University,9,0,3,22,37,2098
+0,0,0,4.57,0,0,IHL,0,25,0,0,0,0,0,0,151,0,1981-82,Saginaw Gears,0,0,0,0,36,1984
+0,1,0,3.67,0,0,AHL,0,26,0,0,0,0,0,0,72,0,1982-83,New Haven Nighthawks,7,0,4,8,20,1178
+0,0,0,4.44,0,0,AHL,0,27,0,0,0,0,0,0,64,0,1983-84,New Haven Nighthawks,8,0,0,7,16,864
+0,1,0,4.16,0,0,AHL,0,28,0,0,0,0,0,0,168,0,1984-85,New Haven Nighthawks,19,0,4,17,42,2425

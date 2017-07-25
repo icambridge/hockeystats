@@ -1,0 +1,9 @@
+power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
+0,5,2,0,NHL,1935-36,25,1,NYA,,1,0,0,0,0,,,0,0
+0,6,4,0,NHL,1937-38,27,3,NYA,,1,2,0,0,0,,,0,0
+0,2,0,0,NHL,1938-39,28,0,NYA,,0,0,0,0,0,,,0,0
+0,3,0,0,NHL,1939-40,29,0,NYA,,0,0,0,0,0,,,0,0
+0,0,5,0,NHL,1941-42,31,3,TOR,,2,6,0,0,0,,SC,0,0
+0,6,3,0,NHL,1942-43,32,1,TOR,,2,0,0,0,0,,,0,0
+0,5,1,0,NHL,1943-44,33,0,TOR,,1,0,0,0,0,,,0,0
+0,13,4,0,NHL,1944-45,34,2,TOR,,2,5,0,0,0,,SC,0,0

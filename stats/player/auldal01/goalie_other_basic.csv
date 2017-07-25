@@ -1,0 +1,16 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,10,0,1.31,0,0,TBMHL,0,16,0,0,0,0,0,0,46,0,1996-97,Thunder Bay Kings,0,0,0,0,35,2100
+0,0,0,4.52,0,0,NOJHA,0,17,0,0,0,0,0,0,46,0,1997-98,Sturgeon Falls Lynx,6,0,0,4,11,611
+0,0,0,4.95,0,0,OHL,0,17,0,0,0,0,0,0,17,0,1997-98,North Bay Centennials,4,0,0,0,6,206
+0,1,1,3.36,0,0,OHL,0,18,0,0,2,0,0,0,106,0,1998-99,North Bay Centennials,20,1,1,9,37,1894
+0,2,0,3.29,0,1538,OHL,0,19,0,1371,0,0,0,0,167,.891,1999-00,North Bay Centennials,26,0,6,21,55,3047
+0,1,1,2.54,0,0,OHL,0,20,0,0,6,0,0,0,98,0,2000-01,North Bay Centennials,11,1,5,22,40,2319
+0,0,0,12.00,0,0,WJC-A,0,20,0,0,0,0,0,0,4,0,2000-01,Canada,0,0,0,0,1,20
+0,1,1,3.53,0,0,AHL,0,21,0,0,0,0,0,0,65,0,2001-02,Manitoba Moose,9,1,0,11,21,1104
+0,0,0,1.92,0,0,ECHL,0,21,0,0,0,0,0,0,12,0,2001-02,Columbia Inferno,1,0,2,3,6,375
+0,3,0,2.63,0,0,AHL,0,22,0,0,4,0,0,0,97,0,2002-03,Manitoba Moose,19,0,3,15,37,2209
+0,4,0,2.55,0,0,AHL,0,23,0,0,4,0,0,0,99,0,2003-04,Manitoba Moose,16,0,4,18,40,2329
+0,2,2,2.56,0,1296,AHL,0,24,0,1178,2,0,0,0,118,.909,2004-05,Manitoba Moose,18,2,4,25,50,2764
+0,0,0,2.85,0,0,WC-A,0,25,0,0,0,0,0,0,13,0,2005-06,Canada,2,0,0,2,5,274
+0,1,0,2.52,0,53,AHL,0,27,0,48,0,0,0,0,5,.906,2007-08,San Antonio Rampage,1,0,0,1,2,119
+0,0,0,0,0,0,Austria,0,32,0,0,0,0,0,0,0,0,2012-13,EC Red Bull Salzburg,0,0,0,0,16,0

@@ -1,0 +1,12 @@
+average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
+13:11,0,19,0,0,0,NHL,21,10,0,18,-3,78,0,4,0,2,0,3,0,2006-07,DAL,6,0,13,0,7.7,778,59,[]
+14:02,200,31,0,0,14,NHL,22,15,2,28,5,120,15.4,10,11,4,0,2,58,2007-08,DAL,14,24,17,22,11.7,968,69,[]
+19:50,282,63,4,1,51,NHL,23,22,2,14,14,178,18.2,28,9,7,0,5,80,2008-09,DAL,36,31,27,31,20.2,1626,82,"[{'link': '/awards/voting-2009.html#byng', 'name': 'Byng-13'}, {'link': '/awards/voting-2009.html#selke', 'name': 'Selke-50'}]"
+19:46,352,71,4,2,48,NHL,24,35,4,26,-4,214,36.4,21,7,6,1,6,46,2009-10,DAL,29,31,42,33,13.6,1620,82,[]
+20:34,285,73,6,1,46,NHL,25,29,1,8,10,179,25.0,16,3,10,2,15,72,2010-11,DAL,27,26,46,34,15.1,1625,79,"[{'link': '/awards/voting-2011.html#AS', 'name': 'AS-7'}, {'link': '/awards/voting-2011.html#byng', 'name': 'Byng-3'}, {'link': '/awards/voting-2011.html#selke', 'name': 'Selke-37'}]"
+19:46,301,71,3,2,40,NHL,26,37,7,12,18,187,43.8,19,9,5,1,7,50,2011-12,DAL,26,20,45,43,13.9,1620,82,"[{'link': '/awards/voting-2012.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-2012.html#byng', 'name': 'Byng-4'}, {'link': '/awards/voting-2012.html#selke', 'name': 'Selke-23'}]"
+20:07,189,29,3,1,18,NHL,27,9,9,8,-9,104,26.5,9,25,2,0,8,29,2012-13,DAL,12,6,17,21,11.5,966,0,"[{'link': '/awards/voting-2013.html#byng', 'name': 'Byng-9'}]"
+16:32,178,37,2,0,13,NHL,28,17,0,6,14,115,0,8,0,2,1,9,31,2013-14,BOS,10,12,27,17,8.7,1008,61,[]
+18:29,265,47,4,0,23,NHL,29,19,4,14,1,169,33.3,16,8,6,1,5,45,2014-15,BOS,22,29,25,24,13.0,1497,81,"[{'link': '/awards/voting-2015.html#byng', 'name': 'Byng-19'}]"
+19:29,268,63,5,2,34,NHL,30,25,12,12,13,184,57.1,18,9,10,1,7,48,2015-16,BOS,30,22,33,27,16.3,1598,82,"[{'link': '/awards/voting-2016.html#AS', 'name': 'AS-11'}, {'link': '/awards/voting-2016.html#byng', 'name': 'Byng-3'}, {'link': '/awards/voting-2016.html#selke', 'name': 'Selke-35'}]"
+18:41,212,24,1,0,26,NHL,31,10,0,8,-9,132,0.0,6,1,5,1,2,37,2016-17,VAN,11,11,13,16,8.3,1214,65,"[{'link': '/awards/voting-2017.html#byng', 'name': 'Byng-49'}]"

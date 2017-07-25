@@ -1,0 +1,7 @@
+power_play_goals,assists,points,power_play_assists,league,even_strength_assists,game_winning_goals,shorthanded_goals,shotsPercentage,games_played,average_ice_time,year,team,age,plus_minus,shorthanded_assists,even_strength_goals,pim,awards,total_ice_time,goals,shots
+0,2,2,0,NHL,2,0,0,0.0,18,,1997-98,CAR,23,-1,0,0,10,[],,0,7
+0,3,3,0,NHL,3,0,0,0.0,20,15:57,1998-99,CAR,24,5,0,0,24,[],319,0,6
+0,8,8,0,NHL,8,0,0,0.0,58,16:43,1999-00,CAR,25,0,0,0,25,[],969,0,54
+0,1,1,0,NHL,1,0,0,0.0,48,13:27,2000-01,CAR,26,-10,0,0,6,[],645,0,24
+0,1,1,0,NHL,1,0,0,0,5,9:43,2001-02,CAR,27,3,0,0,6,[],49,0,0
+0,0,0,0,NHL,0,0,0,0.0,6,10:14,2002-03,CAR,28,1,0,0,0,[],61,0,5

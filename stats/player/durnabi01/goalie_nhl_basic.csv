@@ -1,0 +1,8 @@
+shots_againist,good_start_precentages,ties,saves,minutes,games_played,assists,year,goals,wins,goals_allowed_average,league,games_started,goals_allowed,goals_allowed_precentage,goals_saved_aboved_average,loses,good_starts,saves_percentage,age,goalie_point_share,pim,awards,shutouts,points,bad_start,team
+0,0,0,0,0,0,0,1943-44,0,0,0,NHL,0,109,0,0,5,0,0,28,0,0,"[{'link': '/awards/nhl_all_star.html#1944', 'name': None}, {'link': '/awards/voting-1944.html#calder', 'name': 'Calder-2'}, {'link': '/awards/vezina.html#1944', 'name': None}]",2,0,0,MTL
+0,0,4,0,0,0,0,1944-45,0,0,0,NHL,0,121,0,0,8,0,0,29,0,0,"[{'link': '/awards/nhl_all_star.html#1945', 'name': None}, {'link': '/awards/vezina.html#1945', 'name': None}]",1,0,0,MTL
+0,0,5,0,2400,40,0,1945-46,0,0,0,NHL,0,104,0,0,11,0,0,30,0,0,"[{'link': '/awards/nhl_all_star.html#1946', 'name': None}, {'link': '/awards/voting-1946.html#hart', 'name': 'Hart-3'}, {'link': '/awards/vezina.html#1946', 'name': None}]",0,0,0,MTL
+0,0,10,0,0,0,0,1946-47,0,0,0,NHL,0,138,0,0,16,0,0,31,0,0,"[{'link': '/awards/nhl_all_star.html#1947', 'name': None}, {'link': '/awards/vezina.html#1947', 'name': None}]",4,0,0,MTL
+0,0,10,0,3505,59,0,1947-48,0,20,2.77,NHL,0,162,0,0,28,0,0,32,10.6,5,[],5,0,0,MTL
+0,0,9,0,0,0,0,1948-49,0,28,0,NHL,0,126,0,0,23,0,0,33,0,0,"[{'link': '/awards/nhl_all_star.html#1949', 'name': None}, {'link': '/awards/voting-1949.html#hart', 'name': 'Hart-2'}, {'link': '/awards/vezina.html#1949', 'name': None}]",0,0,0,MTL
+0,0,0,0,3840,64,1,1949-50,0,26,0,NHL,0,141,0,0,21,0,0,34,0,2,"[{'link': '/awards/nhl_all_star.html#1950', 'name': None}, {'link': '/awards/voting-1950.html#hart', 'name': 'Hart-5'}, {'link': '/awards/vezina.html#1950', 'name': None}]",8,1,0,MTL

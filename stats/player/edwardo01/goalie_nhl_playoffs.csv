@@ -1,0 +1,8 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,won,assists,ties,wins,games_played,minutes
+0,0,0,3.00,0,0,NHL,0,21,0,0,0,0,0,0,15,0,1976-77,BUF,3,,0,0,2,5,300
+0,0,0,2.74,0,0,NHL,0,22,0,0,7,0,0,0,22,0,1977-78,BUF,5,,0,0,3,8,482
+0,1,0,2.83,0,0,NHL,0,24,0,0,0,0,0,0,17,0,1979-80,BUF,3,,0,0,3,6,360
+0,0,0,3.34,0,0,NHL,0,25,0,0,0,0,0,0,28,0,1980-81,BUF,4,,0,0,4,8,503
+0,0,0,4.49,0,0,NHL,0,26,0,0,0,0,0,0,16,0,1981-82,BUF,3,,0,0,1,4,214
+0,0,0,5.84,0,0,NHL,0,27,0,0,0,0,0,0,22,0,1982-83,CGY,2,,0,0,1,5,226
+0,0,0,3.32,1.66,133,NHL,0,28,0,121,0,0,0,88,12,.910,1983-84,CGY,1,,0,0,2,6,217

@@ -1,0 +1,20 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,6.41,0,0,ON-Jr.B,0,19,0,0,0,0,0,0,190,0,1986-87,Windsor Royals,0,0,0,0,30,1779
+0,1,0,3.47,0,0,ECAC,0,20,0,0,0,0,0,0,43,0,1987-88,Colgate U. Red Raiders,4,0,2,6,13,743
+0,0,0,3.77,0,0,ECAC,0,21,0,0,0,0,0,0,102,0,1988-89,Colgate U. Red Raiders,9,0,2,17,28,1622
+0,0,0,2.81,0,0,ECAC,0,22,0,0,0,0,0,0,93,0,1989-90,Colgate U. Red Raiders,3,0,1,28,33,1986
+0,0,0,4.16,0,0,AHL,0,23,0,0,0,0,0,0,94,0,1990-91,Adirondack Red Wings,8,0,5,8,24,1356
+0,2,0,2.57,0,0,ECHL,0,23,0,0,0,0,0,0,26,0,1990-91,Hampton Roads Admirals,1,0,2,7,10,606
+0,0,0,3.36,0,0,IHL,0,24,0,0,0,0,0,0,7,0,1991-92,Fort Wayne Komets,0,0,0,2,2,125
+0,0,0,3.05,0,0,ECHL,0,24,0,0,0,0,0,0,18,0,1991-92,Toledo Storm,2,0,0,4,7,354
+0,0,0,5.00,0,0,AHL,0,25,0,0,0,0,0,0,5,0,1992-93,Adirondack Red Wings,1,0,0,0,1,60
+0,0,0,3.93,0,0,IHL,0,25,0,0,0,0,0,0,116,0,1992-93,Fort Wayne Komets,11,0,2,15,31,1771
+0,0,0,3.39,0,0,IHL,0,26,0,0,0,0,0,0,58,0,1993-94,Fort Wayne Komets,6,0,3,7,19,1026
+0,1,0,3.48,0,0,ECHL,0,26,0,0,0,0,0,0,65,0,1993-94,Toledo Storm,5,0,0,13,20,1122
+0,1,0,2.83,0,991,ECHL,0,27,0,909,0,0,0,0,82,.917,1994-95,Roanoke Express,7,0,5,17,29,1738
+0,0,0,4.30,0,427,IHL,0,27,0,372,0,0,0,0,55,.871,1994-95,Minnesota Moose,4,0,2,5,16,767
+0,0,0,4.15,0,0,IHL,0,28,0,0,0,0,0,0,188,0,1995-96,Minnesota Moose,25,0,4,18,52,2721
+0,3,0,3.21,0,0,ECHL,0,29,0,0,0,0,0,0,181,0,1996-97,Roanoke Express,18,0,6,34,60,3386
+0,2,0,2.90,0,1224,ECHL,0,30,0,1105,0,0,0,0,119,.903,1997-98,Roanoke Express,13,0,4,25,43,2466
+0,2,1,2.57,0,1060,ECHL,0,31,0,973,6,0,0,0,87,.918,1998-99,Roanoke Express,9,1,5,20,34,2033
+0,0,2,2.50,0,1019,ECHL,0,32,0,932,0,0,0,0,87,.915,1999-00,Roanoke Express,8,2,2,23,37,2085

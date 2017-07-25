@@ -1,0 +1,10 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,2.50,0,0,ON-Jr.A,0,16,0,0,0,0,0,0,10,0,2000-01,St. Michael\'s Buzzers,3,0,0,1,4,240
+0,0,0,3.10,0,163,OHL,0,17,0,147,0,0,0,0,16,.902,2001-02,Oshawa Generals,4,0,0,1,5,310
+0,1,0,3.97,0,393,OHL,0,18,0,345,0,0,0,0,48,.878,2002-03,Oshawa Generals,7,0,0,6,13,726
+0,0,0,3.56,0,220,OHL,0,19,0,202,0,0,0,0,18,.918,2003-04,Kingston Frontenacs,4,0,0,1,5,303
+0,0,0,3.78,0,117,AHL,0,21,0,102,0,0,0,0,15,.872,2005-06,Peoria Rivermen,4,0,0,0,4,238
+0,3,1,2.04,0,387,ECHL,0,21,0,360,4,0,0,0,27,.930,2005-06,Alaska Aces,4,1,0,8,12,795
+0,0,0,4.29,0,62,ECHL,0,23,0,55,0,0,0,0,7,.887,2007-08,Alaska Aces,2,0,0,0,2,98
+0,0,0,3.85,0,271,ECHL,0,25,0,241,0,0,0,0,30,.889,2009-10,Florida Everblades,5,0,0,3,9,467
+0,1,0,1.59,0,87,ECHL,0,26,0,80,0,0,0,0,7,.920,2010-11,Greenville Road Warriors,2,0,0,2,4,264

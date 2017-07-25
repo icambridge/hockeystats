@@ -1,0 +1,16 @@
+bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
+0,0,0,0,0,0,Russia,0,18,0,0,0,0,0,0,0,0,2006-07,Novokuznetsk Metallurg,0,0,0,0,0,0
+0,0,0,2.79,0,0,Russia,0,18,0,0,0,0,0,0,13,0,2006-07,Metallurg Novokuznetsk,0,0,0,0,8,280
+0,1,0,2.97,0,0,Russia,0,19,0,0,0,0,0,0,57,0,2007-08,Metallurg Novokuznetsk,0,0,0,0,24,1153
+0,0,0,0,0,0,KHL,0,20,0,0,2,0,0,0,0,0,2008-09,Novokuznetsk Metallurg,0,1,0,0,0,0
+0,1,0,2.53,0,0,KHL,0,20,0,0,0,0,0,0,69,0,2008-09,Metallurg Novokuznetsk,0,0,0,0,32,1636
+0,0,0,0,0,0,KHL,0,21,0,0,4,0,0,0,0,0,2009-10,Novokuznetsk Metallurg,0,0,0,0,0,0
+0,1,0,2.72,0,0,KHL,0,21,0,0,4,0,0,0,89,0,2009-10,Metallurg Novokuznetsk,0,0,0,0,35,1964
+0,0,0,0,0,0,KHL,0,24,0,0,0,0,0,0,0,0,2012-13,St. Petersburg SKA,0,3,0,0,0,0
+0,4,3,1.94,0,0,KHL,0,24,0,0,0,0,0,0,46,0,2012-13,SKA St. Petersburg,3,3,0,18,24,1420
+0,0,0,0,0,0,Olympics,0,25,0,0,0,0,0,0,0,0,2013-14,Russia,0,0,0,0,0,0
+0,0,0,0,0,0,Internationa,0,25,0,0,0,0,0,0,0,0,2013-14,Russia (all),0,0,0,0,0,0
+0,0,0,0,0,0,WC,0,25,0,0,0,0,0,0,0,0,2013-14,Russia,0,0,0,0,0,0
+0,0,0,0,0,0,Internationa,0,26,0,0,0,0,0,0,0,0,2014-15,Russia (all),0,0,0,0,0,0
+0,0,0,0,0,0,WC,0,26,0,0,0,0,0,0,0,0,2014-15,Russia,0,0,0,0,0,0
+0,0,0,0,0,0,EHT,0,26,0,0,0,0,0,0,0,0,2014-15,Russia,0,0,0,0,0,0
