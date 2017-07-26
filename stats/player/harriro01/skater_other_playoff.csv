@@ -1,8 +1,8 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-4,Lethbridge Native Sons,1,0,3,M-Cup,3,1959-60,17,2
-45,Hamilton Red Wings,0,0,0,OHA-Jr.,12,1960-61,18,0
-25,Hamilton Red Wings,2,0,5,OHA-Jr.,10,1961-62,19,3
-28,Hamilton Red Wings,8,0,10,M-Cup,14,1961-62,19,2
-0,Pittsburgh Hornets,0,0,0,AHL,1,1964-65,22,0
-15,San Francisco Seals,1,0,3,WHL,7,1965-66,23,2
-12,California Golden Seals,0,0,1,WHL,6,1966-67,24,1
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+1,Lethbridge Native Sons,2,1959-60,3,3,4,17,0,M-Cup
+0,Hamilton Red Wings,0,1960-61,12,0,45,18,0,OHA-Jr.
+2,Hamilton Red Wings,3,1961-62,10,5,25,19,0,OHA-Jr.
+8,Hamilton Red Wings,2,1961-62,14,10,28,19,0,M-Cup
+0,Pittsburgh Hornets,0,1964-65,1,0,0,22,0,AHL
+1,San Francisco Seals,2,1965-66,7,3,15,23,0,WHL
+0,California Golden Seals,1,1966-67,6,1,12,24,0,WHL

@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1992-93,18,31,0,39,0,NAHL,39,Saginaw Jr. Gears,70
+1993-94,19,51,80,31,0,USHL,47,Dubuque Fighting Saints,82
+1994-95,20,13,16,23,0,H-East,36,U. of New Hampshire,36
+1995-96,21,21,18,26,0,H-East,34,U. of New Hampshire,47
+1996-97,22,26,52,32,0,H-East,39,U. of New Hampshire,58
+1997-98,23,25,32,31,0,H-East,35,U. of New Hampshire,56
+1998-99,24,14,24,22,6,IHL,51,Milwaukee Admirals,36
+1999-00,25,11,34,15,9,IHL,23,Milwaukee Admirals,26
+2000-01,26,25,54,25,19,IHL,63,Milwaukee Admirals,50
+2001-02,27,19,34,20,4,AHL,45,Milwaukee Admirals,39
+2001-02,27,1,4,2,2,WC-A,7,United States,3
+2002-03,28,34,47,47,26,AHL,78,Grand Rapids Griffins,81
+2003-04,29,8,4,6,5,AHL,16,Grand Rapids Griffins,14
+2004-05,30,2,0,0,0,Sweden,9,IF Malmo Redhawks,2
+2004-05,30,2,0,0,0,Swiss,3,HC Fribourg-Gotteron,2
+2007-08,33,2,8,4,0,Swiss,10,SC Bern,6
+2008-09,34,3,26,8,0,Swiss,23,HC Fribourg-Gotteron,11
+2009-10,35,13,20,25,0,Swiss,42,HC Fribourg-Gotteron,38
+2010-11,36,6,38,8,0,Swiss,28,HC Fribourg-Gotteron,14

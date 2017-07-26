@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1985-86,17,6,116,48,0,MNHL,65,Detroit Little Caesars,54
+1986-87,18,3,26,5,0,CCHA,38,Lake Superior State,8
+1987-88,19,2,34,15,0,CCHA,41,Lake Superior State,17
+1988-89,20,3,68,26,0,CCHA,46,Lake Superior State,29
+1989-90,21,13,48,23,0,CCHA,43,Lake Superior State,36
+1989-90,21,0,2,0,0,WEC-A,10,United States,0
+1990-91,22,4,60,20,0,IHL,60,Kalamazoo Wings,24
+1991-92,23,3,56,11,0,Nat-Tm,51,United States,14
+1991-92,23,3,10,4,0,AHL,18,Springfield Indians,7
+1992-93,24,1,38,13,0,AHL,37,Springfield Indians,14
+1993-94,25,0,4,1,0,AHL,7,Springfield Indians,1
+1995-96,27,3,18,15,0,AHL,39,2 Teams,18
+1995-96,27,3,14,11,0,AHL,22,Saint John Flames,14
+1995-96,27,0,4,4,0,AHL,17,Albany River Rats,4
+1996-97,28,3,24,17,0,IHL,42,Michigan K-Wings,20
+1997-98,29,1,29,11,-25,IHL,44,Michigan K-Wings,12
+1998-99,30,0,2,1,0,IHL,5,Michigan K-Wings,1
+1998-99,30,2,6,0,0,WC-A,6,United States,2
+1999-00,31,1,10,3,-3,IHL,18,Milwaukee Admirals,4
+1999-00,31,1,12,9,-4,AHL,25,Worcester IceCats,10

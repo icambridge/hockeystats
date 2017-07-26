@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1962-08-23,", ",G,Glenn Healy,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",G,1962-08-23,Glenn Healy

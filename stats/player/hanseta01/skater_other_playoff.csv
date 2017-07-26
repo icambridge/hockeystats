@@ -1,10 +1,10 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-17,1993-94,Tacoma Rockets,3,0,18,8,4,1,WHL
-8,1994-95,Tacoma Rockets,1,0,19,4,2,1,WHL
-2,1995-96,Springfield Falcons,2,0,20,5,3,1,AHL
-18,1997-98,Springfield Falcons,2,0,22,4,3,1,AHL
-5,1998-99,Springfield Falcons,1,0,23,3,1,0,AHL
-4,1999-00,Springfield Falcons,1,0,24,5,3,2,AHL
-8,2001-02,Hershey Bears,3,0,26,8,3,0,AHL
-13,2003-04,Cleveland Barons,2,2,28,9,7,5,AHL
-14,2004-05,Oji Seishi Tokyo,1,0,29,4,2,1,AsianHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+3,Tacoma Rockets,1,1993-94,8,4,17,18,0,WHL
+1,Tacoma Rockets,1,1994-95,4,2,8,19,0,WHL
+2,Springfield Falcons,1,1995-96,5,3,2,20,0,AHL
+2,Springfield Falcons,1,1997-98,4,3,18,22,0,AHL
+1,Springfield Falcons,0,1998-99,3,1,5,23,0,AHL
+1,Springfield Falcons,2,1999-00,5,3,4,24,0,AHL
+3,Hershey Bears,0,2001-02,8,3,8,26,0,AHL
+2,Cleveland Barons,5,2003-04,9,7,13,28,2,AHL
+1,Oji Seishi Tokyo,1,2004-05,4,2,14,29,0,AsianHL

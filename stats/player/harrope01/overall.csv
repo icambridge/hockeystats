@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1983-06-08,", ",D,Peter Harrold,R
+handed,heigh_and_weight,position,date_of_birth,name
+R,", ",D,1983-06-08,Peter Harrold

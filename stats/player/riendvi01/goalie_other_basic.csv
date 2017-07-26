@@ -1,0 +1,16 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,USHL,15,Des Moines Buccaneers,753,17,0,0,0,63,0,0,0,0,0,0,0,0,0,0,1983-84,0,5.02,0,0
+0,QMJHL,41,Verdun Juniors,2133,17,13,0,0,147,0,0,2,2,22,0,0,0,0,0,1983-84,0,4.14,0,0
+0,QMJHL,57,Drummondville Voltigeurs,3386,19,20,0,0,215,0,0,3,2,33,0,0,0,0,0,1985-86,0,3.81,0,0
+0,AHL,41,Sherbrooke Canadiens,2363,20,14,0,0,114,0,0,0,2,25,0,0,0,0,0,1986-87,0,2.89,0,0
+0,AHL,44,Sherbrooke Canadiens,2521,21,13,0,0,112,0,0,3,4,27,0,0,0,0,0,1987-88,0,2.67,0,0
+0,AHL,3,Adirondack Red Wings,179,25,1,0,0,8,0,0,0,0,2,0,0,0,0,0,1991-92,0,2.68,0,0
+0,AHL,10,Adirondack Red Wings,582,27,3,0,0,30,0,0,0,0,6,0,0,0,0,0,1993-94,0,3.09,0,0
+0,Germany,47,SC Riessersee Garmisch-Partenkirchen,2776,29,0,0,0,184,0,0,0,0,0,0,0,0,0,0,1995-96,0,3.98,0,0
+0,IHL,41,Manitoba Moose,1941,30,18,0,0,113,0,0,5,0,10,0,0,0,0,.889,1996-97,1020,3.49,0,907
+0,Germany,14,Revier Lowen Oberhausen,750,31,0,0,0,38,0,0,0,0,0,0,0,0,0,0,1997-98,0,3.04,0,0
+0,Swiss,1,HC Lugano,65,31,0,0,0,2,0,0,1,0,0,0,0,0,0,0,1997-98,0,1.85,0,0
+0,BH-Cup,9,Ayr Scottish Eagles,531,32,2,0,0,23,0,0,2,1,5,0,0,0,0,0,1998-99,0,2.60,0,0
+0,Russia,5,Lada Togliatti,235,32,0,0,0,6,0,0,0,0,0,0,0,0,0,0,1998-99,0,1.53,2,0
+0,Russia,16,Lada Togliatti,722,33,0,0,0,26,0,0,0,4,0,0,0,0,0,0,1999-00,0,2.16,12,0
+0,WCHL,21,Anchorage Aces,1178,34,10,0,0,81,0,0,2,0,8,0,0,0,0,0,2000-01,0,4.13,0,0

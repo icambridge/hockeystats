@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,18,7,51,15,0,ON-Jr.A,40,Cornwall Colts,22
+1995-96,19,68,162,53,0,ON-Jr.A,64,Cornwall Colts,121
+1996-97,20,12,78,11,0,CCHA,39,Ohio State University,23
+1997-98,21,26,86,22,0,CCHA,42,Ohio State University,48
+1998-99,22,11,87,16,0,CCHA,35,Ohio State University,27
+1999-00,23,20,138,11,0,CCHA,36,Ohio State University,31
+2000-01,24,20,72,20,-9,AHL,79,Wilkes-Barre Scranton Pens,40
+2001-02,25,13,91,14,-4,AHL,55,Wilkes-Barre Scranton Pens,27
+2002-03,26,12,95,17,0,AHL,59,Wilkes-Barre Scranton Pens,29
+2003-04,27,16,49,26,6,AHL,56,Wilkes-Barre Penguins,42
+2004-05,28,6,102,11,-1,AHL,63,Philadelphia Phantoms,17
+2005-06,29,8,97,16,-3,AHL,57,2 Teams,24
+2005-06,29,1,16,2,-4,AHL,10,Philadelphia Phantoms,3
+2005-06,29,7,81,14,1,AHL,47,Norfolk Admirals,21
+2006-07,30,11,82,13,-14,AHL,49,Philadelphia Phantoms,24
+2007-08,31,17,125,23,0,Germany,54,Straubing Tigers,40
+2008-09,32,13,148,20,0,Germany,49,Straubing Tigers,33
+2009-10,33,22,95,16,0,Germany,51,Straubing Tigers,38
+2010-11,34,7,124,14,0,Germany,49,Straubing Tigers,21

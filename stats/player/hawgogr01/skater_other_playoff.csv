@@ -1,18 +1,18 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-2,Kamloops Jr. Oilers,2,0,2,WHL,6,1983-84,15,0
-0,Kamloops Jr. Oilers,1,0,1,M-Cup,3,1983-84,15,0
-15,Kamloops Blazers,15,0,18,WHL,15,1984-85,16,3
-16,Kamloops Blazers,22,0,31,WHL,16,1985-86,17,9
-6,Kamloops Blazers,6,0,9,M-Cup,5,1985-86,17,3
-18,Kamloops Blazers,16,0,23,WHL,13,1986-87,18,7
-33,Kamloops Blazers,16,0,26,WHL,16,1987-88,19,10
-23,Cape Breton Oilers,3,0,3,AHL,4,1990-91,22,0
-0,Cape Breton Oilers,2,0,4,AHL,3,1991-92,23,2
-4,Cleveland Lumberjacks,0,0,1,IHL,3,1994-95,26,1
-24,Las Vegas Thunder,11,0,16,IHL,15,1995-96,27,5
-0,Houston Aeros,4,0,4,IHL,4,1997-98,29,0
-24,Houston Aeros,8,0,12,IHL,19,1998-99,30,4
-2,Utah Grizzlies,2,0,2,AHL,5,2001-02,33,0
-14,Utah Grizzlies,0,-2,1,AHL,2,2002-03,34,1
-29,Chicago Wolves,2,4,3,AHL,10,2003-04,35,1
-2,TPS Turku,1,0,1,Finland,2,2005-06,37,0
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+2,Kamloops Jr. Oilers,0,1983-84,6,2,2,15,0,WHL
+1,Kamloops Jr. Oilers,0,1983-84,3,1,0,15,0,M-Cup
+15,Kamloops Blazers,3,1984-85,15,18,15,16,0,WHL
+22,Kamloops Blazers,9,1985-86,16,31,16,17,0,WHL
+6,Kamloops Blazers,3,1985-86,5,9,6,17,0,M-Cup
+16,Kamloops Blazers,7,1986-87,13,23,18,18,0,WHL
+16,Kamloops Blazers,10,1987-88,16,26,33,19,0,WHL
+3,Cape Breton Oilers,0,1990-91,4,3,23,22,0,AHL
+2,Cape Breton Oilers,2,1991-92,3,4,0,23,0,AHL
+0,Cleveland Lumberjacks,1,1994-95,3,1,4,26,0,IHL
+11,Las Vegas Thunder,5,1995-96,15,16,24,27,0,IHL
+4,Houston Aeros,0,1997-98,4,4,0,29,0,IHL
+8,Houston Aeros,4,1998-99,19,12,24,30,0,IHL
+2,Utah Grizzlies,0,2001-02,5,2,2,33,0,AHL
+0,Utah Grizzlies,1,2002-03,2,1,14,34,-2,AHL
+2,Chicago Wolves,1,2003-04,10,3,29,35,4,AHL
+1,TPS Turku,0,2005-06,2,1,2,37,0,Finland

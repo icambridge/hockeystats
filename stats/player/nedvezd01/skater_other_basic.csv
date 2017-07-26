@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1991-92,16,15,22,12,0,Czech-Jr.,19,Poldi Kladno Jr.,27
+1992-93,17,3,6,9,0,OHL,18,Sudbury Wolves,12
+1993-94,18,50,42,50,0,OHL,60,Sudbury Wolves,100
+1993-94,18,4,10,3,0,WJC-A,7,Czech Republic,7
+1994-95,19,47,36,51,0,OHL,59,Sudbury Wolves,98
+1994-95,19,4,10,4,0,WJC-A,7,Czech Republic,8
+1995-96,20,13,22,14,0,AHL,41,St. John\'s Maple Leafs,27
+1996-97,21,9,34,25,0,AHL,51,St. John\'s Maple Leafs,34
+1997-98,22,3,18,8,-3,IHL,19,Long Beach Ice Dogs,11
+1997-98,22,7,24,8,-6,AHL,45,St. John\'s Maple Leafs,15
+1998-99,23,0,8,2,0,CzRep,10,HC Sparta Praha,2
+1998-99,23,0,0,0,0,EuroHL,3,HC Sparta Praha,0
+1998-99,23,4,22,7,0,Finland,30,Lukko Rauma,11
+1999-00,24,28,50,18,0,Finland,54,Lukko Rauma,46
+2000-01,25,17,36,14,0,Finland,51,Lukko Rauma,31
+2001-02,26,18,38,15,0,Finland,55,HPK Hameenlinna,33
+2002-03,27,16,26,10,0,Germany,48,Kassel Huskies,26
+2003-04,28,12,28,17,0,Germany,51,Hannover Scorpions,29
+2004-05,29,0,2,0,0,Finland,4,Karpat Oulu,0
+2005-06,30,26,18,23,0,AsianHL,38,Anyang Halla,49
+2006-07,31,16,36,20,0,AsianHL,28,Anyang Halla,36
+2007-08,32,4,28,4,0,CzRep,29,HC Geus Okna Kladno,8
+2008-09,33,1,4,3,0,CzRep,14,HC Geus Okna Kladno,4
+2009-10,34,10,16,10,0,Slovakia,36,2 Teams,20
+2009-10,34,4,6,5,0,Slovakia,15,HC \'05 Banska Bystrica,9
+2009-10,34,6,10,5,0,Slovakia,21,HKm Zvolen,11

@@ -1,0 +1,4 @@
+won,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+,0,NHL,2,HAR,124,25,2,0,0,8,0,0,0,0,0,0,0,0,0,.822,1988-89,45,3.87,0,37
+,0,NHL,7,HAR,429,26,4,108,0,23,0,-1.71,0,0,3,0,0,0,0,.881,1989-90,193,3.22,0,170
+,0,NHL,6,HAR,359,27,4,132,1,24,0,-5.84,0,0,2,1,0,0,0,.862,1990-91,174,4.01,2,150

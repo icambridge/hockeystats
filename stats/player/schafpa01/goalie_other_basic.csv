@@ -1,0 +1,21 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,AAHA,27,Medicine Hat Midget Tigers,1601,16,0,0,0,95,0,0,0,1,0,0,0,0,0,0,1992-93,0,3.56,0,0
+0,WHL,19,Medicine Hat Tigers,909,17,9,0,0,67,0,0,1,0,6,0,0,0,0,0,1993-94,0,4.42,0,0
+0,WHL,61,Medicine Hat Tigers,3519,18,26,0,0,185,0,0,2,0,32,0,0,0,0,0,1994-95,0,3.15,0,0
+0,WHL,60,Medicine Hat Tigers,3256,19,30,0,0,200,0,0,3,1,24,0,0,0,0,.905,1995-96,2096,3.69,0,1896
+0,AHL,22,Providence Bruins,1206,20,10,0,0,75,0,0,0,1,9,0,0,0,0,.882,1996-97,637,3.73,0,562
+0,ECHL,4,Charlotte Checkers,239,20,1,0,0,7,0,0,0,0,3,0,0,0,0,.939,1996-97,115,1.76,0,108
+0,AHL,3,Providence Bruins,158,21,1,0,0,11,0,0,0,0,1,0,0,0,0,.890,1997-98,100,4.18,0,89
+0,ECHL,44,Charlotte Checkers,2538,21,17,0,0,131,0,0,5,1,21,0,0,0,0,.902,1997-98,1331,3.10,0,1200
+0,ECHL,40,Greenville Grrrowl,2326,22,16,0,0,115,0,0,7,2,17,0,0,0,0,.908,1998-99,1248,2.97,16,1133
+0,AHL,1,Providence Bruins,61,22,0,0,0,3,0,0,0,0,1,0,0,0,0,0,1998-99,0,2.95,0,0
+0,ECHL,41,Pee Dee Pride,2331,23,10,0,0,94,0,0,2,2,26,0,0,0,0,.920,1999-00,1180,2.42,4,1086
+0,ECHL,44,Baton Rouge Kingfish,2564,24,10,0,3,130,0,0,9,0,21,3,0,0,0,.907,2000-01,1393,3.04,10,1263
+0,AHL,1,Cincinnati Mighty Ducks,16,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1.000,2000-01,4,0.00,0,4
+0,ECHL,33,2 Teams,1741,25,15,0,1,90,0,0,1,2,13,1,0,0,0,.914,2001-02,1052,3.10,4,962
+0,ECHL,14,Baton Rouge Kingfish,764,25,9,0,0,45,0,0,0,0,5,0,0,0,0,.912,2001-02,510,3.53,2,465
+0,ECHL,19,New Orleans Brass,977,25,6,0,1,45,0,0,1,2,8,1,0,0,0,.917,2001-02,542,2.76,2,497
+0,ECHL,6,Baton Rouge Kingfish,357,26,4,0,1,25,0,0,0,0,2,1,0,0,0,.855,2002-03,172,4.20,0,147
+0,UHL,36,2 Teams,1979,26,13,0,4,110,0,0,5,1,13,4,0,0,0,.893,2002-03,1027,3.34,0,917
+0,UHL,9,Quad City Mallards,454,26,1,0,0,21,0,0,2,0,4,0,0,0,0,.911,2002-03,237,2.78,0,216
+0,UHL,27,Flint Generals,1525,26,12,0,4,89,0,0,3,1,9,4,0,0,0,.887,2002-03,790,3.50,0,701

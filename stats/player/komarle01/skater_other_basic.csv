@@ -1,0 +1,42 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2003-04,17,9,8,15,0,Fin-U18,30,Sport Vaasa U18,24
+2004-05,18,4,62,5,0,Fin-U18,9,Assat Pori U18,9
+2004-05,18,8,59,6,0,Fin-Jr.,38,Assat Pori Jr.,13
+2005-06,19,0,4,3,0,Finland-2,5,Suomi U20,3
+2005-06,19,5,59,6,0,Fin-Jr.,10,Assat Pori Jr.,11
+2005-06,19,3,106,3,0,Finland,44,Assat Pori,6
+2005-06,19,3,106,3,2,SM-liiga,44,Assat Pori,6
+2006-07,20,1,0,0,0,Finland-2,1,Suomi U20,1
+2006-07,20,3,108,9,0,Finland,49,Pelicans Lahti,12
+2006-07,20,2,16,1,0,WJC-A,6,Finland,3
+2006-07,20,3,108,9,3,SM-liiga,49,Pelicans,12
+2007-08,21,0,0,3,0,Fin-Jr.,2,Pelicans Lahti Jr.,3
+2007-08,21,4,76,10,0,Finland,53,Pelicans Lahti,14
+2007-08,21,4,76,10,-5,SM-liiga,53,Pelicans,14
+2008-09,22,8,144,16,0,Finland,56,Pelicans Lahti,24
+2008-09,22,0,4,1,1,WC-A,5,Finland,1
+2008-09,22,8,144,16,-7,SM-liiga,56,Pelicans,24
+2009-10,23,5,44,11,-1,KHL,47,Moscow Dynamo,16
+2009-10,23,5,44,11,0,KHL,47,Dynamo Moscow,16
+2009-10,23,1,0,0,-1,WC-A,7,Finland,1
+2010-11,24,14,70,12,11,KHL,52,Moscow Dynamo,26
+2010-11,24,14,70,12,0,KHL,52,OHK Dynamo Moscow,26
+2010-11,24,0,2,2,2,WC-A,8,Finland,2
+2011-12,25,11,58,13,8,KHL,46,Moscow Dynamo,24
+2011-12,25,11,58,13,0,KHL,46,OHK Dynamo Moscow,24
+2011-12,25,1,4,0,-1,WC-A,10,Finland,1
+2012-13,26,2,42,8,2,KHL,13,Moscow Dynamo,10
+2012-13,26,6,22,3,7,AHL,14,Toronto Marlies,9
+2012-13,26,2,42,8,0,KHL,13,Dynamo Moscow,10
+2013-14,27,12,42,22,16,KHL,52,Moscow Dynamo,34
+2013-14,27,4,33,4,7,Internationa,29,Finland (all),8
+2013-14,27,1,6,2,-1,WC,10,Finland,3
+2013-14,27,0,0,0,3,Olympics,6,Finland,0
+2013-14,27,3,27,1,2,EHT,9,Finland,4
+2013-14,27,12,42,22,16,KHL,52,Dynamo Moskva,34
+2014-15,28,2,29,1,2,WC,7,Finland,3
+2014-15,28,2,29,1,2,Internationa,7,Finland (all),3
+2015-16,29,4,12,5,9,Internationa,13,Finland (all),9
+2015-16,29,3,8,4,6,WC,10,Finland,7
+2016-17,30,0,2,0,1,Internationa,3,Finland (all),0
+2016-17,30,0,2,1,-1,WCup,3,Finland,1

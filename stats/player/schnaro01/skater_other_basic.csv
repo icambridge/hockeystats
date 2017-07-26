@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,16,11,14,6,0,CzRep-Jr.,35,HC Slavia Praha Jr.,17
+1995-96,17,3,0,5,0,CzRep-Jr.,38,HC Slavia Praha Jr.,8
+1996-97,18,5,0,2,0,CzRep-Jr.,36,HC Slavia Praha Jr.,7
+1996-97,18,0,4,0,0,CzRep,4,HC Slavia Praha,0
+1997-98,19,1,143,22,0,WHL,61,Red Deer Rebels,23
+1998-99,20,0,2,0,0,WHL,1,Red Deer Rebels,0
+1998-99,20,1,155,7,0,AHL,77,Springfield Falcons,8
+1999-00,21,2,133,8,12,AHL,40,Springfield Falcons,10
+2000-01,22,1,38,2,-1,AHL,22,Springfield Falcons,3
+2000-01,22,0,72,2,0,Sweden,16,Timra IK,2
+2001-02,23,2,130,7,10,AHL,67,Milwaukee Admirals,9
+2002-03,24,3,178,6,9,AHL,62,Milwaukee Admirals,9
+2003-04,25,1,27,0,-3,AHL,11,Milwaukee Admirals,1
+2004-05,26,1,85,4,0,CzRep,47,HC Sparta Praha,5
+2005-06,27,3,165,11,0,Finland,51,HIFK Helsinki,14
+2006-07,28,1,136,5,0,Finland,44,2 Teams,6
+2006-07,28,1,120,3,0,Finland,32,HIFK Helsinki,4
+2006-07,28,0,16,2,0,Finland,12,Jokerit Helsinki,2
+2007-08,29,0,133,1,0,CzRep,34,HC Geus Okna Kladno,1
+2008-09,30,1,81,4,0,CzRep,51,BK Mlada Boleslav,5
+2008-09,30,0,8,1,0,CzRep-Q,4,BK Mlada Boleslav,1
+2009-10,31,0,77,4,0,Slovakia,41,HK 36 Skalica,4
+2010-11,32,1,43,4,0,Slovakia,26,HC Slovan Bratislava,5
+2011-12,33,0,31,1,0,CzRep,9,HC Plzen 1929,1

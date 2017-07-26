@@ -1,0 +1,36 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1982-83,14,1,2,0,0,NOHA,1,New Liskeard Cubs,1
+1983-84,15,17,39,26,0,NOHA,30,New Liskeard Cubs,43
+1984-85,16,0,0,0,0,NOHA,2,Haileybury 54\'s,0
+1984-85,16,26,113,36,0,ON-Jr.B,44,St. Mary\'s Lincolns,62
+1985-86,17,41,63,42,0,OHL,65,Guelph Platers,83
+1986-87,18,31,42,24,0,OHL,56,Guelph Platers,55
+1987-88,19,43,75,49,0,OHL,66,Guelph Platers,92
+1988-89,20,29,57,32,0,IHL,73,2 Teams,61
+1988-89,20,22,30,26,0,IHL,41,Flint Spirits,48
+1988-89,20,7,27,6,0,IHL,32,Saginaw Hawks,13
+1989-90,21,3,2,1,0,Nat-Tm,9,Canada,4
+1989-90,21,15,40,33,0,IHL,57,2 Teams,48
+1989-90,21,0,0,0,0,IHL,3,Indianapolis Ice,0
+1989-90,21,15,40,33,0,IHL,54,Fort Wayne Komets,48
+1990-91,22,55,45,76,0,IHL,81,Fort Wayne Komets,131
+1991-92,23,37,69,49,0,AHL,67,Adirondack Red Wings,86
+1992-93,24,2,10,3,0,IHL,4,Phoenix Roadrunners,5
+1993-94,25,42,65,49,0,IHL,74,San Diego Gulls,91
+1994-95,26,35,66,53,0,IHL,77,2 Teams,88
+1994-95,26,3,21,10,0,IHL,13,San Diego Gulls,13
+1994-95,26,32,45,43,0,IHL,64,Detroit Vipers,75
+1995-96,27,35,75,51,0,IHL,79,Detroit Vipers,86
+1996-97,28,24,45,37,0,IHL,70,San Antonio Dragons,61
+1997-98,29,2,6,5,0,Swiss,15,ZSC Lions Zurich,7
+1997-98,29,7,22,29,-11,IHL,52,San Antonio Dragons,36
+1998-99,30,4,12,10,0,Alpenliga,11,HK Olimpija Ljubljana,14
+1998-99,30,21,24,14,-3,IHL,52,2 Teams,35
+1998-99,30,12,18,9,7,IHL,30,Long Beach Ice Dogs,21
+1998-99,30,9,6,5,-10,IHL,22,Kansas City Blades,14
+1999-00,31,29,20,56,-8,UHL,58,Missouri River Otters,85
+1999-00,31,0,0,0,-1,IHL,1,Chicago Wolves,0
+2000-01,32,27,29,38,0,UHL,56,Missouri River Otters,65
+2001-02,33,35,26,49,10,UHL,56,Missouri River Otters,84
+2002-03,34,29,48,48,3,UHL,68,Missouri River Otters,77
+2002-03,34,0,0,1,1,AHL,3,Manchester Monarchs,1

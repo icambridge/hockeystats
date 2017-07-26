@@ -1,0 +1,18 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1990-91,18,27,10,40,0,USHL,48,Thunder Bay Flyers,67
+1991-92,19,11,18,9,0,WCHA,39,Michigan Tech Huskies,20
+1992-93,20,24,32,18,0,WCHA,37,Michigan Tech Huskies,42
+1993-94,21,25,30,21,0,WCHA,43,Michigan Tech Huskies,46
+1994-95,22,20,27,16,0,WCHA,39,Michigan Tech Huskies,36
+1995-96,23,9,33,19,0,IHL,69,Atlanta Knights,28
+1996-97,24,22,56,23,0,AHL,52,Adirondack Red Wings,45
+1997-98,25,20,48,39,13,IHL,63,Milwaukee Admirals,59
+1998-99,26,13,45,12,-1,IHL,35,2 Teams,25
+1998-99,26,6,31,7,-4,IHL,18,Cleveland Lumberjacks,13
+1998-99,26,7,14,5,3,IHL,17,Grand Rapids Griffins,12
+1999-00,27,8,62,24,0,IHL,66,Milwaukee Admirals,32
+2000-01,28,3,8,2,0,Swiss,10,SCL Tigers Langnau,5
+2000-01,28,7,40,14,0,Germany,28,Kassel Huskies,21
+2001-02,29,8,46,15,0,Germany,51,Kassel Huskies,23
+2002-03,30,10,46,15,0,Germany,49,Kassel Huskies,25
+2003-04,31,10,46,9,0,Germany,50,Kassel Huskies,19

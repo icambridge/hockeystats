@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1985-86,16,6,28,11,0,BCJHL,41,Richmond Sockeyes,17
+1986-87,17,5,51,32,0,BCJHL,52,2 Teams,37
+1986-87,17,5,39,19,0,BCJHL,35,Richmond Sockeyes,24
+1986-87,17,0,12,13,0,BCJHL,17,Langley Eagles,13
+1987-88,18,3,38,13,0,H-East,34,Boston University Terriers,16
+1988-89,19,2,34,6,0,H-East,33,Boston University Terriers,8
+1989-90,20,8,40,20,0,H-East,44,Boston University Terriers,28
+1990-91,21,7,32,23,0,H-East,41,Boston University Terriers,30
+1991-92,22,2,40,34,0,IHL,80,Milwaukee Admirals,36
+1992-93,23,11,75,20,0,AHL,78,Hamilton Canucks,31
+1993-94,24,10,89,31,0,AHL,80,Hamilton Canucks,41
+1994-95,25,6,93,13,0,AHL,75,Providence Bruins,19
+1995-96,26,9,52,21,0,AHL,42,Providence Bruins,30
+1996-97,27,14,86,26,0,IHL,67,Detroit Vipers,40
+1997-98,28,10,75,26,0,Swiss-2,40,EHC Chur,36
+1998-99,29,4,75,12,0,Germany,51,Frankfurt Lions,16
+1998-99,29,2,32,1,0,EuroHL,6,Frankfurt Lions,3
+1999-00,30,4,82,7,0,Germany,50,Krefeld Pinguine,11
+2000-01,31,1,64,9,0,Germany,59,Krefeld Pinguine,10
+2001-02,32,0,30,8,0,Germany,59,Krefeld Pinguine,8
+2002-03,33,1,55,4,0,Germany,51,Hamburg Freezers,5
+2003-04,34,2,44,9,0,Germany,50,ERC Ingolstadt,11
+2004-05,35,1,22,4,0,Germany,47,ERC Ingolstadt,5
+2005-06,36,2,38,3,0,Germany,44,ERC Ingolstadt,5

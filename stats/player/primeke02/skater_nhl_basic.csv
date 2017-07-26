@@ -1,0 +1,16 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,58,1,19,33,15,1,,DET,[],9.1,3,12,-12,3,0,1990-91,,0,106,0,11
+NHL,35,0,20,27,16,0,,DET,[],22.2,6,10,9,6,0,1991-92,,0,83,0,10
+NHL,73,2,21,75,32,4,,DET,[],20.0,10,17,-6,15,1,1992-93,,4,152,0,13
+NHL,78,4,22,155,73,7,,DET,"[{'link': '/awards/voting-1994.html#AS', 'name': 'AS-9'}]",20.0,21,42,34,31,3,1993-94,,7,173,3,32
+NHL,45,3,23,96,42,8,,DET,"[{'link': '/awards/voting-1995.html#AS', 'name': 'AS-6'}]",15.6,14,27,17,15,0,1994-95,,1,99,1,18
+NHL,74,7,24,150,52,9,,DET,"[{'link': '/awards/voting-1996.html#AS', 'name': 'AS-7'}]",18.0,19,25,19,27,2,1995-96,,6,168,2,14
+NHL,75,2,25,169,51,4,,HAR,[],15.4,17,25,-3,26,3,1996-97,,6,161,2,19
+NHL,81,2,26,180,63,11,,CAR,"[{'link': '/awards/voting-1998.html#AS', 'name': 'AS-10'}, {'link': '/awards/voting-1998.html#selke', 'name': 'Selke-8'}]",14.4,16,37,19,26,3,1997-98,,7,110,1,25
+NHL,78,5,27,178,62,6,1665,CAR,[],16.9,20,32,8,30,1,1998-99,21:21,9,75,0,26
+NHL,23,1,28,51,17,0,406,PHI,[],13.7,6,10,10,7,0,1999-00,17:38,1,31,1,9
+NHL,71,4,29,165,73,11,1418,PHI,"[{'link': '/awards/voting-2001.html#AS', 'name': 'AS-10'}, {'link': '/awards/voting-2001.html#hart', 'name': 'Hart-23'}]",20.6,23,39,17,34,0,2000-01,19:58,11,76,1,27
+NHL,75,3,30,151,48,4,1350,PHI,[],12.6,14,29,-3,19,0,2001-02,18:00,5,128,1,24
+NHL,80,4,31,171,46,7,1542,PHI,"[{'link': '/awards/voting-2003.html#selke', 'name': 'Selke-25'}]",11.1,13,27,4,19,0,2002-03,19:16,6,93,2,18
+NHL,54,2,32,86,22,0,897,PHI,"[{'link': '/awards/voting-2004.html#selke', 'name': 'Selke-6'}]",8.1,6,15,11,7,1,2003-04,16:36,0,80,0,15
+NHL,9,0,34,12,7,2,143,PHI,[],8.3,0,6,0,1,0,2005-06,15:56,1,6,1,3

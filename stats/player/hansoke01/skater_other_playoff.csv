@@ -1,4 +1,4 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-23,Toledo Goaldiggers,3,0,4,IHL,13,1981-82,24,1
-29,Birmingham South Stars,3,0,3,CHL,12,1982-83,25,0
-16,Colorado Flames,2,0,4,CHL,6,1983-84,26,2
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+3,Toledo Goaldiggers,1,1981-82,13,4,23,24,0,IHL
+3,Birmingham South Stars,0,1982-83,12,3,29,25,0,CHL
+2,Colorado Flames,2,1983-84,6,4,16,26,0,CHL

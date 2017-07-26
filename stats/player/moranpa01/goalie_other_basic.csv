@@ -1,0 +1,20 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,CAHL,8,Quebec Athletics,480,24,4,0,0,34,0,0,0,0,4,0,0,0,0,0,1901-02,0,4.25,0,0
+0,CAHL,7,Quebec Athletics,420,25,4,0,0,46,0,0,0,0,3,0,0,0,0,0,1902-03,0,6.57,0,0
+0,CAHL,6,Quebec Athletics,360,26,1,0,0,37,0,0,0,0,5,0,0,0,0,0,1903-04,0,6.17,0,0
+0,CAHL,9,Quebec Athletics,540,27,2,0,0,45,0,0,0,0,7,0,0,0,0,0,1904-05,0,5.00,0,0
+0,ECAHA,10,Quebec Bulldogs,619,28,7,0,0,70,0,0,0,0,3,0,0,0,0,0,1905-06,0,6.79,0,0
+0,ECAHA,6,Quebec Bulldogs,362,29,6,0,0,58,0,0,0,0,0,0,0,0,0,0,1906-07,0,9.61,0,0
+0,ECAHA,10,Quebec Bulldogs,602,30,5,0,0,74,0,0,0,0,5,0,0,0,0,0,1907-08,0,7.38,0,0
+0,ECHA,12,Quebec Bulldogs,720,31,9,0,0,106,0,0,0,0,3,0,0,0,0,0,1908-09,0,8.83,0,0
+0,CHA,4,All-Montreal,240,32,2,0,0,24,0,0,0,0,2,0,0,0,0,0,1909-10,0,6.00,0,0
+0,NHA,11,Haileybury Comets,665,32,8,0,0,80,0,0,0,0,3,0,0,0,0,0,1909-10,0,7.22,0,0
+0,NHA,16,Quebec Bulldogs,983,33,12,0,0,97,0,0,0,0,4,0,0,0,0,0,1910-11,0,5.92,0,0
+0,NHA,18,Quebec Bulldogs,1099,34,8,0,0,78,0,0,0,0,10,0,0,0,0,0,1911-12,0,4.26,0,0
+0,Exhib.,3,NHA All-Stars,180,34,2,0,0,23,0,0,0,0,1,0,0,0,0,0,1911-12,0,7.67,0,0
+0,NHA,20,Quebec Bulldogs,1215,35,4,0,0,75,0,0,0,1,16,0,0,0,0,0,1912-13,0,3.70,0,0
+0,Exhib.,3,Quebec Bulldogs,180,35,2,0,0,16,0,0,0,0,1,0,0,0,0,0,1912-13,0,5.33,0,0
+0,NHA,20,Quebec Bulldogs,1225,36,8,0,0,73,0,0,0,1,12,0,0,0,0,0,1913-14,0,3.58,0,0
+0,NHA,20,Quebec Bulldogs,1305,37,9,0,0,85,0,0,0,0,11,0,0,0,0,0,1914-15,0,3.91,0,0
+0,NHA,22,Quebec Bulldogs,1391,38,10,0,0,82,0,0,0,0,10,0,0,0,0,0,1915-16,0,3.54,0,0
+0,NHA,7,Quebec Bulldogs,307,39,5,0,0,35,0,0,0,0,1,0,0,0,0,0,1916-17,0,6.84,0,0

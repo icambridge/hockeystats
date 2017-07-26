@@ -1,8 +1,8 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-2,1995-96,HIFK Helsinki U18,0,0,16,4,3,3,Fin-U18
-0,1996-97,HIFK Helsinki U18,1,0,17,4,2,1,Fin-U18
-0,1998-99,Blues Espoo,0,0,19,4,1,1,Finland
-0,1999-00,Karpat Oulu,2,0,20,7,6,4,Finland-2
-0,2000-01,Karpat Oulu,1,0,21,8,4,3,Finland
-6,2004-05,HC Davos,7,0,25,15,17,10,Swiss
-10,2012-13,Lokomotiv Yaroslavl,0,0,33,6,0,0,KHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,HIFK Helsinki U18,3,1995-96,4,3,2,16,0,Fin-U18
+1,HIFK Helsinki U18,1,1996-97,4,2,0,17,0,Fin-U18
+0,Blues Espoo,1,1998-99,4,1,0,19,0,Finland
+2,Karpat Oulu,4,1999-00,7,6,0,20,0,Finland-2
+1,Karpat Oulu,3,2000-01,8,4,0,21,0,Finland
+7,HC Davos,10,2004-05,15,17,6,25,0,Swiss
+0,Lokomotiv Yaroslavl,0,2012-13,6,0,10,33,0,KHL

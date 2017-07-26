@@ -1,0 +1,12 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,26,1,20,43,7,1,,VAN,[],7.0,3,4,-4,3,0,1974-75,,0,17,0,3
+NHL,56,3,21,135,32,5,,VAN,[],14.1,14,13,-4,19,0,1975-76,,5,66,0,8
+NHL,70,3,22,129,38,2,,VAN,[],14.0,17,20,12,18,1,1976-77,,0,29,1,17
+NHL,62,1,23,119,30,1,,VAN,[],15.1,17,12,-6,18,0,1977-78,,1,25,0,11
+NHL,79,5,24,225,56,3,,VAN,"[{'link': '/awards/voting-1979.html#AS', 'name': 'AS-9'}]",17.8,25,16,-34,40,0,1978-79,,15,26,0,13
+NHL,77,0,25,206,37,3,,TOT,[],11.2,22,14,-4,23,0,1979-80,,1,21,0,11
+NHL,32,0,25,74,14,2,,VAN,[],13.5,10,4,-5,10,0,1979-80,,0,7,0,2
+NHL,45,0,25,132,23,1,,CBH,[],9.8,12,10,1,13,0,1979-80,,1,14,0,9
+NHL,60,2,26,114,29,3,,TOT,[],19.3,14,7,-10,22,0,1980-81,,8,26,0,4
+NHL,39,0,26,69,15,1,,CBH,[],17.4,9,3,-7,12,0,1980-81,,3,12,0,2
+NHL,21,2,26,45,14,2,,TOR,[],22.2,5,4,-3,10,0,1980-81,,5,14,0,2

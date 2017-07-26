@@ -1,0 +1,30 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1990-91,16,0,0,0,0,Sweden,3,Farjestads BK Karlstad,0
+1990-91,16,2,0,0,0,EJC-A,6,Sweden,2
+1991-92,17,0,2,0,0,Sweden,16,Farjestads BK Karlstad,0
+1991-92,17,3,0,0,0,EJC-A,6,Sweden,3
+1992-93,18,8,12,6,0,Sweden-2,25,Grums IK,14
+1992-93,18,2,4,3,0,Sweden,12,Farjestads BK Karlstad,5
+1993-94,19,2,4,1,0,Sweden,16,Farjestads BK Karlstad,3
+1993-94,19,2,0,0,0,WJC-A,7,Sweden,2
+1994-95,20,7,30,8,0,Sweden,40,Farjestads BK Karlstad,15
+1995-96,21,8,10,21,0,Sweden,40,Farjestads BK Karlstad,29
+1996-97,22,12,14,15,0,Sweden,48,Farjestads BK Karlstad,27
+1996-97,22,0,0,1,0,EuroHL,5,Farjestads BK Karlstad,1
+1997-98,23,8,36,21,0,Sweden,46,Farjestads BK Karlstad,29
+1997-98,23,3,2,4,0,EuroHL,8,Farjestads BK Karlstad,7
+1998-99,24,9,14,15,0,Sweden,50,Farjestads BK Karlstad,24
+1998-99,24,1,6,3,0,EuroHL,5,Farjestads BK Karlstad,4
+1999-00,25,20,40,19,0,Sweden,49,Farjestads BK Karlstad,39
+2000-01,26,15,42,20,0,Sweden,49,Farjestads BK Karlstad,35
+2000-01,26,1,14,1,2,WC-A,9,Sweden,2
+2001-02,27,4,22,11,0,Sweden,50,Farjestads BK Karlstad,15
+2001-02,27,1,0,0,-2,Olympics,4,Sweden,1
+2001-02,27,0,4,3,2,WC-A,9,Sweden,3
+2002-03,28,0,0,0,0,WC-A,8,Sweden,0
+2003-04,29,6,24,14,0,Sweden,50,Farjestads BK Karlstad,20
+2004-05,30,9,40,11,0,Sweden,47,Farjestads BK Karlstad,20
+2005-06,31,16,30,16,0,Sweden,47,Farjestads BK Karlstad,32
+2005-06,31,0,4,0,-1,WC-A,4,Sweden,0
+2006-07,32,5,60,17,0,Sweden,54,Farjestads BK Karlstad,22
+2007-08,33,6,54,4,0,Sweden,46,Farjestads BK Karlstad,10

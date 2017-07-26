@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1949-50,15,5,54,5,0,TBJHL,16,Fort William Canadiens,10
+1950-51,16,5,32,3,0,TBJHL,14,Fort William Canadiens,8
+1951-52,17,38,96,22,0,TBJHL,29,Fort William Canadiens,60
+1952-53,18,21,34,14,0,TBJHL,19,Fort William Canadiens,35
+1953-54,19,32,61,26,0,IHL,63,Cincinnati Mohawks,58
+1954-55,20,25,46,14,0,QHL,59,Shawinigan Cataracts,39
+1955-56,21,31,91,34,0,QHL,64,Shawinigan Cataracts,65
+1956-57,22,12,12,12,0,QHL,32,Shawinigan Cataracts,24
+1958-59,24,15,26,17,0,AHL,68,Buffalo Bisons,32
+1959-60,25,19,10,10,0,AHL,57,Buffalo Bisons,29
+1960-61,26,38,71,43,0,EPHL,70,Sault Ste. Marie Thunderbirds,81
+1961-62,27,22,65,32,0,EPHL,70,Sault Ste. Marie Greyhounds,54
+1962-63,28,19,35,19,0,AHL,68,Buffalo Bisons,38
+1963-64,29,13,10,14,0,AHL,64,Buffalo Bisons,27
+1964-65,30,1,4,6,0,WHL,22,Los Angeles Blades,7
+1964-65,30,16,16,7,0,AHL,41,Providence Reds,23
+1965-66,31,28,30,19,0,AHL,57,Providence Reds,47
+1966-67,32,22,20,20,0,AHL,55,Providence Reds,42
+1967-68,33,47,30,29,0,AHL,72,Providence Reds,76
+1968-69,34,26,24,26,0,AHL,71,Providence Reds,52
+1969-70,35,9,2,4,0,AHL,21,Providence Reds,13
+1970-71,36,12,35,7,0,USHL,15,Thunder Bay Twins,19
+1971-72,37,18,6,11,0,EHL,25,Johnstown Jets,29

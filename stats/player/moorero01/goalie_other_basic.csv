@@ -1,0 +1,13 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,ON-Jr.A,18,Sarnia Bees,1069,17,0,0,0,64,0,0,0,1,0,0,0,0,0,0,1971-72,0,3.59,0,0
+0,WCHA,31,University of Michigan,1840,18,0,0,0,176,0,0,0,0,0,0,0,0,0,0,1972-73,0,5.74,0,0
+0,WCHA,36,University of Michigan,2000,19,0,0,0,144,0,0,0,0,0,0,0,0,0,0,1973-74,0,4.32,0,0
+0,WCHA,24,University of Michigan,1420,20,0,0,0,94,0,0,0,0,0,0,0,0,0,0,1974-75,0,3.97,0,0
+0,WCHA,37,University of Michigan,2137,21,0,0,0,157,0,0,0,1,0,0,0,0,0,0,1975-76,0,4.41,0,0
+0,OUAA,30,U. of Western Ontario,770,22,0,0,0,52,0,0,0,0,0,0,0,0,0,0,1976-77,0,4.05,0,0
+0,AHL,26,Maine Mariners,1489,24,6,0,0,84,0,0,6,1,12,0,0,0,0,0,1978-79,0,3.38,0,0
+0,AHL,32,Maine Mariners,1830,25,11,0,0,106,0,0,4,1,14,0,0,0,0,0,1979-80,0,3.48,0,0
+0,AHL,25,Maine Mariners,1431,26,11,0,0,92,0,0,2,1,11,0,0,0,0,0,1980-81,0,3.86,0,0
+0,CHL,39,Nashville South Stars,2204,27,17,0,0,159,0,0,1,0,18,0,0,0,0,0,1981-82,0,4.33,0,0
+0,AHL,35,Hershey Bears,1798,28,14,0,0,115,0,0,1,0,15,0,0,0,0,0,1982-83,0,3.84,0,0
+0,IHL,49,Milwaukee Admirals,2788,29,0,0,0,195,0,0,0,0,0,0,0,0,0,0,1983-84,0,4.20,0,0

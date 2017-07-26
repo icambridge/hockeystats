@@ -1,0 +1,5 @@
+even_strength_goals,assists,team,goals,pim,age,game_winning_goals,total_ice_time,league,shorthanded_goals,shots,average_ice_time,year,games_played,shotsPercentage,win,power_play_goals,points,plus_minus
+0,6,TBL,0,8,20,0,50,NHL,0,24,401,2010-11,18,0.0,,0,6,0
+1,2,TBL,1,2,23,0,13,NHL,0,3,98,2013-14,4,33.3,,0,3,-2
+0,13,TBL,1,6,24,0,114,NHL,0,64,623,2014-15,0,1.6,,1,14,11
+2,10,TBL,4,14,25,1,101,NHL,0,46,466,2015-16,17,8.7,,2,14,2

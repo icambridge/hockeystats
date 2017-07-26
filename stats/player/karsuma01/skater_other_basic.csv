@@ -1,0 +1,28 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2000-01,14,0,25,0,0,WJ18-B,5,Latvia,0
+2000-01,14,8,0,6,0,Latvia-Jr.,20,2 Teams,14
+2000-01,14,0,0,0,0,Latvia-Jr.,2,Prizma \'83 Riga Jr.,0
+2000-01,14,8,0,6,0,Latvia-Jr.,18,HK Lido Nafta Riga Jr.,14
+2001-02,15,7,4,8,0,EEHL-B,16,Prizma \'83 Riga,15
+2001-02,15,4,4,1,0,Latvia,6,Prizma \'83 Riga,5
+2001-02,15,1,14,0,-4,WJ18-B,5,Latvia,1
+2002-03,16,0,0,0,0,EEHL,2,HK Riga 2000,0
+2002-03,16,0,35,1,2,WJC-B,5,Latvia,1
+2002-03,16,2,14,0,-2,WJ18-B,4,Latvia,2
+2003-04,17,30,76,23,7,QMJHL,60,Moncton Wildcats,53
+2003-04,17,7,12,6,7,WJC-B,5,Latvia,13
+2004-05,18,14,31,12,9,QMJHL,30,Moncton Wildcats,26
+2004-05,18,7,20,3,9,WJC-B,5,Latvia,10
+2005-06,19,34,89,31,25,QMJHL,49,Moncton Wildcats,65
+2005-06,19,3,6,3,0,WJC-A,6,Latvia,6
+2006-07,20,13,41,22,1,AHL,54,Providence Bruins,35
+2007-08,21,20,57,43,25,AHL,79,Providence Bruins,63
+2007-08,21,1,2,2,3,WC-A,2,Latvia,3
+2008-09,22,17,20,24,8,AHL,43,Providence Bruins,41
+2009-10,23,4,6,12,1,AHL,36,Norfolk Admirals,16
+2009-10,23,4,16,4,0,KHL,12,Dynamo Riga,8
+2009-10,23,0,2,2,-2,Olympics,4,Latvia,2
+2009-10,23,3,2,1,5,WC-A,6,Latvia,4
+2010-11,24,17,46,15,0,KHL,52,Dynamo Riga,32
+2011-12,25,21,46,12,0,KHL,54,Dynamo Riga,33
+2012-13,26,16,63,19,0,KHL,51,Dynamo Riga,35

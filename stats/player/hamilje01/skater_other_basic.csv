@@ -1,18 +1,18 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1995-96,Avon Old Farms,23,0,18,24,52,29,High-CT
-26,1996-97,Yale University Bulldogs,13,0,19,31,23,10,ECAC
-28,1997-98,Yale University Bulldogs,20,0,20,33,47,27,ECAC
-51,1998-99,Yale University Bulldogs,28,0,21,30,48,20,ECAC
-0,1999-00,Yale University Bulldogs,1,0,22,2,1,0,ECAC
-39,2000-01,Yale University Bulldogs,32,0,23,31,55,23,ECAC
-16,2001-02,Karpat Oulu,15,0,24,39,33,18,Finland
-35,2002-03,Bridgeport Sound Tigers,16,8,25,67,38,22,AHL
-26,2003-04,Bridgeport Sound Tigers,25,16,26,67,68,43,AHL
-2,2003-04,United States,0,0,26,6,1,1,WC-A
-32,2004-05,Hartford Wolf Pack,30,15,27,60,53,23,AHL
-16,2005-06,Ak Bars Kazan,1,0,28,8,1,0,Russia
-28,2005-06,Bridgeport Sound Tigers,26,-8,28,39,50,24,AHL
-6,2007-08,Albany River Rats,6,3,30,9,9,3,AHL
-18,2008-09,Chicago Wolves,37,-6,31,50,53,16,AHL
-28,2009-10,HC Lugano,24,0,32,46,46,22,Swiss
-38,2010-11,HIFK Helsinki,19,0,33,33,33,14,Finland
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+23,Avon Old Farms,29,1995-96,24,52,0,18,0,High-CT
+13,Yale University Bulldogs,10,1996-97,31,23,26,19,0,ECAC
+20,Yale University Bulldogs,27,1997-98,33,47,28,20,0,ECAC
+28,Yale University Bulldogs,20,1998-99,30,48,51,21,0,ECAC
+1,Yale University Bulldogs,0,1999-00,2,1,0,22,0,ECAC
+32,Yale University Bulldogs,23,2000-01,31,55,39,23,0,ECAC
+15,Karpat Oulu,18,2001-02,39,33,16,24,0,Finland
+16,Bridgeport Sound Tigers,22,2002-03,67,38,35,25,8,AHL
+25,Bridgeport Sound Tigers,43,2003-04,67,68,26,26,16,AHL
+0,United States,1,2003-04,6,1,2,26,0,WC-A
+30,Hartford Wolf Pack,23,2004-05,60,53,32,27,15,AHL
+1,Ak Bars Kazan,0,2005-06,8,1,16,28,0,Russia
+26,Bridgeport Sound Tigers,24,2005-06,39,50,28,28,-8,AHL
+6,Albany River Rats,3,2007-08,9,9,6,30,3,AHL
+37,Chicago Wolves,16,2008-09,50,53,18,31,-6,AHL
+24,HC Lugano,22,2009-10,46,46,28,32,0,Swiss
+19,HIFK Helsinki,14,2010-11,33,33,38,33,0,Finland

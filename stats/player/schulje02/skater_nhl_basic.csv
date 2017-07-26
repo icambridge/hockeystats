@@ -1,0 +1,10 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+0,NHL,38,0,20,0,0,22,3,0,0,692,WSH,0,0,[],0.0,0,3,5,0,0,0,2006-07,0,18:13,0,16,0,3
+50,NHL,72,0,21,0,103,36,18,61,0,1303,WSH,23,100.0,[],13.9,5,13,12,5,1,0,2007-08,90,18:05,0,28,0,13
+34,NHL,64,0,22,0,99,40,12,53,0,1265,WSH,11,0,[],2.5,0,11,13,1,0,1,2008-09,93,19:46,0,21,0,11
+41,NHL,73,0,23,0,103,43,23,64,0,1450,WSH,13,0,"[{'link': '/awards/voting-2010.html#AS', 'name': 'AS-12'}, {'link': '/awards/voting-2010.html#norris', 'name': 'Norris-16'}]",7.0,3,20,0,3,0,0,2009-10,126,19:52,0,32,0,20
+42,NHL,72,1,24,0,94,34,10,52,0,1424,WSH,16,0,[],2.9,1,9,6,1,0,0,2010-11,135,19:47,0,12,2,7
+33,NHL,54,0,25,0,59,22,6,49,0,826,WSH,10,0,[],4.5,1,5,-2,1,0,0,2011-12,58,15:18,0,12,0,5
+5,NHL,26,0,26,0,35,12,3,17,0,371,WSH,3,0,[],0.0,0,3,-6,0,0,0,2012-13,25,14:15,0,12,0,3
+5,NHL,9,0,28,0,16,7,1,10,0,151,LAK,0,0,[],0.0,0,1,1,0,0,0,2014-15,9,16:45,0,4,0,1
+0,NHL,1,0,29,0,1,1,0,0,0,18,LAK,0,0,[],0.0,0,0,-1,0,0,0,2015-16,2,18:15,0,0,0,0

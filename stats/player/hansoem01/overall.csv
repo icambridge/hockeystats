@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1907-11-18,RWD,", ",L,Emil Hanson
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",RWD,1907-11-18,Emil Hanson

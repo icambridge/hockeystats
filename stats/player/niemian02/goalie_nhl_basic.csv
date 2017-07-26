@@ -1,0 +1,10 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+0.1,1,NHL,3,CHI,141,25,1,0,0,8,2,0,1,0,1,0,.500,0,1,.864,2008-09,59,3.40,0,[],51
+5.7,7,NHL,39,CHI,2190,26,7,99,1,82,35,1.05,4,7,26,1,.486,0,17,.912,2009-10,936,2.25,0,[],854
+11.7,6,NHL,60,SJS,3524,27,18,92,1,140,60,11.67,6,6,35,1,.617,0,37,.920,2010-11,1741,2.38,2,"[{'link': '/awards/voting-2011.html#AS', 'name': 'AS-10'}, {'link': '/awards/voting-2011.html#vezina', 'name': 'Vezina-8'}]",1601
+11.6,9,NHL,68,SJS,3936,28,22,99,0,159,68,2.25,9,6,34,0,.529,0,36,.915,2011-12,1865,2.42,2,[],1706
+9.2,3,NHL,43,SJS,0,29,12,87,1,93,43,14.45,6,4,0,1,.674,0,29,.924,2012-13,1220,2.16,2,"[{'link': '/awards/voting-2013.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-2013.html#hart', 'name': 'Hart-11'}, {'link': '/awards/voting-2013.html#vezina', 'name': 'Vezina-3'}]",1127
+10.1,9,NHL,64,SJS,3740,30,17,101,2,149,64,-2.09,7,4,39,2,.469,0,30,.913,2013-14,1705,2.39,0,[],1556
+10.8,9,NHL,61,SJS,3588,31,23,100,3,155,61,-0.43,7,5,31,3,.525,0,32,.914,2014-15,1811,2.59,0,[],1656
+5.9,8,NHL,48,DAL,2654,32,13,111,2,118,43,-11.91,7,3,25,2,.442,0,19,.905,2015-16,1246,2.67,2,[],1128
+3.0,7,NHL,37,DAL,1729,33,12,125,0,95,30,-18.84,4,0,12,0,.467,0,14,.892,2016-17,880,3.30,0,[],785

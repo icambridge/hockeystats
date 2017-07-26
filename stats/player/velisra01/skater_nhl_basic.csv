@@ -1,0 +1,11 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,3,0,20,4,0,0,,MNS,[],0.0,0,0,-4,0,0,1982-83,,0,2,0,0
+NHL,33,0,21,15,4,0,,MNS,[],13.3,2,2,-6,2,0,1983-84,,0,10,0,2
+NHL,52,0,22,33,13,0,,MNS,[],12.1,4,9,7,4,0,1984-85,,0,26,0,9
+NHL,47,0,23,24,9,0,,NJD,[],8.3,2,7,-20,2,0,1985-86,,0,39,0,7
+NHL,64,0,24,39,18,0,,NJD,[],5.1,2,16,-12,2,0,1986-87,,0,52,1,15
+NHL,51,0,25,39,12,1,,NJD,[],7.7,2,9,-13,3,1,1987-88,,0,66,0,8
+NHL,0,0,26,77,18,0,,NJD,[],5.2,3,14,-2,4,1,1988-89,,0,70,0,14
+NHL,62,0,27,34,6,0,,NJD,[],0.0,0,6,4,0,0,1989-90,,0,72,0,6
+NHL,79,0,28,47,12,0,,QUE,[],4.3,2,10,-19,2,0,1990-91,,0,42,1,9
+NHL,38,0,29,23,5,0,,QUE,[],8.7,2,3,-3,2,0,1991-92,,0,22,1,2

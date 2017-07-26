@@ -1,0 +1,25 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WHL,1,Billings Bighorns,60,17,1,0,0,7,0,0,0,0,0,0,0,0,0,0,1981-82,0,7.00,0,0
+0,WHL,66,Nanaimo Islanders,3549,18,38,0,0,383,0,0,1,0,19,0,0,0,0,0,1982-83,0,6.48,0,0
+0,WHL,50,New Westminster Bruins,2930,19,22,0,0,215,0,0,2,0,24,0,0,0,0,0,1983-84,0,4.40,0,0
+0,WHL,47,Brandon Wheat Kings,2585,20,30,0,0,243,0,0,1,0,14,0,0,0,0,0,1984-85,0,5.64,0,0
+0,IHL,29,Fort Wayne Komets,1674,21,11,0,0,86,0,0,0,3,15,0,0,0,0,0,1985-86,0,3.08,0,0
+0,AHL,9,Moncton Hawks,545,23,6,0,0,26,0,0,1,0,2,0,0,0,0,0,1987-88,0,2.86,0,0
+0,AHL,15,Cape Breton Oilers,821,25,4,0,0,54,0,0,1,0,9,0,0,0,0,0,1989-90,0,3.95,0,0
+0,IHL,3,Phoenix Roadrunners,185,25,1,0,0,7,0,0,0,0,2,0,0,0,0,0,1989-90,0,2.27,0,0
+0,AHL,31,Cape Breton Oilers,1673,26,10,0,0,97,0,0,0,2,19,0,0,0,0,0,1990-91,0,3.48,0,0
+0,AHL,16,Cape Breton Oilers,765,27,3,0,0,45,0,0,3,0,5,0,0,0,0,0,1991-92,0,3.53,0,0
+0,IHL,14,Fort Wayne Komets,787,27,5,0,0,40,0,0,2,1,6,0,0,0,0,0,1991-92,0,3.05,0,0
+0,IHL,54,Fort Wayne Komets,3043,28,16,0,0,156,0,0,4,3,33,0,0,0,0,0,1992-93,0,3.08,0,0
+0,IHL,54,Cincinnati Cyclones,2894,29,12,0,0,147,0,0,6,2,31,0,0,0,0,0,1993-94,0,3.05,0,0
+0,IHL,40,Las Vegas Thunder,2075,30,13,0,0,104,0,0,1,3,23,0,0,0,0,0,1994-95,0,3.01,0,0
+0,IHL,47,Las Vegas Thunder,2636,31,12,0,0,129,0,0,4,1,27,0,0,0,0,0,1995-96,0,2.94,0,0
+0,IHL,61,Grand Rapids Griffins,3244,32,14,0,0,134,0,0,10,6,30,0,0,0,0,0,1996-97,0,2.48,0,0
+0,IHL,48,3 Teams,2691,33,21,0,0,133,0,0,4,2,20,0,0,0,0,0,1997-98,0,2.97,0,0
+0,IHL,10,Grand Rapids Griffins,575,33,5,0,0,33,0,0,0,0,5,0,0,0,0,0,1997-98,0,3.44,0,0
+0,IHL,16,San Antonio Dragons,861,33,9,0,0,45,0,0,1,1,5,0,0,0,0,0,1997-98,0,3.14,0,0
+0,IHL,22,Kansas City Blades,1255,33,7,0,0,55,0,0,3,1,10,0,0,0,0,0,1997-98,0,2.63,0,0
+0,IHL,33,Fort Wayne Komets,1874,34,15,0,1,102,0,0,5,1,12,1,0,0,0,.905,1998-99,1075,3.27,19,973
+0,Germany,52,Frankfurt Lions,2943,35,0,0,1,144,0,0,0,1,0,1,0,0,0,0,1999-00,0,2.94,24,0
+0,Germany,47,Frankfurt Lions,2642,36,0,0,0,118,0,0,0,2,0,0,0,0,0,0,2000-01,0,2.68,0,0
+0,Germany,52,Frankfurt Lions,2948,37,0,0,0,147,0,0,0,4,0,0,0,0,0,0,2001-02,0,2.99,0,0

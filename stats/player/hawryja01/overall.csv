@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1996-01-01,", ",C,Jayce Hawryluk,R
+handed,heigh_and_weight,position,date_of_birth,name
+R,", ",C,1996-01-01,Jayce Hawryluk

@@ -1,28 +1,28 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-0,,C,,0,0,0,0,34,0,15,50,Elmer Lach,6.4,1.3,65,0,36,,70,0,5.2,0,/players/l/lachel01.html
-0,,RW,,0,0,0,0,20,0,30,24,Bernie Geoffrion,7.0,1.2,54,0,66,,67,0,5.8,0,/players/g/geoffbe01.html
-0,,RW,,0,0,0,0,30,0,27,17,Maurice Richard,6.2,0.9,44,0,44,,48,0,5.3,0,/players/r/richama01.html
-0,,LW,,0,0,0,0,22,0,24,18,Paul Meger,5.0,1.3,42,0,44,,69,0,3.7,0,/players/m/megerpa01.html
-0,,C,,0,0,0,0,33,0,7,34,Billy Reay,3.0,1.2,41,0,20,,68,0,1.8,0,/players/r/reaybi01.html
-0,,LW,,0,0,0,0,23,0,23,17,Dick Gamble,4.8,1.2,40,0,8,,64,0,3.6,0,/players/g/gambldi01.html
-0,,RW,,0,0,0,0,26,0,20,18,Floyd Curry,4.2,1.2,38,0,10,,64,0,3.1,0,/players/c/curryfl01.html
-0,,LW,,0,0,0,0,25,0,7,28,Bert Olmstead,2.4,1.3,35,0,49,,69,0,1.1,0,/players/o/olmstbe01.html
-0,,LW,,0,0,0,0,21,0,18,15,Dickie Moore,4.5,0.6,33,0,44,,33,0,3.9,0,/players/m/mooredi01.html
-0,,D,,0,0,0,0,27,0,6,23,Doug Harvey,7.5,4.9,29,0,82,,68,0,2.5,0,/players/h/harvedo01.html
-0,,C,,0,0,0,0,29,0,5,11,Ken Mosdell,0.9,0.8,16,0,19,,44,0,0.1,0,/players/m/mosdeke01.html
-0,,D,,0,0,0,0,22,0,3,10,Dollard St. Laurent,3.9,2.9,13,0,30,,40,0,1.0,0,/players/s/stlaudo01.html
-0,,D,,0,0,0,0,32,0,3,9,Butch Bouchard,4.9,4.4,12,0,45,,60,0,0.5,0,/players/b/bouchbu01.html
-0,,C,,0,0,0,0,26,0,2,10,John McCormack,-0.2,1.0,12,0,4,,54,0,-1.2,0,/players/m/mccorjo01.html
-0,,D,,0,0,0,0,23,0,0,7,Tom Johnson,4.4,4.9,7,0,76,,67,0,-0.5,0,/players/j/johnsto01.html
-0,,D,,0,0,0,0,23,0,1,5,Ross Lowe,2.4,2.3,6,0,42,,31,0,0.2,0,/players/l/lowero01.html
-0,,D,,0,0,0,0,24,0,2,1,Bud MacPherson,3.5,3.9,3,0,24,,54,0,-0.5,0,/players/m/macphbu01.html
-0,,C,,0,0,0,0,20,0,1,2,Paul Masnick,0.0,0.3,3,0,2,,15,0,-0.3,0,/players/m/masnipa01.html
-0,,RW,,0,0,0,0,21,0,1,1,Lorne Davis,0.2,0.1,2,0,2,,3,0,0.2,0,/players/d/davislo01.html
-0,,RW,,0,0,0,0,26,0,0,1,Gerry Couture,-0.2,0.2,1,0,4,,10,0,-0.4,0,/players/c/coutuge01.html
-0,,LW,,0,0,0,0,25,0,0,1,Calum MacKay,-0.3,0.2,1,0,8,,12,0,-0.5,0,/players/m/mackaca01.html
-0,,C,,0,0,0,0,19,0,0,0,Gene Achtymichuk,0.0,0.0,0,0,0,,1,0,-0.1,0,/players/a/achtyge01.html
-0,,LW,,0,0,0,0,19,0,0,0,Garry Edmundson,0.0,0.0,0,0,2,,1,0,-0.1,0,/players/e/edmunga01.html
-0,,RW,,0,0,0,0,23,0,0,0,Bob Fryday,-0.1,0.1,0,0,0,,3,0,-0.2,0,/players/f/frydabo01.html
-0,,RW,,0,0,0,0,26,0,0,0,Cliff Malone,-0.1,0.1,0,0,0,,3,0,-0.2,0,/players/m/maloncl01.html
-0,,C,,0,0,0,0,19,0,0,0,Don Marshall,0.0,0.0,0,0,0,,1,0,-0.1,0,/players/m/marshdo01.html
-0,,G,,0,0,0,0,25,0,0,0,Gerry McNeil,13.6,0.0,0,0,0,,70,0,0.0,0,/players/m/mcneige01.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+50,0,15,34,,5.2,1.3,0,,0,C,6.4,0,MTL,/players/l/lachel01.html,0,36,0,0,Elmer Lach,,1952,65,0,70,0
+24,0,30,20,,5.8,1.2,0,,0,RW,7.0,0,MTL,/players/g/geoffbe01.html,0,66,0,0,Bernie Geoffrion,,1952,54,0,67,0
+17,0,27,30,,5.3,0.9,0,,0,RW,6.2,0,MTL,/players/r/richama01.html,0,44,0,0,Maurice Richard,,1952,44,0,48,0
+18,0,24,22,,3.7,1.3,0,,0,LW,5.0,0,MTL,/players/m/megerpa01.html,0,44,0,0,Paul Meger,,1952,42,0,69,0
+34,0,7,33,,1.8,1.2,0,,0,C,3.0,0,MTL,/players/r/reaybi01.html,0,20,0,0,Billy Reay,,1952,41,0,68,0
+17,0,23,23,,3.6,1.2,0,,0,LW,4.8,0,MTL,/players/g/gambldi01.html,0,8,0,0,Dick Gamble,,1952,40,0,64,0
+18,0,20,26,,3.1,1.2,0,,0,RW,4.2,0,MTL,/players/c/curryfl01.html,0,10,0,0,Floyd Curry,,1952,38,0,64,0
+28,0,7,25,,1.1,1.3,0,,0,LW,2.4,0,MTL,/players/o/olmstbe01.html,0,49,0,0,Bert Olmstead,,1952,35,0,69,0
+15,0,18,21,,3.9,0.6,0,,0,LW,4.5,0,MTL,/players/m/mooredi01.html,0,44,0,0,Dickie Moore,,1952,33,0,33,0
+23,0,6,27,,2.5,4.9,0,,0,D,7.5,0,MTL,/players/h/harvedo01.html,0,82,0,0,Doug Harvey,,1952,29,0,68,0
+11,0,5,29,,0.1,0.8,0,,0,C,0.9,0,MTL,/players/m/mosdeke01.html,0,19,0,0,Ken Mosdell,,1952,16,0,44,0
+10,0,3,22,,1.0,2.9,0,,0,D,3.9,0,MTL,/players/s/stlaudo01.html,0,30,0,0,Dollard St. Laurent,,1952,13,0,40,0
+9,0,3,32,,0.5,4.4,0,,0,D,4.9,0,MTL,/players/b/bouchbu01.html,0,45,0,0,Butch Bouchard,,1952,12,0,60,0
+10,0,2,26,,-1.2,1.0,0,,0,C,-0.2,0,MTL,/players/m/mccorjo01.html,0,4,0,0,John McCormack,,1952,12,0,54,0
+7,0,0,23,,-0.5,4.9,0,,0,D,4.4,0,MTL,/players/j/johnsto01.html,0,76,0,0,Tom Johnson,,1952,7,0,67,0
+5,0,1,23,,0.2,2.3,0,,0,D,2.4,0,MTL,/players/l/lowero01.html,0,42,0,0,Ross Lowe,,1952,6,0,31,0
+1,0,2,24,,-0.5,3.9,0,,0,D,3.5,0,MTL,/players/m/macphbu01.html,0,24,0,0,Bud MacPherson,,1952,3,0,54,0
+2,0,1,20,,-0.3,0.3,0,,0,C,0.0,0,MTL,/players/m/masnipa01.html,0,2,0,0,Paul Masnick,,1952,3,0,15,0
+1,0,1,21,,0.2,0.1,0,,0,RW,0.2,0,MTL,/players/d/davislo01.html,0,2,0,0,Lorne Davis,,1952,2,0,3,0
+1,0,0,26,,-0.4,0.2,0,,0,RW,-0.2,0,MTL,/players/c/coutuge01.html,0,4,0,0,Gerry Couture,,1952,1,0,10,0
+1,0,0,25,,-0.5,0.2,0,,0,LW,-0.3,0,MTL,/players/m/mackaca01.html,0,8,0,0,Calum MacKay,,1952,1,0,12,0
+0,0,0,19,,-0.1,0.0,0,,0,C,0.0,0,MTL,/players/a/achtyge01.html,0,0,0,0,Gene Achtymichuk,,1952,0,0,1,0
+0,0,0,19,,-0.1,0.0,0,,0,LW,0.0,0,MTL,/players/e/edmunga01.html,0,2,0,0,Garry Edmundson,,1952,0,0,1,0
+0,0,0,23,,-0.2,0.1,0,,0,RW,-0.1,0,MTL,/players/f/frydabo01.html,0,0,0,0,Bob Fryday,,1952,0,0,3,0
+0,0,0,26,,-0.2,0.1,0,,0,RW,-0.1,0,MTL,/players/m/maloncl01.html,0,0,0,0,Cliff Malone,,1952,0,0,3,0
+0,0,0,19,,-0.1,0.0,0,,0,C,0.0,0,MTL,/players/m/marshdo01.html,0,0,0,0,Don Marshall,,1952,0,0,1,0
+0,0,0,25,,0.0,0.0,0,,0,G,13.6,0,MTL,/players/m/mcneige01.html,0,0,0,0,Gerry McNeil,,1952,0,0,70,0

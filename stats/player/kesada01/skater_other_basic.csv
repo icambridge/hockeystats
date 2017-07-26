@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1988-89,17,21,71,21,0,BCJHL,44,Richmond Sockeyes,42
+1989-90,18,39,103,38,0,BCJHL,54,Richmond Sockeyes,77
+1990-91,19,30,116,23,0,WHL,69,Prince Albert Raiders,53
+1991-92,20,46,201,51,0,WHL,62,Prince Albert Raiders,97
+1992-93,21,16,76,24,0,AHL,62,Hamilton Canucks,40
+1993-94,22,37,33,33,0,AHL,53,Hamilton Canucks,70
+1994-95,23,34,81,44,0,AHL,70,Syracuse Crunch,78
+1995-96,24,10,13,5,0,AHL,22,Springfield Falcons,15
+1995-96,24,13,55,17,0,IHL,42,2 Teams,30
+1995-96,24,4,33,11,0,IHL,15,Michigan K-Wings,15
+1995-96,24,9,22,6,0,IHL,27,Detroit Vipers,15
+1996-97,25,22,19,21,0,IHL,60,Detroit Vipers,43
+1997-98,26,40,40,37,18,IHL,76,Detroit Vipers,77
+1998-99,27,3,12,5,2,IHL,8,Detroit Vipers,8
+1999-00,28,3,2,0,-4,IHL,6,2 Teams,3
+1999-00,28,0,0,0,0,IHL,1,Manitoba Moose,0
+1999-00,28,3,2,0,-4,IHL,5,Detroit Vipers,3
+2000-01,29,16,48,31,-10,IHL,79,Manitoba Moose,47
+2001-02,30,0,4,1,0,Russia,9,Avangard Omsk,1
+2002-03,31,4,12,16,0,Austria,27,Vienna Capitals,20

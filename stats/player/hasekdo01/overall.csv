@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1965-01-29,", ",G,Dominik Hasek,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",G,1965-01-29,Dominik Hasek

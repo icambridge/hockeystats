@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1932-02-20,", ",C,Gord Haworth,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",C,1932-02-20,Gord Haworth

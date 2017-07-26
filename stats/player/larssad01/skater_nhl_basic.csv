@@ -1,0 +1,7 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+44,NHL,65,0,19,0,153,68,18,94,4,1340,NJD,12,0,"[{'link': '/awards/voting-2012.html#calder', 'name': 'Calder-12'}]",2.9,2,16,-7,2,0,0,2011-12,67,20:37,0,20,1,11
+22,NHL,37,0,20,0,68,30,6,37,0,670,NJD,17,0,[],0.0,0,6,4,0,0,0,2012-13,49,18:06,0,12,0,6
+10,NHL,26,1,21,0,54,20,3,41,0,462,NJD,4,0,[],5.0,1,2,-1,1,0,0,2013-14,37,17:47,0,12,0,2
+30,NHL,64,1,22,0,181,91,24,93,0,1342,NJD,21,0,[],3.3,3,21,2,3,0,0,2014-15,124,20:58,0,34,3,18
+27,NHL,82,1,23,0,154,65,18,163,0,1846,NJD,22,0,[],4.6,3,15,15,3,0,0,2015-16,148,22:31,0,77,1,14
+71,NHL,79,0,24,0,203,85,19,253,0,1592,EDM,28,0,[],4.7,4,15,21,4,0,0,2016-17,160,20:09,0,55,0,15

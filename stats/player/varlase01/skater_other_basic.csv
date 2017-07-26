@@ -1,0 +1,32 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,16,11,56,15,0,RMJHL,26,Nelson Maple Leafs,26
+1995-96,17,23,65,21,0,WHL,55,Swift Current Broncos,44
+1996-97,18,46,94,39,0,WHL,72,Swift Current Broncos,85
+1996-97,18,0,0,0,0,AHL,1,Saint John Flames,0
+1997-98,19,66,132,53,0,WHL,72,Swift Current Broncos,119
+1998-99,20,24,66,33,-8,AHL,76,Saint John Flames,57
+1999-00,21,20,88,21,-18,AHL,68,Saint John Flames,41
+1999-00,21,0,42,5,2,WC-A,6,Ukraine,5
+2000-01,22,21,56,30,23,AHL,55,Saint John Flames,51
+2001-02,23,1,14,0,0,Olympics,2,Ukraine,1
+2002-03,24,23,79,38,15,AHL,72,Worcester IceCats,61
+2002-03,24,0,12,1,-4,WC-A,5,Ukraine,1
+2003-04,25,0,18,1,-1,WC-A,6,Ukraine,1
+2003-04,25,11,28,18,-5,AHL,55,2 Teams,29
+2003-04,25,7,18,16,-2,AHL,43,Worcester IceCats,23
+2003-04,25,4,10,2,-3,AHL,12,Manitoba Moose,6
+2004-05,26,2,0,0,-3,WC-A,6,Ukraine,2
+2004-05,26,2,57,2,0,Russia,29,2 Teams,4
+2004-05,26,0,2,0,0,Russia,2,Ak Bars Kazan,0
+2004-05,26,2,55,2,0,Russia,27,Sibir Novosibirsk,4
+2005-06,27,8,52,7,0,Russia,43,Sibir Novosibirsk,15
+2006-07,28,13,70,10,0,Russia,48,Sibir Novosibirsk,23
+2007-08,29,19,54,11,0,Russia,55,Sibir Novosibirsk,30
+2007-08,29,1,70,4,4,WC-B,5,Ukraine,5
+2008-09,30,3,6,0,-1,Oly-Q,3,Ukraine,3
+2008-09,30,2,35,2,2,WC-B,5,Ukraine,4
+2008-09,30,2,10,4,0,KHL,25,2 Teams,6
+2008-09,30,1,8,3,0,KHL,20,Severstal Cherepovets,4
+2008-09,30,1,2,1,0,KHL,5,SKA St. Petersburg,2
+2009-10,31,7,4,3,0,KHL,23,Dynamo Minsk,10
+2010-11,32,8,12,9,0,KHL,37,Dynamo Minsk,17

@@ -1,0 +1,17 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2001-02,17,10,40,11,0,OHL,51,Plymouth Whalers,21
+2002-03,18,11,49,7,0,OHL,61,Plymouth Whalers,18
+2003-04,19,10,68,20,0,OHL,57,Plymouth Whalers,30
+2004-05,20,14,93,18,0,OHL,67,Plymouth Whalers,32
+2004-05,20,2,12,1,0,AHL,9,Bridgeport Sound Tigers,3
+2005-06,21,21,127,23,9,ECHL,72,Greenville Grrrowl,44
+2006-07,22,0,6,0,-3,AHL,4,Wilkes-Barre Penguins,0
+2006-07,22,13,132,13,-14,ECHL,66,Stockton Thunder,26
+2007-08,23,7,175,10,-25,AHL,77,Springfield Falcons,17
+2008-09,24,5,77,3,-14,AHL,51,Springfield Falcons,8
+2009-10,25,18,38,17,1,AHL,66,Lowell Devils,35
+2010-11,26,5,28,8,7,AHL,23,Albany Devils,13
+2011-12,27,9,127,10,0,AHL,45,Albany Devils,19
+2012-13,28,7,106,16,-7,AHL,67,Albany Devils,23
+2013-14,29,13,79,14,-1,AHL,51,Albany Devils,27
+2014-15,30,10,79,15,-10,AHL,58,Albany Devils,25

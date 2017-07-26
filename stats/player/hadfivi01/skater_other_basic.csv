@@ -1,7 +1,7 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-72,1958-59,St. Catharines Teepees,14,0,18,51,20,6,OHA-Jr.
-130,1959-60,St. Catharines Teepees,34,0,19,48,53,19,OHA-Jr.
-0,1959-60,Buffalo Bisons,0,0,19,1,0,0,AHL
-111,1960-61,Buffalo Bisons,16,0,20,62,21,5,AHL
-84,1962-63,Baltimore Clippers,9,0,22,29,19,10,AHL
-0,1972-73,Canada,0,0,32,2,0,0,Summit-72
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+14,St. Catharines Teepees,6,1958-59,51,20,72,18,0,OHA-Jr.
+34,St. Catharines Teepees,19,1959-60,48,53,130,19,0,OHA-Jr.
+0,Buffalo Bisons,0,1959-60,1,0,0,19,0,AHL
+16,Buffalo Bisons,5,1960-61,62,21,111,20,0,AHL
+9,Baltimore Clippers,10,1962-63,29,19,84,22,0,AHL
+0,Canada,0,1972-73,2,0,0,32,0,Summit-72

@@ -1,0 +1,22 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1982-83,17,3,94,18,0,ON-Jr.A,31,North York Rangers,21
+1983-84,18,44,94,41,0,ON-Jr.A,40,North York Rangers,85
+1984-85,19,5,18,6,0,CCHA,12,Ohio State University,11
+1985-86,20,32,65,25,0,CCHA,41,Ohio State University,57
+1986-87,21,38,139,32,0,CCHA,43,Ohio State University,70
+1987-88,22,18,127,15,0,AHL,58,Utica Devils,33
+1988-89,23,23,225,25,0,AHL,69,Utica Devils,48
+1989-90,24,43,233,26,0,AHL,74,Utica Devils,69
+1990-91,25,42,151,35,0,AHL,54,Utica Devils,77
+1991-92,26,32,167,20,0,IHL,62,Kansas City Blades,52
+1992-93,27,49,228,23,0,IHL,81,2 Teams,72
+1992-93,27,36,175,17,0,IHL,58,Cincinnati Cyclones,53
+1992-93,27,13,53,6,0,IHL,23,Milwaukee Admirals,19
+1993-94,28,42,186,44,0,IHL,80,Atlanta Knights,86
+1994-95,29,35,207,30,0,IHL,73,Denver Grizzlies,65
+1995-96,30,33,242,29,0,IHL,68,2 Teams,62
+1995-96,30,16,73,13,0,IHL,27,San Francisco Spiders,29
+1995-96,30,17,169,16,0,IHL,41,Kansas City Blades,33
+1996-97,31,23,64,20,0,IHL,68,2 Teams,43
+1996-97,31,18,42,18,0,IHL,59,Kansas City Blades,36
+1996-97,31,5,22,2,0,IHL,9,Phoenix Roadrunners,7

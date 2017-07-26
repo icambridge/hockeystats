@@ -1,0 +1,13 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,5,0,21,2,0,0,,PHI,[],0.0,0,0,-2,0,0,1973-74,,0,0,0,0
+NHL,0,1,22,160,43,3,,CGS,[],11.3,16,25,-23,18,0,1974-75,,2,55,0,22
+NHL,0,5,23,177,63,8,,CGS,[],18.1,20,31,-9,32,4,1975-76,,8,49,3,20
+NHL,0,3,24,194,63,6,,CLE,[],11.3,16,41,-2,22,0,1976-77,,6,68,0,35
+NHL,80,1,25,149,48,6,,CLE,[],10.7,13,32,-19,16,0,1977-78,,3,42,1,25
+NHL,69,4,26,135,58,8,,MNS,[],17.8,18,34,0,24,0,1978-79,,6,30,0,26
+NHL,80,2,27,170,93,16,,MNS,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-7'}, {'link': '/awards/voting-1980.html#AS', 'name': 'AS-5'}, {'link': '/awards/masterton.html#1980', 'name': None}]",24.7,29,51,36,42,0,1979-80,,13,24,0,35
+NHL,78,7,28,145,60,22,,MNS,"[{'link': '/awards/voting-1981.html#selke', 'name': 'Selke-24'}]",14.5,15,39,-6,21,0,1980-81,,6,94,0,17
+NHL,79,4,29,141,61,6,,MNS,"[{'link': '/awards/voting-1982.html#selke', 'name': 'Selke-21'}]",12.8,11,43,9,18,2,1981-82,,5,37,0,37
+NHL,73,2,30,93,33,1,,MNS,[],11.8,8,22,3,11,3,1982-83,,0,60,2,19
+NHL,0,1,31,104,35,0,,MNS,"[{'link': '/awards/voting-1984.html#selke', 'name': 'Selke-14'}]",21.2,17,13,-5,22,4,1983-84,,1,23,1,12
+NHL,0,2,32,80,34,1,,VAN,[],17.5,12,20,-29,14,2,1984-85,,0,27,0,19

@@ -1,0 +1,4 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+3.0,6,NHL,25,NSH,1370,22,10,114,0,64,22,-7.99,4,2,8,0,.500,0,11,.902,2013-14,650,2.80,0,[],586
+0.3,0,NHL,2,NSH,106,23,1,0,0,4,1,0,0,0,0,0,1.000,0,1,.915,2014-15,47,2.26,0,[],43
+-0.2,2,NHL,4,NSH,178,25,2,0,1,14,2,0,0,0,0,1,.000,0,0,.839,2016-17,87,4.72,0,[],73

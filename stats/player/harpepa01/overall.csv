@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1998-07-29,", ",C,Patrick Harper,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",C,1998-07-29,Patrick Harper

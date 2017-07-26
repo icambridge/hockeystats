@@ -1,0 +1,33 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1978-79,15,1,2,2,0,EJC-A,3,Czechoslovakia,3
+1979-80,16,1,0,1,0,Czech,9,CHZ Litvinov,2
+1980-81,17,12,10,13,0,Czech,41,CHZ Litvinov,25
+1980-81,17,5,2,0,0,WJC-A,5,Czechoslovakia,5
+1980-81,17,8,18,8,0,EJC-A,5,Czechoslovakia,16
+1981-82,18,27,50,22,0,Czech,44,CHZ Litvinov,49
+1981-82,18,8,6,1,0,WJC-A,7,Czechoslovakia,9
+1982-83,19,22,40,24,0,Czech,43,CHZ Litvinov,46
+1982-83,19,12,6,8,0,WJC-A,7,Czechoslovakia,20
+1982-83,19,3,4,1,0,WEC-A,10,Czechoslovakia,4
+1983-84,20,31,50,23,0,Czech,44,CHZ Litvinov,54
+1983-84,20,4,0,6,0,Olympics,7,Czechoslovakia,10
+1984-85,21,0,2,0,0,Can-Cup,5,Czechoslovakia,0
+1984-85,21,38,29,22,0,Czech,41,CHZ Litvinov,60
+1984-85,21,8,0,3,0,WEC-A,10,Czechoslovakia,11
+1985-86,22,41,0,32,0,Czech,43,CHZ Litvinov,73
+1985-86,22,4,6,11,0,WEC-A,10,Czechoslovakia,15
+1986-87,23,29,46,21,0,Czech,39,CHZ Litvinov,50
+1986-87,23,3,10,3,0,WEC-A,10,Czechoslovakia,6
+1987-88,24,2,0,0,0,Can-Cup,6,Czechoslovakia,2
+1987-88,24,38,70,27,0,Czech,44,Dukla Trencin,65
+1987-88,24,4,12,3,0,Olympics,8,Czechoslovakia,7
+1988-89,25,46,42,38,0,Czech,45,Dukla Trencin,84
+1988-89,25,7,2,7,0,WEC-A,10,Czechoslovakia,14
+1989-90,26,21,0,23,0,Czech,32,CHZ Litvinov,44
+1994-95,31,27,0,24,0,CzRep,41,HC Slavia Praha,51
+1995-96,32,21,0,44,0,CzRep,37,HC Slavia Praha,65
+1996-97,33,22,40,32,0,CzRep,44,HC Slavia Praha,54
+1997-98,34,20,60,40,0,CzRep,49,HC Slavia Praha,60
+1997-98,34,3,0,0,0,Olympics,6,Czech Republic,3
+1998-99,35,25,67,31,0,CzRep,50,HC Slavia Praha,56
+1999-00,36,5,16,8,0,CzRep,21,HC Slavia Praha,13

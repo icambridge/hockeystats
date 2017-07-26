@@ -1,7 +1,7 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1975-76,London Knights,2,0,19,5,4,2,OMJHL
-16,1976-77,London Knights,5,0,20,19,11,6,OMJHL
-2,1978-79,Binghamton Dusters,3,-1,22,6,5,2,AHL
-4,1979-80,Syracuse Firebirds,1,0,23,4,1,0,AHL
-0,1983-84,Baltimore Skipjacks,6,0,27,9,12,6,AHL
-0,1984-85,Zurcher SC,1,0,28,1,1,0,Swiss-2
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+2,London Knights,2,1975-76,5,4,0,19,0,OMJHL
+5,London Knights,6,1976-77,19,11,16,20,0,OMJHL
+3,Binghamton Dusters,2,1978-79,6,5,2,22,-1,AHL
+1,Syracuse Firebirds,0,1979-80,4,1,4,23,0,AHL
+6,Baltimore Skipjacks,6,1983-84,9,12,0,27,0,AHL
+1,Zurcher SC,0,1984-85,1,1,0,28,0,Swiss-2

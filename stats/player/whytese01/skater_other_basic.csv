@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1985-86,15,23,45,15,0,ON-Jr.A,34,Gloucester Rangers,38
+1986-87,16,0,6,7,0,ON-Jr.B,4,Guelph Jr. B\'s,7
+1986-87,16,1,13,3,0,OHL,41,Guelph Platers,4
+1987-88,17,6,71,22,0,OHL,62,Guelph Platers,28
+1988-89,18,20,57,44,0,OHL,53,Guelph Platers,64
+1989-90,19,23,90,30,0,OHL,54,Owen Sound Platers,53
+1990-91,20,18,61,17,0,IHL,60,Phoenix Roadrunners,35
+1991-92,21,24,113,30,0,IHL,72,Phoenix Roadrunners,54
+1992-93,22,11,65,35,0,IHL,51,Phoenix Roadrunners,46
+1993-94,23,42,93,29,0,CHL,50,Tulsa Oilers,71
+1993-94,23,6,16,9,0,AHL,18,Cornwall Aces,15
+1994-95,24,13,76,8,0,AHL,59,Worcester IceCats,21
+1995-96,25,15,94,37,0,CHL,51,Fort Worth Fire,52
+1995-96,25,0,4,2,0,IHL,11,Phoenix Roadrunners,2
+1996-97,26,21,105,39,0,WPHL,60,El Paso Buzzards,60
+1997-98,27,19,93,23,11,WCHL,53,Phoenix Mustangs,42
+1998-99,28,16,80,34,2,WCHL,65,Phoenix Mustangs,50
+1999-00,29,28,50,28,2,WCHL,60,Phoenix Mustangs,56
+2000-01,30,9,80,14,0,WCHL,34,Phoenix Mustangs,23

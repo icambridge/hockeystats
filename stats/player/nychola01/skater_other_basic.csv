@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1995-96,16,10,66,36,0,SMHL,42,Notre Dame Midget Hounds,46
+1996-97,17,8,64,13,22,WHL,67,Swift Current Broncos,21
+1997-98,18,13,108,35,13,WHL,71,Swift Current Broncos,48
+1998-99,19,16,122,44,9,WHL,72,Swift Current Broncos,60
+1999-00,20,22,92,58,20,WHL,70,Swift Current Broncos,80
+2000-01,21,1,5,2,1,ECHL,5,Jackson Bandits,3
+2000-01,21,3,69,7,14,IHL,42,Cleveland Lumberjacks,10
+2001-02,22,3,92,11,12,AHL,72,Houston Aeros,14
+2002-03,23,13,161,37,6,AHL,81,2 Teams,50
+2002-03,23,11,155,28,0,AHL,66,Houston Aeros,39
+2002-03,23,2,6,9,6,AHL,15,Hartford Wolf Pack,11
+2003-04,24,6,130,26,18,AHL,72,Hartford Wolf Pack,32
+2004-05,25,5,132,38,12,AHL,79,Hartford Wolf Pack,43
+2005-06,26,13,94,44,5,AHL,73,Hershey Bears,57
+2006-07,27,3,39,25,14,AHL,29,Hershey Bears,28
+2007-08,28,12,74,37,-1,AHL,77,Binghamton Senators,49
+2008-09,29,0,4,3,-2,AHL,3,Manitoba Moose,3
+2009-10,30,5,49,17,-2,AHL,37,Manitoba Moose,22
+2010-11,31,5,21,23,15,AHL,32,Hershey Bears,28
+2011-12,32,1,42,5,0,Germany,23,Krefeld Pinguine,6

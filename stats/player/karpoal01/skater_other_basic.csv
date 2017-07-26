@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1987-88,17,0,0,1,0,USSR,2,Dynamo Moscow,1
+1987-88,17,0,4,2,0,EJC-A,6,Soviet Union,2
+1989-90,19,1,27,1,0,USSR,35,Dynamo Moscow,2
+1989-90,19,0,8,1,0,WJC-A,7,Soviet Union,1
+1990-91,20,0,15,5,0,USSR,40,Dynamo Moscow,5
+1990-91,20,0,0,0,0,USSR-3,6,Dynamo Moscow 2,0
+1990-91,20,0,2,0,0,Fr-Tour,1,Dynamo Moscow,0
+1990-91,20,0,6,0,0,Super-S,7,Dynamo Moscow,0
+1991-92,21,4,26,2,0,CIS,35,Dynamo Moscow,6
+1991-92,21,0,4,1,0,CIS-3,3,Dynamo Moscow 2,1
+1992-93,22,3,100,11,0,CIS,36,Dynamo Moscow,14
+1992-93,22,0,10,1,0,WC-A,8,Russia,1
+1993-94,23,0,6,0,0,CIS,3,Dynamo Moscow,0
+1994-95,24,0,10,2,0,CIS,13,Dynamo Moscow,2
+1996-97,26,0,0,0,0,W-Cup,1,Russia,0
+2000-01,30,0,0,1,0,Russia,5,Dynamo Moscow,1
+2004-05,34,0,0,2,0,Russia-3,2,Lokomotiv Yaroslavl 2,2
+2004-05,34,0,2,1,0,WC-A,8,Russia,1
+2004-05,34,2,61,6,0,Russia,38,2 Teams,8
+2004-05,34,0,16,1,0,Russia,5,Sibir Novosibirsk,1
+2004-05,34,2,45,5,0,Russia,33,Lokomotiv Yaroslavl,7
+2005-06,35,2,39,1,0,Russia,18,Sibir Novosibirsk,3
+2006-07,36,5,90,12,0,Russia,39,Sibir Novosibirsk,17
+2007-08,37,1,37,2,0,Russia,14,2 Teams,3
+2007-08,37,0,27,2,0,Russia,6,Sibir Novosibirsk,2
+2007-08,37,1,10,0,0,Russia,8,Avangard Omsk,1

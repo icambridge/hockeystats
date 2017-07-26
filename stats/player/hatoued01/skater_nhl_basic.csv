@@ -1,6 +1,6 @@
-average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
-,3,1,0,NHL,21,1,2,1,20,2,0,0,0,1968-69,DET,2,1,[],10.0,,16
-,2,0,0,NHL,22,2,2,1,1,0,0,0,0,1969-70,DET,0,2,[],0.0,,5
-,4,0,1,NHL,23,1,21,-14,27,0,0,0,2,1970-71,VAN,1,3,[],3.7,,26
-,2,0,0,WHA,25,0,2,0,0,1,0,0,0,1972-73,CHC,1,1,[],0,,15
-,15,0,0,WHA,26,0,8,0,0,3,0,0,0,1973-74,VNB,3,12,[],0,,37
+shotsPercentage,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,age,game_winning_goals,league,shorthanded_goals,average_ice_time,games_played,points,awards,power_play_goals
+10.0,1968-69,2,1,,0,20,0,2,1,1,DET,2,21,1,NHL,0,,16,3,[],0
+0.0,1969-70,2,2,,0,1,0,0,1,2,DET,0,22,0,NHL,0,,5,2,[],0
+3.7,1970-71,21,1,,0,27,2,0,-14,3,VAN,1,23,0,NHL,1,,26,4,[],0
+0,1972-73,2,0,,0,0,0,1,0,1,CHC,1,25,0,WHA,0,,15,2,[],0
+0,1973-74,8,0,,0,0,0,3,0,12,VNB,3,26,0,WHA,0,,37,15,[],0

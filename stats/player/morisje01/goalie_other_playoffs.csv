@@ -1,0 +1,12 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,NSSHL,9,Amherst Ramblers,540,24,1,0,0,26,0,0,0,2,8,0,0,0,0,0,1961-62,0,2.89,0,0
+0,Al-Cup,8,Amherst Ramblers,491,24,3,0,0,29,0,0,0,0,5,0,0,0,0,0,1961-62,0,3.54,0,0
+0,NSSHL,11,Moncton Hawks,660,25,3,0,0,31,0,0,0,0,8,0,0,0,0,0,1962-63,0,2.82,0,0
+0,Al-Cup,15,Moncton Hawks,910,25,5,0,0,51,0,0,0,0,10,0,0,0,0,0,1962-63,0,3.36,0,0
+0,AHL,9,Cleveland Barons,540,26,0,0,0,17,0,0,0,0,9,0,0,0,0,0,1963-64,0,1.89,0,0
+0,WHL,2,Victoria Maple Leafs,125,27,1,0,0,6,0,0,0,0,1,0,0,0,0,0,1964-65,0,2.88,0,0
+0,AHL,1,Cleveland Barons,24,28,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1965-66,0,2.50,0,0
+0,Nfld-Sr.,19,Grand Falls Cataracts,1140,33,6,0,0,47,0,0,0,2,13,0,0,0,0,0,1970-71,0,2.47,0,0
+0,Al-Cup,5,Grand Falls Cataracts,380,33,3,0,0,19,0,0,0,0,2,0,0,0,0,0,1970-71,0,3.00,0,0
+0,Nfld-Sr.,11,Grand Falls Flyers,660,34,0,0,0,22,0,0,0,2,11,0,0,0,0,0,1971-72,0,2.00,0,0
+0,Al-Cup,3,Grand Falls Cataracts,164,34,3,0,0,15,0,0,0,0,0,0,0,0,0,0,1971-72,0,5.49,0,0

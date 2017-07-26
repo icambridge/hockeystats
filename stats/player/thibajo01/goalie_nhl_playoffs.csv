@@ -1,0 +1,7 @@
+won,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+,0,NHL,3,QUE,148,20,2,0,0,8,0,0,0,0,1,0,0,0,0,.895,1994-95,76,3.24,0,68
+,0,NHL,6,MTL,311,21,4,103,0,18,0,-0.57,0,0,2,0,0,0,0,.904,1995-96,188,3.47,0,170
+,0,NHL,3,MTL,179,22,3,159,0,13,0,-4.81,0,0,0,0,0,0,0,.871,1996-97,101,4.36,0,88
+,0,NHL,2,MTL,43,23,0,0,1,4,0,0,0,0,0,1,0,0,0,.750,1997-98,16,5.58,0,12
+,0,NHL,3,CHI,159,27,2,0,0,7,0,0,0,0,1,0,0,0,0,.909,2001-02,77,2.64,0,70
+,0,NHL,1,PIT,8,32,0,0,0,0,0,0,0,0,0,0,0,0,0,1.000,2006-07,1,0.00,0,1

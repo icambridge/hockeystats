@@ -1,0 +1,42 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1975-76,16,10,41,3,0,Fin-Jr.,29,Assat Pori Jr.,13
+1975-76,16,0,0,0,0,Finland,27,Assat Pori,0
+1976-77,17,3,16,1,0,Fin-Jr.,4,Assat Pori Jr.,4
+1976-77,17,9,8,5,0,Finland,34,Assat Pori,14
+1976-77,17,4,4,2,0,WJC-A,7,Finland,6
+1977-78,18,13,12,7,0,Fin-Jr.,13,Assat Pori Jr.,20
+1977-78,18,8,0,8,0,Finland,35,Assat Pori,16
+1977-78,18,1,6,7,0,WJC-A,6,Finland,8
+1978-79,19,31,36,18,0,Finland,36,Assat Pori,49
+1978-79,19,1,7,0,0,Fin-Jr.,1,Assat Pori Jr.,1
+1978-79,19,1,0,0,0,Nat-Tm,1,Finland,1
+1978-79,19,2,0,3,0,WJC-A,6,Finland,5
+1979-80,20,28,48,29,0,Finland,36,Assat Pori,57
+1979-80,20,1,6,1,0,Fin-Jr.,1,Assat Pori Jr.,2
+1979-80,20,1,0,0,0,Nat-Tm,5,Finland,1
+1980-81,21,37,40,27,0,Finland,36,Assat Pori,64
+1980-81,21,0,0,0,0,Nat-Tm,6,Finland,0
+1981-82,22,1,2,0,0,Can-Cup,5,Finland,1
+1981-82,22,29,50,27,0,Finland,36,Assat Pori,56
+1981-82,22,5,8,0,0,Nat-Tm,10,Finland,5
+1981-82,22,2,4,1,0,WEC-A,5,Finland,3
+1982-83,23,28,56,23,0,Finland,36,Assat Pori,51
+1982-83,23,4,24,2,0,Nat-Tm,13,Finland,6
+1982-83,23,1,8,2,0,WEC-A,10,Finland,3
+1983-84,24,4,12,1,0,Nat-Tm,13,Finland,5
+1983-84,24,2,4,3,0,Olympics,5,Finland,5
+1983-84,24,40,70,30,0,Finland,43,2 Teams,70
+1983-84,24,3,4,5,0,Finland,6,Olympia,8
+1983-84,24,37,66,25,0,Finland,37,Assat Pori,62
+1984-85,25,26,15,29,0,AHL,59,Baltimore Skipjacks,55
+1985-86,26,44,26,27,0,Finland,36,Assat Pori,71
+1985-86,26,1,2,2,0,Nat-Tm,9,Finland,3
+1986-87,27,37,80,24,0,Finland,44,Assat Pori,61
+1987-88,28,47,42,20,0,Finland,44,TPS Turku,67
+1988-89,29,32,38,23,0,Finland,44,TPS Turku,55
+1989-90,30,59,30,39,0,Finland-2,36,Assat Pori,98
+1990-91,31,35,38,18,0,Finland,44,Assat Pori,53
+1991-92,32,20,22,14,0,Finland,44,Assat Pori,34
+1992-93,33,17,26,17,0,Finland,45,Assat Pori,34
+1993-94,34,22,46,19,0,Finland,48,Assat Pori,41
+1994-95,35,33,6,18,0,Denmark,23,Rungsted IK,51

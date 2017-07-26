@@ -1,0 +1,12 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+0,NHL,78,6,20,0,0,242,85,0,24,1494,PIT,0,0,"[{'link': '/awards/voting-2007.html#AS', 'name': 'AS-10'}, {'link': '/awards/voting-2007.html#AS', 'name': 'AS-6'}, {'link': '/awards/calder.html#2007', 'name': None}]",13.6,17,52,2,33,0,0,2006-07,0,19:10,16,80,0,28
+76,NHL,82,5,21,540,455,272,106,49,23,1748,PIT,69,39.3,"[{'link': '/awards/nhl_all_star.html#2008', 'name': None}, {'link': '/awards/voting-2008.html#hart', 'name': 'Hart-2'}]",17.3,30,59,16,47,350,0,2007-08,40,21:19,17,78,0,36
+81,NHL,82,4,22,385,531,290,0,80,27,1846,PIT,94,42.4,"[{'link': '/awards/nhl_all_star.html#2009', 'name': None}, {'link': '/awards/voting-2009.html#AS', 'name': 'AS-9'}, {'link': '/awards/voting-2009.html#hart', 'name': 'Hart-2'}, {'link': '/awards/ross.html#2009', 'name': None}, {'link': '/awards/voting-2009.html#selke', 'name': 'Selke-46'}, {'link': '/awards/smythe.html#2009', 'name': None}]",12.1,19,0,17,35,283,2,2008-09,39,22:31,14,80,0,51
+49,NHL,67,7,23,295,460,268,77,58,15,1397,PIT,56,40.3,"[{'link': '/awards/voting-2010.html#AS', 'name': 'AS-13'}]",10.4,13,49,-6,28,199,2,2009-10,25,20:51,13,100,1,33
+40,NHL,43,3,24,123,321,182,37,32,9,852,PIT,29,38.5,[],8.2,10,22,-4,15,77,0,2010-11,11,19:49,5,18,0,13
+73,NHL,75,9,25,635,583,0,0,29,22,1577,PIT,52,47.5,"[{'link': '/awards/nhl_all_star.html#2012', 'name': None}, {'link': '/awards/hart.html#2012', 'name': None}, {'link': '/awards/pearson.html#2012', 'name': None}, {'link': '/awards/ross.html#2012', 'name': None}]",14.7,38,59,18,50,575,0,2011-12,41,21:01,12,70,0,37
+21,NHL,31,3,26,218,193,99,33,12,14,611,PIT,23,47.2,[],9.1,5,24,5,9,195,0,2012-13,11,19:42,4,36,0,10
+58,NHL,60,3,27,318,340,191,72,27,23,1204,PIT,37,48.8,[],12.0,16,49,10,23,303,0,2013-14,18,20:04,7,62,0,26
+53,NHL,69,4,28,427,387,212,70,24,17,1309,PIT,45,43.0,[],13.2,19,42,-2,28,322,0,2014-15,18,18:58,9,60,0,25
+52,NHL,57,6,29,438,285,162,58,27,16,1104,PIT,54,42.0,[],16.7,16,31,1,27,317,0,2015-16,19,19:22,11,65,0,15
+54,NHL,62,6,30,481,313,191,72,40,12,1154,PIT,52,43.1,"[{'link': '/awards/voting-2017.html#AS', 'name': 'AS-6'}]",17.3,22,39,18,33,365,0,2016-17,25,18:37,11,77,0,27

@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1979-01-23,D,", ",L,Scott Hannan
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",D,1979-01-23,Scott Hannan

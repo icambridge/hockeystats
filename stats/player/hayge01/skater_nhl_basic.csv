@@ -1,7 +1,7 @@
-average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
-,22,0,0,NHL,29,0,12,0,0,0,0,0,0,1926-27,CBH,14,8,[],0,,35
-,35,0,0,NHL,30,0,20,0,0,0,0,0,0,1927-28,DTC,22,13,"[{'link': '/awards/voting-1928.html#byng', 'name': 'Byng-2'}, {'link': '/awards/voting-1928.html#hart', 'name': 'Hart-4'}]",0,,42
-,19,0,0,NHL,31,0,14,0,0,0,0,0,0,1928-29,DTC,11,8,"[{'link': '/awards/voting-1929.html#byng', 'name': 'Byng-3'}]",0,,39
-,33,0,0,NHL,32,0,8,0,0,0,0,0,0,1929-30,DTC,18,15,"[{'link': '/awards/voting-1930.html#byng', 'name': 'Byng-5'}]",0,,0
-,18,0,0,NHL,33,0,24,0,0,0,0,0,0,1930-31,DTF,8,10,[],0,,0
-,7,0,0,NHL,35,0,6,0,0,0,0,0,0,1932-33,DET,1,6,[],0,,34
+shotsPercentage,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,age,game_winning_goals,league,shorthanded_goals,average_ice_time,games_played,points,awards,power_play_goals
+0,1926-27,12,0,,0,0,0,0,0,8,CBH,14,29,0,NHL,0,,35,22,[],0
+0,1927-28,20,0,,0,0,0,0,0,13,DTC,22,30,0,NHL,0,,42,35,"[{'link': '/awards/voting-1928.html#byng', 'name': 'Byng-2'}, {'link': '/awards/voting-1928.html#hart', 'name': 'Hart-4'}]",0
+0,1928-29,14,0,,0,0,0,0,0,8,DTC,11,31,0,NHL,0,,39,19,"[{'link': '/awards/voting-1929.html#byng', 'name': 'Byng-3'}]",0
+0,1929-30,8,0,,0,0,0,0,0,15,DTC,18,32,0,NHL,0,,0,33,"[{'link': '/awards/voting-1930.html#byng', 'name': 'Byng-5'}]",0
+0,1930-31,24,0,,0,0,0,0,0,10,DTF,8,33,0,NHL,0,,0,18,[],0
+0,1932-33,6,0,,0,0,0,0,0,6,DET,1,35,0,NHL,0,,34,7,[],0

@@ -1,0 +1,12 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1980-81,16,17,143,34,0,BCJHL,43,Kelowna Buckaroos,51
+1981-82,17,32,194,34,0,BCJHL,43,Kelowna Buckaroos,66
+1982-83,18,8,128,18,0,WCHA,37,University of Denver,26
+1983-84,19,30,261,45,0,WHL,60,Victoria Cougars,75
+1983-84,19,0,16,0,0,AHL,5,Sherbrooke Jets,0
+1984-85,20,4,212,15,0,AHL,58,Sherbrooke Canadiens,19
+1985-86,21,11,227,18,0,AHL,69,Sherbrooke Canadiens,29
+1986-87,22,5,57,6,0,AHL,18,Adirondack Red Wings,11
+1987-88,23,28,344,61,0,AHL,71,Binghamton Whalers,89
+1989-90,25,4,113,10,0,AHL,24,Binghamton Whalers,14
+1990-91,26,11,88,7,0,AHL,22,New Haven Nighthawks,18

@@ -1,0 +1,12 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHL,4,Windsor Spitfires,240,18,4,0,0,16,0,0,0,0,0,0,0,0,0,0,1993-94,0,4.00,0,0
+0,OHL,3,Windsor Spitfires,94,19,1,0,0,6,0,0,0,1,0,0,0,0,0,0,1994-95,0,3.83,0,0
+0,OHL,5,Oshawa Generals,315,20,4,0,0,23,0,0,0,0,1,0,0,0,0,0,1995-96,0,4.38,0,0
+0,ECHL,18,Mississippi Sea Wolves,1252,23,4,0,1,42,0,0,0,3,14,1,0,0,0,.934,1998-99,641,2.01,2,599
+0,AHL,1,Lowell Lock Monsters,60,24,1,0,0,2,0,0,0,0,0,0,0,0,0,.950,1999-00,40,2.00,2,38
+0,AHL,4,Lowell Lock Monsters,209,25,2,0,0,7,0,0,0,1,1,0,0,0,0,.941,2000-01,119,2.01,0,112
+0,AHL,5,Manchester Monarchs,327,26,3,0,0,15,0,0,0,0,2,0,0,0,0,.911,2001-02,169,2.75,17,154
+0,AHL,3,Manchester Monarchs,148,27,2,0,0,9,0,0,0,0,0,0,0,0,0,.886,2002-03,79,3.65,0,70
+0,Russia,11,Metallurg Magnitogorsk,683,30,0,0,0,21,0,0,0,2,0,0,0,0,0,0,2005-06,0,1.84,0,0
+0,Russia,15,Metallurg Magnitogorsk,871,31,0,0,1,28,0,0,0,1,0,1,0,0,0,0,2006-07,0,1.93,37,0
+0,Russia,0,Metallurg Magnitogorsk,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2007-08,0,0,0,0

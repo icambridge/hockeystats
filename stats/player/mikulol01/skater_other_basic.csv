@@ -1,0 +1,46 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1981-82,17,0,2,0,0,EJC-A,5,USSR,0
+1983-84,19,0,6,0,0,USSR,17,Dynamo Moscow,0
+1983-84,19,0,2,3,0,WJC-A,7,Soviet Union,3
+1984-85,20,1,26,3,0,USSR,30,Dynamo Moscow,4
+1985-86,21,0,36,1,0,USSR,40,Dynamo Moscow,1
+1985-86,21,0,2,0,0,Super-S,2,Dynamo Moscow,0
+1986-87,22,5,34,3,0,USSR,39,Dynamo Moscow,8
+1987-88,23,7,63,8,0,USSR,48,Dynamo Moscow,15
+1988-89,24,4,52,7,0,USSR,43,Dynamo Moscow,11
+1989-90,25,0,15,0,0,Fr-Tour,1,Dynamo Moscow,0
+1989-90,25,1,31,3,0,USSR,32,Dynamo Moscow,4
+1989-90,25,0,0,2,0,Super-S,5,Dynamo Moscow,2
+1990-91,26,0,20,0,0,Fr-Tour,1,Dynamo Moscow,0
+1990-91,26,2,40,6,0,USSR,36,Dynamo Moscow,8
+1991-92,27,3,20,2,0,CIS,15,Khimik Voskresensk,5
+1991-92,27,3,63,3,0,AHL,30,New Haven Nighthawks,6
+1992-93,28,6,159,20,0,AHL,75,Moncton Hawks,26
+1993-94,29,9,121,38,0,AHL,67,Moncton Hawks,47
+1994-95,30,5,59,16,0,AHL,50,Springfield Indians,21
+1995-96,31,1,46,7,0,AHL,19,Baltimore Bandits,8
+1996-97,32,5,104,18,0,IHL,67,2 Teams,23
+1996-97,32,0,29,5,0,IHL,16,Long Beach Ice Dogs,5
+1996-97,32,5,75,13,0,IHL,51,Fort Wayne Komets,18
+1997-98,33,4,174,15,0,Germany,41,Nurnberg Ice Tigers,19
+1997-98,33,0,12,1,0,WC-A,6,Belarus,1
+1998-99,34,1,108,3,0,Russia,38,Metallurg Magnitogorsk,4
+1998-99,34,1,26,0,0,EuroHL,3,Metallurg Magnitogorsk,1
+1998-99,34,0,6,0,0,WC-A,6,Belarus,0
+1999-00,35,1,57,8,0,Russia,22,Metallurg Magnitogorsk,9
+1999-00,35,1,31,1,0,EuroHL,4,Metallurg Magnitogorsk,2
+2000-01,36,1,86,11,0,Russia-2,34,Krylja Sovetov Moscow,12
+2000-01,36,0,2,1,1,Oly-Q,3,Belarus,1
+2000-01,36,0,2,0,-5,WC-A,6,Belarus,0
+2001-02,37,4,44,5,0,Russia-2,25,Khimik Voskresensk,9
+2002-03,38,1,76,5,0,Russia,24,2 Teams,6
+2002-03,38,0,36,1,0,Russia,8,Mechel Chelyabinsk,1
+2002-03,38,1,40,4,0,Russia,16,Neftekhimik Nizhnekamsk,5
+2003-04,39,3,85,16,0,Belarus,36,Yunost Minsk,19
+2004-05,40,3,66,13,0,Belarus,38,Yunost Minsk,16
+2004-05,40,1,2,0,0,Oly-Q,3,Belarus,1
+2004-05,40,0,2,1,-2,WC-A,6,Belarus,1
+2005-06,41,8,96,14,0,Belarus,42,2 Teams,22
+2005-06,41,1,26,1,0,Belarus,10,Yunost Minsk,2
+2005-06,41,7,70,13,0,Belarus,32,Dynamo Minsk,20
+2006-07,42,0,24,5,0,Belarus,10,Dynamo Minsk,5

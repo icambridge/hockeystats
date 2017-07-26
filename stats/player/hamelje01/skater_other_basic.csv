@@ -1,9 +1,9 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-75,1969-70,Drummondville Rangers,11,0,17,56,15,4,QMJHL
-99,1970-71,Drummondville Rangers,23,0,18,61,30,7,QMJHL
-132,1971-72,Drummondville Rangers,29,0,19,59,35,6,QMJHL
-22,1972-73,Denver Spurs,6,0,20,13,6,0,WHL
-12,1973-74,Denver Spurs,2,0,21,10,2,0,WHL
-29,1977-78,Kansas City Red Wings,10,0,25,28,12,2,CHL
-36,1980-81,Adirondack Red Wings,3,0,28,7,4,1,AHL
-19,1981-82,Fredericton Express,4,0,29,16,6,2,AHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+11,Drummondville Rangers,4,1969-70,56,15,75,17,0,QMJHL
+23,Drummondville Rangers,7,1970-71,61,30,99,18,0,QMJHL
+29,Drummondville Rangers,6,1971-72,59,35,132,19,0,QMJHL
+6,Denver Spurs,0,1972-73,13,6,22,20,0,WHL
+2,Denver Spurs,0,1973-74,10,2,12,21,0,WHL
+10,Kansas City Red Wings,2,1977-78,28,12,29,25,0,CHL
+3,Adirondack Red Wings,1,1980-81,7,4,36,28,0,AHL
+4,Fredericton Express,2,1981-82,16,6,19,29,0,AHL

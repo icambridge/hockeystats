@@ -1,0 +1,13 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WHL,21,Portland Winter Hawks,1113,16,2,0,0,64,0,0,2,0,12,0,0,0,0,0,1978-79,0,3.45,0,0
+0,WHL,43,Portland Winter Hawks,2416,17,8,0,0,143,0,0,1,1,32,0,0,0,0,0,1979-80,0,3.55,0,0
+0,WHL,36,Portland Winter Hawks,2128,18,7,0,0,122,0,0,1,3,28,0,0,0,0,0,1980-81,0,3.44,0,0
+0,WHL,53,Portland Winter Hawks,3097,19,20,0,0,226,0,0,2,0,31,0,0,0,0,0,1981-82,0,4.38,0,0
+0,IHL,46,Fort Wayne Komets,2584,20,0,0,0,177,0,0,0,0,0,0,0,0,0,0,1982-83,0,4.11,0,0
+0,ACHL,43,Erie Golden Blades,2404,21,16,0,0,163,0,0,2,1,21,0,0,0,0,0,1983-84,0,4.07,0,0
+0,IHL,19,Peoria Rivermen,1133,22,4,0,0,56,0,0,2,1,13,0,0,0,0,0,1984-85,0,2.97,0,0
+0,ACHL,43,Erie Golden Blades,2580,22,0,0,0,170,0,0,0,1,0,0,0,0,0,0,1984-85,0,3.95,0,0
+0,IHL,56,Peoria Rivermen,3321,23,21,0,0,179,0,0,0,1,33,0,0,0,0,0,1985-86,0,3.23,0,0
+0,IHL,58,Peoria Rivermen,3420,24,31,0,0,214,0,0,1,2,26,0,0,0,0,0,1986-87,0,3.75,0,0
+0,IHL,48,Peoria Rivermen,2754,25,19,0,0,162,0,0,5,1,22,0,0,0,0,0,1987-88,0,3.53,0,0
+0,IHL,52,Peoria Rivermen,2908,26,22,0,0,202,0,0,0,0,20,0,0,0,0,0,1988-89,0,4.17,0,0

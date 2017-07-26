@@ -1,0 +1,38 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1978-79,18,0,0,0,0,WJC-A,5,Czechoslovakia,0
+1979-80,19,16,16,10,0,Czech,42,VSZ Kosice,26
+1979-80,19,4,4,1,0,WJC-A,5,Czechoslovakia,5
+1980-81,20,17,20,24,0,Czech,43,VSZ Kosice,41
+1981-82,21,35,34,18,0,Czech,44,VSZ Kosice,53
+1981-82,21,3,6,2,0,WEC-A,10,Czechoslovakia,5
+1982-83,22,27,24,18,0,Czech,43,Dukla Jihlava,45
+1982-83,22,2,0,8,0,WEC-A,10,Czechoslovakia,10
+1983-84,23,14,16,18,0,Czech,41,Dukla Jihlava,32
+1983-84,23,4,6,3,0,Olympics,7,Czechoslovakia,7
+1984-85,24,2,6,3,0,Can-Cup,5,Czechoslovakia,5
+1984-85,24,28,22,26,0,Czech,44,VSZ Kosice,54
+1984-85,24,2,16,5,0,WEC-A,10,Czechoslovakia,7
+1985-86,25,25,32,29,0,Czech,34,VSZ Kosice,54
+1985-86,25,2,18,4,0,WEC-A,10,Czechoslovakia,6
+1986-87,26,13,38,16,0,Czech,31,VSZ Kosice,29
+1986-87,26,2,12,3,0,WEC-A,10,Czechoslovakia,5
+1987-88,27,0,6,4,0,Can-Cup,6,Czechoslovakia,4
+1987-88,27,21,86,37,0,Czech,42,VSZ Kosice,58
+1987-88,27,4,8,6,0,Olympics,8,Czechoslovakia,10
+1989-90,29,16,37,12,0,Czech,40,VSZ Kosice,28
+1990-91,30,0,0,1,0,Czech,2,VSZ Kosice,1
+1990-91,30,5,2,13,0,Swiss,27,EHC Biel-Bienne,18
+1991-92,31,7,0,8,0,Czech,16,VSZ Kosice,15
+1991-92,31,11,2,34,0,Italy,18,HC Cavalese,45
+1991-92,31,1,4,2,0,Olympics,4,Czechoslovakia,3
+1991-92,31,2,10,1,0,WC-A,8,Czechoslovakia,3
+1992-93,32,22,111,34,0,Finland-2,44,TuTo Turku,56
+1994-95,34,27,44,19,0,Austria,26,EV Zeltweg,46
+1995-96,35,15,34,19,0,Austria,33,EV Zeltweg,34
+1996-97,36,19,0,17,0,Slovakia,32,HK VTJ Spisska Nova Ves,36
+1996-97,36,7,0,8,0,Slovak-Q,14,HK VTJ Spisska Nova Ves,15
+1997-98,37,11,38,28,0,Slovakia,36,2 Teams,39
+1997-98,37,1,2,4,0,Slovakia,4,HK VTJ Spisska Nova Ves,5
+1997-98,37,10,36,24,0,Slovakia,32,HC Kosice,34
+1998-99,38,13,12,21,0,Slovakia,41,HC VSZ Kosice,34
+1999-00,39,24,18,36,0,Austria-2,30,EV Zeltweg,60

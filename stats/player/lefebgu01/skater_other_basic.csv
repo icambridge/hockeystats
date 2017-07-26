@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1996-97,15,7,14,12,0,QAAA,40,Amos Forestiers,19
+1997-98,16,12,100,16,0,QAAA,42,Amos Forestiers,28
+1998-99,17,5,62,8,1,QMJHL,64,2 Teams,13
+1998-99,17,3,49,1,-1,QMJHL,40,Shawinigan Cataractes,4
+1998-99,17,2,13,7,2,QMJHL,24,Cape Breton Screaming Eagles,9
+1999-00,18,33,121,40,-8,QMJHL,71,3 Teams,73
+1999-00,18,26,82,28,2,QMJHL,44,Cape Breton Screaming Eagles,54
+1999-00,18,3,0,1,2,QMJHL,2,Quebec Remparts,4
+1999-00,18,4,39,11,-12,QMJHL,25,Rouyn-Noranda Huskies,15
+2000-01,19,24,160,43,30,QMJHL,61,Rouyn-Noranda Huskies,67
+2001-02,20,19,111,15,12,AHL,78,Philadelphia Phantoms,34
+2002-03,21,8,113,6,11,AHL,48,2 Teams,14
+2002-03,21,7,113,6,9,AHL,47,Philadelphia Phantoms,13
+2002-03,21,1,0,0,2,AHL,1,Wilkes-Barre Scranton Pens,1
+2003-04,22,4,78,12,0,AHL,64,Wilkes-Barre Penguins,16
+2004-05,23,3,76,3,-5,AHL,34,Wilkes-Barre Penguins,6
+2005-06,24,16,113,19,12,AHL,66,Wilkes-Barre Penguins,35
+2006-07,25,20,135,33,0,QNAHL,48,St. Jean Chiefs,53
+2007-08,26,16,157,36,0,QNAHL,46,St. Jean Chiefs,52
+2008-09,27,4,206,9,-13,AHL,70,Springfield Falcons,13
+2009-10,28,5,154,8,-3,AHL,56,Providence Bruins,13
+2010-11,29,8,72,15,-2,ECHL,28,Bakersfield Condors,23

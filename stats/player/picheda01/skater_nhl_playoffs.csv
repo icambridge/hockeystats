@@ -1,0 +1,5 @@
+age,win,shotsPercentage,even_strength_goals,assists,plus_minus,league,games_played,shorthanded_goals,year,game_winning_goals,shots,goals,average_ice_time,power_play_goals,pim,total_ice_time,team,points
+20,,0,0,0,0,NHL,1,0,1980-81,0,0,0,,0,14,,QUE,0
+21,,7.4,1,4,-7,NHL,16,0,1981-82,1,27,2,,1,22,,QUE,6
+22,,0,0,1,1,NHL,2,0,1982-83,0,0,0,,0,0,,QUE,1
+23,,7.7,1,2,-1,NHL,9,0,1983-84,0,13,1,,0,18,,STL,3

@@ -1,0 +1,17 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1980-81,16,1,12,8,0,WHL,24,Billings Bighorns,9
+1981-82,17,45,46,56,0,WHL,72,Billings Bighorns,101
+1982-83,18,36,49,80,0,WHL,76,2 Teams,116
+1982-83,18,14,16,37,0,WHL,30,Nanaimo Islanders,51
+1982-83,18,22,33,43,0,WHL,46,Medicine Hat Tigers,65
+1983-84,19,59,30,77,0,WHL,72,Medicine Hat Tigers,136
+1984-85,20,23,53,49,0,AHL,80,Moncton Golden Flames,72
+1985-86,21,26,51,50,0,AHL,79,Moncton Golden Flames,76
+1986-87,22,14,45,36,0,AHL,49,Adirondack Red Wings,50
+1987-88,23,27,45,61,0,AHL,69,Nova Scotia Oilers,88
+1988-89,24,33,29,49,0,AHL,54,Cape Breton Oilers,82
+1995-96,31,17,65,60,0,IHL,67,Houston Aeros,77
+1996-97,32,25,83,53,0,IHL,81,Houston Aeros,78
+1997-98,33,7,36,21,0,Germany,46,EV Landshut,28
+1998-99,34,21,72,49,10,IHL,79,Houston Aeros,70
+1999-00,35,15,58,46,17,IHL,79,Houston Aeros,61

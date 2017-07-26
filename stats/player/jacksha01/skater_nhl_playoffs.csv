@@ -1,0 +1,6 @@
+age,win,shotsPercentage,even_strength_goals,assists,plus_minus,league,games_played,shorthanded_goals,year,game_winning_goals,shots,goals,average_ice_time,power_play_goals,pim,total_ice_time,team,points
+19,SC,0,0,0,0,NHL,1,0,1937-38,0,0,0,,0,2,,CBH,0
+24,SC,0,0,1,0,NHL,6,0,1942-43,0,0,0,,0,4,,DET,1
+25,,0,0,0,0,NHL,5,0,1943-44,0,0,0,,0,11,,DET,0
+26,,0,0,1,0,NHL,0,0,1944-45,0,0,1,,0,10,,DET,2
+27,,0,0,0,0,NHL,5,0,1945-46,0,0,0,,0,6,,DET,0

@@ -1,0 +1,28 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1987-88,16,0,0,0,0,USSR-Q,6,Torpedo Yaroslavl,0
+1988-89,17,2,8,1,0,USSR,23,Torpedo Yaroslavl,3
+1988-89,17,0,0,0,0,USSR-Q,24,Torpedo Yaroslavl,0
+1988-89,17,0,2,3,0,WJC-A,7,Soviet Union,3
+1988-89,17,3,16,2,0,EJC-A,6,Soviet Union,5
+1989-90,18,2,39,3,0,USSR,41,Torpedo Yaroslavl,5
+1989-90,18,0,8,4,0,WJC-A,7,Soviet Union,4
+1990-91,19,10,22,5,0,USSR,43,Torpedo Yaroslavl,15
+1990-91,19,0,0,0,0,USSR-3,1,ShVSM Yaroslavl,0
+1990-91,19,0,2,0,0,Fr-Tour,1,SKA Leningrad/Torpedo Yaroslavl,0
+1990-91,19,2,2,4,0,WJC-A,7,Soviet Union,6
+1991-92,20,6,14,7,0,CIS,41,Dynamo Moscow,13
+1991-92,20,0,0,0,0,CIS-3,1,Dynamo Moscow 2,0
+1991-92,20,1,4,2,0,Olympics,8,Russia,3
+1991-92,20,1,4,1,0,WC-A,6,Russia,2
+1992-93,21,1,10,4,0,WC-A,7,Russia,5
+1993-94,22,1,12,2,0,WC-A,6,Russia,3
+1994-95,23,3,8,4,0,CIS,10,Torpedo Yaroslavl,7
+1996-97,25,1,2,1,0,W-Cup,5,Russia,2
+1997-98,26,0,2,0,0,Olympics,6,Russia,0
+1997-98,26,2,4,2,0,WC-A,6,Russia,4
+1999-00,28,2,2,3,0,Russia,7,Torpedo Yaroslavl,5
+2003-04,32,7,38,11,0,Russia,35,Lokomotiv Yaroslavl,18
+2003-04,32,0,2,1,0,Russia-3,2,Lokomotiv Yaroslavl 2,1
+2003-04,32,1,6,1,0,WC-A,6,Russia,2
+2004-05,33,6,58,22,0,Russia,54,Severstal Cherepovets,28
+2005-06,34,8,38,22,0,Russia,49,Metallurg Magnitogorsk,30

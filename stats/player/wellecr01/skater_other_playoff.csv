@@ -1,0 +1,15 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1997-98,17,0,2,1,0,AMHL,3,Calgary Flames,1
+1998-99,18,0,10,1,0,AJHL,13,Calgary Canucks,1
+1999-00,19,0,4,0,0,AJHL,4,Calgary Canucks,0
+2000-01,20,0,26,2,0,WHL,11,Kootenay Ice,2
+2001-02,21,3,27,7,0,WHL,22,Kootenay Ice,10
+2001-02,21,0,11,1,0,M-Cup,4,Kootenay Ice,1
+2002-03,22,0,0,0,-2,AHL,2,Hartford Wolf Pack,0
+2003-04,23,2,30,2,3,AHL,16,Hartford Wolf Pack,4
+2004-05,24,0,6,1,1,AHL,6,Hartford Wolf Pack,1
+2005-06,25,2,44,3,-3,AHL,13,Hartford Wolf Pack,5
+2006-07,26,0,4,0,-1,AHL,4,Hartford Wolf Pack,0
+2009-10,29,0,4,0,0,AHL,4,Chicago Wolves,0
+2010-11,30,2,6,0,0,Britain,4,Cardiff Devils,2
+2012-13,32,0,27,1,0,Germany,4,ERC Ingolstadt,1

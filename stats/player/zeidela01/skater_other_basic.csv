@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1945-46,17,2,34,7,0,QJHL,17,Verdun Jr. Maple Leafs,9
+1946-47,18,7,48,13,0,OHA,28,Barrie Flyers,20
+1947-48,19,7,82,20,0,QSHL,48,Quebec Aces,27
+1948-49,20,4,92,18,0,QSHL,52,Quebec Aces,22
+1949-50,21,7,176,19,0,QSHL,55,Quebec Aces,26
+1950-51,22,5,169,27,0,WCMHL,58,Saskatoon Quakers,32
+1950-51,22,1,20,0,0,Alx-Cup,4,Saskatoon Quakers,1
+1951-52,23,6,99,17,0,AHL,43,Indianapolis Capitols,23
+1952-53,24,4,114,22,0,WHL,59,Edmonton Flyers,26
+1954-55,26,10,142,40,0,WHL,70,Edmonton Flyers,50
+1955-56,27,5,128,27,0,AHL,56,Hershey Bears,32
+1956-57,28,9,211,19,0,AHL,64,Hershey Bears,28
+1957-58,29,2,152,16,0,AHL,58,Hershey Bears,18
+1958-59,30,8,129,24,0,AHL,67,Hershey Bears,32
+1959-60,31,5,293,19,0,AHL,66,Hershey Bears,24
+1960-61,32,4,149,25,0,AHL,70,Hershey Bears,29
+1961-62,33,3,146,19,0,AHL,70,Hershey Bears,22
+1962-63,34,4,127,29,0,AHL,66,Hershey Bears,33
+1963-64,35,5,163,19,0,WHL,66,Seattle Totems,24
+1963-64,35,0,2,1,0,AHL,2,Cleveland Barons,1
+1964-65,36,2,202,12,0,WHL,64,Seattle Totems,14
+1965-66,37,3,162,12,0,AHL,72,Cleveland Barons,15
+1966-67,38,5,124,24,0,AHL,72,Cleveland Barons,29

@@ -1,5 +1,5 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1925-26,Ottawa Gunners,0,0,19,6,3,3,OCHL
-2,1930-31,Pittsburgh Yellowjackets,0,0,24,6,0,0,IHL
-0,1933-34,Boston Cubs,1,0,27,5,3,2,Can-Am
-0,1934-35,Boston Cubs,0,0,28,3,0,0,Can-Am
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Ottawa Gunners,3,1925-26,6,3,0,19,0,OCHL
+0,Pittsburgh Yellowjackets,0,1930-31,6,0,2,24,0,IHL
+1,Boston Cubs,2,1933-34,5,3,0,27,0,Can-Am
+0,Boston Cubs,0,1934-35,3,0,0,28,0,Can-Am

@@ -1,0 +1,5 @@
+even_strength_goals,assists,team,goals,pim,age,game_winning_goals,total_ice_time,league,shorthanded_goals,shots,average_ice_time,year,games_played,shotsPercentage,win,power_play_goals,points,plus_minus
+0,0,STL,0,2,19,0,,NHL,0,1,,1974-75,1,0.0,,0,0,0
+0,1,STL,0,0,20,0,,NHL,0,2,,1975-76,1,0.0,,0,1,1
+0,0,STL,0,0,21,0,,NHL,0,1,,1976-77,1,0.0,,0,0,-2
+1,0,BUF,1,0,25,0,,NHL,0,1,,1980-81,1,100.0,,0,1,2

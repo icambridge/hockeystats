@@ -1,8 +1,8 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-7,Hamilton Fincups,3,0,8,OMJHL,14,1975-76,18,5
-2,Hamilton Fincups,1,0,6,M-Cup,3,1975-76,18,5
-11,St. Catharines Fincups,6,0,12,OMJHL,14,1976-77,19,6
-10,Hamilton Fincups,8,0,17,OMJHL,20,1977-78,20,9
-2,Dallas Black Hawks,1,0,8,CHL,9,1978-79,21,7
-4,Dallas Black Hawks,0,0,0,CHL,5,1980-81,23,0
-24,Dallas Black Hawks,4,0,7,CHL,16,1981-82,24,3
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+3,Hamilton Fincups,5,1975-76,14,8,7,18,0,OMJHL
+1,Hamilton Fincups,5,1975-76,3,6,2,18,0,M-Cup
+6,St. Catharines Fincups,6,1976-77,14,12,11,19,0,OMJHL
+8,Hamilton Fincups,9,1977-78,20,17,10,20,0,OMJHL
+1,Dallas Black Hawks,7,1978-79,9,8,2,21,0,CHL
+0,Dallas Black Hawks,0,1980-81,5,0,4,23,0,CHL
+4,Dallas Black Hawks,3,1981-82,16,7,24,24,0,CHL

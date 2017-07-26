@@ -1,0 +1,14 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,73,5,20,266,74,14,,BUF,"[{'link': '/awards/voting-1972.html#calder', 'name': 'Calder-2'}]",16.5,25,30,-38,44,0,1971-72,,19,36,0,16
+NHL,75,4,21,299,73,13,,BUF,[],12.4,26,36,4,37,0,1972-73,,11,79,0,23
+NHL,0,6,22,320,86,15,,BUF,"[{'link': '/awards/nhl_all_star.html#1974', 'name': None}]",16.3,44,34,-22,52,0,1973-74,,8,38,0,19
+NHL,68,6,23,301,95,17,,BUF,"[{'link': '/awards/nhl_all_star.html#1975', 'name': None}, {'link': '/awards/voting-1975.html#AS', 'name': 'AS-8'}]",17.3,31,43,5,52,0,1974-75,,21,72,0,26
+NHL,0,7,24,327,86,11,,BUF,"[{'link': '/awards/nhl_all_star.html#1976', 'name': None}]",15.0,31,37,23,49,0,1975-76,,18,67,0,26
+NHL,66,6,25,221,65,8,,BUF,"[{'link': '/awards/nhl_all_star.html#1977', 'name': None}]",16.3,24,29,10,36,0,1976-77,,12,58,0,21
+NHL,65,6,26,221,63,7,,BUF,[],12.7,21,35,16,28,0,1977-78,,7,16,0,28
+NHL,73,3,27,250,53,7,,BUF,"[{'link': '/awards/voting-1979.html#AS', 'name': 'AS-12'}]",12.8,24,21,-7,32,0,1978-79,,8,35,0,14
+NHL,80,3,28,257,79,10,,BUF,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-8'}]",17.5,37,34,18,45,0,1979-80,,8,54,0,24
+NHL,24,1,29,59,23,1,,TOT,[],13.6,6,15,5,8,0,1980-81,,2,20,0,14
+NHL,23,1,29,57,21,1,,BUF,[],12.3,5,14,4,7,0,1980-81,,2,20,0,13
+NHL,1,0,29,2,2,0,,LAK,[],50.0,1,1,1,1,0,1980-81,,0,0,0,1
+NHL,3,0,30,9,4,1,,LAK,[],11.1,0,3,1,1,0,1981-82,,1,2,0,2

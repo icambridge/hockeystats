@@ -1,19 +1,19 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-28,Saskatoon Blades,20,0,43,WCJHL,52,1973-74,18,23
-51,Saskatoon Blades,38,0,67,WCJHL,68,1974-75,19,29
-155,Saskatoon Blades,39,0,87,WCJHL,72,1975-76,20,48
-16,Muskegon Mohawks,18,0,36,IHL,38,1976-77,21,18
-84,Muskegon Mohawks,32,0,69,IHL,75,1977-78,22,37
-14,Muskegon Mohawks,7,0,18,IHL,13,1978-79,23,11
-87,Fort Worth Texans,15,0,24,CHL,57,1978-79,23,9
-56,Indianapolis Checkers,19,0,45,CHL,70,1979-80,24,26
-61,Indianapolis Checkers,42,0,79,CHL,80,1980-81,25,37
-89,Indianapolis Checkers,14,0,34,CHL,58,1981-82,26,20
-42,Muskegon Mohawks,24,0,57,IHL,68,1982-83,27,33
-0,Wichita Wind,3,0,5,CHL,2,1982-83,27,2
-36,Muskegon Mohawks,37,0,62,IHL,66,1983-84,28,25
-93,Muskegon Mohawks,22,0,39,IHL,80,1984-85,29,17
-77,2 Teams,24,0,60,IHL,82,1985-86,30,36
-10,Muskegon Lumberjacks,1,0,5,IHL,14,1985-86,30,4
-67,Kalamazoo Wings,23,0,55,IHL,68,1985-86,30,32
-84,Kalamazoo Wings,23,0,32,IHL,56,1986-87,31,9
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+20,Saskatoon Blades,23,1973-74,52,43,28,18,0,WCJHL
+38,Saskatoon Blades,29,1974-75,68,67,51,19,0,WCJHL
+39,Saskatoon Blades,48,1975-76,72,87,155,20,0,WCJHL
+18,Muskegon Mohawks,18,1976-77,38,36,16,21,0,IHL
+32,Muskegon Mohawks,37,1977-78,75,69,84,22,0,IHL
+7,Muskegon Mohawks,11,1978-79,13,18,14,23,0,IHL
+15,Fort Worth Texans,9,1978-79,57,24,87,23,0,CHL
+19,Indianapolis Checkers,26,1979-80,70,45,56,24,0,CHL
+42,Indianapolis Checkers,37,1980-81,80,79,61,25,0,CHL
+14,Indianapolis Checkers,20,1981-82,58,34,89,26,0,CHL
+24,Muskegon Mohawks,33,1982-83,68,57,42,27,0,IHL
+3,Wichita Wind,2,1982-83,2,5,0,27,0,CHL
+37,Muskegon Mohawks,25,1983-84,66,62,36,28,0,IHL
+22,Muskegon Mohawks,17,1984-85,80,39,93,29,0,IHL
+24,2 Teams,36,1985-86,82,60,77,30,0,IHL
+1,Muskegon Lumberjacks,4,1985-86,14,5,10,30,0,IHL
+23,Kalamazoo Wings,32,1985-86,68,55,67,30,0,IHL
+23,Kalamazoo Wings,9,1986-87,56,32,84,31,0,IHL

@@ -1,9 +1,9 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-4,1930-31,Toronto Marlboros,0,0,16,2,0,0,OHA-Jr.
-18,1931-32,Toronto Marlboros,0,0,17,4,0,0,OHA-Jr.
-12,1932-33,Toronto Marlboros,0,0,18,3,0,0,OHA-Jr.
-12,1933-34,St. Michael\'s Majors,2,0,19,3,2,0,OHA-Jr.
-46,1933-34,St. Michael\'s Majors,12,0,19,13,16,4,M-Cup
-2,1934-35,Syracuse Stars,0,0,20,2,0,0,IHL
-2,1935-36,Syracuse Stars,1,0,21,3,1,0,IHL
-0,1946-47,Kansas City Pla-Mors,3,0,32,10,3,0,USHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Toronto Marlboros,0,1930-31,2,0,4,16,0,OHA-Jr.
+0,Toronto Marlboros,0,1931-32,4,0,18,17,0,OHA-Jr.
+0,Toronto Marlboros,0,1932-33,3,0,12,18,0,OHA-Jr.
+2,St. Michael\'s Majors,0,1933-34,3,2,12,19,0,OHA-Jr.
+12,St. Michael\'s Majors,4,1933-34,13,16,46,19,0,M-Cup
+0,Syracuse Stars,0,1934-35,2,0,2,20,0,IHL
+1,Syracuse Stars,0,1935-36,3,1,2,21,0,IHL
+3,Kansas City Pla-Mors,0,1946-47,10,3,0,32,0,USHL

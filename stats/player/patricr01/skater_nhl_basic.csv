@@ -1,0 +1,12 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,59,0,25,73,11,1,,CGS,[],11.0,8,3,-24,8,0,1971-72,,0,12,0,2
+NHL,71,0,26,152,42,4,,CGS,[],13.2,17,22,-32,20,1,1972-73,,2,6,0,18
+NHL,59,1,27,95,30,3,,CGS,[],10.5,8,20,-30,10,0,1973-74,,2,17,0,17
+NHL,57,2,28,73,18,1,,TOT,[],11.0,8,10,-2,8,0,1974-75,,0,6,0,9
+NHL,14,0,28,15,3,0,,CGS,[],13.3,2,1,-8,2,0,1974-75,,0,0,0,1
+NHL,43,2,28,58,15,1,,STL,[],10.3,6,9,6,6,0,1974-75,,0,6,0,8
+NHL,0,0,29,143,35,2,,KCS,[],11.9,13,18,-24,17,1,1975-76,,3,14,0,16
+WHA,30,0,30,0,17,0,,MNF,[],0,0,11,4,6,0,1976-77,,0,6,0,0
+NHL,28,0,30,47,17,5,,WSH,[],14.9,6,10,-10,7,0,1976-77,,1,2,0,5
+NHL,44,0,31,43,8,0,,WSH,[],2.3,0,7,-8,1,0,1977-78,,1,4,0,7
+NHL,3,0,32,3,2,0,,WSH,[],33.3,1,1,-1,1,0,1978-79,,0,0,0,1

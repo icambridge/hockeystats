@@ -1,6 +1,6 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-12,Regina Pats,3,0,5,SJHL,12,1957-58,18,2
-8,Regina Pats,2,0,5,M-Cup,16,1957-58,18,3
-6,Regina Pats,2,0,3,SJHL,9,1958-59,19,1
-6,Regina Pats,7,0,10,SJHL,13,1959-60,20,3
-15,Hull-Ottawa Canadiens,1,0,1,EPHL,12,1961-62,22,0
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+3,Regina Pats,2,1957-58,12,5,12,18,0,SJHL
+2,Regina Pats,3,1957-58,16,5,8,18,0,M-Cup
+2,Regina Pats,1,1958-59,9,3,6,19,0,SJHL
+7,Regina Pats,3,1959-60,13,10,6,20,0,SJHL
+1,Hull-Ottawa Canadiens,0,1961-62,12,1,15,22,0,EPHL

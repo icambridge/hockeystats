@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1988-89,15,10,70,30,0,MAHA,60,Foxwarren Blades,40
+1989-90,16,2,31,3,0,WHL,51,Saskatoon Blades,5
+1990-91,17,4,37,11,0,WHL,45,Saskatoon Blades,15
+1991-92,18,11,62,25,0,WHL,64,Saskatoon Blades,36
+1992-93,19,15,90,51,0,WHL,71,Saskatoon Blades,66
+1993-94,20,12,108,34,0,WHL,65,Saskatoon Blades,46
+1994-95,21,12,50,29,0,AHL,75,Syracuse Crunch,41
+1995-96,22,10,96,35,0,AHL,80,Syracuse Crunch,45
+1996-97,23,2,25,8,0,AHL,27,Syracuse Crunch,10
+1997-98,24,12,80,21,-4,AHL,56,Syracuse Crunch,33
+1998-99,25,4,74,31,-34,AHL,72,Syracuse Crunch,35
+1999-00,26,3,72,7,-9,IHL,70,Michigan K-Wings,10
+2000-01,27,2,64,2,2,IHL,63,Utah Grizzlies,4
+2001-02,28,9,68,18,5,AHL,57,Utah Grizzlies,27
+2002-03,29,8,68,26,-1,AHL,69,Utah Grizzlies,34
+2003-04,30,1,25,3,-4,AHL,23,Utah Grizzlies,4
+2004-05,31,3,36,4,0,Russia,50,SKA St. Petersburg,7
+2005-06,32,7,58,19,16,AHL,69,Hershey Bears,26
+2006-07,33,9,56,24,-10,AHL,78,Bridgeport Sound Tigers,33
+2007-08,34,2,54,18,-11,AHL,69,Bridgeport Sound Tigers,20
+2008-09,35,5,40,16,13,AHL,73,Bridgeport Sound Tigers,21
+2009-10,36,3,42,23,1,AHL,77,Bridgeport Sound Tigers,26
+2010-11,37,3,84,7,-24,AHL,71,Bridgeport Sound Tigers,10

@@ -1,0 +1,9 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHA-Jr.,6,St. Catharines Black Hawks,360,18,0,0,0,26,0,0,0,0,0,0,0,0,0,0,1966-67,0,4.33,0,0
+0,OHA-Jr.,5,St. Catharines Black Hawks,300,19,0,0,0,34,0,0,0,0,0,0,0,0,0,0,1967-68,0,6.80,0,0
+0,EHL,8,Greensboro Generals,480,20,0,0,0,28,0,0,0,0,0,0,0,0,0,0,1968-69,0,3.50,0,0
+0,CHL,12,Omaha Knights,720,21,4,0,0,31,0,0,0,1,8,0,0,0,0,0,1969-70,0,2.58,0,0
+0,CHL,11,Omaha Knights,692,22,3,0,0,26,0,0,0,2,8,0,0,0,0,0,1970-71,0,2.25,0,0
+0,WHL,4,Denver Spurs,240,23,0,0,0,6,0,0,0,1,4,0,0,0,0,0,1971-72,0,1.50,0,0
+0,AHL,14,Providence Reds,883,25,6,0,0,45,0,0,0,1,8,0,0,0,0,0,1973-74,0,3.06,0,0
+0,AHL,1,New Haven Nighthawks,60,27,1,0,0,4,0,0,0,0,0,0,0,0,0,0,1975-76,0,4.00,0,0

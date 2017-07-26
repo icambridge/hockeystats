@@ -1,17 +1,17 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-4,St. Michael\'s Buzzers,14,0,30,ON-Jr.B,11,1944-45,17,16
-0,St. Michael\'s Majors,0,0,1,OHA-Jr.,1,1944-45,17,1
-8,St. Michael\'s Majors,14,0,30,OHA-Jr.,22,1945-46,18,16
-33,St. Michael\'s Majors,25,0,54,OHA-Jr.,29,1946-47,19,29
-23,Hershey Bears,14,0,38,AHL,48,1950-51,23,24
-19,Cincinnati Mohawks,9,0,29,AHL,57,1951-52,24,20
-0,Vancouver Canucks,1,0,1,WHL,5,1952-53,25,0
-4,Washington Lions,10,0,15,EAHL,17,1952-53,25,5
-6,Quebec Aces,2,0,8,QMHL,16,1952-53,25,6
-2,2 Teams,2,0,4,AHL,12,1952-53,25,2
-0,Syracuse Warriors,1,0,1,AHL,2,1952-53,25,0
-2,St. Louis Flyers,1,0,3,AHL,10,1952-53,25,2
-4,Quebec Aces,2,0,5,QHL,33,1953-54,26,3
-0,Sudbury Wolves,3,0,11,NOHA,13,1953-54,26,8
-2,Woodstock Athletics,11,0,23,OHA-Sr.,28,1960-61,33,12
-0,Woodstock Athletics,17,0,26,OHA-Sr.,28,1961-62,34,9
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+14,St. Michael\'s Buzzers,16,1944-45,11,30,4,17,0,ON-Jr.B
+0,St. Michael\'s Majors,1,1944-45,1,1,0,17,0,OHA-Jr.
+14,St. Michael\'s Majors,16,1945-46,22,30,8,18,0,OHA-Jr.
+25,St. Michael\'s Majors,29,1946-47,29,54,33,19,0,OHA-Jr.
+14,Hershey Bears,24,1950-51,48,38,23,23,0,AHL
+9,Cincinnati Mohawks,20,1951-52,57,29,19,24,0,AHL
+1,Vancouver Canucks,0,1952-53,5,1,0,25,0,WHL
+10,Washington Lions,5,1952-53,17,15,4,25,0,EAHL
+2,Quebec Aces,6,1952-53,16,8,6,25,0,QMHL
+2,2 Teams,2,1952-53,12,4,2,25,0,AHL
+1,Syracuse Warriors,0,1952-53,2,1,0,25,0,AHL
+1,St. Louis Flyers,2,1952-53,10,3,2,25,0,AHL
+2,Quebec Aces,3,1953-54,33,5,4,26,0,QHL
+3,Sudbury Wolves,8,1953-54,13,11,0,26,0,NOHA
+11,Woodstock Athletics,12,1960-61,28,23,2,33,0,OHA-Sr.
+17,Woodstock Athletics,9,1961-62,28,26,0,34,0,OHA-Sr.

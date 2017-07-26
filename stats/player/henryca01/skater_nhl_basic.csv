@@ -1,0 +1,17 @@
+shotsPercentage,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,age,game_winning_goals,league,shorthanded_goals,average_ice_time,games_played,points,awards,power_play_goals
+0,1953-54,10,0,,0,0,0,0,0,15,NYR,24,21,0,NHL,0,,66,39,"[{'link': '/awards/calder.html#1954', 'name': None}]",0
+0,1954-55,4,0,,0,0,0,0,0,2,NYR,5,22,0,NHL,0,,21,7,[],0
+0,1956-57,2,0,,0,0,0,0,0,15,NYR,14,24,0,NHL,0,,36,29,[],0
+0,1957-58,2,0,,0,0,0,0,0,24,NYR,32,25,0,NHL,0,,0,56,"[{'link': '/awards/nhl_all_star.html#1958', 'name': None}, {'link': '/awards/byng.html#1958', 'name': None}, {'link': '/awards/voting-1958.html#hart', 'name': 'Hart-7'}]",0
+0,1958-59,2,0,,0,0,0,0,0,35,NYR,23,26,0,NHL,0,,0,58,"[{'link': '/awards/voting-1959.html#byng', 'name': 'Byng-3'}]",0
+0,1959-60,6,0,,0,0,0,0,0,15,NYR,12,27,0,NHL,0,,49,27,[],0
+0,1960-61,8,0,,0,0,0,0,0,25,NYR,28,28,0,NHL,0,,53,53,[],0
+0,1961-62,8,0,,0,0,0,0,0,15,NYR,23,29,0,NHL,0,,60,38,"[{'link': '/awards/voting-1962.html#byng', 'name': 'Byng-5'}]",0
+0,1962-63,8,0,,0,0,0,0,0,23,NYR,37,30,0,NHL,0,,60,60,"[{'link': '/awards/voting-1963.html#byng', 'name': 'Byng-2'}]",0
+0,1963-64,8,0,,0,0,0,20,0,26,NYR,29,31,3,NHL,0,,68,55,"[{'link': '/awards/voting-1964.html#byng', 'name': 'Byng-3'}]",9
+0,1964-65,22,0,,0,0,0,10,0,18,TOT,26,32,5,NHL,0,,0,44,"[{'link': '/awards/voting-1965.html#byng', 'name': 'Byng-4'}]",0
+0,1964-65,20,0,,0,0,0,8,0,15,NYR,21,32,5,NHL,0,,48,36,"[{'link': '/awards/voting-1965.html#byng', 'name': 'Byng-4'}]",13
+0,1964-65,2,0,,0,0,0,2,0,3,CBH,5,32,0,NHL,0,,22,8,"[{'link': '/awards/voting-1965.html#byng', 'name': 'Byng-4'}]",3
+20.5,1967-68,0,10,,0,39,2,7,8,12,NYR,8,35,0,NHL,0,,36,20,[],1
+18.1,1968-69,8,16,,0,94,6,10,14,22,STL,17,36,1,NHL,0,,64,39,[],7
+20.0,1969-70,0,1,,0,5,1,0,-2,2,STL,1,37,0,NHL,0,,4,3,[],1

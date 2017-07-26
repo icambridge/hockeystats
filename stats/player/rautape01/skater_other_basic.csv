@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1968-69,15,2,0,1,0,Finland,10,Assat Pori,3
+1969-70,16,9,2,2,0,Finland,22,Assat Pori,11
+1970-71,17,6,18,5,0,Finland,31,Assat Pori,11
+1971-72,18,10,14,8,0,Finland,32,Assat Pori,18
+1971-72,18,0,0,0,0,WEC-A,4,Finland,0
+1972-73,19,23,21,12,0,Finland,34,Assat Pori,35
+1972-73,19,0,4,0,0,WEC-A,7,Finland,0
+1973-74,20,9,8,12,0,Finland,32,Assat Pori,21
+1974-75,21,9,19,13,0,Finland,36,Assat Pori,22
+1974-75,21,0,0,3,0,WEC-A,10,Finland,3
+1976-77,23,2,2,2,0,Can-Cup,5,Finland,4
+1976-77,23,3,2,4,0,WEC-A,10,Finland,7
+1977-78,24,16,16,21,0,Finland,36,Assat Pori,37
+1977-78,24,4,2,3,0,WEC-A,10,Finland,7
+1978-79,25,25,26,28,0,Finland,36,Assat Pori,53
+1978-79,25,2,2,1,0,WEC-A,7,Finland,3
+1981-82,28,0,2,1,0,Can-Cup,5,Finland,1
+1982-83,29,16,16,16,0,Finland,36,HIFK Helsinki,32
+1982-83,29,1,0,7,0,WEC-A,10,Finland,8
+1983-84,30,9,10,21,0,Finland,33,HIFK Helsinki,30
+1984-85,31,12,18,18,0,Finland,29,HIFK Helsinki,30
+1985-86,32,13,8,23,0,Finland,34,HIFK Helsinki,36
+1986-87,33,15,10,25,0,Finland,42,HIFK Helsinki,40
+1987-88,34,19,18,14,0,Swiss-2,33,SC Rapperswil-Jona,33
+1988-89,35,1,0,4,0,Swiss-2,12,SC Rapperswil-Jona,5

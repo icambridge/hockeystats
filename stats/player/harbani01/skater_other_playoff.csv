@@ -1,8 +1,8 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-38,Toronto Marlboros,5,0,11,OHA-Jr.,12,1961-62,18,6
-9,Toronto Marlboros,2,0,4,OHA-Jr.,9,1963-64,20,2
-15,Toronto Marlboros,4,0,9,M-Cup,11,1963-64,20,5
-25,Tulsa Oilers,8,0,13,CPHL,12,1964-65,21,5
-10,Tulsa Oilers,4,0,5,CPHL,11,1965-66,22,1
-14,Tulsa Oilers,6,0,7,CPHL,11,1967-68,24,1
-18,Tulsa Oilers,5,0,7,CHL,7,1968-69,25,2
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+5,Toronto Marlboros,6,1961-62,12,11,38,18,0,OHA-Jr.
+2,Toronto Marlboros,2,1963-64,9,4,9,20,0,OHA-Jr.
+4,Toronto Marlboros,5,1963-64,11,9,15,20,0,M-Cup
+8,Tulsa Oilers,5,1964-65,12,13,25,21,0,CPHL
+4,Tulsa Oilers,1,1965-66,11,5,10,22,0,CPHL
+6,Tulsa Oilers,1,1967-68,11,7,14,24,0,CPHL
+5,Tulsa Oilers,2,1968-69,7,7,18,25,0,CHL

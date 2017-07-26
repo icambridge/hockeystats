@@ -1,0 +1,9 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WHL,4,Brandon Wheat Kings,271,20,3,0,0,22,0,0,0,0,1,0,0,0,0,0,1987-88,0,4.87,0,0
+0,IHL,1,Peoria Rivermen,60,20,1,0,0,5,0,0,0,0,0,0,0,0,0,0,1987-88,0,5.00,0,0
+0,AHL,4,Springfield Indians,174,22,1,0,0,9,0,0,0,0,2,0,0,0,0,0,1989-90,0,3.10,0,0
+0,AHL,3,New Haven Nighthawks,216,24,2,0,0,13,0,0,0,0,1,0,0,0,0,0,1991-92,0,3.61,0,0
+0,AHL,14,Springfield Indians,778,25,7,0,0,53,0,0,0,0,6,0,0,0,0,0,1992-93,0,4.09,0,0
+0,ColHL,1,Muskegon Fury,59,25,1,0,0,6,0,0,0,0,0,0,0,0,0,0,1992-93,0,6.10,0,0
+0,CHL,9,Wichita Thunder,476,27,3,0,0,37,0,0,0,0,6,0,0,0,0,0,1994-95,0,4.66,0,0
+0,ECHL,3,Louisiana IceGators,160,28,2,0,0,14,0,0,0,0,0,0,0,0,0,0,1995-96,0,5.25,0,0

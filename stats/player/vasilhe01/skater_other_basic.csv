@@ -1,0 +1,32 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,18,4,24,5,0,Germany,42,Krefelder EV,9
+1995-96,19,34,63,33,0,OHL,65,Guelph Storm,67
+1996-97,20,13,30,18,0,AHL,54,Carolina Monarchs,31
+1996-97,20,3,4,2,0,ColHL,3,Port Huron Border Cats,5
+1997-98,21,36,60,30,9,AHL,76,Beast of New Haven,66
+1998-99,22,28,66,48,20,AHL,76,Kentucky Thoroughblades,76
+1999-00,23,25,60,35,21,IHL,73,Orlando Solar Bears,60
+1999-00,23,0,4,0,0,WC-A,1,Latvia,0
+2000-01,24,22,32,26,17,IHL,58,Orlando Solar Bears,48
+2001-02,25,12,10,14,6,AHL,31,Manitoba Moose,26
+2002-03,26,10,30,29,-8,AHL,69,Manitoba Moose,39
+2003-04,27,4,38,7,0,Russia,37,Amur Khabarovsk,11
+2003-04,27,0,0,1,-2,WC-A,7,Latvia,1
+2004-05,28,15,40,23,0,Germany,39,Nurnberg Ice Tigers,38
+2004-05,28,0,0,0,1,WC-A,6,Latvia,0
+2005-06,29,24,67,21,8,Germany,50,Krefeld Pinguine,45
+2005-06,29,1,4,0,-6,Olympics,4,Latvia,1
+2005-06,29,1,10,0,2,WC-A,6,Latvia,1
+2006-07,30,30,78,24,0,Germany,51,Krefeld Pinguine,54
+2006-07,30,2,8,3,0,WC-A,6,Latvia,5
+2007-08,31,24,54,33,0,Germany,53,Krefeld Pinguine,57
+2007-08,31,2,10,1,0,WC-A,6,Latvia,3
+2008-09,32,20,40,35,0,Germany,52,Krefeld Pinguine,55
+2008-09,32,1,4,1,3,Oly-Q,3,Latvia,2
+2008-09,32,3,2,1,1,WC-A,7,Latvia,4
+2009-10,33,22,92,36,0,Germany,51,Krefeld Pinguine,58
+2009-10,33,1,6,1,-2,Olympics,4,Latvia,2
+2009-10,33,0,8,3,-2,WC-A,6,Latvia,3
+2010-11,34,16,38,33,0,Germany,52,Krefeld Pinguine,49
+2010-11,34,1,6,1,1,WC-A,6,Latvia,2
+2012-13,36,18,87,29,0,Germany,50,Krefeld Pinguine,47

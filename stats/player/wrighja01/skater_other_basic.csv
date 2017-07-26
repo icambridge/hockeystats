@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1991-92,15,17,46,11,0,ON-Jr.B,44,Elmira Sugar Kings,28
+1992-93,16,22,52,32,0,ON-Jr.B,47,Elmira Sugar Kings,54
+1993-94,17,17,34,15,0,OHL,65,Guelph Storm,32
+1994-95,18,43,36,39,0,OHL,65,Guelph Storm,82
+1995-96,19,30,45,36,0,OHL,55,Guelph Storm,66
+1995-96,19,1,2,2,0,WJC-A,6,Canada,3
+1996-97,20,6,34,8,0,IHL,60,Michigan K-Wings,14
+1997-98,21,15,31,11,-7,IHL,53,Michigan K-Wings,26
+1998-99,22,16,92,15,0,IHL,64,Michigan K-Wings,31
+1999-00,23,12,64,4,-8,IHL,49,Michigan K-Wings,16
+2000-01,24,25,126,27,21,IHL,74,Utah Grizzlies,52
+2001-02,25,11,34,13,7,AHL,34,Saint John Flames,24
+2001-02,25,1,2,1,-1,WC-A,7,Canada,2
+2002-03,26,12,31,15,6,AHL,36,2 Teams,27
+2002-03,26,2,0,1,0,AHL,3,Saint John Flames,3
+2002-03,26,10,31,14,6,AHL,33,Philadelphia Phantoms,24
+2003-04,27,25,101,30,9,AHL,78,Toronto Roadrunners,55
+2004-05,28,13,86,15,-6,AHL,65,Edmonton Roadrunners,28
+2005-06,29,12,73,18,0,Finland,44,Lukko Rauma,30
+2005-06,29,0,4,3,0,Swiss,3,HC Geneve-Servette,3
+2006-07,30,19,18,19,0,Swiss,40,HC Geneve-Servette,38
+2007-08,31,19,77,29,0,Germany,55,DEG Metro Stars Dusseldorf,48
+2008-09,32,4,26,7,0,Germany,32,Frankfurt Lions,11
+2008-09,32,0,2,0,1,CHL,1,Amarillo Gorillas,0
+2009-10,33,8,22,14,0,Germany,29,Frankfurt Lions,22

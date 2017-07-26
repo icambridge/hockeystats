@@ -1,0 +1,11 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,BCJHL,28,Penticton Knights,1522,17,6,0,0,94,0,0,0,0,20,0,0,0,0,0,1985-86,0,3.71,0,0
+0,CCHA,32,University of Michigan,1728,18,16,0,0,148,0,0,1,1,12,0,0,0,0,0,1986-87,0,5.14,0,0
+0,CCHA,33,University of Michigan,1930,19,15,0,0,132,0,0,0,0,18,0,0,0,0,0,1987-88,0,4.10,0,0
+0,CCHA,33,University of Michigan,1887,20,11,0,0,116,0,0,2,0,17,0,0,0,0,0,1988-89,0,3.69,0,0
+0,CCHA,39,University of Michigan,2165,21,10,0,0,117,0,0,6,0,20,0,0,0,0,0,1989-90,0,3.24,0,0
+0,IHL,3,Salt Lake Golden Eagles,178,21,3,0,0,13,0,0,0,0,0,0,0,0,0,0,1989-90,0,4.38,0,0
+0,IHL,37,Salt Lake Golden Eagles,2097,22,11,0,0,124,0,0,1,2,21,0,0,0,0,0,1990-91,0,3.55,0,0
+0,IHL,35,Salt Lake Golden Eagles,1936,23,18,0,0,121,0,0,4,0,9,0,0,0,0,0,1991-92,0,3.75,0,0
+0,AHL,25,St. John\'s Maple Leafs,1168,24,8,0,0,80,0,0,3,0,9,0,0,0,0,0,1992-93,0,4.11,0,0
+0,ColHL,7,Brantford Smoke,400,24,1,0,0,27,0,0,0,0,5,0,0,0,0,0,1992-93,0,4.05,0,0

@@ -1,0 +1,17 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2002-03,16,2,2,3,0,ON-Jr.A,8,Cumberland Grads,5
+2003-04,17,31,26,32,0,ON-Jr.A,51,Cumberland Grads,63
+2004-05,18,18,22,14,0,CCHA,36,Bowling Green University,32
+2005-06,19,20,43,28,0,CCHA,36,Bowling Green University,48
+2006-07,20,11,70,22,0,CCHA,38,Bowling Green University,33
+2006-07,20,2,10,2,-3,AHL,16,Philadelphia Phantoms,4
+2007-08,21,20,52,24,4,AHL,77,Philadelphia Phantoms,44
+2008-09,22,29,77,34,-12,AHL,78,Philadelphia Phantoms,63
+2009-10,23,30,50,32,-19,AHL,80,Adirondack Phantoms,62
+2010-11,24,20,36,28,0,AHL,65,Charlotte Checkers,48
+2011-12,25,23,50,37,1,AHL,76,2 Teams,60
+2011-12,25,13,22,21,1,AHL,41,Charlotte Checkers,34
+2011-12,25,10,28,16,0,AHL,35,San Antonio Rampage,26
+2012-13,26,15,30,18,-18,AHL,65,2 Teams,33
+2012-13,26,14,30,18,-17,AHL,60,Worcester Sharks,32
+2012-13,26,1,0,0,-1,AHL,5,Chicago Wolves,1

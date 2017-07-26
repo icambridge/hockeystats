@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1975-01-20,", ",LW,Eric Healey,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",LW,1975-01-20,Eric Healey

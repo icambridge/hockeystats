@@ -1,24 +1,24 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-117,Pembroke Lumber Kings,22,0,50,ON-Jr.A,53,1983-84,17,28
-117,Belleville Bulls,16,0,23,OHL,58,1984-85,18,7
-172,Belleville Bulls,13,0,27,OHL,60,1985-86,19,14
-187,Belleville Bulls,40,0,87,OHL,60,1986-87,20,47
-337,Flint Spirits,13,0,26,IHL,50,1987-88,21,13
-11,Fredericton Express,4,0,4,AHL,2,1987-88,21,0
-307,Milwaukee Admirals,14,0,26,IHL,63,1988-89,22,12
-273,Milwaukee Admirals,17,0,40,IHL,61,1989-90,23,23
-66,Newmarket Saints,5,0,7,AHL,22,1990-91,24,2
-134,Milwaukee Admirals,11,0,20,IHL,39,1990-91,24,9
-139,St. John\'s Maple Leafs,27,0,57,AHL,66,1991-92,25,30
-103,St. John\'s Maple Leafs,41,0,62,AHL,72,1992-93,26,21
-115,Cleveland Lumberjacks,14,0,33,IHL,76,1993-94,27,19
-124,2 Teams,8,0,20,IHL,51,1994-95,28,12
-29,Cleveland Lumberjacks,0,0,2,IHL,4,1994-95,28,2
-95,Minnesota Moose,8,0,18,IHL,47,1994-95,28,10
-65,Cincinnati Cyclones,12,0,28,IHL,73,1995-96,29,16
-162,Cincinnati Cyclones,13,0,26,IHL,81,1996-97,30,13
-168,Cincinnati Cyclones,23,10,36,IHL,71,1997-98,31,13
-171,Cincinnati Cyclones,32,8,52,IHL,82,1998-99,32,20
-98,Cincinnati Cyclones,17,-7,31,IHL,61,1999-00,33,14
-146,ESC Moskitos Essen,14,0,32,Germany,49,2001-02,35,18
-138,Hannover Scorpions,22,0,29,Germany,43,2002-03,36,7
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+22,Pembroke Lumber Kings,28,1983-84,53,50,117,17,0,ON-Jr.A
+16,Belleville Bulls,7,1984-85,58,23,117,18,0,OHL
+13,Belleville Bulls,14,1985-86,60,27,172,19,0,OHL
+40,Belleville Bulls,47,1986-87,60,87,187,20,0,OHL
+13,Flint Spirits,13,1987-88,50,26,337,21,0,IHL
+4,Fredericton Express,0,1987-88,2,4,11,21,0,AHL
+14,Milwaukee Admirals,12,1988-89,63,26,307,22,0,IHL
+17,Milwaukee Admirals,23,1989-90,61,40,273,23,0,IHL
+5,Newmarket Saints,2,1990-91,22,7,66,24,0,AHL
+11,Milwaukee Admirals,9,1990-91,39,20,134,24,0,IHL
+27,St. John\'s Maple Leafs,30,1991-92,66,57,139,25,0,AHL
+41,St. John\'s Maple Leafs,21,1992-93,72,62,103,26,0,AHL
+14,Cleveland Lumberjacks,19,1993-94,76,33,115,27,0,IHL
+8,2 Teams,12,1994-95,51,20,124,28,0,IHL
+0,Cleveland Lumberjacks,2,1994-95,4,2,29,28,0,IHL
+8,Minnesota Moose,10,1994-95,47,18,95,28,0,IHL
+12,Cincinnati Cyclones,16,1995-96,73,28,65,29,0,IHL
+13,Cincinnati Cyclones,13,1996-97,81,26,162,30,0,IHL
+23,Cincinnati Cyclones,13,1997-98,71,36,168,31,10,IHL
+32,Cincinnati Cyclones,20,1998-99,82,52,171,32,8,IHL
+17,Cincinnati Cyclones,14,1999-00,61,31,98,33,-7,IHL
+14,ESC Moskitos Essen,18,2001-02,49,32,146,35,0,Germany
+22,Hannover Scorpions,7,2002-03,43,29,138,36,0,Germany

@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1999-00,15,45,0,25,0,SCAHA,35,Los Angeles Jr. Kings,70
+2000-01,16,0,0,0,0,U-17,13,U.S. National Team Development Program,0
+2000-01,16,29,72,15,0,NAHL,47,U.S. National Team Development Program,44
+2001-02,17,21,18,15,0,U-18,31,U.S. National Team Development Program,36
+2001-02,17,6,8,3,0,USHL,10,U.S. National Team Development Program,9
+2001-02,17,2,10,1,0,NAHL,9,U.S. National Team Development Program,3
+2001-02,17,9,4,3,9,WJ18-A,8,United States,12
+2002-03,18,27,30,11,0,WCHA,36,Colorado College,38
+2002-03,18,0,4,2,0,WJC-A,7,United States,2
+2003-04,19,16,40,12,0,WCHA,30,Colorado College,28
+2003-04,19,3,0,0,1,WJC-A,6,United States,3
+2004-05,20,34,74,29,0,WCHA,43,Colorado College,63
+2005-06,21,31,66,24,0,WCHA,42,Colorado College,55
+2006-07,22,55,96,42,14,AHL,77,Chicago Wolves,97
+2007-08,23,38,116,33,7,AHL,70,Chicago Wolves,71
+2008-09,24,16,84,23,-4,AHL,52,Chicago Wolves,39
+2009-10,25,34,38,22,20,AHL,55,Chicago Wolves,56
+2010-11,26,27,88,26,13,AHL,65,Wilkes-Barre Penguins,53
+2011-12,27,22,74,26,7,AHL,54,Peoria Rivermen,48
+2012-13,28,24,50,21,15,AHL,48,Chicago Wolves,45

@@ -1,0 +1,40 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1979-80,17,4,8,0,0,Fin-Jr.,6,KooVee Tampere Jr.,4
+1979-80,17,13,16,10,0,Finland,32,KooVee Tampere,23
+1979-80,17,4,2,3,0,Finland-Q,6,KooVee Tampere,7
+1979-80,17,5,4,2,0,EJC-A,5,Finland,7
+1980-81,18,11,29,19,0,Fin-Jr.,14,Ilves Tampere Jr.,30
+1980-81,18,3,2,3,0,Finland,16,Ilves Tampere,6
+1980-81,18,1,6,5,0,WJC-A,5,Finland,6
+1981-82,19,1,0,1,0,Fin-Jr.,1,Ilves Tampere Jr.,2
+1981-82,19,17,8,20,0,Finland,34,Ilves Tampere,37
+1981-82,19,7,2,8,0,WJC-A,7,Finland,15
+1982-83,20,14,20,36,0,Finland,33,Ilves Tampere,50
+1982-83,20,1,2,2,0,Nat-Tm,12,Finland,3
+1982-83,20,1,4,2,0,WEC-A,10,Finland,3
+1983-84,21,5,4,5,0,Nat-Tm,12,Finland,10
+1983-84,21,2,4,6,0,Olympics,6,Finland,8
+1983-84,21,17,30,36,0,Finland,35,2 Teams,53
+1983-84,21,4,0,4,0,Finland,5,Olympia,8
+1983-84,21,13,30,32,0,Finland,30,Ilves Tampere,45
+1984-85,22,17,18,21,0,Finland,35,Ilves Tampere,38
+1984-85,22,4,2,2,0,Nat-Tm,8,Finland,6
+1984-85,22,2,2,2,0,WEC-A,10,Finland,4
+1985-86,23,17,30,31,0,Finland,30,Ilves Tampere,48
+1986-87,24,23,38,31,0,Finland,44,Ilves Tampere,54
+1986-87,24,7,8,5,0,Nat-Tm,16,Finland,12
+1986-87,24,0,10,4,0,WEC-A,9,Finland,4
+1987-88,25,25,24,35,0,Finland,35,Ilves Tampere,60
+1988-89,26,5,6,15,0,Finland,22,Ilves Tampere,20
+1989-90,27,18,36,41,0,Finland,43,Ilves Tampere,59
+1989-90,27,4,4,5,0,Nat-Tm,12,Finland,9
+1989-90,27,1,0,2,0,WEC-A,10,Finland,3
+1990-91,28,15,34,23,0,Sweden-2,33,IK Vita Hasten Norrkoping,38
+1991-92,29,14,16,18,0,Finland,40,Ilves Tampere,32
+1992-93,30,20,6,22,0,Alpenliga,29,HC Fassa Canazel,42
+1992-93,30,13,2,13,0,Italy,15,HC Fassa Canazel,26
+1993-94,31,12,32,23,0,Finland,46,Ilves Tampere,35
+1994-95,32,12,30,33,0,Finland,50,HPK Hameenlinna,45
+1995-96,33,10,40,21,0,Finland,34,HPK Hameenlinna,31
+1996-97,34,16,22,26,0,Finland,38,HPK Hameenlinna,42
+1997-98,35,4,53,10,0,Finland,21,HPK Hameenlinna,14

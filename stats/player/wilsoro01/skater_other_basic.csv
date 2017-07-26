@@ -1,0 +1,13 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1965-66,19,10,0,33,0,NOJHA,40,Sudbury Wolves,43
+1966-67,20,0,9,0,0,IHL,3,Columbus Checkers,0
+1967-68,21,9,182,31,0,EHL,71,Greensboro Generals,40
+1968-69,22,0,13,0,0,CHL,4,Dallas Black Hawks,0
+1968-69,22,9,128,28,0,EHL,70,Greensboro Generals,37
+1969-70,23,0,0,0,0,CHL,3,Dallas Black Hawks,0
+1969-70,23,13,205,26,0,EHL,69,Greensboro Generals,39
+1970-71,24,21,285,49,0,EHL,71,Greensboro Generals,70
+1971-72,25,4,173,20,0,CHL,72,Dallas Black Hawks,24
+1972-73,26,7,120,27,0,CHL,65,Dallas Black Hawks,34
+1973-74,27,9,124,21,0,CHL,61,Dallas Black Hawks,30
+1974-75,28,6,71,27,0,CHL,52,Dallas Black Hawks,33

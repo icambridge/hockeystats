@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1986-87,16,6,20,16,0,High-MN,22,Armstrong High School,22
+1987-88,17,14,0,14,0,High-MN,24,Armstrong High School,28
+1989-90,19,4,38,24,0,WCHA,45,University of Minnesota,28
+1990-91,20,9,28,25,0,WCHA,45,University of Minnesota,34
+1991-92,21,10,65,22,0,WCHA,41,University of Minnesota,32
+1992-93,22,12,52,26,0,WCHA,42,University of Minnesota,38
+1992-93,22,0,0,1,0,WC-A,5,United States,1
+1993-94,23,1,38,11,0,Nat-Tm,51,United States,12
+1993-94,23,0,2,0,0,Olympics,8,United States,0
+1993-94,23,2,20,10,0,IHL,19,Kalamazoo Wings,12
+1994-95,24,4,53,16,0,IHL,63,Kalamazoo Wings,20
+1995-96,25,8,55,15,0,IHL,65,Michigan K-Wings,23
+1996-97,26,10,83,13,0,IHL,77,Grand Rapids Griffins,23
+1997-98,27,12,70,20,10,IHL,81,Grand Rapids Griffins,32
+1998-99,28,9,84,23,-3,IHL,82,Grand Rapids Griffins,32
+1999-00,29,5,47,23,29,IHL,71,Grand Rapids Griffins,28
+2000-01,30,5,42,30,38,IHL,75,Grand Rapids Griffins,35
+2001-02,31,6,36,23,15,AHL,72,Grand Rapids Griffins,29
+2002-03,32,6,52,21,31,AHL,73,Grand Rapids Griffins,27
+2003-04,33,2,48,22,1,AHL,76,Grand Rapids Griffins,24
+2004-05,34,1,30,3,0,AHL,35,Grand Rapids Griffins,4
+2005-06,35,0,10,4,8,AHL,13,Grand Rapids Griffins,4

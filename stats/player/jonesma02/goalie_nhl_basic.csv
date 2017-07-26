@@ -1,0 +1,5 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+4.2,1,NHL,19,LAK,1095,24,6,77,1,33,18,10.08,0,4,12,1,.722,0,13,.934,2013-14,500,1.81,0,"[{'link': '/awards/voting-2014.html#calder', 'name': 'Calder-16'}]",467
+1.5,2,NHL,15,LAK,775,25,5,0,1,29,11,0,2,3,4,1,.455,0,5,.906,2014-15,307,2.25,0,[],278
+10.8,9,NHL,65,SJS,3786,26,23,97,0,143,65,4.64,4,6,37,0,.554,0,36,.918,2015-16,1734,2.27,0,"[{'link': '/awards/voting-2016.html#AS', 'name': 'AS-9'}, {'link': '/awards/voting-2016.html#vezina', 'name': 'Vezina-7'}]",1591
+9.9,8,NHL,65,SJS,3800,27,23,102,0,152,65,-2.72,6,2,35,0,.600,0,39,.912,2016-17,1725,2.40,0,"[{'link': '/awards/voting-2017.html#vezina', 'name': 'Vezina-6'}]",1573

@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1948-49,17,7,27,5,0,OHA-Jr.,34,Oshawa Generals,12
+1949-50,18,20,31,32,0,OHA-Jr.,45,Oshawa Generals,52
+1950-51,19,61,14,54,0,OHA-Jr.,49,Oshawa Generals,115
+1951-52,20,18,13,18,0,AHL,51,Indianapolis Capitols,36
+1952-53,21,3,0,1,0,WHL,10,Edmonton Flyers,4
+1952-53,21,14,4,19,0,AHL,37,St. Louis Flyers,33
+1954-55,23,8,2,8,0,AHL,11,Buffalo Bisons,16
+1955-56,24,14,8,20,0,AHL,62,Buffalo Bisons,34
+1956-57,25,13,17,24,0,AHL,64,Buffalo Bisons,37
+1957-58,26,21,0,25,0,AHL,59,Buffalo Bisons,46
+1958-59,27,45,13,47,0,WHL,54,Calgary Stampeders,92
+1959-60,28,42,9,42,0,WHL,70,Calgary Stampeders,84
+1960-61,29,57,7,42,0,WHL,69,Calgary Stampeders,99
+1961-62,30,44,13,40,0,WHL,64,Calgary Stampeders,84
+1962-63,31,24,4,26,0,WHL,67,Calgary Stampeders,50
+1963-64,32,41,10,44,0,WHL,69,Denver Invaders,85
+1964-65,33,30,16,27,0,WHL,69,Victoria Maple Leafs,57
+1965-66,34,32,10,32,0,WHL,68,Victoria Maple Leafs,64
+1966-67,35,22,4,37,0,WHL,67,Victoria Maple Leafs,59
+1967-68,36,25,6,23,0,WHL,72,Phoenix Roadrunners,48
+1968-69,37,2,0,3,0,WHL,19,Denver Spurs,5
+1968-69,37,14,2,11,0,CHL,46,Amarillo Wranglers,25

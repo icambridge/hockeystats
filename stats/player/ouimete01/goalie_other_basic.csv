@@ -1,0 +1,17 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHA-Jr.,5,Montreal Jr. Canadiens,300,17,0,0,0,20,0,0,0,0,0,0,0,0,0,0,1964-65,0,4.00,0,0
+0,OHA-Jr.,32,Montreal Jr. Canadiens,1920,18,0,0,0,88,0,0,0,3,0,0,0,0,0,0,1965-66,0,2.75,0,0
+0,OHA-Jr.,41,Montreal Jr. Canadiens,2450,19,0,0,0,177,0,0,0,2,0,0,0,0,0,0,1966-67,0,4.33,0,0
+0,OHA-Jr.,35,London Nationals,2093,20,0,0,0,166,0,0,0,0,0,0,0,0,0,0,1967-68,0,4.76,0,0
+0,CHL,22,Kansas City Blues,0,21,0,0,0,64,0,0,0,2,0,0,0,0,0,0,1968-69,0,0,0,0
+0,CHL,6,Kansas City Blues,360,22,4,0,0,29,0,0,1,0,1,0,0,0,0,0,1969-70,0,4.83,0,0
+0,WHL,18,San Diego Gulls,1050,22,8,0,0,71,0,0,0,0,10,0,0,0,0,0,1969-70,0,4.06,0,0
+0,CHL,8,Kansas City Blues,0,23,0,0,0,32,0,0,0,0,0,0,0,0,0,0,1970-71,0,0,0,0
+0,IHL,27,Port Huron Flags,1588,23,0,0,0,104,0,0,0,1,0,0,0,0,0,0,1970-71,0,3.93,0,0
+0,IHL,1,Port Huron Wings,60,24,0,0,0,5,0,0,0,0,1,0,0,0,0,0,1971-72,0,5.00,0,0
+0,EHL,35,2 Teams,2000,24,10,0,0,149,0,0,0,0,8,0,0,0,0,0,1971-72,0,4.47,0,0
+0,EHL,17,Jacksonville Rockets,870,24,0,0,0,72,0,0,0,0,0,0,0,0,0,0,1971-72,0,4.97,0,0
+0,EHL,18,Syracuse Blazers,1130,24,10,0,0,77,0,0,0,0,8,0,0,0,0,0,1971-72,0,4.09,0,0
+0,AHL,19,Cleveland/Jacksonville Barons,909,25,0,0,0,74,0,0,0,0,0,0,0,0,0,0,1972-73,0,4.88,0,0
+0,NAHL,35,Syracuse Blazers,2119,26,0,0,0,105,0,0,0,0,0,0,0,0,0,0,1973-74,0,2.97,0,0
+0,NAPro,45,Cape Cod Codders,2551,27,16,0,0,161,0,0,4,2,21,0,0,0,0,0,1974-75,0,3.79,0,0

@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1983-84,16,9,51,24,0,WHL,72,Kelowna Wings,33
+1984-85,17,12,90,41,0,WHL,72,Kelowna Wings,53
+1985-86,18,2,48,6,0,WHL,22,2 Teams,8
+1985-86,18,0,4,0,0,WHL,3,Spokane Chiefs,0
+1985-86,18,2,44,6,0,WHL,19,Portland Winter Hawks,8
+1986-87,19,25,92,35,0,WHL,44,Portland Winter Hawks,60
+1987-88,20,2,4,1,0,AHL,4,Adirondack Red Wings,3
+1988-89,21,0,8,4,0,AHL,10,Adirondack Red Wings,4
+1989-90,22,8,53,23,0,AHL,60,3 Teams,31
+1989-90,22,2,6,5,0,AHL,9,Adirondack Red Wings,7
+1989-90,22,4,28,13,0,AHL,38,Cape Breton Oilers,17
+1989-90,22,2,19,5,0,AHL,13,Utica Devils,7
+1990-91,23,16,42,29,0,AHL,64,Utica Devils,45
+1991-92,24,3,18,12,0,AHL,31,Capital District Islanders,15
+1992-93,25,5,43,21,0,IHL,39,Kansas City Blades,26
+1993-94,26,18,68,32,0,IHL,68,Las Vegas Thunder,50
+1994-95,27,20,63,33,0,IHL,72,Las Vegas Thunder,53
+1995-96,28,8,74,29,0,IHL,72,2 Teams,37
+1995-96,28,6,56,14,0,IHL,41,Las Vegas Thunder,20
+1995-96,28,2,18,15,0,IHL,31,Utah Grizzlies,17
+1996-97,29,9,54,26,0,IHL,49,Utah Grizzlies,35
+1997-98,30,10,82,28,25,IHL,76,Utah Grizzlies,38
+1998-99,31,8,93,29,13,IHL,78,Utah Grizzlies,37
+1999-00,32,2,49,9,17,IHL,33,Utah Grizzlies,11

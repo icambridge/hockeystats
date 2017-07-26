@@ -1,0 +1,21 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,ON-Jr.A,47,Pembroke Lumber Kings,2721,19,24,0,0,212,0,0,4,1,16,0,0,0,0,0,1989-90,0,4.67,0,0
+0,ON-Jr.A,54,Pembroke Lumber Kings,3109,20,24,0,0,198,0,0,1,2,27,0,0,0,0,0,1990-91,0,3.82,0,0
+0,ECAC,30,University of Vermont,1783,21,11,0,0,81,0,0,3,0,15,0,0,0,0,0,1991-92,0,2.73,0,0
+0,ECAC,29,University of Vermont,1708,22,15,0,0,90,0,0,3,1,11,0,0,0,0,0,1992-93,0,3.16,0,0
+0,IHL,46,Indianapolis Ice,2302,23,25,0,0,159,0,0,1,1,14,0,0,0,0,0,1993-94,0,4.14,0,0
+0,IHL,42,Indianapolis Ice,2216,24,17,0,0,148,0,0,5,0,15,0,0,0,0,.876,1994-95,1196,4.01,0,1048
+0,CHL,5,Fort Worth Fire,300,25,2,0,0,19,0,0,0,0,3,0,0,0,0,.891,1995-96,175,3.80,0,156
+0,ECHL,3,Jacksonville Lizard Kings,179,25,1,0,0,11,0,0,0,0,2,0,0,0,0,.895,1995-96,105,3.69,0,94
+0,IHL,22,Indianapolis Ice,1198,25,9,0,0,62,0,0,0,0,12,0,0,0,0,.914,1995-96,724,3.11,0,662
+0,AHL,3,Kentucky Thoroughblades,138,26,2,0,0,11,0,0,0,0,0,0,0,0,0,.866,1996-97,82,4.78,0,71
+0,ECHL,46,Baton Rouge Kingfish,2421,26,20,0,0,128,0,0,3,3,18,0,0,0,0,.904,1996-97,1336,3.17,0,1208
+0,WPHL,11,Austin Ice Bats,658,27,5,0,0,38,0,0,0,0,6,0,0,0,0,.896,1997-98,367,3.47,0,329
+0,IHL,5,Houston Aeros,288,27,1,0,0,9,0,0,0,0,4,0,0,0,0,.915,1997-98,106,1.88,0,97
+0,ECHL,25,Baton Rouge Kingfish,1386,28,9,0,1,69,0,0,4,2,9,1,0,0,0,.914,1998-99,799,2.99,2,730
+0,WCHL,16,Tucson Gila Monsters,903,28,7,0,1,56,0,0,2,0,6,1,0,0,0,.870,1998-99,430,3.72,9,374
+0,WPHL,65,Arkansas GlacierCats,3652,29,20,0,1,225,0,0,9,1,31,1,0,0,0,.905,1999-00,2363,3.70,0,2138
+0,UHL,54,Elmira Jackals,3030,30,19,0,0,186,0,0,6,3,27,0,0,0,0,0,2000-01,0,3.68,0,0
+0,AHL,1,Louisville Panthers,60,30,1,0,0,5,0,0,0,0,0,0,0,0,0,.886,2000-01,44,5.00,2,39
+0,UHL,52,Elmira Jackals,2951,31,15,0,1,133,0,0,5,3,29,1,0,0,0,.917,2001-02,1611,2.70,4,1478
+0,WCHL,45,Anchorage Aces,2485,32,26,0,2,171,0,0,3,1,13,2,0,0,0,.882,2002-03,1452,4.13,10,1281

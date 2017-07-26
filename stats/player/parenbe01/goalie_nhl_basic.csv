@@ -1,0 +1,17 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+3.5,0,NHL,39,BOS,2083,20,20,0,0,128,0,0,3,1,11,0,0,0,0,0,1965-66,0,3.69,4,"[{'link': '/awards/voting-1966.html#calder', 'name': 'Calder-4'}]",0
+1.7,0,NHL,18,BOS,1022,21,12,0,0,62,0,0,2,0,4,0,0,0,0,0,1966-67,0,3.64,2,[],0
+7.2,0,NHL,38,PHI,2248,22,17,0,1,93,0,0,5,4,16,1,0,0,0,0,1967-68,0,2.48,23,[],0
+10.6,0,NHL,58,PHI,3365,23,23,0,0,151,0,0,0,1,17,0,0,0,0,0,1968-69,0,2.69,4,[],0
+10.6,0,NHL,62,PHI,3680,24,29,0,3,171,0,0,0,3,13,3,0,0,0,0,1969-70,0,2.79,14,[],0
+8.6,0,NHL,48,TOT,2626,25,19,0,2,119,0,0,9,2,16,2,0,0,0,0,1970-71,0,2.72,5,[],0
+5.1,0,NHL,30,PHI,1586,25,12,0,2,73,0,0,6,2,9,2,0,0,0,0,1970-71,0,2.76,5,[],0
+3.5,0,NHL,18,TOR,1040,25,7,0,0,46,0,0,3,0,7,0,0,0,0,0,1970-71,0,2.65,0,[],0
+9.3,0,NHL,47,TOR,2715,26,18,0,1,116,0,0,9,3,17,1,0,0,0,0,1971-72,0,2.56,6,[],0
+0,0,WHA,63,PHB,3653,27,0,104,1,0,0,-7.57,0,2,0,1,0,0,0,.886,1972-73,1936,3.61,36,"[{'link': '/awards/wha_all_star.html#1973', 'name': 'ASW-2'}]",1716
+0,0,NHL,0,PHI,0,28,13,0,3,136,0,0,12,0,0,3,0,0,0,0,1973-74,0,0,24,"[{'link': '/awards/nhl_all_star.html#1974', 'name': None}, {'link': '/awards/voting-1974.html#hart', 'name': 'Hart-2'}, {'link': '/awards/smythe.html#1974', 'name': None}, {'link': '/awards/vezina.html#1974', 'name': None}]",0
+0,0,NHL,68,PHI,4041,29,14,0,0,137,0,0,10,0,0,0,0,0,0,0,1974-75,0,0,16,"[{'link': '/awards/nhl_all_star.html#1975', 'name': None}, {'link': '/awards/voting-1975.html#hart', 'name': 'Hart-4'}, {'link': '/awards/smythe.html#1975', 'name': None}, {'link': '/awards/vezina.html#1975', 'name': None}]",0
+2.6,0,NHL,11,PHI,615,30,2,0,0,24,0,0,3,0,6,0,0,0,0,0,1975-76,0,2.34,2,[],0
+12.6,0,NHL,61,PHI,3525,31,13,0,0,159,0,0,0,5,35,0,0,0,0,0,1976-77,0,2.71,0,"[{'link': '/awards/voting-1977.html#AS', 'name': 'AS-5'}]",0
+12.4,0,NHL,49,PHI,2923,32,6,0,0,108,0,0,13,0,29,0,0,0,0,0,1977-78,0,2.22,4,[],0
+7.4,0,NHL,36,PHI,1979,33,12,0,2,89,0,0,7,4,16,2,0,0,0,0,1978-79,0,2.70,8,"[{'link': '/awards/voting-1979.html#AS', 'name': 'AS-7'}]",0

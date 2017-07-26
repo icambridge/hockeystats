@@ -1,26 +1,26 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1991-92,HC Sparta Praha,0,0,17,3,0,0,Czech
-6,1991-92,Czechoslovakia,2,0,17,6,3,1,EJC-A
-18,1992-93,New Haven Senators,21,0,18,59,25,4,AHL
-44,1993-94,P.E.I. Senators,26,0,19,69,36,10,AHL
-2,1994-95,P.E.I. Senators,1,0,20,7,1,0,AHL
-14,1994-95,Fort Wayne Komets,13,0,20,58,16,3,IHL
-0,1995-96,HC Sparta Praha,3,0,21,30,5,2,CzRep
-4,1996-97,HC Sparta Praha,23,0,22,52,35,12,CzRep
-0,1996-97,HC Sparta Praha,3,0,22,6,4,1,EuroHL
-36,1997-98,Vastra Frolunda HC Goteborg,12,0,23,46,14,2,Sweden
-32,1998-99,2 Teams,11,0,24,47,17,6,Sweden
-6,1998-99,Vastra Frolunda HC Goteborg,0,0,24,9,0,0,Sweden
-26,1998-99,Farjestads BK Karlstad,11,0,24,38,17,6,Sweden
-46,1999-00,Farjestads BK Karlstad,14,0,25,50,21,7,Sweden
-38,2000-01,Farjestads BK Karlstad,12,0,26,50,25,13,Sweden
-14,2001-02,HC Sparta Praha,6,0,27,23,10,4,CzRep
-22,2002-03,Farjestads BK Karlstad,19,0,28,49,26,7,Sweden
-22,2003-04,Farjestads BK Karlstad,15,0,29,44,26,11,Sweden
-47,2004-05,Farjestads BK Karlstad,11,0,30,47,14,3,Sweden
-32,2005-06,Farjestads BK Karlstad,21,0,31,49,26,5,Sweden
-40,2006-07,Kloten Flyers,35,0,32,42,38,3,Swiss
-0,2006-07,Czech Republic,0,1,32,7,0,0,WC-A
-46,2007-08,Kloten Flyers,23,0,33,47,30,7,Swiss
-62,2008-09,Kloten Flyers,28,0,34,47,37,9,Swiss
-20,2009-10,Kloten Flyers,9,0,35,14,10,1,Swiss
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,HC Sparta Praha,0,1991-92,3,0,0,17,0,Czech
+2,Czechoslovakia,1,1991-92,6,3,6,17,0,EJC-A
+21,New Haven Senators,4,1992-93,59,25,18,18,0,AHL
+26,P.E.I. Senators,10,1993-94,69,36,44,19,0,AHL
+1,P.E.I. Senators,0,1994-95,7,1,2,20,0,AHL
+13,Fort Wayne Komets,3,1994-95,58,16,14,20,0,IHL
+3,HC Sparta Praha,2,1995-96,30,5,0,21,0,CzRep
+23,HC Sparta Praha,12,1996-97,52,35,4,22,0,CzRep
+3,HC Sparta Praha,1,1996-97,6,4,0,22,0,EuroHL
+12,Vastra Frolunda HC Goteborg,2,1997-98,46,14,36,23,0,Sweden
+11,2 Teams,6,1998-99,47,17,32,24,0,Sweden
+0,Vastra Frolunda HC Goteborg,0,1998-99,9,0,6,24,0,Sweden
+11,Farjestads BK Karlstad,6,1998-99,38,17,26,24,0,Sweden
+14,Farjestads BK Karlstad,7,1999-00,50,21,46,25,0,Sweden
+12,Farjestads BK Karlstad,13,2000-01,50,25,38,26,0,Sweden
+6,HC Sparta Praha,4,2001-02,23,10,14,27,0,CzRep
+19,Farjestads BK Karlstad,7,2002-03,49,26,22,28,0,Sweden
+15,Farjestads BK Karlstad,11,2003-04,44,26,22,29,0,Sweden
+11,Farjestads BK Karlstad,3,2004-05,47,14,47,30,0,Sweden
+21,Farjestads BK Karlstad,5,2005-06,49,26,32,31,0,Sweden
+35,Kloten Flyers,3,2006-07,42,38,40,32,0,Swiss
+0,Czech Republic,0,2006-07,7,0,0,32,1,WC-A
+23,Kloten Flyers,7,2007-08,47,30,46,33,0,Swiss
+28,Kloten Flyers,9,2008-09,47,37,62,34,0,Swiss
+9,Kloten Flyers,1,2009-10,14,10,20,35,0,Swiss

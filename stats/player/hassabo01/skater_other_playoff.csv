@@ -1,15 +1,15 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-0,Toronto Marlboros,3,0,5,OHA-Jr.,4,1945-46,16,2
-0,Toronto Marlboros,1,0,2,OHA-Jr.,2,1946-47,17,1
-8,Toronto Dorsts,15,0,29,TMHL,12,1946-47,17,14
-2,Toronto Marlboros,1,0,2,OHA-Sr.,5,1947-48,18,1
-0,Toronto Marlboros,0,0,1,OHA-Jr.,1,1948-49,19,1
-4,Toronto Marlboros,10,0,13,OHA-Sr.,14,1949-50,20,3
-14,Toronto Marlboros,16,0,23,Al-Cup,17,1949-50,20,7
-10,Pittsburgh Hornets,5,0,10,AHL,11,1951-52,22,5
-8,Pittsburgh Hornets,1,0,4,AHL,5,1953-54,24,3
-8,Pittsburgh Hornets,1,0,8,AHL,10,1954-55,25,7
-4,Pittsburgh Hornets,3,0,4,AHL,4,1955-56,26,1
-4,Whitby Dunlops,5,0,11,EOHL,10,1958-59,29,6
-4,Whitby Dunlops,4,0,9,Al-Cup,12,1958-59,29,5
-2,Whitby Dunlops,4,0,6,OHA-Sr.,11,1959-60,30,2
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+3,Toronto Marlboros,2,1945-46,4,5,0,16,0,OHA-Jr.
+1,Toronto Marlboros,1,1946-47,2,2,0,17,0,OHA-Jr.
+15,Toronto Dorsts,14,1946-47,12,29,8,17,0,TMHL
+1,Toronto Marlboros,1,1947-48,5,2,2,18,0,OHA-Sr.
+0,Toronto Marlboros,1,1948-49,1,1,0,19,0,OHA-Jr.
+10,Toronto Marlboros,3,1949-50,14,13,4,20,0,OHA-Sr.
+16,Toronto Marlboros,7,1949-50,17,23,14,20,0,Al-Cup
+5,Pittsburgh Hornets,5,1951-52,11,10,10,22,0,AHL
+1,Pittsburgh Hornets,3,1953-54,5,4,8,24,0,AHL
+1,Pittsburgh Hornets,7,1954-55,10,8,8,25,0,AHL
+3,Pittsburgh Hornets,1,1955-56,4,4,4,26,0,AHL
+5,Whitby Dunlops,6,1958-59,10,11,4,29,0,EOHL
+4,Whitby Dunlops,5,1958-59,12,9,4,29,0,Al-Cup
+4,Whitby Dunlops,2,1959-60,11,6,2,30,0,OHA-Sr.

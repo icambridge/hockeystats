@@ -1,0 +1,17 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHA-Jr.,33,Kitchener Rangers,1940,20,0,0,0,95,0,0,0,3,0,0,0,0,0,0,1966-67,0,2.94,0,0
+0,IHL,43,Fort Wayne Komets,2398,21,0,0,0,134,0,0,0,1,0,0,0,0,0,0,1967-68,0,3.35,0,0
+0,CHL,24,Kansas City Blues,1309,22,0,0,0,83,0,0,0,0,0,0,0,0,0,0,1968-69,0,3.80,0,0
+0,CHL,30,Kansas City Blues,1800,23,16,0,0,104,0,0,4,2,10,0,0,0,0,0,1969-70,0,3.47,0,0
+0,CHL,6,Kansas City Blues,360,24,0,0,0,23,0,0,0,0,0,0,0,0,0,0,1970-71,0,3.83,0,0
+0,IHL,31,Fort Wayne Komets,1811,24,0,0,0,80,0,0,0,1,0,0,0,0,0,0,1970-71,0,2.65,0,0
+0,IHL,21,Fort Wayne Komets,1251,25,0,0,0,83,0,0,0,1,0,0,0,0,0,0,1971-72,0,3.98,0,0
+0,IHL,46,Fort Wayne Komets,2737,26,0,0,0,132,0,0,0,2,0,0,0,0,0,0,1972-73,0,2.89,0,0
+0,IHL,47,Fort Wayne Komets,2701,27,0,0,0,148,0,0,0,2,0,0,0,0,0,0,1973-74,0,3.29,0,0
+0,IHL,46,Fort Wayne Komets,2713,28,0,0,0,146,0,0,0,2,0,0,0,0,0,0,1974-75,0,3.23,0,0
+0,IHL,63,Fort Wayne Komets,3321,29,0,0,0,199,0,0,0,1,0,0,0,0,0,0,1975-76,0,3.60,0,0
+0,IHL,41,Fort Wayne Komets,2248,30,0,0,0,141,0,0,0,1,0,0,0,0,0,0,1976-77,0,3.76,0,0
+0,IHL,39,Fort Wayne Komets,2152,31,0,0,0,129,0,0,0,0,0,0,0,0,0,0,1977-78,0,3.60,0,0
+0,IHL,54,Fort Wayne Komets,2490,32,0,0,0,193,0,0,0,1,0,0,0,0,0,0,1978-79,0,4.65,0,0
+0,IHL,41,Fort Wayne Komets,2188,33,0,0,0,147,0,0,0,1,0,0,0,0,0,0,1979-80,0,4.03,0,0
+0,IHL,51,Fort Wayne Komets,2719,34,0,0,0,168,0,0,0,0,0,0,0,0,0,0,1980-81,0,3.71,0,0

@@ -1,0 +1,5 @@
+won,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+,0,NHL,10,BUF,570,24,6,96,0,26,0,1.08,0,1,4,0,0,0,0,.922,1996-97,334,2.74,9,308
+,0,NHL,1,SJS,60,26,1,0,0,6,0,0,0,0,0,0,0,0,0,.833,1998-99,36,6.00,0,30
+,0,NHL,12,SJS,696,27,7,136,0,36,0,-9.62,0,0,5,0,0,0,0,.889,1999-00,323,3.10,0,287
+,0,NHL,2,BOS,119,30,2,0,0,6,0,0,0,0,0,0,0,0,0,.897,2002-03,58,3.03,0,52

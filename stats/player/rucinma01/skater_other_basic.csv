@@ -1,0 +1,31 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1988-89,17,1,2,0,0,Czech,3,CHZ Litvinov,1
+1989-90,18,12,0,6,0,Czech,39,CHZ Litvinov,18
+1990-91,19,24,69,20,0,Czech,56,HC CHZ Litvinov,44
+1990-91,19,9,2,5,0,WJC-A,7,Czechoslovakia,14
+1991-92,20,0,4,2,0,Can-Cup,4,Czechoslovakia,2
+1991-92,20,12,40,13,0,AHL,42,2 Teams,25
+1991-92,20,11,34,12,0,AHL,35,Cape Breton Oilers,23
+1991-92,20,1,6,1,0,AHL,7,Halifax Citadels,2
+1993-94,22,2,8,2,0,WC-A,6,Czech Republic,4
+1994-95,23,12,54,10,0,CzRep,13,HC Chemopetrol Litvinov,22
+1995-96,24,1,0,1,0,CzRep,1,HC Petra Vsetin,2
+1996-97,25,0,2,0,0,W-Cup,3,Czech Republic,0
+1997-98,26,3,4,1,0,Olympics,6,Czech Republic,4
+1998-99,27,2,0,2,0,CzRep,3,HC Chemopetrol Litvinov,4
+1998-99,27,4,16,6,0,WC-A,12,Czech Republic,10
+2000-01,29,2,30,4,8,WC-A,9,Czech Republic,6
+2001-02,30,0,2,3,-2,Olympics,4,Czech Republic,3
+2002-03,31,1,2,0,0,CzRep,2,HC Chemopetrol Litvinov,1
+2003-04,32,4,6,5,5,WC-A,7,Czech Republic,9
+2004-05,33,1,10,1,2,W-Cup,4,Czech Republic,2
+2004-05,33,15,87,26,0,CzRep,38,HC Chemopetrol Litvinov,41
+2004-05,33,2,22,4,4,WC-A,9,Czech Republic,6
+2005-06,34,1,0,3,0,Olympics,8,Czech Republic,4
+2008-09,37,5,26,4,0,CzRep,19,HC Sparta Praha,9
+2009-10,38,12,82,10,0,CzRep,52,HC Sparta Praha,22
+2010-11,39,9,42,13,0,CzRep,32,2 Teams,22
+2010-11,39,0,6,2,0,CzRep,9,HC Sparta Praha,2
+2010-11,39,9,36,11,0,CzRep,23,HC Benzina Litvinov,20
+2011-12,40,17,108,11,0,CzRep,56,HC Verva Litvinov,28
+2012-13,41,13,42,14,0,CzRep,33,HC Verva Litvinov,27

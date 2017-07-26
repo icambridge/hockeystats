@@ -1,0 +1,14 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,0,0,20,106,33,4,,DET,[],9.4,8,23,-3,10,0,1975-76,,2,95,0,19
+NHL,71,1,21,86,22,3,,TOT,[],3.5,2,19,3,3,0,1976-77,,1,119,0,16
+NHL,49,0,21,59,13,2,,DET,[],3.4,1,11,-17,2,0,1976-77,,1,80,0,9
+NHL,22,1,21,27,9,1,,PHI,[],3.7,1,8,20,1,0,1976-77,,0,39,0,7
+NHL,47,0,22,56,20,2,,PHI,[],7.1,3,16,35,4,0,1977-78,,1,91,0,14
+NHL,77,0,23,75,21,2,,PHI,[],4.0,1,18,15,3,1,1978-79,,1,53,1,15
+NHL,80,1,24,113,25,2,,STL,[],5.3,6,19,-24,6,0,1979-80,,0,87,0,17
+NHL,80,3,25,84,33,2,,STL,"[{'link': '/awards/voting-1981.html#AS', 'name': 'AS-17'}, {'link': '/awards/voting-1981.html#norris', 'name': 'Norris-21'}]",9.5,8,25,36,8,0,1980-81,,0,124,1,22
+NHL,71,0,26,91,22,3,,STL,[],2.2,2,20,-6,2,0,1981-82,,0,127,0,17
+NHL,43,0,27,48,11,0,,QUE,[],4.2,2,9,14,2,0,1982-83,,0,59,0,9
+NHL,22,0,28,24,12,1,,QUE,[],8.3,2,10,9,2,0,1983-84,,0,12,0,9
+NHL,73,1,29,69,17,0,,LAK,[],5.8,4,13,-10,4,0,1984-85,,0,46,0,13
+NHL,20,0,30,7,4,0,,LAK,[],0.0,0,4,-13,0,0,1985-86,,0,18,0,4

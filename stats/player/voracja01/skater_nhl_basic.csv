@@ -1,0 +1,10 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+22,NHL,80,1,19,3,156,101,38,32,4,1013,CBJ,33,0.0,[],8.9,9,29,11,9,0,0,2008-09,6,12:40,0,44,0,25
+33,NHL,81,1,20,4,274,154,50,63,9,1265,CBJ,21,33.3,[],10.4,12,34,-7,16,2,0,2009-10,17,15:37,4,26,0,25
+27,NHL,80,2,21,41,299,183,46,55,6,1358,CBJ,38,36.9,[],7.7,12,32,-3,14,24,0,2010-11,22,16:58,2,26,0,26
+38,NHL,78,2,22,16,348,190,49,44,11,1271,PHI,35,30.4,[],9.5,18,31,11,18,7,0,2011-12,18,16:17,0,32,0,20
+25,NHL,0,3,23,3,216,129,46,20,9,827,PHI,21,40.0,"[{'link': '/awards/voting-2013.html#AS', 'name': 'AS-16'}, {'link': '/awards/voting-2013.html#AS', 'name': 'AS-7'}]",17.1,14,24,-7,22,2,0,2012-13,12,17:14,8,35,0,15
+30,NHL,82,2,24,2,432,235,62,19,15,1415,PHI,33,66.7,[],9.8,15,39,11,23,4,0,2013-14,20,17:15,8,22,0,24
+42,NHL,82,3,25,3,418,221,81,55,22,1525,PHI,34,66.7,"[{'link': '/awards/nhl_all_star.html#2015', 'name': None}, {'link': '/awards/voting-2015.html#byng', 'name': 'Byng-56'}]",10.0,11,59,1,22,6,0,2014-15,28,18:36,11,78,0,37
+50,NHL,73,2,26,3,387,213,55,51,22,1357,PHI,26,50.0,[],5.2,10,44,-5,11,3,0,2015-16,34,18:35,1,38,0,22
+56,NHL,0,3,27,11,473,253,61,30,18,1565,PHI,24,21.4,[],7.9,15,41,-24,20,3,0,2016-17,22,19:05,5,56,0,23

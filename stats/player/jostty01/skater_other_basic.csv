@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2011-12,13,39,23,47,0,OMAHA,43,Pursuit of Excellence Bantm Prep,86
+2011-12,13,1,4,2,0,John Reid Ba,6,Pursuit of Excellence Bantm Prep,3
+2012-13,14,5,2,0,0,NAPHL 16U,6,Pursuit of Excellence 16U,5
+2012-13,14,5,2,7,0,Alberta Cup,5,Team Edmonton South,12
+2012-13,14,56,46,53,0,OMAHA,33,Pursuit of Excellence Bantm Prep,109
+2012-13,14,10,15,4,0,John Reid Ba,6,Pursuit of Excellence Bantm Prep,14
+2013-14,15,2,4,3,0,WCCC-16,4,Team British Columbia ,5
+2013-14,15,0,0,0,0,BCHL,3,Penticton Vees,0
+2013-14,15,3,14,3,0,Telus Cup,7,Okanagan Rockets,6
+2013-14,15,44,65,44,0,BCMML,36,Okanagan Rockets,88
+2014-15,16,2,10,1,0,WJAC-19,4,Canada West U19,3
+2014-15,16,2,0,6,0,U17-Dev,3,Team Gold,8
+2014-15,16,5,2,1,0,Western Cana,5,Penticton Vees,6
+2014-15,16,3,0,1,0,RBC Cup,5,Penticton Vees,4
+2014-15,16,23,16,22,0,BCHL,46,Penticton Vees,45
+2014-15,16,1,0,2,0,WHC-17,5,Canada White U17,3
+2015-16,17,3,2,6,0,WJAC-19,4,Canada West U19,9
+2015-16,17,6,2,9,7,WJC-18,7,Canada U18,15
+2015-16,17,3,0,0,1,Hlinka Memor,4,Canada U18,3
+2015-16,17,1,2,1,0,U18-Dev,3,Team White,2
+2015-16,17,42,43,62,0,BCHL,48,Penticton Vees,104
+2016-17,18,16,44,19,17,NCAA,33,North Dakota,35
+2016-17,18,1,6,3,-1,WJC-20,7,Canada U20,4

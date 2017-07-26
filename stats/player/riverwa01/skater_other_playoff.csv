@@ -1,0 +1,13 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1960-61,18,0,21,0,0,OHA-Jr.,4,Hamilton Red Wings,0
+1961-62,19,2,20,1,0,OHA-Jr.,10,Hamilton Red Wings,3
+1961-62,19,10,43,5,0,M-Cup,14,Hamilton Red Wings,15
+1962-63,20,0,13,0,0,AHL,12,Hershey Bears,0
+1965-66,23,1,2,0,0,AHL,3,Hershey Bears,1
+1966-67,24,0,4,2,0,AHL,5,Hershey Bears,2
+1967-68,25,6,9,1,0,CPHL,7,Kansas City Blues,7
+1968-69,26,3,0,5,0,AHL,6,Buffalo Bisons,8
+1969-70,27,3,6,9,0,AHL,14,Buffalo Bisons,12
+1969-70,27,3,7,4,0,CHL,6,Omaha Knights,7
+1970-71,28,3,6,2,0,AHL,6,Baltimore Clippers,5
+1971-72,29,0,4,3,0,AHL,5,Springfield Kings,3

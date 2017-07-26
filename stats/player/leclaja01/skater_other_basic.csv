@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1946-47,17,16,14,19,0,OCJHL,22,Ottawa St. Pats,35
+1947-48,18,12,20,29,0,AJHL,16,Lethbridge Native Sons,41
+1948-49,19,21,30,27,0,QJHL,36,Quebec Citadelles,48
+1949-50,20,19,28,42,0,QSHL,56,Ottawa Senators,61
+1950-51,21,20,43,22,0,QMHL,56,Ottawa Senators,42
+1951-52,22,25,22,29,0,QMHL,57,Quebec Aces,54
+1951-52,22,0,2,2,0,Alx-Cup,4,Quebec Aces,2
+1952-53,23,22,27,37,0,QMHL,54,Ottawa Senators,59
+1953-54,24,3,7,7,0,QHL,4,Ottawa Senators,10
+1953-54,24,14,11,17,0,AHL,52,Pittsburgh Hornets,31
+1955-56,26,5,8,10,0,QHL,12,Montreal Royals,15
+1956-57,27,8,4,9,0,QHL,14,Chicoutimi Sagueneens,17
+1957-58,28,20,32,40,0,QHL,48,Chicoutimi Sagueneens,60
+1958-59,29,22,54,42,0,QHL,61,Quebec Aces,64
+1959-60,30,22,22,39,0,AHL,72,Quebec Aces,61
+1960-61,31,22,12,34,0,AHL,72,Quebec Aces,56
+1961-62,32,3,18,11,0,AHL,50,Quebec Aces,14
+1962-63,33,31,32,67,0,EHL,67,Charlotte Checkers,98
+1963-64,34,27,34,56,0,EHL,57,Charlotte Checkers,83
+1964-65,35,23,78,35,0,EHL,44,Charlotte/New Haven,58
+1965-66,36,32,87,64,0,EHL,63,New Haven Blades,96
+1966-67,37,20,49,55,0,EHL,68,New Haven Blades,75
+1967-68,38,34,12,65,0,EHL,62,Florida Rockets,99

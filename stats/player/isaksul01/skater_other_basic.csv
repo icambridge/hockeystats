@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1971-72,17,23,0,0,0,Sweden,18,Rosersberg IK,23
+1973-74,19,0,0,0,0,Sweden,4,AIK Solna,0
+1974-75,20,15,12,10,0,Sweden,30,AIK Solna,25
+1975-76,21,11,6,7,0,Sweden,36,AIK Solna,18
+1976-77,22,14,8,5,0,Sweden,36,AIK Solna,19
+1977-78,23,11,16,10,0,Sweden,34,AIK Solna,21
+1978-79,24,15,14,14,0,Sweden,34,AIK Solna,29
+1979-80,25,9,12,11,0,Sweden,36,AIK Solna,20
+1980-81,26,1,2,0,0,DN-Cup,3,AIK Solna,1
+1980-81,26,13,26,8,0,Sweden,35,AIK Solna,21
+1980-81,26,0,4,1,0,WEC-A,5,Sweden,1
+1981-82,27,9,16,8,0,Sweden,24,AIK Solna,17
+1981-82,27,16,26,14,0,Nat-Tm,32,Sweden,30
+1981-82,27,1,4,2,0,WEC-A,10,Sweden,3
+1982-83,28,1,2,3,0,AHL,14,New Haven Nighthawks,4
+1983-84,29,11,12,11,0,Sweden,36,AIK Solna,22
+1984-85,30,7,20,8,0,Sweden,33,AIK Solna,15
+1985-86,31,25,0,22,0,Sweden-3,28,Rosersberg/Arlanda 73 Marsta,47
+1986-87,32,20,10,14,0,Sweden-2,30,Rosersberg/Arlanda 73 Marsta,34
+1987-88,33,4,8,8,0,Sweden-2,12,Rosersberg/Arlanda 73 HC Marsta,12

@@ -1,0 +1,22 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1979-80,17,46,49,67,0,SJHL,60,Prince Albert Raiders,113
+1979-80,17,0,0,1,0,WHL,1,Regina Pats,1
+1980-81,18,62,39,71,0,WHL,72,Regina Pats,133
+1981-82,19,62,128,111,0,WHL,72,Regina Pats,173
+1982-83,20,32,16,40,0,AHL,69,Maine Mariners,72
+1983-84,21,18,37,44,0,AHL,79,Springfield Indians,62
+1984-85,22,0,2,2,0,AHL,3,Hershey Bears,2
+1984-85,22,66,49,33,0,IHL,82,Kalamazoo Wings,99
+1985-86,23,0,0,1,0,AHL,3,Nova Scotia Oilers,1
+1985-86,23,52,73,52,0,IHL,77,Muskegon Lumberjacks,104
+1986-87,24,47,29,53,0,IHL,82,Muskegon Lumberjacks,100
+1987-88,25,56,46,81,0,IHL,81,Muskegon Lumberjacks,137
+1988-89,26,50,84,72,0,IHL,80,Muskegon Lumberjacks,122
+1989-90,27,51,80,51,0,IHL,79,Muskegon Lumberjacks,102
+1990-91,28,40,16,62,0,IHL,83,Muskegon Lumberjacks,102
+1991-92,29,39,154,63,0,IHL,82,Muskegon Lumberjacks,102
+1992-93,30,47,104,65,0,IHL,82,Cleveland Lumberjacks,112
+1993-94,31,48,92,51,0,IHL,81,Cleveland Lumberjacks,99
+1994-95,32,19,22,17,0,IHL,60,Cleveland Lumberjacks,36
+1995-96,33,22,27,21,0,IHL,53,Cleveland Lumberjacks,43
+1996-97,34,10,18,15,0,IHL,46,Cleveland Lumberjacks,25

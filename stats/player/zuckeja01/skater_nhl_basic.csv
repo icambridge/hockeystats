@@ -1,0 +1,7 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+2,NHL,6,0,20,0,16,10,2,5,0,66,MIN,2,0,[],0.0,0,2,-2,0,0,0,2011-12,2,11:02,0,2,0,2
+7,NHL,20,0,21,1,58,34,5,11,0,225,MIN,4,0.0,[],11.8,4,1,4,4,0,0,2012-13,5,11:16,0,8,0,1
+9,NHL,21,1,22,0,68,40,5,16,1,273,MIN,9,0,[],10.0,3,1,2,4,0,0,2013-14,11,12:59,1,2,0,0
+19,NHL,51,3,23,4,193,124,26,67,0,768,MIN,21,33.3,[],16.9,19,5,-9,21,2,1,2014-15,13,15:04,1,18,0,5
+27,NHL,71,1,24,1,280,158,23,83,2,1106,MIN,40,50.0,[],8.2,12,10,-5,13,1,1,2015-16,33,15:35,0,20,1,7
+23,NHL,79,3,25,4,292,172,47,73,0,1208,MIN,44,20.0,"[{'link': '/awards/voting-2017.html#selke', 'name': 'Selke-32'}]",12.8,21,25,0,22,1,0,2016-17,42,15:17,1,30,0,25

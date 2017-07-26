@@ -1,0 +1,30 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1988-89,16,2,95,10,0,QAAA,39,Ste-Foy Gouverneurs,12
+1989-90,17,7,203,11,0,QMJHL,69,Hull Olympiques,18
+1990-91,18,11,153,11,0,QMJHL,66,Hull Olympiques,22
+1991-92,19,4,99,17,0,QMJHL,46,Hull Olympiques,21
+1992-93,20,7,223,19,0,QMJHL,59,Hull Olympiques,26
+1993-94,21,3,168,11,0,IHL,62,Phoenix Roadrunners,14
+1994-95,22,4,235,10,0,IHL,70,2 Teams,14
+1994-95,22,4,233,10,0,IHL,69,Phoenix Roadrunners,14
+1994-95,22,0,2,0,0,IHL,1,Detroit Vipers,0
+1995-96,23,5,154,13,0,AHL,72,P.E.I. Senators,18
+1996-97,24,1,89,6,0,AHL,46,Rochester Americans,7
+1997-98,25,0,118,1,-1,AHL,28,Rochester Americans,1
+1997-98,25,0,47,1,1,IHL,20,2 Teams,1
+1997-98,25,0,13,1,0,IHL,4,Grand Rapids Griffins,1
+1997-98,25,0,34,0,1,IHL,16,Cleveland Lumberjacks,0
+1998-99,26,11,259,7,-1,IHL,66,Cleveland Lumberjacks,18
+1999-00,27,0,91,4,-8,IHL,33,2 Teams,4
+1999-00,27,0,21,2,-1,IHL,11,Cleveland Lumberjacks,2
+1999-00,27,0,70,2,-7,IHL,22,Michigan K-Wings,2
+2000-01,28,1,6,4,0,BH-Cup,5,Nottingham Panthers,5
+2000-01,28,0,168,6,0,Britain,44,Nottingham Panthers,6
+2001-02,29,14,163,35,0,Britain-2,42,Hull Thunder,49
+2002-03,30,5,113,12,0,Britain-2,24,Hull Thunder,17
+2002-03,30,8,75,13,0,QSPHL,17,Thetford Mines Prolab,21
+2003-04,31,11,227,10,0,QSPHL,43,Thetford Mines Prolab,21
+2004-05,32,5,106,19,0,QNAHL,51,Thetford Mines Prolab,24
+2005-06,33,2,137,18,0,QNAHL,48,Thetford Mines Prolab,20
+2006-07,34,1,110,11,0,QNAHL,41,St-Georges CRS Express,12
+2007-08,35,1,100,10,0,QNAHL,44,Quebec RadioX,11

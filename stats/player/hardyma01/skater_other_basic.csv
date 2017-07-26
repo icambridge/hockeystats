@@ -1,12 +1,12 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-44,Montreal Juniors,17,0,23,QMJHL,64,1975-76,16,6
-137,Montreal Juniors,40,0,60,QMJHL,72,1976-77,17,20
-145,Montreal Juniors,57,0,82,QMJHL,72,1977-78,18,25
-115,Montreal Juniors,52,0,70,QMJHL,67,1978-79,19,18
-32,Binghamton Dusters,13,0,16,AHL,56,1979-80,20,3
-12,Canada,2,0,5,WEC-A,10,1985-86,26,3
-48,Phoenix Roadrunners,3,0,8,IHL,54,1993-94,34,5
-35,Detroit Vipers,21,0,27,IHL,41,1994-95,35,6
-136,2 Teams,22,0,26,IHL,79,1995-96,36,4
-128,Los Angeles Ice Dogs,18,0,22,IHL,69,1995-96,36,4
-8,Detroit Vipers,4,0,4,IHL,10,1995-96,36,0
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+17,Montreal Juniors,6,1975-76,64,23,44,16,0,QMJHL
+40,Montreal Juniors,20,1976-77,72,60,137,17,0,QMJHL
+57,Montreal Juniors,25,1977-78,72,82,145,18,0,QMJHL
+52,Montreal Juniors,18,1978-79,67,70,115,19,0,QMJHL
+13,Binghamton Dusters,3,1979-80,56,16,32,20,0,AHL
+2,Canada,3,1985-86,10,5,12,26,0,WEC-A
+3,Phoenix Roadrunners,5,1993-94,54,8,48,34,0,IHL
+21,Detroit Vipers,6,1994-95,41,27,35,35,0,IHL
+22,2 Teams,4,1995-96,79,26,136,36,0,IHL
+18,Los Angeles Ice Dogs,4,1995-96,69,22,128,36,0,IHL
+4,Detroit Vipers,0,1995-96,10,4,8,36,0,IHL

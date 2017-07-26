@@ -1,0 +1,15 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,17,0,4,1,0,OHL,7,Oshawa Generals,1
+1995-96,18,1,13,1,0,OHL,5,Oshawa Generals,2
+1996-97,19,16,42,10,0,OHL,18,Oshawa Generals,26
+1997-98,20,0,0,1,0,AHL,2,Saint John Flames,1
+1999-00,22,0,2,0,0,AHL,3,Saint John Flames,0
+2001-02,24,4,17,2,0,AHL,10,Hartford Wolf Pack,6
+2002-03,25,0,2,0,-1,AHL,2,Hartford Wolf Pack,0
+2004-05,27,2,54,3,0,Germany,14,Adler Mannheim,5
+2006-07,29,2,22,3,0,Germany,6,ERC Ingolstadt,5
+2007-08,30,0,12,3,0,Germany,7,Hamburg Freezers,3
+2008-09,31,3,10,3,0,Germany,9,Hamburg Freezers,6
+2010-11,33,1,10,1,0,Germany,5,Kolner Haie,2
+2011-12,34,1,20,3,0,Germany,6,Kolner Haie,4
+2012-13,35,3,16,4,0,Germany,12,Kolner Haie,7

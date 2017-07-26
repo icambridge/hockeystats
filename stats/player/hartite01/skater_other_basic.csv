@@ -1,16 +1,16 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-51,KalPa Kuopio U18,13,0,37,Fin-U18,19,2006-07,16,24
-0,KalPa Kuopio Jr.,1,0,3,Fin-Jr.,11,2006-07,16,2
-6,KalPa Kuopio U18,6,0,15,Fin-U18,7,2007-08,17,9
-24,KalPa Kuopio Jr.,7,0,17,Fin-Jr.,37,2007-08,17,10
-0,KalPa Kuopio,0,0,0,Finland,1,2007-08,17,0
-6,Finland,1,0,3,WJ18-A,6,2007-08,17,2
-8,Suomi U20,2,0,2,Finland-2,3,2008-09,18,0
-12,KalPa Kuopio,6,0,23,Finland,51,2008-09,18,17
-4,Finland,6,0,9,WJC-A,6,2008-09,18,3
-22,KalPa Kuopio,18,0,33,Finland,53,2009-10,19,15
-0,Suomi U20,0,0,0,Finland-2,1,2009-10,19,0
-4,Finland,2,0,6,WJC-A,6,2009-10,19,4
-27,Oklahoma City Barons,25,-1,42,AHL,66,2010-11,20,17
-19,Oklahoma City Barons,18,1,32,AHL,51,2011-12,21,14
-23,Oklahoma City Barons,23,6,37,AHL,47,2012-13,22,14
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+13,KalPa Kuopio U18,24,2006-07,19,37,51,16,0,Fin-U18
+1,KalPa Kuopio Jr.,2,2006-07,11,3,0,16,0,Fin-Jr.
+6,KalPa Kuopio U18,9,2007-08,7,15,6,17,0,Fin-U18
+7,KalPa Kuopio Jr.,10,2007-08,37,17,24,17,0,Fin-Jr.
+0,KalPa Kuopio,0,2007-08,1,0,0,17,0,Finland
+1,Finland,2,2007-08,6,3,6,17,0,WJ18-A
+2,Suomi U20,0,2008-09,3,2,8,18,0,Finland-2
+6,KalPa Kuopio,17,2008-09,51,23,12,18,0,Finland
+6,Finland,3,2008-09,6,9,4,18,0,WJC-A
+18,KalPa Kuopio,15,2009-10,53,33,22,19,0,Finland
+0,Suomi U20,0,2009-10,1,0,0,19,0,Finland-2
+2,Finland,4,2009-10,6,6,4,19,0,WJC-A
+25,Oklahoma City Barons,17,2010-11,66,42,27,20,-1,AHL
+18,Oklahoma City Barons,14,2011-12,51,32,19,21,1,AHL
+23,Oklahoma City Barons,14,2012-13,47,37,23,22,6,AHL

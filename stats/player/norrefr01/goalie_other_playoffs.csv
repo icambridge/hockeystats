@@ -1,0 +1,16 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,Fin-Jr.,5,TPS Turku Jr.,307,19,0,0,0,11,0,0,0,1,0,0,0,0,0,0,1992-93,0,2.15,0,0
+0,Fin-Jr.,1,TPS Turku Jr.,58,20,1,0,0,4,0,0,0,0,0,0,0,0,0,0,1993-94,0,4.14,0,0
+0,Finland,11,TPS Turku,666,21,4,0,0,27,0,0,0,1,7,0,0,0,0,0,1994-95,0,2.43,0,0
+0,Finland,1,TPS Turku,20,25,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1998-99,0,6.00,0,0
+0,Finland,4,TPS Turku,234,26,0,0,0,10,0,0,0,0,3,0,0,0,0,0,1999-00,0,2.56,0,0
+0,Finland,10,TPS Turku,603,27,1,0,0,13,0,0,0,2,9,0,0,0,0,0,2000-01,0,1.29,0,0
+0,Finland,4,TPS Turku,256,28,3,0,0,7,0,0,0,1,1,0,0,0,0,0,2001-02,0,1.64,0,0
+0,Sweden,4,Vastra Frolunda HC Goteborg,288,29,0,0,0,6,0,0,0,1,0,0,0,0,0,0,2002-03,0,1.25,27,0
+0,Sweden,3,Linkopings HC,176,30,0,0,0,6,0,0,0,0,0,0,0,0,0,0,2003-04,0,2.05,2,0
+0,Sweden,6,Linkopings HC,383,31,0,0,1,13,0,0,0,0,0,1,0,0,0,0,2004-05,0,2.04,2,0
+0,Sweden,11,Linkopings HC,693,32,0,0,1,22,0,0,0,2,0,1,0,0,0,0,2005-06,0,1.90,4,0
+0,KHL,0,Ak Bars Kazan,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2008-09,0,0,4,0
+0,KHL,15,Ak Bars Kazan,892,35,0,0,0,29,0,0,0,2,0,0,0,0,0,0,2008-09,0,1.95,0,0
+0,Sweden,9,Linkopings HC,561,36,0,0,0,22,0,0,0,1,0,0,0,0,0,0,2009-10,0,2.35,25,0
+0,Sweden,7,Linkopings HC,423,37,0,0,0,17,0,0,0,0,0,0,0,0,0,0,2010-11,0,2.41,4,0

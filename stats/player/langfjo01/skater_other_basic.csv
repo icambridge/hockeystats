@@ -1,0 +1,16 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1995-96,18,45,105,40,0,AFHL,45,Great Falls Americans,85
+1996-97,19,35,100,23,0,USHL,38,Lincoln Stars,58
+1997-98,20,19,66,17,0,CCHA,46,University of Michigan,36
+1998-99,21,21,84,14,0,CCHA,41,University of Michigan,35
+1999-00,22,9,56,21,0,CCHA,39,University of Michigan,30
+2000-01,23,16,44,12,0,CCHA,42,University of Michigan,28
+2001-02,24,21,29,16,1,AHL,68,Grand Rapids Griffins,37
+2002-03,25,14,38,21,-4,AHL,59,Binghamton Senators,35
+2003-04,26,13,25,14,12,AHL,30,Binghamton Senators,27
+2004-05,27,32,75,25,17,AHL,74,Binghamton Senators,57
+2006-07,29,13,44,19,-1,AHL,38,Grand Rapids Griffins,32
+2007-08,30,22,34,7,5,AHL,44,Milwaukee Admirals,29
+2008-09,31,21,63,16,0,Germany,45,Frankfurt Lions,37
+2009-10,32,9,42,12,0,Germany,45,Frankfurt Lions,21
+2010-11,33,0,10,1,0,CzRep,9,HC Plzen 1929,1

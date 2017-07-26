@@ -1,0 +1,4 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,49,1,29,54,16,4,955,TOT,[],9.3,5,11,-10,5,0,2003-04,19:29,0,46,0,7
+NHL,5,1,29,7,2,0,96,LAK,[],28.6,2,0,1,2,0,2003-04,19:14,0,8,0,0
+NHL,44,0,29,47,14,4,858,PIT,[],6.4,3,11,-11,3,0,2003-04,19:31,0,38,0,7

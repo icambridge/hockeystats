@@ -1,0 +1,11 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,54,0,22,104,16,4,,NYR,[],3.8,4,12,-10,4,0,1980-81,,0,153,0,8
+NHL,68,1,23,153,33,9,,HAR,[],8.5,8,20,-25,13,0,1981-82,,5,147,1,10
+NHL,68,0,24,122,30,9,,HAR,[],4.9,3,24,-21,6,0,1982-83,,3,125,2,13
+NHL,72,0,25,96,18,2,,HAR,[],5.2,2,13,-2,5,0,1983-84,,3,118,0,11
+NHL,33,0,26,39,8,0,,HAR,[],12.8,4,3,2,5,0,1984-85,,1,53,0,3
+NHL,61,0,27,69,17,1,,TOR,[],8.7,6,11,-5,6,0,1985-86,,0,83,0,10
+NHL,43,0,28,43,12,2,,TOR,[],4.7,2,10,8,2,0,1986-87,,0,75,0,8
+NHL,21,0,29,22,4,0,,TOR,[],9.1,2,2,-3,2,0,1987-88,,0,19,0,2
+NHL,57,0,30,66,15,9,,TOR,[],1.5,1,14,-4,1,0,1988-89,,0,44,1,4
+NHL,2,0,31,0,0,0,,DET,[],0,0,0,-1,0,0,1989-90,,0,10,0,0

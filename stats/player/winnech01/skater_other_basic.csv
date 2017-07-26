@@ -1,0 +1,31 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1985-86,17,40,0,30,0,High-NJ,24,Ridgewood High School,70
+1986-87,18,25,56,33,0,High-NY,47,Northwood Huskies,58
+1987-88,19,17,28,19,0,H-East,30,U. of New Hampshire,36
+1988-89,20,11,22,20,0,H-East,30,U. of New Hampshire,31
+1989-90,21,10,12,13,0,H-East,24,U. of New Hampshire,23
+1990-91,22,15,24,16,0,H-East,33,U. of New Hampshire,31
+1990-91,22,3,0,1,0,AHL,7,Maine Mariners,4
+1991-92,23,12,30,35,0,AHL,45,Maine Mariners,47
+1991-92,23,3,4,2,0,WC-A,6,United States,5
+1992-93,24,23,34,36,0,AHL,64,Providence Bruins,59
+1993-94,25,29,20,21,0,AHL,70,Hershey Bears,50
+1994-95,26,26,39,40,0,AHL,78,Hershey Bears,66
+1995-96,27,12,26,20,0,IHL,66,2 Teams,32
+1995-96,27,6,14,13,0,IHL,27,Michigan K-Wings,19
+1995-96,27,6,12,7,0,IHL,39,Fort Wayne Komets,13
+1996-97,28,10,6,2,0,Italy,10,HC Merano,12
+1996-97,28,0,0,0,0,IHL,5,Utah Grizzlies,0
+1997-98,29,0,0,0,-1,IHL,3,San Antonio Dragons,0
+1997-98,29,17,16,23,9,AHL,64,Hartford Wolf Pack,40
+1998-99,30,2,0,0,-3,IHL,11,Manitoba Moose,2
+1998-99,30,7,25,6,-14,AHL,33,Hartford Wolf Pack,13
+1999-00,31,7,0,7,0,UHL,14,Binghamton Icemen,14
+1999-00,31,8,10,21,-4,AHL,52,3 Teams,29
+1999-00,31,1,6,3,-4,AHL,12,Louisville Panthers,4
+1999-00,31,1,0,1,1,AHL,2,Providence Bruins,2
+1999-00,31,6,4,17,-1,AHL,38,Springfield Falcons,23
+2000-01,32,13,6,14,-6,AHL,62,Springfield Falcons,27
+2000-01,32,2,4,6,0,UHL,6,New Haven Knights,8
+2001-02,33,16,20,33,-11,UHL,61,New Haven Knights,49
+2001-02,33,0,0,0,0,AHL,3,Providence Bruins,0

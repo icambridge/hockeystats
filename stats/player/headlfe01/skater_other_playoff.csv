@@ -1,11 +1,11 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-4,Saskatoon Quakers,1,0,4,N-SSHL,3,1919-20,18,3
-4,Saskatoon Quakers,1,0,7,N-SJHL,3,1919-20,18,6
-6,Saskatoon Collegiate,0,0,4,N-SJHL,5,1920-21,19,4
-0,Montreal Canadiens,0,0,0,St-Cup,4,1924-25,23,0
-4,Calgary Tigers,0,0,0,PrHL,2,1926-27,25,0
-0,Minneapolis Millers,0,0,0,AHA,8,1927-28,26,0
-5,Chicago Shamrocks,0,0,0,AHA,4,1931-32,30,0
-4,Tulsa Oilers,0,0,0,AHA,4,1933-34,32,0
-2,Tulsa Oilers,0,0,0,AHA,5,1934-35,33,0
-4,Tulsa Oilers,0,0,0,AHA,3,1935-36,34,0
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+1,Saskatoon Quakers,3,1919-20,3,4,4,18,0,N-SSHL
+1,Saskatoon Quakers,6,1919-20,3,7,4,18,0,N-SJHL
+0,Saskatoon Collegiate,4,1920-21,5,4,6,19,0,N-SJHL
+0,Montreal Canadiens,0,1924-25,4,0,0,23,0,St-Cup
+0,Calgary Tigers,0,1926-27,2,0,4,25,0,PrHL
+0,Minneapolis Millers,0,1927-28,8,0,0,26,0,AHA
+0,Chicago Shamrocks,0,1931-32,4,0,5,30,0,AHA
+0,Tulsa Oilers,0,1933-34,4,0,4,32,0,AHA
+0,Tulsa Oilers,0,1934-35,5,0,2,33,0,AHA
+0,Tulsa Oilers,0,1935-36,3,0,4,34,0,AHA

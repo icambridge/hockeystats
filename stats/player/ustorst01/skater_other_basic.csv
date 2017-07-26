@@ -1,0 +1,44 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1989-90,16,10,8,11,0,W.Ger-Jr.,8,ESV Kaufbeuren Jr.,21
+1989-90,16,2,6,3,0,EJC-A,6,Germany,5
+1990-91,17,33,78,34,0,Ger-Jr.,37,ESV Kaufbeuren Jr.,67
+1990-91,17,5,2,5,0,WJC-B,7,Germany,10
+1990-91,17,3,4,4,0,EJC-A,5,Germany,7
+1991-92,18,2,46,22,0,Germany,41,ESV Kaufbeuren,24
+1991-92,18,0,4,2,0,WJC-A,5,Germany,2
+1991-92,18,4,4,4,0,EJC-A,6,Germany,8
+1991-92,18,1,0,1,0,WC-A,6,Germany,2
+1992-93,19,14,32,18,0,Germany,37,ESV Kaufbeuren,32
+1992-93,19,1,26,1,0,WC-A,4,Germany,2
+1993-94,20,10,21,20,0,Germany,38,ESV Kaufbeuren,30
+1993-94,20,3,2,1,0,WJC-A,7,Germany,4
+1993-94,20,1,2,2,0,Olympics,8,Germany,3
+1994-95,21,21,51,38,0,AHL,63,Portland Pirates,59
+1995-96,22,1,6,4,0,AHL,8,Portland Pirates,5
+1996-97,23,0,2,2,0,W-Cup,4,Germany,2
+1996-97,23,7,27,17,0,AHL,36,Portland Pirates,24
+1997-98,24,17,54,23,0,Germany,45,Berlin Capitals,40
+1997-98,24,0,0,0,0,Olympics,4,Germany,0
+1998-99,25,14,51,24,2,IHL,54,2 Teams,38
+1998-99,25,11,40,17,-3,IHL,40,Las Vegas Thunder,28
+1998-99,25,3,11,7,5,IHL,14,Detroit Vipers,10
+1999-00,26,20,53,34,0,IHL,79,Cincinnati Cyclones,54
+2000-01,27,19,43,38,10,IHL,71,Cincinnati Cyclones,57
+2001-02,28,15,44,31,0,Germany,58,Adler Mannheim,46
+2001-02,28,2,2,1,-8,Olympics,7,Germany,3
+2001-02,28,2,6,3,0,WC-A,7,Germany,5
+2002-03,29,13,70,14,0,Germany,40,Adler Mannheim,27
+2003-04,30,1,20,9,0,Germany,21,Krefeld Pinguine,10
+2003-04,30,1,0,1,4,WC-A,6,Germany,2
+2004-05,31,0,0,0,-2,W-Cup,4,Germany,0
+2004-05,31,16,63,20,0,Germany,51,Eisbaren Berlin,36
+2005-06,32,13,38,24,0,Germany,49,Eisbaren Berlin,37
+2005-06,32,0,0,1,0,Olympics,5,Germany,1
+2005-06,32,1,0,5,5,WC-B,5,Germany,6
+2006-07,33,9,34,19,0,Germany,41,Eisbaren Berlin,28
+2007-08,34,20,67,33,0,Germany,55,Eisbaren Berlin,53
+2007-08,34,1,4,2,-4,WC-A,6,Germany,3
+2008-09,35,7,46,29,0,Germany,41,Eisbaren Berlin,36
+2009-10,36,13,80,29,0,Germany,53,Eisbaren Berlin,42
+2010-11,37,13,47,23,0,Germany,50,Eisbaren Berlin,36
+2011-12,38,3,6,8,0,Germany,23,Eisbaren Berlin,11

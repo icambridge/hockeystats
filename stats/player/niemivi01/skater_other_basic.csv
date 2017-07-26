@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1993-94,16,13,66,20,0,Fin-U18,29,Tappara Tampere U18,33
+1994-95,17,14,68,18,0,Fin-U18,15,Tappara Tampere U18,32
+1994-95,17,11,47,21,0,Fin-Jr.,16,Tappara Tampere Jr.,32
+1994-95,17,0,0,0,0,Finland,16,Tappara Tampere,0
+1995-96,18,20,63,23,0,Fin-Jr.,20,Tappara Tampere Jr.,43
+1995-96,18,0,8,1,0,Finland,4,Tappara Tampere,1
+1995-96,18,2,4,1,0,Finland-2,7,KooVee Tampere,3
+1996-97,19,2,2,7,0,Fin-Jr.,2,Tappara Tampere Jr.,9
+1996-97,19,10,120,13,0,Finland,49,Tappara Tampere,23
+1996-97,19,2,2,5,0,WJC-A,6,Finland,7
+1997-98,20,14,85,22,6,AHL,74,Hershey Bears,36
+1998-99,21,24,127,19,1,AHL,67,Hershey Bears,43
+1999-00,22,21,54,30,-11,AHL,74,Hershey Bears,51
+2000-01,23,10,48,11,-2,AHL,28,Hershey Bears,21
+2001-02,24,0,2,1,-1,Olympics,4,Finland,1
+2004-05,27,0,0,0,0,W-Cup,2,Finland,0
+2004-05,27,14,32,13,0,Finland,26,Tappara Tampere,27
+2005-06,28,0,4,1,1,Olympics,8,Finland,1
+2007-08,30,9,124,15,0,Sweden-2,34,IF Malmo Redhawks,24
+2008-09,31,21,82,20,0,Finland,55,Tappara Tampere,41
+2009-10,32,15,142,14,0,Finland,50,Tappara Tampere,29
+2010-11,33,12,62,23,0,KHL,53,Sibir Novosibirsk,35
+2011-12,34,1,18,1,0,KHL,22,2 Teams,2
+2011-12,34,1,4,0,0,KHL,6,Neftekhimik Nizhnekamsk,1
+2011-12,34,0,14,1,0,KHL,16,Dynamo Riga,1
+2012-13,35,22,132,28,0,Finland,57,Tappara Tampere,50

@@ -1,24 +1,24 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-1,,D,10.4,33,241,17,1,23,4,25,55,Denis Potvin,13.7,6.7,80,7,103,,80,42,6.9,21,/players/p/potvide01.html
-1,,C,17.1,32,175,18,0,20,6,30,42,Bryan Trottier,7.0,1.7,72,11,34,,76,28,5.2,10,/players/t/trottbr01.html
-1,,RW,15.0,27,160,18,1,25,3,24,43,Billy Harris,5.6,1.5,67,5,44,,80,18,4.2,15,/players/h/harribi02.html
-0,,RW,14.0,20,207,24,0,24,3,29,27,Bob Nystrom,5.3,1.6,56,5,91,,80,22,3.7,7,/players/n/nystrbo01.html
-0,,LW,17.0,26,147,20,0,35,7,25,31,J.P. Parise,5.1,1.7,56,5,46,,80,26,3.3,5,/players/p/parisjp01.html
-0,,LW,15.3,14,215,21,0,22,5,33,22,Clark Gillies,5.7,1.4,55,12,93,,70,18,4.3,8,/players/g/gillicl01.html
-0,,C,17.8,20,135,20,0,28,2,24,29,Jude Drouin,4.5,1.5,53,4,27,,78,18,3.1,9,/players/d/drouiju01.html
-3,,RW,11.9,27,118,10,4,36,0,14,33,Ed Westfall,3.3,1.6,47,1,8,,79,21,1.7,2,/players/w/westfed01.html
-1,,D,8.1,21,124,8,0,27,0,10,36,Jean Potvin,7.9,5.0,46,1,26,,79,14,2.9,15,/players/p/potvije01.html
-0,,LW,11.7,19,137,16,0,22,5,16,19,Bob Bourne,2.8,1.7,35,0,30,,75,27,1.1,0,/players/b/bournbo01.html
-6,,C,12.6,10,103,7,8,24,2,13,18,Lorne Henning,1.9,1.6,31,0,10,,80,21,0.3,0,/players/h/hennilo01.html
-0,,LW,14.3,15,91,12,0,24,4,13,15,Garry Howatt,1.7,1.2,28,1,182,,70,14,0.5,0,/players/h/howatga01.html
-1,,D,3.9,24,102,3,0,23,1,4,24,Dave Lewis,6.9,5.9,28,0,44,,79,29,1.0,0,/players/l/lewisda02.html
-0,,D,6.5,19,62,4,2,33,1,4,21,Bert Marshall,7.6,6.7,25,0,61,,72,48,0.9,0,/players/m/marshbe01.html
-0,,D,3.7,14,82,1,0,21,0,3,22,Pat Price,6.1,5.3,25,2,25,,71,26,0.8,8,/players/p/pricepa01.html
-0,,C,10.4,11,96,8,0,23,3,10,13,Andre St. Laurent,0.8,1.1,23,2,55,,72,8,-0.3,2,/players/s/stlauan01.html
-1,,D,3.4,17,118,3,1,29,0,4,18,Gerry Hart,6.4,5.9,22,0,98,,80,29,0.5,0,/players/h/hartge01.html
-1,,RW,17.6,7,34,5,1,33,1,6,8,Billy MacMillan,0.5,0.6,14,0,13,,43,4,-0.1,0,/players/m/macmibi01.html
-0,,C,11.1,0,9,1,0,21,0,1,0,Richie Hansen,0.0,0.0,1,0,0,,4,-1,0.0,0,/players/h/hanseri01.html
-0,,C,,1,0,0,0,23,0,0,1,Bob Lorimer,0.1,0.0,1,0,0,,1,1,0.0,0,/players/l/lorimbo01.html
-0,,G,,0,0,0,0,28,0,0,1,Glenn Resch,11.3,0.0,1,0,0,,46,0,0.0,0,/players/r/reschgl01.html
-0,,G,,0,0,0,0,26,0,0,1,Billy Smith,8.1,0.0,1,0,12,,36,0,0.0,0,/players/s/smithbi01.html
-0,,LW,0.0,0,5,0,0,26,0,0,0,Walt Ledingham,-0.2,0.0,0,0,0,,4,-1,-0.2,0,/players/l/ledinwa01.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+55,4,25,23,,6.9,6.7,17,,21,D,13.7,33,NYI,/players/p/potvide01.html,1,103,7,42,Denis Potvin,10.4,1977,80,1,80,241
+42,6,30,20,,5.2,1.7,18,,10,C,7.0,32,NYI,/players/t/trottbr01.html,0,34,11,28,Bryan Trottier,17.1,1977,72,1,76,175
+43,3,24,25,,4.2,1.5,18,,15,RW,5.6,27,NYI,/players/h/harribi02.html,1,44,5,18,Billy Harris,15.0,1977,67,1,80,160
+27,3,29,24,,3.7,1.6,24,,7,RW,5.3,20,NYI,/players/n/nystrbo01.html,0,91,5,22,Bob Nystrom,14.0,1977,56,0,80,207
+31,7,25,35,,3.3,1.7,20,,5,LW,5.1,26,NYI,/players/p/parisjp01.html,0,46,5,26,J.P. Parise,17.0,1977,56,0,80,147
+22,5,33,22,,4.3,1.4,21,,8,LW,5.7,14,NYI,/players/g/gillicl01.html,0,93,12,18,Clark Gillies,15.3,1977,55,0,70,215
+29,2,24,28,,3.1,1.5,20,,9,C,4.5,20,NYI,/players/d/drouiju01.html,0,27,4,18,Jude Drouin,17.8,1977,53,0,78,135
+33,0,14,36,,1.7,1.6,10,,2,RW,3.3,27,NYI,/players/w/westfed01.html,4,8,1,21,Ed Westfall,11.9,1977,47,3,79,118
+36,0,10,27,,2.9,5.0,8,,15,D,7.9,21,NYI,/players/p/potvije01.html,0,26,1,14,Jean Potvin,8.1,1977,46,1,79,124
+19,5,16,22,,1.1,1.7,16,,0,LW,2.8,19,NYI,/players/b/bournbo01.html,0,30,0,27,Bob Bourne,11.7,1977,35,0,75,137
+18,2,13,24,,0.3,1.6,7,,0,C,1.9,10,NYI,/players/h/hennilo01.html,8,10,0,21,Lorne Henning,12.6,1977,31,6,80,103
+15,4,13,24,,0.5,1.2,12,,0,LW,1.7,15,NYI,/players/h/howatga01.html,0,182,1,14,Garry Howatt,14.3,1977,28,0,70,91
+24,1,4,23,,1.0,5.9,3,,0,D,6.9,24,NYI,/players/l/lewisda02.html,0,44,0,29,Dave Lewis,3.9,1977,28,1,79,102
+21,1,4,33,,0.9,6.7,4,,0,D,7.6,19,NYI,/players/m/marshbe01.html,2,61,0,48,Bert Marshall,6.5,1977,25,0,72,62
+22,0,3,21,,0.8,5.3,1,,8,D,6.1,14,NYI,/players/p/pricepa01.html,0,25,2,26,Pat Price,3.7,1977,25,0,71,82
+13,3,10,23,,-0.3,1.1,8,,2,C,0.8,11,NYI,/players/s/stlauan01.html,0,55,2,8,Andre St. Laurent,10.4,1977,23,0,72,96
+18,0,4,29,,0.5,5.9,3,,0,D,6.4,17,NYI,/players/h/hartge01.html,1,98,0,29,Gerry Hart,3.4,1977,22,1,80,118
+8,1,6,33,,-0.1,0.6,5,,0,RW,0.5,7,NYI,/players/m/macmibi01.html,1,13,0,4,Billy MacMillan,17.6,1977,14,1,43,34
+0,0,1,21,,0.0,0.0,1,,0,C,0.0,0,NYI,/players/h/hanseri01.html,0,0,0,-1,Richie Hansen,11.1,1977,1,0,4,9
+1,0,0,23,,0.0,0.0,0,,0,C,0.1,1,NYI,/players/l/lorimbo01.html,0,0,0,1,Bob Lorimer,,1977,1,0,1,0
+1,0,0,28,,0.0,0.0,0,,0,G,11.3,0,NYI,/players/r/reschgl01.html,0,0,0,0,Glenn Resch,,1977,1,0,46,0
+1,0,0,26,,0.0,0.0,0,,0,G,8.1,0,NYI,/players/s/smithbi01.html,0,12,0,0,Billy Smith,,1977,1,0,36,0
+0,0,0,26,,-0.2,0.0,0,,0,LW,-0.2,0,NYI,/players/l/ledinwa01.html,0,0,0,-1,Walt Ledingham,0.0,1977,0,0,4,5

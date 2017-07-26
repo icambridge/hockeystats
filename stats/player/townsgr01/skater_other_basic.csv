@@ -1,0 +1,22 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1984-85,19,22,93,22,0,ON-Jr.B,35,Mimico Monarchs,44
+1985-86,20,1,52,7,0,ECAC,29,RPI Engineers,8
+1986-87,21,6,50,1,0,ECAC,29,RPI Engineers,7
+1987-88,22,6,64,14,0,ECAC,32,RPI Engineers,20
+1988-89,23,6,50,16,0,ECAC,31,RPI Engineers,22
+1988-89,23,2,11,1,0,AHL,5,Maine Mariners,3
+1989-90,24,15,162,13,0,AHL,64,Maine Mariners,28
+1990-91,25,16,119,10,0,AHL,46,Maine Mariners,26
+1991-92,26,14,94,23,0,AHL,61,Capital District Islanders,37
+1992-93,27,29,45,21,0,AHL,67,Capital District Islanders,50
+1993-94,28,16,107,13,0,AHL,56,P.E.I. Senators,29
+1994-95,29,19,204,21,0,IHL,71,Houston Aeros,40
+1995-96,30,21,97,11,0,IHL,66,2 Teams,32
+1995-96,30,0,0,0,0,IHL,3,Minnesota Moose,0
+1995-96,30,21,97,11,0,IHL,63,Houston Aeros,32
+1996-97,31,21,68,15,0,IHL,74,Houston Aeros,36
+1997-98,32,43,67,44,14,WPHL,68,Lake Charles Ice Pirates,87
+1997-98,32,0,0,0,0,IHL,2,2 Teams,0
+1997-98,32,0,0,0,-2,IHL,1,Utah Grizzlies,0
+1997-98,32,0,0,0,2,IHL,1,Houston Aeros,0
+1998-99,33,28,113,29,4,WPHL,60,Lake Charles Ice Pirates,57

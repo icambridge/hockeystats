@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1983-84,16,14,50,20,0,MTHL,30,Mississauga Reps,34
+1984-85,17,4,225,14,0,OHL,57,Hamilton Steelhawks,18
+1985-86,18,8,155,11,0,OHL,44,Hamilton Steelhawks,19
+1986-87,19,5,173,19,0,OHL,50,Cornwall Royals,24
+1987-88,20,0,253,8,0,AHL,52,Nova Scotia Oilers,8
+1988-89,21,1,317,11,0,AHL,48,Cape Breton Oilers,12
+1989-90,22,6,191,13,0,AHL,54,Cape Breton Oilers,19
+1990-91,23,4,176,8,0,AHL,43,Cape Breton Oilers,12
+1992-93,25,26,218,34,0,Britain,33,Murrayfield Racers,60
+1993-94,26,7,50,4,0,BH-Cup,11,Murrayfield Racers,11
+1993-94,26,30,162,41,0,Britain,43,Murrayfield Racers,71
+1994-95,27,9,76,5,0,BH-Cup,8,Edinburgh Racers,14
+1994-95,27,38,218,41,0,Britain,40,Edinburgh Racers,79
+1995-96,28,4,58,5,0,BH-Cup,9,Cardiff Devils,9
+1995-96,28,16,169,30,0,Britain,32,Cardiff Devils,46
+1996-97,29,1,49,3,0,BH-Cup,8,Cardiff Devils,4
+1996-97,29,6,79,12,0,Britain,38,Cardiff Devils,18
+1997-98,30,0,10,3,0,BH-Cup,11,Sheffield Steelers,3
+1997-98,30,6,96,8,0,Britain,43,Sheffield Steelers,14
+1998-99,31,4,103,2,0,Germany,44,Hannover Scorpions,6
+1999-00,32,1,64,1,0,BH-Cup,9,London Knights,2
+1999-00,32,5,70,2,0,Britain,22,London Knights,7
+2000-01,33,0,40,1,0,BH-Cup,6,Cardiff Devils,1
+2000-01,33,2,135,8,0,Britain-2,40,Cardiff Devils,10
+2001-02,34,2,33,4,0,Britain,35,London Knights,6

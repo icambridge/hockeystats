@@ -1,0 +1,28 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1990-91,16,1,0,0,0,USSR-3,3,Dynamo Moscow 2,0
+1991-92,17,14,20,9,0,CIS-3,39,Dynamo Moscow 2,23
+1991-92,17,0,0,0,0,CIS,3,Dynamo Moscow,0
+1991-92,17,3,2,3,0,EJC-A,6,Russia,6
+1992-93,18,4,14,1,0,CIS,30,Dynamo Moscow,5
+1992-93,18,2,10,2,0,WJC-A,7,Russia,4
+1993-94,19,7,14,4,0,CIS,39,Dynamo Moscow,11
+1994-95,20,1,2,0,0,CIS,4,Dynamo Moscow,1
+1994-95,20,14,20,30,0,IHL,71,Indianapolis Ice,44
+1995-96,21,17,28,21,0,IHL,68,Indianapolis Ice,38
+1996-97,22,20,98,37,0,IHL,75,Indianapolis Ice,57
+1997-98,23,5,18,9,0,WCHL,13,Idaho Steelheads,14
+1997-98,23,3,14,15,5,IHL,46,2 Teams,18
+1997-98,23,2,6,8,1,IHL,25,Las Vegas Thunder,10
+1997-98,23,1,8,7,4,IHL,21,Quebec Rafales,8
+1998-99,24,13,23,7,0,Alpenliga,13,EC Graz,20
+1998-99,24,7,30,8,0,Germany,31,Augsburger Panther,15
+1999-00,25,5,91,14,0,Germany,47,Augsburger Panther,19
+2000-01,26,4,20,10,0,Russia,30,Dynamo Moscow,14
+2001-02,27,25,64,38,0,Russia-2,47,Sibir Novosibirsk,63
+2001-02,27,1,4,3,0,Russia,13,Metallurg Magnitogorsk,4
+2002-03,28,9,104,16,0,Russia,48,Sibir Novosibirsk,25
+2003-04,29,5,46,8,0,Russia,40,Sibir Novosibirsk,13
+2003-04,29,2,4,1,0,Russia-3,2,Sibir Novosibirsk 2,3
+2004-05,30,4,30,6,0,Russia,55,Sibir Novosibirsk,10
+2005-06,31,4,46,8,0,Russia,42,Spartak Moscow,12
+2006-07,32,4,22,11,0,Russia,32,Metallurg Novokuznetsk,15

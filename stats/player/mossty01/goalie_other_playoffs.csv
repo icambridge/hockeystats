@@ -1,0 +1,12 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHL,6,Kingston Frontenacs,228,17,2,0,0,19,0,0,0,0,1,0,0,0,0,0,1992-93,0,5.00,0,0
+0,OHL,3,Kingston Frontenacs,136,18,2,0,0,8,0,0,0,0,0,0,0,0,0,0,1993-94,0,3.53,0,0
+0,OHL,6,Kingston Frontenacs,333,19,4,0,0,27,0,0,0,0,2,0,0,0,0,0,1994-95,0,4.86,0,0
+0,IHL,3,Atlanta Knights,213,20,3,0,0,11,0,0,0,0,0,0,0,0,0,0,1995-96,0,3.10,0,0
+0,AHL,5,Saint John Flames,242,21,3,0,0,15,0,0,0,0,2,0,0,0,0,0,1996-97,0,3.72,0,0
+0,AHL,15,Saint John Flames,761,22,5,0,0,37,0,0,0,0,8,0,0,0,0,0,1997-98,0,2.92,0,0
+0,IHL,17,Orlando Solar Bears,1017,23,7,0,0,53,0,0,0,0,10,0,0,0,0,.896,1998-99,508,3.13,6,455
+0,AHL,10,Manitoba Moose,618,27,4,0,0,23,0,0,0,0,6,0,0,0,0,.922,2002-03,295,2.23,2,272
+0,AHL,3,Toronto Roadrunners,211,28,2,0,0,8,0,0,0,0,1,0,0,0,0,.935,2003-04,124,2.27,0,116
+0,Russia,2,Spartak Moscow,84,30,0,0,0,6,0,0,0,0,0,0,0,0,0,0,2005-06,0,4.29,0,0
+0,Russia,0,Amur Khabarovsk,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2007-08,0,0,0,0

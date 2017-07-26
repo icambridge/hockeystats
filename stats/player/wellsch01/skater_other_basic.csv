@@ -1,0 +1,17 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1990-91,15,13,33,14,0,AJHL,35,Calgary Royals,27
+1991-92,16,13,80,8,0,WHL,64,Seattle Thunderbirds,21
+1992-93,17,18,111,37,0,WHL,63,Seattle Thunderbirds,55
+1993-94,18,30,150,44,0,WHL,69,Seattle Thunderbirds,74
+1994-95,19,45,148,63,0,WHL,69,Seattle Thunderbirds,108
+1994-95,19,0,2,1,0,IHL,3,Cleveland Lumberjacks,1
+1996-97,21,4,9,6,0,IHL,15,Cleveland Lumberjacks,10
+1998-99,23,3,28,1,0,AHL,9,Beast of New Haven,4
+1999-00,24,10,26,12,3,AHL,45,2 Teams,22
+1999-00,24,8,20,10,-2,AHL,31,Louisville Panthers,18
+1999-00,24,2,6,2,5,AHL,14,Hartford Wolf Pack,4
+2000-01,25,6,33,6,-14,IHL,43,Utah Grizzlies,12
+2001-02,26,0,0,0,-1,AHL,3,Portland Pirates,0
+2001-02,26,18,80,31,21,ECHL,60,Wheeling Nailers,49
+2002-03,27,3,46,5,0,Russia,22,Amur Khabarovsk,8
+2002-03,27,3,24,4,2,ECHL,9,Peoria Rivermen,7

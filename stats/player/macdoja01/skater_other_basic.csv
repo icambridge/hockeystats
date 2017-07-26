@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1989-90,15,11,206,29,0,MJrHL,29,Charlottetown Abbies,40
+1990-91,16,12,126,15,0,OHL,57,North Bay Centennials,27
+1991-92,17,22,179,27,0,OHL,59,2 Teams,49
+1991-92,17,5,50,8,0,OHL,17,North Bay Centennials,13
+1991-92,17,17,129,19,0,OHL,42,Owen Sound Platers,36
+1992-93,18,46,197,43,0,OHL,56,Owen Sound Platers,89
+1993-94,19,55,177,61,0,OHL,66,Owen Sound Platers,116
+1994-95,20,14,238,21,0,AHL,68,Adirondack Red Wings,35
+1995-96,21,9,99,13,0,AHL,43,Adirondack Red Wings,22
+1995-96,21,5,26,5,0,ECHL,9,Toledo Storm,10
+1996-97,22,22,191,25,0,AHL,64,2 Teams,47
+1996-97,22,0,2,0,0,AHL,1,Adirondack Red Wings,0
+1996-97,22,22,189,25,0,AHL,63,Fredericton Canadiens,47
+1997-98,23,15,133,20,0,Nat-Tm,51,Canada,35
+1997-98,23,2,27,0,1,AHL,6,Saint John Flames,2
+1998-99,24,25,283,27,-7,IHL,82,Manitoba Moose,52
+1999-00,25,12,190,17,-2,IHL,59,2 Teams,29
+1999-00,25,5,77,10,-7,IHL,30,Manitoba Moose,15
+1999-00,25,7,113,7,5,IHL,29,Orlando Solar Bears,14
+2000-01,26,17,290,16,-10,AHL,74,Wilkes-Barre Scranton Pens,33
+2001-02,27,8,330,13,-15,AHL,57,Wilkes-Barre Scranton Pens,21
+2002-03,28,4,137,7,1,AHL,56,Wilkes-Barre Scranton Pens,11
+2003-04,29,11,101,11,10,AHL,41,Hartford Wolf Pack,22
+2004-05,30,4,152,8,-10,AHL,29,St. John\'s Maple Leafs,12
+2005-06,31,13,132,14,-5,AHL,74,Providence Bruins,27

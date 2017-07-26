@@ -1,0 +1,10 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHL,1,Erie Otters,5,17,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1999-00,0,12.00,0,0
+0,OHL,10,Erie Otters,509,18,2,0,0,27,0,0,0,1,6,0,0,0,0,0,2000-01,0,3.18,0,0
+0,OHL,6,Erie Otters,361,19,2,0,2,17,0,0,0,0,4,2,0,0,0,.918,2001-02,208,2.83,0,191
+0,OHL,4,Sault Ste. Marie Greyhounds,240,20,4,0,0,12,0,0,0,0,0,0,0,0,0,.929,2002-03,168,3.00,0,156
+0,ECHL,1,Gwinnett Gladiators,60,21,1,0,0,2,0,0,0,0,0,0,0,0,0,.943,2003-04,35,2.00,0,33
+0,AHL,4,Norfolk Admirals,239,23,4,0,0,15,0,0,0,0,0,0,0,0,0,.879,2005-06,124,3.77,0,109
+0,AHL,1,Syracuse Crunch,20,25,0,0,0,4,0,0,0,0,0,0,0,0,0,.778,2007-08,18,12.00,0,14
+0,AHL,1,Toronto Marlies,58,26,1,0,0,4,0,0,0,0,0,0,0,0,0,.879,2008-09,33,4.14,0,29
+0,Austria,6,Szekesfehervar,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2011-12,0,0,0,0

@@ -1,0 +1,13 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,IHL,5,Muskegon Lumberjacks,300,22,1,0,0,15,0,0,0,0,4,0,0,0,0,0,1988-89,0,3.00,0,0
+0,IHL,9,Muskegon Lumberjacks,566,23,4,0,0,32,0,0,0,1,5,0,0,0,0,0,1989-90,0,3.39,0,0
+0,IHL,1,Muskegon Lumberjacks,60,25,1,0,0,6,0,0,0,0,0,0,0,0,0,0,1991-92,0,6.00,0,0
+0,IHL,2,Cleveland Lumberjacks,37,26,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1992-93,0,3.24,0,0
+0,AHL,1,St. John\'s Maple Leafs,20,27,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1993-94,0,3.00,0,0
+0,AHL,2,St. John\'s Maple Leafs,119,28,1,0,0,3,0,0,0,0,1,0,0,0,0,0,1994-95,0,1.51,0,0
+0,IHL,1,Peoria Rivermen,59,29,1,0,0,3,0,0,0,0,0,0,0,0,0,0,1995-96,0,3.05,0,0
+0,IHL,6,San Antonio Dragons,325,30,2,0,0,17,0,0,0,0,3,0,0,0,0,0,1996-97,0,3.14,0,0
+0,IHL,3,Fort Wayne Komets,152,31,2,0,0,10,0,0,0,0,1,0,0,0,0,0,1997-98,0,3.95,0,0
+0,IHL,1,Fort Wayne Komets,60,32,1,0,0,5,0,0,0,0,0,0,0,0,0,.839,1998-99,31,5.00,0,26
+0,Finland,3,Lukko Rauma,178,34,3,0,0,11,0,0,0,0,0,0,0,0,0,0,2000-01,0,3.71,0,0
+0,Finland,2,Ilves Tampere,120,35,2,0,0,10,0,0,0,0,0,0,0,0,0,0,2001-02,0,5.00,12,0

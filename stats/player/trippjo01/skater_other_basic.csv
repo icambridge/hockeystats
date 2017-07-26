@@ -1,0 +1,39 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1993-94,16,15,116,29,0,ON-Jr.B,42,St. Mary\'s Lincolns,44
+1994-95,17,6,53,11,0,OHL,58,Oshawa Generals,17
+1995-96,18,13,95,14,0,OHL,56,Oshawa Generals,27
+1996-97,19,28,126,20,0,OHL,59,Oshawa Generals,48
+1997-98,20,0,22,2,-2,ECHL,9,Roanoke Express,2
+1997-98,20,1,66,11,-4,AHL,61,Saint John Flames,12
+1998-99,21,0,10,0,0,AHL,2,Saint John Flames,0
+1998-99,21,2,12,0,0,ECHL,7,Johnstown Chiefs,2
+1999-00,22,13,64,11,3,ECHL,38,Johnstown Chiefs,24
+1999-00,22,8,38,7,-3,AHL,29,Saint John Flames,15
+2000-01,23,19,110,14,-3,ECHL,36,Pensacola Ice Pilots,33
+2000-01,23,0,0,1,1,AHL,5,Hershey Bears,1
+2000-01,23,0,45,7,3,IHL,27,2 Teams,7
+2000-01,23,0,14,6,2,IHL,15,Houston Aeros,6
+2000-01,23,0,31,1,1,IHL,12,Milwaukee Admirals,1
+2001-02,24,25,114,27,7,ECHL,49,Pensacola Ice Pilots,52
+2001-02,24,4,22,9,-2,AHL,23,Hartford Wolf Pack,13
+2002-03,25,29,68,21,12,AHL,57,Hartford Wolf Pack,50
+2003-04,26,8,33,7,0,AHL,24,Manchester Monarchs,15
+2004-05,27,9,136,16,0,Germany,44,Adler Mannheim,25
+2005-06,28,15,82,17,0,Germany,51,Adler Mannheim,32
+2006-07,29,15,94,19,0,Germany,39,ERC Ingolstadt,34
+2006-07,29,1,2,2,0,WC-A,6,Germany,3
+2007-08,30,15,93,20,0,Germany,50,Hamburg Freezers,35
+2007-08,30,0,0,1,-1,WC-A,6,Germany,1
+2008-09,31,9,52,11,0,Germany,44,Hamburg Freezers,20
+2008-09,31,3,4,0,1,Oly-Q,3,Germany,3
+2009-10,32,16,99,17,0,Germany,53,Hamburg Freezers,33
+2009-10,32,1,2,0,0,Olympics,4,Germany,1
+2009-10,32,0,6,0,-2,WC-A,9,Germany,0
+2010-11,33,3,4,1,1,WC-A,7,Germany,4
+2010-11,33,14,42,15,0,Germany,43,2 Teams,29
+2010-11,33,3,6,1,0,Germany,6,Hannover Scorpions,4
+2010-11,33,11,36,14,0,Germany,37,Kolner Haie,25
+2011-12,34,14,45,16,0,Germany,52,Kolner Haie,30
+2011-12,34,1,2,0,-6,WC-A,7,Germany,1
+2012-13,35,17,62,20,0,Germany,52,Kolner Haie,37
+2012-13,35,1,2,1,0,WC-A,7,Germany,2

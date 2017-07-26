@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2000-01,16,3,20,6,0,German-3,38,ESV Kaufbeuren,9
+2000-01,16,0,2,2,0,Ger-Jr.,1,ESV Kaufbeuren Jr.,2
+2001-02,17,1,14,9,0,German-3,19,ESV Kaufbeuren,10
+2001-02,17,0,4,0,0,Ger-Jr.,1,ESV Kaufbeuren Jr.,0
+2002-03,18,5,38,3,0,German-2,26,ESV Kaufbeuren,8
+2002-03,18,0,18,1,0,Germany,18,Hamburg Freezers,1
+2003-04,19,4,56,1,0,Germany,46,DEG Metro Stars Dusseldorf,5
+2003-04,19,2,12,7,4,WJC-B,5,Germany,9
+2004-05,20,5,68,6,0,Germany,42,DEG Metro Stars Dusseldorf,11
+2004-05,20,0,4,0,0,WC-A,3,Germany,0
+2005-06,21,3,82,15,0,Germany,48,DEG Metro Stars Dusseldorf,18
+2005-06,21,0,2,1,-1,Olympics,5,Germany,1
+2005-06,21,0,2,3,7,WC-B,5,Germany,3
+2006-07,22,4,82,11,0,Germany,44,DEG Metro Stars Dusseldorf,15
+2006-07,22,0,4,0,0,WC-A,6,Germany,0
+2007-08,23,7,47,25,1,AHL,61,Milwaukee Admirals,32
+2008-09,24,8,36,26,8,AHL,48,Milwaukee Admirals,34
+2009-10,25,7,8,23,13,AHL,36,Milwaukee Admirals,30
+2009-10,25,0,4,0,-6,Olympics,4,Germany,0
+2009-10,25,0,4,2,-4,WC-A,9,Germany,2
+2012-13,28,2,8,14,0,Germany,21,ERC Ingolstadt,16
+2013-14,29,2,2,5,-2,AHL,10,Rochester Americans,7
+2014-15,30,6,36,20,-3,DEL,44,K\xc3\x83\xc2\xb6lner Haie,26
+2014-15,30,2,0,0,2,Champions HL,3,K\xc3\x83\xc2\xb6lner Haie,2
+2014-15,30,0,0,0,-4,Internationa,2,Germany (all),0

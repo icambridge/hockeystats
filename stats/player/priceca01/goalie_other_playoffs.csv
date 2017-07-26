@@ -1,0 +1,6 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WHL,8,Tri-City Americans,470,16,3,0,0,19,0,0,0,0,5,0,0,0,0,.906,2003-04,203,2.43,0,184
+0,WHL,5,Tri-City Americans,324,17,4,0,0,12,0,0,0,0,1,0,0,0,0,.937,2004-05,191,2.22,0,179
+0,WHL,5,Tri-City Americans,302,18,4,0,0,12,0,0,0,0,1,0,0,0,0,.896,2005-06,115,2.38,2,103
+0,WHL,6,Tri-City Americans,348,19,4,0,0,17,0,0,0,0,2,0,0,0,0,.911,2006-07,192,2.93,4,175
+0,AHL,22,Hamilton Bulldogs,1314,19,6,0,1,45,0,0,0,2,15,1,0,0,0,.936,2006-07,699,2.05,2,654

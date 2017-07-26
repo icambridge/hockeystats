@@ -1,9 +1,9 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-12,Regina Capitals,2,0,4,PrHL,23,1927-28,21,2
-138,Seattle Seahawks,3,0,11,PCHL,36,1928-29,22,8
-128,Seattle Eskimos,3,0,14,PCHL,34,1929-30,23,11
-32,Boston Cubs,3,0,5,Can-Am,12,1930-31,24,2
-32,Buffalo Majors,4,0,4,AHA,15,1931-32,25,0
-65,Calgary Tigers,6,0,12,WCHL,30,1932-33,26,6
-46,Calgary Tigers,10,0,19,NWHL,34,1933-34,27,9
-22,Calgary Tigers,5,0,10,NWHL,22,1934-35,28,5
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+2,Regina Capitals,2,1927-28,23,4,12,21,0,PrHL
+3,Seattle Seahawks,8,1928-29,36,11,138,22,0,PCHL
+3,Seattle Eskimos,11,1929-30,34,14,128,23,0,PCHL
+3,Boston Cubs,2,1930-31,12,5,32,24,0,Can-Am
+4,Buffalo Majors,0,1931-32,15,4,32,25,0,AHA
+6,Calgary Tigers,6,1932-33,30,12,65,26,0,WCHL
+10,Calgary Tigers,9,1933-34,34,19,46,27,0,NWHL
+5,Calgary Tigers,5,1934-35,22,10,22,28,0,NWHL

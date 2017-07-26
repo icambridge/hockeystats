@@ -1,11 +1,11 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-4,St. Paul Saints,0,0,2,CHL,4,1932-33,23,2
-8,St. Paul Saints,5,0,12,CHL,8,1934-35,25,7
-11,St. Paul Saints,1,0,3,AHA,5,1935-36,26,2
-14,St. Louis Flyers,3,0,7,AHA,6,1936-37,27,4
-0,Cleveland Barons,0,0,0,IAHL,2,1937-38,28,0
-6,Minneapolis Millers,0,0,4,AHA,4,1938-39,29,4
-0,Minneapolis Millers,1,0,1,AHA,3,1939-40,30,0
-0,Minneapolis Millers,0,0,0,AHA,3,1940-41,31,0
-0,Flin Flon Bombers,3,0,5,MHL-Sr.,10,1943-44,34,2
-0,Edmonton Vics,0,0,0,Al-Cup,4,1943-44,34,0
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,St. Paul Saints,2,1932-33,4,2,4,23,0,CHL
+5,St. Paul Saints,7,1934-35,8,12,8,25,0,CHL
+1,St. Paul Saints,2,1935-36,5,3,11,26,0,AHA
+3,St. Louis Flyers,4,1936-37,6,7,14,27,0,AHA
+0,Cleveland Barons,0,1937-38,2,0,0,28,0,IAHL
+0,Minneapolis Millers,4,1938-39,4,4,6,29,0,AHA
+1,Minneapolis Millers,0,1939-40,3,1,0,30,0,AHA
+0,Minneapolis Millers,0,1940-41,3,0,0,31,0,AHA
+3,Flin Flon Bombers,2,1943-44,10,5,0,34,0,MHL-Sr.
+0,Edmonton Vics,0,1943-44,4,0,0,34,0,Al-Cup

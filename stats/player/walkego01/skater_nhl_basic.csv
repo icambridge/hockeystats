@@ -1,0 +1,5 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,1,0,21,1,1,0,,NYR,[],100.0,1,0,2,1,0,1986-87,,0,4,0,0
+NHL,18,0,22,23,5,0,,NYR,[],4.3,1,4,-8,1,0,1987-88,,0,17,0,4
+NHL,11,0,23,13,1,0,,LAK,[],7.7,1,0,-2,1,0,1988-89,,0,2,0,0
+NHL,1,0,24,0,0,0,,LAK,[],0,0,0,0,0,0,1989-90,,0,0,0,0

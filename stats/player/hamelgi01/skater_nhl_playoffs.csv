@@ -1,7 +1,7 @@
-shorthanded_goals,power_play_goals,year,team,average_ice_time,age,points,shotsPercentage,assists,league,pim,game_winning_goals,goals,win,plus_minus,total_ice_time,games_played,even_strength_goals,shots
-0,0,1980-81,BUF,,20,1,0,1,NHL,4,0,0,,1,,5,0,0
-0,1,1982-83,BUF,,22,4,18.2,2,NHL,2,0,2,,3,,9,1,11
-0,0,1983-84,BUF,,23,2,0.0,2,NHL,2,0,0,,-3,,3,0,11
-0,0,1984-85,BUF,,24,0,0,0,NHL,0,0,0,,-2,,1,0,0
-0,0,1986-87,WIN,,26,2,15.4,0,NHL,2,2,2,,-3,,8,2,13
-0,0,1987-88,WIN,,27,0,0.0,0,NHL,0,0,0,,0,,1,0,1
+even_strength_goals,assists,team,goals,pim,age,game_winning_goals,total_ice_time,league,shorthanded_goals,shots,average_ice_time,year,games_played,shotsPercentage,win,power_play_goals,points,plus_minus
+0,1,BUF,0,4,20,0,,NHL,0,0,,1980-81,5,0,,0,1,1
+1,2,BUF,2,2,22,0,,NHL,0,11,,1982-83,9,18.2,,1,4,3
+0,2,BUF,0,2,23,0,,NHL,0,11,,1983-84,3,0.0,,0,2,-3
+0,0,BUF,0,0,24,0,,NHL,0,0,,1984-85,1,0,,0,0,-2
+2,0,WIN,2,2,26,2,,NHL,0,13,,1986-87,8,15.4,,0,2,-3
+0,0,WIN,0,0,27,0,,NHL,0,1,,1987-88,1,0.0,,0,0,0

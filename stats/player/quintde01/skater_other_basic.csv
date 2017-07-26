@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1990-91,14,67,0,54,0,High-NH,31,Cardigan Mountain,121
+1991-92,15,111,0,58,0,High-NH,21,Cardigan Mountain,169
+1992-93,16,15,30,26,0,High-MA,28,Tabor Academy Seawolves,41
+1993-94,17,15,47,29,0,WHL,63,Seattle Thunderbirds,44
+1993-94,17,0,2,1,0,WJC-A,7,United States,1
+1994-95,18,29,82,60,0,WHL,65,Seattle Thunderbirds,89
+1994-95,18,3,6,3,0,WJC-A,7,United States,6
+1995-96,19,2,4,3,0,AHL,11,Springfield Falcons,5
+1996-97,20,6,20,18,0,AHL,43,Springfield Falcons,24
+1997-98,21,1,10,7,3,AHL,8,Springfield Falcons,8
+2000-01,24,5,30,15,0,AHL,21,Syracuse Crunch,20
+2000-01,24,0,4,0,-10,WC-A,9,United States,0
+2002-03,26,1,4,2,-2,AHL,4,Springfield Falcons,3
+2004-05,28,5,10,11,0,Italy,14,HC Forst Bolzano,16
+2005-06,29,5,6,10,0,Swiss,16,Kloten Flyers,15
+2005-06,29,5,26,7,0,Germany,31,Eisbaren Berlin,12
+2006-07,30,18,34,28,0,Germany,52,Eisbaren Berlin,46
+2007-08,31,21,28,30,0,Germany,56,Eisbaren Berlin,51
+2008-09,32,16,20,32,0,Germany,52,Eisbaren Berlin,48
+2009-10,33,5,22,11,0,KHL,42,Neftekhimik Nizhnekamsk,16
+2010-11,34,21,26,11,0,KHL,53,Traktor Chelyabinsk,32
+2011-12,35,8,42,14,0,KHL,47,Traktor Chelyabinsk,22
+2012-13,36,5,25,12,0,KHL,52,Traktor Chelyabinsk,17

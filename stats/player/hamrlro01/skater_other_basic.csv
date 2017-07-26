@@ -1,16 +1,16 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-18,1990-91,AC ZPS Zlin,2,0,16,14,4,2,Czech
-2,1990-91,Czechoslovakia,4,0,16,5,4,0,EJC-A
-50,1991-92,AC ZPS Zlin,5,0,17,34,10,5,Czech
-8,1991-92,Czechoslovakia,0,0,17,7,3,3,WJC-A
-8,1991-92,Czechoslovakia,1,0,17,6,2,1,EJC-A
-2,1992-93,Atlanta Knights,1,0,18,2,2,1,IHL
-0,1993-94,Czech Republic,0,0,19,1,0,0,WC-A
-10,1994-95,AC ZPS Zlin,0,0,20,2,1,1,CzRep
-4,1996-97,Czech Republic,0,0,22,3,0,0,W-Cup
-2,1997-98,Czech Republic,0,0,23,6,1,1,Olympics
-4,1999-00,HC Barum Continental Zlin,3,0,25,6,3,0,CzRep
-2,2001-02,Czech Republic,1,4,27,4,1,0,Olympics
-0,2003-04,Czech Republic,0,2,29,7,0,0,WC-A
-0,2004-05,Czech Republic,2,4,30,4,2,0,W-Cup
-70,2004-05,HC Hame Zlin,14,0,30,45,16,2,CzRep
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+2,AC ZPS Zlin,2,1990-91,14,4,18,16,0,Czech
+4,Czechoslovakia,0,1990-91,5,4,2,16,0,EJC-A
+5,AC ZPS Zlin,5,1991-92,34,10,50,17,0,Czech
+0,Czechoslovakia,3,1991-92,7,3,8,17,0,WJC-A
+1,Czechoslovakia,1,1991-92,6,2,8,17,0,EJC-A
+1,Atlanta Knights,1,1992-93,2,2,2,18,0,IHL
+0,Czech Republic,0,1993-94,1,0,0,19,0,WC-A
+0,AC ZPS Zlin,1,1994-95,2,1,10,20,0,CzRep
+0,Czech Republic,0,1996-97,3,0,4,22,0,W-Cup
+0,Czech Republic,1,1997-98,6,1,2,23,0,Olympics
+3,HC Barum Continental Zlin,0,1999-00,6,3,4,25,0,CzRep
+1,Czech Republic,0,2001-02,4,1,2,27,4,Olympics
+0,Czech Republic,0,2003-04,7,0,0,29,2,WC-A
+2,Czech Republic,0,2004-05,4,2,0,30,4,W-Cup
+14,HC Hame Zlin,2,2004-05,45,16,70,30,0,CzRep

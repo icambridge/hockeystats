@@ -1,0 +1,8 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+15,NHL,46,0,19,0,68,37,7,26,1,658,CHI,10,0,[],10.8,4,3,-3,4,0,0,2010-11,46,14:19,0,4,0,2
+41,NHL,82,0,20,0,201,94,37,67,11,1811,CHI,30,0,[],3.2,3,34,-12,3,0,0,2011-12,78,22:05,0,10,0,23
+18,NHL,0,2,21,0,115,65,18,38,6,836,CHI,12,0,"[{'link': '/awards/voting-2013.html#AS', 'name': 'AS-24'}]",9.2,4,12,15,6,0,0,2012-13,39,17:25,2,10,0,6
+35,NHL,82,1,22,0,218,123,31,52,6,1342,CHI,12,0,[],5.7,3,24,10,7,0,0,2013-14,45,16:22,4,10,0,18
+42,NHL,78,1,23,0,236,120,37,73,11,1588,NYI,39,0,"[{'link': '/awards/voting-2015.html#AS', 'name': 'AS-16'}, {'link': '/awards/voting-2015.html#byng', 'name': 'Byng-36'}, {'link': '/awards/voting-2015.html#norris', 'name': 'Norris-16'}]",8.3,9,27,18,10,0,0,2014-15,90,20:22,1,14,1,15
+52,NHL,81,1,24,0,264,121,40,83,16,1832,NYI,40,0,[],4.1,2,35,-9,5,0,0,2015-16,87,22:37,3,25,0,19
+48,NHL,81,1,25,0,288,137,46,77,12,1840,NYI,26,0,"[{'link': '/awards/voting-2017.html#byng', 'name': 'Byng-36'}]",8.0,8,35,-3,11,0,0,2016-17,109,22:43,3,12,0,23

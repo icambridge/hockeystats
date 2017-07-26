@@ -1,0 +1,28 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1995-96,16,22,0,17,0,CzRep-Jr.,35,Auto Skoda Mlada Boleslav Jr.,39
+1996-97,17,28,0,13,0,CzRep-Jr.,37,Auto Skoda Mlada Boleslav Jr.,41
+1997-98,18,23,0,25,0,CzRep-Jr.,36,Auto Skoda Mlada Boleslav Jr.,48
+1998-99,19,11,0,5,0,CzRep-Jr.,20,HC Trinec Jr.,16
+1998-99,19,15,20,11,0,CzRep,50,HC Zelezarny Trinec,26
+1998-99,19,6,26,1,0,WJC-A,6,Czech Republic,7
+1999-00,20,28,62,21,0,CzRep,51,HC Ocelari Trinec,49
+2000-01,21,20,51,21,-7,AHL,71,Philadelphia Phantoms,41
+2001-02,22,20,43,19,-11,AHL,61,Philadelphia Phantoms,39
+2002-03,23,20,58,24,0,CzRep,47,HC Ocelari Trinec,44
+2003-04,24,12,104,17,0,CzRep,47,HC Ocelari Trinec,29
+2004-05,25,2,14,2,0,CzRep,16,HC Ocelari Trinec,4
+2005-06,26,0,2,0,0,Russia,5,Dynamo Moscow,0
+2005-06,26,12,42,5,0,CzRep,29,2 Teams,17
+2005-06,26,9,34,5,0,CzRep,22,HC Ocelari Trinec,14
+2005-06,26,3,8,0,0,CzRep,7,HC Bili Tygri Liberec,3
+2006-07,27,20,56,8,0,CzRep,47,HC Bili Tygri Liberec,28
+2007-08,28,9,38,9,0,CzRep,26,HC Bili Tygri Liberec,18
+2008-09,29,17,26,18,0,CzRep,46,HC Bili Tygri Liberec,35
+2009-10,30,15,52,14,0,CzRep,50,2 Teams,29
+2009-10,30,12,44,12,0,CzRep,38,HC Energie Karlovy Vary,24
+2009-10,30,3,8,2,0,CzRep,12,HC Mountfield Ceske Budejovice,5
+2010-11,31,8,40,16,0,CzRep,50,HC Mountfield Ceske Budejovice,24
+2011-12,32,17,20,5,0,CzRep,30,2 Teams,22
+2011-12,32,1,2,0,0,CzRep,3,HC Mountfield Ceske Budejovice,1
+2011-12,32,16,18,5,0,CzRep,27,HC Plzen 1929,21
+2012-13,33,23,32,7,0,CzRep,49,HC Skoda Plzen,30

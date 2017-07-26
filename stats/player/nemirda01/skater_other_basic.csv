@@ -1,0 +1,35 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1991-92,15,3,5,10,0,ON-Jr.A,14,Pickering Panthers,13
+1991-92,15,6,2,13,0,MTJHL,23,Weston Dukes,19
+1992-93,16,0,0,3,0,MTJHL,2,Weston Dukes,3
+1992-93,16,19,27,23,0,ON-Jr.A,40,North York Rangers,42
+1993-94,17,21,18,31,0,OHL,64,Ottawa 67\'s,52
+1994-95,18,27,25,29,0,OHL,59,Ottawa 67\'s,56
+1995-96,19,18,14,27,0,OHL,26,Sarnia Sting,45
+1995-96,19,1,0,2,0,AHL,5,Carolina Panthers,3
+1996-97,20,21,18,21,0,AHL,34,Carolina Monarchs,42
+1997-98,21,10,10,15,0,AHL,29,Beast of New Haven,25
+1998-99,22,22,24,13,0,IHL,44,Fort Wayne Komets,35
+1998-99,22,3,18,9,-3,AHL,22,St. John\'s Maple Leafs,12
+1999-00,23,18,69,25,-19,AHL,57,St. John\'s Maple Leafs,43
+2000-01,24,1,10,2,-3,AHL,9,St. John\'s Maple Leafs,3
+2000-01,24,7,45,11,0,Sweden,26,HV 71 Jonkoping,18
+2001-02,25,2,4,2,0,Russia,10,Lokomotiv Yaroslavl,4
+2001-02,25,12,34,18,0,Finland,20,Ilves Tampere,30
+2002-03,26,18,38,23,0,Finland,56,2 Teams,41
+2002-03,26,9,24,8,0,Finland,20,Ilves Tampere,17
+2002-03,26,9,14,15,0,Finland,36,Jokerit Helsinki,24
+2003-04,27,15,14,9,0,Russia,54,2 Teams,24
+2003-04,27,3,2,3,0,Russia,16,Khimik Moscow Region (Voskresensk),6
+2003-04,27,12,12,6,0,Russia,38,Ak Bars Kazan,18
+2004-05,28,12,16,8,0,Russia,80,2 Teams,20
+2004-05,28,0,2,0,0,Russia,8,Ak Bars Kazan,0
+2004-05,28,12,14,8,0,Russia,72,SKA St. Petersburg,20
+2005-06,29,9,42,9,0,Russia,45,CSKA Moscow,18
+2006-07,30,14,32,14,0,Russia,47,CSKA Moscow,28
+2007-08,31,15,40,13,0,Russia,53,SKA St. Petersburg,28
+2008-09,32,13,30,14,0,KHL,43,SKA St. Petersburg,27
+2009-10,33,15,28,14,0,KHL,47,Barys Astana,29
+2010-11,34,2,2,6,0,KHL,18,2 Teams,8
+2010-11,34,2,2,6,0,KHL,16,Dynamo Minsk,8
+2010-11,34,0,0,0,0,KHL,2,CSKA Moscow,0

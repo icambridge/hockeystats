@@ -1,14 +1,14 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-8,Hamilton Red Wings,3,0,3,OHA-Jr.,17,1964-65,17,0
-51,Hamilton Red Wings,35,0,51,OHA-Jr.,48,1965-66,18,16
-89,Hamilton Red Wings,25,0,44,OHA-Jr.,45,1966-67,19,19
-44,Hamilton Red Wings,34,0,59,OHA-Jr.,50,1967-68,20,25
-29,Fort Worth Wings,28,0,49,CHL,53,1968-69,21,21
-2,Baltimore Clippers,1,0,1,AHL,3,1968-69,21,0
-32,Fort Worth Wings,40,0,55,CHL,69,1969-70,22,15
-19,Seattle Totems,13,0,21,WHL,29,1970-71,23,8
-29,Rochester Americans,23,0,32,AHL,67,1971-72,24,9
-14,Seattle Totems,26,0,37,WHL,45,1972-73,25,11
-4,San Diego Gulls,0,0,1,WHL,5,1973-74,26,1
-18,Nelson Maple Leafs,53,0,78,WIHL,48,1974-75,27,25
-0,Nelson Maple Leafs,3,0,3,WIHL,4,1975-76,28,0
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+3,Hamilton Red Wings,0,1964-65,17,3,8,17,0,OHA-Jr.
+35,Hamilton Red Wings,16,1965-66,48,51,51,18,0,OHA-Jr.
+25,Hamilton Red Wings,19,1966-67,45,44,89,19,0,OHA-Jr.
+34,Hamilton Red Wings,25,1967-68,50,59,44,20,0,OHA-Jr.
+28,Fort Worth Wings,21,1968-69,53,49,29,21,0,CHL
+1,Baltimore Clippers,0,1968-69,3,1,2,21,0,AHL
+40,Fort Worth Wings,15,1969-70,69,55,32,22,0,CHL
+13,Seattle Totems,8,1970-71,29,21,19,23,0,WHL
+23,Rochester Americans,9,1971-72,67,32,29,24,0,AHL
+26,Seattle Totems,11,1972-73,45,37,14,25,0,WHL
+0,San Diego Gulls,1,1973-74,5,1,4,26,0,WHL
+53,Nelson Maple Leafs,25,1974-75,48,78,18,27,0,WIHL
+3,Nelson Maple Leafs,0,1975-76,4,3,0,28,0,WIHL

@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1985-86,17,30,40,51,0,NAHL,39,St. Clair Shores Falcons,81
+1986-87,18,9,26,23,0,WCHA,40,University of Wisconsin,32
+1987-88,19,13,48,14,0,WCHA,44,University of Wisconsin,27
+1988-89,20,20,50,23,0,WCHA,44,University of Wisconsin,43
+1989-90,21,39,44,32,0,WCHA,45,University of Wisconsin,71
+1990-91,22,37,46,35,0,AHL,72,Springfield Indians,72
+1991-92,23,48,62,41,0,AHL,67,2 Teams,89
+1991-92,23,12,20,7,0,AHL,17,Springfield Indians,19
+1991-92,23,36,42,34,0,AHL,50,Adirondack Red Wings,70
+1992-93,24,59,62,43,0,AHL,68,Adirondack Red Wings,102
+1993-94,25,41,55,54,0,IHL,60,Kalamazoo Wings,95
+1994-95,26,31,40,28,0,IHL,64,Kansas City Blades,59
+1995-96,27,12,18,16,0,IHL,27,Kansas City Blades,28
+1995-96,27,5,10,2,0,WC-A,7,United States,7
+1996-97,28,19,31,26,0,AHL,42,Kentucky Thoroughblades,45
+1996-97,28,2,2,3,0,WC-A,8,United States,5
+1997-98,29,30,86,39,-6,IHL,70,Michigan K-Wings,69
+1998-99,30,19,46,30,0,Swiss,42,EHC Kloten,49
+1999-00,31,25,56,26,0,Swiss,45,EV Zug,51
+1999-00,31,1,2,2,1,WC-A,7,United States,3
+2000-01,32,27,42,23,0,Swiss,43,EV Zug,50
+2001-02,33,21,28,21,0,Swiss,43,EV Zug,42
+2002-03,34,22,65,22,0,Swiss,43,EV Zug,44
+2003-04,35,12,24,19,0,Swiss,44,EV Zug,31

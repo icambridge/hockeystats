@@ -1,14 +1,14 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1954-55,Hamilton Tiger Cubs,0,0,16,2,1,1,OHA-Jr.
-4,1955-56,Hamilton Tiger Cubs,1,0,17,34,6,5,OHA-Jr.
-4,1956-57,Hamilton Tiger Cubs,1,0,18,19,2,1,OHA-Jr.
-32,1957-58,Hamilton Tiger Cubs,19,0,19,52,28,9,OHA-Jr.
-51,1958-59,Hamilton Tiger Cubs,30,0,20,54,45,15,OHA-Jr.
-0,1958-59,Hershey Bears,0,0,20,1,0,0,AHL
-0,1958-59,Edmonton Flyers,1,0,20,9,2,1,WHL
-22,1959-60,Edmonton Flyers,17,0,21,53,20,3,WHL
-25,1960-61,Edmonton Flyers,20,0,22,68,35,15,WHL
-22,1961-62,Edmonton Flyers,27,0,23,70,49,22,WHL
-4,1962-63,Los Angeles Blades,32,0,24,70,51,19,WHL
-24,1963-64,St. Louis Braves,49,0,25,72,63,14,CPHL
-12,1964-65,Los Angeles Blades,28,0,26,65,35,7,WHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Hamilton Tiger Cubs,1,1954-55,2,1,0,16,0,OHA-Jr.
+1,Hamilton Tiger Cubs,5,1955-56,34,6,4,17,0,OHA-Jr.
+1,Hamilton Tiger Cubs,1,1956-57,19,2,4,18,0,OHA-Jr.
+19,Hamilton Tiger Cubs,9,1957-58,52,28,32,19,0,OHA-Jr.
+30,Hamilton Tiger Cubs,15,1958-59,54,45,51,20,0,OHA-Jr.
+0,Hershey Bears,0,1958-59,1,0,0,20,0,AHL
+1,Edmonton Flyers,1,1958-59,9,2,0,20,0,WHL
+17,Edmonton Flyers,3,1959-60,53,20,22,21,0,WHL
+20,Edmonton Flyers,15,1960-61,68,35,25,22,0,WHL
+27,Edmonton Flyers,22,1961-62,70,49,22,23,0,WHL
+32,Los Angeles Blades,19,1962-63,70,51,4,24,0,WHL
+49,St. Louis Braves,14,1963-64,72,63,24,25,0,CPHL
+28,Los Angeles Blades,7,1964-65,65,35,12,26,0,WHL

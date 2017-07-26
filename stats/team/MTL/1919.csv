@@ -1,14 +1,14 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-0,,C,,0,0,0,0,31,0,23,10,Newsy Lalonde,4.6,0.4,33,0,40,,17,0,4.1,0,/players/l/lalonne01.html
-0,,C,,0,0,0,0,27,0,22,6,Odie Cleghorn,4.0,0.4,28,0,22,,17,0,3.5,0,/players/c/cleghod01.html
-0,,RW,,0,0,0,0,35,0,14,4,Didier Pitre,2.1,0.4,18,0,15,,17,0,1.7,0,/players/p/pitredi01.html
-0,,C,,0,0,0,0,31,0,8,4,Jack McDonald,0.9,0.5,12,0,9,,18,0,0.4,0,/players/m/mcdonja01.html
-0,,D,,0,0,0,0,37,0,7,2,Joe Hall,2.5,1.6,9,0,135,,16,0,0.9,0,/players/h/halljo01.html
-0,,LW/C,,0,0,0,0,28,0,7,2,Joe Malone,1.1,0.2,9,0,3,,8,0,0.9,0,/players/m/malonjo01.html
-0,,LW,,0,0,0,0,31,0,5,3,Louis Berlinguette,0.2,0.5,8,0,9,,18,0,-0.3,0,/players/b/berlilo01.html
-0,,D,,0,0,0,0,24,0,2,3,Bert Corbeau,1.6,1.6,5,0,51,,16,0,-0.1,0,/players/c/corbebe01.html
-0,,D,,0,0,0,0,26,0,1,2,Billy Coutu,1.2,1.5,3,0,18,,15,0,-0.3,0,/players/c/coutubi01.html
-0,,LW,,0,0,0,0,24,0,0,0,Amos Arbour,-0.1,0.0,0,0,0,,1,0,-0.1,0,/players/a/arbouam01.html
-0,,F,,0,0,0,0,27,0,0,0,Billy Bell,-0.1,0.0,0,0,0,,1,0,-0.1,0,/players/b/bellbi01.html
-0,,F,,0,0,0,0,31,0,0,0,Fred Doherty,-0.1,0.0,0,0,0,,1,0,-0.1,0,/players/d/doherfr01.html
-0,,G,,0,0,0,0,32,0,0,0,Georges Vezina,2.7,0.0,0,0,0,,18,0,0.0,0,/players/v/vezinge01.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+10,0,23,31,,4.1,0.4,0,,0,C,4.6,0,MTL,/players/l/lalonne01.html,0,40,0,0,Newsy Lalonde,,1919,33,0,17,0
+6,0,22,27,,3.5,0.4,0,,0,C,4.0,0,MTL,/players/c/cleghod01.html,0,22,0,0,Odie Cleghorn,,1919,28,0,17,0
+4,0,14,35,,1.7,0.4,0,,0,RW,2.1,0,MTL,/players/p/pitredi01.html,0,15,0,0,Didier Pitre,,1919,18,0,17,0
+4,0,8,31,,0.4,0.5,0,,0,C,0.9,0,MTL,/players/m/mcdonja01.html,0,9,0,0,Jack McDonald,,1919,12,0,18,0
+2,0,7,37,,0.9,1.6,0,,0,D,2.5,0,MTL,/players/h/halljo01.html,0,135,0,0,Joe Hall,,1919,9,0,16,0
+2,0,7,28,,0.9,0.2,0,,0,LW/C,1.1,0,MTL,/players/m/malonjo01.html,0,3,0,0,Joe Malone,,1919,9,0,8,0
+3,0,5,31,,-0.3,0.5,0,,0,LW,0.2,0,MTL,/players/b/berlilo01.html,0,9,0,0,Louis Berlinguette,,1919,8,0,18,0
+3,0,2,24,,-0.1,1.6,0,,0,D,1.6,0,MTL,/players/c/corbebe01.html,0,51,0,0,Bert Corbeau,,1919,5,0,16,0
+2,0,1,26,,-0.3,1.5,0,,0,D,1.2,0,MTL,/players/c/coutubi01.html,0,18,0,0,Billy Coutu,,1919,3,0,15,0
+0,0,0,24,,-0.1,0.0,0,,0,LW,-0.1,0,MTL,/players/a/arbouam01.html,0,0,0,0,Amos Arbour,,1919,0,0,1,0
+0,0,0,27,,-0.1,0.0,0,,0,F,-0.1,0,MTL,/players/b/bellbi01.html,0,0,0,0,Billy Bell,,1919,0,0,1,0
+0,0,0,31,,-0.1,0.0,0,,0,F,-0.1,0,MTL,/players/d/doherfr01.html,0,0,0,0,Fred Doherty,,1919,0,0,1,0
+0,0,0,32,,0.0,0.0,0,,0,G,2.7,0,MTL,/players/v/vezinge01.html,0,0,0,0,Georges Vezina,,1919,0,0,18,0

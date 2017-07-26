@@ -1,12 +1,12 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-15,Chicoutimi Sagueneens,18,0,29,QMJHL,68,1976-77,16,11
-25,Chicoutimi Sagueneens,33,0,50,QMJHL,59,1977-78,17,17
-63,Sherbrooke Castors,70,0,120,QMJHL,70,1978-79,18,50
-50,Sherbrooke Castors,36,0,64,QMJHL,45,1979-80,19,28
-19,Rochester Americans,18,0,32,AHL,21,1980-81,20,14
-10,Rochester Americans,12,0,17,AHL,14,1981-82,21,5
-0,SC Bern,29,0,53,Swiss,36,1988-89,28,24
-0,SC Bern,30,0,61,Swiss,36,1989-90,29,31
-0,SC Bern,16,0,43,Swiss,36,1990-91,30,27
-0,Canada,0,0,0,Nat-Tm,1,1990-91,30,0
-100,SC Bern,23,0,39,Swiss,30,1991-92,31,16
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+18,Chicoutimi Sagueneens,11,1976-77,68,29,15,16,0,QMJHL
+33,Chicoutimi Sagueneens,17,1977-78,59,50,25,17,0,QMJHL
+70,Sherbrooke Castors,50,1978-79,70,120,63,18,0,QMJHL
+36,Sherbrooke Castors,28,1979-80,45,64,50,19,0,QMJHL
+18,Rochester Americans,14,1980-81,21,32,19,20,0,AHL
+12,Rochester Americans,5,1981-82,14,17,10,21,0,AHL
+29,SC Bern,24,1988-89,36,53,0,28,0,Swiss
+30,SC Bern,31,1989-90,36,61,0,29,0,Swiss
+16,SC Bern,27,1990-91,36,43,0,30,0,Swiss
+0,Canada,0,1990-91,1,0,0,30,0,Nat-Tm
+23,SC Bern,16,1991-92,30,39,100,31,0,Swiss

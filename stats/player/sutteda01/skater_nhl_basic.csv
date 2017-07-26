@@ -1,0 +1,9 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,8,0,21,3,2,0,,CBH,[],66.7,2,0,1,2,0,1979-80,,0,2,0,0
+NHL,76,4,22,179,62,3,,CBH,"[{'link': '/awards/voting-1981.html#AS', 'name': 'AS-9'}, {'link': '/awards/voting-1981.html#calder', 'name': 'Calder-4'}]",22.3,26,22,-1,40,0,1980-81,,14,86,0,19
+NHL,40,0,23,102,35,4,,CBH,[],22.5,16,12,0,23,3,1981-82,,4,31,0,8
+NHL,0,5,24,169,61,6,,CBH,[],18.3,21,30,18,31,0,1982-83,,10,53,0,24
+NHL,59,4,25,135,40,7,,CBH,[],14.8,12,20,-18,20,0,1983-84,,8,44,0,13
+NHL,49,2,26,90,38,4,,CBH,[],22.2,18,18,8,20,0,1984-85,,2,12,0,14
+NHL,50,2,27,89,27,2,,CBH,[],19.1,14,10,-15,17,0,1985-86,,3,44,0,8
+NHL,44,0,28,62,14,0,,CHI,[],12.9,7,6,-3,8,0,1986-87,,1,16,0,6

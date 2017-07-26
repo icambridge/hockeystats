@@ -1,10 +1,10 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-47,Brandon Elks,5,0,7,MJHL,17,1938-39,18,2
-67,Brandon Elks,10,0,14,MJHL,23,1939-40,19,4
-42,Winnipeg Rangers,5,0,10,MJHL,17,1940-41,20,5
-40,Montreal Sr. Canadiens,8,0,16,QSHL,39,1941-42,21,8
-35,Montreal Sr. Canadiens,8,0,13,QSHL,20,1942-43,22,5
-33,Montreal Royals,20,0,25,QMHL,55,1951-52,31,5
-26,Montreal Royals,17,0,22,QMHL,58,1952-53,32,5
-31,Montreal Royals,22,0,30,QHL,65,1953-54,33,8
-64,Montreal Royals,22,0,27,QHL,62,1954-55,34,5
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+5,Brandon Elks,2,1938-39,17,7,47,18,0,MJHL
+10,Brandon Elks,4,1939-40,23,14,67,19,0,MJHL
+5,Winnipeg Rangers,5,1940-41,17,10,42,20,0,MJHL
+8,Montreal Sr. Canadiens,8,1941-42,39,16,40,21,0,QSHL
+8,Montreal Sr. Canadiens,5,1942-43,20,13,35,22,0,QSHL
+20,Montreal Royals,5,1951-52,55,25,33,31,0,QMHL
+17,Montreal Royals,5,1952-53,58,22,26,32,0,QMHL
+22,Montreal Royals,8,1953-54,65,30,31,33,0,QHL
+22,Montreal Royals,5,1954-55,62,27,64,34,0,QHL

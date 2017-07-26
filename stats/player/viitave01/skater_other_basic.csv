@@ -1,0 +1,38 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1986-87,15,1,2,1,0,Fin-Jr.,1,SaiPa Lappeenranta Jr.,2
+1987-88,16,20,2,5,0,Fin-U18,7,SaiPa Lappeenranta U18,25
+1987-88,16,21,16,11,0,Fin-Jr.,20,SaiPa Lappeenranta Jr.,32
+1988-89,17,22,8,32,0,Fin-Jr.,23,SaiPa Lappeenranta Jr.,54
+1988-89,17,4,6,1,0,Finland,11,SaiPa Lappeenranta,5
+1988-89,17,8,6,7,0,EJC-A,6,Finland,15
+1989-90,18,9,6,8,0,Fin-Jr.,9,SaiPa Lappeenranta Jr.,17
+1989-90,18,24,8,10,0,Finland,44,SaiPa Lappeenranta,34
+1989-90,18,6,2,1,0,WJC-A,7,Finland,7
+1990-91,19,17,14,23,0,Finland,41,Tappara Tampere,40
+1990-91,19,6,2,5,0,WJC-A,7,Finland,11
+1991-92,20,19,39,19,0,Finland,44,Tappara Tampere,38
+1991-92,20,2,6,3,0,WC-A,8,Finland,5
+1992-93,21,27,28,27,0,Finland,48,Tappara Tampere,54
+1992-93,21,1,6,0,0,WC-A,6,Finland,1
+1993-94,22,28,24,39,0,AHL,67,Saint John Flames,67
+1994-95,23,17,8,26,0,AHL,56,Saint John Flames,43
+1995-96,24,25,52,35,0,AHL,58,2 Teams,60
+1995-96,24,18,48,29,0,AHL,48,Saint John Flames,47
+1995-96,24,7,4,6,0,AHL,10,Cornwall Aces,13
+1996-97,25,17,24,12,0,Sweden,50,HV 71 Jonkoping,29
+1997-98,26,11,12,19,0,Finland,47,Ilves Tampere,30
+1998-99,27,17,18,5,0,Finland,53,Ilves Tampere,22
+1999-00,28,20,28,20,0,Finland,53,Ilves Tampere,40
+2000-01,29,27,10,20,0,Finland,55,Ilves Tampere,47
+2001-02,30,34,12,26,0,Finland,56,Ilves Tampere,60
+2001-02,30,1,2,1,-5,WC-A,9,Finland,2
+2002-03,31,18,22,12,0,Finland,53,Ilves Tampere,30
+2003-04,32,21,14,15,0,Finland,56,Ilves Tampere,36
+2004-05,33,12,14,10,0,Sweden,47,Brynas IF Gavle,22
+2004-05,33,3,0,4,0,Sweden-Q,10,Brynas IF Gavle,7
+2005-06,34,1,16,2,0,Sweden,13,Brynas IF Gavle,3
+2005-06,34,6,16,4,0,Finland,29,Ilves Tampere,10
+2006-07,35,17,38,12,0,Finland,56,Ilves Tampere,29
+2007-08,36,14,26,12,0,Finland,55,Ilves Tampere,26
+2008-09,37,11,49,9,0,Finland,50,Karpat Oulu,20
+2009-10,38,9,22,10,0,Finland,52,Karpat Oulu,19

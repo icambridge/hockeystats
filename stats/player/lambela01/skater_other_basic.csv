@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1980-81,16,43,63,54,0,SJHL,55,Swift Current Broncos,97
+1981-82,17,45,111,69,0,WHL,72,Saskatoon Blades,114
+1982-83,18,59,126,60,0,WHL,64,Saskatoon Blades,119
+1985-86,21,16,69,25,0,AHL,45,Adirondack Red Wings,41
+1986-87,22,3,19,3,0,AHL,11,New Haven Nighthawks,6
+1988-89,24,25,162,35,0,AHL,59,Halifax Citadels,60
+1989-90,25,28,48,36,0,Nat-Tm,54,Canada,64
+1989-90,25,2,4,6,0,W.German,6,Dusseldorfer EG,8
+1990-91,26,40,82,45,0,Swiss-2,36,HC Ajoie,85
+1990-91,26,0,0,1,0,Nat-Tm,4,Canada,1
+1991-92,27,50,123,38,0,Swiss-2,35,HC Ajoie,88
+1991-92,27,4,0,2,0,Nat-Tm,4,Canada,6
+1992-93,28,22,28,16,0,Swiss,25,HC Ajoie,38
+1993-94,29,39,62,29,0,Swiss-2,36,HC La Chaux-de-Fonds,68
+1994-95,30,37,60,44,0,Swiss-2,36,SC Langnau,81
+1995-96,31,39,64,40,0,Swiss-2,33,SC Langnau,79
+1996-97,32,24,94,20,0,IHL,75,Cleveland Lumberjacks,44
+1997-98,33,4,60,10,-4,IHL,39,Cleveland Lumberjacks,14
+1998-99,34,10,65,11,3,IHL,45,2 Teams,21
+1998-99,34,8,61,10,4,IHL,36,Cleveland Lumberjacks,18
+1998-99,34,2,4,1,-1,IHL,9,Houston Aeros,3
+1999-00,35,21,88,9,-9,IHL,77,Houston Aeros,30
+2000-01,36,10,70,12,-2,IHL,66,Houston Aeros,22

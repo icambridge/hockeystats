@@ -1,0 +1,24 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,MOHL,16,Windsor Wanderers,1080,17,0,0,0,55,0,0,0,1,0,0,0,0,0,0,1932-33,0,3.06,0,0
+0,OHA-Jr.,11,St. Michael\'s Majors,660,18,0,0,0,30,0,0,0,1,0,0,0,0,0,0,1933-34,0,2.73,0,0
+0,OHA-Jr.,11,St. Michael\'s Majors,660,19,0,0,0,34,0,0,0,1,0,0,0,0,0,0,1934-35,0,3.09,0,0
+0,TIHL,15,Toronto Dominion Bank,900,19,0,0,0,54,0,0,0,0,0,0,0,0,0,0,1934-35,0,3.60,0,0
+0,OHA-Sr.,17,Oakville Villans,1020,20,0,0,0,53,0,0,0,1,0,0,0,0,0,0,1935-36,0,3.12,0,0
+0,TIHL,14,Toronto McColl-Frontenacs,840,20,0,0,0,43,0,0,0,1,0,0,0,0,0,0,1935-36,0,3.07,0,0
+0,EAHL,48,Atlantic City Sea Gulls,2880,21,19,0,0,116,0,0,2,4,27,0,0,0,0,0,1936-37,0,2.42,0,0
+0,EAHL,57,Atlantic City Sea Gulls,3420,22,26,0,0,168,0,0,3,3,28,0,0,0,0,0,1937-38,0,2.95,0,0
+0,IAHL,23,3 Teams,1400,23,14,0,0,73,0,0,3,0,6,0,0,0,0,0,1938-39,0,3.13,0,0
+0,IAHL,20,Pittsburgh Hornets,1200,23,13,0,0,58,0,0,1,0,6,0,0,0,0,0,1938-39,0,2.90,0,0
+0,IAHL,1,Hershey Bears,70,23,0,0,0,4,0,0,1,0,0,0,0,0,0,0,1938-39,0,3.43,0,0
+0,IAHL,2,Philadelphia Ramblers,130,23,1,0,0,11,0,0,1,0,0,0,0,0,0,0,1938-39,0,5.08,0,0
+0,IAHL,56,Pittsburgh Hornets,3480,24,22,0,0,133,0,0,9,4,25,0,0,0,0,0,1939-40,0,2.29,0,0
+0,AHL,31,3 Teams,1848,25,14,0,0,79,0,0,4,2,12,0,0,0,0,0,1940-41,0,2.56,0,0
+0,AHL,24,Pittsburgh Hornets,1408,25,12,0,0,63,0,0,2,2,9,0,0,0,0,0,1940-41,0,2.68,0,0
+0,AHL,6,Cleveland Barons,370,25,2,0,0,13,0,0,1,0,3,0,0,0,0,0,1940-41,0,2.11,0,0
+0,AHL,1,Buffalo Bisons,70,25,0,0,0,3,0,0,1,0,0,0,0,0,0,0,1940-41,0,2.57,0,0
+0,AHL,53,Pittsburgh Hornets,3280,26,26,0,0,209,0,0,5,0,22,0,0,0,0,0,1941-42,0,3.82,0,0
+0,AHL,52,Pittsburgh Hornets,3220,27,21,0,0,184,0,0,6,2,25,0,0,0,0,0,1942-43,0,3.43,0,0
+0,AHL,6,Pittsburgh Hornets,360,28,4,0,0,19,0,0,1,0,1,0,0,0,0,0,1943-44,0,3.17,0,0
+0,AHL,55,Cleveland Barons,3300,29,15,0,0,178,0,0,9,4,31,0,0,0,0,0,1944-45,0,3.24,0,0
+0,AHL,21,Cleveland Barons,1260,30,9,0,0,94,0,0,2,1,10,0,0,0,0,0,1945-46,0,4.48,0,0
+0,USHL,13,Minneapolis Millers,780,31,6,0,0,41,0,0,0,2,7,0,0,0,0,0,1946-47,0,3.15,0,0

@@ -1,12 +1,12 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,2005-06,Little Falls Flyers,29,0,15,31,64,35,High-MN
-0,2006-07,Little Falls Flyers,71,0,16,29,111,40,High-MN
-0,2007-08,Little Falls Flyers,47,0,17,26,95,48,High-MN
-16,2008-09,Little Falls Flyers,62,0,18,31,135,73,High-MN
-0,2008-09,Team North,8,0,18,19,22,14,UMHSEL
-19,2009-10,St. Cloud State Huskies,10,0,19,43,19,9,WCHA
-18,2010-11,St. Cloud State Huskies,7,0,20,37,20,13,WCHA
-25,2011-12,St. Cloud State Huskies,20,0,21,39,43,23,WCHA
-18,2012-13,St. Cloud State Huskies,14,0,22,37,31,17,WCHA
-18,2013-14,Abbotsford Heat,18,1,23,55,31,13,AHL
-21,2014-15,Adirondack Flames,9,3,24,56,25,16,AHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+29,Little Falls Flyers,35,2005-06,31,64,0,15,0,High-MN
+71,Little Falls Flyers,40,2006-07,29,111,0,16,0,High-MN
+47,Little Falls Flyers,48,2007-08,26,95,0,17,0,High-MN
+62,Little Falls Flyers,73,2008-09,31,135,16,18,0,High-MN
+8,Team North,14,2008-09,19,22,0,18,0,UMHSEL
+10,St. Cloud State Huskies,9,2009-10,43,19,19,19,0,WCHA
+7,St. Cloud State Huskies,13,2010-11,37,20,18,20,0,WCHA
+20,St. Cloud State Huskies,23,2011-12,39,43,25,21,0,WCHA
+14,St. Cloud State Huskies,17,2012-13,37,31,18,22,0,WCHA
+18,Abbotsford Heat,13,2013-14,55,31,18,23,1,AHL
+9,Adirondack Flames,16,2014-15,56,25,21,24,3,AHL

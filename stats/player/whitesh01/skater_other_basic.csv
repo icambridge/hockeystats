@@ -1,0 +1,36 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1938-39,15,11,18,5,0,Exhib.,9,Amherst Pats,16
+1939-40,16,17,4,5,0,SNBHL,7,Amherst Ramblers,22
+1940-41,17,12,0,2,0,NBCHL,4,Amherst Ramblers,14
+1941-42,18,14,0,5,0,Exhib.,7,Amherst Ramblers,19
+1942-43,19,14,0,7,0,Exhib.,5,Amherst All-Stars,21
+1942-43,19,9,6,8,0,NSDHL,5,Amherst Busymen,17
+1943-44,20,2,5,0,0,Exhib.,1,Amherst Victoria Bombers,2
+1943-44,20,1,0,0,0,NBDHL,1,Moncton #5 Providers,1
+1944-45,21,10,0,5,0,NBDHL,8,Moncton #5 Providers,15
+1944-45,21,0,0,1,0,NSDHL,3,Dartmouth RCAF,1
+1945-46,22,8,0,8,0,NSDHL,8,Dartmouth RCAF,16
+1945-46,22,6,0,3,0,NBCHL,3,Amherst Ramblers,9
+1945-46,22,4,0,7,0,SNBHL,3,Moncton Maroons,11
+1946-47,23,13,2,9,0,EAHL,19,New York Rovers,22
+1946-47,23,8,8,8,0,AHL,36,New Haven Ramblers,16
+1947-48,24,9,10,30,0,AHL,58,New Haven Ramblers,39
+1948-49,25,26,13,32,0,AHL,68,New Haven Ramblers,58
+1949-50,26,17,6,35,0,AHL,70,New Haven Ramblers,52
+1950-51,27,11,6,42,0,AHL,66,St. Louis Flyers,53
+1951-52,28,23,8,32,0,QMHL,59,Chicoutimi Sagueneens,55
+1952-53,29,26,6,57,0,QMHL,58,Chicoutimi Sagueneens,83
+1953-54,30,10,4,36,0,QHL,51,Chicoutimi Sagueneens,46
+1954-55,31,20,2,46,0,ACSHL,41,Amherst Ramblers,66
+1955-56,32,42,2,78,0,ACSHL,63,Amherst Ramblers,120
+1956-57,33,20,7,38,0,NNBHL,42,Bathurst Papermakers,58
+1957-58,34,6,0,7,0,BFCHL,5,Bishop\'s Falls Kinsmen,13
+1957-58,34,21,0,17,0,Nfld-Sr.,12,2 Teams,38
+1957-58,34,20,0,15,0,Nfld-Sr.,11,Bishop\'s Falls Flyers,35
+1957-58,34,1,0,2,0,Nfld-Sr.,1,Grand Falls Bees,3
+1958-59,35,23,8,54,0,CBSHL,34,Glace Bay Miners,77
+1959-60,36,24,2,29,0,CBSHL,32,Glace Bay Miners,53
+1960-61,37,18,0,55,0,NSAPC,31,Amherst Ramblers,73
+1961-62,38,14,0,27,0,NSAPC,28,Amherst Ramblers,41
+1962-63,39,21,6,50,0,NSSHL,28,Amherst Ramblers,71
+1963-64,40,9,2,15,0,NSSHL,28,Moncton Hawks,24

@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1984-85,15,3,12,6,0,QAAA,26,Ste-Foy Gouverneurs,9
+1985-86,16,4,66,38,0,QAAA,42,Ste-Foy Gouverneurs,42
+1985-86,16,0,0,0,0,NOHA,1,North Bay Hoppers,0
+1986-87,17,7,50,43,0,QMJHL,70,Longueuil Chevaliers,50
+1987-88,18,10,150,84,0,QMJHL,69,Victoriaville Tigres,94
+1988-89,19,23,95,85,0,QMJHL,63,Victoriaville Tigres,108
+1988-89,19,0,6,0,0,WJC-A,7,Canada,0
+1989-90,20,8,31,27,0,AHL,46,Adirondack Red Wings,35
+1990-91,21,3,10,9,0,AHL,16,Adirondack Red Wings,12
+1990-91,21,0,0,0,0,WEC-A,4,Canada,0
+1993-94,24,1,8,2,0,WC-A,8,Canada,3
+1996-97,27,0,2,1,0,AHL,4,Kentucky Thoroughblades,1
+1996-97,27,0,4,4,0,IHL,6,Quebec Rafales,4
+1998-99,29,8,108,18,0,Finland,52,Jokerit Helsinki,26
+1998-99,29,1,18,0,0,EuroHL,6,Jokerit Helsinki,1
+1999-00,30,5,90,21,0,Germany,54,Adler Mannheim,26
+1999-00,30,0,8,1,0,EuroHL,6,Adler Mannheim,1
+2000-01,31,4,98,29,0,Germany,52,Adler Mannheim,33
+2001-02,32,3,124,31,0,Germany,48,Adler Mannheim,34
+2002-03,33,2,90,18,0,Germany,47,Adler Mannheim,20
+2003-04,34,2,24,10,0,Germany,33,ERC Ingolstadt,12
+2004-05,35,2,36,42,0,QNAHL,47,Thetford Mines Prolab,43
+2005-06,36,1,69,31,0,QNAHL,40,Thetford Mines Prolab,32

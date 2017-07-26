@@ -1,0 +1,11 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,63,2,20,127,51,8,,MNS,[],14.2,13,33,-10,18,0,1975-76,,5,71,0,25
+NHL,0,2,21,223,95,24,,MNS,"[{'link': '/awards/voting-1977.html#AS', 'name': 'AS-7'}]",13.0,19,66,-32,29,0,1976-77,,10,58,0,42
+NHL,78,2,22,217,58,9,,MNS,[],10.6,18,35,-37,23,0,1977-78,,5,64,0,26
+NHL,73,5,23,147,56,12,,MNS,[],16.3,16,32,-12,24,0,1978-79,,8,46,1,19
+NHL,77,5,24,220,74,9,,MNS,[],14.1,24,43,14,31,2,1979-80,,5,24,0,34
+NHL,74,4,25,214,66,17,,MNS,[],11.7,15,41,6,25,0,1980-81,,10,40,2,22
+NHL,49,1,26,125,41,7,,MNS,[],8.0,9,31,0,10,0,1981-82,,1,67,2,22
+NHL,70,2,27,152,53,14,,MNS,[],11.8,10,35,-1,18,2,1982-83,,6,31,2,19
+NHL,44,0,28,77,34,6,,WIN,[],19.5,12,19,-11,15,0,1983-84,,3,25,2,11
+NHL,20,1,29,25,8,0,,PHI,[],8.0,2,6,2,2,0,1984-85,,0,12,0,6

@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1960-09-01,", ",C,Alan Haworth,R
+handed,heigh_and_weight,position,date_of_birth,name
+R,", ",C,1960-09-01,Alan Haworth

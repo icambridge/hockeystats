@@ -1,0 +1,19 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WCHA,27,U. of Minnesota-Duluth,1401,20,15,0,0,115,0,0,3,0,9,0,0,0,0,0,1981-82,0,4.93,0,0
+0,WCHA,43,U. of Minnesota-Duluth,2594,21,16,0,0,151,0,0,1,1,26,0,0,0,0,0,1982-83,0,3.49,0,0
+0,Nat-Tm,33,United States,1895,22,10,0,0,89,0,0,5,0,17,0,0,0,0,0,1983-84,0,2.82,0,0
+0,Olympics,3,United States,160,22,0,0,0,10,0,0,1,0,1,0,0,0,0,0,1983-84,0,3.75,0,0
+0,AHL,5,Hershey Bears,282,22,4,0,0,26,0,0,0,0,1,0,0,0,0,0,1983-84,0,5.53,0,0
+0,AHL,20,Binghamton Whalers,1052,23,6,0,0,58,0,0,1,1,10,0,0,0,0,0,1984-85,0,3.31,0,0
+0,AHL,34,Binghamton Whalers,1940,24,11,0,0,126,0,0,2,0,20,0,0,0,0,0,1985-86,0,3.90,0,0
+0,AHL,2,Binghamton Whalers,119,25,1,0,0,4,0,0,0,0,1,0,0,0,0,0,1986-87,0,2.02,0,0
+0,AHL,23,Halifax Citadels,1278,27,7,0,0,73,0,0,1,1,11,0,0,0,0,0,1988-89,0,3.43,0,0
+0,Fr-Tour,1,Washington Capitals,30,28,1,0,0,4,0,0,0,0,0,0,0,0,0,0,1989-90,0,8.00,0,0
+0,AHL,13,Baltimore Skipjacks,770,28,2,0,0,44,0,0,2,0,9,0,0,0,0,0,1989-90,0,3.43,0,0
+0,IHL,22,Milwaukee Admirals,1199,29,12,0,0,82,0,0,1,0,8,0,0,0,0,0,1990-91,0,4.10,0,0
+0,IHL,51,Milwaukee Admirals,3024,30,18,0,0,171,0,0,4,1,27,0,0,0,0,0,1991-92,0,3.39,0,0
+0,AHL,44,Hamilton Canucks,2601,31,19,0,0,159,0,0,3,0,20,0,0,0,0,0,1992-93,0,3.67,0,0
+0,IHL,40,Milwaukee Admirals,2206,32,9,0,0,132,0,0,8,0,21,0,0,0,0,0,1993-94,0,3.59,0,0
+0,IHL,14,2 Teams,805,33,5,0,0,55,0,0,1,0,7,0,0,0,0,.873,1994-95,432,4.10,0,377
+0,IHL,1,Fort Wayne Komets,60,33,1,0,0,5,0,0,0,0,0,0,0,0,0,.839,1994-95,31,5.00,0,26
+0,IHL,13,Milwaukee Admirals,745,33,4,0,0,50,0,0,1,0,7,0,0,0,0,.875,1994-95,401,4.03,0,351

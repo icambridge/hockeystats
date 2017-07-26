@@ -1,8 +1,8 @@
-shorthanded_goals,power_play_goals,year,team,average_ice_time,age,points,shotsPercentage,assists,league,pim,game_winning_goals,goals,win,plus_minus,total_ice_time,games_played,even_strength_goals,shots
-0,0,1990-91,BUF,,20,5,7.7,4,NHL,10,0,1,,-1,,6,1,13
-0,0,1991-92,MTL,,21,0,0.0,0,NHL,6,0,0,,-3,,9,0,12
-0,1,1992-93,MTL,,22,7,4.2,6,NHL,16,0,1,SC,-1,,17,0,24
-0,0,1993-94,MTL,,23,2,12.5,1,NHL,19,0,1,,-3,,7,1,8
-1,0,1994-95,PHI,,24,8,28.6,4,NHL,10,1,4,,10,,15,3,14
-0,0,1995-96,PHI,,25,1,0.0,1,NHL,8,0,0,,0,,6,0,6
-0,0,1998-99,MDA,22:58,28,0,0.0,0,NHL,2,0,0,,-1,92,4,0,7
+even_strength_goals,assists,team,goals,pim,age,game_winning_goals,total_ice_time,league,shorthanded_goals,shots,average_ice_time,year,games_played,shotsPercentage,win,power_play_goals,points,plus_minus
+1,4,BUF,1,10,20,0,,NHL,0,13,,1990-91,6,7.7,,0,5,-1
+0,0,MTL,0,6,21,0,,NHL,0,12,,1991-92,9,0.0,,0,0,-3
+0,6,MTL,1,16,22,0,,NHL,0,24,,1992-93,17,4.2,SC,1,7,-1
+1,1,MTL,1,19,23,0,,NHL,0,8,,1993-94,7,12.5,,0,2,-3
+3,4,PHI,4,10,24,1,,NHL,1,14,,1994-95,15,28.6,,0,8,10
+0,1,PHI,0,8,25,0,,NHL,0,6,,1995-96,6,0.0,,0,1,0
+0,0,MDA,0,2,28,0,92,NHL,0,7,22:58,1998-99,4,0.0,,0,0,-1

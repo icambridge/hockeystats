@@ -1,0 +1,16 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1941-42,17,0,2,0,0,MJHL,1,Winnipeg Rangers,0
+1942-43,18,9,8,2,0,MJHL,7,Winnipeg Monarchs,11
+1942-43,18,3,27,10,0,EAHL,43,New York Rovers,13
+1943-44,19,4,0,6,0,NSDHL,5,Cornwallis Navy,10
+1945-46,21,7,10,3,0,WKHL,20,Nelson Maple Leafs,10
+1946-47,22,16,8,14,0,WIHL,34,Nelson Maple Leafs,30
+1947-48,23,7,6,13,0,WIHL,35,Nelson Maple Leafs,20
+1948-49,24,9,6,13,0,WIHL,42,Nelson Maple Leafs,22
+1949-50,25,15,9,18,0,WIHL,34,2 Teams,33
+1949-50,25,0,0,0,0,WIHL,1,Nelson Maple Leafs,0
+1949-50,25,15,9,18,0,WIHL,33,Kimberley Dynamiters,33
+1950-51,26,10,8,20,0,WIHL,32,Kimberley Dynamiters,30
+1951-52,27,15,8,18,0,WIHL,35,Kimberley Dynamiters,33
+1952-53,28,6,6,12,0,WIHL,30,Kimberley Dynamiters,18
+1953-54,29,1,8,9,0,WIHL,18,Kimberley Dynamiters,10

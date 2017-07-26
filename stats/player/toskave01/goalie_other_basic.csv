@@ -1,0 +1,22 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,Fin-Jr.,17,Ilves Tampere Jr.,956,17,5,0,0,36,0,0,1,2,10,0,0,0,0,0,1994-95,0,2.26,0,0
+0,EJC-A,4,Finland,240,17,0,0,0,10,0,0,0,0,0,0,0,0,0,0,1994-95,0,2.50,0,0
+0,Fin-Jr.,3,Ilves Tampere Jr.,180,18,0,0,0,3,0,0,0,0,3,0,0,0,0,0,1995-96,0,1.00,0,0
+0,Finland-2,2,KooVee Tampere,119,18,1,0,0,5,0,0,0,1,1,0,0,0,0,0,1995-96,0,2.52,0,0
+0,Finland,37,Ilves Tampere,2072,18,14,0,0,109,0,0,7,1,14,0,0,0,0,0,1995-96,0,3.16,0,0
+0,WJC-A,4,Finland,204,18,0,0,0,15,0,0,0,0,0,0,0,0,0,0,1995-96,0,4.41,0,0
+0,Fin-Jr.,3,Ilves Tampere Jr.,184,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1996-97,0,0,0,0
+0,Finland,40,Ilves Tampere,2270,19,12,0,0,108,0,0,5,0,22,0,0,0,0,0,1996-97,0,2.85,0,0
+0,WJC-A,4,Finland,250,19,0,0,0,12,0,0,0,0,0,0,0,0,0,0,1996-97,0,2.88,0,0
+0,Fin-Jr.,2,Ilves Tampere Jr.,120,20,0,0,0,4,0,0,0,0,2,0,0,0,0,0,1997-98,0,2.00,0,0
+0,Finland,43,Ilves Tampere,2554,20,13,0,0,118,0,0,3,1,26,0,0,0,0,0,1997-98,0,2.77,0,0
+0,Finland,33,Ilves Tampere,1966,21,12,0,1,70,0,0,0,5,21,1,0,0,0,0,1998-99,0,2.14,6,0
+0,Sweden,44,Farjestads BK Karlstad,2652,22,0,0,2,118,0,0,0,3,0,1,0,1,0,0,1999-00,0,2.67,30,0
+0,WC-A,5,Finland,299,22,0,0,0,15,0,0,0,0,0,0,0,0,0,0,1999-00,0,3.01,0,0
+0,AHL,44,Kentucky Thoroughblades,2466,23,13,0,1,114,0,0,5,2,22,1,0,0,0,.911,2000-01,1279,2.77,6,1165
+0,AHL,62,Cleveland Barons,3574,24,33,0,2,178,0,0,7,3,19,2,0,0,0,.912,2001-02,2023,2.99,22,1845
+0,AHL,49,Cleveland Barons,2824,25,30,0,2,151,0,0,2,1,15,2,0,0,0,.903,2002-03,1564,3.21,12,1413
+0,Finland,3,Ilves Tampere,186,27,1,0,0,8,0,0,2,0,0,0,0,0,0,0,2004-05,0,2.58,4,0
+0,AHL,1,Cleveland Barons,65,28,0,0,0,0,0,0,1,1,0,0,0,0,0,1.000,2005-06,16,0.00,0,16
+0,Sweden,2,AIK IF Solna,117,33,0,0,0,6,0,0,0,0,0,0,0,0,0,0,2010-11,0,3.08,0,0
+0,Finland,22,Ilves Tampere,1242,34,15,0,0,71,0,0,5,1,1,0,0,0,0,0,2011-12,0,3.43,8,0

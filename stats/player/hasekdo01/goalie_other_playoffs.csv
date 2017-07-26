@@ -1,4 +1,4 @@
-bad_start,shutouts,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,games_started,age,good_start_precentages,saves,pim,goals,good_starts,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,assists,ties,wins,games_played,minutes
-0,0,0,3.00,0,0,IHL,0,26,0,0,0,0,0,0,3,0,1990-91,Indianapolis Ice,0,0,0,1,1,60
-0,3,0,1.68,0,0,CzRep,0,45,0,0,18,0,0,0,22,0,2009-10,HC Eaton Pardubice,0,0,0,0,13,785
-0,0,0,4.12,0,103,KHL,0,46,0,89,0,0,0,0,14,.864,2010-11,Spartak Moscow,3,0,0,0,4,204
+goals_allowed_precentage,goals_saved_aboved_average,bad_start,year,goals_allowed,minutes,ties,pim,good_starts,saves,shots_againist,assists,team,shutouts,goals,games_started,goals_allowed_average,age,league,saves_percentage,good_start_precentages,games_played,points,wins,loses
+0,0,0,1990-91,3,60,0,0,0,0,0,0,Indianapolis Ice,0,0,0,3.00,26,IHL,0,0,1,0,1,0
+0,0,0,2009-10,22,785,0,18,0,0,0,0,HC Eaton Pardubice,3,0,0,1.68,45,CzRep,0,0,13,0,0,0
+0,0,0,2010-11,14,204,0,0,0,89,103,0,Spartak Moscow,0,0,0,4.12,46,KHL,.864,0,4,0,0,3

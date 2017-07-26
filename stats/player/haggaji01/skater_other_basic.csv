@@ -1,19 +1,19 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-4,1932-33,Port Arthur Ports,5,0,18,12,19,14,TBJHL
-9,1933-34,Port Arthur Ports,4,0,19,10,10,6,TBJHL
-21,1934-35,Port Arthur Ports,2,0,20,16,13,11,TBSHL
-0,1935-36,Canada,3,0,21,2,5,2,Olympics
-6,1936-37,Wembley Monarchs,14,0,22,40,43,29,Britain
-0,1939-40,Montreal Royals,8,0,25,28,15,7,QSHL
-4,1940-41,Montreal Royals,10,0,26,21,18,8,QSHL
-12,1941-42,Montreal Royals,14,0,27,36,38,24,QSHL
-6,1942-43,Montreal RCAF,17,0,28,35,32,15,QSHL
-2,1943-44,Malton RCAF,2,0,29,4,7,5,TNDHL
-2,1944-45,Montreal RCAF,11,0,30,5,20,9,QSHL
-0,1944-45,Valleyfield Braves,2,0,30,9,9,7,QPHL
-8,1946-47,Montreal Royals,17,0,32,36,32,15,QSHL
-12,1947-48,Montreal Royals,42,0,33,48,62,20,QSHL
-8,1948-49,Montreal Royals,30,0,34,29,47,17,QSHL
-0,1949-50,2 Teams,12,0,35,32,15,3,QSHL
-0,1949-50,Montreal Royals,6,0,35,8,7,1,QSHL
-0,1949-50,Valleyfield Braves,6,0,35,24,8,2,QSHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+5,Port Arthur Ports,14,1932-33,12,19,4,18,0,TBJHL
+4,Port Arthur Ports,6,1933-34,10,10,9,19,0,TBJHL
+2,Port Arthur Ports,11,1934-35,16,13,21,20,0,TBSHL
+3,Canada,2,1935-36,2,5,0,21,0,Olympics
+14,Wembley Monarchs,29,1936-37,40,43,6,22,0,Britain
+8,Montreal Royals,7,1939-40,28,15,0,25,0,QSHL
+10,Montreal Royals,8,1940-41,21,18,4,26,0,QSHL
+14,Montreal Royals,24,1941-42,36,38,12,27,0,QSHL
+17,Montreal RCAF,15,1942-43,35,32,6,28,0,QSHL
+2,Malton RCAF,5,1943-44,4,7,2,29,0,TNDHL
+11,Montreal RCAF,9,1944-45,5,20,2,30,0,QSHL
+2,Valleyfield Braves,7,1944-45,9,9,0,30,0,QPHL
+17,Montreal Royals,15,1946-47,36,32,8,32,0,QSHL
+42,Montreal Royals,20,1947-48,48,62,12,33,0,QSHL
+30,Montreal Royals,17,1948-49,29,47,8,34,0,QSHL
+12,2 Teams,3,1949-50,32,15,0,35,0,QSHL
+6,Montreal Royals,1,1949-50,8,7,0,35,0,QSHL
+6,Valleyfield Braves,2,1949-50,24,8,0,35,0,QSHL

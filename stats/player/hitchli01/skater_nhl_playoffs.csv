@@ -1,0 +1,9 @@
+even_strength_goals,assists,team,goals,pim,age,game_winning_goals,total_ice_time,league,shorthanded_goals,shots,average_ice_time,year,games_played,shotsPercentage,win,power_play_goals,points,plus_minus
+0,0,OTS,0,0,21,0,,NHL,0,0,,1922-23,0,0,SC,0,0,0
+0,0,OTS,0,4,22,0,,NHL,0,0,,1923-24,0,0,,0,0,0
+0,0,BOS,1,31,25,0,,NHL,0,0,,1926-27,0,0,,0,1,0
+0,0,BOS,0,2,26,0,,NHL,0,0,,1927-28,2,0,,0,0,0
+0,1,BOS,0,22,27,0,,NHL,0,0,,1928-29,5,0,SC,0,1,0
+0,0,BOS,1,14,28,0,,NHL,0,0,,1929-30,0,0,,0,1,0
+0,0,BOS,0,0,29,0,,NHL,0,0,,1930-31,5,0,,0,0,0
+0,1,BOS,0,0,31,0,,NHL,0,0,,1932-33,5,0,,0,1,0

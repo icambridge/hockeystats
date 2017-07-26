@@ -1,0 +1,17 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1921-22,14,0,0,1,0,OHA-Jr.,5,Toronto Granites,1
+1922-23,15,1,0,0,0,OHA-Sr.,12,Toronto Aura Lee,1
+1923-24,16,3,0,1,0,OHA-Sr.,6,Toronto Aura Lee,4
+1926-27,19,3,24,0,0,Can-Pro,24,2 Teams,3
+1926-27,19,3,22,0,0,Can-Pro,20,Niagara Falls Cataracts,3
+1926-27,19,0,2,0,0,Can-Pro,4,London Panthers,0
+1927-28,20,3,46,5,0,Can-Pro,38,Niagara Falls Cataracts,8
+1928-29,21,3,38,2,0,Can-Am,39,New Haven Eagles,5
+1929-30,22,8,87,8,0,Can-Am,40,New Haven Eagles,16
+1930-31,23,8,83,10,0,Can-Am,40,New Haven Eagles,18
+1931-32,24,6,53,13,0,Can-Am,38,New Haven Eagles,19
+1932-33,25,13,50,13,0,Can-Am,48,New Haven Eagles,26
+1933-34,26,0,0,0,0,IHL,4,Syracuse Stars,0
+1933-34,26,2,10,3,0,Can-Am,20,New Haven Eagles,5
+1934-35,27,7,21,3,0,Can-Am,47,Providence Reds,10
+1935-36,28,8,18,12,0,Can-Am,48,Springfield Indians,20

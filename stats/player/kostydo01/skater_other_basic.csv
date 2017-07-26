@@ -1,0 +1,12 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1979-80,16,1,12,4,0,WHL,11,New Westminster Bruins,5
+1980-81,17,18,51,40,0,WHL,64,New Westminster Bruins,58
+1981-82,18,39,57,42,0,WHL,53,Kamloops Jr. Oilers,81
+1982-83,19,57,55,59,0,WHL,75,Kamloops Jr. Oilers,116
+1983-84,20,13,8,27,0,AHL,67,Hershey Bears,40
+1984-85,21,17,26,27,0,AHL,55,Hershey Bears,44
+1985-86,22,18,24,36,0,AHL,72,Moncton Golden Flames,54
+1986-87,23,21,22,45,0,AHL,74,Moncton Golden Flames,66
+1987-88,24,3,10,3,0,AHL,10,Adirondack Red Wings,6
+1988-89,25,20,16,32,0,Finland,44,SaiPa Lappeenranta,52
+1989-90,26,13,34,17,0,Finland,38,SaiPa Lappeenranta,30

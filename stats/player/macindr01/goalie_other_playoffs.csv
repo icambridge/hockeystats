@@ -1,0 +1,13 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,QMJHL,4,Sherbrooke Castors,238,17,4,0,0,19,0,0,0,0,0,0,0,0,0,0,2000-01,0,4.79,0,0
+0,QMJHL,12,Sherbrooke Castors,767,19,7,0,1,52,0,0,0,0,5,1,0,0,0,.872,2002-03,407,4.07,0,355
+0,AHL,5,Grand Rapids Griffins,260,22,1,0,0,7,0,0,0,0,3,0,0,0,0,.940,2005-06,117,1.62,0,110
+0,ECHL,6,Toledo Storm,360,22,1,0,0,12,0,0,0,0,5,0,0,0,0,.924,2005-06,157,2.00,0,145
+0,AHL,11,Manitoba Moose,633,23,6,0,0,21,0,0,0,1,4,0,0,0,0,0,2006-07,0,1.99,0,-21
+0,AHL,1,Manitoba Moose,31,24,0,0,0,2,0,0,0,0,1,0,0,0,0,.800,2007-08,10,3.87,0,8
+0,AHL,11,Milwaukee Admirals,655,25,4,0,0,18,0,0,0,1,7,0,0,0,0,.931,2008-09,261,1.65,0,243
+0,AHL,0,Milwaukee Admirals,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2008-09,0,0,2,0
+0,AHL,5,Chicago Wolves,228,26,2,0,0,11,0,0,0,1,1,0,0,0,0,.901,2009-10,111,2.89,0,100
+0,AHL,20,Hamilton Bulldogs,1289,27,9,0,1,42,0,0,0,1,11,1,0,0,0,.930,2010-11,603,1.96,0,561
+0,AHL,9,Toronto Marlies,527,29,4,0,0,25,0,0,0,1,5,0,0,0,0,.913,2012-13,288,2.85,0,263
+0,AHL,0,Toronto Marlies,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2013-14,0,0,0,0

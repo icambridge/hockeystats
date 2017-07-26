@@ -1,0 +1,12 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,AJHL,31,Brooks Bandits,1782,17,20,0,0,117,0,0,3,0,6,0,0,0,0,0,2003-04,0,3.94,0,0
+0,AJHL,43,Brooks Bandits,2505,18,16,0,0,109,0,0,2,2,25,0,0,0,0,0,2004-05,0,2.61,0,0
+0,CCHA,18,U. of Alaska Fairbanks,985,19,7,0,0,42,0,0,4,0,6,0,0,0,0,.909,2005-06,464,2.56,0,422
+0,CCHA,19,U. of Alaska Fairbanks,1002,20,6,0,0,52,0,0,2,1,5,0,0,0,0,0,2006-07,0,3.11,0,0
+0,CCHA,7,University of Alaska,357,21,6,0,0,20,0,0,0,0,0,0,0,0,0,0,2007-08,0,3.36,0,0
+0,CCHA,35,University of Alaska,2062,22,16,0,0,57,0,0,5,6,14,0,0,0,0,0,2008-09,0,1.66,0,0
+0,AHL,47,Hartford Wolf Pack,2649,23,18,0,2,112,0,0,2,3,24,2,0,0,0,.911,2009-10,1257,2.54,0,1145
+0,WC-A,3,Canada,73,23,0,0,0,1,0,0,0,0,0,0,0,0,0,.964,2009-10,28,0.82,0,27
+0,AHL,40,Connecticut Whale,2271,24,19,0,2,103,0,0,3,2,16,2,0,0,0,.901,2010-11,1040,2.72,2,937
+0,AHL,49,Connecticut Whale,2775,25,18,0,0,115,0,0,6,1,22,0,0,0,0,.919,2011-12,1413,2.49,2,1298
+0,AHL,34,Portland Pirates,1938,26,15,0,1,97,0,0,1,2,16,1,0,0,0,.903,2012-13,1003,3.00,2,906

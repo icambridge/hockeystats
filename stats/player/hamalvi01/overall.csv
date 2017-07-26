@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1981-07-06,LW, ,,Ville Hamalainen
+handed,heigh_and_weight,position,date_of_birth,name
+, ,LW,1981-07-06,Ville Hamalainen

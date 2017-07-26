@@ -1,0 +1,12 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+23,NHL,72,2,22,0,244,108,43,66,12,1429,TOT,41,0,"[{'link': '/awards/voting-2011.html#calder', 'name': 'Calder-10'}]",8.3,6,34,-4,9,0,0,2010-11,96,19:50,3,36,0,22
+17,NHL,46,1,22,0,154,67,26,51,8,913,COL,33,0,"[{'link': '/awards/voting-2011.html#calder', 'name': 'Calder-10'}]",10.4,5,19,-11,7,0,0,2010-11,64,19:50,2,20,0,11
+6,NHL,26,1,22,0,90,41,17,15,4,516,STL,8,0,"[{'link': '/awards/voting-2011.html#calder', 'name': 'Calder-10'}]",4.9,1,15,7,2,0,0,2010-11,32,19:51,1,16,0,11
+42,NHL,81,2,23,3,341,178,43,72,13,1750,STL,40,25.0,"[{'link': '/awards/voting-2012.html#AS', 'name': 'AS-17'}, {'link': '/awards/voting-2012.html#norris', 'name': 'Norris-18'}]",5.1,4,34,20,9,1,0,2011-12,103,21:36,5,60,1,20
+22,NHL,0,0,24,0,189,84,23,55,7,1022,STL,22,0,[],6.0,3,18,2,5,0,0,2012-13,59,21:18,2,20,0,11
+37,NHL,81,5,25,0,383,188,45,72,19,1666,STL,38,0,[],5.3,3,35,1,10,0,0,2013-14,101,20:34,7,38,1,15
+35,NHL,56,1,26,0,262,135,44,42,21,1263,STL,25,0,"[{'link': '/awards/voting-2015.html#AS', 'name': 'AS-17'}, {'link': '/awards/voting-2015.html#norris', 'name': 'Norris-15'}]",5.9,4,36,19,8,0,0,2014-15,86,22:34,4,52,0,15
+39,NHL,72,1,27,0,350,180,44,82,20,1614,STL,37,0,[],7.8,8,30,-14,14,0,0,2015-16,113,22:25,6,51,1,9
+40,NHL,80,2,28,0,319,161,56,88,19,1595,TOT,36,0,"[{'link': '/awards/voting-2017.html#AS', 'name': 'AS-8'}, {'link': '/awards/voting-2017.html#norris', 'name': 'Norris-14'}]",8.1,5,43,-7,13,0,0,2016-17,95,19:56,8,47,0,24
+29,NHL,61,0,28,0,245,115,42,70,13,1211,STL,18,0,"[{'link': '/awards/voting-2017.html#AS', 'name': 'AS-8'}, {'link': '/awards/voting-2017.html#norris', 'name': 'Norris-14'}]",9.6,4,31,-11,11,0,0,2016-17,69,19:51,7,37,0,18
+11,NHL,19,2,28,0,74,46,14,18,6,384,WSH,18,0,"[{'link': '/awards/voting-2017.html#AS', 'name': 'AS-8'}, {'link': '/awards/voting-2017.html#norris', 'name': 'Norris-14'}]",4.3,1,12,4,2,0,0,2016-17,26,20:12,1,10,0,6

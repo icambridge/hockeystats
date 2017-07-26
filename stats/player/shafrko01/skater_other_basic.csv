@@ -1,0 +1,40 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1989-90,21,6,16,8,0,USSR,28,Torpedo Ust-Kamenogorsk,14
+1990-91,22,16,32,6,0,USSR,40,Torpedo Ust-Kamenogorsk,22
+1991-92,23,10,40,6,0,CIS,36,Torpedo Ust-Kamenogorsk,16
+1992-93,24,19,26,19,0,CIS,42,Torpedo Ust-Kamenogorsk,38
+1992-93,24,10,4,9,0,WC-C,7,Kazakhstan,19
+1993-94,25,3,0,2,0,ColHL,4,Detroit Falcons,5
+1993-94,25,18,6,21,0,CIS,27,Torpedo Ust-Kamenogorsk,39
+1993-94,25,7,44,5,0,WC-C,6,Kazakhstan,12
+1994-95,26,21,24,30,0,CIS,47,Metallurg Magnitogorsk,51
+1995-96,27,3,0,3,0,CIS,6,Metallurg Magnitogorsk,6
+1995-96,27,46,26,28,0,IHL,74,Fort Wayne Komets,74
+1996-97,28,23,16,25,0,AHL,62,Worcester IceCats,48
+1997-98,29,28,50,52,39,IHL,67,Fort Wayne Komets,80
+1997-98,29,4,6,3,0,Olympics,7,Kazakhstan,7
+1997-98,29,0,0,0,0,WC-A,3,Kazakhstan,0
+1998-99,30,4,4,9,0,Russia,28,Metallurg Magnitogorsk,13
+1998-99,30,3,4,9,0,EuroHL,9,Metallurg Magnitogorsk,12
+1999-00,31,3,15,8,0,IHL,24,Grand Rapids Griffins,11
+1999-00,31,0,0,4,-2,AHL,8,Providence Bruins,4
+1999-00,31,15,6,15,8,UHL,20,Fort Wayne Komets,30
+2000-01,32,22,72,31,0,Russia-2,43,Sibir Novosibirsk,53
+2000-01,32,6,0,4,0,WC-B,5,Kazakhstan,10
+2001-02,33,14,12,21,0,Russia-2,41,HK CSKA Moscow,35
+2002-03,34,14,10,14,0,Russia-2,39,Khimik Moscow Region,28
+2003-04,35,15,24,9,0,Russia,49,2 Teams,24
+2003-04,35,7,14,3,0,Russia,18,Khimik Moscow Region (Voskresensk),10
+2003-04,35,8,10,6,0,Russia,31,Torpedo Nizhny Novgorod,14
+2004-05,36,17,24,30,0,Russia-2,50,Torpedo Nizhny Novgorod,47
+2004-05,36,0,0,0,0,WC-A,6,Kazakhstan,0
+2005-06,37,0,0,0,-5,Olympics,5,Kazakhstan,0
+2005-06,37,0,8,1,-1,WC-A,6,Kazakhstan,1
+2005-06,37,23,44,49,0,Russia-2,51,2 Teams,72
+2005-06,37,21,42,46,0,Russia-2,48,Krylja Sovetov Moscow,67
+2005-06,37,2,2,3,0,Russia-2,3,Torpedo Nizhny Novgorod,5
+2006-07,38,10,16,17,0,Russia-2,28,Torpedo Nizhny Novgorod,27
+2007-08,39,23,10,35,0,IHL,71,Fort Wayne Komets,58
+2008-09,40,28,28,35,0,IHL,60,Fort Wayne Komets,63
+2009-10,41,19,20,38,30,IHL,58,Fort Wayne Komets,57
+2009-10,41,0,0,4,-1,WC-A,6,Kazakhstan,4

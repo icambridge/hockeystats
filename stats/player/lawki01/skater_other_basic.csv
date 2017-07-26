@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1991-92,14,89,60,103,0,MAHA,60,McCreary Big Macs,192
+1992-93,15,20,8,15,0,MJHL,48,Dauphin Kings,35
+1993-94,16,9,39,11,0,WHL,66,Saskatoon Blades,20
+1994-95,17,14,82,25,0,WHL,70,2 Teams,39
+1994-95,17,10,44,15,0,WHL,46,Saskatoon Blades,25
+1994-95,17,4,38,10,0,WHL,24,Lethbridge Hurricanes,14
+1995-96,18,17,133,45,0,WHL,71,Lethbridge Hurricanes,62
+1996-97,19,39,200,52,0,WHL,72,Lethbridge Hurricanes,91
+1997-98,20,34,153,44,0,WHL,49,Brandon Wheat Kings,78
+1998-99,21,18,136,13,0,IHL,67,Orlando Solar Bears,31
+1998-99,21,2,40,3,0,AHL,11,Adirondack Red Wings,5
+1999-00,22,1,0,0,0,IHL,1,Orlando Solar Bears,1
+1999-00,22,32,179,25,18,AHL,78,2 Teams,57
+1999-00,22,31,173,21,22,AHL,66,Louisville Panthers,52
+1999-00,22,1,6,4,-4,AHL,12,Philadelphia Phantoms,5
+2000-01,23,27,150,34,3,AHL,78,Philadelphia Phantoms,61
+2001-02,24,18,102,24,-14,AHL,71,Philadelphia Phantoms,42
+2002-03,25,22,166,19,5,AHL,74,Philadelphia Phantoms,41
+2003-04,26,32,139,41,16,AHL,74,Philadelphia Phantoms,73
+2004-05,27,25,134,24,3,AHL,80,Houston Aeros,49
+2005-06,28,43,95,67,16,AHL,80,Houston Aeros,110
+2006-07,29,17,40,32,0,Swiss,44,HC Geneve-Servette,49
+2007-08,30,17,18,25,0,Swiss,36,HC Geneve-Servette,42
+2008-09,31,1,2,2,0,KHL,10,Neftekhimik Nizhnekamsk,3
+2008-09,31,5,8,21,0,Swiss,28,HC Fribourg-Gotteron,26
+2009-10,32,16,24,23,0,Swiss,48,HC Ambri-Piotta,39

@@ -1,15 +1,15 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-16,1989-90,Newmarket 87\'s,5,0,15,30,8,3,ON-Jr.B
-39,1990-91,2 Teams,16,0,16,43,22,6,ON-Jr.B
-37,1990-91,Newmarket 87\'s,13,0,16,35,15,2,ON-Jr.B
-2,1990-91,Markham Thunderbirds,3,0,16,8,7,4,ON-Jr.B
-43,1991-92,Thornhill Thunderbirds,46,0,17,44,61,15,ON-Jr.A
-12,1992-93,University of Michigan,12,0,18,39,13,1,CCHA
-32,1993-94,University of Michigan,13,0,19,41,15,2,CCHA
-20,1994-95,University of Michigan,14,0,20,39,16,2,CCHA
-32,1995-96,University of Michigan,16,0,21,43,20,4,CCHA
-37,1996-97,Springfield Falcons,5,0,22,70,6,1,AHL
-44,1997-98,Beast of New Haven,19,-19,23,65,20,1,AHL
-58,1998-99,Beast of New Haven,7,-12,24,42,9,2,AHL
-15,2001-02,Worcester IceCats,5,0,27,43,8,3,AHL
-34,2002-03,Lowell Lock Monsters,22,0,28,71,26,4,AHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+5,Newmarket 87\'s,3,1989-90,30,8,16,15,0,ON-Jr.B
+16,2 Teams,6,1990-91,43,22,39,16,0,ON-Jr.B
+13,Newmarket 87\'s,2,1990-91,35,15,37,16,0,ON-Jr.B
+3,Markham Thunderbirds,4,1990-91,8,7,2,16,0,ON-Jr.B
+46,Thornhill Thunderbirds,15,1991-92,44,61,43,17,0,ON-Jr.A
+12,University of Michigan,1,1992-93,39,13,12,18,0,CCHA
+13,University of Michigan,2,1993-94,41,15,32,19,0,CCHA
+14,University of Michigan,2,1994-95,39,16,20,20,0,CCHA
+16,University of Michigan,4,1995-96,43,20,32,21,0,CCHA
+5,Springfield Falcons,1,1996-97,70,6,37,22,0,AHL
+19,Beast of New Haven,1,1997-98,65,20,44,23,-19,AHL
+7,Beast of New Haven,2,1998-99,42,9,58,24,-12,AHL
+5,Worcester IceCats,3,2001-02,43,8,15,27,0,AHL
+22,Lowell Lock Monsters,4,2002-03,71,26,34,28,0,AHL

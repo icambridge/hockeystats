@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1991-92,18,2,8,0,0,OHL,10,London Knights,2
+1992-93,19,7,25,8,0,OHL,12,London Knights,15
+1993-94,20,8,19,8,0,ECHL,10,Birmingham Bulls,16
+1994-95,21,5,0,2,0,ECHL,3,Birmingham Bulls,7
+1994-95,21,0,2,0,0,IHL,1,Cincinnati Cyclones,0
+1997-98,24,12,11,8,0,AHL,15,Hartford Wolf Pack,20
+1998-99,25,6,14,0,0,AHL,7,Hartford Wolf Pack,6
+1999-00,26,13,8,10,0,AHL,23,Hartford Wolf Pack,23
+2000-01,27,2,8,3,0,AHL,5,Hartford Wolf Pack,5
+2001-02,28,3,14,8,0,AHL,10,Hartford Wolf Pack,11
+2002-03,29,7,12,6,1,AHL,14,Binghamton Senators,13
+2003-04,30,3,4,5,0,Finland,15,Karpat Oulu,8
+2004-05,31,2,4,1,-6,AHL,6,Manchester Monarchs,3
+2005-06,32,1,4,3,-2,AHL,9,Hartford Wolf Pack,4
+2006-07,33,1,4,1,0,Germany,4,Hamburg Freezers,2
+2007-08,34,3,14,4,0,Germany,8,Hamburg Freezers,7
+2008-09,35,1,6,1,0,Germany,9,Hamburg Freezers,2
+2009-10,36,2,6,2,0,Austria,11,Medvescak Zagreb,4
+2010-11,37,3,4,1,0,Italy,5,HC Fassa,4
+2011-12,38,1,6,3,0,France,5,HC Morzine-Avoriaz,4

@@ -1,0 +1,8 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+1.7,1,NHL,12,TOR,672,25,5,113,0,35,11,-3.96,2,0,4,0,.455,0,5,.903,2011-12,359,3.12,4,[],324
+3.5,3,NHL,20,TOR,1025,26,9,96,0,46,17,1.74,0,2,7,0,.588,0,10,.915,2012-13,542,2.69,6,[],496
+8.5,3,NHL,40,TOT,2210,27,16,91,1,94,35,9.83,4,4,16,1,.629,0,22,.922,2013-14,1205,2.55,6,[],1111
+3.8,0,NHL,19,LAK,975,27,5,80,1,32,15,7.98,4,3,7,1,.667,0,10,.931,2013-14,464,1.97,0,[],432
+4.7,3,NHL,21,EDM,1235,27,11,97,0,62,20,1.85,0,1,9,0,.600,0,12,.916,2013-14,741,3.01,6,[],679
+4.6,13,NHL,57,EDM,3228,28,26,129,1,170,53,-38.39,11,1,15,1,.358,0,19,.890,2014-15,1542,3.16,4,[],1372
+2.2,2,NHL,15,MTL,822,29,8,110,0,42,14,-3.94,0,0,5,0,.286,0,4,.906,2015-16,447,3.07,0,[],405

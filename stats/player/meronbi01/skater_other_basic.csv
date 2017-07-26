@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1934-35,17,7,0,7,0,MJHL,10,St. Boniface Seals,14
+1935-36,18,16,2,7,0,MJHL,16,Portage Terriers,23
+1936-37,19,21,4,20,0,MJHL,16,Portage Terriers,41
+1937-38,20,10,4,10,0,QSHL,20,Verdun Maple Leafs,20
+1938-39,21,17,9,17,0,QSHL,22,Verdun Maple Leafs,34
+1939-40,22,14,10,23,0,QSHL,26,Verdun Maple Leafs,37
+1940-41,23,17,4,10,0,QSHL,29,Montreal Sr. Canadiens,27
+1941-42,24,4,32,15,0,QSHL,31,Montreal Sr. Canadiens,19
+1942-43,25,13,4,19,0,QSHL,24,Montreal Sr. Canadiens,32
+1943-44,26,13,6,13,0,MCHL,10,Montreal Noordyn,26
+1943-44,26,12,0,16,0,QSHL,19,Montreal Royals,28
+1944-45,27,16,8,32,0,QSHL,23,Montreal Royals,48
+1945-46,28,15,18,36,0,QSHL,35,Montreal Royals,51
+1946-47,29,39,14,63,0,QPHL,49,Lachine Rapides,102
+1947-48,30,0,0,0,0,QPHL,1,Lachine Rapides,0
+1948-49,31,11,4,27,0,ECSHL,15,Hull Volants,38
+1949-50,32,12,6,27,0,ECSHL,25,2 Teams,39
+1949-50,32,7,6,17,0,ECSHL,15,Cornwall Calumets,24
+1949-50,32,5,0,10,0,ECSHL,10,Hull Volants,15

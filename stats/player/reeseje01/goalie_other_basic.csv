@@ -1,0 +1,13 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,ON-Jr.B,40,Hamilton Kilty B\'s,2380,16,0,0,0,176,0,0,0,0,0,0,0,0,0,0,1982-83,0,4.44,0,0
+0,OHL,43,London Knights,2308,17,19,0,0,173,0,0,1,0,18,0,0,0,0,0,1983-84,0,4.50,0,0
+0,OHL,50,London Knights,2878,18,15,0,0,186,0,0,1,1,31,0,0,0,0,0,1984-85,0,3.88,0,0
+0,OHL,57,London Knights,3281,19,26,0,0,215,0,0,3,0,25,0,0,0,0,0,1985-86,0,3.93,0,0
+0,AHL,50,Newmarket Saints,2822,20,29,0,0,193,0,0,0,1,11,0,0,0,0,0,1986-87,0,4.10,0,0
+0,AHL,28,Newmarket Saints,1587,21,14,0,0,103,0,0,3,0,10,0,0,0,0,0,1987-88,0,3.89,0,0
+0,AHL,37,Newmarket Saints,2072,22,14,0,0,132,0,0,3,0,17,0,0,0,0,0,1988-89,0,3.82,0,0
+0,AHL,7,Newmarket Saints,431,23,2,0,0,29,0,0,2,0,3,0,0,0,0,0,1989-90,0,4.04,0,0
+0,AHL,3,Newmarket Saints,180,24,1,0,0,7,0,0,0,0,2,0,0,0,0,0,1990-91,0,2.33,0,0
+0,IHL,32,Detroit Vipers,1763,30,4,0,0,55,0,0,3,4,23,0,0,0,0,.926,1996-97,748,1.87,0,693
+0,IHL,46,Detroit Vipers,2570,31,9,0,0,95,0,0,8,4,27,0,0,0,0,.917,1997-98,1143,2.22,0,1048
+0,AHL,27,St. John\'s Maple Leafs,1555,32,7,0,3,66,0,0,3,1,17,3,0,0,0,.921,1998-99,831,2.55,4,765

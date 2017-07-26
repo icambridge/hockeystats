@@ -1,0 +1,6 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+9.3,0,NHL,0,NYA,0,27,18,0,0,111,0,0,11,6,19,0,0,0,0,0,1937-38,0,2.22,0,[],0
+5.5,0,NHL,46,NYA,2850,28,18,0,0,0,0,0,0,3,17,0,0,0,0,0,1938-39,0,2.86,0,"[{'link': '/awards/nhl_all_star.html#1939', 'name': None}, {'link': '/awards/voting-1939.html#hart', 'name': 'Hart-4'}]",0
+5.7,0,NHL,0,NYA,2960,29,0,0,0,0,0,0,4,6,15,0,0,0,0,0,1939-40,0,2.84,0,"[{'link': '/awards/voting-1940.html#hart', 'name': 'Hart-5'}]",0
+1.1,0,NHL,36,NYA,2260,30,22,0,0,0,0,0,8,1,6,0,0,0,0,0,1940-41,0,3.77,0,[],0
+1.3,0,NHL,12,BRO,750,31,8,0,0,46,0,0,1,0,3,0,0,0,0,0,1941-42,0,3.68,0,[],0

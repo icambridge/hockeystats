@@ -1,0 +1,53 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1987-88,15,0,0,0,0,USSR-3,1,ShVSM Riga,0
+1990-91,18,4,4,1,0,USSR,23,Dynamo Riga,5
+1990-91,18,15,0,0,0,USSR-3,27,RShVSM-Energo Riga,0
+1990-91,18,0,0,0,0,Fr-Tour,1,Dynamo Riga,0
+1991-92,19,4,4,8,0,CIS,26,Rigas Stars,12
+1991-92,19,4,0,2,0,CIS-3,4,RShVSM-Energo Riga,6
+1992-93,20,17,22,30,0,AHL,39,Providence Bruins,47
+1993-94,21,24,20,26,0,AHL,55,Providence Bruins,50
+1993-94,21,1,2,5,0,WC-B,5,Latvia,6
+1994-95,22,20,36,23,0,AHL,70,Providence Bruins,43
+1995-96,23,26,32,46,0,IHL,62,2 Teams,72
+1995-96,23,11,18,25,0,IHL,33,Utah Grizzlies,36
+1995-96,23,15,14,21,0,IHL,29,Las Vegas Thunder,36
+1996-97,24,25,41,37,0,IHL,81,San Antonio Dragons,62
+1997-98,25,29,52,42,0,IHL,82,2 Teams,71
+1997-98,25,2,8,13,0,IHL,19,San Antonio Dragons,15
+1997-98,25,27,44,29,0,IHL,63,Orlando Solar Bears,56
+1998-99,26,25,51,37,0,IHL,77,Orlando Solar Bears,62
+1999-00,27,21,63,30,0,Germany,67,Hannover Scorpions,51
+1999-00,27,1,0,0,1,WC-Q,3,Latvia,1
+1999-00,27,1,2,1,-1,WC-A,7,Latvia,2
+2000-01,28,3,12,5,0,Russia,19,Lokomotiv Yaroslavl,8
+2000-01,28,0,2,0,2,Oly-Q,3,Latvia,0
+2000-01,28,1,2,2,3,WC-A,6,Latvia,3
+2001-02,29,4,6,1,0,Sweden,11,Sodertalje SK,5
+2001-02,29,4,4,5,0,Swiss-2,9,EHC Olten,9
+2001-02,29,2,2,0,4,Olympics,4,Latvia,2
+2001-02,29,2,0,0,-4,WC-A,6,Latvia,2
+2001-02,29,12,12,18,0,EEHL,28,2 Teams,30
+2001-02,29,6,6,9,0,EEHL,14,HK Riga,15
+2001-02,29,6,6,9,0,EEHL,14,HK Riga 2000,15
+2002-03,30,4,65,9,0,Finland,40,Pelicans Lahti,13
+2002-03,30,1,0,3,1,WC-A,6,Latvia,4
+2002-03,30,6,12,6,0,EEHL,16,2 Teams,12
+2002-03,30,3,6,3,0,EEHL,8,HK Riga,6
+2002-03,30,3,6,3,0,EEHL,8,HK Riga 2000,6
+2003-04,31,1,35,7,0,EEHL,18,HK Riga 2000,8
+2003-04,31,3,2,13,0,Latvia,9,HK Riga 2000,16
+2003-04,31,2,0,2,-1,WC-A,7,Latvia,4
+2004-05,32,0,0,0,0,Latvia,1,HK Riga 2000,0
+2004-05,32,12,30,14,0,Sweden-2,35,IFK Arboga IK,26
+2004-05,32,2,2,0,2,Oly-Q,3,Latvia,2
+2004-05,32,0,4,2,-1,WC-A,6,Latvia,2
+2005-06,33,4,12,5,0,Russia-2,23,HK Dmitrov,9
+2005-06,33,0,0,1,0,Swiss,7,EV Zug,1
+2005-06,33,2,0,1,0,Italy,1,HC Bolzano,3
+2005-06,33,0,0,3,-1,Olympics,5,Latvia,3
+2005-06,33,1,0,1,0,Swiss-2,1,HC Martigny,2
+2005-06,33,0,0,0,1,WC-A,4,Latvia,0
+2006-07,34,10,34,41,0,Swiss-2,43,HC Martigny,51
+2006-07,34,0,4,2,0,WC-A,6,Latvia,2
+2007-08,35,1,4,2,0,German-2,9,EV Landsberg 2000,3

@@ -1,9 +1,9 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-8,1986-87,Three Hills Braves,11,0,16,12,21,10,AAHA
-58,1987-88,Olds Grizzlys,31,0,17,51,44,13,AJHL
-2,1987-88,Regina Pats,1,0,17,5,1,0,WHL
-99,1988-89,Regina Pats,31,0,18,72,41,10,WHL
-93,1989-90,Regina Pats,37,0,19,58,53,16,WHL
-8,1989-90,Canada,2,0,19,7,4,2,WJC-A
-53,1990-91,Rochester Americans,8,0,20,52,10,2,AHL
-18,1991-92,Rochester Americans,0,0,21,4,0,0,AHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+11,Three Hills Braves,10,1986-87,12,21,8,16,0,AAHA
+31,Olds Grizzlys,13,1987-88,51,44,58,17,0,AJHL
+1,Regina Pats,0,1987-88,5,1,2,17,0,WHL
+31,Regina Pats,10,1988-89,72,41,99,18,0,WHL
+37,Regina Pats,16,1989-90,58,53,93,19,0,WHL
+2,Canada,2,1989-90,7,4,8,19,0,WJC-A
+8,Rochester Americans,2,1990-91,52,10,53,20,0,AHL
+0,Rochester Americans,0,1991-92,4,0,18,21,0,AHL

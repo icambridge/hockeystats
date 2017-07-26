@@ -1,0 +1,16 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,ON-Jr.B,3,Windsor Bulldogs,164,15,1,0,0,18,0,0,0,0,1,0,0,0,0,0,1989-90,0,6.59,0,0
+0,ON-Jr.C,2,Belle River Canadiens,115,15,0,0,0,2,0,0,0,1,2,0,0,0,0,0,1989-90,0,1.04,0,0
+0,ON-Jr.B,24,Chatham Micmac Jrs.,1429,16,0,0,0,86,0,0,0,0,0,0,0,0,0,0,1990-91,0,3.61,0,0
+0,OHL,38,Detroit Compuware Ambassadors,1943,17,17,0,0,138,0,0,1,1,16,0,0,0,0,0,1991-92,0,4.26,0,0
+0,OHL,63,2 Teams,3615,18,26,0,0,255,0,0,12,0,22,0,0,0,0,0,1992-93,0,4.23,0,0
+0,OHL,4,Detroit Jr. Red Wings,245,18,2,0,0,18,0,0,1,0,1,0,0,0,0,0,1992-93,0,4.41,0,0
+0,OHL,59,Belleville Bulls,3370,18,24,0,0,237,0,0,11,0,21,0,0,0,0,0,1992-93,0,4.22,0,0
+0,OHL,56,Belleville Bulls,2860,19,16,0,0,179,0,0,4,2,24,0,0,0,0,0,1993-94,0,3.76,0,0
+0,IHL,46,Atlanta Knights,2414,20,17,0,0,121,0,0,2,1,22,0,0,0,0,.891,1994-95,1112,3.01,0,991
+0,IHL,28,Atlanta Knights,1433,21,11,0,0,98,0,0,2,1,11,0,0,0,0,.881,1995-96,825,4.10,0,727
+0,IHL,46,Cleveland Lumberjacks,2595,22,17,0,0,138,0,0,6,1,20,0,0,0,0,.907,1996-97,1481,3.19,0,1343
+0,IHL,25,Cleveland Lumberjacks,1295,23,12,0,0,63,0,0,2,1,9,0,0,0,0,.907,1997-98,676,2.92,0,613
+0,IHL,34,Cleveland Lumberjacks,1760,24,15,0,3,108,0,0,2,1,10,3,0,0,0,.895,1998-99,1027,3.68,6,919
+0,ECHL,31,Charlotte Checkers,1435,25,13,0,1,83,0,0,2,0,11,1,0,0,0,.903,1999-00,856,3.47,2,773
+0,IHL,1,Chicago Wolves,60,25,0,0,0,5,0,0,1,0,0,0,0,0,0,0,1999-00,0,5.00,0,0

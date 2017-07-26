@@ -1,0 +1,30 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1989-90,16,49,92,38,0,MMMHL,40,Winnipeg Hawks,87
+1990-91,17,29,199,41,0,MJHL,45,St. Boniface Saints,70
+1991-92,18,23,102,30,0,WHL,68,Brandon Wheat Kings,53
+1992-93,19,36,75,51,0,WHL,72,Brandon Wheat Kings,87
+1993-94,20,50,112,47,0,WHL,63,Brandon Wheat Kings,97
+1994-95,21,36,34,24,0,Nat-Tm,44,Canada,60
+1994-95,21,0,4,1,0,IHL,10,San Diego Gulls,1
+1994-95,21,0,0,2,0,WC-A,8,Canada,2
+1995-96,22,33,73,38,0,AHL,74,Baltimore Bandits,71
+1996-97,23,27,89,27,0,AHL,70,Worcester IceCats,54
+1997-98,24,30,66,38,24,AHL,71,2 Teams,68
+1997-98,24,3,4,3,-2,AHL,5,Worcester IceCats,6
+1997-98,24,27,62,35,26,AHL,66,Philadelphia Phantoms,62
+1999-00,26,47,158,40,27,AHL,73,Philadelphia Phantoms,87
+2000-01,27,2,11,2,-6,IHL,10,Chicago Wolves,4
+2001-02,28,22,90,33,0,Swiss,43,HC Lugano,55
+2002-03,29,12,70,14,0,Swiss,36,HC Lugano,26
+2003-04,30,30,85,41,0,Swiss,48,HC Lugano,71
+2004-05,31,11,64,17,0,Swiss,30,HC Lugano,28
+2005-06,32,16,46,21,0,Swiss,43,EV Zug,37
+2006-07,33,8,62,18,0,Swiss,38,2 Teams,26
+2006-07,33,6,42,9,0,Swiss,25,EV Zug,15
+2006-07,33,2,20,9,0,Swiss,13,EHC Basel,11
+2007-08,34,11,98,10,0,Swiss,33,2 Teams,21
+2007-08,34,3,82,2,0,Swiss,14,EHC Basel,5
+2007-08,34,8,16,8,0,Swiss,19,HC Davos,16
+2008-09,35,0,2,0,0,Swiss,2,HC Lugano,0
+2008-09,35,0,6,0,0,KHL,7,Dynamo Minsk,0
+2009-10,36,0,4,0,0,Swiss,1,HC Ambri-Piotta,0

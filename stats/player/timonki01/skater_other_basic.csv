@@ -1,0 +1,37 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1990-91,15,0,2,1,0,Fin-Jr.,4,KalPa Kuopio Jr.,1
+1991-92,16,7,4,10,0,Fin-Jr.,32,KalPa Kuopio Jr.,17
+1991-92,16,0,0,0,0,Finland,5,KalPa Kuopio,0
+1992-93,17,0,0,5,0,Fin-U18,3,KalPa Kuopio U18,5
+1992-93,17,9,10,15,0,Fin-Jr.,16,KalPa Kuopio Jr.,24
+1992-93,17,0,4,2,0,Finland,33,KalPa Kuopio,2
+1992-93,17,2,6,0,0,WJC-A,7,Finland,2
+1992-93,17,2,2,2,0,EJC-A,6,Finland,4
+1993-94,18,4,0,7,0,Fin-Jr.,5,KalPa Kuopio Jr.,11
+1993-94,18,6,55,7,0,Finland,46,KalPa Kuopio,13
+1993-94,18,3,4,3,0,WJC-A,7,Finland,6
+1994-95,19,0,0,0,0,Fin-Jr.,1,TPS Turku Jr.,0
+1994-95,19,3,10,4,0,Finland,45,TPS Turku,7
+1994-95,19,2,4,6,0,WJC-A,7,Finland,8
+1995-96,20,3,22,21,0,Finland,48,TPS Turku,24
+1995-96,20,0,0,1,0,WC-A,6,Finland,1
+1996-97,21,10,18,14,0,Finland,50,TPS Turku,24
+1996-97,21,1,27,0,0,EuroHL,6,TPS Turku,1
+1997-98,22,10,24,15,0,Finland,45,HIFK Helsinki,25
+1997-98,22,0,2,1,0,Olympics,6,Finland,1
+1997-98,22,2,4,6,0,WC-A,10,Finland,8
+1998-99,23,2,22,13,0,IHL,29,Milwaukee Admirals,15
+1998-99,23,1,6,4,0,WC-A,10,Finland,5
+2000-01,25,2,10,2,7,WC-A,9,Finland,4
+2001-02,26,0,2,1,-1,Olympics,4,Finland,1
+2001-02,26,1,8,2,-3,WC-A,9,Finland,3
+2002-03,27,2,2,5,1,WC-A,7,Finland,7
+2004-05,29,1,2,5,0,W-Cup,6,Finland,6
+2004-05,29,0,0,1,0,Swiss,3,HC Lugano,1
+2004-05,29,5,8,3,0,Sweden,10,Brynas IF Gavle,8
+2004-05,29,4,6,13,0,Finland-2,12,KalPa Kuopio,17
+2004-05,29,2,6,1,-1,WC-A,6,Finland,3
+2005-06,30,1,2,4,2,Olympics,8,Finland,5
+2009-10,34,2,2,2,2,Olympics,6,Finland,4
+2013-14,38,0,0,2,4,Internationa,6,Finland (all),2
+2013-14,38,0,0,2,4,Olympics,6,Finland,2

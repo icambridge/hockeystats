@@ -1,0 +1,9 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+9,NHL,14,1,21,0,60,29,10,6,3,361,CAR,8,0,[],10.3,2,7,6,3,0,0,2009-10,34,25:47,1,0,0,4
+36,NHL,76,2,22,0,221,95,30,41,7,1452,CAR,22,0,[],7.4,6,23,-8,7,0,0,2010-11,111,19:06,1,32,0,16
+40,NHL,76,1,23,0,292,127,27,15,6,1505,CAR,30,0,"[{'link': '/awards/voting-2012.html#byng', 'name': 'Byng-46'}]",6.3,3,19,-7,8,0,0,2011-12,106,19:48,5,4,0,13
+18,NHL,40,0,24,0,101,46,8,22,0,737,CAR,8,0,[],2.2,1,7,0,1,0,0,2012-13,63,18:25,0,12,0,7
+31,NHL,69,0,25,0,224,98,17,34,3,1391,BUF,12,0,[],6.1,4,11,-13,6,0,0,2013-14,113,20:10,2,14,1,7
+6,NHL,26,0,26,0,60,18,9,21,2,330,LAK,3,0,[],16.7,2,6,4,3,0,0,2014-15,28,12:41,1,4,0,4
+13,NHL,44,0,27,0,78,32,9,20,5,538,LAK,2,0,[],6.3,1,7,2,2,0,0,2015-16,38,12:14,1,6,0,2
+1,NHL,3,0,28,0,8,3,0,0,0,50,ARI,1,0,[],0.0,0,0,-1,0,0,0,2016-17,4,16:40,0,0,0,0

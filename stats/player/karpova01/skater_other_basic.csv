@@ -1,0 +1,39 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1988-89,17,7,8,9,0,USSR-2,26,Metallurg Chelyabinsk,16
+1988-89,17,0,0,0,0,USSR,5,Traktor Chelyabinsk,0
+1988-89,17,2,6,2,0,EJC-A,6,Soviet Union,4
+1989-90,18,3,0,1,0,USSR-2,1,Metallurg Chelyabinsk,4
+1989-90,18,1,6,2,0,USSR,24,Traktor Chelyabinsk,3
+1989-90,18,2,0,2,0,USSR-Q,23,Traktor Chelyabinsk,4
+1990-91,19,8,15,4,0,USSR,25,Traktor Chelyabinsk,12
+1990-91,19,7,14,8,0,USSR-Q,26,Traktor Chelyabinsk,15
+1990-91,19,0,2,4,0,WJC-A,7,Soviet Union,4
+1991-92,20,16,34,10,0,CIS,44,Traktor Chelyabinsk,26
+1991-92,20,1,2,0,0,CIS-2,4,Mechel Chelyabinsk,1
+1992-93,21,4,0,5,0,WC-A,8,Russia,9
+1992-93,21,12,6,21,0,CIS,38,2 Teams,33
+1992-93,21,2,0,6,0,CIS,9,CSKA Moscow,8
+1992-93,21,10,6,15,0,CIS,29,Traktor Chelyabinsk,25
+1993-94,22,11,18,19,0,CIS,32,Traktor Chelyabinsk,30
+1993-94,22,3,2,1,0,Olympics,8,Russia,4
+1994-95,23,6,8,8,0,CIS,10,Traktor Chelyabinsk,14
+1994-95,23,3,0,3,0,IHL,5,San Diego Gulls,6
+1995-96,24,3,6,0,0,WC-A,8,Russia,3
+1996-97,25,4,8,8,0,AHL,10,Baltimore Bandits,12
+1996-97,25,18,19,17,0,IHL,30,Long Beach Ice Dogs,35
+1997-98,26,11,20,14,0,Russia,34,Metallurg Magnitogorsk,25
+1998-99,27,16,38,14,0,Russia,40,Metallurg Magnitogorsk,30
+1998-99,27,0,0,0,0,WC-A,6,Russia,0
+1999-00,28,9,22,14,0,Russia,38,Metallurg Magnitogorsk,23
+2000-01,29,8,18,7,0,Russia,40,Lada Togliatti,15
+2000-01,29,3,4,0,-2,WC-A,7,Russia,3
+2001-02,30,4,22,2,0,WC-A,9,Russia,6
+2001-02,30,5,28,14,0,Russia,49,2 Teams,19
+2001-02,30,2,6,7,0,Russia,19,Dynamo Moscow,9
+2001-02,30,3,22,7,0,Russia,30,Metallurg Magnitogorsk,10
+2002-03,31,10,32,20,0,Russia,50,Metallurg Magnitogorsk,30
+2003-04,32,15,46,25,0,Russia,60,Metallurg Magnitogorsk,40
+2004-05,33,6,20,9,0,Russia,42,Metallurg Magnitogorsk,15
+2005-06,34,15,50,14,0,Russia-2,49,2 Teams,29
+2005-06,34,10,34,4,0,Russia-2,28,Mechel Chelyabinsk,14
+2005-06,34,5,16,10,0,Russia-2,21,Traktor Chelyabinsk,15

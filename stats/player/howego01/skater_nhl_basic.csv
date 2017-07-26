@@ -1,0 +1,33 @@
+shotsPercentage,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,age,game_winning_goals,league,shorthanded_goals,average_ice_time,games_played,points,awards,power_play_goals
+0,1946-47,52,0,,0,0,0,0,0,15,DET,7,18,0,NHL,0,,58,22,[],0
+0,1947-48,63,0,,0,0,0,0,0,28,DET,16,19,0,NHL,0,,60,44,[],0
+0,1948-49,57,0,,0,0,0,0,0,25,DET,12,20,0,NHL,0,,40,37,"[{'link': '/awards/nhl_all_star.html#1949', 'name': None}]",0
+0,1949-50,69,0,,0,0,0,0,0,33,DET,35,21,0,NHL,0,,70,68,"[{'link': '/awards/nhl_all_star.html#1950', 'name': None}]",0
+0,1950-51,74,0,,0,0,0,0,0,0,DET,0,22,0,NHL,0,,0,0,"[{'link': '/awards/nhl_all_star.html#1951', 'name': None}, {'link': '/awards/voting-1951.html#hart', 'name': 'Hart-3'}, {'link': '/awards/ross.html#1951', 'name': None}]",0
+0,1951-52,78,0,,0,0,0,0,0,39,DET,0,23,0,NHL,0,,0,0,"[{'link': '/awards/nhl_all_star.html#1952', 'name': None}, {'link': '/awards/hart.html#1952', 'name': None}, {'link': '/awards/ross.html#1952', 'name': None}]",0
+0,1952-53,57,0,,0,0,0,0,0,0,DET,0,24,0,NHL,0,,0,0,"[{'link': '/awards/nhl_all_star.html#1953', 'name': None}, {'link': '/awards/hart.html#1953', 'name': None}, {'link': '/awards/ross.html#1953', 'name': None}]",0
+0,1953-54,109,0,,0,0,0,0,0,0,DET,33,25,0,NHL,0,,70,0,"[{'link': '/awards/nhl_all_star.html#1954', 'name': None}, {'link': '/awards/voting-1954.html#hart', 'name': 'Hart-4'}, {'link': '/awards/ross.html#1954', 'name': None}]",0
+0,1954-55,68,0,,0,0,0,0,0,33,DET,29,26,0,NHL,0,,64,62,[],0
+0,1955-56,100,0,,0,0,0,0,0,41,DET,38,27,0,NHL,0,,70,79,"[{'link': '/awards/nhl_all_star.html#1956', 'name': None}, {'link': '/awards/voting-1956.html#hart', 'name': 'Hart-7'}]",0
+0,1956-57,72,0,,0,0,0,0,0,45,DET,0,28,0,NHL,0,,0,0,"[{'link': '/awards/nhl_all_star.html#1957', 'name': None}, {'link': '/awards/hart.html#1957', 'name': None}, {'link': '/awards/ross.html#1957', 'name': None}]",0
+0,1957-58,40,0,,0,0,0,0,0,44,DET,33,29,0,NHL,0,,64,77,"[{'link': '/awards/nhl_all_star.html#1958', 'name': None}, {'link': '/awards/hart.html#1958', 'name': None}]",0
+0,1958-59,57,0,,0,0,0,0,0,46,DET,32,30,0,NHL,0,,0,78,"[{'link': '/awards/nhl_all_star.html#1959', 'name': None}, {'link': '/awards/voting-1959.html#hart', 'name': 'Hart-2'}]",0
+0,1959-60,46,0,,0,0,0,0,0,45,DET,28,31,0,NHL,0,,0,73,"[{'link': '/awards/nhl_all_star.html#1960', 'name': None}, {'link': '/awards/hart.html#1960', 'name': None}]",0
+0,1960-61,30,0,,0,0,0,0,0,49,DET,23,32,0,NHL,0,,64,72,"[{'link': '/awards/nhl_all_star.html#1961', 'name': None}, {'link': '/awards/voting-1961.html#hart', 'name': 'Hart-3'}]",0
+0,1961-62,54,0,,0,0,0,0,0,44,DET,33,33,0,NHL,0,,0,77,"[{'link': '/awards/nhl_all_star.html#1962', 'name': None}, {'link': '/awards/voting-1962.html#hart', 'name': 'Hart-4'}]",0
+0,1962-63,100,0,,0,0,0,0,0,48,DET,0,34,0,NHL,0,,0,0,"[{'link': '/awards/nhl_all_star.html#1963', 'name': None}, {'link': '/awards/hart.html#1963', 'name': None}, {'link': '/awards/ross.html#1963', 'name': None}]",0
+0,1963-64,70,0,,0,0,0,13,0,47,DET,26,35,3,NHL,1,,69,73,"[{'link': '/awards/nhl_all_star.html#1964', 'name': None}, {'link': '/awards/voting-1964.html#hart', 'name': 'Hart-3'}]",12
+0,1964-65,104,0,,0,0,0,13,0,47,DET,29,36,2,NHL,4,,0,76,"[{'link': '/awards/nhl_all_star.html#1965', 'name': None}, {'link': '/awards/voting-1965.html#hart', 'name': 'Hart-3'}]",12
+0,1965-66,83,0,,0,0,0,22,0,46,DET,29,37,3,NHL,0,,70,75,"[{'link': '/awards/nhl_all_star.html#1966', 'name': None}, {'link': '/awards/voting-1966.html#hart', 'name': 'Hart-3'}]",7
+0,1966-67,53,0,,0,0,0,16,0,40,DET,25,38,1,NHL,1,,69,65,"[{'link': '/awards/nhl_all_star.html#1967', 'name': None}, {'link': '/awards/voting-1967.html#hart', 'name': 'Hart-7'}]",8
+13.0,1967-68,53,31,,0,301,12,29,12,43,DET,39,39,4,NHL,0,,74,82,"[{'link': '/awards/nhl_all_star.html#1968', 'name': None}, {'link': '/awards/voting-1968.html#hart', 'name': 'Hart-5'}]",10
+15.5,1968-69,58,42,,0,283,17,35,45,59,DET,44,40,6,NHL,0,,76,103,"[{'link': '/awards/nhl_all_star.html#1969', 'name': None}, {'link': '/awards/voting-1969.html#hart', 'name': 'Hart-5'}]",9
+11.6,1969-70,58,30,,0,268,10,16,23,40,DET,31,41,5,NHL,4,,0,71,"[{'link': '/awards/nhl_all_star.html#1970', 'name': None}, {'link': '/awards/voting-1970.html#hart', 'name': 'Hart-6'}]",11
+11.8,1970-71,38,22,,0,195,7,15,-2,29,DET,23,42,3,NHL,1,,63,52,[],7
+0,1973-74,46,0,,0,0,0,19,0,69,HSA,31,45,5,WHA,3,,70,100,"[{'link': '/awards/wha_all_star.html#1974', 'name': None}, {'link': '/awards/howe.html#1974', 'name': None}]",9
+13.3,1974-75,84,0,,0,255,0,23,40,65,HSA,34,46,0,WHA,3,,75,99,"[{'link': '/awards/wha_all_star.html#1975', 'name': None}]",8
+13.3,1975-76,76,0,,0,241,0,19,14,70,HSA,32,47,4,WHA,1,,78,102,[],12
+14.8,1976-77,57,0,,0,162,0,18,27,44,HSA,24,48,3,WHA,1,,62,68,[],5
+20.9,1977-78,85,0,,0,163,0,18,46,62,NEW,34,49,0,WHA,0,,76,96,[],16
+16.2,1978-79,51,0,,0,117,0,12,9,24,NEW,19,50,0,WHA,0,,58,43,[],7
+16.0,1979-80,42,23,,0,94,3,13,9,26,HAR,15,51,0,NHL,0,,80,41,[],2

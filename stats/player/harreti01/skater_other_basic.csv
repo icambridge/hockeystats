@@ -1,15 +1,15 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-6,Bloomington Jr. Stars,3,0,8,MWJHL,11,1975-76,18,5
-37,University of Minnesota,9,0,23,WCHA,38,1976-77,19,14
-36,University of Minnesota,21,0,43,WCHA,35,1977-78,20,22
-38,University of Minnesota,25,0,53,WCHA,43,1978-79,21,28
-50,University of Minnesota,29,0,82,WCHA,41,1979-80,22,53
-0,United States,3,0,4,Nat-Tm,4,1979-80,22,1
-36,Birmingham Bulls,5,0,14,CHL,28,1980-81,23,9
-12,Hershey Bears,6,0,13,AHL,39,1980-81,23,7
-36,Oklahoma City Stars,27,0,56,CHL,77,1981-82,24,29
-28,Colorado Flames,29,0,62,CHL,69,1982-83,25,33
-46,Salt Lake Golden Eagles,27,0,69,CHL,66,1983-84,26,42
-0,Nova Scotia Oilers,0,0,0,AHL,7,1984-85,27,0
-28,Toledo Goaldiggers,10,0,16,IHL,28,1984-85,27,6
-2,ATSE Graz,1,0,4,Austria,4,1984-85,27,3
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+3,Bloomington Jr. Stars,5,1975-76,11,8,6,18,0,MWJHL
+9,University of Minnesota,14,1976-77,38,23,37,19,0,WCHA
+21,University of Minnesota,22,1977-78,35,43,36,20,0,WCHA
+25,University of Minnesota,28,1978-79,43,53,38,21,0,WCHA
+29,University of Minnesota,53,1979-80,41,82,50,22,0,WCHA
+3,United States,1,1979-80,4,4,0,22,0,Nat-Tm
+5,Birmingham Bulls,9,1980-81,28,14,36,23,0,CHL
+6,Hershey Bears,7,1980-81,39,13,12,23,0,AHL
+27,Oklahoma City Stars,29,1981-82,77,56,36,24,0,CHL
+29,Colorado Flames,33,1982-83,69,62,28,25,0,CHL
+27,Salt Lake Golden Eagles,42,1983-84,66,69,46,26,0,CHL
+0,Nova Scotia Oilers,0,1984-85,7,0,0,27,0,AHL
+10,Toledo Goaldiggers,6,1984-85,28,16,28,27,0,IHL
+1,ATSE Graz,3,1984-85,4,4,2,27,0,Austria

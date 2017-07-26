@@ -1,18 +1,18 @@
-average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
-,1,0,1,NHL,18,0,0,1,3,0,0,0,0,1984-85,WSH,1,0,[],33.3,,2
-,19,1,0,NHL,19,9,119,6,132,8,1,0,1,1985-86,WSH,9,10,[],6.8,,79
-,24,2,0,NHL,20,11,144,-29,100,7,1,1,4,1986-87,WSH,8,16,[],8.0,,78
-,41,3,0,NHL,21,14,137,1,181,9,5,1,12,1987-88,WSH,14,27,[],7.7,,71
-,40,2,0,NHL,22,10,101,19,148,10,3,1,16,1988-89,WSH,13,27,"[{'link': '/awards/voting-1989.html#AS', 'name': 'AS-14'}]",8.8,,62
-,54,2,0,NHL,23,24,102,4,240,9,4,1,16,1989-90,WSH,13,41,"[{'link': '/awards/voting-1990.html#AS', 'name': 'AS-12'}]",5.4,,0
-,74,3,2,NHL,24,23,69,-10,267,13,9,3,24,1990-91,WSH,24,50,"[{'link': '/awards/voting-1991.html#AS', 'name': 'AS-7'}, {'link': '/awards/voting-1991.html#norris', 'name': 'Norris-6'}]",9.0,,79
-,54,2,1,NHL,25,14,105,18,246,8,8,4,19,1991-92,WSH,17,37,"[{'link': '/awards/voting-1992.html#AS', 'name': 'AS-10'}, {'link': '/awards/voting-1992.html#norris', 'name': 'Norris-7'}]",6.9,,79
-,79,6,1,NHL,26,25,114,-7,329,20,13,0,20,1992-93,WSH,34,45,"[{'link': '/awards/voting-1993.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-1993.html#norris', 'name': 'Norris-4'}]",10.3,,83
-,40,3,0,NHL,27,9,108,-13,217,10,6,2,13,1993-94,WSH,16,24,[],7.4,,72
-,29,2,0,NHL,28,9,66,-4,138,7,3,0,10,1994-95,DAL,10,19,[],7.2,,47
-,41,3,0,NHL,29,11,58,-24,237,8,7,0,15,1995-96,DAL,15,26,[],6.3,,74
-,54,1,0,NHL,30,22,103,11,199,6,9,1,16,1996-97,PIT,15,39,"[{'link': '/awards/voting-1997.html#AS', 'name': 'AS-9'}, {'link': '/awards/voting-1997.html#norris', 'name': 'Norris-12'}]",7.5,,80
-,48,3,1,NHL,31,15,66,-3,169,5,13,2,12,1997-98,PIT,19,29,"[{'link': '/awards/voting-1998.html#AS', 'name': 'AS-16'}, {'link': '/awards/voting-1998.html#norris', 'name': 'Norris-16'}]",11.2,,74
-24:38,38,3,2,NHL,32,16,24,11,131,5,4,0,11,1998-99,PIT,11,27,"[{'link': '/awards/voting-1999.html#AS', 'name': 'AS-18'}]",8.4,1626,66
-21:11,23,0,0,NHL,33,10,38,-10,112,2,2,0,9,1999-00,NYR,4,19,[],3.6,1568,74
-23:23,18,1,0,NHL,34,4,38,2,98,1,3,0,10,2000-01,CAR,4,14,[],4.1,1333,57
+shotsPercentage,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,age,game_winning_goals,league,shorthanded_goals,average_ice_time,games_played,points,awards,power_play_goals
+33.3,1984-85,0,0,,0,3,0,0,1,0,WSH,1,18,0,NHL,1,,2,1,[],0
+6.8,1985-86,119,9,,0,132,1,8,6,10,WSH,9,19,1,NHL,0,,79,19,[],1
+8.0,1986-87,144,11,,1,100,4,7,-29,16,WSH,8,20,2,NHL,0,,78,24,[],1
+7.7,1987-88,137,14,,1,181,12,9,1,27,WSH,14,21,3,NHL,0,,71,41,[],5
+8.8,1988-89,101,10,,1,148,16,10,19,27,WSH,13,22,2,NHL,0,,62,40,"[{'link': '/awards/voting-1989.html#AS', 'name': 'AS-14'}]",3
+5.4,1989-90,102,24,,1,240,16,9,4,41,WSH,13,23,2,NHL,0,,0,54,"[{'link': '/awards/voting-1990.html#AS', 'name': 'AS-12'}]",4
+9.0,1990-91,69,23,,3,267,24,13,-10,50,WSH,24,24,3,NHL,2,,79,74,"[{'link': '/awards/voting-1991.html#AS', 'name': 'AS-7'}, {'link': '/awards/voting-1991.html#norris', 'name': 'Norris-6'}]",9
+6.9,1991-92,105,14,,4,246,19,8,18,37,WSH,17,25,2,NHL,1,,79,54,"[{'link': '/awards/voting-1992.html#AS', 'name': 'AS-10'}, {'link': '/awards/voting-1992.html#norris', 'name': 'Norris-7'}]",8
+10.3,1992-93,114,25,,0,329,20,20,-7,45,WSH,34,26,6,NHL,1,,83,79,"[{'link': '/awards/voting-1993.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-1993.html#norris', 'name': 'Norris-4'}]",13
+7.4,1993-94,108,9,,2,217,13,10,-13,24,WSH,16,27,3,NHL,0,,72,40,[],6
+7.2,1994-95,66,9,,0,138,10,7,-4,19,DAL,10,28,2,NHL,0,,47,29,[],3
+6.3,1995-96,58,11,,0,237,15,8,-24,26,DAL,15,29,3,NHL,0,,74,41,[],7
+7.5,1996-97,103,22,,1,199,16,6,11,39,PIT,15,30,1,NHL,0,,80,54,"[{'link': '/awards/voting-1997.html#AS', 'name': 'AS-9'}, {'link': '/awards/voting-1997.html#norris', 'name': 'Norris-12'}]",9
+11.2,1997-98,66,15,,2,169,12,5,-3,29,PIT,19,31,3,NHL,1,,74,48,"[{'link': '/awards/voting-1998.html#AS', 'name': 'AS-16'}, {'link': '/awards/voting-1998.html#norris', 'name': 'Norris-16'}]",13
+8.4,1998-99,24,16,1626,0,131,11,5,11,27,PIT,11,32,3,NHL,2,24:38,66,38,"[{'link': '/awards/voting-1999.html#AS', 'name': 'AS-18'}]",4
+3.6,1999-00,38,10,1568,0,112,9,2,-10,19,NYR,4,33,0,NHL,0,21:11,74,23,[],2
+4.1,2000-01,38,4,1333,0,98,10,1,2,14,CAR,4,34,1,NHL,0,23:23,57,18,[],3

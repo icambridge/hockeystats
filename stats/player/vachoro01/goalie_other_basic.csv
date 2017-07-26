@@ -1,0 +1,9 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,MMJHL,29,Montreal NDG Monarchs,1740,18,0,0,0,71,0,0,0,4,0,0,0,0,0,0,1963-64,0,2.45,0,0
+0,OHA-Jr.,7,Montreal Jr. Canadiens,400,18,0,0,0,29,0,0,0,0,0,0,0,0,0,0,1963-64,0,4.35,0,0
+0,QJHL,13,Thetford Mines Aces,780,19,3,0,0,35,0,0,0,0,10,0,0,0,0,0,1964-65,0,2.69,0,0
+0,OHA-Jr.,14,Montreal Jr. Canadiens,840,19,0,0,0,58,0,0,0,0,0,0,0,0,0,0,1964-65,0,4.14,0,0
+0,QJHL,39,Thetford Mines Aces,2340,20,13,0,0,117,0,0,1,2,25,0,0,0,0,0,1965-66,0,3.00,0,0
+0,AHL,10,Quebec Aces,601,20,4,0,0,30,0,0,0,0,6,0,0,0,0,0,1965-66,0,3.00,0,0
+0,CPHL,34,Houston Apollos,2020,21,12,0,0,99,0,0,5,2,17,0,0,0,0,0,1966-67,0,2.94,0,0
+0,Can-Cup,7,Canada,432,31,1,0,0,10,0,0,0,2,6,0,0,0,0,0,1976-77,0,1.39,0,0

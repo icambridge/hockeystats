@@ -1,21 +1,21 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-0,Enkopings SK,1,0,1,Sweden-3,7,1988-89,15,0
-28,Enkopings SK,2,0,3,Sweden-3,24,1989-90,16,1
-22,Rosersberg/Arlanda 73 HC Marsta,3,0,5,Sweden-2,30,1990-91,17,2
-0,Sweden,0,0,1,EJC-A,6,1990-91,17,1
-2,AIK Solna,0,0,0,Sweden,10,1991-92,18,0
-22,AIK Solna,2,0,3,Sweden,30,1992-93,19,1
-10,Sweden,0,0,0,WJC-A,7,1992-93,19,0
-14,AIK Solna,9,0,12,Sweden-2,22,1993-94,20,3
-38,AIK Solna,7,0,10,Sweden,40,1994-95,21,3
-30,AIK Solna,6,0,11,Sweden,40,1995-96,22,5
-42,AIK Solna,6,0,9,Sweden,49,1996-97,23,3
-42,AIK Solna,4,0,12,Sweden,43,1997-98,24,8
-8,Sweden,2,0,2,WC-A,9,1997-98,24,0
-42,MIF Redhawks Malmo,12,0,22,Sweden,50,1998-99,25,10
-0,Cincinnati Mighty Ducks,0,1,0,AHL,2,1999-00,26,0
-0,Sweden,2,10,2,WC-A,9,2003-04,30,0
-60,Sodertalje SK,2,0,4,Sweden,46,2004-05,31,2
-4,Sweden,0,2,0,Olympics,7,2005-06,32,0
-28,Linkopings HC,10,0,13,Sweden,53,2009-10,36,3
-22,Linkopings HC,17,0,22,Sweden,50,2010-11,37,5
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+1,Enkopings SK,0,1988-89,7,1,0,15,0,Sweden-3
+2,Enkopings SK,1,1989-90,24,3,28,16,0,Sweden-3
+3,Rosersberg/Arlanda 73 HC Marsta,2,1990-91,30,5,22,17,0,Sweden-2
+0,Sweden,1,1990-91,6,1,0,17,0,EJC-A
+0,AIK Solna,0,1991-92,10,0,2,18,0,Sweden
+2,AIK Solna,1,1992-93,30,3,22,19,0,Sweden
+0,Sweden,0,1992-93,7,0,10,19,0,WJC-A
+9,AIK Solna,3,1993-94,22,12,14,20,0,Sweden-2
+7,AIK Solna,3,1994-95,40,10,38,21,0,Sweden
+6,AIK Solna,5,1995-96,40,11,30,22,0,Sweden
+6,AIK Solna,3,1996-97,49,9,42,23,0,Sweden
+4,AIK Solna,8,1997-98,43,12,42,24,0,Sweden
+2,Sweden,0,1997-98,9,2,8,24,0,WC-A
+12,MIF Redhawks Malmo,10,1998-99,50,22,42,25,0,Sweden
+0,Cincinnati Mighty Ducks,0,1999-00,2,0,0,26,1,AHL
+2,Sweden,0,2003-04,9,2,0,30,10,WC-A
+2,Sodertalje SK,2,2004-05,46,4,60,31,0,Sweden
+0,Sweden,0,2005-06,7,0,4,32,2,Olympics
+10,Linkopings HC,3,2009-10,53,13,28,36,0,Sweden
+17,Linkopings HC,5,2010-11,50,22,22,37,0,Sweden

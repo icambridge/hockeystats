@@ -1,0 +1,8 @@
+even_strength_goals,assists,team,goals,pim,age,game_winning_goals,total_ice_time,league,shorthanded_goals,shots,average_ice_time,year,games_played,shotsPercentage,win,power_play_goals,points,plus_minus
+0,0,MTL,0,0,20,0,,NHL,0,0,,1990-91,1,0,,0,0,0
+1,0,MTL,1,2,21,0,,NHL,0,4,,1991-92,4,25.0,,0,1,1
+0,0,MTL,0,4,22,0,,NHL,0,2,,1992-93,3,0.0,SC,0,0,1
+0,1,STL,0,12,30,0,,NHL,0,16,207,2000-01,15,0.0,,0,1,-1
+0,4,CAR,4,20,31,1,,NHL,0,57,596,2001-02,0,7.0,,0,8,0
+0,0,NYI,0,0,36,0,,NHL,0,3,75,2006-07,4,0.0,,0,0,-1
+0,0,MIN,0,4,37,0,3,NHL,0,1,54,2007-08,5,0.0,,0,0,-2

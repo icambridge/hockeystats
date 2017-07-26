@@ -1,0 +1,12 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,74,1,28,170,38,4,,LAK,[],6.5,8,27,17,11,1,1967-68,,2,100,0,23
+NHL,75,0,29,163,33,12,,LAK,[],3.1,5,28,-20,5,0,1968-69,,0,38,0,16
+NHL,61,0,30,94,20,5,,TOT,[],4.3,2,16,-12,4,0,1969-70,,2,39,0,11
+NHL,40,0,30,62,15,3,,LAK,[],6.5,2,11,-15,4,0,1969-70,,2,21,0,8
+NHL,21,0,30,32,5,2,,CBH,[],0.0,0,5,3,0,0,1969-70,,0,18,0,3
+NHL,67,1,31,127,25,1,,CBH,[],3.1,4,21,51,4,0,1970-71,,0,64,1,19
+NHL,76,0,32,122,29,2,,CBH,"[{'link': '/awards/nhl_all_star.html#1972', 'name': None}, {'link': '/awards/voting-1972.html#norris', 'name': 'Norris-3'}]",5.7,7,22,42,7,0,1971-72,,0,58,0,20
+NHL,72,2,33,176,47,12,,CBH,"[{'link': '/awards/nhl_all_star.html#1973', 'name': None}, {'link': '/awards/voting-1973.html#norris', 'name': 'Norris-3'}]",5.1,8,38,30,9,0,1972-73,,1,80,2,24
+NHL,69,1,34,85,36,10,,CBH,"[{'link': '/awards/nhl_all_star.html#1974', 'name': None}, {'link': '/awards/voting-1974.html#norris', 'name': 'Norris-3'}]",5.9,5,31,51,5,0,1973-74,,0,52,2,19
+NHL,51,0,35,83,27,13,,CBH,"[{'link': '/awards/voting-1975.html#AS', 'name': 'AS-7'}]",4.8,2,23,9,4,0,1974-75,,2,20,0,10
+NHL,59,0,36,46,10,2,,CBH,[],2.2,1,9,-10,1,0,1975-76,,0,44,0,7

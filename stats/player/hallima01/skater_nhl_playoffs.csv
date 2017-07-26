@@ -1,5 +1,5 @@
-shorthanded_goals,power_play_goals,year,team,average_ice_time,age,points,shotsPercentage,assists,league,pim,game_winning_goals,goals,win,plus_minus,total_ice_time,games_played,even_strength_goals,shots
-0,0,1982-83,NYI,,24,1,50.0,0,NHL,6,1,1,SC,0,,7,1,2
-0,0,1983-84,NYI,,25,0,0,0,NHL,7,0,0,,0,,6,0,0
-0,0,1984-85,NYI,,26,0,0,0,NHL,0,0,0,,0,,1,0,0
-0,0,1985-86,MNS,,27,0,0,0,NHL,0,0,0,,0,,1,0,0
+even_strength_goals,assists,team,goals,pim,age,game_winning_goals,total_ice_time,league,shorthanded_goals,shots,average_ice_time,year,games_played,shotsPercentage,win,power_play_goals,points,plus_minus
+1,0,NYI,1,6,24,1,,NHL,0,2,,1982-83,7,50.0,SC,0,1,0
+0,0,NYI,0,7,25,0,,NHL,0,0,,1983-84,6,0,,0,0,0
+0,0,NYI,0,0,26,0,,NHL,0,0,,1984-85,1,0,,0,0,0
+0,0,MNS,0,0,27,0,,NHL,0,0,,1985-86,1,0,,0,0,0

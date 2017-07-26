@@ -1,0 +1,41 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1989-90,17,0,0,0,0,Sweden-2,1,Rogle BK Angelholm,0
+1990-91,18,4,2,2,0,Sweden-2,21,Rogle BK Angelholm,6
+1991-92,19,1,6,8,0,Sweden-2,27,Rogle BK Angelholm,9
+1992-93,20,17,28,11,0,Sweden,40,Rogle BK Angelholm,28
+1993-94,21,17,46,14,0,Sweden,40,Rogle BK Angelholm,31
+1993-94,21,0,0,0,0,Olympics,6,Sweden,0
+1993-94,21,3,4,2,0,WC-A,7,Sweden,5
+1994-95,22,4,18,6,0,Sweden,22,Rogle BK Angelholm,10
+1994-95,22,3,38,4,0,Sweden-Q,16,Rogle BK Angelholm,7
+1995-96,23,11,36,15,0,Sweden,39,Farjestads BK Karlstad,26
+1996-97,24,12,58,21,0,Sweden,49,Farjestads BK Karlstad,33
+1996-97,24,2,2,1,0,EuroHL,4,Farjestads BK Karlstad,3
+1996-97,24,5,6,2,0,WC-A,11,Sweden,7
+1997-98,25,22,53,25,0,Sweden,45,Farjestads BK Karlstad,47
+1997-98,25,2,6,4,0,EuroHL,7,Farjestads BK Karlstad,6
+1997-98,25,0,0,0,0,Olympics,1,Sweden,0
+1997-98,25,2,6,1,0,WC-A,10,Sweden,3
+1998-99,26,17,44,24,0,Sweden,48,Farjestads BK Karlstad,41
+1998-99,26,2,4,4,0,EuroHL,5,Farjestads BK Karlstad,6
+1998-99,26,3,10,1,0,WC-A,10,Sweden,4
+1999-00,27,0,2,2,0,WC-A,6,Sweden,2
+2000-01,28,20,32,26,0,Sweden,50,Farjestads BK Karlstad,46
+2000-01,28,2,0,3,5,WC-A,9,Sweden,5
+2001-02,29,22,20,17,0,Sweden,50,Farjestads BK Karlstad,39
+2001-02,29,0,4,0,2,Olympics,4,Sweden,0
+2001-02,29,1,6,3,6,WC-A,9,Sweden,4
+2002-03,30,16,58,23,0,Sweden,49,Farjestads BK Karlstad,39
+2002-03,30,4,14,2,7,WC-A,9,Sweden,6
+2003-04,31,16,24,21,0,Sweden,49,Farjestads BK Karlstad,37
+2003-04,31,1,2,3,4,WC-A,9,Sweden,4
+2004-05,32,0,0,0,-2,W-Cup,4,Sweden,0
+2004-05,32,11,38,21,0,Sweden,50,Farjestads BK Karlstad,32
+2004-05,32,2,2,3,4,WC-A,9,Sweden,5
+2005-06,33,17,60,16,0,Sweden,48,Farjestads BK Karlstad,33
+2005-06,33,1,4,1,1,Olympics,8,Sweden,2
+2005-06,33,3,0,1,4,WC-A,6,Sweden,4
+2006-07,34,15,44,32,0,Sweden,48,Farjestads BK Karlstad,47
+2006-07,34,0,6,8,0,WC-A,9,Sweden,8
+2007-08,35,6,24,20,0,Sweden,42,Farjestads BK Karlstad,26
+2008-09,36,8,32,12,0,Sweden,42,Farjestads BK Karlstad,20

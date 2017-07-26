@@ -1,0 +1,7 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+2,NHL,7,1,19,1,9,6,3,1,0,82,STL,1,50.0,[],33.3,1,1,1,2,1,0,2011-12,5,11:41,1,0,0,1
+9,NHL,45,1,20,12,84,50,13,34,0,561,STL,21,55.6,[],14.0,7,6,-4,7,15,0,2012-13,18,12:28,0,4,0,6
+15,NHL,80,1,21,34,302,188,56,54,5,1402,STL,66,56.4,[],13.3,17,31,28,25,44,3,2013-14,32,17:32,5,27,0,26
+26,NHL,75,4,22,77,293,184,63,53,8,1368,STL,59,47.3,"[{'link': '/awards/voting-2015.html#byng', 'name': 'Byng-37'}]",15.2,20,35,13,28,69,0,2014-15,46,18:15,8,16,2,25
+18,NHL,33,1,23,17,105,63,22,26,4,568,STL,16,46.9,[],12.7,7,14,8,8,15,0,2015-16,21,17:12,1,8,0,10
+29,NHL,78,4,24,73,303,179,55,71,6,1475,STL,59,47.9,[],10.6,16,36,14,19,67,0,2016-17,43,18:54,3,18,0,30

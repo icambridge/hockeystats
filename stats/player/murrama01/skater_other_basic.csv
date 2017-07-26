@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1990-91,15,46,50,47,0,MMMHL,36,Manitoba Southwest Cougars,93
+1991-92,16,20,22,36,0,WHL,68,Brandon Wheat Kings,56
+1992-93,17,29,50,65,0,WHL,67,Brandon Wheat Kings,94
+1993-94,18,43,33,71,0,WHL,64,Brandon Wheat Kings,114
+1993-94,18,1,4,3,0,WJC-A,7,Canada,4
+1994-95,19,40,53,88,0,WHL,65,Brandon Wheat Kings,128
+1994-95,19,6,0,9,0,WJC-A,7,Canada,15
+1995-96,20,25,20,31,0,AHL,58,Saint John Flames,56
+1996-97,21,19,40,39,0,AHL,67,Saint John Flames,58
+1997-98,22,10,16,30,7,AHL,41,Saint John Flames,40
+1998-99,23,26,12,41,0,Alpenliga,33,EC Villacher SV,67
+1998-99,23,13,6,17,0,Austria,17,EC VSV Villach,30
+1998-99,23,1,2,3,0,Nat-Tm,5,Canada,4
+1999-00,24,12,28,47,0,Germany,56,Kolner Haie,59
+2000-01,25,24,36,52,25,AHL,56,Saint John Flames,76
+2001-02,26,0,2,3,-1,AHL,3,Philadelphia Phantoms,3
+2005-06,30,7,16,15,0,Germany,24,Hannover Scorpions,22
+2006-07,31,14,28,41,12,AHL,45,2 Teams,55
+2006-07,31,2,4,13,2,AHL,11,Philadelphia Phantoms,15
+2006-07,31,12,24,28,10,AHL,34,Manchester Monarchs,40
+2007-08,32,7,22,25,0,Swiss,49,HC Lugano,32
+2008-09,33,15,37,39,-10,AHL,76,Manchester Monarchs,54
+2009-10,34,15,36,25,5,AHL,74,2 Teams,40
+2009-10,34,10,26,20,1,AHL,59,Manitoba Moose,30
+2009-10,34,5,10,5,4,AHL,15,Milwaukee Admirals,10

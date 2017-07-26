@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1938-03-12,", ",D,Rich Healey,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",D,1938-03-12,Rich Healey

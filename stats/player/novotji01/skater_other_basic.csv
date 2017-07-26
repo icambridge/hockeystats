@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1999-00,16,11,6,10,0,CzRep-Jr.,36,HC Ceske Budejovice Jr.,21
+1999-00,16,5,4,7,0,CzR-U17,11,HC Ceske Budejovice U17,12
+1999-00,16,2,6,2,0,CzRep-2,17,HC Slezan Opava,4
+1999-00,16,0,0,2,-2,WJ18-A,6,Czech Republic,2
+2000-01,17,10,0,10,0,CzRep-Jr.,33,HC Ceske Budejovice Jr.,20
+2000-01,17,0,0,0,0,CzRep-3,1,Rebel Havlickuv Brod,0
+2000-01,17,4,2,3,-1,WJ18-A,6,Czech Republic,7
+2001-02,18,4,4,4,0,CzRep-Jr.,7,HC Ceske Budejovice Jr.,8
+2001-02,18,1,0,3,0,CzRep-3,3,SHC Vajgar Jindrichuv Hradec,4
+2001-02,18,8,6,6,0,CzRep,41,HC Ceske Budejovice,14
+2001-02,18,0,4,2,-3,WJC-A,7,Czech Republic,2
+2002-03,19,2,14,9,-12,AHL,43,Rochester Americans,11
+2002-03,19,0,2,1,0,WJC-A,6,Czech Republic,1
+2003-04,20,1,16,14,-14,AHL,48,Rochester Americans,15
+2004-05,21,5,36,20,8,AHL,61,Rochester Americans,25
+2005-06,22,17,40,37,3,AHL,66,Rochester Americans,54
+2006-07,23,0,8,0,0,WC-A,6,Czech Republic,0
+2007-08,24,1,2,1,1,WC-A,7,Czech Republic,2
+2009-10,26,12,8,21,0,KHL,45,Atlant Moscow Region,33
+2009-10,26,1,12,5,3,WC-A,9,Czech Republic,6
+2010-11,27,13,78,28,0,KHL,53,Barys Astana,41
+2010-11,27,0,0,2,3,WC-A,9,Czech Republic,2
+2011-12,28,9,22,13,0,KHL,42,Barys Astana,22
+2011-12,28,4,0,1,4,WC-A,10,Czech Republic,5
+2012-13,29,6,18,9,0,KHL,43,HC Lev Praha,15
+2012-13,29,1,4,1,0,WC-A,8,Czech Republic,2

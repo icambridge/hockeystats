@@ -1,14 +1,14 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1944-45,South Porcupine Porkies,2,0,17,2,4,2,M-Cup
-0,1945-46,St. Michael\'s Buzzers,1,0,18,2,4,3,High-ON
-6,1946-47,St. Michael\'s Majors,2,0,19,9,13,11,OHA-Jr.
-23,1946-47,St. Michael\'s Majors,11,0,19,10,14,3,M-Cup
-10,1947-48,Toronto Marlboros,0,0,20,5,2,2,OHA-Sr.
-18,1948-49,Toronto Marlboros,5,0,21,9,12,7,OHA-Sr.
-8,1948-49,Toronto Marlboros,6,0,21,13,15,9,Al-Cup
-25,1949-50,Toronto Marlboros,7,0,22,12,9,2,Al-Cup
-20,1950-51,Pittsburgh Hornets,6,0,23,13,15,9,AHL
-11,1951-52,Pittsburgh Hornets,1,0,24,10,5,4,AHL
-6,1952-53,Edmonton Flyers,6,0,25,15,13,7,WHL
-11,1953-54,Edmonton Flyers,7,0,26,13,10,3,WHL
-2,1954-55,Edmonton Flyers,1,0,27,5,1,0,Ed-Cup
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+2,South Porcupine Porkies,2,1944-45,2,4,0,17,0,M-Cup
+1,St. Michael\'s Buzzers,3,1945-46,2,4,0,18,0,High-ON
+2,St. Michael\'s Majors,11,1946-47,9,13,6,19,0,OHA-Jr.
+11,St. Michael\'s Majors,3,1946-47,10,14,23,19,0,M-Cup
+0,Toronto Marlboros,2,1947-48,5,2,10,20,0,OHA-Sr.
+5,Toronto Marlboros,7,1948-49,9,12,18,21,0,OHA-Sr.
+6,Toronto Marlboros,9,1948-49,13,15,8,21,0,Al-Cup
+7,Toronto Marlboros,2,1949-50,12,9,25,22,0,Al-Cup
+6,Pittsburgh Hornets,9,1950-51,13,15,20,23,0,AHL
+1,Pittsburgh Hornets,4,1951-52,10,5,11,24,0,AHL
+6,Edmonton Flyers,7,1952-53,15,13,6,25,0,WHL
+7,Edmonton Flyers,3,1953-54,13,10,11,26,0,WHL
+1,Edmonton Flyers,0,1954-55,5,1,2,27,0,Ed-Cup

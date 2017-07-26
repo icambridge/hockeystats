@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1985-86,17,14,91,32,0,ON-Jr.B,46,Barrie Colts,46
+1986-87,18,11,44,32,0,OHL,64,Kitchener Rangers,43
+1987-88,19,15,64,50,0,OHL,55,Kitchener Rangers,65
+1988-89,20,11,25,28,0,OHL,46,Kitchener Rangers,39
+1989-90,21,2,31,13,0,AHL,57,Hershey Bears,15
+1990-91,22,6,48,35,0,AHL,73,Hershey Bears,41
+1991-92,23,12,118,54,0,AHL,79,Hershey Bears,66
+1992-93,24,1,0,0,0,AHL,2,New Haven Senators,1
+1993-94,25,2,0,0,0,AHL,3,P.E.I. Senators,2
+1994-95,26,7,77,46,0,AHL,70,P.E.I. Senators,53
+1995-96,27,13,83,37,0,AHL,58,Hershey Bears,50
+1996-97,28,18,83,44,0,AHL,72,Philadelphia Phantoms,62
+1997-98,29,2,18,7,0,Germany,21,Adler Mannheim,9
+1997-98,29,0,4,1,0,EuroHL,4,Adler Mannheim,1
+1997-98,29,7,47,22,-17,IHL,46,San Antonio Dragons,29
+1998-99,30,7,54,26,-4,IHL,63,2 Teams,33
+1998-99,30,1,10,4,-7,IHL,10,Utah Grizzlies,5
+1998-99,30,6,44,22,3,IHL,53,Grand Rapids Griffins,28
+1999-00,31,3,20,10,3,IHL,29,Grand Rapids Griffins,13
+1999-00,31,0,31,17,0,AHL,39,Worcester IceCats,17
+2000-01,32,6,65,24,19,AHL,53,Worcester IceCats,30
+2001-02,33,3,48,29,4,AHL,60,Worcester IceCats,32
+2002-03,34,5,18,17,-18,AHL,33,Springfield Falcons,22
+2003-04,35,2,6,0,1,AHL,5,Hershey Bears,2
+2004-05,36,0,4,1,-1,AHL,10,Springfield Falcons,1

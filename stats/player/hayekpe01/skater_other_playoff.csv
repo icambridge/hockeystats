@@ -1,4 +1,4 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-6,Baltimore Clippers,1,0,1,EHL,4,1979-80,22,0
-0,Baltimore Clippers,1,0,1,EHL,4,1980-81,23,0
-4,Nashville South Stars,0,0,1,CHL,3,1981-82,24,1
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+1,Baltimore Clippers,0,1979-80,4,1,6,22,0,EHL
+1,Baltimore Clippers,0,1980-81,4,1,0,23,0,EHL
+0,Nashville South Stars,1,1981-82,3,1,4,24,0,CHL

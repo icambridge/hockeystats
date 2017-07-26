@@ -1,0 +1,16 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+0,NHL,81,3,19,0,0,164,31,0,5,1350,CAR,0,0,"[{'link': '/awards/voting-2004.html#calder', 'name': 'Calder-15'}]",6.7,8,20,-6,11,0,1,2003-04,0,16:40,2,40,0,15
+0,NHL,82,4,21,0,0,279,100,0,21,1611,CAR,0,0,"[{'link': '/awards/nhl_all_star.html#2006', 'name': None}, {'link': '/awards/voting-2006.html#hart', 'name': 'Hart-4'}]",16.1,22,55,-8,45,0,4,2005-06,0,19:39,19,81,0,34
+0,NHL,82,1,22,0,0,288,70,0,14,1650,CAR,0,0,[],10.4,17,40,-6,30,0,1,2006-07,0,20:08,12,68,0,26
+46,NHL,82,7,23,941,545,310,82,99,21,1774,CAR,56,44.9,"[{'link': '/awards/voting-2008.html#AS', 'name': 'AS-8'}, {'link': '/awards/voting-2008.html#byng', 'name': 'Byng-31'}, {'link': '/awards/voting-2008.html#selke', 'name': 'Selke-65'}]",12.3,24,44,-2,38,767,0,2007-08,33,21:38,14,50,0,23
+37,NHL,82,8,24,868,636,372,75,61,10,1726,CAR,55,45.3,"[{'link': '/awards/voting-2009.html#AS', 'name': 'AS-9'}, {'link': '/awards/voting-2009.html#byng', 'name': 'Byng-44'}, {'link': '/awards/voting-2009.html#hart', 'name': 'Hart-22'}, {'link': '/awards/voting-2009.html#selke', 'name': 'Selke-39'}]",10.8,25,35,15,40,718,1,2008-09,37,21:03,14,50,1,24
+42,NHL,70,5,25,667,504,277,70,74,10,1450,CAR,45,41.8,"[{'link': '/awards/voting-2010.html#AS', 'name': 'AS-8'}, {'link': '/awards/voting-2010.html#selke', 'name': 'Selke-54'}]",10.5,16,41,4,29,479,0,2009-10,17,20:43,13,68,0,31
+43,NHL,81,8,26,901,532,296,76,80,17,1777,CAR,64,47.9,"[{'link': '/awards/voting-2011.html#AS', 'name': 'AS-9'}, {'link': '/awards/voting-2011.html#byng', 'name': 'Byng-22'}, {'link': '/awards/voting-2011.html#selke', 'name': 'Selke-31'}]",11.1,18,43,-10,33,827,3,2010-11,31,21:56,12,72,0,26
+47,NHL,82,3,27,799,476,262,70,48,16,1767,CAR,66,52.5,"[{'link': '/awards/voting-2012.html#selke', 'name': 'Selke-43'}]",9.2,14,46,-20,24,882,3,2011-12,35,21:33,7,48,2,28
+24,NHL,0,4,28,487,270,152,53,35,6,1008,CAR,48,52.0,"[{'link': '/awards/voting-2013.html#AS', 'name': 'AS-7'}, {'link': '/awards/voting-2013.html#byng', 'name': 'Byng-62'}, {'link': '/awards/voting-2013.html#hart', 'name': 'Hart-23'}, {'link': '/awards/voting-2013.html#selke', 'name': 'Selke-16'}]",11.8,14,35,5,18,527,1,2012-13,24,21:00,3,54,0,29
+61,NHL,79,0,29,676,403,230,61,67,11,1603,CAR,77,52.7,[],9.1,18,40,-13,21,754,2,2013-14,28,20:17,1,74,2,27
+47,NHL,77,4,30,326,450,244,54,65,10,1451,CAR,38,51.3,[],9.4,16,31,-13,23,343,0,2014-15,27,18:51,7,41,0,21
+39,NHL,83,0,31,396,378,199,39,74,6,1540,TOT,62,53.0,[],6.5,12,26,-3,13,446,0,2015-16,33,18:33,1,34,0,20
+32,NHL,63,0,31,278,296,159,33,55,6,1215,CAR,45,53.7,[],6.3,9,23,-4,10,323,0,2015-16,22,19:17,1,32,0,17
+7,NHL,20,0,31,118,82,40,6,19,0,325,NYR,17,51.0,[],7.5,3,3,1,3,123,0,2015-16,11,16:15,0,2,0,3
+24,NHL,0,8,32,597,361,211,65,42,12,1526,MIN,51,49.1,"[{'link': '/awards/voting-2017.html#selke', 'name': 'Selke-40'}]",13.3,23,37,17,28,577,1,2016-17,39,18:36,4,34,1,24

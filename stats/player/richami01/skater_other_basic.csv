@@ -1,0 +1,29 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1982-83,16,25,10,30,0,MTHL,40,Don Mills Flyers,55
+1983-84,17,19,12,17,0,OHL,66,Toronto Marlboros,36
+1984-85,18,31,15,41,0,OHL,66,Toronto Marlboros,72
+1985-86,19,32,28,48,0,OHL,63,Toronto Marlboros,80
+1986-87,20,57,38,50,0,OHL,66,Toronto Marlboros,107
+1986-87,20,5,2,2,0,AHL,9,Baltimore Skipjacks,7
+1987-88,21,46,23,48,0,AHL,72,Binghamton Whalers,94
+1988-89,22,44,51,63,0,AHL,80,Baltimore Skipjacks,107
+1989-90,23,0,0,0,0,Fr-Tour,1,Washington Capitals,0
+1989-90,23,41,14,42,0,AHL,53,Baltimore Skipjacks,83
+1990-91,24,28,0,23,0,Swiss,36,Zurcher SC,51
+1991-92,25,18,4,26,0,Alpenliga,18,HC Devils Milano,44
+1991-92,25,20,4,26,0,Italy,18,HC Milano Saima,46
+1992-93,26,46,0,46,0,Swiss-2,36,EHC Olten,92
+1993-94,27,29,50,19,0,Swiss,35,EHC Olten,48
+1994-95,28,31,62,38,0,Swiss-2,32,EHC Olten,69
+1995-96,29,27,14,38,0,Swiss,36,SC Rapperswil-Jona,65
+1996-97,30,17,30,31,0,Swiss,41,SC Rapperswil-Jona,48
+1997-98,31,12,25,19,0,Swiss,22,SC Rapperswil-Jona,31
+1998-99,32,26,49,32,0,Swiss,41,SC Rapperswil-Jona,58
+1999-00,33,23,42,29,0,Swiss,45,SC Rapperswil-Jona,52
+2000-01,34,20,26,31,0,Swiss,43,SC Rapperswil-Jona,51
+2001-02,35,11,22,26,0,Swiss,38,SC Rapperswil-Jona,37
+2003-04,37,16,4,16,0,Swiss,26,ZSC Lions Zurich,32
+2004-05,38,0,2,0,0,Swiss,2,ZSC Lions Zurich,0
+2005-06,39,8,20,15,0,Swiss,32,ZSC Lions Zurich,23
+2006-07,40,0,0,1,0,Swiss,1,ZSC Lions Zurich,1
+2007-08,41,0,0,0,0,ECHL,2,Elmira Jackals,0

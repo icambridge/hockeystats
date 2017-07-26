@@ -1,19 +1,19 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-6,1948-49,Wetaskiwin Canadians,0,0,17,3,1,1,M-Cup
-6,1949-50,Medicine Hat Tigers,3,0,18,5,3,0,WCJHL
-52,1949-50,Medicine Hat Tigers,11,0,18,12,18,7,M-Cup
-14,1950-51,Medicine Hat Tigers,3,0,19,5,6,3,WCJHL
-4,1951-52,Glace Bay Miners,1,0,20,5,3,2,MMHL
-6,1952-53,Edmonton Flyers,6,0,21,15,10,4,WHL
-18,1953-54,Edmonton Flyers,4,0,22,13,7,3,WHL
-4,1955-56,Saskatoon Quakers,3,0,24,3,4,1,WHL
-4,1956-57,Brandon Regals,2,0,25,9,7,5,WHL
-0,1956-57,Brandon Regals,3,0,25,6,4,1,Ed-Cup
-4,1957-58,Hershey Bears,4,0,26,11,8,4,AHL
-20,1958-59,Hershey Bears,0,0,27,11,1,1,AHL
-2,1961-62,San Francisco Seals,0,0,30,2,0,0,WHL
-23,1962-63,San Francisco Seals,6,0,31,17,14,8,WHL
-14,1963-64,San Francisco Seals,10,0,32,11,14,4,WHL
-15,1967-68,Tulsa Oilers,9,0,36,11,15,6,CPHL
-0,1968-69,Omaha Knights,4,0,37,7,6,2,CHL
-16,1969-70,New Haven Blades,3,0,38,11,8,5,EHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Wetaskiwin Canadians,1,1948-49,3,1,6,17,0,M-Cup
+3,Medicine Hat Tigers,0,1949-50,5,3,6,18,0,WCJHL
+11,Medicine Hat Tigers,7,1949-50,12,18,52,18,0,M-Cup
+3,Medicine Hat Tigers,3,1950-51,5,6,14,19,0,WCJHL
+1,Glace Bay Miners,2,1951-52,5,3,4,20,0,MMHL
+6,Edmonton Flyers,4,1952-53,15,10,6,21,0,WHL
+4,Edmonton Flyers,3,1953-54,13,7,18,22,0,WHL
+3,Saskatoon Quakers,1,1955-56,3,4,4,24,0,WHL
+2,Brandon Regals,5,1956-57,9,7,4,25,0,WHL
+3,Brandon Regals,1,1956-57,6,4,0,25,0,Ed-Cup
+4,Hershey Bears,4,1957-58,11,8,4,26,0,AHL
+0,Hershey Bears,1,1958-59,11,1,20,27,0,AHL
+0,San Francisco Seals,0,1961-62,2,0,2,30,0,WHL
+6,San Francisco Seals,8,1962-63,17,14,23,31,0,WHL
+10,San Francisco Seals,4,1963-64,11,14,14,32,0,WHL
+9,Tulsa Oilers,6,1967-68,11,15,15,36,0,CPHL
+4,Omaha Knights,2,1968-69,7,6,0,37,0,CHL
+3,New Haven Blades,5,1969-70,11,8,16,38,0,EHL

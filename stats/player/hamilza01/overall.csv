@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1988-09-23,C,", ",R,Zach Hamill
+handed,heigh_and_weight,position,date_of_birth,name
+R,", ",C,1988-09-23,Zach Hamill

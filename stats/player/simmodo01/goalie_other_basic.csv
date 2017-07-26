@@ -1,0 +1,17 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHA-Jr.,12,Galt Black Hawks,720,17,0,0,0,73,0,0,0,0,0,0,0,0,0,0,1948-49,0,6.08,0,0
+0,OHA-Jr.,53,St. Catharines Teepees,3180,19,0,0,0,181,0,0,0,3,0,0,0,0,0,0,1950-51,0,3.42,0,0
+0,EAHL,37,Springfield Indians,2270,20,18,0,0,121,0,0,1,0,18,0,0,0,0,0,1951-52,0,3.20,0,0
+0,EAHL,44,Springfield Indians,2680,21,11,0,0,168,0,0,2,0,31,0,0,0,0,0,1952-53,0,3.76,0,0
+0,IHL,24,Johnstown Jets,1440,22,0,0,0,66,0,0,0,2,0,0,0,0,0,0,1953-54,0,2.75,0,0
+0,AHL,54,Springfield Indians,3240,23,21,0,0,185,0,0,3,2,30,0,0,0,0,0,1954-55,0,3.43,0,0
+0,AHL,52,Springfield Indians,3120,24,37,0,0,233,0,0,2,0,13,0,0,0,0,0,1955-56,0,4.48,0,0
+0,AHL,25,Springfield Indians,1300,25,12,0,0,84,0,0,3,0,10,0,0,0,0,0,1956-57,0,3.88,0,0
+0,AHL,10,Providence Reds,590,29,7,0,0,51,0,0,0,0,3,0,0,0,0,0,1960-61,0,5.19,0,0
+0,AHL,51,Rochester Americans,3060,30,22,0,0,169,0,0,5,0,24,0,0,0,0,0,1961-62,0,3.31,0,0
+0,AHL,9,Rochester Americans,540,31,5,0,0,27,0,0,0,1,4,0,0,0,0,0,1962-63,0,3.00,0,0
+0,CPHL,69,Tulsa Oilers,3540,33,26,0,0,219,0,0,8,3,35,0,0,0,0,0,1964-65,0,3.71,0,0
+0,AHL,13,Baltimore Clippers,750,34,6,0,0,42,0,0,2,0,4,0,0,0,0,0,1965-66,0,3.36,0,0
+0,WHL,72,Vancouver Canucks,4326,35,32,0,0,213,0,0,2,7,38,0,0,0,0,0,1966-67,0,2.95,0,0
+0,AHL,22,Buffalo Bisons,1279,36,7,0,0,74,0,0,5,0,9,0,0,0,0,0,1967-68,0,3.47,0,0
+0,AHL,5,Buffalo Bisons,259,37,3,0,0,14,0,0,0,1,2,0,0,0,0,0,1968-69,0,3.24,0,0

@@ -1,0 +1,13 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1988-89,16,55,52,29,0,Minor-ON,47,Kingston Lions,84
+1989-90,17,10,30,15,0,OHL,62,Cornwall Royals,25
+1990-91,18,41,34,56,0,OHL,66,Cornwall Royals,97
+1991-92,19,23,40,36,0,OHL,37,Cornwall Royals,59
+1992-93,20,27,71,30,0,IHL,56,Phoenix Roadrunners,57
+1993-94,21,10,47,16,0,IHL,39,Phoenix Roadrunners,26
+1994-95,22,17,14,17,0,Nat-Tm,31,Canada,34
+1994-95,22,0,15,0,0,IHL,2,Phoenix Roadrunners,0
+1994-95,22,8,31,14,0,AHL,37,St. John\'s Maple Leafs,22
+1995-96,23,1,2,4,0,IHL,12,Minnesota Moose,5
+1996-97,24,0,0,1,0,IHL,3,San Antonio Dragons,1
+1997-98,25,24,41,32,14,WCHL,48,Phoenix Mustangs,56

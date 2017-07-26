@@ -1,0 +1,19 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1995-96,16,8,0,11,0,CzRep-Jr.,38,AC ZPS Zlin Jr.,19
+1996-97,17,2,0,11,0,CzRep-Jr.,27,AC ZPS Zlin Jr.,13
+1996-97,17,0,16,1,0,EJC-A,6,Czech Republic,1
+1997-98,18,1,16,2,0,CzRep,27,HC ZPS Barum Zlin,3
+1998-99,19,3,88,9,0,CzRep,39,HC ZPS Barum Zlin,12
+1998-99,19,1,4,3,0,WJC-A,6,Czech Republic,4
+1999-00,20,6,64,20,18,IHL,62,Grand Rapids Griffins,26
+2002-03,23,3,8,0,0,Russia,9,Lokomotiv Yaroslavl,3
+2002-03,23,0,10,2,2,AHL,6,Binghamton Senators,2
+2004-05,25,5,55,6,0,CzRep,21,HC Znojemsti Orli Znojmo,11
+2004-05,25,6,69,8,0,Russia,27,Lokomotiv Yaroslavl,14
+2005-06,26,11,73,16,0,Russia,45,Lokomotiv Yaroslavl,27
+2008-09,29,9,85,23,0,KHL,50,Dynamo Moscow,32
+2008-09,29,0,2,4,5,WC-A,7,Czech Republic,4
+2009-10,30,10,74,17,0,KHL,52,Dynamo Moscow,27
+2009-10,30,2,10,2,5,WC-A,9,Czech Republic,4
+2010-11,31,11,99,35,0,KHL,50,Lokomotiv Yaroslavl,46
+2010-11,31,1,6,2,3,WC-A,9,Czech Republic,3

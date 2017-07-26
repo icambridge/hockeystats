@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1992-93,15,9,56,18,0,MTHL,42,Mississauga Senators,27
+1992-93,15,0,0,0,0,ON-Jr.A,2,Mississauga Senators,0
+1993-94,16,0,10,2,0,ON-Jr.A,12,Kingston Voyageurs,2
+1993-94,16,0,81,3,0,OHL,43,Kingston Frontenacs,3
+1994-95,17,4,255,12,0,OHL,64,Kingston Frontenacs,16
+1995-96,18,4,261,17,0,OHL,66,Kingston Frontenacs,21
+1995-96,18,0,7,0,0,AHL,2,P.E.I. Senators,0
+1996-97,19,4,171,13,0,OHL,63,2 Teams,17
+1996-97,19,4,97,8,0,OHL,37,Kingston frontenacs,12
+1996-97,19,0,74,5,0,OHL,26,Sault Ste. Marie Greyhounds,5
+1997-98,20,1,181,6,-13,AHL,74,Cincinnati Mighty Ducks,7
+1998-99,21,0,264,5,0,IHL,80,Milwaukee Admirals,5
+1999-00,22,5,203,5,1,IHL,64,Milwaukee Admirals,10
+2000-01,23,2,190,9,14,IHL,68,Milwaukee Admirals,11
+2001-02,24,2,102,8,-5,AHL,48,2 Teams,10
+2001-02,24,1,81,8,-3,AHL,41,Milwaukee Admirals,9
+2001-02,24,1,21,0,-2,AHL,7,St. John\'s Maple Leafs,1
+2002-03,25,3,128,8,-8,AHL,68,St. John\'s Maple Leafs,11
+2003-04,26,1,144,9,-9,AHL,76,St. John\'s Maple Leafs,10
+2004-05,27,2,202,6,1,AHL,78,St. John\'s Maple Leafs,8
+2005-06,28,1,149,8,15,AHL,73,Toronto Marlies,9
+2006-07,29,2,139,5,-11,AHL,79,Toronto Marlies,7

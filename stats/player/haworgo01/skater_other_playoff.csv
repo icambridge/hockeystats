@@ -1,19 +1,19 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-6,Victoriaville Tigers,1,0,1,QJHL,4,1948-49,16,0
-8,Quebec Citadelles,3,0,8,QJHL,13,1950-51,18,5
-14,Quebec Citadelles,5,0,10,M-Cup,10,1950-51,18,5
-18,Quebec Citadelles,6,0,13,QJHL,15,1951-52,19,7
-2,Valleyfield Braves,1,0,1,QMHL,4,1952-53,20,0
-0,Valleyfield Braves,0,0,1,QHL,6,1953-54,21,1
-0,Victoria Cougars,0,0,0,WHL,3,1956-57,24,0
-0,Victoria Cougars,0,0,2,WHL,3,1958-59,26,2
-4,Victoria Cougars,7,0,10,WHL,11,1959-60,27,3
-0,Portland Buckaroos,3,0,6,WHL,14,1960-61,28,3
-4,Sudbury Wolves,1,0,3,EPHL,5,1961-62,29,2
-2,Los Angeles Blades,3,0,5,WHL,3,1962-63,30,2
-4,Los Angeles Blades,7,0,9,WHL,12,1963-64,31,2
-6,Drummondville Eagles,2,0,2,Que-Sr.,5,1965-66,33,0
-4,Drummondville Eagles,10,0,12,Que-Sr.,9,1966-67,34,2
-2,Drummondville Eagles,12,0,16,Al-Cup,11,1966-67,34,4
-0,Drummondville Eagles,10,0,13,Que-Sr.,10,1967-68,35,3
-2,Jacksonville Rockets,1,0,1,EHL,4,1969-70,37,0
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+1,Victoriaville Tigers,0,1948-49,4,1,6,16,0,QJHL
+3,Quebec Citadelles,5,1950-51,13,8,8,18,0,QJHL
+5,Quebec Citadelles,5,1950-51,10,10,14,18,0,M-Cup
+6,Quebec Citadelles,7,1951-52,15,13,18,19,0,QJHL
+1,Valleyfield Braves,0,1952-53,4,1,2,20,0,QMHL
+0,Valleyfield Braves,1,1953-54,6,1,0,21,0,QHL
+0,Victoria Cougars,0,1956-57,3,0,0,24,0,WHL
+0,Victoria Cougars,2,1958-59,3,2,0,26,0,WHL
+7,Victoria Cougars,3,1959-60,11,10,4,27,0,WHL
+3,Portland Buckaroos,3,1960-61,14,6,0,28,0,WHL
+1,Sudbury Wolves,2,1961-62,5,3,4,29,0,EPHL
+3,Los Angeles Blades,2,1962-63,3,5,2,30,0,WHL
+7,Los Angeles Blades,2,1963-64,12,9,4,31,0,WHL
+2,Drummondville Eagles,0,1965-66,5,2,6,33,0,Que-Sr.
+10,Drummondville Eagles,2,1966-67,9,12,4,34,0,Que-Sr.
+12,Drummondville Eagles,4,1966-67,11,16,2,34,0,Al-Cup
+10,Drummondville Eagles,3,1967-68,10,13,0,35,0,Que-Sr.
+1,Jacksonville Rockets,0,1969-70,4,1,2,37,0,EHL

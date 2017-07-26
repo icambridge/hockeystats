@@ -1,0 +1,17 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,9,0,19,20,5,2,,BOS,[],5.0,0,4,-5,1,0,1980-81,,1,6,0,2
+NHL,80,7,20,197,92,17,,BOS,"[{'link': '/awards/voting-1982.html#byng', 'name': 'Byng-20'}, {'link': '/awards/voting-1982.html#calder', 'name': 'Calder-2'}]",22.3,27,48,27,44,4,1981-82,,13,53,1,30
+NHL,77,10,21,212,107,23,,BOS,"[{'link': '/awards/voting-1983.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-1983.html#selke', 'name': 'Selke-11'}]",21.7,30,61,38,46,1,1982-83,,15,47,1,37
+NHL,0,7,22,236,116,37,,BOS,"[{'link': '/awards/voting-1984.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1984.html#hart', 'name': 'Hart-12'}, {'link': '/awards/voting-1984.html#selke', 'name': 'Selke-10'}]",16.5,26,77,27,39,3,1983-84,,10,64,0,40
+NHL,22,0,23,35,12,4,,BOS,"[{'link': '/awards/voting-1985.html#selke', 'name': 'Selke-15'}]",11.4,2,8,-11,4,2,1984-85,,0,10,0,4
+NHL,79,6,24,192,76,20,,BOS,[],15.1,17,47,19,29,0,1985-86,,12,60,0,27
+NHL,79,3,25,184,76,26,,VAN,[],13.0,18,52,-13,24,0,1986-87,,6,50,1,25
+NHL,76,1,26,163,71,19,,VAN,"[{'link': '/awards/voting-1988.html#selke', 'name': 'Selke-31'}]",11.7,14,52,2,19,1,1987-88,,4,92,2,31
+NHL,62,0,27,98,41,4,,VAN,[],15.3,7,26,5,15,1,1988-89,,7,22,1,21
+NHL,54,1,28,80,31,9,,TOT,[],7.5,5,25,-13,6,0,1989-90,,1,39,0,16
+NHL,16,0,28,22,9,2,,VAN,[],9.1,2,7,-3,2,0,1989-90,,0,10,0,5
+NHL,38,1,28,58,22,7,,PIT,[],6.9,3,18,-10,4,0,1989-90,,1,29,0,11
+NHL,46,1,29,26,14,0,,PIT,[],23.1,5,8,2,6,0,1990-91,,1,21,0,8
+NHL,37,0,30,47,13,2,,TOT,[],10.6,3,8,-7,5,0,1991-92,,2,8,0,6
+NHL,5,0,30,6,4,1,,HAR,[],33.3,1,2,-2,2,0,1991-92,,1,0,0,1
+NHL,32,0,30,41,9,1,,BOS,[],7.3,2,6,-5,3,0,1991-92,,1,8,0,5

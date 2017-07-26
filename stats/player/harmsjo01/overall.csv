@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1925-04-25,", ",RW,John Harms,R
+handed,heigh_and_weight,position,date_of_birth,name
+R,", ",RW,1925-04-25,John Harms

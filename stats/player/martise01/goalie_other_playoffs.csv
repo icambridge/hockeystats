@@ -1,0 +1,19 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WCJHL,2,Lethbridge Native Sons,80,17,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1950-51,0,2.25,0,0
+0,WCJHL,4,Lethbridge Native Sons,240,18,4,0,0,30,0,0,0,0,0,0,0,0,0,0,1951-52,0,7.50,0,0
+0,WCJHL,25,Lethbridge Native Sons,1540,19,7,0,0,96,0,0,2,2,16,0,0,0,0,0,1952-53,0,3.74,0,0
+0,WIHL,4,Trail Smoke Eaters,240,20,3,0,0,21,0,0,0,0,1,0,0,0,0,0,1953-54,0,5.25,0,0
+0,WIHL,4,Trail Smoke Eaters,240,21,0,0,0,13,0,0,0,0,0,0,0,0,0,0,1954-55,0,3.25,0,0
+0,WIHL,10,Trail Smoke Eaters,600,22,5,0,0,35,0,0,0,1,5,0,0,0,0,0,1955-56,0,3.50,0,0
+0,WIHL,9,Trail Smoke Eaters,540,23,0,0,0,42,0,0,0,0,0,0,0,0,0,0,1956-57,0,4.67,0,0
+0,WIHL,7,Trail Smoke Eaters,420,24,4,0,0,29,0,0,0,0,3,0,0,0,0,0,1957-58,0,4.14,0,0
+0,WIHL,7,Trail Smoke Eaters,379,25,4,0,0,29,0,0,0,0,3,0,0,0,0,0,1958-59,0,4.59,0,0
+0,WIHL,11,Trail Smoke Eaters,660,26,2,0,0,45,0,0,0,1,9,0,0,0,0,0,1959-60,0,4.09,0,0
+0,Al-Cup,15,Trail Smoke Eaters,915,26,6,0,0,56,0,0,1,1,8,0,0,0,0,0,1959-60,0,3.67,0,0
+0,WIHL,13,Trail Smoke Eaters,780,27,1,0,0,30,0,0,0,0,11,0,0,0,0,0,1960-61,0,2.31,0,0
+0,WIHL,5,Rossland Warriors,300,30,3,0,0,22,0,0,0,0,2,0,0,0,0,0,1963-64,0,4.40,0,0
+0,Al-Cup,12,Nelson Maple Leafs,700,31,5,0,0,40,0,0,0,2,7,0,0,0,0,0,1964-65,0,3.43,0,0
+0,WIHL,1,Rossland Warriors,60,32,1,0,0,5,0,0,0,0,0,0,0,0,0,0,1965-66,0,5.00,0,0
+0,WIHL,1,Kimberley Dynamiters,60,32,1,0,0,3,0,0,0,0,0,0,0,0,0,0,1965-66,0,3.00,0,0
+0,WIHL,7,Spokane Jets,420,36,0,0,0,9,0,0,0,1,7,0,0,0,0,0,1969-70,0,1.29,0,0
+0,Al-Cup,11,Spokane Jets,660,36,2,0,0,24,0,0,0,2,9,0,0,0,0,0,1969-70,0,2.18,0,0

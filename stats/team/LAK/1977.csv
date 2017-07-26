@@ -1,28 +1,28 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-1,,C,14.0,36,378,38,1,25,5,53,69,Marcel Dionne,12.8,1.5,122,14,12,,80,10,11.3,32,/players/d/dionnma01.html
-0,,C,13.9,30,216,17,2,27,3,30,55,Butch Goring,7.8,1.4,85,13,6,,78,10,6.4,23,/players/g/gorinbu01.html
-0,,LW,15.0,26,233,20,0,25,3,35,39,Tom Williams,7.4,1.6,74,15,14,,80,14,5.8,13,/players/w/willito02.html
-3,,RW,15.2,27,165,13,0,26,3,25,36,Mike Murphy,5.6,1.6,61,9,58,,76,15,4.0,9,/players/m/murphmi01.html
-0,,D,7.0,15,200,6,0,22,2,14,40,Gary Sargent,9.0,5.0,54,8,65,,80,7,4.0,25,/players/s/sargega01.html
-1,,C,11.7,22,120,12,0,25,2,14,26,Vic Venasky,2.4,1.2,40,1,18,,80,2,1.2,4,/players/v/venasvi01.html
-0,,LW,15.3,21,85,11,0,33,1,13,25,Bob Berry,2.8,1.4,38,2,20,,69,12,1.4,4,/players/b/berrybo01.html
-0,,RW,15.3,17,98,14,0,24,1,15,17,Don Kozak,1.5,0.9,32,1,89,,79,-9,0.6,0,/players/k/kozakdo01.html
-0,,D,7.2,22,125,9,0,30,1,9,23,Bob Murdoch,8.2,6.2,32,0,79,,70,36,2.0,1,/players/m/murdobo01.html
-0,,LW,8.2,18,122,8,0,27,2,10,20,Dave Schultz,1.0,0.9,30,2,232,,76,-8,0.2,2,/players/s/schulda01.html
-0,,RW,8.1,19,74,5,0,37,0,6,22,Frank St. Marseille,1.5,0.7,28,1,16,,49,1,0.8,3,/players/s/stmarfr01.html
-1,,C,15.2,11,99,14,0,25,2,15,12,Gene Carr,1.8,1.1,27,0,25,,68,5,0.7,1,/players/c/carrge01.html
-0,,D,5.2,9,115,5,0,24,3,6,11,Dave Hutchison,4.9,4.5,17,1,220,,70,7,0.5,2,/players/h/hutchda01.html
-0,,RW,25.0,6,28,6,0,23,2,7,6,Glenn Goldup,1.1,0.6,13,1,29,,28,5,0.5,0,/players/g/goldugl01.html
-0,,D,3.9,9,76,3,0,25,1,3,9,Neil Komadoski,4.8,5.0,12,0,109,,68,17,-0.2,0,/players/k/komadne01.html
-0,,C,4.3,7,69,3,0,29,1,3,8,Juha Widing,-0.6,0.2,11,0,8,,47,-16,-0.8,1,/players/w/widinju01.html
-0,,LW,7.4,3,54,4,0,27,1,4,3,Bert Wilson,-1.4,0.8,7,0,64,,77,-9,-2.3,0,/players/w/wilsobe01.html
-0,,D,1.7,6,59,1,0,29,0,1,6,Larry Brown,1.6,2.1,7,0,24,,55,-17,-0.5,0,/players/b/brownla01.html
-0,,D,3.7,3,82,3,0,27,0,3,3,Ab DeMarco,1.5,1.4,6,0,6,,33,-8,0.1,0,/players/d/demarab02.html
-0,,LW,25.0,1,8,2,0,25,0,2,1,Lorne Stamler,0.2,0.1,3,0,2,,7,0,0.1,0,/players/s/stamllo01.html
-0,,LW,9.1,2,11,1,0,20,0,1,2,Steve Clippingdale,0.0,0.3,3,0,9,,16,3,-0.3,0,/players/c/clippst01.html
-0,,D,5.6,1,18,1,0,29,1,1,1,Sheldon Kannegiesser,1.2,1.8,2,0,28,,39,-7,-0.6,0,/players/k/kannesh01.html
-0,,RW,8.3,0,12,1,0,23,0,1,0,Russ Walker,-0.3,0.2,1,0,35,,16,-2,-0.5,0,/players/w/walkeru01.html
-0,,G,,0,0,0,0,31,0,0,1,Rogie Vachon,14.4,0.0,1,0,2,,68,0,0.0,0,/players/v/vachoro01.html
-0,,G,,0,0,0,0,29,0,0,0,Gary Edwards,0.4,0.0,0,0,0,,10,0,0.0,0,/players/e/edwarga01.html
-0,,RW,,0,0,0,0,23,0,0,0,Jim Moxey,0.0,0.0,0,0,2,,1,0,0.0,0,/players/m/moxeyji01.html
-0,,G,,0,0,0,0,32,0,0,0,Gary Simmons,0.4,0.0,0,0,0,,4,0,0.0,0,/players/s/simmoga01.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+69,5,53,25,,11.3,1.5,38,,32,C,12.8,36,LAK,/players/d/dionnma01.html,1,12,14,10,Marcel Dionne,14.0,1977,122,1,80,378
+55,3,30,27,,6.4,1.4,17,,23,C,7.8,30,LAK,/players/g/gorinbu01.html,2,6,13,10,Butch Goring,13.9,1977,85,0,78,216
+39,3,35,25,,5.8,1.6,20,,13,LW,7.4,26,LAK,/players/w/willito02.html,0,14,15,14,Tom Williams,15.0,1977,74,0,80,233
+36,3,25,26,,4.0,1.6,13,,9,RW,5.6,27,LAK,/players/m/murphmi01.html,0,58,9,15,Mike Murphy,15.2,1977,61,3,76,165
+40,2,14,22,,4.0,5.0,6,,25,D,9.0,15,LAK,/players/s/sargega01.html,0,65,8,7,Gary Sargent,7.0,1977,54,0,80,200
+26,2,14,25,,1.2,1.2,12,,4,C,2.4,22,LAK,/players/v/venasvi01.html,0,18,1,2,Vic Venasky,11.7,1977,40,1,80,120
+25,1,13,33,,1.4,1.4,11,,4,LW,2.8,21,LAK,/players/b/berrybo01.html,0,20,2,12,Bob Berry,15.3,1977,38,0,69,85
+17,1,15,24,,0.6,0.9,14,,0,RW,1.5,17,LAK,/players/k/kozakdo01.html,0,89,1,-9,Don Kozak,15.3,1977,32,0,79,98
+23,1,9,30,,2.0,6.2,9,,1,D,8.2,22,LAK,/players/m/murdobo01.html,0,79,0,36,Bob Murdoch,7.2,1977,32,0,70,125
+20,2,10,27,,0.2,0.9,8,,2,LW,1.0,18,LAK,/players/s/schulda01.html,0,232,2,-8,Dave Schultz,8.2,1977,30,0,76,122
+22,0,6,37,,0.8,0.7,5,,3,RW,1.5,19,LAK,/players/s/stmarfr01.html,0,16,1,1,Frank St. Marseille,8.1,1977,28,0,49,74
+12,2,15,25,,0.7,1.1,14,,1,C,1.8,11,LAK,/players/c/carrge01.html,0,25,0,5,Gene Carr,15.2,1977,27,1,68,99
+11,3,6,24,,0.5,4.5,5,,2,D,4.9,9,LAK,/players/h/hutchda01.html,0,220,1,7,Dave Hutchison,5.2,1977,17,0,70,115
+6,2,7,23,,0.5,0.6,6,,0,RW,1.1,6,LAK,/players/g/goldugl01.html,0,29,1,5,Glenn Goldup,25.0,1977,13,0,28,28
+9,1,3,25,,-0.2,5.0,3,,0,D,4.8,9,LAK,/players/k/komadne01.html,0,109,0,17,Neil Komadoski,3.9,1977,12,0,68,76
+8,1,3,29,,-0.8,0.2,3,,1,C,-0.6,7,LAK,/players/w/widinju01.html,0,8,0,-16,Juha Widing,4.3,1977,11,0,47,69
+3,1,4,27,,-2.3,0.8,4,,0,LW,-1.4,3,LAK,/players/w/wilsobe01.html,0,64,0,-9,Bert Wilson,7.4,1977,7,0,77,54
+6,0,1,29,,-0.5,2.1,1,,0,D,1.6,6,LAK,/players/b/brownla01.html,0,24,0,-17,Larry Brown,1.7,1977,7,0,55,59
+3,0,3,27,,0.1,1.4,3,,0,D,1.5,3,LAK,/players/d/demarab02.html,0,6,0,-8,Ab DeMarco,3.7,1977,6,0,33,82
+1,0,2,25,,0.1,0.1,2,,0,LW,0.2,1,LAK,/players/s/stamllo01.html,0,2,0,0,Lorne Stamler,25.0,1977,3,0,7,8
+2,0,1,20,,-0.3,0.3,1,,0,LW,0.0,2,LAK,/players/c/clippst01.html,0,9,0,3,Steve Clippingdale,9.1,1977,3,0,16,11
+1,1,1,29,,-0.6,1.8,1,,0,D,1.2,1,LAK,/players/k/kannesh01.html,0,28,0,-7,Sheldon Kannegiesser,5.6,1977,2,0,39,18
+0,0,1,23,,-0.5,0.2,1,,0,RW,-0.3,0,LAK,/players/w/walkeru01.html,0,35,0,-2,Russ Walker,8.3,1977,1,0,16,12
+1,0,0,31,,0.0,0.0,0,,0,G,14.4,0,LAK,/players/v/vachoro01.html,0,2,0,0,Rogie Vachon,,1977,1,0,68,0
+0,0,0,29,,0.0,0.0,0,,0,G,0.4,0,LAK,/players/e/edwarga01.html,0,0,0,0,Gary Edwards,,1977,0,0,10,0
+0,0,0,23,,0.0,0.0,0,,0,RW,0.0,0,LAK,/players/m/moxeyji01.html,0,2,0,0,Jim Moxey,,1977,0,0,1,0
+0,0,0,32,,0.0,0.0,0,,0,G,0.4,0,LAK,/players/s/simmoga01.html,0,0,0,0,Gary Simmons,,1977,0,0,4,0

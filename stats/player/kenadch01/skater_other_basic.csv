@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1990-91,17,16,57,20,0,USHL,45,St. Paul Vulcans,36
+1991-92,18,8,56,5,0,WCHA,36,University of Denver,13
+1992-93,19,8,95,16,0,WCHA,38,University of Denver,24
+1993-94,20,14,125,11,0,WCHA,37,University of Denver,25
+1994-95,21,21,113,17,0,WCHA,39,University of Denver,38
+1995-96,22,9,58,10,0,AHL,43,Worcester IceCats,19
+1996-97,23,23,131,26,0,AHL,73,Worcester IceCats,49
+1997-98,24,23,84,22,-4,AHL,63,Worcester IceCats,45
+1998-99,25,2,52,6,1,AHL,22,Hartford Wolf Pack,8
+1998-99,25,8,115,12,6,IHL,54,2 Teams,20
+1998-99,25,7,68,6,2,IHL,35,Utah Grizzlies,13
+1998-99,25,1,47,6,4,IHL,19,Long Beach Ice Dogs,7
+1999-00,26,15,196,16,19,AHL,71,Hartford Wolf Pack,31
+2000-01,27,7,94,13,-7,AHL,62,2 Teams,20
+2000-01,27,2,36,1,-2,AHL,20,Louisville Panthers,3
+2000-01,27,5,58,12,-5,AHL,42,Hartford Wolf Pack,17
+2001-02,28,35,161,34,15,WCHL,68,Long Beach Ice Dogs,69
+2002-03,29,16,76,14,2,WCHL,32,2 Teams,30
+2002-03,29,16,66,13,4,WCHL,27,Long Beach Ice Dogs,29
+2002-03,29,0,10,1,-2,WCHL,5,Fresno Falcons,1
+2003-04,30,21,152,38,32,ECHL,71,Las Vegas Wranglers,59
+2004-05,31,32,88,32,13,ECHL,71,Long Beach Ice Dogs,64
+2005-06,32,13,62,20,-3,ECHL,47,2 Teams,33
+2005-06,32,13,56,17,-3,ECHL,40,Long Beach Ice Dogs,30
+2005-06,32,0,6,3,0,ECHL,7,Las Vegas Wranglers,3

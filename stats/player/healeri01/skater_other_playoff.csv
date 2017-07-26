@@ -1,8 +1,8 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-6,Edmonton Oil Kings,0,0,0,WCJHL,6,1955-56,17,0
-6,Edmonton Oil Kings,1,0,1,M-Cup,6,1956-57,18,0
-4,Edmonton Oil Kings,0,0,1,M-Cup,4,1957-58,19,1
-8,Sudbury Wolves,3,0,3,EPHL,12,1959-60,21,0
-2,Hershey Bears,0,0,1,AHL,7,1960-61,22,1
-6,Lacombe Rockets,4,0,6,CAHL,5,1963-64,25,2
-0,Lacombe Rockets,1,0,4,ASHL,4,1965-66,27,3
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Edmonton Oil Kings,0,1955-56,6,0,6,17,0,WCJHL
+1,Edmonton Oil Kings,0,1956-57,6,1,6,18,0,M-Cup
+0,Edmonton Oil Kings,1,1957-58,4,1,4,19,0,M-Cup
+3,Sudbury Wolves,0,1959-60,12,3,8,21,0,EPHL
+0,Hershey Bears,1,1960-61,7,1,2,22,0,AHL
+4,Lacombe Rockets,2,1963-64,5,6,6,25,0,CAHL
+1,Lacombe Rockets,3,1965-66,4,4,0,27,0,ASHL

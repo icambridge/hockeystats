@@ -1,5 +1,5 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-15,Springfield Kings,11,0,13,AHL,17,1974-75,23,2
-12,Oklahoma City Blazers,0,0,0,CHL,4,1975-76,24,0
-6,New Haven Nighthawks,1,0,2,AHL,6,1976-77,25,1
-4,Tulsa Oilers,0,0,0,CHL,3,1979-80,28,0
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+11,Springfield Kings,2,1974-75,17,13,15,23,0,AHL
+0,Oklahoma City Blazers,0,1975-76,4,0,12,24,0,CHL
+1,New Haven Nighthawks,1,1976-77,6,2,6,25,0,AHL
+0,Tulsa Oilers,0,1979-80,3,0,4,28,0,CHL

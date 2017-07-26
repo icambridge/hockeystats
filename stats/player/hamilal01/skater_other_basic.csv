@@ -1,10 +1,10 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-26,1963-64,Edmonton Oil Kings,7,0,17,14,11,4,CAHL
-0,1964-65,Edmonton Oil Kings,15,0,18,30,25,10,CAHL
-0,1964-65,St. Paul Rangers,2,0,18,3,2,0,CPHL
-99,1965-66,Edmonton Oil Kings,22,0,19,28,37,15,ASHL
-96,1966-67,Omaha Knights,25,0,20,68,36,11,CPHL
-82,1967-68,Buffalo Bisons,21,0,21,72,30,9,AHL
-61,1968-69,Buffalo Bisons,14,0,22,41,18,4,AHL
-4,1974-75,Canada,1,0,28,3,1,0,Summit-74
-0,1979-80,Houston Apollos,0,0,33,4,0,0,CHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+7,Edmonton Oil Kings,4,1963-64,14,11,26,17,0,CAHL
+15,Edmonton Oil Kings,10,1964-65,30,25,0,18,0,CAHL
+2,St. Paul Rangers,0,1964-65,3,2,0,18,0,CPHL
+22,Edmonton Oil Kings,15,1965-66,28,37,99,19,0,ASHL
+25,Omaha Knights,11,1966-67,68,36,96,20,0,CPHL
+21,Buffalo Bisons,9,1967-68,72,30,82,21,0,AHL
+14,Buffalo Bisons,4,1968-69,41,18,61,22,0,AHL
+1,Canada,0,1974-75,3,1,4,28,0,Summit-74
+0,Houston Apollos,0,1979-80,4,0,0,33,0,CHL

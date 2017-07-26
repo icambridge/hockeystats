@@ -1,0 +1,5 @@
+age,win,shotsPercentage,even_strength_goals,assists,plus_minus,league,games_played,shorthanded_goals,year,game_winning_goals,shots,goals,average_ice_time,power_play_goals,pim,total_ice_time,team,points
+21,SC,10.3,2,0,0,NHL,0,0,2005-06,1,0,9,495,0,8,,CAR,0
+24,,13.7,7,5,-3,NHL,18,0,2008-09,1,73,10,387,3,4,136,CAR,15
+31,,0.0,0,0,-7,NHL,5,0,2015-16,0,7,0,80,0,4,9,NYR,0
+32,,0.0,0,1,-1,NHL,5,0,2016-17,0,12,0,95,0,0,21,MIN,1

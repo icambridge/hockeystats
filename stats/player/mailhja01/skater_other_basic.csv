@@ -1,0 +1,32 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1985-86,24,13,262,17,0,RHL,36,Rimouski Mariners,30
+1986-87,25,9,164,12,0,RHL,19,Rimouski Mariners,21
+1987-88,26,4,304,6,0,AHL,43,2 Teams,10
+1987-88,26,2,167,0,0,AHL,15,Baltimore Skipjacks,2
+1987-88,26,2,137,6,0,AHL,28,Fredericton Express,8
+1988-89,27,4,259,1,0,AHL,35,Halifax Citadels,5
+1989-90,28,0,62,2,0,ECHL,5,Hampton Roads Admirals,2
+1989-90,28,0,70,2,0,IHL,5,Phoenix Roadrunners,2
+1989-90,28,0,32,1,0,AHL,12,2 Teams,1
+1989-90,28,0,20,0,0,AHL,6,Moncton Hawks,0
+1989-90,28,0,12,1,0,AHL,6,Cape Breton Oilers,1
+1990-91,29,0,43,0,0,AHL,13,Moncton Hawks,0
+1990-91,29,0,2,0,0,IHL,1,San Diego Gulls,0
+1990-91,29,0,21,0,0,ECHL,2,Johnstown Chiefs,0
+1990-91,29,10,117,6,0,NBSHL,20,Miramichi Gagnon Beavers,16
+1991-92,30,17,281,14,0,ColHL,26,2 Teams,31
+1991-92,30,15,237,12,0,ColHL,21,Flint Bulldogs,27
+1991-92,30,2,44,2,0,ColHL,5,Michigan Falcons,4
+1992-93,31,14,273,21,0,ColHL,48,Detroit Falcons,35
+1993-94,32,1,122,9,0,ColHL,29,Detroit Falcons,10
+1994-95,33,0,52,1,0,AHL,15,Rochester Americans,1
+1994-95,33,11,302,17,0,ColHL,59,Utica Blizzard,28
+1995-96,34,15,324,8,0,ColHL,58,2 Teams,23
+1995-96,34,1,71,0,0,ColHL,8,Utica Blizzard,1
+1995-96,34,14,253,8,0,ColHL,50,Quad City Mallards,22
+1996-97,35,1,2,1,0,QSPHL,2,Louiseville Jets,2
+1996-97,35,0,32,1,0,IHL,4,Utah Grizzlies,1
+1996-97,35,5,247,8,0,WPHL,34,Central Texas Stampede,13
+1997-98,36,14,277,18,8,WPHL,50,Central Texas Stampede,32
+1998-99,37,7,289,22,-4,WCHL,50,Fresno\'s Fighting Falcons,29
+1999-00,38,0,51,1,0,WPHL,10,Central Texas Stampede,1

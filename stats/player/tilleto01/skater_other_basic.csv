@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1982-83,17,6,77,13,0,ON-Jr.A,42,Orillia Travelways,19
+1983-84,18,16,113,35,0,ON-Jr.A,38,Orillia Travelways,51
+1984-85,19,1,58,5,0,CCHA,37,Michigan State Spartans,6
+1985-86,20,9,48,25,0,CCHA,42,Michigan State Spartans,34
+1986-87,21,7,48,14,0,CCHA,42,Michigan State Spartans,21
+1987-88,22,8,44,18,0,CCHA,46,Michigan State Spartans,26
+1989-90,24,1,13,8,0,IHL,22,Peoria Rivermen,9
+1990-91,25,7,53,38,0,IHL,48,Peoria Rivermen,45
+1991-92,26,3,26,12,0,Alpenliga,20,HC Devils Milano,15
+1991-92,26,7,12,13,0,Italy,18,HC Milano Saima,20
+1991-92,26,0,0,1,0,Nat-Tm,4,Canada,1
+1992-93,27,5,21,17,0,Alpenliga,32,HC Lion Milano,22
+1992-93,27,8,2,3,0,Italy,14,HC Lion Milano,11
+1994-95,29,0,14,0,0,WC-A,8,Canada,0
+1994-95,29,4,33,19,0,IHL,35,2 Teams,23
+1994-95,29,2,14,6,0,IHL,10,Atlanta Knights,8
+1994-95,29,2,19,13,0,IHL,25,Indianapolis Ice,15
+1995-96,30,11,58,68,0,IHL,80,Milwaukee Admirals,79
+1996-97,31,1,8,10,0,IHL,25,Milwaukee Admirals,11
+1997-98,32,9,49,49,11,IHL,73,Chicago Wolves,58
+1998-99,33,5,32,55,25,IHL,73,Chicago Wolves,60
+1999-00,34,2,42,34,24,IHL,75,Chicago Wolves,36
+2000-01,35,1,10,3,-1,IHL,10,Chicago Wolves,4

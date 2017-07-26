@@ -1,0 +1,17 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1999-00,18,14,285,21,0,BCHL,58,Victoria Salsa,35
+2000-01,19,34,196,34,0,BCHL,57,Victoria Salsa,68
+2001-02,20,18,101,12,0,CCHA,37,U. of Alaska Fairbanks,30
+2002-03,21,2,42,5,0,CCHA,16,U. of Alaska Fairbanks,7
+2003-04,22,16,132,8,0,CCHA,36,U. of Alaska Fairbanks,24
+2003-04,22,2,14,1,-3,AHL,9,Albany River Rats,3
+2004-05,23,11,220,17,-11,AHL,71,Albany River Rats,28
+2005-06,24,16,180,14,-15,AHL,73,Albany River Rats,30
+2006-07,25,11,169,11,-11,AHL,58,2 Teams,22
+2006-07,25,9,111,8,-5,AHL,39,Lowell Devils,17
+2006-07,25,2,58,3,-6,AHL,19,Houston Aeros,5
+2007-08,26,4,46,4,0,AHL,12,Houston Aeros,8
+2010-11,29,3,66,4,-5,AHL,28,2 Teams,7
+2010-11,29,0,5,0,0,AHL,2,Syracuse Crunch,0
+2010-11,29,3,61,4,-5,AHL,26,Toronto Marlies,7
+2011-12,30,4,23,3,-7,AHL,23,Connecticut Whale,7

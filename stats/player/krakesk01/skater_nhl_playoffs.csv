@@ -1,0 +1,6 @@
+age,win,shotsPercentage,even_strength_goals,assists,plus_minus,league,games_played,shorthanded_goals,year,game_winning_goals,shots,goals,average_ice_time,power_play_goals,pim,total_ice_time,team,points
+24,,0.0,0,0,-1,NHL,4,0,1967-68,0,2,0,,0,2,,BOS,0
+25,,10.0,1,0,-1,NHL,6,0,1968-69,0,10,1,,0,15,,LAK,1
+29,,0,1,2,0,WHA,9,0,1972-73,1,0,1,,0,27,,CLC,3
+30,,0,0,1,0,WHA,5,0,1973-74,0,0,0,,0,39,,CLC,1
+31,,0,0,1,0,WHA,5,0,1974-75,0,0,1,,0,0,,CLC,2

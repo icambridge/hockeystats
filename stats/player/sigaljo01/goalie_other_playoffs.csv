@@ -1,0 +1,5 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,BCHL,18,Victoria Salsa,1060,19,5,0,0,143,0,0,0,0,12,0,0,0,0,0,2000-01,0,8.09,0,0
+0,AHL,3,Providence Bruins,159,24,2,0,0,10,0,0,0,0,0,0,0,0,0,.882,2005-06,85,3.77,0,75
+0,AHL,2,Providence Bruins,32,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2006-07,0,0.00,0,0
+0,AHL,2,Providence Bruins,21,26,0,0,0,0,0,0,0,0,0,0,0,0,0,1.000,2007-08,8,0.00,0,8

@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1988-89,19,6,4,1,0,USSR,19,Dynamo Minsk,7
+1988-89,19,1,8,0,0,WJC-A,7,Soviet Union,1
+1989-90,20,11,20,6,0,USSR,47,Dynamo Minsk,17
+1990-91,21,6,14,5,0,USSR,28,Dynamo Minsk,11
+1991-92,22,10,16,9,0,CIS,29,Dynamo Moscow,19
+1992-93,23,33,20,43,0,ColHL,44,Detroit Falcons,76
+1992-93,23,6,4,7,0,IHL,11,Indianapolis Ice,13
+1993-94,24,31,51,32,0,IHL,63,Fort Wayne Komets,63
+1994-95,25,38,39,40,0,IHL,79,Fort Wayne Komets,78
+1995-96,26,5,4,6,0,IHL,9,Las Vegas Thunder,11
+1997-98,28,1,2,1,0,Olympics,5,Belarus,2
+1998-99,29,2,2,2,0,WC-A,6,Belarus,4
+1999-00,30,3,4,2,-2,WC-A,5,Belarus,5
+2001-02,32,5,22,14,0,Russia,25,Ak Bars Kazan,19
+2001-02,32,1,4,3,-5,Olympics,8,Belarus,4
+2001-02,32,9,4,9,15,WC-B,5,Belarus,18
+2002-03,33,18,56,6,0,Russia,45,Ak Bars Kazan,24
+2002-03,33,3,2,1,3,WC-A,6,Belarus,4
+2003-04,34,15,34,10,0,Russia,41,Ak Bars Kazan,25
+2003-04,34,5,0,2,4,WC-B,5,Belarus,7
+2004-05,35,6,47,10,0,Russia,40,CSKA Moscow,16
+2004-05,35,0,2,4,-1,WC-A,6,Belarus,4

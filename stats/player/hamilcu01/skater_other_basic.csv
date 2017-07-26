@@ -1,4 +1,4 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-23,2013-14,Oklahoma City Barons,8,-7,22,43,16,8,AHL
-38,2014-15,Oklahoma City Barons,20,1,23,63,32,12,AHL
-2,2014-15,Team Canada,0,-2,23,4,0,0,Spengler Cup
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+8,Oklahoma City Barons,8,2013-14,43,16,23,22,-7,AHL
+20,Oklahoma City Barons,12,2014-15,63,32,38,23,1,AHL
+0,Team Canada,0,2014-15,4,0,2,23,-2,Spengler Cup

@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1998-02-21,D,", ",R,Connor Hall
+handed,heigh_and_weight,position,date_of_birth,name
+R,", ",D,1998-02-21,Connor Hall

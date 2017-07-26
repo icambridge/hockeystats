@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1992-04-27, ,D,Aaron Harstad,
+handed,heigh_and_weight,position,date_of_birth,name
+, ,D,1992-04-27,Aaron Harstad

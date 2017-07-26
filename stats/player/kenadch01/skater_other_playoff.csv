@@ -1,0 +1,11 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1995-96,22,0,0,0,0,AHL,2,Worcester IceCats,0
+1996-97,23,0,2,1,0,AHL,5,Worcester IceCats,1
+1997-98,24,1,26,5,0,AHL,11,Worcester IceCats,6
+1998-99,25,0,6,1,0,AHL,2,Hartford Wolf Pack,1
+1999-00,26,8,40,3,0,AHL,21,Hartford Wolf Pack,11
+2000-01,27,2,7,0,0,AHL,5,Hartford Wolf Pack,2
+2001-02,28,4,4,0,0,WCHL,5,Long Beach Ice Dogs,4
+2003-04,30,3,4,1,0,ECHL,5,Las Vegas Wranglers,4
+2004-05,31,3,4,4,0,ECHL,7,Long Beach Ice Dogs,7
+2005-06,32,1,6,0,0,ECHL,6,Las Vegas Wranglers,1

@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1983-84,17,23,0,33,0,High-ME,17,North Yarmouth Academy,56
+1984-85,18,6,0,21,0,High-ME,20,North Yarmouth Academy,27
+1984-85,18,1,8,1,0,WJC-A,7,United States,2
+1985-86,19,0,26,14,0,H-East,34,University of Maine,14
+1985-86,19,1,4,0,0,WJC-A,7,United States,1
+1986-87,20,12,59,32,0,H-East,41,University of Maine,44
+1987-88,21,4,22,7,0,H-East,8,University of Maine,11
+1987-88,21,3,24,9,0,Nat-Tm,38,United States,12
+1987-88,21,0,0,0,0,Olympics,3,United States,0
+1988-89,22,17,70,27,0,AHL,80,Utica Devils,44
+1989-90,23,12,38,48,0,AHL,57,Utica Devils,60
+1990-91,24,2,6,1,0,WEC-A,10,United States,3
+1991-92,25,0,2,0,0,Can-Cup,8,United States,0
+1992-93,26,0,0,1,0,WC-A,6,United States,1
+1996-97,30,0,2,4,0,WC-A,6,United States,4
+1997-98,31,0,16,2,0,WC-A,6,United States,2
+1998-99,32,1,2,2,0,WC-A,6,United States,3
+1999-00,33,0,4,2,1,WC-A,7,United States,2
+2000-01,34,0,8,2,1,WC-A,9,United States,2
+2001-02,35,0,2,1,1,WC-A,3,United States,1
+2003-04,37,0,8,0,3,WC-A,4,United States,0
+2004-05,38,0,0,0,-1,W-Cup,2,United States,0
+2004-05,38,3,8,8,0,Austria,10,EC VSV Villach,11
+2006-07,40,2,34,12,-7,AHL,36,Portland Pirates,14
+2007-08,41,1,68,7,0,AHL,52,Portland Pirates,8

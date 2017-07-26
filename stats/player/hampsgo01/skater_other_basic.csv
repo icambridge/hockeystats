@@ -1,8 +1,8 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-21,1977-78,University of Michigan,7,0,18,36,16,9,WCHA
-24,1978-79,University of Michigan,6,0,19,36,12,6,WCHA
-22,1979-80,University of Michigan,15,0,20,30,22,7,WCHA
-40,1980-81,University of Michigan,23,0,21,40,38,15,WCHA
-48,1981-82,Oklahoma City Stars,23,0,22,71,34,11,CHL
-73,1982-83,Colorado Flames,17,0,23,51,34,17,CHL
-89,1983-84,Colorado Flames,25,0,24,62,44,19,CHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+7,University of Michigan,9,1977-78,36,16,21,18,0,WCHA
+6,University of Michigan,6,1978-79,36,12,24,19,0,WCHA
+15,University of Michigan,7,1979-80,30,22,22,20,0,WCHA
+23,University of Michigan,15,1980-81,40,38,40,21,0,WCHA
+23,Oklahoma City Stars,11,1981-82,71,34,48,22,0,CHL
+17,Colorado Flames,17,1982-83,51,34,73,23,0,CHL
+25,Colorado Flames,19,1983-84,62,44,89,24,0,CHL

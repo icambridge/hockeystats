@@ -1,0 +1,16 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1980-81,18,5,8,12,0,WHL,11,Regina Pats,17
+1981-82,19,16,23,24,0,WHL,12,Regina Pats,40
+1982-83,20,0,0,2,0,AHL,8,Maine Mariners,2
+1983-84,21,0,2,0,0,AHL,4,Springfield Indians,0
+1984-85,22,7,0,7,0,IHL,11,Kalamazoo Wings,14
+1985-86,23,6,12,9,0,IHL,14,Muskegon Lumberjacks,15
+1986-87,24,2,8,14,0,IHL,15,Muskegon Lumberjacks,16
+1987-88,25,2,18,0,0,IHL,6,Muskegon Lumberjacks,2
+1988-89,26,9,24,12,0,IHL,13,Muskegon Lumberjacks,21
+1989-90,27,8,10,14,0,IHL,15,Muskegon Lumberjacks,22
+1990-91,28,2,4,2,0,IHL,5,Muskegon Lumberjacks,4
+1991-92,29,9,4,8,0,IHL,13,Muskegon Lumberjacks,17
+1992-93,30,1,4,2,0,IHL,4,Cleveland Lumberjacks,3
+1994-95,32,0,0,0,0,IHL,1,Cleveland Lumberjacks,0
+1995-96,33,1,4,0,0,IHL,3,Cleveland Lumberjacks,1

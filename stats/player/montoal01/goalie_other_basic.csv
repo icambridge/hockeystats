@@ -1,0 +1,22 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,High-MN,28,Loyola Academy,1685,14,13,0,0,56,0,0,3,1,12,0,0,0,0,0,1999-00,0,1.99,0,0
+0,NAHL,15,Texas Tornado,780,15,3,0,0,38,0,0,0,0,10,0,0,0,0,0,2000-01,0,2.92,0,0
+0,Nat-Tm,2,United States,120,15,0,0,0,4,0,0,0,0,2,0,0,0,0,0,2000-01,0,2.00,0,0
+0,U-17,10,U.S. National Team Development Program,570,16,5,0,0,24,0,0,0,0,5,0,0,0,0,0,2001-02,0,2.53,0,0
+0,NAHL,24,U.S. National Team Development Program,1344,16,11,0,0,79,0,0,4,0,6,0,0,0,0,0,2001-02,0,3.53,0,0
+0,CCHA,43,University of Michigan,2547,17,10,0,2,99,0,0,3,4,30,2,0,0,0,0,2002-03,0,2.33,8,0
+0,CCHA,40,University of Michigan,2340,18,12,0,0,87,0,0,2,6,26,0,0,0,0,0,2003-04,0,2.23,32,0
+0,WJC-A,6,United States,360,18,0,0,0,8,0,0,0,2,6,0,0,0,0,.944,2003-04,144,1.33,0,136
+0,CCHA,40,University of Michigan,2359,19,7,0,3,99,0,0,3,3,30,3,0,0,0,0,2004-05,0,2.52,24,0
+0,WJC-A,6,United States,393,19,0,0,0,22,0,0,0,0,0,0,0,0,0,.904,2004-05,229,3.36,0,207
+0,AHL,40,Hartford Wolf Pack,2094,20,9,0,4,91,0,0,1,2,23,4,0,0,0,.907,2005-06,980,2.61,0,889
+0,ECHL,2,Charlotte Checkers,123,20,1,0,0,8,0,0,0,0,1,0,0,0,0,.875,2005-06,64,3.90,0,56
+0,AHL,48,Hartford Wolf Pack,2556,21,17,0,5,98,0,0,0,6,27,5,0,0,0,.914,2006-07,1140,2.30,23,1042
+0,AHL,45,2 Teams,2493,22,14,0,2,106,0,0,3,1,24,2,0,0,0,.909,2007-08,1170,2.55,8,1064
+0,AHL,31,Hartford Wolf Pack,1704,22,8,0,1,72,0,0,3,0,16,1,0,0,0,.908,2007-08,785,2.54,6,713
+0,AHL,14,San Antonio Rampage,789,22,6,0,1,34,0,0,0,1,8,1,0,0,0,.912,2007-08,385,2.59,2,351
+0,AHL,29,San Antonio Rampage,1562,23,17,0,1,84,0,0,2,0,7,1,0,0,0,.885,2008-09,733,3.23,4,649
+0,WC-A,1,United States,60,23,0,0,0,2,0,0,0,0,1,0,0,0,0,.875,2008-09,16,2.00,0,14
+0,AHL,14,San Antonio Rampage,771,24,7,0,0,34,0,0,1,0,4,0,0,0,0,.904,2009-10,356,2.65,12,322
+0,AHL,21,San Antonio Rampage,1130,25,8,0,2,60,0,0,0,0,11,2,0,0,0,.891,2010-11,551,3.19,2,491
+0,WC-A,4,United States,208,25,1,0,0,9,0,0,0,0,2,0,0,0,0,.852,2010-11,61,2.60,0,52

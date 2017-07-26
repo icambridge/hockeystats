@@ -1,0 +1,16 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1993-94,16,0,6,0,0,WHL,16,Saskatoon Blades,0
+1995-96,18,0,12,0,0,WHL,4,Lethbridge Hurricanes,0
+1996-97,19,4,60,14,0,WHL,19,Lethbridge Hurricanes,18
+1997-98,20,3,41,3,0,WHL,9,Brandon Wheat Kings,6
+1998-99,21,1,2,0,0,AHL,3,Adirondack Red Wings,1
+1999-00,22,2,2,0,0,AHL,5,Philadelphia Phantoms,2
+2000-01,23,1,16,6,0,AHL,10,Philadelphia Phantoms,7
+2001-02,24,0,0,0,0,AHL,5,Philadelphia Phantoms,0
+2003-04,26,0,12,5,-4,AHL,12,Philadelphia Phantoms,5
+2004-05,27,0,4,1,-3,AHL,5,Houston Aeros,1
+2005-06,28,4,4,5,-5,AHL,8,Houston Aeros,9
+2006-07,29,1,0,3,0,Swiss,5,HC Geneve-Servette,4
+2007-08,30,6,4,6,0,Swiss,11,HC Geneve-Servette,12
+2008-09,31,2,0,2,0,Swiss,7,HC Fribourg-Gotteron,4
+2009-10,32,1,2,6,0,Swiss,6,HC Ambri-Piotta,7

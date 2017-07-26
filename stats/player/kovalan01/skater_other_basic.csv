@@ -1,0 +1,35 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1987-88,17,1,0,0,0,USSR-Q,2,Torpedo Gorky,1
+1988-89,18,8,29,7,0,USSR-2,30,SKA MVO Kalinin,15
+1988-89,18,1,0,0,0,USSR,10,CSKA Moscow,1
+1989-90,19,8,20,5,0,USSR,48,CSKA Moscow,13
+1989-90,19,0,4,0,0,Fr-Tour,1,CSKA Moscow,0
+1989-90,19,5,8,6,0,WJC-A,7,Soviet Union,11
+1990-91,20,13,26,8,0,USSR,45,CSKA Moscow,21
+1990-91,20,1,2,0,0,Fr-Tour,1,CSKA Moscow,1
+1990-91,20,6,2,3,0,Super-S,7,CSKA Moscow,9
+1991-92,21,1,10,2,0,Can-Cup,5,Soviet Union,3
+1991-92,21,19,32,13,0,CIS,44,CSKA Moscow,32
+1991-92,21,1,0,1,0,CIS-3,1,CSKA Moscow 2,2
+1991-92,21,1,2,1,0,Olympics,8,Russia,2
+1991-92,21,3,2,1,0,WC-A,6,Russia,4
+1992-93,22,3,4,1,0,CIS,3,CSKA Moscow,4
+1993-94,23,3,2,5,0,WC-A,6,Russia,8
+1994-95,24,9,14,2,0,CIS,11,Lada Togliatti,11
+1996-97,26,2,4,0,0,W-Cup,5,Russia,2
+1997-98,27,4,14,1,0,Olympics,6,Russia,5
+1999-00,29,0,0,0,-2,WC-A,6,Russia,0
+2001-02,31,27,62,20,0,Russia,51,Lokomotiv Yaroslavl,47
+2001-02,31,0,4,4,1,WC-A,8,Russia,4
+2002-03,32,14,62,16,0,Russia,51,Lokomotiv Yaroslavl,30
+2003-04,33,23,56,11,0,Russia,59,Lokomotiv Yaroslavl,34
+2004-05,34,0,6,0,0,W-Cup,2,Russia,0
+2004-05,34,3,6,3,0,Russia-3,7,Lokomotiv Yaroslavl 2,6
+2004-05,34,8,67,10,0,Russia,37,2 Teams,18
+2004-05,34,0,2,1,0,Russia,4,Lokomotiv Yaroslavl,1
+2004-05,34,8,65,9,0,Russia,33,Avangard Omsk,17
+2005-06,35,11,28,10,0,Russia,38,2 Teams,21
+2005-06,35,1,8,3,0,Russia,12,Avangard Omsk,4
+2005-06,35,10,20,7,0,Russia,26,Severstal Cherepovets,17
+2006-07,36,21,30,8,0,Russia,50,Severstal Cherepovets,29
+2007-08,37,9,36,8,0,Russia,48,Severstal Cherepovets,17

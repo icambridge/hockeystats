@@ -1,11 +1,11 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-8,Lulea HF U18,3,0,7,Swe-U18,7,2003-04,17,4
-2,Lulea HF Jr.,2,0,4,Swe-Jr.,7,2004-05,18,2
-8,Lulea HF Jr.,1,0,4,Swe-Jr.,4,2005-06,19,3
-20,Lulea HF,0,0,0,Sweden,4,2005-06,19,0
-4,Lulea HF,0,0,2,Sweden,4,2006-07,20,2
-0,Lulea HF,1,0,5,Sweden,5,2008-09,22,4
-8,Dynamo Moscow,0,0,1,KHL,2,2009-10,23,1
-6,Norfolk Admirals,0,0,1,AHL,6,2010-11,24,1
-0,Lulea HF,1,0,2,Sweden,5,2011-12,25,1
-0,Brynas IF Gavle,0,0,0,Sweden,4,2012-13,26,0
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+3,Lulea HF U18,4,2003-04,7,7,8,17,0,Swe-U18
+2,Lulea HF Jr.,2,2004-05,7,4,2,18,0,Swe-Jr.
+1,Lulea HF Jr.,3,2005-06,4,4,8,19,0,Swe-Jr.
+0,Lulea HF,0,2005-06,4,0,20,19,0,Sweden
+0,Lulea HF,2,2006-07,4,2,4,20,0,Sweden
+1,Lulea HF,4,2008-09,5,5,0,22,0,Sweden
+0,Dynamo Moscow,1,2009-10,2,1,8,23,0,KHL
+0,Norfolk Admirals,1,2010-11,6,1,6,24,0,AHL
+1,Lulea HF,1,2011-12,5,2,0,25,0,Sweden
+0,Brynas IF Gavle,0,2012-13,4,0,0,26,0,Sweden

@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1980-81,16,14,0,39,0,SJHL,73,Prince Albert Raiders,53
+1981-82,17,20,163,51,0,SJHL,60,Prince Albert Raiders,71
+1982-83,18,2,52,14,0,CCHA,38,Michigan Tech Huskies,16
+1983-84,19,4,63,15,0,CCHA,38,Michigan Tech Huskies,19
+1984-85,20,5,76,27,0,WCHA,36,Michigan Tech Huskies,32
+1985-86,21,7,51,16,0,WCHA,39,Michigan Tech Huskies,23
+1986-87,22,1,36,17,0,Nat-Tm,61,Canada,18
+1987-88,23,2,18,8,0,Nat-Tm,32,Canada,10
+1987-88,23,10,42,19,0,IHL,48,Salt Lake Golden Eagles,29
+1988-89,24,7,70,46,0,IHL,76,Salt Lake Golden Eagles,53
+1989-90,25,7,28,5,0,Finland,32,Tappara Tampere,12
+1989-90,25,0,0,1,0,Nat-Tm,6,Canada,1
+1990-91,26,0,6,1,0,Nat-Tm,8,Canada,1
+1990-91,26,1,18,8,0,Finland,41,Tappara Tampere,9
+1991-92,27,2,28,6,0,France,14,HC Amiens,8
+1992-93,28,14,18,12,0,France,14,HC Amiens,26
+1993-94,29,12,36,18,0,France,26,HC Amiens,30
+1994-95,30,8,38,14,0,Germany,43,EC Hannover,22
+1995-96,31,7,34,13,0,Germany,44,2 Teams,20
+1995-96,31,5,28,11,0,Germany,37,EC Hannover,16
+1995-96,31,2,6,2,0,Germany,7,Augsburger Panther,4
+1996-97,32,5,30,10,0,France,31,HC Amiens,15
+1997-98,33,10,48,20,0,France,40,HC Amiens,30
+1997-98,33,1,8,2,0,EuroHL,6,HC Amiens,3
+1998-99,34,10,61,15,0,France,48,HC Amiens,25

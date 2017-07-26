@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1950-51,16,0,2,0,0,OHA-Jr.,5,St. Michael\'s Majors,0
+1951-52,17,11,44,16,0,OHA-Jr.,46,St. Michael\'s Majors,27
+1952-53,18,5,75,16,0,OHA-Jr.,46,St. Michael\'s Majors,21
+1953-54,19,14,24,27,0,OHA-Jr.,54,St. Michael\'s Majors,41
+1954-55,20,5,63,7,0,AHL,57,Pittsburgh Hornets,12
+1955-56,21,2,24,5,0,AHL,16,Pittsburgh Hornets,7
+1960-61,26,2,30,7,0,AHL,33,Hershey Bears,9
+1961-62,27,3,42,18,0,AHL,70,Hershey Bears,21
+1962-63,28,5,42,23,0,AHL,69,Hershey Bears,28
+1963-64,29,5,45,23,0,AHL,69,Hershey Bears,28
+1964-65,30,4,31,28,0,CPHL,68,Tulsa Oilers,32
+1965-66,31,0,2,3,0,AHL,2,Rochester Americans,3
+1965-66,31,8,43,25,0,CPHL,68,Tulsa Oilers,33
+1966-67,32,7,59,18,0,CPHL,62,Tulsa Oilers,25
+1966-67,32,0,0,0,0,AHL,2,Rochester Americans,0
+1967-68,33,8,40,22,0,AHL,70,Rochester Americans,30
+1968-69,34,0,2,6,0,AHL,11,Rochester Americans,6
+1968-69,34,4,31,19,0,WHL,59,Vancouver Canucks,23
+1969-70,35,10,36,25,0,WHL,72,Vancouver Canucks,35
+1970-71,36,0,6,3,0,AHL,6,Rochester Americans,3

@@ -1,6 +1,6 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-10,1957-58,Hamilton Tiger Cubs,8,0,19,15,15,7,OHA-Jr.
-0,1958-59,Edmonton Flyers,0,0,20,2,0,0,WHL
-0,1961-62,Edmonton Flyers,2,0,23,4,2,0,WHL
-0,1962-63,Los Angeles Blades,3,0,24,3,4,1,WHL
-2,1963-64,St. Louis Braves,2,0,25,6,3,1,CPHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+8,Hamilton Tiger Cubs,7,1957-58,15,15,10,19,0,OHA-Jr.
+0,Edmonton Flyers,0,1958-59,2,0,0,20,0,WHL
+2,Edmonton Flyers,0,1961-62,4,2,0,23,0,WHL
+3,Los Angeles Blades,1,1962-63,3,4,0,24,0,WHL
+2,St. Louis Braves,1,1963-64,6,3,2,25,0,CPHL

@@ -1,0 +1,8 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,QMJHL,3,Val-d\'Or Foreurs,68,16,1,0,0,5,0,0,0,0,0,0,0,0,0,0,1995-96,0,4.41,0,0
+0,QMJHL,13,Val-d\'Or Foreurs,777,17,5,0,0,44,0,0,0,0,8,0,0,0,0,0,1996-97,0,3.40,0,0
+0,QMJHL,17,Val-d\'Or Foreurs,1020,18,3,0,0,37,0,0,0,2,14,0,0,0,0,0,1997-98,0,2.18,0,0
+0,M-Cup,3,Val-d\'Or Foreurs,180,18,3,0,0,19,0,0,0,0,0,0,0,0,0,0,1997-98,0,6.33,0,0
+0,QMJHL,23,Acadie-Bathurst Titan,1400,19,6,0,2,64,0,0,0,0,16,2,0,0,0,0,1998-99,0,2.74,0,0
+0,M-Cup,3,Acadie-Bathurst Titan,180,19,3,0,0,11,0,0,0,0,0,0,0,0,0,0,1998-99,0,3.67,0,0
+0,AHL,6,Lowell Lock Monsters,359,20,3,0,1,18,0,0,0,0,3,1,0,0,0,.919,1999-00,222,3.01,0,204

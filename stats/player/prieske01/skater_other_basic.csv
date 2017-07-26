@@ -1,0 +1,22 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1983-84,16,10,31,18,0,WHL,55,Victoria Cougars,28
+1984-85,17,25,48,37,0,WHL,50,Victoria Cougars,62
+1985-86,18,73,45,72,0,WHL,72,Victoria Cougars,145
+1985-86,18,0,0,2,0,AHL,4,Rochester Americans,2
+1986-87,19,43,37,39,0,WHL,33,Victoria Cougars,82
+1987-88,20,27,47,24,0,AHL,43,Rochester Americans,51
+1988-89,21,56,60,37,0,AHL,64,Rochester Americans,93
+1989-90,22,19,46,39,0,AHL,40,Rochester Americans,58
+1990-91,23,20,34,26,0,Nat-Tm,40,Canada,46
+1991-92,24,4,6,11,0,IHL,13,Muskegon Lumberjacks,15
+1992-93,25,33,72,36,0,IHL,66,Cleveland Lumberjacks,69
+1993-94,26,9,34,5,0,IHL,25,Kalamazoo Wings,14
+1994-95,27,55,18,32,0,Britain,28,Sheffield Steelers,87
+1995-96,28,22,12,20,0,BH-Cup,13,Sheffield Steelers,42
+1995-96,28,58,28,40,0,Britain,36,Sheffield Steelers,98
+1996-97,29,7,2,12,0,BH-Cup,10,Sheffield Steelers,19
+1996-97,29,25,24,12,0,Britain,34,Sheffield Steelers,37
+1997-98,30,8,6,9,0,BH-Cup,11,Sheffield Steelers,17
+1997-98,30,11,24,24,0,Britain,27,Sheffield Steelers,35
+1998-99,31,4,4,10,0,BH-Cup,10,Sheffield Steelers,14
+1998-99,31,19,12,24,0,Britain,41,Sheffield Steelers,43

@@ -1,0 +1,9 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OMJHL,27,Peterborough Petes,1584,17,0,0,0,90,0,0,0,2,0,0,0,0,0,0,1974-75,0,3.41,0,0
+0,OMJHL,58,Peterborough Petes,3282,18,0,0,0,233,0,0,0,0,0,0,0,0,0,0,1975-76,0,4.26,0,0
+0,OMJHL,59,Peterborough Petes,3457,19,0,0,0,244,0,0,0,0,0,0,0,0,0,0,1976-77,0,4.23,0,0
+0,OMJHL,25,Sault Ste. Marie Greyhounds,1469,20,0,0,0,105,0,0,0,1,0,0,0,0,0,0,1977-78,0,4.29,0,0
+0,IHL,3,Kalamazoo Wings,180,20,0,0,0,14,0,0,0,0,0,0,0,0,0,0,1977-78,0,4.67,0,0
+0,WEC-A,5,Canada,300,24,1,0,0,14,0,0,2,1,2,0,0,0,0,0,1981-82,0,2.80,0,0
+0,AHL,11,Maine Mariners,599,34,5,0,0,37,0,0,2,0,2,0,0,0,0,0,1991-92,0,3.71,0,0
+0,IHL,5,San Diego Gulls,296,34,3,0,0,20,0,0,0,0,2,0,0,0,0,0,1991-92,0,4.05,0,0

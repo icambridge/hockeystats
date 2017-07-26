@@ -1,0 +1,39 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1979-80,17,28,50,44,0,QMJHL,70,Montreal Juniors,72
+1980-81,18,24,45,32,0,ECAC,31,Providence College,56
+1981-82,19,18,31,18,0,ECAC,28,Providence College,36
+1982-83,20,30,32,39,0,ECAC,40,Providence College,69
+1983-84,21,21,0,28,0,ECAC,30,Providence College,49
+1983-84,21,8,2,7,0,AHL,11,Rochester Americans,15
+1984-85,22,26,62,30,0,AHL,49,Rochester Americans,56
+1985-86,23,4,10,0,0,AHL,3,Rochester Americans,4
+1986-87,24,22,42,42,0,AHL,44,Rochester Americans,64
+1987-88,25,49,66,44,0,Italy,36,HC Merano,93
+1987-88,25,4,18,13,0,AHL,13,Rochester Americans,17
+1988-89,26,57,66,45,0,Italy,44,HC Bolzano,102
+1989-90,27,64,18,62,0,Italy,36,HC Bolzano,126
+1989-90,27,9,6,4,0,WEC-B,7,Italy,13
+1990-91,28,39,29,33,0,Italy,27,HC Bolzano,72
+1990-91,28,8,2,4,0,WEC-B,7,Italy,12
+1991-92,29,8,2,7,0,Alpenliga,11,HC Devils Milano,15
+1991-92,29,21,12,22,0,Italy,18,HC Milano Saima,43
+1991-92,29,0,4,3,0,WC-A,5,Italy,3
+1992-93,30,19,46,27,0,Alpenliga,25,HC Lion Milano,46
+1992-93,30,9,14,18,0,Italy,16,HC Lion Milano,27
+1992-93,30,1,2,0,0,WC-A,6,Italy,1
+1993-94,31,16,29,31,0,Alpenliga,30,HC Devils Milano,47
+1993-94,31,16,10,44,0,Italy,20,SG Milano Saima,60
+1993-94,31,3,4,6,0,Olympics,7,Italy,9
+1993-94,31,3,6,4,0,WC-A,6,Italy,7
+1994-95,32,24,58,31,0,Swiss,36,SC Bern,55
+1994-95,32,1,12,2,0,WC-A,6,Italy,3
+1995-96,33,15,62,26,0,Swiss,34,SC Bern,41
+1995-96,33,2,6,5,0,WC-A,6,Italy,7
+1996-97,34,26,34,56,0,Swiss,46,SC Bern,82
+1996-97,34,4,10,6,0,EuroHL,6,SC Bern,10
+1996-97,34,5,14,4,0,WC-A,8,Italy,9
+1997-98,35,16,73,32,0,Swiss,38,SC Bern,48
+1997-98,35,1,4,2,0,Olympics,4,Italy,3
+1997-98,35,3,2,2,0,WC-A,6,Italy,5
+1998-99,36,12,34,20,0,Swiss,28,HC Lugano,32
+1998-99,36,0,4,1,0,WC-A,3,Italy,1

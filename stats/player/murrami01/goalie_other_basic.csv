@@ -1,0 +1,20 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHA-Jr.,3,Peterborough Juniors,180,18,1,0,0,15,0,0,0,0,2,0,0,0,0,0,1916-17,0,5.00,0,0
+0,OHA-Jr.,3,Peterborough Juniors,180,19,0,0,0,7,0,0,0,0,3,0,0,0,0,0,1917-18,0,2.33,0,0
+0,OHA-Sr.,4,Peterborough Seniors,240,22,3,0,0,22,0,0,0,0,1,0,0,0,0,0,1920-21,0,5.50,0,0
+0,OHA-Sr.,20,Galt Terriers,1200,26,12,0,0,48,0,0,1,1,7,0,0,0,0,0,1924-25,0,2.40,0,0
+0,OHA-Sr.,20,Galt Terriers,1200,27,4,0,0,33,0,0,2,3,14,0,0,0,0,0,1925-26,0,1.65,0,0
+0,OHA-Sr.,10,Galt Terriers,600,28,6,0,0,30,0,0,0,0,4,0,0,0,0,0,1926-27,0,3.00,0,0
+0,Can-Am,24,2 Teams,1510,29,12,0,0,46,0,0,5,2,7,0,0,0,0,0,1927-28,0,1.83,0,0
+0,Can-Am,21,Providence Reds,1310,29,10,0,0,42,0,0,5,1,6,0,0,0,0,0,1927-28,0,1.92,0,0
+0,Can-Am,3,Philadelphia Arrows,200,29,2,0,0,4,0,0,0,1,1,0,0,0,0,0,1927-28,0,1.20,0,0
+0,Can-Am,40,Providence Reds,2540,30,12,0,0,58,0,0,0,12,18,0,0,0,0,0,1928-29,0,1.37,0,0
+0,Can-Am,39,Providence Reds,2394,31,11,0,0,96,0,0,5,6,23,0,0,0,0,0,1929-30,0,2.41,0,0
+0,Can-Am,40,Providence Reds,2470,32,11,0,0,96,0,0,6,4,23,0,0,0,0,0,1930-31,0,2.33,0,0
+0,Can-Am,38,Philadelphia Arrows,2352,33,20,0,0,97,0,0,5,3,13,0,0,0,0,0,1931-32,0,2.47,0,0
+0,AHA,48,St. Louis Flyers,3050,35,18,0,0,84,0,0,4,7,26,0,0,0,0,0,1933-34,0,1.65,0,0
+0,AHA,46,St. Louis Flyers,2920,36,14,0,0,97,0,0,3,6,29,0,0,0,0,0,1934-35,0,1.99,0,0
+0,AHA,47,St. Louis Flyers,2941,37,16,0,0,87,0,0,4,9,27,0,0,0,0,0,1935-36,0,1.77,0,0
+0,AHA,36,Kansas City Greyhounds,2189,38,13,0,0,54,0,0,2,11,21,0,0,0,0,0,1936-37,0,1.48,0,0
+0,AHA,48,Kansas City Greyhounds,3005,39,22,0,0,120,0,0,5,0,21,0,0,0,0,0,1937-38,0,2.40,0,0
+0,AHA,4,St. Paul Saints,240,40,3,0,0,20,0,0,0,1,1,0,0,0,0,0,1938-39,0,5.00,0,0

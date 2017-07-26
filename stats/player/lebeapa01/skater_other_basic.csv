@@ -1,0 +1,31 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1984-85,14,16,0,19,0,QAAA,38,Montreal L\'est Cantonniers,35
+1985-86,15,43,0,47,0,QAAA,42,Montreal L\'est Cantonniers,90
+1986-87,16,26,88,52,0,QMJHL,66,Shawinigan Cataractes,78
+1987-88,17,43,116,56,0,QMJHL,53,Shawinigan Cataractes,99
+1988-89,18,62,89,87,0,QMJHL,66,2 Teams,149
+1988-89,18,19,18,17,0,QMJHL,17,Shawinigan Cataractes,36
+1988-89,18,43,71,70,0,QMJHL,49,St-Jean Castors,113
+1989-90,19,68,109,106,0,QMJHL,72,2 Teams,174
+1989-90,19,53,76,85,0,QMJHL,57,St-Jean Lynx,138
+1989-90,19,15,33,21,0,QMJHL,15,Victoriaville Tigres,36
+1990-91,20,50,32,51,0,AHL,69,Fredericton Canadiens,101
+1991-92,21,33,48,38,0,AHL,55,Fredericton Canadiens,71
+1991-92,21,4,6,2,0,Nat-Tm,7,Canada,6
+1991-92,21,1,4,3,0,Olympics,8,Canada,4
+1992-93,22,40,65,60,0,IHL,75,Salt Lake Golden Eagles,100
+1993-94,23,47,90,42,0,IHL,74,Cincinnati Cyclones,89
+1994-95,24,27,22,25,0,Swiss,36,Zurcher SC,52
+1995-96,25,6,0,8,0,Swiss,11,Zurcher SC,14
+1995-96,25,13,18,8,0,Germany,17,Dusseldorfer EG,21
+1996-97,26,27,26,19,0,Swiss,38,Zurcher SC,46
+1997-98,27,17,32,45,0,Swiss,40,HC La Chaux-de-Fonds,62
+1999-00,29,25,32,38,0,Swiss,44,HC Ambri-Piotta,63
+2000-01,30,9,31,10,0,Swiss,22,ZSC Lions Zurich,19
+2000-01,30,1,0,0,0,Con-Cup,3,ZSC Lions Zurich,1
+2001-02,31,3,2,15,0,Swiss-2,5,HC La Chaux-de-Fonds,18
+2002-03,32,22,10,15,0,Germany,31,Frankfurt Lions,37
+2003-04,33,23,46,46,0,Germany,51,Frankfurt Lions,69
+2004-05,34,29,44,65,0,Germany,52,Frankfurt Lions,94
+2005-06,35,13,47,33,0,Germany,39,Frankfurt Lions,46
+2006-07,36,11,36,24,0,Germany,33,Frankfurt Lions,35

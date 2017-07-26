@@ -1,0 +1,33 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1982-83,16,0,0,0,0,USSR,7,Khimik Voskresensk,0
+1983-84,17,0,0,0,0,USSR,2,Khimik Voskresensk,0
+1986-87,20,11,28,6,0,USSR,40,Khimik Voskresensk,17
+1987-88,21,16,16,11,0,USSR,43,Khimik Voskresensk,27
+1988-89,22,20,18,12,0,USSR,44,Khimik Voskresensk,32
+1988-89,22,3,6,3,0,WEC-A,10,Soviet Union,6
+1989-90,23,25,33,28,0,USSR,46,Khimik Voskresensk,53
+1989-90,23,0,0,0,0,Fr-Tour,1,Khimik Voskresensk,0
+1989-90,23,3,2,4,0,Super-S,6,Khimik Voskresensk,7
+1990-91,24,12,18,10,0,USSR,42,Khimik Voskresensk,22
+1990-91,24,3,2,5,0,Super-S,7,Khimik Voskresensk,8
+1990-91,24,0,0,1,0,WEC-A,7,Soviet Union,1
+1991-92,25,60,16,58,0,IHL,77,San Diego Gulls,118
+1992-93,26,0,0,0,0,CIS,3,Khimik Voskresensk,0
+1993-94,27,13,8,13,0,AHL,23,Providence Bruins,26
+1994-95,28,24,30,18,0,Swiss,27,HC Ambri-Piotta,42
+1995-96,29,22,36,38,0,Swiss,31,HC Ambri-Piotta,60
+1995-96,29,4,2,4,0,WC-A,8,Russia,8
+1996-97,30,30,30,32,0,Swiss,44,HC Ambri-Piotta,62
+1997-98,31,18,6,19,0,Alpenliga,21,Klagenfurter AC,37
+1997-98,31,16,47,19,0,Austria,24,Klagenfurter AC,35
+1998-99,32,34,18,21,0,Alpenliga,32,Klagenfurter AC,55
+1998-99,32,16,4,18,0,Austria,22,Klagenfurter AC,34
+1999-00,33,4,10,4,0,Germany,15,Adler Mannheim,8
+1999-00,33,9,10,8,0,Finland,27,Jokerit Helsinki,17
+2000-01,34,21,47,18,0,Russia,38,Ak Bars Kazan,39
+2001-02,35,16,32,24,0,Russia,51,Ak Bars Kazan,40
+2002-03,36,12,14,16,0,Russia,44,Ak Bars Kazan,28
+2003-04,37,12,12,14,0,Russia,43,Ak Bars Kazan,26
+2004-05,38,7,8,9,0,Russia,35,2 Teams,16
+2004-05,38,7,6,8,0,Russia,29,Severstal Cherepovets,15
+2004-05,38,0,2,1,0,Russia,6,Khimik Moscow Region (Voskresensk),1

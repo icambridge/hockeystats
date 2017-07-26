@@ -1,0 +1,34 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2003-04,16,23,44,14,0,Nor-U18,24,Frisk-Asker U18,37
+2003-04,16,7,14,14,0,Nor-Jr.,20,Frisk-Asker Jr.,21
+2003-04,16,0,8,2,-3,WJ18-A,6,Norway,2
+2004-05,17,11,50,18,0,Nor-U18,12,Frisk-Asker U18,29
+2004-05,17,19,16,17,0,Nor-Jr.,27,Frisk-Asker Jr.,36
+2004-05,17,0,0,0,0,Norway,1,Frisk-Asker IF,0
+2004-05,17,2,6,3,1,WJ18-B,5,Norway,5
+2005-06,18,7,0,0,0,Nor-Jr.,2,Frisk Asker IF/NTG,7
+2005-06,18,5,12,3,0,Norway,21,Frisk-Asker IF,8
+2005-06,18,0,4,2,-5,WJC-A,6,Norway,2
+2006-07,19,34,36,25,0,Norway,43,Frisk-Asker IF,59
+2006-07,19,2,2,5,-1,WJC-B,5,Norway,7
+2007-08,20,24,48,40,0,Norway,33,Frisk-Asker IF,64
+2007-08,20,1,2,0,-5,WC-A,7,Norway,1
+2008-09,21,12,38,28,0,Sweden,35,MODO Hockey Ornskoldsvik,40
+2008-09,21,0,0,0,0,Oly-Q,3,Norway,0
+2008-09,21,3,8,0,0,WC-A,6,Norway,3
+2008-09,21,12,38,28,10,SEL,35,MODO Hockey Ornskoldsvik,40
+2009-10,22,23,62,41,0,Sweden,55,MODO Hockey Ornskoldsvik,64
+2009-10,22,1,2,2,1,Olympics,4,Norway,3
+2009-10,22,3,6,1,-1,WC-A,6,Norway,4
+2009-10,22,23,62,41,6,SEL,55,MODO Hockey Ornskoldsvik,64
+2010-11,23,13,16,16,2,AHL,36,Hartford Wolf Pack/CT Whale,29
+2010-11,23,13,16,16,2,AHL,36,Connecticut Whale,29
+2011-12,24,12,22,24,5,AHL,37,Connecticut Whale,36
+2012-13,25,11,30,17,0,KHL,44,Metallurg Magnitogorsk,28
+2013-14,26,0,2,0,-2,Internationa,3,Norway (all),0
+2013-14,26,0,2,0,-2,Olympics,3,Norway,0
+2015-16,28,1,4,2,-2,Internationa,7,Norway (all),3
+2015-16,28,1,4,2,-2,WC,7,Norway,3
+2016-17,29,3,8,4,1,Internationa,4,Norway (all),7
+2016-17,29,2,0,3,2,OGQ,3,Norway,5
+2016-17,29,1,4,3,2,WCup,6,Team Europe,4

@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,17,28,34,40,0,AMHL,35,Leduc Oil Barons,68
+1995-96,18,8,24,7,0,WHL,58,Saskatoon Blades,15
+1996-97,19,38,79,26,0,WHL,72,Saskatoon Blades,64
+1997-98,20,40,87,52,0,WHL,72,Saskatoon Blades,92
+1998-99,21,15,31,9,0,AHL,36,Syracuse Crunch,24
+1999-00,22,20,109,33,0,AHL,62,Wilkes-Barre Scranton Pens,53
+2000-01,23,14,89,18,1,AHL,73,Wilkes-Barre Scranton Pens,32
+2001-02,24,20,127,30,-4,AHL,78,Wilkes-Barre Scranton Pens,50
+2002-03,25,11,63,10,0,AHL,54,Saint John Flames,21
+2003-04,26,20,46,22,15,AHL,48,Lowell Lock Monsters,42
+2004-05,27,13,94,13,-24,AHL,65,Utah Grizzlies,26
+2005-06,28,14,50,17,-6,AHL,70,2 Teams,31
+2005-06,28,10,34,7,-9,AHL,41,San Antonio Rampage,17
+2005-06,28,4,16,10,3,AHL,29,Hartford Wolf Pack,14
+2006-07,29,19,76,17,0,Finland,56,KalPa Kuopio,36
+2007-08,30,6,22,19,0,Swiss,20,HC Ambri-Piotta,25
+2008-09,31,1,10,10,0,Sweden,13,Timra IK,11
+2008-09,31,5,52,17,0,Swiss,25,HC Ambri-Piotta,22
+2009-10,32,20,68,22,0,Sweden,42,Timra IK,42

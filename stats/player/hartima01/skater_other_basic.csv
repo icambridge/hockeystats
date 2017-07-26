@@ -1,19 +1,19 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-0,Weyburn Red Wings,32,0,76,SJHL,52,1996-97,19,44
-81,Weyburn Red Wings,46,0,105,SJHL,62,1997-98,20,59
-24,St. Cloud State Huskies,20,0,42,WCHA,37,1999-00,22,22
-20,St. Cloud State Huskies,21,0,48,WCHA,40,2000-01,23,27
-42,St. Cloud State Huskies,38,0,75,WCHA,42,2001-02,24,37
-43,Chicago Wolves,31,6,46,AHL,55,2002-03,25,15
-86,Syracuse Crunch,23,-5,46,AHL,69,2003-04,26,23
-105,Syracuse Crunch,28,2,59,AHL,69,2004-05,27,31
-48,Syracuse Crunch,41,18,75,AHL,49,2005-06,28,34
-71,2 Teams,29,8,57,AHL,59,2006-07,29,28
-51,Syracuse Crunch,13,-3,32,AHL,34,2006-07,29,19
-20,Portland Pirates,16,11,25,AHL,25,2006-07,29,9
-76,Grand Rapids Griffins,19,-6,42,AHL,48,2007-08,30,23
-115,Dynamo Riga,18,0,38,KHL,55,2008-09,31,20
-56,CSKA Moscow,14,0,22,KHL,48,2009-10,32,8
-52,Dynamo Riga,8,0,24,KHL,45,2010-11,33,16
-10,Rapperswil-Jona Lakers,3,0,5,Swiss,15,2011-12,34,2
-20,Linkopings HC,3,0,8,Sweden,23,2011-12,34,5
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+32,Weyburn Red Wings,44,1996-97,52,76,0,19,0,SJHL
+46,Weyburn Red Wings,59,1997-98,62,105,81,20,0,SJHL
+20,St. Cloud State Huskies,22,1999-00,37,42,24,22,0,WCHA
+21,St. Cloud State Huskies,27,2000-01,40,48,20,23,0,WCHA
+38,St. Cloud State Huskies,37,2001-02,42,75,42,24,0,WCHA
+31,Chicago Wolves,15,2002-03,55,46,43,25,6,AHL
+23,Syracuse Crunch,23,2003-04,69,46,86,26,-5,AHL
+28,Syracuse Crunch,31,2004-05,69,59,105,27,2,AHL
+41,Syracuse Crunch,34,2005-06,49,75,48,28,18,AHL
+29,2 Teams,28,2006-07,59,57,71,29,8,AHL
+13,Syracuse Crunch,19,2006-07,34,32,51,29,-3,AHL
+16,Portland Pirates,9,2006-07,25,25,20,29,11,AHL
+19,Grand Rapids Griffins,23,2007-08,48,42,76,30,-6,AHL
+18,Dynamo Riga,20,2008-09,55,38,115,31,0,KHL
+14,CSKA Moscow,8,2009-10,48,22,56,32,0,KHL
+8,Dynamo Riga,16,2010-11,45,24,52,33,0,KHL
+3,Rapperswil-Jona Lakers,2,2011-12,15,5,10,34,0,Swiss
+3,Linkopings HC,5,2011-12,23,8,20,34,0,Sweden

@@ -1,0 +1,9 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+12,NHL,41,0,24,0,109,46,9,40,4,672,STL,4,0,[],2.2,1,8,1,1,0,0,2010-11,52,16:24,0,10,0,4
+30,NHL,61,3,25,0,236,103,32,47,6,1415,TOT,24,0,[],6.8,4,25,-10,7,0,0,2011-12,114,23:12,3,18,1,18
+2,NHL,7,0,25,0,26,10,0,7,0,142,STL,0,0,[],0.0,0,0,-5,0,0,0,2011-12,19,20:15,0,4,0,0
+28,NHL,54,3,25,0,210,93,32,40,6,1273,CBJ,24,0,[],7.5,4,25,-5,7,0,0,2011-12,95,23:35,3,14,1,18
+18,NHL,38,0,26,0,143,60,9,31,1,806,CBJ,11,0,[],5.0,2,6,2,3,0,0,2012-13,56,21:12,1,17,0,5
+21,NHL,66,1,27,0,197,95,15,84,0,1130,CBJ,13,0,[],2.1,2,13,9,2,0,0,2013-14,72,17:07,0,20,0,13
+35,NHL,42,1,28,0,149,80,10,21,1,825,EDM,17,0,[],5.0,2,6,-12,4,0,0,2014-15,49,19:38,2,12,0,5
+4,NHL,11,0,29,0,33,12,1,14,0,163,EDM,0,0,[],0.0,0,1,-5,0,0,0,2015-16,9,14:48,0,8,0,1

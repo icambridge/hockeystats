@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1995-96,15,38,0,40,0,Swe-Jr.,28,IF Troja-Ljungby Jr.,78
+1996-97,16,61,46,69,0,Swe-Jr.,48,IF Troja-Ljungby Jr.,130
+1997-98,17,3,2,2,0,Sweden-2,28,IF Troja-Ljungby,5
+1997-98,17,2,4,1,0,EJC-A,6,Sweden,3
+1998-99,18,20,30,20,0,Sweden-2,38,IF Troja-Ljungby,40
+1998-99,18,0,2,3,0,WJC-A,6,Sweden,3
+1999-00,19,2,2,2,0,Swe-Jr.,1,MIF Redhawks Malmo Jr.,4
+1999-00,19,15,6,9,0,Sweden,32,MoDo HK Ornskoldsvik,24
+2000-01,20,16,14,16,0,Sweden,48,MoDo HK Ornskoldsvik,32
+2001-02,21,18,10,16,0,Sweden,50,MODO Hockey Ornskoldsvik,34
+2001-02,21,3,4,4,3,WC-A,9,Sweden,7
+2002-03,22,9,14,12,2,AHL,23,Bridgeport Sound Tigers,21
+2003-04,23,3,10,6,7,AHL,10,Bridgeport Sound Tigers,9
+2004-05,24,26,18,20,0,Sweden,50,MODO Hockey Ornskoldsvik,46
+2004-05,24,0,0,1,-5,WC-A,8,Sweden,1
+2006-07,26,18,20,27,-15,AHL,48,Houston Aeros,45
+2007-08,27,35,69,27,0,Sweden,54,Linkopings HC,62
+2007-08,27,5,2,8,9,WC-A,9,Sweden,13
+2008-09,28,16,28,17,0,KHL,41,Dynamo Moscow,33
+2008-09,28,5,8,7,1,WC-A,9,Sweden,12
+2009-10,29,26,36,34,0,KHL,56,Dynamo Moscow,60
+2009-10,29,0,2,2,2,Olympics,4,Sweden,2
+2009-10,29,3,0,0,3,WC-A,2,Sweden,3
+2010-11,30,21,42,29,0,KHL,54,SKA St. Petersburg,50
+2011-12,31,13,30,23,0,KHL,45,SKA St. Petersburg,36
+2012-13,32,9,14,7,0,Sweden,30,Linkopings HC,16

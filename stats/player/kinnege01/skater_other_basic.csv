@@ -1,0 +1,16 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1989-90,16,0,19,0,0,ON-Jr.C,1,Norwich Merchants,0
+1989-90,16,2,153,5,0,ON-Jr.B,34,Tillsonburg Titans,7
+1990-91,17,0,51,6,0,ON-Jr.B,6,Peterborough Petes,6
+1990-91,17,1,76,0,0,OHL,37,Peterborough Petes,1
+1991-92,18,5,195,16,0,OHL,63,Peterborough Petes,21
+1992-93,19,6,161,22,0,OHL,58,Peterborough Petes,28
+1993-94,20,3,197,12,0,AHL,59,Albany River Rats,15
+1994-95,21,5,136,11,0,AHL,68,Albany River Rats,16
+1995-96,22,4,170,7,0,AHL,73,Albany River Rats,11
+1996-97,23,2,175,9,0,AHL,59,Albany River Rats,11
+1997-98,24,1,206,15,21,AHL,78,Albany River Rats,16
+1998-99,25,1,162,13,23,AHL,55,Albany River Rats,14
+1999-00,26,1,231,5,1,IHL,69,Orlando Solar Bears,6
+2000-01,27,0,41,0,5,IHL,11,Orlando Solar Bears,0
+2000-01,27,1,48,1,0,AHL,14,Albany River Rats,2

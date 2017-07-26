@@ -1,0 +1,10 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+WHA,0,0,24,0,67,0,,NYJ,[],0,17,43,0,24,2,1973-74,,5,132,0,0
+WHA,78,0,25,280,81,0,,SDM,"[{'link': '/awards/wha_all_star.html#1975', 'name': None}]",7.1,12,61,29,20,1,1974-75,,7,143,0,0
+WHA,80,2,26,334,65,0,,SDM,"[{'link': '/awards/wha_all_star.html#1976', 'name': 'ASW-2'}]",6.6,15,43,0,22,0,1975-76,,7,56,0,0
+WHA,75,0,27,247,38,0,,SDM,[],3.2,4,30,-30,8,0,1976-77,,4,68,0,0
+WHA,75,0,28,206,57,0,,INR,[],8.3,10,40,-32,17,1,1977-78,,6,49,0,0
+WHA,32,0,29,55,9,0,,TOT,[],3.6,1,7,-12,2,0,1978-79,,1,14,0,0
+WHA,5,0,29,10,2,0,,INR,[],0.0,0,2,-10,0,0,1978-79,,0,0,0,0
+WHA,27,0,29,45,7,0,,QBN,[],4.4,1,5,-2,2,0,1978-79,,1,14,0,0
+NHL,41,1,30,64,15,6,,CLR,[],6.3,2,11,-6,4,0,1979-80,,2,23,0,5

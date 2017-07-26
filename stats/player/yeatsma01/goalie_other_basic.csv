@@ -1,0 +1,15 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WHL,1,Lethbridge Hurricanes,20,16,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1995-96,0,9.00,0,0
+0,AJHL,32,Olds Grizzlys,1678,17,0,0,0,95,0,0,0,1,0,0,0,0,0,0,1996-97,0,3.40,0,0
+0,AJHL,26,Olds Grizzlys,1498,18,12,0,0,96,0,0,1,0,12,0,0,0,0,0,1997-98,0,3.85,0,0
+0,H-East,32,University of Maine,1821,20,6,0,2,79,0,0,4,0,20,2,0,0,0,0,1999-00,0,2.60,0,0
+0,H-East,33,University of Maine,1897,21,9,0,0,76,0,0,4,2,18,0,0,0,0,0,2000-01,0,2.40,0,0
+0,H-East,20,University of Maine,1048,22,8,0,0,54,0,0,3,0,6,0,0,0,0,0,2001-02,0,3.09,0,0
+0,AHL,2,Philadelphia Phantoms,90,23,1,0,0,4,0,0,0,0,1,0,0,0,0,.902,2002-03,41,2.67,2,37
+0,ECHL,48,Atlantic City,2811,23,16,0,1,141,0,0,8,4,23,1,0,0,0,.896,2002-03,1361,3.01,0,1220
+0,AHL,7,Portland Pirates,332,24,1,0,0,12,0,0,1,1,2,0,0,0,0,0,2003-04,0,2.17,0,0
+0,ECHL,17,2 Teams,1027,25,3,0,1,40,0,0,3,1,10,1,0,0,0,.917,2004-05,481,2.34,0,441
+0,ECHL,13,Reading Royals,780,25,2,0,1,31,0,0,2,1,8,1,0,0,0,.918,2004-05,378,2.38,0,347
+0,ECHL,4,Idaho Steelheads,247,25,1,0,0,9,0,0,1,0,2,0,0,0,0,.913,2004-05,103,2.19,0,94
+0,ECHL,35,Idaho Steelheads,1980,26,7,0,0,98,0,0,5,1,21,0,0,0,0,.895,2005-06,929,2.97,0,831
+0,ECHL,60,Texas Wildcatters,3342,27,19,0,0,165,0,0,7,6,32,0,0,0,0,0,2006-07,0,2.96,0,0

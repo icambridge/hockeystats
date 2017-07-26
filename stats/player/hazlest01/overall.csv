@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1957-12-12,", ",LW,Steve Hazlett,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",LW,1957-12-12,Steve Hazlett

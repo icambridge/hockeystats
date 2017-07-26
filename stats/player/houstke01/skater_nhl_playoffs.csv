@@ -1,0 +1,9 @@
+even_strength_goals,assists,team,goals,pim,age,game_winning_goals,total_ice_time,league,shorthanded_goals,shots,average_ice_time,year,games_played,shotsPercentage,win,power_play_goals,points,plus_minus
+0,0,ATF,0,0,22,0,,NHL,0,0,,1975-76,2,0,,0,0,0
+0,0,ATF,0,4,23,0,,NHL,0,2,,1976-77,3,0.0,,0,0,0
+0,0,ATF,0,0,24,0,,NHL,0,4,,1977-78,2,0.0,,0,0,-3
+0,0,ATF,0,16,25,0,,NHL,0,0,,1978-79,1,0,,0,0,-1
+1,1,ATF,1,10,26,0,,NHL,0,11,,1979-80,4,9.1,,0,2,-2
+2,8,CGY,7,28,27,1,,NHL,0,34,,1980-81,16,20.6,,5,15,2
+1,0,CGY,1,4,28,0,,NHL,0,7,,1981-82,3,14.3,,0,1,-1
+1,0,WSH,1,4,29,0,,NHL,0,5,,1982-83,4,20.0,,0,1,-2

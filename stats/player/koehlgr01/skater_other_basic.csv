@@ -1,0 +1,30 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1992-93,17,24,125,19,0,ON-Jr.B,40,Niagara Falls Devils,43
+1993-94,18,27,179,47,0,ON-Jr.A,49,North York Rangers,74
+1994-95,19,28,126,43,0,ON-Jr.A,47,North York Rangers,71
+1995-96,20,33,87,64,0,ON-Jr.A,49,Brampton Capitals,97
+1996-97,21,16,49,20,0,H-East,37,U. of Massachusetts-Lowell,36
+1997-98,22,20,62,17,0,H-East,33,U. of Massachusetts-Lowell,37
+1997-98,22,0,2,0,0,AHL,3,Beast of New Haven,0
+1998-99,23,4,29,0,1,AHL,26,Beast of New Haven,4
+1998-99,23,13,62,14,12,ECHL,29,Florida Everblades,27
+1999-00,24,12,157,13,-7,IHL,74,Cincinnati Cyclones,25
+2000-01,25,35,122,36,-10,IHL,80,Cincinnati Cyclones,71
+2001-02,26,26,92,22,-23,AHL,78,2 Teams,48
+2001-02,26,18,58,18,-16,AHL,56,Lowell Lock Monsters,36
+2001-02,26,8,34,4,-7,AHL,22,Philadelphia Phantoms,12
+2002-03,27,17,77,23,9,AHL,56,2 Teams,40
+2002-03,27,16,51,10,1,AHL,43,Milwaukee Admirals,26
+2002-03,27,1,26,13,8,AHL,13,Manchester Monarchs,14
+2003-04,28,20,35,26,2,UHL,37,Elmira Jackals,46
+2003-04,28,1,12,4,-4,AHL,24,3 Teams,5
+2003-04,28,0,2,0,-1,AHL,2,Syracuse Crunch,0
+2003-04,28,1,4,2,-4,AHL,12,San Antonio Rampage,3
+2003-04,28,0,6,2,1,AHL,10,Manchester Monarchs,2
+2004-05,29,42,164,56,-7,UHL,75,2 Teams,98
+2004-05,29,26,96,32,-10,UHL,44,Elmira Jackals,58
+2004-05,29,16,68,24,3,UHL,31,Adirondack Frostbite,40
+2005-06,30,20,84,23,13,UHL,38,Adirondack Frostbite,43
+2006-07,31,15,81,29,-20,UHL,72,2 Teams,44
+2006-07,31,11,39,16,-13,UHL,38,Chicago Hounds,27
+2006-07,31,4,42,13,-7,UHL,34,Bloomington Prairie Thunder,17

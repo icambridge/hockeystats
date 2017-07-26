@@ -1,0 +1,13 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+0,NHL,69,2,20,0,0,114,32,0,15,1382,CHI,0,0,"[{'link': '/awards/voting-2006.html#calder', 'name': 'Calder-13'}]",4.4,4,27,5,5,0,0,2005-06,0,20:02,1,60,0,12
+0,NHL,81,0,21,0,0,144,24,0,4,1683,CHI,0,0,[],2.8,4,20,-6,4,0,0,2006-07,0,20:46,0,104,2,14
+41,NHL,82,2,22,1,250,152,32,167,8,1763,CHI,21,0.0,[],5.9,5,23,13,9,0,0,2007-08,106,21:30,4,90,1,14
+35,NHL,82,1,23,0,269,132,26,224,5,1912,CHI,26,0,[],6.1,4,18,23,8,0,1,2008-09,113,23:19,3,62,0,13
+43,NHL,78,2,24,0,285,129,30,208,6,1811,CHI,24,0,"[{'link': '/awards/voting-2010.html#AS', 'name': 'AS-10'}, {'link': '/awards/voting-2010.html#norris', 'name': 'Norris-13'}]",3.1,4,26,20,4,0,0,2009-10,153,23:13,0,59,2,18
+69,NHL,82,1,25,0,289,135,48,227,15,2000,CHI,27,0,"[{'link': '/awards/voting-2011.html#AS', 'name': 'AS-15'}]",6.7,4,39,0,9,0,0,2010-11,154,24:23,5,47,2,22
+57,NHL,78,3,26,0,304,156,34,198,2,1929,CHI,34,0,[],5.8,7,25,21,9,0,0,2011-12,165,24:43,2,22,1,22
+40,NHL,47,1,27,0,148,65,20,106,4,1034,CHI,15,0,[],12.3,5,12,12,8,0,0,2012-13,103,22:00,3,23,0,8
+68,NHL,82,0,28,0,317,149,41,171,6,1826,CHI,35,0,"[{'link': '/awards/voting-2014.html#AS', 'name': 'AS-18'}, {'link': '/awards/voting-2014.html#norris', 'name': 'Norris-17'}]",4.7,3,34,23,7,0,1,2013-14,142,22:16,3,22,0,28
+65,NHL,82,2,29,0,379,181,31,135,11,1819,CHI,27,0,[],4.4,4,23,-3,8,0,0,2014-15,141,22:11,4,27,1,11
+89,NHL,81,3,30,0,354,167,49,121,19,1849,CHI,19,0,"[{'link': '/awards/voting-2016.html#AS', 'name': 'AS-20'}, {'link': '/awards/voting-2016.html#norris', 'name': 'Norris-20'}]",8.4,8,35,6,14,0,0,2015-16,150,22:49,6,32,0,16
+88,NHL,79,0,31,1,298,131,39,111,12,1729,CHI,24,0.0,[],2.3,1,36,5,3,0,0,2016-17,147,21:54,2,26,0,24

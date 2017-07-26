@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1983-84,16,18,32,36,0,MTHL,35,Mississauga Reps,54
+1984-85,17,12,155,9,0,OHL,63,Peterborough Petes,21
+1985-86,18,14,125,18,0,OHL,52,Peterborough Petes,32
+1986-87,19,17,204,37,0,OHL,62,Peterborough Petes,54
+1987-88,20,12,139,21,0,IHL,80,Fort Wayne Komets,33
+1988-89,21,11,235,23,0,AHL,80,Baltimore Skipjacks,34
+1989-90,22,5,63,4,0,AHL,23,Baltimore Skipjacks,9
+1990-91,23,6,177,20,0,AHL,48,Baltimore Skipjacks,26
+1991-92,24,16,247,15,0,AHL,60,Moncton Hawks,31
+1992-93,25,16,147,21,0,AHL,56,Moncton Hawks,37
+1993-94,26,25,280,32,0,AHL,69,Moncton Hawks,57
+1994-95,27,16,373,38,0,AHL,78,Springfield Indians,54
+1995-96,28,10,263,28,0,AHL,74,Springfield Falcons,38
+1996-97,29,16,234,27,0,AHL,78,Springfield Falcons,43
+1997-98,30,7,255,30,8,AHL,80,Springfield Falcons,37
+1998-99,31,6,197,19,-7,AHL,68,Springfield Falcons,25
+1999-00,32,12,170,23,-9,AHL,77,2 Teams,35
+1999-00,32,1,70,3,-1,AHL,22,Springfield Falcons,4
+1999-00,32,11,100,20,-8,AHL,55,Hamilton Bulldogs,31
+2000-01,33,6,108,8,-32,AHL,76,2 Teams,14
+2000-01,33,3,65,6,-16,AHL,46,Philadelphia Phantoms,9
+2000-01,33,3,43,2,-16,AHL,30,Springfield Falcons,5
+2001-02,34,7,97,14,-5,AHL,80,Saint John Flames,21
+2002-03,35,2,94,10,-5,AHL,71,Springfield Falcons,12

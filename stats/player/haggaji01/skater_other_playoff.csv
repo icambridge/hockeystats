@@ -1,18 +1,18 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1932-33,Port Arthur Ports,0,0,18,2,0,0,TBJHL
-0,1932-33,Port Arthur Ports,1,0,18,4,3,2,M-Cup
-0,1933-34,Port Arthur Ports,0,0,19,2,3,3,TBJHL
-2,1933-34,Port Arthur Ports,4,0,19,5,14,10,M-Cup
-5,1934-35,Port Arthur Ports,1,0,20,3,6,5,TBSHL
-4,1934-35,Port Arthur Bearcats,1,0,20,7,9,8,Al-Cup
-2,1939-40,Montreal Royals,2,0,25,4,2,0,QSHL
-0,1939-40,Montreal Royals,1,0,25,2,2,1,Al-Cup
-14,1940-41,Montreal Royals,3,0,26,9,5,2,QSHL
-8,1940-41,Montreal Royals,6,0,26,14,13,7,Al-Cup
-4,1942-43,Montreal RCAF,1,0,28,12,9,8,QSHL
-0,1943-44,Malton RCAF,3,0,29,2,8,5,TNDHL
-0,1945-46,Montreal Royals,0,0,31,3,1,1,QSHL
-2,1946-47,Montreal Royals,0,0,32,10,3,3,QSHL
-0,1946-47,Montreal Royals,2,0,32,6,3,1,Al-Cup
-0,1947-48,Montreal Royals,0,0,33,3,0,0,QSHL
-0,1948-49,Montreal Royals,7,0,34,9,8,1,QSHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Port Arthur Ports,0,1932-33,2,0,0,18,0,TBJHL
+1,Port Arthur Ports,2,1932-33,4,3,0,18,0,M-Cup
+0,Port Arthur Ports,3,1933-34,2,3,0,19,0,TBJHL
+4,Port Arthur Ports,10,1933-34,5,14,2,19,0,M-Cup
+1,Port Arthur Ports,5,1934-35,3,6,5,20,0,TBSHL
+1,Port Arthur Bearcats,8,1934-35,7,9,4,20,0,Al-Cup
+2,Montreal Royals,0,1939-40,4,2,2,25,0,QSHL
+1,Montreal Royals,1,1939-40,2,2,0,25,0,Al-Cup
+3,Montreal Royals,2,1940-41,9,5,14,26,0,QSHL
+6,Montreal Royals,7,1940-41,14,13,8,26,0,Al-Cup
+1,Montreal RCAF,8,1942-43,12,9,4,28,0,QSHL
+3,Malton RCAF,5,1943-44,2,8,0,29,0,TNDHL
+0,Montreal Royals,1,1945-46,3,1,0,31,0,QSHL
+0,Montreal Royals,3,1946-47,10,3,2,32,0,QSHL
+2,Montreal Royals,1,1946-47,6,3,0,32,0,Al-Cup
+0,Montreal Royals,0,1947-48,3,0,0,33,0,QSHL
+7,Montreal Royals,1,1948-49,9,8,0,34,0,QSHL

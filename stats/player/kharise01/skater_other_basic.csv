@@ -1,0 +1,30 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1980-81,17,0,0,0,0,USSR,2,Krylja Sovetov Moscow,0
+1980-81,17,6,2,6,0,EJC-A,5,Soviet Union,12
+1981-82,18,4,10,3,0,USSR,34,Krylja Sovetov Moscow,7
+1982-83,19,5,20,5,0,USSR,49,Krylja Sovetov Moscow,10
+1982-83,19,8,2,2,0,WJC-A,7,Soviet Union,10
+1983-84,20,5,18,3,0,USSR,33,Krylja Sovetov Moscow,8
+1984-85,21,12,6,8,0,USSR,34,Krylja Sovetov Moscow,20
+1985-86,22,15,19,14,0,USSR,38,Krylja Sovetov Moscow,29
+1986-87,23,16,14,11,0,USSR,40,Krylja Sovetov Moscow,27
+1987-88,24,17,20,13,0,USSR,45,Krylja Sovetov Moscow,30
+1988-89,25,15,14,9,0,USSR,44,Krylja Sovetov Moscow,24
+1989-90,26,12,28,5,0,USSR,47,Krylja Sovetov Moscow,17
+1989-90,26,0,0,1,0,Fr-Tour,1,Krylja Sovetov Moscow,1
+1989-90,26,0,4,2,0,Super-S,5,Krylja Sovetov Moscow,2
+1990-91,27,22,38,18,0,AHL,66,Moncton Hawks,40
+1991-92,28,10,15,12,0,AHL,40,Halifax Citadels,22
+1992-93,29,0,0,3,0,ECHL,2,Birmingham Bulls,3
+1992-93,29,13,25,18,0,IHL,60,Cincinnati Cyclones,31
+1993-94,30,30,56,59,0,ECHL,59,Dayton Bombers,89
+1994-95,31,14,24,29,0,IHL,56,Cincinnati Cyclones,43
+1995-96,32,7,25,9,0,ECHL,25,Dayton Bombers,16
+1995-96,32,7,10,12,0,AHL,28,Worcester IceCats,19
+1996-97,33,32,32,40,0,ColHL,68,2 Teams,72
+1996-97,33,20,20,24,0,ColHL,49,Port Huron Border Cats,44
+1996-97,33,12,12,16,0,ColHL,19,Muskegon Fury,28
+1997-98,34,36,38,86,0,UHL,74,Muskegon Fury,122
+1998-99,35,37,77,63,43,UHL,70,Muskegon Fury,100
+1999-00,36,11,13,50,4,UHL,59,Muskegon Fury,61
+2000-01,37,8,46,30,0,UHL,66,Muskegon Fury,38

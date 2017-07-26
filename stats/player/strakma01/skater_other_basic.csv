@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1989-90,17,0,0,3,0,Czech,1,Skoda Plzen,3
+1989-90,17,4,2,2,0,EJC-A,6,Czechoslovakia,6
+1990-91,18,7,6,24,0,Czech,47,HC Skoda Plzen,31
+1990-91,18,1,0,5,0,WJC-A,6,Czechoslovakia,6
+1991-92,19,27,20,28,0,Czech,50,HC Skoda Plzen,55
+1991-92,19,2,4,6,0,WJC-A,7,Czechoslovakia,8
+1992-93,20,4,0,3,0,IHL,4,Cleveland Lumberjacks,7
+1993-94,21,1,4,0,0,WC-A,3,Czech Republic,1
+1994-95,22,10,18,11,0,CzRep,19,HC Interconex Plzen,21
+1996-97,24,0,0,0,0,W-Cup,1,Czech Republic,0
+1997-98,25,1,0,2,0,Olympics,6,Czech Republic,3
+2002-03,30,6,4,4,5,WC-A,9,Czech Republic,10
+2003-04,31,2,4,2,2,WC-A,7,Czech Republic,4
+2004-05,32,1,0,2,1,W-Cup,5,Czech Republic,3
+2004-05,32,16,76,18,0,CzRep,45,HC Lasselsberger Plzen,34
+2004-05,32,3,8,1,6,WC-A,9,Czech Republic,4
+2005-06,33,2,6,6,4,Olympics,8,Czech Republic,8
+2008-09,36,22,20,30,0,CzRep,51,HC Lasselsberger Plzen,52
+2009-10,37,17,32,26,0,CzRep,35,HC Plzen 1929,43
+2010-11,38,17,12,44,0,CzRep,51,HC Plzen 1929,61
+2011-12,39,17,20,30,0,CzRep,51,HC Plzen 1929,47
+2012-13,40,15,18,39,0,CzRep,47,HC Skoda Plzen,54

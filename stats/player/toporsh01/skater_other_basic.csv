@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1990-91,15,19,91,13,0,SMHL,30,Prince Albert Midget Raiders,32
+1991-92,16,23,91,29,0,SMHL,27,Prince Albert Mintos,52
+1991-92,16,2,2,0,0,WHL,6,Prince Albert Raiders,2
+1992-93,17,25,235,32,0,WHL,72,Prince Albert Raiders,57
+1993-94,18,37,183,45,0,WHL,68,Prince Albert Raiders,82
+1994-95,19,36,151,38,0,WHL,72,Prince Albert Raiders,74
+1995-96,20,11,216,26,0,AHL,72,St. John\'s Maple Leafs,37
+1996-97,21,20,210,17,0,AHL,72,St. John\'s Maple Leafs,37
+1997-98,22,9,128,21,-5,AHL,73,Worcester IceCats,30
+1998-99,23,18,124,29,-13,AHL,75,Worcester IceCats,47
+1999-00,24,27,191,28,-2,AHL,80,Springfield Falcons,55
+2000-01,25,2,6,1,0,Britain,4,Belfast Giants,3
+2000-01,25,14,106,11,0,Finland,29,Blues Espoo,25
+2001-02,26,0,2,0,0,Russia,3,Amur Khabarovsk,0
+2001-02,26,14,71,11,0,Sweden,30,Lulea HF,25
+2002-03,27,11,142,16,0,Germany,50,ERC Ingolstadt,27
+2003-04,28,5,119,18,0,Finland,48,2 Teams,23
+2003-04,28,3,30,6,0,Finland,27,Pelicans Lahti,9
+2003-04,28,2,89,12,0,Finland,21,Ilves Tampere,14
+2004-05,29,17,131,18,0,Finland,54,Lukko Rauma,35
+2005-06,30,12,135,17,0,Finland,53,Lukko Rauma,29
+2006-07,31,19,86,34,0,Finland,55,Lukko Rauma,53
+2007-08,32,12,97,22,0,Finland,54,Lukko Rauma,34
+2008-09,33,18,107,28,0,Finland,56,SaiPa Lappeenranta,46
+2009-10,34,22,111,20,0,Finland,57,SaiPa Lappeenranta,42
+2010-11,35,16,46,17,0,Finland,58,Tappara Tampere,33

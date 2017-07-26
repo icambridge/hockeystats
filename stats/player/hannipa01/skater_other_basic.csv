@@ -1,20 +1,20 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-17,1953-54,St. Michael\'s Majors,2,0,17,20,3,1,OHA-Jr.
-40,1954-55,St. Michael\'s Majors,19,0,18,44,32,13,OHA-Jr.
-121,1955-56,St. Michael\'s Majors,31,0,19,46,69,38,OHA-Jr.
-82,1956-57,Winnipeg Warriors,19,0,20,67,31,12,WHL
-67,1957-58,New Westminster Royals,28,0,21,52,54,26,WHL
-4,1957-58,Rochester Americans,4,0,21,8,4,0,AHL
-73,1958-59,New Westminster Royals,46,0,22,69,83,37,WHL
-91,1959-60,Rochester Americans,33,0,23,65,62,29,AHL
-4,1960-61,Rochester Americans,6,0,24,13,11,5,AHL
-35,1962-63,Baltimore Clippers,20,0,26,40,36,16,AHL
-43,1963-64,Portland Buckaroos,8,0,27,34,20,12,WHL
-20,1963-64,Buffalo Bisons,24,0,27,40,33,9,AHL
-118,1964-65,Buffalo Bisons,54,0,28,72,92,38,AHL
-69,1965-66,Buffalo Bisons,43,0,29,66,64,21,AHL
-37,1966-67,Buffalo Bisons,38,0,30,68,56,18,AHL
-37,1968-69,Buffalo Bisons,25,0,32,31,39,14,AHL
-2,1968-69,Vancouver Canucks,4,0,32,12,8,4,WHL
-47,1969-70,Vancouver Canucks,42,0,33,69,70,28,WHL
-0,1970-71,Phoenix Roadrunners,2,0,34,10,3,1,WHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+2,St. Michael\'s Majors,1,1953-54,20,3,17,17,0,OHA-Jr.
+19,St. Michael\'s Majors,13,1954-55,44,32,40,18,0,OHA-Jr.
+31,St. Michael\'s Majors,38,1955-56,46,69,121,19,0,OHA-Jr.
+19,Winnipeg Warriors,12,1956-57,67,31,82,20,0,WHL
+28,New Westminster Royals,26,1957-58,52,54,67,21,0,WHL
+4,Rochester Americans,0,1957-58,8,4,4,21,0,AHL
+46,New Westminster Royals,37,1958-59,69,83,73,22,0,WHL
+33,Rochester Americans,29,1959-60,65,62,91,23,0,AHL
+6,Rochester Americans,5,1960-61,13,11,4,24,0,AHL
+20,Baltimore Clippers,16,1962-63,40,36,35,26,0,AHL
+8,Portland Buckaroos,12,1963-64,34,20,43,27,0,WHL
+24,Buffalo Bisons,9,1963-64,40,33,20,27,0,AHL
+54,Buffalo Bisons,38,1964-65,72,92,118,28,0,AHL
+43,Buffalo Bisons,21,1965-66,66,64,69,29,0,AHL
+38,Buffalo Bisons,18,1966-67,68,56,37,30,0,AHL
+25,Buffalo Bisons,14,1968-69,31,39,37,32,0,AHL
+4,Vancouver Canucks,4,1968-69,12,8,2,32,0,WHL
+42,Vancouver Canucks,28,1969-70,69,70,47,33,0,WHL
+2,Phoenix Roadrunners,1,1970-71,10,3,0,34,0,WHL

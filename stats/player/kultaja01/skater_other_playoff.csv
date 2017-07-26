@@ -1,0 +1,13 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,22,0,8,0,0,Finland,3,KalPa Kuopio,0
+1997-98,25,0,2,1,0,Finland,8,HIFK Helsinki,1
+1998-99,26,1,27,0,0,Finland,10,HIFK Helsinki,1
+1998-99,26,0,2,1,0,EuroHL,4,HIFK Helsinki,1
+1999-00,27,0,6,0,0,Finland,9,HIFK Helsinki,0
+1999-00,27,0,2,0,0,EuroHL,2,HIFK Helsinki,0
+2002-03,30,0,6,0,-2,AHL,4,Providence Bruins,0
+2003-04,31,1,0,1,0,Finland,13,HIFK Helsinki,2
+2004-05,32,1,25,0,0,Finland,5,HIFK Helsinki,1
+2005-06,33,0,2,0,0,Sweden,4,Mora IK,0
+2006-07,34,0,8,1,0,Sweden,3,Mora IK,1
+2008-09,36,1,16,3,0,Finland,14,Blues Espoo,4

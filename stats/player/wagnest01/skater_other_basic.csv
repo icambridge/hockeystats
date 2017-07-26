@@ -1,0 +1,16 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2002-03,18,0,69,6,-8,USHL,41,2 Teams,6
+2002-03,18,0,17,1,-7,USHL,14,Des Moines Buccaneers,1
+2002-03,18,0,52,5,-1,USHL,27,Tri-City Storm,5
+2003-04,19,3,52,19,20,USHL,43,Tri-City Storm,22
+2004-05,20,1,40,9,0,WCHA,37,Minnesota State-Mankato,10
+2005-06,21,5,53,11,0,WCHA,38,Minnesota State-Mankato,16
+2006-07,22,6,63,23,0,WCHA,38,Minnesota State-Mankato,29
+2006-07,22,1,8,2,-2,AHL,14,Peoria Rivermen,3
+2007-08,23,5,16,7,2,AHL,23,Peoria Rivermen,12
+2008-09,24,6,38,16,-10,AHL,47,Peoria Rivermen,22
+2009-10,25,4,30,18,-9,AHL,66,2 Teams,22
+2009-10,25,3,20,12,-9,AHL,46,Peoria Rivermen,15
+2009-10,25,1,10,6,0,AHL,20,Wilkes-Barre Penguins,7
+2010-11,26,5,43,23,16,AHL,69,Wilkes-Barre Penguins,28
+2011-12,27,2,32,15,0,Germany,45,Adler Mannheim,17

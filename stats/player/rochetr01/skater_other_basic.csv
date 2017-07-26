@@ -1,0 +1,15 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1996-97,18,17,159,40,0,BCHL,49,Trail Smoke Eaters,57
+1997-98,19,11,104,31,0,BCHL,38,Trail Smoke Eaters,42
+1999-00,21,6,60,22,0,WCHA,42,University of North Dakota,28
+2000-01,22,11,42,38,0,WCHA,42,University of North Dakota,49
+2001-02,23,13,107,21,2,AHL,60,Houston Aeros,34
+2002-03,24,14,42,34,12,AHL,65,Houston Aeros,48
+2003-04,25,8,18,30,0,AHL,60,Houston Aeros,38
+2004-05,26,12,59,38,25,AHL,73,Chicago Wolves,50
+2005-06,27,8,73,31,2,AHL,59,Chicago Wolves,39
+2006-07,28,1,16,8,-1,AHL,17,San Antonio Rampage,9
+2007-08,29,6,65,35,13,AHL,71,San Antonio Rampage,41
+2008-09,30,16,113,31,0,Swiss,49,SC Bern,47
+2009-10,31,8,50,22,0,Swiss,47,SC Bern,30
+2010-11,32,9,16,32,0,Swiss,39,SC Bern,41

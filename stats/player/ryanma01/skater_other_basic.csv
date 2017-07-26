@@ -1,0 +1,11 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2001-02,18,7,32,12,0,CHA,32,Niagara University,19
+2002-03,19,6,14,2,0,CHA,9,Niagara University,8
+2002-03,19,14,34,11,0,OHL,48,Guelph Storm,25
+2003-04,20,42,63,35,0,OHL,68,Guelph Storm,77
+2004-05,21,9,59,15,-7,AHL,77,Manchester Monarchs,24
+2005-06,22,12,79,12,4,AHL,68,Manchester Monarchs,24
+2006-07,23,8,50,16,13,AHL,56,Manchester Monarchs,24
+2007-08,24,8,74,6,-4,AHL,65,Manchester Monarchs,14
+2008-09,25,11,57,7,0,Germany,25,Augsburger Panther,18
+2009-10,26,13,64,25,0,Germany,54,Augsburger Panther,38

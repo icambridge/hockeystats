@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1989-90,17,22,0,30,0,High-MA,20,Cushing Academy Penguins,52
+1990-91,18,29,0,42,0,High-MA,25,Cushing Academy Penguins,71
+1991-92,19,9,43,9,0,H-East,23,Boston University Terriers,18
+1991-92,19,3,10,4,0,WJC-A,7,United States,7
+1992-93,20,0,13,1,0,H-East,4,Boston University Terriers,1
+1992-93,20,22,55,28,0,WHL,45,Seattle Thunderbirds,50
+1993-94,21,27,117,23,0,Nat-Tm,58,United States,50
+1993-94,21,3,16,1,0,Olympics,8,United States,4
+1993-94,21,2,0,1,0,IHL,2,San Diego Gulls,3
+1993-94,21,1,29,0,0,WC-A,8,United States,1
+1994-95,22,9,71,15,0,IHL,45,San Diego Gulls,24
+1995-96,23,2,34,4,0,AHL,12,Baltimore Bandits,6
+1995-96,23,12,112,20,0,IHL,64,Los Angeles Ice Dogs,32
+1996-97,24,0,2,0,0,IHL,1,Detroit Vipers,0
+1996-97,24,12,145,25,0,AHL,64,2 Teams,37
+1996-97,24,0,15,2,0,AHL,1,Rochester Americans,2
+1996-97,24,12,130,23,0,AHL,63,Providence Bruins,35
+1997-98,25,9,120,14,0,Germany,44,Dusseldorfer EG,23
+1998-99,26,0,27,0,0,WC-Q,3,United States,0
+1998-99,26,3,38,4,0,Germany,26,2 Teams,7
+1998-99,26,1,22,3,0,Germany,18,Kassel Huskies,4
+1998-99,26,2,16,1,0,Germany,8,Schwenninger Wild Wings,3
+1999-00,27,8,182,14,0,Germany,59,Schwenninger Wild Wings,22
+2000-01,28,28,149,32,0,WCHL,62,Long Beach Ice Dogs,60
+2001-02,29,14,163,25,20,WCHL,51,Long Beach Ice Dogs,39

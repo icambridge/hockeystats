@@ -1,0 +1,20 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,ON-Jr.A,23,Cumberland Grads,1009,16,3,0,0,41,0,0,1,1,13,0,0,0,0,0,2002-03,0,2.44,0,0
+0,OHL,26,Guelph Storm,1462,17,4,0,0,66,0,0,3,0,16,0,0,0,0,0,2003-04,0,2.71,0,0
+0,OHL,31,Guelph Storm,1821,18,14,0,0,80,0,0,3,2,13,0,0,0,0,0,2004-05,0,2.64,0,0
+0,OHL,57,Kingston Frontenacs,3319,19,15,0,0,172,0,0,6,3,32,0,0,0,0,0,2005-06,0,3.11,0,0
+0,ECHL,20,3 Teams,1105,20,8,0,0,76,0,0,3,0,7,0,0,0,0,0,2006-07,0,4.13,0,0
+0,ECHL,17,Bakersfield Condors,969,20,7,0,0,70,0,0,2,0,7,0,0,0,0,0,2006-07,0,4.33,0,0
+0,ECHL,1,Wheeling Nailers,62,20,0,0,0,4,0,0,1,0,0,0,0,0,0,0,2006-07,0,3.87,0,0
+0,ECHL,2,Texas Wildcatters,74,20,1,0,0,2,0,0,0,0,0,0,0,0,0,0,2006-07,0,1.62,0,0
+0,AHL,23,Manchester Monarchs,1275,21,5,0,1,51,0,0,2,4,13,1,0,0,0,.921,2007-08,643,2.40,4,592
+0,ECHL,5,Reading Royals,182,21,0,0,0,8,0,0,0,0,3,0,0,0,0,.917,2007-08,96,2.64,0,88
+0,AHL,15,Manchester Monarchs,744,22,4,0,0,33,0,0,2,0,7,0,0,0,0,.909,2008-09,362,2.66,0,329
+0,AHL,9,Syracuse Crunch,397,23,4,0,0,24,0,0,0,0,2,0,0,0,0,.896,2009-10,231,3.63,0,207
+0,ECHL,37,Gwinnett Gladiators,2181,23,13,0,0,126,0,0,5,1,18,0,0,0,0,0,2009-10,0,3.47,0,0
+0,AHL,4,Springfield Falcons,230,24,2,0,0,9,0,0,0,0,2,0,0,0,0,.929,2010-11,127,2.35,0,118
+0,Germany,28,Hamburg Freezers,1679,24,14,0,1,81,0,0,0,1,14,1,0,0,0,0,2010-11,0,2.89,4,0
+0,AHL,43,2 Teams,2327,25,13,0,0,89,0,0,3,5,22,0,0,0,0,.924,2011-12,1172,2.29,0,1083
+0,AHL,10,Springfield Falcons,512,25,3,0,0,22,0,0,0,0,5,0,0,0,0,.914,2011-12,256,2.58,0,234
+0,AHL,33,Abbotsford Heat,1815,25,10,0,0,67,0,0,3,5,17,0,0,0,0,.927,2011-12,916,2.21,0,849
+0,AHL,40,Abbotsford Heat,2108,26,10,0,1,72,0,0,2,3,18,1,0,0,0,.922,2012-13,927,2.05,2,855

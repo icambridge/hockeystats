@@ -1,0 +1,11 @@
+won,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+,0,NHL,9,MTL,555,21,3,0,0,22,0,0,0,0,0,0,0,0,0,0,1966-67,0,0,0,0
+SC,0,NHL,2,MTL,113,22,1,0,0,4,0,0,0,0,1,0,0,0,0,0,1967-68,0,2.12,0,0
+SC,0,NHL,8,MTL,507,23,1,0,0,12,0,0,0,1,7,0,0,0,0,0,1968-69,0,0,2,0
+,0,NHL,4,LAK,240,28,4,0,0,7,0,0,0,0,0,0,0,0,0,0,1973-74,0,1.75,0,0
+,0,NHL,3,LAK,199,29,2,0,0,7,0,0,0,0,1,0,0,0,0,0,1974-75,0,2.11,0,0
+,0,NHL,7,LAK,438,30,3,0,0,17,0,0,0,1,4,0,0,0,0,0,1975-76,0,2.33,0,0
+,0,NHL,9,LAK,520,31,0,0,0,36,0,0,0,0,4,0,0,0,0,0,1976-77,0,4.15,0,0
+,0,NHL,2,LAK,120,32,2,0,0,11,0,0,0,0,0,0,0,0,0,0,1977-78,0,5.50,2,0
+,0,NHL,3,BOS,164,35,2,0,0,16,0,0,0,0,0,0,0,0,0,0,1980-81,0,5.85,0,0
+,0,NHL,1,BOS,20,36,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1981-82,0,3.00,0,0

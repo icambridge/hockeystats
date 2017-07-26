@@ -1,9 +1,9 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1903-04,Winnipeg Rowing Club,0,0,22,3,1,1,St-Cup
-5,1906-07,Brandon Elks,0,0,25,2,5,5,MHL-Pro
-9,1908-09,Winnipeg Maple Leafs,1,0,27,2,3,2,MHL-Pro
-0,1911-12,Quebec Bulldogs,0,0,30,2,2,2,NHA
-2,1911-12,Quebec Bulldogs,0,0,30,2,2,2,St-Cup
-0,1912-13,Quebec Bulldogs,0,0,31,2,32,3,NHA
-0,1912-13,Quebec Bulldogs,0,0,31,2,3,3,St-Cup
-6,1918-19,Montreal Canadiens,0,0,37,5,0,0,St-Cup
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Winnipeg Rowing Club,1,1903-04,3,1,0,22,0,St-Cup
+0,Brandon Elks,5,1906-07,2,5,5,25,0,MHL-Pro
+1,Winnipeg Maple Leafs,2,1908-09,2,3,9,27,0,MHL-Pro
+0,Quebec Bulldogs,2,1911-12,2,2,0,30,0,NHA
+0,Quebec Bulldogs,2,1911-12,2,2,2,30,0,St-Cup
+0,Quebec Bulldogs,3,1912-13,2,32,0,31,0,NHA
+0,Quebec Bulldogs,3,1912-13,2,3,0,31,0,St-Cup
+0,Montreal Canadiens,0,1918-19,5,0,6,37,0,St-Cup

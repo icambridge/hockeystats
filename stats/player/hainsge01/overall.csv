@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1895-06-26,G,", ",L,George Hainsworth
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",G,1895-06-26,George Hainsworth

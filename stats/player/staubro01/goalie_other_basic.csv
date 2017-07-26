@@ -1,0 +1,17 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,High-MN,22,Duluth-Denfield Wildcats,990,17,0,0,0,27,0,0,0,0,0,0,0,0,0,0,1984-85,0,1.64,0,0
+0,High-MN,27,Duluth-Denfield Wildcats,1215,18,0,0,0,66,0,0,0,0,0,0,0,0,0,0,1985-86,0,3.26,0,0
+0,WCHA,20,University of Minnesota,1072,19,5,0,0,63,0,0,0,0,13,0,0,0,0,0,1986-87,0,3.53,0,0
+0,WJC-A,4,United States,220,19,0,0,0,17,0,0,0,0,0,0,0,0,0,0,1986-87,0,4.64,0,0
+0,WCHA,44,University of Minnesota,2621,20,10,0,0,119,0,0,0,5,34,0,0,0,0,0,1987-88,0,2.72,0,0
+0,WCHA,34,University of Minnesota,2024,21,8,0,0,82,0,0,0,0,26,0,0,0,0,0,1988-89,0,2.43,0,0
+0,WEC-A,6,United States,313,21,3,0,0,19,0,0,0,0,3,0,0,0,0,0,1988-89,0,3.64,0,0
+0,AHL,14,New Haven Nighthawks,851,22,6,0,0,43,0,0,2,0,6,0,0,0,0,0,1989-90,0,3.03,0,0
+0,AHL,33,New Haven Nighthawks,1882,23,16,0,0,115,0,0,4,1,13,0,0,0,0,0,1990-91,0,3.67,0,0
+0,IHL,4,Phoenix Roadrunners,160,23,2,0,0,11,0,0,0,0,1,0,0,0,0,0,1990-91,0,4.13,0,0
+0,IHL,22,Phoenix Roadrunners,1242,24,12,0,0,80,0,0,1,0,8,0,0,0,0,0,1991-92,0,3.86,0,0
+0,IHL,3,Phoenix Roadrunners,121,26,1,0,0,13,0,0,0,0,1,0,0,0,0,0,1993-94,0,6.45,0,0
+0,AHL,16,Rochester Americans,833,28,7,0,0,49,0,0,1,0,6,0,0,0,0,.896,1995-96,470,3.53,0,421
+0,AHL,30,Portland Pirates,1606,29,13,0,0,82,0,0,2,0,13,0,0,0,0,.897,1996-97,797,3.06,0,715
+0,AHL,39,Hartford Wolf Pack,2221,30,10,0,0,89,0,0,6,2,20,0,0,0,0,.920,1997-98,1119,2.40,0,1030
+0,IHL,5,Manitoba Moose,213,31,1,0,0,17,0,0,1,0,2,0,0,0,0,.811,1998-99,90,4.79,0,73

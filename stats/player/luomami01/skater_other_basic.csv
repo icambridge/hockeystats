@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1993-94,17,1,6,3,0,Fin-Jr.,13,Diskos Jyvaskyla Jr.,4
+1994-95,18,8,34,17,0,Fin-Jr.,23,Diskos Jyvaskyla Jr.,25
+1994-95,18,1,2,2,0,Finland-3,7,Diskos Jyvaskyla,3
+1995-96,19,4,56,10,0,Fin-Jr.,27,Diskos Jyvaskyla Jr.,14
+1995-96,19,0,2,0,0,Finland-2,11,Diskos Jyvaskyla,0
+1996-97,20,2,4,2,0,Fin-Jr.,4,Diskos Jyvaskyla Jr.,4
+1996-97,20,15,34,52,0,Finland-3,34,Diskos Jyvaskyla,67
+1997-98,21,2,60,18,0,Finland-2,44,Diskos Jyvaskyla,20
+1998-99,22,2,60,8,0,Finland,53,JYP Jyvaskyla,10
+1999-00,23,2,58,6,0,Finland,51,JYP Jyvaskyla,8
+2000-01,24,10,72,11,0,Finland,56,Tappara Tampere,21
+2001-02,25,11,76,18,0,Finland,56,Tappara Tampere,29
+2002-03,26,4,52,13,0,Finland,55,Tappara Tampere,17
+2003-04,27,4,54,22,8,AHL,65,Toronto Roadrunners,26
+2004-05,28,9,72,9,0,Sweden,50,IF Malmo Redhawks,18
+2004-05,28,1,12,4,0,Sweden-Q,10,IF Redhawks Malmo,5
+2005-06,29,7,105,19,0,Sweden,50,Linkopings HC,26
+2005-06,29,0,6,2,2,WC-A,9,Finland,2
+2006-07,30,7,60,16,0,Sweden,55,Linkopings HC,23
+2007-08,31,10,58,25,0,Sweden,49,HV 71 Jonkoping,35
+2007-08,31,0,6,0,-1,WC-A,8,Finland,0
+2008-09,32,5,58,16,0,Sweden,54,HV 71 Jonkoping,21
+2009-10,33,1,70,8,0,KHL,51,Atlant Moscow Region,9
+2010-11,34,3,70,19,0,Sweden,33,HV 71 Jonkoping,22
+2011-12,35,4,48,18,0,Sweden,49,HV 71 Jonkoping,22
+2012-13,36,1,50,7,0,Sweden,47,HV 71 Jonkoping,8

@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1953-54,18,17,39,28,0,MJHL,36,Winnipeg Barons,45
+1954-55,19,50,39,26,0,MJHL,32,Winnipeg Barons,76
+1955-56,20,37,49,42,0,OHA-Jr.,48,St. Catharines Teepees,79
+1955-56,20,0,0,0,0,AHL,1,Cleveland Barons,0
+1956-57,21,29,23,34,0,NOHA,60,North Bay Trappers,63
+1957-58,22,23,12,53,0,WHL,70,Winnipeg Warriors,76
+1958-59,23,29,40,47,0,AHL,62,Cleveland Barons,76
+1959-60,24,12,29,44,0,AHL,46,Springfield Indians,56
+1960-61,25,16,16,41,0,AHL,48,Springfield Indians,57
+1960-61,25,7,4,5,0,EPHL,16,Kitchener-Waterloo Beavers,12
+1961-62,26,15,52,24,0,AHL,63,Buffalo Bisons,39
+1962-63,27,20,18,70,0,AHL,70,Buffalo Bisons,90
+1963-64,28,17,29,65,0,AHL,66,Pittsburgh Hornets,82
+1964-65,29,25,32,84,0,AHL,71,Buffalo Bisons,109
+1965-66,30,28,14,66,0,CPHL,66,St. Louis Braves,94
+1966-67,31,34,46,56,0,CPHL,67,St. Louis Braves,90
+1968-69,33,15,58,44,0,WHL,66,Seattle Totems,59
+1969-70,34,24,22,55,0,WHL,59,Seattle Totems,79
+1970-71,35,17,40,31,0,WHL,71,Seattle Totems,48
+1971-72,36,1,6,6,0,WHL,11,Seattle Totems,7
+1971-72,36,15,54,41,0,AHL,61,Tidewater Red Wings,56
+1972-73,37,30,32,50,0,AHL,76,Virginia Wings,80
+1973-74,38,24,118,71,0,AHL,76,Rochester Americans,95
+1974-75,39,8,10,18,0,AHL,29,Richmond Robins,26
+1975-76,40,14,112,64,0,SHL,70,Hampton Gulls,78

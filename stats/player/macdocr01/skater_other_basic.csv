@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,17,25,10,52,0,High-MA,30,Lawrence Academy,77
+1995-96,18,7,10,10,0,ECAC,34,Harvard Crimson,17
+1996-97,19,6,20,10,0,ECAC,32,Harvard Crimson,16
+1997-98,20,18,38,29,0,Nat-Tm,58,Canada,47
+1998-99,21,17,77,31,1,AHL,62,Beast of New Haven,48
+1999-00,22,12,76,24,-4,IHL,78,Cincinnati Cyclones,36
+2000-01,23,20,104,28,6,IHL,82,Cincinnati Cyclones,48
+2001-02,24,19,61,22,1,AHL,64,Lowell Lock Monsters,41
+2002-03,25,7,38,20,-3,AHL,27,Lowell Lock Monsters,27
+2003-04,26,0,4,0,0,AHL,2,San Antonio Rampage,0
+2004-05,27,10,104,18,-3,AHL,71,Lowell Lock Monsters,28
+2005-06,28,8,57,19,3,AHL,37,Omaha Ak-Sar-Ben Knights,27
+2006-07,29,15,45,25,9,AHL,50,Norfolk Admirals,40
+2007-08,30,3,8,8,1,AHL,7,Norfolk Admirals,11
+2008-09,31,15,71,25,-18,AHL,70,Syracuse Crunch,40
+2009-10,32,19,76,23,0,Germany,56,DEG Metro Stars Dusseldorf,42
+2010-11,33,6,123,22,0,Germany,51,Adler Mannheim,28
+2011-12,34,6,12,14,0,Germany,28,Adler Mannheim,20
+2012-13,35,7,68,22,0,Germany,51,Adler Mannheim,29

@@ -1,0 +1,5 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHL,5,Brantford Alexanders,300,18,1,0,0,17,0,0,0,0,0,0,0,0,0,0,1983-84,0,3.40,0,0
+0,OHL,15,Hamilton Steelhawks,824,19,6,0,0,73,0,0,0,0,7,0,0,0,0,0,1984-85,0,5.32,0,0
+0,AHL,1,Adirondack Red Wings,27,20,0,0,0,4,0,0,0,0,0,0,0,0,0,0,1985-86,0,8.89,0,0
+0,NBSHL,5,Saint John Vitos,320,23,0,0,0,20,0,0,0,0,0,0,0,0,0,0,1988-89,0,3.75,0,0

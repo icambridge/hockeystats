@@ -1,0 +1,47 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1972-73,17,8,44,6,0,W.German,40,SC Riessersee Garmisch-Partenkirchen,14
+1972-73,17,0,6,0,0,WEC-A,10,West Germany,0
+1973-74,18,16,52,6,0,W.German,36,Augsburger EV,22
+1973-74,18,1,8,2,0,WEC-B,7,West Germany,3
+1974-75,19,20,73,18,0,W.Ger-3,34,SB Rosenheim,38
+1974-75,19,1,8,3,0,WEC-B,7,West Germany,4
+1975-76,20,30,72,22,0,W.German,34,SB Rosenheim,52
+1975-76,20,0,8,1,0,Olympics,6,West Germany,1
+1975-76,20,0,8,1,0,WEC-A,10,West Germany,1
+1976-77,21,13,143,21,0,W.German,46,Kolner Haie,34
+1976-77,21,1,6,2,0,WEC-A,10,West Germany,3
+1977-78,22,16,48,18,0,W.German,39,Kolner Haie,34
+1977-78,22,0,10,5,0,WEC-A,10,West Germany,5
+1978-79,23,28,78,32,0,W.German,40,Kolner Haie,60
+1978-79,23,2,14,4,0,WEC-A,8,West Germany,6
+1979-80,24,39,84,44,0,W.German,48,Dusseldorfer EG,83
+1979-80,24,2,6,2,0,Olympics,5,West Germany,4
+1980-81,25,14,93,29,0,W.German,39,Dusseldorfer EG,43
+1981-82,26,15,54,22,0,W.German,38,Dusseldorfer EG,37
+1981-82,26,1,12,3,0,WEC-A,7,West Germany,4
+1982-83,27,12,52,13,0,W.Ger-2,21,EV Fussen,25
+1982-83,27,4,2,0,0,W.German,9,Kolner EC,4
+1982-83,27,0,10,1,0,WEC-A,4,West Germany,1
+1983-84,28,9,74,19,0,W.German,45,Kolner EC,28
+1983-84,28,3,4,1,0,Olympics,6,West Germany,4
+1984-85,29,0,4,1,0,Can-Cup,4,West Germany,1
+1984-85,29,14,38,26,0,W.German,36,Kolner EC,40
+1984-85,29,0,16,3,0,WEC-A,10,West Germany,3
+1985-86,30,18,41,27,0,W.German,37,Kolner EC,45
+1985-86,30,4,22,2,0,WEC-A,10,West Germany,6
+1986-87,31,10,70,34,0,W.German,42,Kolner EC,44
+1986-87,31,5,18,3,0,WEC-A,10,West Germany,8
+1987-88,32,12,76,27,0,W.German,46,Kolner EC,39
+1987-88,32,1,20,5,0,Olympics,8,West Germany,6
+1988-89,33,11,38,24,0,W.German,31,Kolner EC,35
+1988-89,33,2,12,0,0,WEC-A,10,West Germany,2
+1989-90,34,7,45,15,0,W.German,35,Kolner EC,22
+1989-90,34,2,10,1,0,WEC-A,10,West Germany,3
+1990-91,35,7,36,13,0,Germany,35,Kolner EC,20
+1990-91,35,0,6,1,0,WEC-A,10,Germany,1
+1991-92,36,11,38,23,0,Germany,42,Kolner EC,34
+1991-92,36,0,6,0,0,Olympics,8,Germany,0
+1992-93,37,9,50,19,0,Germany,44,EV Landshut,28
+1993-94,38,3,74,16,0,Germany,44,EV Landshut,19
+1994-95,39,7,40,15,0,Germany,41,EV Landshut,22
+1995-96,40,3,44,19,0,Germany,50,EV Landshut,22

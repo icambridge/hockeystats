@@ -1,0 +1,12 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,2,0,23,0,1,0,,NYR,[],0,0,0,0,1,0,1936-37,,0,0,0,0
+NHL,48,0,24,0,37,0,,NYR,"[{'link': '/awards/voting-1938.html#byng', 'name': 'Byng-2'}]",0,0,23,0,14,0,1937-38,,0,0,0,0
+NHL,0,0,25,0,41,0,,NYR,"[{'link': '/awards/byng.html#1939', 'name': None}]",0,0,20,0,21,0,1938-39,,0,2,0,0
+NHL,41,0,26,0,24,0,,NYR,"[{'link': '/awards/voting-1940.html#byng', 'name': 'Byng-2'}]",0,0,16,0,8,0,1939-40,,0,2,0,0
+NHL,0,0,27,0,25,0,,NYR,[],0,0,11,0,14,0,1940-41,,0,0,0,0
+NHL,47,0,28,0,34,0,,NYR,"[{'link': '/awards/voting-1942.html#byng', 'name': 'Byng-4'}]",0,0,24,0,10,0,1941-42,,0,4,0,0
+NHL,47,0,29,0,33,0,,NYR,[],0,0,21,0,12,0,1942-43,,0,4,0,0
+NHL,50,0,30,0,72,0,,CBH,"[{'link': '/awards/byng.html#1944', 'name': None}]",0,0,0,0,23,0,1943-44,,0,4,0,0
+NHL,0,0,31,0,54,0,,CBH,"[{'link': '/awards/voting-1945.html#byng', 'name': 'Byng-3'}]",0,0,31,0,23,0,1944-45,,0,0,0,0
+NHL,0,0,32,0,50,0,,CBH,"[{'link': '/awards/voting-1946.html#byng', 'name': 'Byng-2'}]",0,0,24,0,26,0,1945-46,,0,2,0,0
+NHL,52,0,33,0,26,0,,CBH,[],0,0,17,0,9,0,1946-47,,0,6,0,0

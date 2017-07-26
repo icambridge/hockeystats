@@ -1,25 +1,25 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-4,1917-18,Winnipeg Ypres,6,0,18,7,11,5,MHL-Sr.
-4,1918-19,Winnipeg Monarchs,5,0,19,9,8,3,MHL-Sr.
-10,1919-20,Winnipeg Falcons,11,0,20,9,21,10,MHL-Sr.
-0,1919-20,Canada,0,0,20,3,9,9,Olympics
-38,1920-21,Saskatoon Crescents,3,0,21,16,15,12,SSHL
-13,1921-22,Victoria Aristocrats,3,0,22,23,10,7,PCHA
-26,1922-23,Victoria Cougars,5,0,23,29,15,10,PCHA
-50,1923-24,Victoria Cougars,2,0,24,30,8,6,PCHA
-71,1924-25,Victoria Cougars,6,0,25,28,9,3,WCHL
-51,1925-26,Victoria Cougars,1,0,26,23,4,3,WHL
-71,1927-28,Quebec Castors,5,0,28,40,18,13,Can-Am
-107,1928-29,Newark Bulldogs,3,0,29,40,9,6,Can-Am
-76,1929-30,Kansas City Pla-Mors,7,0,30,48,15,8,AHA
-77,1930-31,Kansas City Pla-Mors,7,0,31,47,12,5,AHA
-69,1931-32,Kansas City Pla-Mors,3,0,32,46,12,9,AHA
-70,1932-33,2 Teams,6,0,33,50,14,8,AHA
-30,1932-33,Kansas City Pla-Mors,4,0,33,26,5,1,AHA
-40,1932-33,Duluth/Wichita,2,0,33,24,9,7,AHA
-66,1933-34,2 Teams,12,0,34,50,21,9,AHA
-66,1933-34,Tulsa Oilers,12,0,34,48,21,9,AHA
-0,1933-34,Wichita Vikings,0,0,34,2,0,0,AHA
-65,1934-35,Tulsa Oilers,13,0,35,48,19,6,AHA
-25,1935-36,Tulsa Oilers,14,0,36,48,20,6,AHA
-30,1936-37,Wichita Skyhawks,4,0,37,48,9,5,AHA
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+6,Winnipeg Ypres,5,1917-18,7,11,4,18,0,MHL-Sr.
+5,Winnipeg Monarchs,3,1918-19,9,8,4,19,0,MHL-Sr.
+11,Winnipeg Falcons,10,1919-20,9,21,10,20,0,MHL-Sr.
+0,Canada,9,1919-20,3,9,0,20,0,Olympics
+3,Saskatoon Crescents,12,1920-21,16,15,38,21,0,SSHL
+3,Victoria Aristocrats,7,1921-22,23,10,13,22,0,PCHA
+5,Victoria Cougars,10,1922-23,29,15,26,23,0,PCHA
+2,Victoria Cougars,6,1923-24,30,8,50,24,0,PCHA
+6,Victoria Cougars,3,1924-25,28,9,71,25,0,WCHL
+1,Victoria Cougars,3,1925-26,23,4,51,26,0,WHL
+5,Quebec Castors,13,1927-28,40,18,71,28,0,Can-Am
+3,Newark Bulldogs,6,1928-29,40,9,107,29,0,Can-Am
+7,Kansas City Pla-Mors,8,1929-30,48,15,76,30,0,AHA
+7,Kansas City Pla-Mors,5,1930-31,47,12,77,31,0,AHA
+3,Kansas City Pla-Mors,9,1931-32,46,12,69,32,0,AHA
+6,2 Teams,8,1932-33,50,14,70,33,0,AHA
+4,Kansas City Pla-Mors,1,1932-33,26,5,30,33,0,AHA
+2,Duluth/Wichita,7,1932-33,24,9,40,33,0,AHA
+12,2 Teams,9,1933-34,50,21,66,34,0,AHA
+12,Tulsa Oilers,9,1933-34,48,21,66,34,0,AHA
+0,Wichita Vikings,0,1933-34,2,0,0,34,0,AHA
+13,Tulsa Oilers,6,1934-35,48,19,65,35,0,AHA
+14,Tulsa Oilers,6,1935-36,48,20,25,36,0,AHA
+4,Wichita Skyhawks,5,1936-37,48,9,30,37,0,AHA

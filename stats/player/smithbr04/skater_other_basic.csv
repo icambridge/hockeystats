@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1989-90,16,2,16,17,0,WHL,59,Portland Winter Hawks,19
+1990-91,17,8,8,5,0,WHL,17,Portland Winter Hawks,13
+1991-92,18,12,63,32,0,WHL,70,Portland Winter Hawks,44
+1992-93,19,20,38,54,0,WHL,72,Portland Winter Hawks,74
+1993-94,20,19,47,63,0,WHL,72,Portland Winter Hawks,82
+1994-95,21,16,57,49,0,ECHL,60,Dayton Bombers,65
+1994-95,21,0,0,0,0,IHL,1,Minnesota Moose,0
+1994-95,21,1,7,2,0,AHL,14,Adirondack Red Wings,3
+1995-96,22,4,22,13,0,AHL,48,Adirondack Red Wings,17
+1996-97,23,8,30,26,0,AHL,80,Adirondack Red Wings,34
+1997-98,24,9,26,27,-19,AHL,64,Adirondack Red Wings,36
+1998-99,25,16,32,46,36,AHL,72,Providence Bruins,62
+1999-00,26,8,20,30,-7,AHL,55,Providence Bruins,38
+2000-01,27,11,30,28,-12,AHL,63,Providence Bruins,39
+2001-02,28,6,26,29,-24,AHL,59,Cleveland Barons,35
+2002-03,29,9,37,32,10,AHL,63,Bridgeport Sound Tigers,41
+2003-04,30,5,39,23,-2,AHL,74,Bridgeport Sound Tigers,28
+2004-05,31,4,32,14,-1,AHL,67,Rochester Americans,18
+2005-06,32,3,39,11,0,AHL,39,Rochester Americans,14
+2006-07,33,9,54,36,9,AHL,71,Rochester Americans,45
+2007-08,34,7,34,14,0,Germany,56,Eisbaren Berlin,21
+2008-09,35,1,8,5,0,Germany,17,Eisbaren Berlin,6
+2009-10,36,3,12,5,0,Germany,35,Straubing Tigers,8

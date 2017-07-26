@@ -1,0 +1,11 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2000-01,18,3,22,5,0,OHL,18,Toronto St. Michael\'s Majors,8
+2001-02,19,1,10,11,0,OHL,15,Toronto St. Michael\'s Majors,12
+2003-04,21,1,4,2,-2,AHL,9,Cincinnati Mighty Ducks,3
+2004-05,22,2,6,3,2,AHL,11,Cincinnati Mighty Ducks,5
+2006-07,24,3,4,6,5,AHL,15,Chicago Wolves,9
+2008-09,26,0,2,0,0,KHL,3,SKA St. Petersburg,0
+2010-11,28,0,2,4,0,Swiss,4,HC Lugano,4
+2011-12,29,0,2,3,0,Swiss,4,SCL Tigers Langnau,3
+2012-13,30,0,4,1,0,Swiss,5,SCL Tigers Langnau,1
+2012-13,30,0,0,1,0,Swiss-Q,1,SCL Tigers Langnau,1

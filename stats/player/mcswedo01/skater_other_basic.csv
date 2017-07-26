@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1982-83,18,9,0,33,0,GLJHL,37,Redford Royals,42
+1983-84,19,10,30,26,0,CCHA,46,Michigan State Spartans,36
+1984-85,20,2,52,23,0,CCHA,44,Michigan State Spartans,25
+1985-86,21,9,18,29,0,CCHA,45,Michigan State Spartans,38
+1986-87,22,7,34,23,0,CCHA,45,Michigan State Spartans,30
+1987-88,23,9,108,29,0,AHL,63,Rochester Americans,38
+1988-89,24,7,45,22,0,AHL,66,Rochester Americans,29
+1989-90,25,16,43,43,0,AHL,70,Rochester Americans,59
+1990-91,26,7,57,44,0,AHL,74,Rochester Americans,51
+1991-92,27,6,60,32,0,AHL,75,Rochester Americans,38
+1992-93,28,15,85,40,0,IHL,80,San Diego Gulls,55
+1993-94,29,5,36,13,0,IHL,38,San Diego Gulls,18
+1993-94,29,1,0,1,0,WC-A,8,United States,2
+1995-96,31,1,2,9,0,AHL,12,Baltimore Bandits,10
+1996-97,32,7,66,20,0,IHL,75,Grand Rapids Griffins,27
+1997-98,33,4,132,21,3,IHL,78,2 Teams,25
+1997-98,33,0,4,0,-1,IHL,2,Grand Rapids Griffins,0
+1997-98,33,4,128,21,4,IHL,76,Milwaukee Admirals,25
+1998-99,34,0,4,3,2,UHL,6,Muskegon Fury,3
+1999-00,35,1,5,3,0,UHL,6,Muskegon Fury,4

@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1987-88,17,16,0,25,0,High-MN,23,Cloquet Lumberjacks,41
+1988-89,18,30,0,33,0,High-MN,24,Cloquet Lumberjacks,63
+1989-90,19,10,12,11,0,WCHA,28,U. of Minnesota-Duluth,21
+1990-91,20,23,6,20,0,WCHA,36,U. of Minnesota-Duluth,43
+1990-91,20,1,4,2,0,WJC-A,7,United States,3
+1991-92,21,27,28,36,0,WCHA,37,U. of Minnesota-Duluth,63
+1991-92,21,0,0,1,0,WC-A,6,United States,1
+1992-93,22,36,30,56,0,WCHA,37,U. of Minnesota-Duluth,92
+1992-93,22,1,2,0,0,WC-A,6,United States,1
+1993-94,23,0,0,1,0,Nat-Tm,2,United States,1
+1995-96,25,1,4,1,0,WC-A,8,United States,2
+1999-00,29,1,4,1,-1,WC-A,7,United States,2
+1999-00,29,2,4,5,-3,IHL,17,2 Teams,7
+1999-00,29,0,2,4,-5,IHL,13,Michigan K-Wings,4
+1999-00,29,2,2,1,2,IHL,4,Chicago Wolves,3
+2000-01,30,18,19,35,-7,AHL,57,Philadelphia Phantoms,53
+2000-01,30,0,2,2,-3,WC-A,9,United States,2
+2001-02,31,20,22,38,0,Germany,60,Munchen Barons,58
+2001-02,31,2,2,1,0,WC-A,7,United States,3
+2002-03,32,22,34,24,0,Swiss,44,ZSC Lions Zurich,46
+2003-04,33,6,40,16,0,Germany,39,Adler Mannheim,22
+2004-05,34,6,22,7,0,Germany,44,Adler Mannheim,13
+2005-06,35,28,64,47,0,AsianHL,35,Nippon Paper Cranes,75
+2006-07,36,20,42,27,0,AsianHL,24,Nippon Paper Cranes,47

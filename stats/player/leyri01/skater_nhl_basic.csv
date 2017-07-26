@@ -1,0 +1,14 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,38,0,20,37,12,6,,TOR,[],2.7,1,11,2,1,0,1968-69,,0,39,0,5
+NHL,48,0,21,52,15,1,,TOR,[],3.8,1,13,-16,2,0,1969-70,,1,102,1,11
+NHL,76,0,22,78,20,5,,TOR,[],5.1,4,16,11,4,0,1970-71,,0,151,1,10
+NHL,67,0,23,65,15,2,,TOR,[],1.5,1,14,3,1,0,1971-72,,0,124,0,12
+WHA,76,0,24,0,30,0,,NEW,[],0,3,27,0,3,0,1972-73,,0,108,0,0
+WHA,72,2,25,0,41,0,,NEW,[],0,4,35,0,6,0,1973-74,,2,148,0,0
+WHA,62,0,26,125,42,0,,NEW,[],4.8,4,36,0,6,1,1974-75,,1,50,0,0
+WHA,67,0,27,130,38,0,,NEW,[],6.2,6,30,-20,8,0,1975-76,,2,78,0,0
+WHA,55,0,28,98,23,0,,NEW,[],2.0,2,21,-6,2,0,1976-77,,0,102,0,0
+WHA,73,0,29,106,44,0,,NEW,"[{'link': '/awards/wha_all_star.html#1978', 'name': 'ASW-2'}]",2.8,3,41,36,3,0,1977-78,,0,95,0,0
+WHA,73,0,30,113,27,0,,NEW,"[{'link': '/awards/wha_all_star.html#1979', 'name': None}, {'link': '/awards/murphy.html#1979', 'name': None}]",6.2,5,20,-3,7,2,1978-79,,0,135,0,0
+NHL,65,1,31,78,20,4,,HAR,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-20'}]",5.1,4,16,2,4,0,1979-80,,0,92,0,12
+NHL,16,0,32,19,2,0,,HAR,[],0.0,0,2,-13,0,0,1980-81,,0,20,0,2

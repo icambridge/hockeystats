@@ -1,0 +1,18 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHA-Jr.,5,Niagara Falls Flyers,300,17,0,0,0,16,0,0,0,0,0,0,0,0,0,0,1967-68,0,3.20,0,0
+0,OHA-Jr.,49,Niagara Falls Flyers,2940,18,0,0,0,197,0,0,0,2,0,0,0,0,0,0,1968-69,0,4.02,0,0
+0,OHA-Jr.,38,Niagara Falls Flyers,2280,19,0,0,0,223,0,0,0,0,0,0,0,0,0,0,1969-70,0,5.87,0,0
+0,OUAA,12,University of Toronto,720,21,0,0,0,21,0,0,0,0,0,0,0,0,0,0,1971-72,0,1.75,0,0
+0,OUAA,16,Laurentian University,960,22,0,0,0,63,0,0,0,0,0,0,0,0,0,0,1972-73,0,3.94,0,0
+0,OUAA,17,Laurentian University,1020,23,0,0,0,66,0,0,0,0,0,0,0,0,0,0,1973-74,0,3.88,0,0
+0,OUAA,14,Laurentian University,800,24,0,0,0,48,0,0,0,0,0,0,0,0,0,0,1974-75,0,3.60,0,0
+0,IHL,4,Columbus Owls,183,25,0,0,0,14,0,0,0,0,0,0,0,0,0,0,1975-76,0,4.59,0,0
+0,NAPro,2,Buffalo Norsemen,120,25,1,0,0,7,0,0,0,0,1,0,0,0,0,0,1975-76,0,3.50,0,0
+0,OHA-Sr.,2,Whitby Warriors,120,25,0,0,0,4,0,0,0,0,2,0,0,0,0,0,1975-76,0,2.00,0,0
+0,SHL,39,Charlotte Checkers,2284,26,0,0,0,114,0,0,0,1,0,0,0,0,0,0,1976-77,0,2.99,0,0
+0,NAPro,1,Mohawk Valley Comets,60,26,1,0,0,7,0,0,0,0,0,0,0,0,0,0,1976-77,0,7.00,0,0
+0,AHL,3,New Haven Nighthawks,179,26,1,0,0,11,0,0,0,0,2,0,0,0,0,0,1976-77,0,3.69,0,0
+0,OHA-Sr.,20,Cambridge Hornets,1250,27,0,0,0,73,0,0,0,1,0,0,0,0,0,0,1977-78,0,3.50,0,0
+0,CIHL,20,Cambridge Hornets,1240,28,0,0,0,81,0,0,0,0,0,0,0,0,0,0,1978-79,0,3.92,0,0
+0,OHA-Sr.,28,Cambridge Hornets,1637,29,0,0,0,88,0,0,0,1,0,0,0,0,0,0,1979-80,0,3.23,0,0
+0,OHA-Sr.,27,Cambridge Hornets,1598,30,0,0,0,94,0,0,0,1,0,0,0,0,0,0,1980-81,0,3.53,0,0

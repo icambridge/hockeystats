@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1991-92,17,0,2,2,0,EJC-A,5,Sweden,2
+1992-93,18,0,0,0,0,Swe-Jr.,4,MoDo HK Ornskoldsvik Jr.,0
+1992-93,18,4,22,9,0,Sweden-2,27,Husums IF,13
+1992-93,18,0,0,0,0,Sweden,1,MoDo HK Ornskoldsvik,0
+1993-94,19,2,10,2,0,Swe-Jr.,3,MoDo HK Ornskoldsvik Jr.,4
+1993-94,19,2,6,2,0,Sweden,23,MoDo HK Ornskoldsvik,4
+1993-94,19,0,0,1,0,WJC-A,7,Sweden,1
+1994-95,20,8,24,9,0,Sweden,39,MoDo HK Ornskoldsvik,17
+1995-96,21,4,34,10,0,Sweden,37,MoDo HK Ornskoldsvik,14
+1996-97,22,3,20,11,0,AHL,32,Providence Bruins,14
+1997-98,23,3,25,7,-7,AHL,31,Providence Bruins,10
+1998-99,24,2,24,22,6,AHL,43,Providence Bruins,24
+1999-00,25,0,2,0,-1,AHL,1,Hershey Bears,0
+2003-04,29,2,12,6,6,AHL,35,Bridgeport Sound Tigers,8
+2004-05,30,3,60,7,0,Sweden,47,MODO Hockey Ornskoldsvik,10
+2005-06,31,5,48,9,0,Sweden,48,MODO Hockey Ornskoldsvik,14
+2005-06,31,0,6,3,4,WC-A,9,Sweden,3
+2006-07,32,6,90,12,0,Sweden,55,MODO Hockey Ornskoldsvik,18
+2007-08,33,1,16,6,0,Sweden,23,MODO Hockey Ornskoldsvik,7
+2008-09,34,10,70,15,0,Sweden,55,MODO Hockey Ornskoldsvik,25
+2009-10,35,5,46,20,0,Sweden,49,MODO Hockey Ornskoldsvik,25
+2010-11,36,4,60,15,0,Sweden,55,MODO Hockey Ornskoldsvik,19

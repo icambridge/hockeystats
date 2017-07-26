@@ -1,35 +1,35 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-0,26:54,D,11.8,19,195,11,0,28,4,23,33,Shea Weber,10.8,4.5,56,12,52,2125,79,-2,6.2,14,/players/w/webersh01.html
-0,16:52,RW,8.9,21,248,15,0,27,6,22,31,Patric Hornqvist,6.3,1.5,53,7,28,1281,76,1,4.8,10,/players/h/hornqpa01.html
-0,16:24,C,11.2,25,215,17,0,24,4,24,28,Craig Smith,7.0,2.1,52,7,22,1296,79,16,4.9,3,/players/s/smithcr01.html
-0,19:45,C,11.3,22,177,16,0,33,4,20,29,Mike Fisher,5.0,1.5,49,4,60,1482,75,-4,3.6,7,/players/f/fishemi01.html
-0,26:25,D,7.7,17,168,10,0,23,2,13,27,Roman Josi,7.6,4.0,40,3,18,1902,72,-2,3.6,10,/players/j/josiro01.html
-0,17:13,C,9.3,18,107,6,0,33,2,10,30,David Legwand,3.4,0.8,40,4,30,1067,62,-8,2.6,12,/players/l/legwada01.html
-0,15:30,C,7.5,21,134,9,0,37,2,10,29,Matt Cullen,3.6,1.5,39,1,32,1193,77,4,2.1,8,/players/c/cullema01.html
-0,15:13,C,9.8,19,112,9,0,24,3,11,22,Colin Wilson,2.8,1.3,33,2,21,1233,81,-1,1.5,3,/players/w/wilsoco01.html
-1,16:01,LW,15.3,16,85,9,0,25,1,13,19,Nick Spaling,3.2,1.3,32,3,14,1137,71,2,1.8,3,/players/s/spalini01.html
-0,16:04,D,4.9,15,123,6,0,23,2,6,21,Ryan Ellis,5.7,3.6,27,0,24,1285,80,9,2.1,6,/players/e/ellisry01.html
-0,13:50,LW,8.3,16,108,9,0,23,1,9,17,Gabriel Bourque,2.0,0.9,26,0,8,1024,74,-5,1.0,1,/players/b/bourqga01.html
-0,19:37,D,6.0,12,100,4,0,19,2,6,19,Seth Jones,3.0,1.4,25,2,24,1511,77,-23,1.6,7,/players/j/jonesse01.html
-1,14:52,LW,12.5,6,120,14,0,30,1,15,6,Eric Nystrom,0.9,0.2,21,0,60,1174,79,-25,0.7,0,/players/n/nystrer01.html
-0,13:48,C,13.5,11,74,10,0,31,0,10,11,Paul Gaustad,1.4,0.9,21,0,61,1036,75,-6,0.6,0,/players/g/gaustpa01.html
-0,12:35,LW,7.0,10,114,8,0,28,1,8,10,Viktor Stalberg,0.8,0.4,18,0,32,881,70,-14,0.4,0,/players/s/stalbvi01.html
-0,14:04,C,15.4,6,13,2,0,22,0,2,7,Calle Jarnkrok,1.2,0.5,9,0,4,169,12,7,0.8,1,/players/j/jarnkca01.html
-0,16:49,D,1.7,7,58,1,1,23,0,1,8,Mattias Ekholm,1.4,1.6,9,0,10,1043,62,-8,-0.2,0,/players/e/ekholma01.html
-0,8:27,LW,10.3,4,29,3,0,26,1,3,4,Rich Clune,0.0,0.2,7,0,166,491,58,-7,-0.3,0,/players/c/cluneri01.html
-0,15:22,D,4.8,5,21,1,0,25,0,1,5,Victor Bartley,1.5,1.7,6,0,23,768,50,0,-0.2,0,/players/b/bartlvi01.html
-0,16:18,D,3.8,4,26,1,0,23,0,1,4,Michael Del Zotto,0.7,0.6,5,0,8,407,25,-4,0.2,0,/players/d/delzomi01.html
-0,11:24,C,5.0,1,20,0,0,19,0,1,4,Filip Forsberg,0.1,-0.2,5,1,4,148,13,-8,0.3,3,/players/f/forsbfi01.html
-0,11:33,C,3.8,2,53,2,0,32,0,2,2,Matt Hendricks,-0.4,0.3,4,0,54,508,44,-5,-0.8,0,/players/h/hendrma01.html
-0,10:37,C,7.7,3,13,1,0,20,0,1,3,Colton Sissons,0.3,0.2,4,0,4,181,17,0,0.1,0,/players/s/sissoco01.html
-0,18:48,D,2.0,2,49,1,0,29,0,1,2,Kevin Klein,0.4,1.0,3,0,21,884,47,-11,-0.7,0,/players/k/kleinke01.html
-0,10:08,LW,14.3,1,7,1,0,24,0,1,1,Simon Moser,0.2,0.1,2,0,2,61,6,0,0.2,0,/players/m/mosersi01.html
-0,52:08,G,,1,0,0,0,28,0,0,1,Carter Hutton,5.6,0.0,1,0,2,2085,40,0,0.0,0,/players/h/huttoca01.html
-0,12:50,RW,0.0,0,9,0,0,22,0,0,0,Taylor Beck,-0.2,0.0,0,0,6,90,7,-2,-0.3,0,/players/b/beckta01.html
-0,61:59,G,,0,0,0,0,27,0,0,0,Devan Dubnyk,-0.1,0.0,0,0,0,124,2,0,0.0,0,/players/d/dubnyde01.html
-0,9:46,RW,0.0,0,2,0,0,29,0,0,0,Patrick Eaves,-0.2,-0.1,0,0,0,49,5,-3,-0.1,0,/players/e/eavespa01.html
-0,12:12,G,,0,0,0,0,22,0,0,0,Magnus Hellberg,-0.1,0.0,0,0,0,12,1,0,0.0,0,/players/h/hellbma01.html
-0,54:47,G,,0,0,0,0,22,0,0,0,Marek Mazanec,3.0,0.0,0,0,0,1370,25,0,0.0,0,/players/m/mazanma01.html
-0,12:11,D,0.0,0,2,0,0,29,0,0,0,Joe Piskula,0.1,0.1,0,0,0,24,2,1,0.0,0,/players/p/piskujo01.html
-0,56:57,G,,0,0,0,0,31,0,0,0,Pekka Rinne,3.0,0.0,0,0,0,1367,24,0,0.0,0,/players/r/rinnepe01.html
-0,8:27,C,,0,0,0,0,30,0,0,0,Mark Van Guilder,0.0,0.0,0,0,0,8,1,0,0.0,0,/players/v/vanguma01.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+33,4,23,28,26:54,6.2,4.5,11,2125,14,D,10.8,19,NSH,/players/w/webersh01.html,0,52,12,-2,Shea Weber,11.8,2014,56,0,79,195
+31,6,22,27,16:52,4.8,1.5,15,1281,10,RW,6.3,21,NSH,/players/h/hornqpa01.html,0,28,7,1,Patric Hornqvist,8.9,2014,53,0,76,248
+28,4,24,24,16:24,4.9,2.1,17,1296,3,C,7.0,25,NSH,/players/s/smithcr01.html,0,22,7,16,Craig Smith,11.2,2014,52,0,79,215
+29,4,20,33,19:45,3.6,1.5,16,1482,7,C,5.0,22,NSH,/players/f/fishemi01.html,0,60,4,-4,Mike Fisher,11.3,2014,49,0,75,177
+27,2,13,23,26:25,3.6,4.0,10,1902,10,D,7.6,17,NSH,/players/j/josiro01.html,0,18,3,-2,Roman Josi,7.7,2014,40,0,72,168
+30,2,10,33,17:13,2.6,0.8,6,1067,12,C,3.4,18,NSH,/players/l/legwada01.html,0,30,4,-8,David Legwand,9.3,2014,40,0,62,107
+29,2,10,37,15:30,2.1,1.5,9,1193,8,C,3.6,21,NSH,/players/c/cullema01.html,0,32,1,4,Matt Cullen,7.5,2014,39,0,77,134
+22,3,11,24,15:13,1.5,1.3,9,1233,3,C,2.8,19,NSH,/players/w/wilsoco01.html,0,21,2,-1,Colin Wilson,9.8,2014,33,0,81,112
+19,1,13,25,16:01,1.8,1.3,9,1137,3,LW,3.2,16,NSH,/players/s/spalini01.html,0,14,3,2,Nick Spaling,15.3,2014,32,1,71,85
+21,2,6,23,16:04,2.1,3.6,6,1285,6,D,5.7,15,NSH,/players/e/ellisry01.html,0,24,0,9,Ryan Ellis,4.9,2014,27,0,80,123
+17,1,9,23,13:50,1.0,0.9,9,1024,1,LW,2.0,16,NSH,/players/b/bourqga01.html,0,8,0,-5,Gabriel Bourque,8.3,2014,26,0,74,108
+19,2,6,19,19:37,1.6,1.4,4,1511,7,D,3.0,12,NSH,/players/j/jonesse01.html,0,24,2,-23,Seth Jones,6.0,2014,25,0,77,100
+6,1,15,30,14:52,0.7,0.2,14,1174,0,LW,0.9,6,NSH,/players/n/nystrer01.html,0,60,0,-25,Eric Nystrom,12.5,2014,21,1,79,120
+11,0,10,31,13:48,0.6,0.9,10,1036,0,C,1.4,11,NSH,/players/g/gaustpa01.html,0,61,0,-6,Paul Gaustad,13.5,2014,21,0,75,74
+10,1,8,28,12:35,0.4,0.4,8,881,0,LW,0.8,10,NSH,/players/s/stalbvi01.html,0,32,0,-14,Viktor Stalberg,7.0,2014,18,0,70,114
+7,0,2,22,14:04,0.8,0.5,2,169,1,C,1.2,6,NSH,/players/j/jarnkca01.html,0,4,0,7,Calle Jarnkrok,15.4,2014,9,0,12,13
+8,0,1,23,16:49,-0.2,1.6,1,1043,0,D,1.4,7,NSH,/players/e/ekholma01.html,1,10,0,-8,Mattias Ekholm,1.7,2014,9,0,62,58
+4,1,3,26,8:27,-0.3,0.2,3,491,0,LW,0.0,4,NSH,/players/c/cluneri01.html,0,166,0,-7,Rich Clune,10.3,2014,7,0,58,29
+5,0,1,25,15:22,-0.2,1.7,1,768,0,D,1.5,5,NSH,/players/b/bartlvi01.html,0,23,0,0,Victor Bartley,4.8,2014,6,0,50,21
+4,0,1,23,16:18,0.2,0.6,1,407,0,D,0.7,4,NSH,/players/d/delzomi01.html,0,8,0,-4,Michael Del Zotto,3.8,2014,5,0,25,26
+4,0,1,19,11:24,0.3,-0.2,0,148,3,C,0.1,1,NSH,/players/f/forsbfi01.html,0,4,1,-8,Filip Forsberg,5.0,2014,5,0,13,20
+2,0,2,32,11:33,-0.8,0.3,2,508,0,C,-0.4,2,NSH,/players/h/hendrma01.html,0,54,0,-5,Matt Hendricks,3.8,2014,4,0,44,53
+3,0,1,20,10:37,0.1,0.2,1,181,0,C,0.3,3,NSH,/players/s/sissoco01.html,0,4,0,0,Colton Sissons,7.7,2014,4,0,17,13
+2,0,1,29,18:48,-0.7,1.0,1,884,0,D,0.4,2,NSH,/players/k/kleinke01.html,0,21,0,-11,Kevin Klein,2.0,2014,3,0,47,49
+1,0,1,24,10:08,0.2,0.1,1,61,0,LW,0.2,1,NSH,/players/m/mosersi01.html,0,2,0,0,Simon Moser,14.3,2014,2,0,6,7
+1,0,0,28,52:08,0.0,0.0,0,2085,0,G,5.6,1,NSH,/players/h/huttoca01.html,0,2,0,0,Carter Hutton,,2014,1,0,40,0
+0,0,0,22,12:50,-0.3,0.0,0,90,0,RW,-0.2,0,NSH,/players/b/beckta01.html,0,6,0,-2,Taylor Beck,0.0,2014,0,0,7,9
+0,0,0,27,61:59,0.0,0.0,0,124,0,G,-0.1,0,NSH,/players/d/dubnyde01.html,0,0,0,0,Devan Dubnyk,,2014,0,0,2,0
+0,0,0,29,9:46,-0.1,-0.1,0,49,0,RW,-0.2,0,NSH,/players/e/eavespa01.html,0,0,0,-3,Patrick Eaves,0.0,2014,0,0,5,2
+0,0,0,22,12:12,0.0,0.0,0,12,0,G,-0.1,0,NSH,/players/h/hellbma01.html,0,0,0,0,Magnus Hellberg,,2014,0,0,1,0
+0,0,0,22,54:47,0.0,0.0,0,1370,0,G,3.0,0,NSH,/players/m/mazanma01.html,0,0,0,0,Marek Mazanec,,2014,0,0,25,0
+0,0,0,29,12:11,0.0,0.1,0,24,0,D,0.1,0,NSH,/players/p/piskujo01.html,0,0,0,1,Joe Piskula,0.0,2014,0,0,2,2
+0,0,0,31,56:57,0.0,0.0,0,1367,0,G,3.0,0,NSH,/players/r/rinnepe01.html,0,0,0,0,Pekka Rinne,,2014,0,0,24,0
+0,0,0,30,8:27,0.0,0.0,0,8,0,C,0.0,0,NSH,/players/v/vanguma01.html,0,0,0,0,Mark Van Guilder,,2014,0,0,1,0

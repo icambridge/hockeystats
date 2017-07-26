@@ -1,0 +1,34 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1987-88,17,0,0,0,0,Sweden-2,2,IK VIK Hockey Vasteras,0
+1988-89,18,29,0,13,0,Swe-Jr.,30,Vastra Frolunda HC Goteborg Jr.,42
+1988-89,18,0,0,0,0,Sweden,6,Vasteras IK,0
+1988-89,18,0,0,0,0,Sweden-Q,5,Vasteras IK,0
+1989-90,19,10,18,13,0,Sweden,35,Vasteras IK,23
+1989-90,19,1,0,0,0,WJC-A,6,Sweden,1
+1990-91,20,13,24,9,0,Sweden,40,Vasteras IK,22
+1991-92,21,15,40,12,0,Sweden,39,Vasteras IK,27
+1992-93,22,14,22,12,0,Sweden,34,Vasteras IK,26
+1992-93,22,2,4,1,0,WC-A,8,Sweden,3
+1993-94,23,15,20,16,0,Sweden,40,Vasteras IK,31
+1993-94,23,7,16,1,0,Olympics,8,Sweden,8
+1993-94,23,0,0,0,0,WC-A,1,Sweden,0
+1994-95,24,5,8,9,0,Sweden,11,Vasteras IK,14
+1995-96,25,5,8,2,0,AHL,14,Hershey Bears,7
+1996-97,26,0,2,0,0,W-Cup,4,Sweden,0
+1996-97,26,31,24,60,0,AHL,78,Philadelphia Phantoms,91
+1997-98,27,19,20,9,0,Finland,47,Jokerit Helsinki,28
+1997-98,27,2,2,3,0,EuroHL,6,Jokerit Helsinki,5
+1998-99,28,17,30,12,0,Finland,54,Jokerit Helsinki,29
+1998-99,28,1,10,0,0,EuroHL,6,Jokerit Helsinki,1
+1999-00,29,0,2,0,0,Finland,10,Jokerit Helsinki,0
+1999-00,29,17,12,14,0,Swiss,33,SC Bern,31
+2000-01,30,18,12,25,0,Swiss,44,SC Bern,43
+2001-02,31,27,24,26,0,Swiss,44,SC Bern,53
+2002-03,32,18,16,23,0,Swiss,43,SC Bern,41
+2003-04,33,0,0,1,0,Swiss,7,SC Bern,1
+2004-05,34,0,2,3,0,Swiss,5,SC Bern,3
+2004-05,34,14,49,19,0,Sweden-2,28,Vasteras IK Ungdom,33
+2005-06,35,13,18,16,0,Sweden-2,38,VIK Vasteras HK ,29
+2006-07,36,15,18,22,0,Sweden-2,42,VIK Vasteras HK ,37
+2007-08,37,19,32,22,0,Sweden-2,52,VIK Vasteras HK ,41
+2008-09,38,12,22,17,0,Sweden-2,54,VIK Vasteras HK ,29

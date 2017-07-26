@@ -1,0 +1,5 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WHL,5,Billings Bighorns,229,18,3,0,0,21,0,0,0,0,1,0,0,0,0,0,1978-79,0,5.50,0,0
+0,WHL,3,Billings Bighorns,190,19,1,0,0,10,0,0,0,0,2,0,0,0,0,0,1979-80,0,3.16,0,0
+0,CHL,5,Wichita Wind,300,20,2,0,0,16,0,0,0,0,3,0,0,0,0,0,1980-81,0,3.20,0,0
+0,CHL,7,Wichita Wind,434,21,4,0,0,23,0,0,0,0,3,0,0,0,0,0,1981-82,0,3.18,0,0

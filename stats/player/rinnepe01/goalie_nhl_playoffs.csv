@@ -1,0 +1,7 @@
+won,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+,1,NHL,6,NSH,358,27,4,97,0,16,6,0.46,0,0,2,0,.500,0,3,.911,2009-10,179,2.68,0,163
+,2,NHL,12,NSH,748,28,6,110,1,32,12,-3.03,0,0,6,1,.500,0,6,.907,2010-11,343,2.57,0,311
+,2,NHL,10,NSH,609,29,5,90,0,21,10,2.28,0,1,5,0,.600,0,6,.929,2011-12,296,2.07,2,275
+,0,NHL,6,NSH,416,32,4,116,1,19,6,-2.64,0,0,2,1,.500,0,3,.909,2014-15,208,2.74,0,189
+,3,NHL,14,NSH,866,33,7,114,1,38,14,-4.55,0,0,7,1,.571,0,8,.906,2015-16,404,2.63,0,366
+,4,NHL,0,NSH,0,34,0,88,3,42,22,5.66,0,2,0,3,.727,0,16,.930,2016-17,0,1.96,0,0

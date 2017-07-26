@@ -1,0 +1,15 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WHL,10,Seattle Thunderbirds,386,18,2,0,0,31,0,0,0,0,2,0,0,0,0,0,1988-89,0,4.82,0,0
+0,WHL,27,Seattle Thunderbirds,1150,19,2,0,0,69,0,0,1,1,15,0,0,0,0,0,1989-90,0,3.60,0,0
+0,WHL,58,Seattle Thunderbirds,3289,20,18,0,0,224,0,0,3,0,32,0,0,0,0,0,1990-91,0,4.09,0,0
+0,AHL,24,Utica Devils,1322,21,12,0,0,95,0,0,1,0,9,0,0,0,0,0,1991-92,0,4.31,0,0
+0,ECHL,8,Cincinnati Cyclones,450,21,0,0,0,31,0,0,1,0,6,0,0,0,0,0,1991-92,0,4.13,0,0
+0,AHL,40,Utica Devils,2387,22,16,0,0,169,0,0,5,2,18,0,0,0,0,0,1992-93,0,4.25,0,0
+0,IHL,3,Cincinnati Cyclones,185,22,2,0,0,17,0,0,0,0,1,0,0,0,0,0,1992-93,0,5.51,0,0
+0,AHL,51,Albany River Rats,3058,23,21,0,0,184,0,0,3,0,27,0,0,0,0,0,1993-94,0,3.61,0,0
+0,AHL,45,Albany River Rats,2711,24,10,0,0,117,0,0,9,3,25,0,0,0,0,.906,1994-95,1249,2.59,0,1132
+0,AHL,5,Albany River Rats,299,25,2,0,0,13,0,0,0,0,3,0,0,0,0,.898,1995-96,128,2.61,0,115
+0,IHL,8,Cleveland Lumberjacks,477,28,6,0,1,31,0,0,1,0,1,1,0,0,0,.885,1998-99,270,3.90,4,239
+0,IHL,16,Orlando Solar Bears,868,29,4,0,0,31,0,0,2,1,9,0,0,0,0,.913,1999-00,358,2.14,16,327
+0,AHL,12,Syracuse Crunch,720,29,5,0,0,42,0,0,0,0,7,0,0,0,0,.889,1999-00,379,3.50,31,337
+0,IHL,50,Kansas City Blades,2866,30,24,0,4,150,0,0,1,2,22,4,0,0,0,.902,2000-01,1535,3.14,12,1385

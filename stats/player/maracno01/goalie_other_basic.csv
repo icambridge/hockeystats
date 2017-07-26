@@ -1,0 +1,20 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,AMHL,29,Calgary North Stars,1740,16,0,0,0,99,0,0,0,0,0,0,0,0,0,0,1990-91,0,3.41,0,0
+0,WHL,29,Saskatoon Blades,1529,17,6,0,0,87,0,0,3,1,13,0,0,0,0,0,1991-92,0,3.41,0,0
+0,WHL,53,Saskatoon Blades,1939,18,18,0,0,160,0,0,3,1,27,0,0,0,0,0,1992-93,0,4.95,0,0
+0,WHL,56,Saskatoon Blades,3219,19,13,0,0,148,0,0,1,2,41,0,0,0,0,0,1993-94,0,2.76,0,0
+0,AHL,39,Adirondack Red Wings,1997,20,15,0,0,119,0,0,2,0,12,0,0,0,0,.896,1994-95,1144,3.58,0,1025
+0,AHL,54,Adirondack Red Wings,2949,21,18,0,0,135,0,0,6,2,24,0,0,0,0,.905,1995-96,1416,2.75,0,1281
+0,AHL,68,Adirondack Red Wings,3843,22,22,0,0,173,0,0,9,5,34,0,0,0,0,.916,1996-97,2062,2.70,0,1889
+0,AHL,66,Adirondack Red Wings,3709,23,29,0,0,190,0,0,8,1,27,0,0,0,0,.912,1997-98,2152,3.07,0,1962
+0,AHL,6,Adirondack Red Wings,359,24,3,0,0,18,0,0,0,0,3,0,0,0,0,.908,1998-99,195,3.01,0,177
+0,IHL,51,Orlando Solar Bears,2963,26,13,0,2,100,0,0,3,8,33,2,0,0,0,.925,2000-01,1331,2.02,0,1231
+0,AHL,51,Chicago Wolves,2919,27,25,0,2,141,0,0,4,3,21,2,0,0,0,.906,2001-02,1498,2.90,9,1357
+0,AHL,49,Chicago Wolves,2795,28,18,0,3,134,0,0,6,2,22,3,0,0,0,.906,2002-03,1426,2.88,2,1292
+0,Russia,46,Metallurg Magnitogorsk,2463,29,0,0,1,84,0,0,0,8,0,1,0,0,0,0,2003-04,0,2.05,2,0
+0,Russia,28,Avangard Omsk,1585,30,0,0,1,62,0,0,0,0,0,1,0,0,0,0,2004-05,0,2.35,2,0
+0,Russia,44,Avangard Omsk,2565,31,0,0,2,91,0,0,0,5,0,2,0,0,0,0,2005-06,0,2.13,2,0
+0,Russia,12,Avangard Omsk,670,32,0,0,1,25,0,0,0,2,0,1,0,0,0,0,2006-07,0,2.24,0,0
+0,Germany,50,Iserlohn Roosters,2927,33,17,0,4,155,0,0,0,4,32,4,0,0,0,0,2007-08,0,3.18,4,0
+0,Germany,33,Iserlohn Roosters,1853,34,18,0,1,106,0,0,0,0,13,1,0,0,0,0,2008-09,0,3.43,2,0
+0,Germany,5,Kolner Haie,261,35,3,0,0,14,0,0,0,0,0,0,0,0,0,0,2009-10,0,3.22,0,0

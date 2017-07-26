@@ -1,0 +1,6 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHL,4,Guelph Storm,233,17,4,0,0,17,0,0,0,0,0,0,0,0,0,.890,2006-07,155,4.38,4,138
+0,OHL,10,Guelph Storm,596,18,5,0,1,19,0,0,0,1,5,1,0,0,0,.937,2007-08,301,1.91,0,282
+0,OHL,21,Brampton Battalion,1284,19,8,0,0,62,0,0,0,1,13,0,0,0,0,.898,2008-09,608,2.90,2,546
+0,AHL,0,Grand Rapids Griffins,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2013-14,0,0,0,0
+0,AHL,0,Grand Rapids Griffins,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014-15,0,0,0,0

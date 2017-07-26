@@ -1,0 +1,6 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,EHL,1,New Haven Blades,60,31,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1955-56,0,3.00,0,0
+0,EHL,2,Philadelphia Ramblers,120,32,0,0,0,9,0,0,0,0,0,0,0,0,0,0,1956-57,0,4.50,0,0
+0,AHL,1,Buffalo Bisons,60,33,1,0,0,12,0,0,0,0,0,0,0,0,0,0,1957-58,0,12.00,0,0
+0,EHL,1,Philadelphia Ramblers,60,33,0,0,0,5,0,0,0,0,0,0,0,0,0,0,1957-58,0,5.00,0,0
+0,EHL,1,Johnstown Jets,60,34,1,0,0,11,0,0,0,0,0,0,0,0,0,0,1958-59,0,11.00,0,0

@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1983-07-26,D, ,,Peter Hafner
+handed,heigh_and_weight,position,date_of_birth,name
+, ,D,1983-07-26,Peter Hafner

@@ -1,0 +1,17 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,UOVHL,4,Renfrew Creamery Kings,240,26,0,0,0,16,0,0,0,0,4,0,0,0,0,0,1907-08,0,4.00,0,0
+0,FAHL,1,Brockville Invincibles,60,26,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1907-08,0,0.00,0,0
+0,FAHL,6,Renfrew Creamery Kings,360,27,0,0,0,25,0,0,0,0,6,0,0,0,0,0,1908-09,0,4.17,0,0
+0,Exhib.,4,2 Teams,240,27,1,0,0,21,0,0,0,0,3,0,0,0,0,0,1908-09,0,5.25,0,0
+0,Exhib.,3,Edmonton Professionals,180,27,0,0,0,10,0,0,0,0,3,0,0,0,0,0,1908-09,0,3.33,0,0
+0,Exhib.,1,Strathcona Pros,60,27,1,0,0,11,0,0,0,0,0,0,0,0,0,0,1908-09,0,11.00,0,0
+0,NHA,13,Renfrew Hockey Club,790,28,4,0,0,65,0,0,1,0,8,0,0,0,0,0,1909-10,0,4.94,0,0
+0,NHA,16,Renfrew Hockey Club,960,29,8,0,0,101,0,0,0,0,8,0,0,0,0,0,1910-11,0,6.31,0,0
+0,PCHA,16,Victoria Aristocrats,975,30,9,0,0,90,0,0,0,0,7,0,0,0,0,0,1911-12,0,5.54,0,0
+0,PCHA,15,Victoria Aristocrats,927,31,5,0,0,56,0,0,0,1,10,0,0,0,0,0,1912-13,0,3.62,0,0
+0,Exhib.,3,Victoria Aristocrats,180,31,1,0,0,12,0,0,0,0,2,0,0,0,0,0,1912-13,0,4.00,0,0
+0,PCHA,16,Victoria Aristocrats,1005,32,6,0,0,80,0,0,0,0,10,0,0,0,0,0,1913-14,0,4.78,0,0
+0,PCHA,17,Victoria Aristocrats,1054,33,13,0,0,116,0,0,0,0,4,0,0,0,0,0,1914-15,0,6.60,0,0
+0,Exhib.,2,PCHA All-Stars,120,33,2,0,0,12,0,0,0,0,0,0,0,0,0,0,1914-15,0,6.00,0,0
+0,NHA,23,Montreal Wanderers,1380,34,13,0,0,110,0,0,0,1,10,0,0,0,0,0,1915-16,0,4.78,0,0
+0,NHA,15,Montreal Wanderers,879,35,12,0,0,95,0,0,0,0,3,0,0,0,0,0,1916-17,0,6.48,0,0

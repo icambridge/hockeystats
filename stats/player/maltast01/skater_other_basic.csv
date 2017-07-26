@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1985-86,17,35,38,19,0,MTHL,33,Wexford Raiders,54
+1985-86,17,1,0,0,0,ON-Jr.B,1,Wexford Raiders,1
+1986-87,18,32,29,12,0,OHL,65,Cornwall Royals,44
+1987-88,19,39,30,46,0,OHL,59,Cornwall Royals,85
+1988-89,20,53,67,70,0,OHL,58,Cornwall Royals,123
+1989-90,21,29,54,37,0,AHL,67,Baltimore Skipjacks,66
+1990-91,22,36,97,43,0,AHL,73,Baltimore Skipjacks,79
+1991-92,23,25,51,31,0,IHL,48,Kalamazoo Wings,56
+1991-92,23,3,0,3,0,AHL,10,Halifax Citadels,6
+1992-93,24,14,22,10,0,IHL,16,Atlanta Knights,24
+1993-94,25,35,79,49,0,AHL,73,Adirondack Red Wings,84
+1994-95,26,57,145,40,0,IHL,79,Chicago Wolves,97
+1995-96,27,56,161,66,0,IHL,81,Chicago Wolves,122
+1996-97,28,60,62,54,0,IHL,81,Chicago Wolves,114
+1997-98,29,46,120,57,-6,IHL,82,Chicago Wolves,103
+1998-99,30,56,164,44,26,IHL,82,Chicago Wolves,100
+1999-00,31,44,78,46,12,IHL,82,Chicago Wolves,90
+2000-01,32,25,57,26,2,IHL,50,Chicago Wolves,51
+2001-02,33,31,62,32,-12,AHL,67,Chicago Wolves,63
+2002-03,34,30,86,56,2,AHL,79,Chicago Wolves,86
+2003-04,35,31,67,33,6,AHL,76,Chicago Wolves,64
+2004-05,36,18,59,42,4,AHL,80,Chicago Wolves,60

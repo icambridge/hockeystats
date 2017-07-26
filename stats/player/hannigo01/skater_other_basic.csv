@@ -1,11 +1,11 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-55,1947-48,St. Michael\'s Majors,13,0,19,32,27,14,OHA-Jr.
-59,1948-49,St. Michael\'s Majors,13,0,20,32,34,21,OHA-Jr.
-19,1949-50,Toronto Marlboros,12,0,21,25,18,6,OHA-Sr.
-56,1950-51,St. Michael\'s Monarchs,20,0,22,30,39,19,OMHL
-4,1950-51,St. Michael\'s Monarchs,6,0,22,10,15,9,Alx-Cup
-80,1951-52,Pittsburgh Hornets,26,0,23,67,50,24,AHL
-19,1954-55,Pittsburgh Hornets,16,0,26,35,25,9,AHL
-20,1955-56,Pittsburgh Hornets,10,0,27,17,20,10,AHL
-111,1956-57,Rochester Americans,40,0,28,64,61,21,AHL
-15,1957-58,Edmonton Flyers,8,0,29,25,14,6,WHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+13,St. Michael\'s Majors,14,1947-48,32,27,55,19,0,OHA-Jr.
+13,St. Michael\'s Majors,21,1948-49,32,34,59,20,0,OHA-Jr.
+12,Toronto Marlboros,6,1949-50,25,18,19,21,0,OHA-Sr.
+20,St. Michael\'s Monarchs,19,1950-51,30,39,56,22,0,OMHL
+6,St. Michael\'s Monarchs,9,1950-51,10,15,4,22,0,Alx-Cup
+26,Pittsburgh Hornets,24,1951-52,67,50,80,23,0,AHL
+16,Pittsburgh Hornets,9,1954-55,35,25,19,26,0,AHL
+10,Pittsburgh Hornets,10,1955-56,17,20,20,27,0,AHL
+40,Rochester Americans,21,1956-57,64,61,111,28,0,AHL
+8,Edmonton Flyers,6,1957-58,25,14,15,29,0,WHL

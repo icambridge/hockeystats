@@ -1,0 +1,27 @@
+shotsPercentage,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,age,game_winning_goals,league,shorthanded_goals,average_ice_time,games_played,points,awards,power_play_goals
+0,1949-50,2,0,,0,0,0,0,0,0,TOR,0,20,0,NHL,0,,1,0,[],0
+0,1951-52,8,0,,0,0,0,0,0,0,TOR,0,22,0,NHL,0,,4,0,[],0
+0,1952-53,85,0,,0,0,0,0,0,14,TOR,2,23,0,NHL,0,,0,16,[],0
+0,1953-54,94,0,,0,0,0,0,0,24,TOR,7,24,0,NHL,0,,70,31,"[{'link': '/awards/nhl_all_star.html#1954', 'name': None}]",0
+0,1954-55,84,0,,0,0,0,0,0,9,TOR,5,25,0,NHL,0,,67,14,[],0
+0,1955-56,36,0,,0,0,0,0,0,5,TOR,0,26,0,NHL,0,,35,5,[],0
+0,1956-57,72,0,,0,0,0,0,0,19,TOR,6,27,0,NHL,0,,66,25,[],0
+0,1957-58,39,0,,0,0,0,0,0,20,TOR,6,28,0,NHL,0,,53,26,[],0
+0,1958-59,76,0,,0,0,0,0,0,21,TOR,5,29,0,NHL,0,,0,26,[],0
+0,1959-60,69,0,,0,0,0,0,0,29,TOR,3,30,0,NHL,0,,0,32,[],0
+0,1960-61,75,0,,0,0,0,0,0,15,TOR,6,31,0,NHL,0,,57,21,[],0
+0,1961-62,88,0,,0,0,0,0,0,28,TOR,10,32,0,NHL,0,,0,38,[],0
+0,1962-63,69,0,,0,0,0,0,0,19,TOR,6,33,0,NHL,0,,0,25,"[{'link': '/awards/nhl_all_star.html#1963', 'name': None}, {'link': '/awards/voting-1963.html#norris', 'name': 'Norris-3'}]",0
+0,1963-64,71,0,,0,0,0,7,0,20,TOR,9,34,7,NHL,0,,70,29,"[{'link': '/awards/nhl_all_star.html#1964', 'name': None}, {'link': '/awards/voting-1964.html#hart', 'name': 'Hart-10'}, {'link': '/awards/voting-1964.html#norris', 'name': 'Norris-2'}]",2
+0,1964-65,95,0,,0,0,0,9,0,16,TOR,12,35,2,NHL,1,,0,28,"[{'link': '/awards/voting-1965.html#norris', 'name': 'Norris-4'}]",2
+0,1965-66,76,0,,0,0,0,3,0,22,TOR,6,36,2,NHL,0,,70,28,[],3
+0,1966-67,70,0,,0,0,0,5,0,17,TOR,8,37,1,NHL,0,,0,25,"[{'link': '/awards/nhl_all_star.html#1967', 'name': None}, {'link': '/awards/voting-1967.html#norris', 'name': 'Norris-4'}]",3
+2.2,1967-68,82,18,,2,179,3,2,20,23,TOR,4,38,0,NHL,1,,69,27,"[{'link': '/awards/nhl_all_star.html#1968', 'name': None}, {'link': '/awards/voting-1968.html#norris', 'name': 'Norris-3'}]",1
+6.5,1968-69,107,18,,2,169,9,8,14,29,TOR,11,39,1,NHL,0,,74,40,"[{'link': '/awards/nhl_all_star.html#1969', 'name': None}, {'link': '/awards/voting-1969.html#norris', 'name': 'Norris-2'}]",3
+2.5,1969-70,107,18,,1,157,5,2,-3,24,TOT,4,40,1,NHL,0,,74,28,[],2
+2.6,1969-70,91,14,,1,116,4,2,4,19,TOR,3,40,1,NHL,0,,59,22,[],1
+2.4,1969-70,16,4,,0,41,1,0,-7,5,NYR,1,40,0,NHL,0,,15,6,[],1
+1.6,1970-71,57,12,,0,124,6,1,28,18,NYR,2,41,1,NHL,0,,78,20,[],1
+2.4,1971-72,40,6,,0,84,3,2,5,9,PIT,2,42,1,NHL,0,,44,11,[],0
+1.4,1972-73,56,13,,1,73,2,1,12,16,BUF,1,43,0,NHL,0,,69,17,[],0
+0.0,1973-74,53,5,,1,59,0,0,5,6,BUF,0,44,0,NHL,0,,55,6,[],0

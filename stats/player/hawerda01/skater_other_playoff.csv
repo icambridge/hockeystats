@@ -1,5 +1,5 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-0,Cornwall Royals,25,0,45,QMJHL,18,1979-80,16,20
-0,Cornwall Royals,5,0,6,M-Cup,5,1979-80,16,1
-8,Cornwall Royals,20,0,35,QMJHL,19,1980-81,17,15
-4,Cornwall Royals,4,0,12,M-Cup,5,1980-81,17,8
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+25,Cornwall Royals,20,1979-80,18,45,0,16,0,QMJHL
+5,Cornwall Royals,1,1979-80,5,6,0,16,0,M-Cup
+20,Cornwall Royals,15,1980-81,19,35,8,17,0,QMJHL
+4,Cornwall Royals,8,1980-81,5,12,4,17,0,M-Cup

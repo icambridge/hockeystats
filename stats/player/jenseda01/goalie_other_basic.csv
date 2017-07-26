@@ -1,0 +1,13 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,BCJHL,29,Penticton Vees,1732,17,7,0,0,133,0,0,0,0,22,0,0,0,0,0,1977-78,0,4.61,0,0
+0,BCJHL,42,Penticton Vees,2475,18,21,0,0,187,0,0,1,0,16,0,0,0,0,0,1978-79,0,4.53,0,0
+0,WCHA,15,University of North Dakota,890,19,0,0,0,33,0,0,0,1,0,0,0,0,0,0,1979-80,0,2.22,0,0
+0,WCHA,25,University of North Dakota,1510,20,0,0,0,110,0,0,0,0,0,0,0,0,0,0,1980-81,0,4.37,0,0
+0,WCHA,16,University of North Dakota,910,21,0,0,0,45,0,0,0,1,0,0,0,0,0,0,1981-82,0,2.97,0,0
+0,WCHA,16,University of North Dakota,905,22,0,0,0,45,0,0,0,0,0,0,0,0,0,0,1982-83,0,2.98,0,0
+0,IHL,56,Fort Wayne Komets,3325,23,12,0,0,162,0,0,3,4,40,0,0,0,0,0,1983-84,0,2.92,0,0
+0,AHL,39,Hershey Bears,2263,24,20,0,0,150,0,0,6,1,12,0,0,0,0,0,1984-85,0,3.98,0,0
+0,AHL,14,Hershey Bears,795,25,1,0,0,38,0,0,1,1,11,0,0,0,0,0,1985-86,0,2.87,0,0
+0,AHL,60,Hershey Bears,3429,26,26,0,0,215,0,0,0,0,26,0,0,0,0,0,1986-87,0,3.76,0,0
+0,AHL,42,Fredericton Express,2459,27,19,0,0,158,0,0,4,0,18,0,0,0,0,0,1987-88,0,3.86,0,0
+0,IHL,11,Milwaukee Admirals,555,28,2,0,0,36,0,0,0,0,7,0,0,0,0,0,1988-89,0,3.89,0,0

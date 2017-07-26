@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1995-96,17,2,60,12,0,OHL,60,Peterborough Petes,14
+1996-97,18,5,60,17,0,OHL,64,Peterborough Petes,22
+1997-98,19,9,75,31,-15,OHL,64,2 Teams,40
+1997-98,19,5,39,21,-12,OHL,37,Peterborough Petes,26
+1997-98,19,4,36,10,-3,OHL,27,London Knights,14
+1998-99,20,0,0,1,0,ECHL,2,Roanoke Express,1
+1998-99,20,2,48,6,0,AHL,54,Lowell Lock Monsters,8
+1999-00,21,1,61,10,14,AHL,57,Lowell Lock Monsters,11
+2000-01,22,0,0,1,-3,IHL,4,Chicago Wolves,1
+2000-01,22,2,68,14,-10,AHL,36,Louisville Panthers,16
+2001-02,23,5,30,8,-1,AHL,53,Bridgeport Sound Tigers,13
+2002-03,24,1,22,2,0,Russia,16,Lokomotiv Yaroslavl,3
+2003-04,25,0,0,1,0,Russia-3,3,Lokomotiv Yaroslavl 2,1
+2003-04,25,2,59,6,0,Russia,47,2 Teams,8
+2003-04,25,1,39,1,0,Russia,25,Lokomotiv Yaroslavl,2
+2003-04,25,1,20,5,0,Russia,22,Severstal Cherepovets,6
+2004-05,26,5,72,14,0,Russia,58,Severstal Cherepovets,19
+2005-06,27,7,86,6,0,Russia,45,Dynamo Moscow,13
+2006-07,28,1,28,0,0,Russia,17,Dynamo Moscow,1

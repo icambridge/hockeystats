@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1985-01-18,D, ,,Matthew Hansen
+handed,heigh_and_weight,position,date_of_birth,name
+, ,D,1985-01-18,Matthew Hansen

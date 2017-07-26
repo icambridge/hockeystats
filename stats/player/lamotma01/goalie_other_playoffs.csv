@@ -1,0 +1,15 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHL,15,Kingston Frontenacs,753,18,5,0,0,48,0,0,0,1,8,0,0,0,0,0,1992-93,0,3.82,0,0
+0,OHL,6,Kingston Frontenacs,224,19,2,0,0,12,0,0,0,0,2,0,0,0,0,0,1993-94,0,3.21,0,0
+0,AHL,3,Fredericton Canadiens,161,21,2,0,0,9,0,0,0,0,1,0,0,0,0,0,1995-96,0,3.35,0,0
+0,IHL,1,Indianapolis Ice,20,22,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1996-97,0,3.00,0,0
+0,IHL,4,Indianapolis Ice,177,23,3,0,0,10,0,0,0,0,1,0,0,0,0,0,1997-98,0,3.39,0,0
+0,IHL,6,Indianapolis Ice,338,24,3,0,0,10,0,0,0,2,3,0,0,0,0,.948,1998-99,192,1.78,2,182
+0,IHL,4,Cleveland Lumberjacks,325,25,2,0,0,12,0,0,0,0,2,0,0,0,0,0,1999-00,0,2.22,0,0
+0,AHL,9,Hamilton Bulldogs,551,27,3,0,0,18,0,0,0,0,6,0,0,0,0,.933,2001-02,268,1.96,0,250
+0,AHL,15,Grand Rapids Griffins,945,28,5,0,0,29,0,0,0,1,10,0,0,0,0,.935,2002-03,443,1.84,2,414
+0,AHL,4,Grand Rapids Griffins,200,29,3,0,0,12,0,0,0,0,0,0,0,0,0,.890,2003-04,109,3.60,4,97
+0,Russia,9,Lokomotiv Yaroslavl,521,30,0,0,0,21,0,0,0,0,0,0,0,0,0,0,2004-05,0,2.42,2,0
+0,Russia,4,Severstal Cherepovets,239,31,0,0,0,9,0,0,0,1,0,0,0,0,0,0,2005-06,0,2.26,2,0
+0,Russia,4,Severstal Cherepovets,219,32,0,0,0,6,0,0,0,1,0,0,0,0,0,0,2006-07,0,1.64,0,0
+0,Russia,0,SKA St. Petersburg,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2007-08,0,0,0,0

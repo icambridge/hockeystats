@@ -1,0 +1,14 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,60,0,22,0,18,0,,TOR,[],0,0,13,0,5,0,1946-47,,0,0,0,0
+NHL,58,0,23,0,18,0,,TOR,[],0,0,11,0,7,0,1947-48,,0,118,0,0
+NHL,0,0,24,0,15,0,,TOR,[],0,0,13,0,2,0,1948-49,,0,85,0,0
+NHL,68,0,25,0,17,0,,TOR,"[{'link': '/awards/nhl_all_star.html#1950', 'name': None}]",0,0,14,0,3,0,1949-50,,0,125,0,0
+NHL,60,0,26,0,13,0,,TOR,[],0,0,10,0,3,0,1950-51,,0,0,0,0
+NHL,65,0,27,0,11,0,,TOR,[],0,0,10,0,1,0,1951-52,,0,106,0,0
+NHL,68,0,28,0,23,0,,CBH,[],0,0,18,0,5,0,1952-53,,0,88,0,0
+NHL,68,0,29,0,18,0,,CBH,[],0,0,13,0,5,0,1953-54,,0,0,0,0
+NHL,65,0,30,0,13,0,,CBH,[],0,0,11,0,2,0,1954-55,,0,133,0,0
+NHL,52,0,31,0,15,0,,CBH,[],0,0,10,0,5,0,1955-56,,0,87,0,0
+NHL,0,0,32,0,23,0,,CBH,[],0,0,18,0,5,0,1956-57,,0,0,0,0
+NHL,67,0,33,0,13,0,,CBH,[],0,0,10,0,3,0,1957-58,,0,62,0,0
+NHL,36,0,34,0,1,0,,DET,[],0,0,1,0,0,0,1958-59,,0,22,0,0

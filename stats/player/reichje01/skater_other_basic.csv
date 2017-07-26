@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1993-94,14,70,120,65,0,SAHA,80,Pilote Butte,135
+1994-95,15,13,81,20,0,SMHL,35,Saskatoon Contacts,33
+1995-96,16,11,88,11,0,WHL,65,Seattle Thunderbirds,22
+1996-97,17,19,104,31,10,WHL,62,Seattle Thunderbirds,50
+1997-98,18,32,168,31,14,WHL,65,2 Teams,63
+1997-98,18,24,121,23,17,WHL,43,Seattle Thunderbirds,47
+1997-98,18,8,47,8,-3,WHL,22,Swift Current Broncos,16
+1998-99,19,21,220,28,0,WHL,67,Swift Current Broncos,49
+1999-00,20,33,167,58,32,WHL,72,Swift Current Broncos,91
+2000-01,21,6,108,9,-5,AHL,56,Syracuse Crunch,15
+2001-02,22,9,178,7,-6,AHL,59,Syracuse Crunch,16
+2002-03,23,14,195,13,-21,AHL,78,Syracuse Crunch,27
+2003-04,24,14,150,37,8,AHL,72,Syracuse Crunch,51
+2004-05,25,7,223,9,-5,AHL,68,2 Teams,16
+2004-05,25,4,189,5,-8,AHL,50,Syracuse Crunch,9
+2004-05,25,3,34,4,3,AHL,18,Houston Aeros,7
+2005-06,26,8,235,15,-4,AHL,77,Providence Bruins,23
+2006-07,27,4,105,7,-10,AHL,46,Providence Bruins,11
+2008-09,29,21,139,13,9,AHL,76,Providence Bruins,34
+2009-10,30,12,24,8,0,AHL,33,Bridgeport Sound Tigers,20
+2010-11,31,14,52,9,-12,AHL,72,Providence Bruins,23
+2011-12,32,2,117,11,0,Germany,41,ERC Ingolstadt,13

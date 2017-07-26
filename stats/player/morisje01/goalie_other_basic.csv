@@ -1,0 +1,21 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,QHL,1,Chicoutimi Sagueneens,60,18,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1955-56,0,3.00,0,0
+0,QNBHL,9,Causapscal Pirates,540,24,6,0,0,54,0,0,1,0,2,0,0,0,0,0,1961-62,0,6.00,0,0
+0,NSSHL,7,Amherst Ramblers,420,24,2,0,0,20,0,0,0,1,5,0,0,0,0,0,1961-62,0,2.86,0,0
+0,NSSHL,55,2 Teams,3308,25,22,0,0,230,0,0,2,1,31,0,0,0,0,0,1962-63,0,4.17,0,0
+0,NSSHL,22,Amherst Ramblers,1328,25,8,0,0,91,0,0,2,0,12,0,0,0,0,0,1962-63,0,4.11,0,0
+0,NSSHL,33,Moncton Hawks,1980,25,14,0,0,139,0,0,0,1,19,0,0,0,0,0,1962-63,0,4.21,0,0
+0,CPHL,7,Omaha Knights,420,26,1,0,0,22,0,0,2,0,4,0,0,0,0,0,1963-64,0,3.14,0,0
+0,AHL,6,2 Teams,370,26,2,0,0,16,0,0,1,1,3,0,0,0,0,0,1963-64,0,2.59,0,0
+0,AHL,1,Quebec Aces,60,26,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1963-64,0,2.00,0,0
+0,AHL,5,Cleveland Barons,310,26,2,0,0,14,0,0,1,1,2,0,0,0,0,0,1963-64,0,2.71,0,0
+0,CPHL,12,Omaha Knights,720,27,6,0,0,39,0,0,2,3,4,0,0,0,0,0,1964-65,0,3.25,0,0
+0,AHL,31,2 Teams,1843,27,16,0,0,108,0,0,1,1,13,0,0,0,0,0,1964-65,0,3.52,0,0
+0,AHL,11,Cleveland Barons,670,27,6,0,0,38,0,0,1,0,4,0,0,0,0,0,1964-65,0,3.40,0,0
+0,AHL,20,Baltimore Clippers,1173,27,10,0,0,70,0,0,0,1,9,0,0,0,0,0,1964-65,0,3.58,0,0
+0,AHL,8,Cleveland Barons,398,28,2,0,0,24,0,0,0,0,4,0,0,0,0,0,1965-66,0,3.62,0,0
+0,WHL,7,California Golden Seals,438,29,2,0,0,21,0,0,0,1,5,0,0,0,0,0,1966-67,0,2.88,0,0
+0,AHL,9,Quebec Aces,409,29,2,0,0,19,0,0,1,0,3,0,0,0,0,0,1966-67,0,2.79,0,0
+0,WHL,11,Vancouver Canucks,638,30,8,0,0,58,0,0,1,0,1,0,0,0,0,0,1967-68,0,5.45,0,0
+0,Nfld-Sr.,35,Grand Falls Cataracts,2100,33,16,0,0,144,0,0,5,1,14,0,0,0,0,0,1970-71,0,4.11,0,0
+0,Nfld-Sr.,33,Grand Falls Flyers,1980,34,5,0,0,77,0,0,3,5,25,0,0,0,0,0,1971-72,0,2.33,0,0

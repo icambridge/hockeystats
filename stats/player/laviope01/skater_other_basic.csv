@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1982-83,18,3,14,7,0,NCAA-2,26,Westfield State College,10
+1983-84,19,15,52,14,0,NCAA-2,25,Westfield State College,29
+1984-85,20,13,22,15,0,NCAA-2,23,Westfield State College,28
+1985-86,21,12,44,8,0,NCAA-2,19,Westfield State College,20
+1986-87,22,10,146,20,0,IHL,72,Indianapolis Checkers,30
+1987-88,23,4,82,20,0,Nat-Tm,54,United States,24
+1987-88,23,0,4,2,0,Olympics,5,United States,2
+1987-88,23,2,27,5,0,IHL,19,Colorado Rangers,7
+1988-89,24,6,120,19,0,IHL,57,Denver Rangers,25
+1989-90,25,6,82,18,0,IHL,62,Flint Spirits,24
+1990-91,26,12,72,24,0,AHL,65,Binghamton Rangers,36
+1991-92,27,4,50,10,0,AHL,50,Binghamton Rangers,14
+1992-93,28,13,64,42,0,AHL,74,Providence Bruins,55
+1993-94,29,10,63,25,0,Nat-Tm,56,United States,35
+1993-94,29,1,6,0,0,Olympics,8,United States,1
+1993-94,29,3,20,4,0,IHL,17,San Diego Gulls,7
+1994-95,30,7,84,23,0,AHL,65,Providence Bruins,30
+1995-96,31,9,53,17,0,AHL,72,Providence Bruins,26
+1996-97,32,6,40,8,0,AHL,41,Providence Bruins,14

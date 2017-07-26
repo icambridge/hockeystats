@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1982-10-01, ,LW,Ned Havern,
+handed,heigh_and_weight,position,date_of_birth,name
+, ,LW,1982-10-01,Ned Havern

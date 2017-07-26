@@ -1,0 +1,17 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+0,NHL,81,3,24,0,0,105,39,0,11,1375,LAK,0,0,"[{'link': '/awards/voting-2001.html#AS', 'name': 'AS-18'}, {'link': '/awards/voting-2001.html#calder', 'name': 'Calder-4'}]",6.7,4,32,16,7,0,0,2000-01,0,16:58,3,36,0,21
+0,NHL,72,2,25,0,0,95,21,0,5,1170,LAK,0,0,[],4.2,3,17,-5,4,0,0,2001-02,0,16:15,1,14,0,12
+0,NHL,57,1,26,0,0,85,24,0,6,1102,LAK,0,0,[],9.4,7,16,2,8,0,0,2002-03,0,19:20,1,28,0,10
+0,NHL,58,0,27,0,0,114,29,0,12,1394,LAK,0,0,[],7.0,3,21,8,8,0,0,2003-04,0,24:02,5,26,0,9
+0,NHL,80,3,29,0,0,152,67,0,31,1862,LAK,0,0,"[{'link': '/awards/voting-2006.html#AS', 'name': 'AS-10'}, {'link': '/awards/voting-2006.html#norris', 'name': 'Norris-10'}]",11.2,7,50,7,17,0,0,2005-06,0,23:16,10,50,0,19
+0,NHL,69,0,30,0,0,159,58,0,25,1687,LAK,0,0,"[{'link': '/awards/voting-2007.html#AS', 'name': 'AS-18'}, {'link': '/awards/voting-2007.html#norris', 'name': 'Norris-16'}]",11.3,10,40,1,18,0,0,2006-07,0,24:27,8,26,0,15
+91,NHL,82,1,31,7,340,153,41,60,19,1886,LAK,40,12.5,"[{'link': '/awards/voting-2008.html#byng', 'name': 'Byng-45'}]",5.2,5,33,-18,8,1,0,2007-08,118,23:00,3,34,1,13
+53,NHL,50,1,32,0,200,86,31,27,12,1151,EDM,18,0,[],9.3,3,23,6,8,0,0,2008-09,82,23:01,5,30,0,11
+73,NHL,73,2,33,0,296,131,45,37,18,1599,TOT,40,0,"[{'link': '/awards/voting-2010.html#byng', 'name': 'Byng-45'}]",11.5,10,30,-10,15,0,0,2009-10,105,21:54,5,20,0,12
+60,NHL,57,1,33,0,193,78,32,32,13,1183,EDM,29,0,"[{'link': '/awards/voting-2010.html#byng', 'name': 'Byng-45'}]",12.8,6,22,-4,10,0,0,2009-10,82,20:45,4,16,0,9
+13,NHL,16,1,33,0,103,53,13,5,5,416,ANA,11,0,"[{'link': '/awards/voting-2010.html#byng', 'name': 'Byng-45'}]",9.4,4,8,-6,5,0,0,2009-10,23,26:00,1,4,0,3
+45,NHL,81,4,34,0,339,152,68,52,26,1968,ANA,30,0,"[{'link': '/awards/voting-2011.html#AS', 'name': 'AS-4'}, {'link': '/awards/nhl_all_star.html#2011', 'name': None}, {'link': '/awards/voting-2011.html#byng', 'name': 'Byng-13'}, {'link': '/awards/voting-2011.html#hart', 'name': 'Hart-23'}, {'link': '/awards/voting-2011.html#norris', 'name': 'Norris-4'}]",11.8,13,50,18,18,0,0,2010-11,116,24:18,5,24,0,24
+35,NHL,68,1,35,0,243,112,27,63,9,1414,ANA,22,100.0,[],5.4,5,21,7,6,1,0,2011-12,78,20:47,1,47,0,12
+30,NHL,35,0,36,0,143,69,14,20,7,798,NYI,13,0,"[{'link': '/awards/voting-2013.html#AS', 'name': 'AS-28'}, {'link': '/awards/voting-2013.html#norris', 'name': 'Norris-23'}]",4.3,2,11,12,3,0,0,2012-13,52,22:48,1,20,0,4
+18,NHL,24,1,37,0,84,34,11,14,5,493,NYI,15,0,[],8.8,1,8,-1,3,0,0,2013-14,26,20:32,2,10,0,3
+46,NHL,53,1,38,1,181,85,20,38,3,1035,NYI,46,0.0,[],5.9,3,15,-3,5,0,0,2014-15,61,19:32,2,8,0,12

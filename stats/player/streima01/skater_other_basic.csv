@@ -1,0 +1,47 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,17,1,6,2,0,EJC-A,5,Switzerland,3
+1995-96,18,2,6,2,0,Swiss,34,HC Fribourg-Gotteron,4
+1995-96,18,1,4,0,0,WJC-A,5,Switzerland,1
+1996-97,19,2,18,9,0,Swiss,46,HC Davos,11
+1996-97,19,0,2,0,0,Oly-Q,4,Switzerland,0
+1996-97,19,2,31,0,0,WJC-A,6,Switzerland,2
+1997-98,20,0,2,0,0,WC-A,9,Switzerland,0
+1997-98,20,4,14,10,0,Swiss,40,2 Teams,14
+1997-98,20,0,0,0,0,Swiss,2,HC Ambri-Piotta,0
+1997-98,20,4,14,10,0,Swiss,38,HC Davos,14
+1998-99,21,7,42,18,0,Swiss,44,HC Davos,25
+1998-99,21,4,2,0,0,WC-A,6,Switzerland,4
+1999-00,22,3,18,12,0,AHL,43,Springfield Falcons,15
+1999-00,22,0,2,1,0,IHL,1,Utah Grizzlies,1
+1999-00,22,0,16,5,0,ECHL,14,Tallahassee Tiger Sharks,5
+1999-00,22,0,4,1,-2,WC-A,7,Switzerland,1
+2000-01,23,5,48,11,0,Swiss,44,ZSC Lions Zurich,16
+2000-01,23,0,2,3,3,WC-A,6,Switzerland,3
+2000-01,23,5,48,11,0,Swiss-A,44,Zurich,16
+2001-02,24,6,36,17,0,Swiss,28,ZSC Lions Zurich,23
+2001-02,24,1,0,1,-2,Olympics,4,Switzerland,2
+2001-02,24,0,4,3,2,WC-A,6,Switzerland,3
+2001-02,24,7,36,16,0,Swiss-A,28,Zurich,23
+2002-03,25,4,62,19,0,Swiss,37,ZSC Lions Zurich,23
+2002-03,25,0,10,4,2,WC-A,7,Switzerland,4
+2002-03,25,4,62,20,0,Swiss-A,37,Zurich,24
+2003-04,26,12,78,24,0,Swiss,48,ZSC Lions Zurich,36
+2003-04,26,1,2,1,1,WC-A,7,Switzerland,2
+2003-04,26,12,78,24,0,Swiss-A,48,Zurich,36
+2004-05,27,14,46,29,0,Swiss,44,ZSC Lions Zurich,43
+2004-05,27,1,8,2,0,Oly-Q,3,Switzerland,3
+2004-05,27,1,4,6,1,WC-A,7,Switzerland,7
+2004-05,27,14,46,29,0,Swiss-A,44,Zurich,43
+2005-06,28,2,6,1,1,Olympics,6,Switzerland,3
+2005-06,28,0,6,3,4,WC-A,6,Switzerland,3
+2006-07,29,1,6,3,0,WC-A,7,Switzerland,4
+2008-09,31,1,8,4,-3,WC-A,6,Switzerland,5
+2009-10,32,0,0,3,-2,Olympics,5,Switzerland,3
+2011-12,34,2,6,2,-5,WC-A,7,Switzerland,4
+2012-13,35,7,30,19,0,Swiss,32,SC Bern,26
+2012-13,35,7,30,19,19,Swiss-A,32,Bern,26
+2013-14,36,0,2,1,0,Internationa,4,Switzerland (all),1
+2013-14,36,0,2,1,0,Olympics,4,Switzerland,1
+2014-15,37,1,0,0,0,Internationa,2,Switzerland (all),1
+2014-15,37,0,6,2,-5,WC,8,Switzerland,2
+2016-17,39,0,4,0,1,WCup,6,Team Europe,0

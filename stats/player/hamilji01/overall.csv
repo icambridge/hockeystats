@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1957-01-18,RW,", ",L,Jim Hamilton
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",RW,1957-01-18,Jim Hamilton

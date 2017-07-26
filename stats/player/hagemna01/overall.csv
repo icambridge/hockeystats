@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1986-10-08,D, ,,Nate Hagemo
+handed,heigh_and_weight,position,date_of_birth,name
+, ,D,1986-10-08,Nate Hagemo

@@ -1,0 +1,16 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1998-99,17,8,123,12,0,USHL,49,Thunder Bay Flyers,20
+1999-00,18,1,56,9,0,WCHA,40,University of Denver,10
+2000-01,19,2,45,6,0,WCHA,37,University of Denver,8
+2001-02,20,5,30,18,0,WCHA,39,University of Denver,23
+2002-03,21,11,33,21,0,WCHA,41,University of Denver,32
+2003-04,22,5,108,9,0,AHL,66,Worcester IceCats,14
+2004-05,23,2,106,13,1,AHL,75,Worcester IceCats,15
+2005-06,24,2,35,7,11,AHL,51,Peoria Rivermen,9
+2006-07,25,1,46,6,-8,AHL,67,Peoria Rivermen,7
+2007-08,26,0,20,5,-2,AHL,55,Peoria Rivermen,5
+2008-09,27,3,50,9,3,AHL,52,Lake Erie Monsters,12
+2009-10,28,0,2,0,-1,ECHL,3,Idaho Steelheads,0
+2009-10,28,0,24,1,0,CzRep,29,HC Eaton Pardubice,1
+2010-11,29,3,100,7,0,Austria,49,EHC Linz,10
+2011-12,30,9,36,14,0,AsianHL,36,Tohoku Free Blades,23

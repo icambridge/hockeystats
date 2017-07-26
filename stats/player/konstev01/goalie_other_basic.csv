@@ -1,0 +1,17 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,Russia-3,1,Torpedo Yaroslavl 2,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1996-97,0,0,0,0
+0,Russia-3,34,Ak Bars Kazan 2,0,16,0,0,0,129,0,0,0,0,0,0,0,0,0,0,1997-98,0,0,0,0
+0,EJC-A,1,Russia,60,16,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1997-98,0,1.00,0,0
+0,Russia-4,17,Ak Bars Kazan 2,0,17,0,0,0,38,0,0,0,0,0,0,0,0,0,0,1998-99,0,0,0,0
+0,WJ18-A,6,Russia,340,17,0,0,0,13,0,0,0,1,0,0,0,0,0,0,1998-99,0,2.29,0,0
+0,Russia-2,34,Neftyanik Leninogorsk,0,18,0,0,0,92,0,0,0,0,0,0,0,0,0,0,1999-00,0,0,0,0
+0,Russia,2,Ak Bars Kazan,59,18,0,0,0,5,0,0,0,0,0,0,0,0,0,0,1999-00,0,5.08,0,0
+0,Russia-3,9,Ak Bars Kazan 2,0,18,0,0,0,30,0,0,0,0,0,0,0,0,0,0,1999-00,0,0,0,0
+0,IHL,27,Detroit Vipers,1197,19,15,0,1,85,0,0,2,0,4,1,0,0,0,.858,2000-01,598,4.26,0,513
+0,ECHL,8,Louisiana IceGators,458,19,4,0,0,21,0,0,0,0,4,0,0,0,0,.911,2000-01,236,2.75,2,215
+0,ECHL,24,Pensacola Ice Pilots,1229,20,10,0,0,71,0,0,0,0,10,0,0,0,0,0,2001-02,0,3.47,0,0
+0,AHL,3,Springfield Falcons,178,20,2,0,0,5,0,0,0,0,1,0,0,0,0,.926,2001-02,68,1.69,0,63
+0,AHL,39,Springfield Falcons,2188,21,23,0,0,118,0,0,1,1,13,0,0,0,0,.889,2002-03,1067,3.24,0,949
+0,ECHL,12,Pensacola Ice Pilots,651,22,6,0,1,40,0,0,2,0,2,1,0,0,0,.903,2003-04,414,3.69,0,374
+0,Russia-3,1,Severstal Cherepovets 2,60,22,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2003-04,0,2.00,0,0
+0,Russia-2,4,Dynamo-Energiya Yekaterinburg,225,23,0,0,0,13,0,0,0,0,0,0,0,0,0,0,2004-05,0,3.47,0,0

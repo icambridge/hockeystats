@@ -1,14 +1,14 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-107,1992-93,Shellbrook Steelers,63,0,17,42,105,42,SMHL
-122,1993-94,Tacoma Rockets,31,0,18,71,54,23,WHL
-142,1994-95,Tacoma Rockets,41,0,19,71,73,32,WHL
-85,1995-96,Springfield Falcons,16,0,20,67,22,6,AHL
-23,1996-97,Springfield Falcons,1,0,21,12,4,3,AHL
-70,1997-98,Springfield Falcons,14,5,22,73,34,20,AHL
-85,1998-99,Springfield Falcons,11,-8,23,63,34,23,AHL
-164,1999-00,Springfield Falcons,27,10,24,59,48,21,AHL
-81,2000-01,Springfield Falcons,10,-1,25,24,16,6,AHL
-50,2001-02,Hershey Bears,6,14,26,35,15,9,AHL
-81,2002-03,Cleveland Barons,21,-12,27,80,44,23,AHL
-118,2003-04,Cleveland Barons,17,4,28,77,34,17,AHL
-134,2004-05,Oji Seishi Tokyo,18,0,29,39,39,21,AsianHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+63,Shellbrook Steelers,42,1992-93,42,105,107,17,0,SMHL
+31,Tacoma Rockets,23,1993-94,71,54,122,18,0,WHL
+41,Tacoma Rockets,32,1994-95,71,73,142,19,0,WHL
+16,Springfield Falcons,6,1995-96,67,22,85,20,0,AHL
+1,Springfield Falcons,3,1996-97,12,4,23,21,0,AHL
+14,Springfield Falcons,20,1997-98,73,34,70,22,5,AHL
+11,Springfield Falcons,23,1998-99,63,34,85,23,-8,AHL
+27,Springfield Falcons,21,1999-00,59,48,164,24,10,AHL
+10,Springfield Falcons,6,2000-01,24,16,81,25,-1,AHL
+6,Hershey Bears,9,2001-02,35,15,50,26,14,AHL
+21,Cleveland Barons,23,2002-03,80,44,81,27,-12,AHL
+17,Cleveland Barons,17,2003-04,77,34,118,28,4,AHL
+18,Oji Seishi Tokyo,21,2004-05,39,39,134,29,0,AsianHL

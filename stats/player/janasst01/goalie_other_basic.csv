@@ -1,0 +1,15 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WCHA,4,University of Minnesota,240,19,2,0,0,21,0,0,0,0,1,0,0,0,0,0,1975-76,0,5.25,0,0
+0,WCHA,17,University of Minnesota,1100,20,9,0,0,86,0,0,2,0,6,0,0,0,0,0,1976-77,0,4.69,0,0
+0,WCHA,28,University of Minnesota,1653,21,10,0,0,106,0,0,2,3,14,0,0,0,0,0,1977-78,0,3.85,0,0
+0,WCHA,41,University of Minnesota,2428,22,11,0,0,131,0,0,1,1,29,0,0,0,0,0,1978-79,0,3.24,0,0
+0,Nat-Tm,17,United States,894,23,0,0,0,47,0,0,0,2,0,0,0,0,0,0,1979-80,0,3.15,0,0
+0,EHL,4,Baltimore Clippers,219,23,0,0,0,19,0,0,0,0,0,0,0,0,0,0,1979-80,0,5.21,0,0
+0,CHL,2,2 Teams,119,23,1,0,0,8,0,0,0,0,1,0,0,0,0,0,1979-80,0,4.03,0,0
+0,CHL,1,Oklahoma City Stars,60,23,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1979-80,0,2.00,0,0
+0,CHL,1,Tulsa Oilers,59,23,1,0,0,6,0,0,0,0,0,0,0,0,0,0,1979-80,0,6.10,0,0
+0,CHL,6,Fort Worth Texans,357,24,6,0,0,26,0,0,0,0,0,0,0,0,0,0,1980-81,0,4.37,0,0
+0,IHL,42,Fort Wayne Komets,2196,24,0,0,0,130,0,0,0,0,0,0,0,0,0,0,1980-81,0,3.55,0,0
+0,CHL,37,Fort Worth Texans,1962,25,24,0,0,152,0,0,0,2,8,0,0,0,0,0,1981-82,0,4.65,0,0
+0,WEC-A,3,United States,180,25,0,0,0,17,0,0,0,0,0,0,0,0,0,0,1981-82,0,5.67,0,0
+0,CHL,35,Wichita Wind,1996,26,18,0,0,147,0,0,1,0,13,0,0,0,0,0,1982-83,0,4.42,0,0

@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1990-91,15,67,90,51,0,Minor-ON,59,Peterborough Legionnaires,118
+1990-91,15,0,0,0,0,ON-Jr.B,1,Peterborough Petes,0
+1991-92,16,12,17,20,0,OHL,59,Kitchener Rangers,32
+1992-93,17,26,31,21,0,OHL,53,Kitchener Rangers,47
+1993-94,18,28,25,32,0,OHL,49,Kitchener Rangers,60
+1994-95,19,29,37,45,0,OHL,60,2 Teams,74
+1994-95,19,25,26,29,0,OHL,44,Kitchener Rangers,54
+1994-95,19,4,11,16,0,OHL,16,Detroit Jr. Red Wings,20
+1995-96,20,6,32,11,0,IHL,75,Indianapolis Ice,17
+1996-97,21,6,13,6,0,AHL,36,Baltimore Bandits,12
+1996-97,21,18,20,18,0,ECHL,32,Columbus Chill,36
+1997-98,22,8,25,11,-3,IHL,60,Indianapolis Ice,19
+1998-99,23,9,30,19,-1,IHL,51,Long Beach Ice Dogs,28
+1998-99,23,8,11,15,13,ECHL,18,Florida Everblades,23
+1999-00,24,14,24,24,20,ECHL,26,Florida Everblades,38
+1999-00,24,17,14,16,1,AHL,46,Providence Bruins,33
+2000-01,25,16,18,51,14,AHL,60,Providence Bruins,67
+2001-02,26,13,30,35,-10,AHL,70,Providence Bruins,48
+2002-03,27,19,58,40,3,AHL,62,Bridgeport Sound Tigers,59
+2003-04,28,8,16,27,15,AHL,40,Bridgeport Sound Tigers,35
+2004-05,29,21,24,20,-4,AHL,61,Grand Rapids Griffins,41
+2005-06,30,25,44,47,5,AHL,80,Grand Rapids Griffins,72
+2006-07,31,5,28,13,-6,AHL,60,Hamilton Bulldogs,18
+2007-08,32,12,30,18,-3,AHL,76,Hamilton Bulldogs,30

@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2004-05,14,0,0,0,0,Sweden-4,1,Lycksele SK,0
+2005-06,15,5,2,2,0,Sweden-4,11,Lycksele SK,7
+2006-07,16,1,0,1,0,Swe-U18,4,Skelleftea AIK HK U18,2
+2006-07,16,3,12,4,0,Swe-Jr.,14,Skelleftea AIK HK Jr.,7
+2007-08,17,3,29,2,0,Swe-U18,4,Skelleftea AIK HK U18,5
+2007-08,17,11,44,15,0,Swe-Jr.,35,Skelleftea AIK HK Jr.,26
+2007-08,17,0,2,0,0,Sweden,6,Skelleftea AIK HK,0
+2007-08,17,0,2,1,0,WJ18-A,6,Sweden,1
+2007-08,17,0,2,0,0,SEL,6,Skelleftea AIK,0
+2008-09,18,8,2,7,0,Swe-Jr.,10,Skelleftea AIK Jr.,15
+2008-09,18,0,8,10,0,Sweden,45,Skelleftea AIK,10
+2008-09,18,1,0,1,0,WJC-A,6,Sweden,2
+2008-09,18,0,8,10,3,SEL,45,Skelleftea AIK,10
+2009-10,19,2,4,2,0,Swe-Jr.,3,Skelleftea AIK Jr.,4
+2009-10,19,1,14,12,0,Sweden,47,Skelleftea AIK,13
+2009-10,19,1,2,4,0,WJC-A,6,Sweden,5
+2009-10,19,1,14,12,4,SEL,47,Skelleftea AIK,13
+2010-11,20,11,14,39,0,Sweden,55,Skelleftea AIK,50
+2010-11,20,0,2,1,-1,WC-A,4,Sweden,1
+2010-11,20,11,14,39,5,SEL,55,Skelleftea AIK,50
+2011-12,21,7,27,9,-18,AHL,30,Portland Pirates,16
+2012-13,22,9,26,30,8,AHL,50,Portland Pirates,39
+2013-14,23,0,0,4,-3,AHL,6,Portland Pirates,4

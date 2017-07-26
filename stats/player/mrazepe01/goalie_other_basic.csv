@@ -1,0 +1,17 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,CzR-U17,23,HC Vitkovice U17,1273,14,0,0,0,51,0,0,0,2,0,0,0,0,0,0,2006-07,0,2.40,0,0
+0,CzR-U17,34,HC Vitkovice U17,1974,15,0,0,0,81,0,0,0,4,0,0,0,0,0,0,2007-08,0,2.46,0,0
+0,CzRep,1,HC Vitkovice Steel,24,15,0,0,0,4,0,0,0,0,0,0,0,0,0,0,2007-08,0,10.00,0,0
+0,CzR-U17,28,HC Vitkovice U17,1601,16,0,0,0,53,0,0,0,5,0,0,0,0,0,0,2008-09,0,1.99,0,0
+0,CzRep-Jr.,13,HC Vitkovice Jr.,795,16,0,0,0,33,0,0,0,0,0,0,0,0,0,0,2008-09,0,2.49,0,0
+0,OHL,30,Ottawa 67\'s,1562,17,9,0,3,78,0,0,1,2,12,3,0,0,0,0,2009-10,0,3.00,0,0
+0,OHL,52,Ottawa 67\'s,3089,18,15,0,0,146,0,0,3,4,33,0,0,0,0,.920,2010-11,1830,2.84,2,1684
+0,OHL,50,Ottawa 67\'s,3016,19,13,0,1,143,0,0,6,3,30,1,0,0,0,.917,2011-12,1720,2.84,2,1577
+0,WJC-A,6,Czech Republic,361,19,3,0,0,15,0,0,0,1,3,0,0,0,0,.928,2011-12,208,2.49,0,193
+0,WC-A,1,Czech Republic,9,19,0,0,0,0,0,0,0,0,0,0,0,0,0,1.000,2011-12,2,0.00,0,2
+0,AHL,42,Grand Rapids Griffins,2498,20,16,0,2,97,0,0,2,1,23,2,0,0,0,.916,2012-13,1150,2.33,17,1053
+0,ECHL,3,Toledo Walleye,179,20,1,0,0,6,0,0,0,0,2,0,0,0,0,.944,2012-13,108,2.01,0,102
+0,AHL,0,Grand Rapids Griffins,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2013-14,0,0,0,0
+0,AHL,0,Grand Rapids Griffins,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014-15,0,0,0,0
+0,Internationa,0,Czech Republic (all),0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-17,0,0,0,0
+0,WCup,0,Czech Republic,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-17,0,0,0,0

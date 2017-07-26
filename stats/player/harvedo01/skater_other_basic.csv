@@ -1,19 +1,19 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-0,Montreal Navy,0,0,0,MCHL,4,1942-43,18,0
-17,Montreal Jr. Royals,6,0,10,QJHL,21,1942-43,18,4
-0,Montreal Royals,0,0,0,QSHL,1,1942-43,18,0
-34,Montreal Jr. Royals,6,0,10,QJHL,13,1943-44,19,4
-2,Montreal Royals,1,0,2,QSHL,1,1943-44,19,1
-24,Montreal Navy,1,0,5,MCHL,15,1943-44,19,4
-2,Montreal Navy,2,0,2,MCHL,3,1944-45,20,0
-90,Montreal Royals,6,0,8,QSHL,34,1945-46,21,2
-171,Montreal Royals,26,0,28,QSHL,40,1946-47,22,2
-38,Buffalo Bisons,7,0,8,AHL,24,1947-48,23,1
-6,St. Paul Rangers,2,0,4,CPHL,5,1963-64,39,2
-30,Quebec Aces,36,0,42,AHL,52,1963-64,39,6
-72,Quebec Aces,36,0,37,AHL,64,1964-65,40,1
-80,Baltimore Clippers,32,0,39,AHL,67,1965-66,41,7
-32,2 Teams,18,0,20,AHL,52,1966-67,42,2
-10,Baltimore Clippers,9,0,11,AHL,24,1966-67,42,2
-22,Pittsburgh Hornets,9,0,9,AHL,28,1966-67,42,0
-12,Kansas City Blues,16,0,20,CPHL,59,1967-68,43,4
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Montreal Navy,0,1942-43,4,0,0,18,0,MCHL
+6,Montreal Jr. Royals,4,1942-43,21,10,17,18,0,QJHL
+0,Montreal Royals,0,1942-43,1,0,0,18,0,QSHL
+6,Montreal Jr. Royals,4,1943-44,13,10,34,19,0,QJHL
+1,Montreal Royals,1,1943-44,1,2,2,19,0,QSHL
+1,Montreal Navy,4,1943-44,15,5,24,19,0,MCHL
+2,Montreal Navy,0,1944-45,3,2,2,20,0,MCHL
+6,Montreal Royals,2,1945-46,34,8,90,21,0,QSHL
+26,Montreal Royals,2,1946-47,40,28,171,22,0,QSHL
+7,Buffalo Bisons,1,1947-48,24,8,38,23,0,AHL
+2,St. Paul Rangers,2,1963-64,5,4,6,39,0,CPHL
+36,Quebec Aces,6,1963-64,52,42,30,39,0,AHL
+36,Quebec Aces,1,1964-65,64,37,72,40,0,AHL
+32,Baltimore Clippers,7,1965-66,67,39,80,41,0,AHL
+18,2 Teams,2,1966-67,52,20,32,42,0,AHL
+9,Baltimore Clippers,2,1966-67,24,11,10,42,0,AHL
+9,Pittsburgh Hornets,0,1966-67,28,9,22,42,0,AHL
+16,Kansas City Blues,4,1967-68,59,20,12,43,0,CPHL

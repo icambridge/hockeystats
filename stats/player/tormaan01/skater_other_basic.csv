@@ -1,0 +1,34 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1986-87,16,15,16,15,0,Fin-U18,18,Kiekko-Espoo U18,30
+1987-88,17,21,18,21,0,Fin-Jr.,32,Kiekko-Espoo Jr.,42
+1987-88,17,0,4,1,0,EJC-A,6,Finland,1
+1988-89,18,4,8,8,0,Fin-Jr.,6,Kiekko-Espoo Jr.,12
+1988-89,18,11,27,8,0,Finland-2,39,Kiekko-Espoo,19
+1988-89,18,0,10,0,0,WC-A,12,Finland,0
+1989-90,19,13,16,15,0,Finland-2,41,Kiekko-Espoo,28
+1989-90,19,10,18,12,0,Fin-Jr.,16,2 Teams,22
+1989-90,19,7,8,7,0,Fin-Jr.,8,Kiekko-Espoo Jr.,14
+1989-90,19,3,10,5,0,Fin-Jr.,8,PvUK Lahti Jr.,8
+1990-91,20,5,6,1,0,Fin-Jr.,4,Jokerit Helsinki Jr.,6
+1990-91,20,12,70,9,0,Finland,44,Jokerit Helsinki,21
+1991-92,21,18,18,11,0,Finland,40,Jokerit Helsinki,29
+1992-93,22,3,6,2,0,Finland-2,6,Vantaa HT,5
+1992-93,22,2,8,0,0,Finland,21,Jokerit Helsinki,2
+1993-94,23,20,46,18,0,Finland,46,Jokerit Helsinki,38
+1994-95,24,19,32,13,0,Finland,50,Jokerit Helsinki,32
+1994-95,24,0,2,0,0,WC-A,5,Finland,0
+1995-96,25,6,17,11,0,AHL,22,P.E.I. Senators,17
+1996-97,26,18,54,14,0,Finland,50,Jokerit Helsinki,32
+1996-97,26,4,4,2,0,EuroHL,6,Jokerit Helsinki,6
+1996-97,26,0,2,1,0,WC-A,5,Finland,1
+1997-98,27,20,56,14,0,Finland,48,Jokerit Helsinki,34
+1997-98,27,1,2,5,0,EuroHL,6,Jokerit Helsinki,6
+1997-98,27,0,0,0,0,Olympics,5,Finland,0
+1997-98,27,3,6,2,0,WC-A,10,Finland,5
+1998-99,28,14,50,22,0,Sweden,50,HV 71 Jonkoping,36
+1998-99,28,0,10,0,0,WC-A,10,Finland,0
+1999-00,29,18,76,15,0,Sweden,50,HV 71 Jonkoping,33
+2000-01,30,15,75,19,0,Finland,56,Jokerit Helsinki,34
+2001-02,31,13,73,15,0,Finland,55,Jokerit Helsinki,28
+2002-03,32,12,46,21,0,Sweden,49,Sodertalje SK,33
+2003-04,33,6,26,3,0,Sweden,25,Sodertalje SK,9

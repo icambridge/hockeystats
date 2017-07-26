@@ -1,0 +1,22 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1985-86,16,19,240,33,0,AMHL,41,Red Deer Optimist Chiefs,52
+1985-86,16,2,19,1,0,WHL,8,Spokane Chiefs,3
+1986-87,17,15,129,25,0,WHL,68,Spokane Chiefs,40
+1987-88,18,30,231,44,0,WHL,72,Spokane Chiefs,74
+1988-89,19,31,194,27,0,WHL,60,Spokane Chiefs,58
+1988-89,19,0,0,0,0,Nat-Tm,2,Canada,0
+1988-89,19,1,12,1,0,WJC-A,7,Canada,2
+1989-90,20,7,193,11,0,AHL,50,Rochester Americans,18
+1990-91,21,13,130,15,0,AHL,71,Rochester Americans,28
+1991-92,22,11,193,20,0,AHL,73,Rochester Americans,31
+1994-95,25,9,183,21,0,IHL,64,Las Vegas Thunder,30
+1995-96,26,14,198,23,0,IHL,72,Las Vegas Thunder,37
+1996-97,27,14,177,19,0,IHL,76,Las Vegas Thunder,33
+1997-98,28,5,216,13,-8,IHL,76,2 Teams,18
+1997-98,28,4,117,6,-1,IHL,42,Las Vegas Thunder,10
+1997-98,28,1,99,7,-7,IHL,34,Utah Grizzlies,8
+1998-99,29,0,0,2,0,BH-Cup,4,Nottingham Panthers,2
+1998-99,29,3,35,3,0,Britain,27,Nottingham Panthers,6
+1998-99,29,1,21,2,1,WCHL,3,Idaho Steelheads,3
+1999-00,30,9,62,16,11,WCHL,62,Idaho Steelheads,25
+2000-01,31,2,32,4,0,WCHL,39,Idaho Steelheads,6

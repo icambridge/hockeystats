@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1983-05-02,LW, ,,Mike Hamilton
+handed,heigh_and_weight,position,date_of_birth,name
+, ,LW,1983-05-02,Mike Hamilton

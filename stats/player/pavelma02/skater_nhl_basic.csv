@@ -1,0 +1,8 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,79,3,23,180,76,7,,NYR,"[{'link': '/awards/voting-1982.html#calder', 'name': 'Calder-5'}]",18.3,18,43,21,33,3,1981-82,,12,67,1,35
+NHL,78,6,24,154,75,10,,NYR,"[{'link': '/awards/voting-1983.html#byng', 'name': 'Byng-14'}, {'link': '/awards/voting-1983.html#hart', 'name': 'Hart-10'}, {'link': '/awards/voting-1983.html#selke', 'name': 'Selke-24'}]",24.0,25,38,20,37,2,1982-83,,10,52,0,28
+NHL,77,2,25,164,82,15,,NYR,[],17.7,16,53,11,29,1,1983-84,,12,96,0,38
+NHL,48,3,26,91,45,15,,NYR,[],15.4,8,31,1,14,0,1984-85,,6,29,0,16
+NHL,59,3,27,104,40,9,,NYR,[],19.2,12,20,-3,20,0,1985-86,,8,82,0,11
+NHL,12,0,28,25,10,2,,MNS,[],16.0,4,6,7,4,0,1986-87,,0,10,0,4
+NHL,2,0,33,0,1,0,,SJS,[],0,0,1,-2,0,0,1991-92,,0,4,0,1

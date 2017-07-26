@@ -1,0 +1,12 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+0.2,0,NHL,2,NSH,63,23,1,0,0,4,0,0,0,0,1,0,0,0,0,.900,2005-06,40,3.81,0,[],36
+0.1,0,NHL,1,NSH,29,25,0,0,0,0,0,0,0,0,0,0,0,0,0,1.000,2007-08,8,0.00,0,[],8
+9.9,8,NHL,52,NSH,2999,26,15,91,1,119,49,12.32,4,7,29,1,.571,0,28,.917,2008-09,1435,2.38,6,"[{'link': '/awards/voting-2009.html#AS', 'name': 'AS-12'}, {'link': '/awards/voting-2009.html#calder', 'name': 'Calder-4'}]",1316
+9.2,7,NHL,58,NSH,3246,27,16,100,0,137,54,-0.27,5,7,32,0,.463,0,25,.911,2009-10,1541,2.53,2,"[{'link': '/awards/voting-2010.html#AS', 'name': 'AS-11'}]",1404
+15.1,8,NHL,64,NSH,3789,28,22,81,0,134,64,31.96,9,6,33,0,.672,0,43,.930,2010-11,1905,2.12,12,"[{'link': '/awards/nhl_all_star.html#2011', 'name': None}, {'link': '/awards/voting-2011.html#hart', 'name': 'Hart-4'}, {'link': '/awards/voting-2011.html#vezina', 'name': 'Vezina-2'}]",1771
+15.5,10,NHL,0,NSH,4169,29,18,89,5,166,72,20.15,8,5,0,5,.611,0,44,.923,2011-12,0,2.39,0,"[{'link': '/awards/voting-2012.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-2012.html#hart', 'name': 'Hart-7'}, {'link': '/awards/voting-2012.html#vezina', 'name': 'Vezina-3'}]",0
+6.5,10,NHL,43,NSH,2444,30,16,102,1,99,42,-2.03,0,0,15,1,.524,0,22,.910,2012-13,1101,2.43,8,[],1002
+3.0,8,NHL,24,NSH,1367,31,10,113,0,63,24,-7.42,3,2,10,0,.500,0,12,.902,2013-14,645,2.77,0,[],582
+12.6,7,NHL,64,NSH,3851,32,17,91,1,140,64,14.23,6,4,41,1,.672,0,43,.923,2014-15,1807,2.18,8,"[{'link': '/awards/voting-2015.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-2015.html#hart', 'name': 'Hart-8'}, {'link': '/awards/voting-2015.html#vezina', 'name': 'Vezina-2'}]",1667
+8.8,11,NHL,66,NSH,3895,33,21,108,2,0,66,-12.51,0,4,34,2,.485,0,32,.908,2015-16,1744,2.48,6,[],1583
+11.3,7,NHL,61,NSH,3568,34,19,95,0,144,61,8.05,9,3,31,0,.557,0,34,.918,2016-17,1757,2.42,4,[],1613

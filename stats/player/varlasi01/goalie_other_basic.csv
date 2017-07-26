@@ -1,0 +1,22 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,Russia-3,8,Lokomotiv Yaroslavl 2,369,16,0,0,0,15,0,0,0,1,0,0,0,0,0,0,2004-05,0,2.44,0,0
+0,WJ18-A,4,Russia,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2004-05,0,0,0,0
+0,Russia-3,33,Lokomotiv Yaroslavl 2,1782,17,0,0,0,60,0,0,0,8,0,0,0,0,0,0,2005-06,0,2.02,0,0
+0,Russia,0,Yaroslavl Lokomotiv,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2006-07,0,0,0,0
+0,Russia-3,2,Lokomotiv Yaroslavl 2,120,18,0,0,0,3,0,0,0,0,0,0,0,0,0,0,2006-07,0,1.50,0,0
+0,Russia,33,Lokomotiv Yaroslavl,1936,18,0,0,0,70,0,0,0,3,0,0,0,0,0,0,2006-07,0,2.17,0,0
+0,WJC-A,6,Russia,358,18,1,0,0,9,0,0,0,2,5,0,0,0,0,.934,2006-07,136,1.51,0,127
+0,Russia,44,Lokomotiv Yaroslavl,2592,19,0,0,0,106,0,0,0,3,0,0,0,0,0,0,2007-08,0,2.45,0,0
+0,AHL,27,Hershey Bears,1551,20,7,0,3,62,0,0,1,2,19,3,0,0,0,.916,2008-09,736,2.40,6,674
+0,AHL,3,Hershey Bears,185,21,0,0,0,6,0,0,0,0,3,0,0,0,0,.933,2009-10,90,1.95,2,84
+0,WC-A,5,Russia,298,21,1,0,0,7,0,0,0,1,4,0,0,0,0,.951,2009-10,142,1.41,0,135
+0,AHL,3,Hershey Bears,179,22,1,0,0,10,0,0,0,0,2,0,0,0,0,.855,2010-11,69,3.35,0,59
+0,WC-A,8,Russia,440,23,0,0,0,13,0,0,0,1,8,0,0,0,0,.939,2011-12,214,1.77,0,201
+0,KHL,0,Yaroslavl Lokomotiv,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012-13,0,0,4,0
+0,KHL,16,Lokomotiv Yaroslavl,929,24,4,0,1,27,0,0,0,3,8,1,0,0,0,0,2012-13,0,1.74,4,0
+0,WC-A,4,Russia,201,24,1,0,1,12,0,0,0,0,2,1,0,0,0,.878,2012-13,98,3.58,2,86
+0,Olympics,0,Russia,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2013-14,0,0,0,0
+0,Internationa,0,Russia (all),0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2013-14,0,0,0,0
+0,Internationa,0,Russia (all),0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-16,0,0,0,0
+0,EHT,0,Russia,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-16,0,0,0,0
+0,WCup,0,Russia,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-17,0,0,0,0

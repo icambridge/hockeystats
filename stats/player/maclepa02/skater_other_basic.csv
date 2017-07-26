@@ -1,0 +1,18 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1986-87,17,12,29,40,0,AJHL,59,Fort Saskatchewan Traders,52
+1987-88,18,13,27,33,0,WHL,50,Kamloops Blazers,46
+1988-89,19,11,14,34,0,WHL,37,Kamloops Blazers,45
+1989-90,20,9,27,38,0,IHL,82,Kalamazoo Wings,47
+1990-91,21,10,16,30,0,IHL,59,Kalamazoo Wings,40
+1991-92,22,9,19,21,0,IHL,45,Kansas City Blades,30
+1992-93,23,8,14,8,0,IHL,18,Kansas City Blades,16
+1993-94,24,21,18,52,0,IHL,73,Milwaukee Admirals,73
+1994-95,25,11,16,36,0,IHL,69,Milwaukee Admirals,47
+1995-96,26,3,18,23,0,IHL,50,Michigan K-Wings,26
+1996-97,27,1,4,2,0,Sweden,12,Farjestads BK Karlstad,3
+1996-97,27,2,2,0,0,EuroHL,4,Farjestads BK Karlstad,2
+1996-97,27,5,8,8,0,IHL,41,Cincinnati Cyclones,13
+1997-98,28,16,51,39,10,IHL,78,Cincinnati Cyclones,55
+1998-99,29,5,4,5,-7,IHL,18,Cincinnati Cyclones,10
+1999-00,30,1,29,18,-6,IHL,62,Cincinnati Cyclones,19
+1999-00,30,0,4,2,-1,ECHL,3,Florida Everblades,2

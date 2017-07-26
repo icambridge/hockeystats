@@ -1,4 +1,4 @@
-power_play_goals,assists,points,power_play_assists,league,even_strength_assists,game_winning_goals,shorthanded_goals,shotsPercentage,games_played,average_ice_time,year,team,age,plus_minus,shorthanded_assists,even_strength_goals,pim,awards,total_ice_time,goals,shots
-0,1,1,0,NHL,1,0,0,0.0,11,9:46,2000-01,CHI,24,-3,0,0,9,[],107,0,15
-0,0,0,0,NHL,0,0,0,0.0,3,8:38,2001-02,CHI,25,-2,0,0,0,[],26,0,1
-0,0,0,0,NHL,0,0,0,0,4,6:20,2003-04,MDA,27,0,0,0,4,[],25,0,0
+shotsPercentage,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,age,game_winning_goals,league,shorthanded_goals,average_ice_time,games_played,points,awards,power_play_goals
+0.0,2000-01,9,1,107,0,15,0,0,-3,1,CHI,0,24,0,NHL,0,9:46,11,1,[],0
+0.0,2001-02,0,0,26,0,1,0,0,-2,0,CHI,0,25,0,NHL,0,8:38,3,0,[],0
+0,2003-04,4,0,25,0,0,0,0,0,0,MDA,0,27,0,NHL,0,6:20,4,0,[],0

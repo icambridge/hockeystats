@@ -1,0 +1,32 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1983-84,16,25,0,34,0,GLJHL,60,St. Clair Shores Falcons,59
+1985-86,18,20,0,30,0,NAHL,43,St. Clair Shores Falcons,50
+1985-86,18,9,26,10,0,CCHA,45,Michigan State Spartans,19
+1986-87,19,20,40,13,0,CCHA,40,Michigan State Spartans,33
+1986-87,19,3,8,3,0,WJC-A,7,United States,6
+1987-88,20,42,52,25,0,CCHA,46,Michigan State Spartans,67
+1988-89,21,36,78,41,0,CCHA,47,Michigan State Spartans,77
+1989-90,22,22,55,28,0,AHL,66,Newmarket Saints,50
+1990-91,23,28,67,31,0,AHL,79,2 Teams,59
+1990-91,23,24,59,22,0,AHL,65,Newmarket Saints,46
+1990-91,23,4,8,9,0,AHL,14,Baltimore Skipjacks,13
+1991-92,24,12,39,18,0,AHL,53,Baltimore Skipjacks,30
+1991-92,24,8,19,10,0,IHL,13,Kalamazoo Wings,18
+1992-93,25,54,97,69,0,German-2,45,ECD Sauerland,123
+1993-94,26,45,84,47,0,German-2,52,ECD Sauerland,92
+1994-95,27,15,4,24,0,EuroHL,16,HC Courmaosta,39
+1994-95,27,9,6,14,0,Italy,16,HC Courmaosta,23
+1994-95,27,2,6,5,0,Austria,7,Klagenfurter AC,7
+1995-96,28,41,36,32,0,Germany,46,Ratinger Lowen,73
+1996-97,29,21,28,16,0,Germany,48,Ratinger Lowen,37
+1997-98,30,9,12,13,0,Germany,27,Revier Lowen Oberhausen,22
+1997-98,30,4,2,5,0,Swiss,11,ZSC Lions Zurich,9
+1998-99,31,4,0,2,-2,UHL,4,Flint Generals,6
+1998-99,31,21,60,20,16,IHL,67,Detroit Vipers,41
+1999-00,32,22,18,37,32,UHL,32,Flint Generals,59
+1999-00,32,13,21,21,7,IHL,51,Houston Aeros,34
+2000-01,33,15,61,31,-16,IHL,80,Houston Aeros,46
+2001-02,34,45,40,59,18,UHL,74,Flint Generals,104
+2002-03,35,35,88,62,-15,UHL,73,Flint Generals,97
+2003-04,36,35,54,81,-4,UHL,76,Flint Generals,116
+2004-05,37,31,30,72,33,UHL,79,Flint Generals,103

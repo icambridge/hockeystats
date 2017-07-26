@@ -1,14 +1,14 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-0,,D,,0,0,0,0,31,0,17,9,Sprague Cleghorn,5.4,2.4,26,0,80,,24,0,3.0,0,/players/c/cleghsp01.html
-0,,RW,,0,0,0,0,30,0,21,3,Odie Cleghorn,3.2,0.6,24,0,26,,24,0,2.6,0,/players/c/cleghod01.html
-0,,RW,,0,0,0,0,22,0,17,5,Billy Boucher,2.6,0.6,22,0,18,,24,0,2.0,0,/players/b/bouchbi01.html
-0,,LW,,0,0,0,0,34,0,13,5,Louis Berlinguette,1.8,0.6,18,0,10,,24,0,1.2,0,/players/b/berlilo01.html
-0,,C,,0,0,0,0,34,0,9,5,Newsy Lalonde,1.2,0.5,14,0,20,,20,0,0.7,0,/players/l/lalonne01.html
-0,,D,,0,0,0,0,27,0,3,7,Bert Corbeau,2.3,2.2,10,0,26,,22,0,0.1,0,/players/c/corbebe01.html
-0,,D,,0,0,0,0,29,0,4,3,Billy Coutu,2.2,2.4,7,0,8,,24,0,-0.2,0,/players/c/coutubi01.html
-0,,RW,,0,0,0,0,38,0,2,4,Didier Pitre,-0.4,0.6,6,0,12,,23,0,-1.0,0,/players/p/pitredi01.html
-0,,F,,0,0,0,0,29,0,1,5,Edmond Bouchard,-0.3,0.5,6,0,4,,18,0,-0.7,0,/players/b/bouched01.html
-0,,F,,0,0,0,0,30,0,1,0,Billy Bell,-0.1,0.2,1,0,0,,6,0,-0.3,0,/players/b/bellbi01.html
-0,,LW,,0,0,0,0,34,0,0,0,Jack McDonald,-0.2,0.1,0,0,0,,3,0,-0.2,0,/players/m/mcdonja01.html
-0,,D,,0,0,0,0,28,0,0,0,Phil Stevens,0.2,0.4,0,0,0,,4,0,-0.2,0,/players/s/steveph01.html
-0,,G,,0,0,0,0,35,0,0,0,Georges Vezina,4.0,0.0,0,0,2,,24,0,0.0,0,/players/v/vezinge01.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+9,0,17,31,,3.0,2.4,0,,0,D,5.4,0,MTL,/players/c/cleghsp01.html,0,80,0,0,Sprague Cleghorn,,1922,26,0,24,0
+3,0,21,30,,2.6,0.6,0,,0,RW,3.2,0,MTL,/players/c/cleghod01.html,0,26,0,0,Odie Cleghorn,,1922,24,0,24,0
+5,0,17,22,,2.0,0.6,0,,0,RW,2.6,0,MTL,/players/b/bouchbi01.html,0,18,0,0,Billy Boucher,,1922,22,0,24,0
+5,0,13,34,,1.2,0.6,0,,0,LW,1.8,0,MTL,/players/b/berlilo01.html,0,10,0,0,Louis Berlinguette,,1922,18,0,24,0
+5,0,9,34,,0.7,0.5,0,,0,C,1.2,0,MTL,/players/l/lalonne01.html,0,20,0,0,Newsy Lalonde,,1922,14,0,20,0
+7,0,3,27,,0.1,2.2,0,,0,D,2.3,0,MTL,/players/c/corbebe01.html,0,26,0,0,Bert Corbeau,,1922,10,0,22,0
+3,0,4,29,,-0.2,2.4,0,,0,D,2.2,0,MTL,/players/c/coutubi01.html,0,8,0,0,Billy Coutu,,1922,7,0,24,0
+4,0,2,38,,-1.0,0.6,0,,0,RW,-0.4,0,MTL,/players/p/pitredi01.html,0,12,0,0,Didier Pitre,,1922,6,0,23,0
+5,0,1,29,,-0.7,0.5,0,,0,F,-0.3,0,MTL,/players/b/bouched01.html,0,4,0,0,Edmond Bouchard,,1922,6,0,18,0
+0,0,1,30,,-0.3,0.2,0,,0,F,-0.1,0,MTL,/players/b/bellbi01.html,0,0,0,0,Billy Bell,,1922,1,0,6,0
+0,0,0,34,,-0.2,0.1,0,,0,LW,-0.2,0,MTL,/players/m/mcdonja01.html,0,0,0,0,Jack McDonald,,1922,0,0,3,0
+0,0,0,28,,-0.2,0.4,0,,0,D,0.2,0,MTL,/players/s/steveph01.html,0,0,0,0,Phil Stevens,,1922,0,0,4,0
+0,0,0,35,,0.0,0.0,0,,0,G,4.0,0,MTL,/players/v/vezinge01.html,0,2,0,0,Georges Vezina,,1922,0,0,24,0

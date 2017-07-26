@@ -1,0 +1,9 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+0.5,0,NHL,2,WSH,120,22,0,0,0,3,0,0,0,0,2,0,0,0,0,.935,1983-84,46,1.50,0,[],43
+2.0,0,NHL,12,WSH,661,23,2,0,1,31,0,0,1,1,8,1,0,0,0,.893,1984-85,291,2.81,0,[],260
+0.1,0,NHL,1,WSH,16,24,0,0,0,0,0,0,0,0,1,0,0,0,0,1.000,1985-86,5,0.00,0,[],5
+7.8,0,NHL,45,WSH,2536,25,18,92,0,137,0,12.59,5,0,20,0,0,0,0,.890,1986-87,1247,3.24,0,"[{'link': '/awards/voting-1987.html#AS', 'name': 'AS-10'}]",1110
+7.5,0,NHL,41,CHI,2312,26,18,98,2,160,0,2.58,8,0,13,2,0,0,0,.882,1987-88,1353,4.15,0,[],1193
+2.1,0,NHL,22,QUE,1168,27,14,122,1,92,0,-16.39,1,0,5,1,0,0,0,.853,1988-89,627,4.73,2,[],535
+2.0,0,NHL,16,WSH,822,28,9,104,0,48,0,-1.76,1,0,4,0,0,0,0,.877,1989-90,389,3.50,4,[],341
+0.4,0,NHL,6,VAN,353,29,4,0,0,29,0,0,0,0,2,0,0,0,0,.846,1990-91,188,4.93,0,[],159

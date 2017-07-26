@@ -1,0 +1,9 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+1.0,0,NHL,6,DAL,263,26,1,0,0,9,0,0,0,0,3,0,0,0,0,.930,1996-97,129,2.05,0,[],120
+2.7,0,NHL,23,DAL,1324,27,10,105,0,49,0,-2.49,1,1,11,0,0,0,0,.901,1997-98,496,2.22,2,[],447
+3.7,0,NHL,26,DAL,1382,28,3,93,0,48,0,3.82,3,1,16,0,0,0,0,.915,1998-99,562,2.08,0,"[{'link': '/awards/jennings.html#1999', 'name': None}]",514
+10.2,0,NHL,67,STL,3960,29,15,92,1,129,0,11.54,9,0,42,1,0,0,0,.912,1999-00,1470,1.95,4,"[{'link': '/awards/nhl_all_star.html#2000', 'name': None}, {'link': '/awards/voting-2000.html#hart', 'name': 'Hart-6'}, {'link': '/awards/jennings.html#2000', 'name': None}, {'link': '/awards/voting-2000.html#vezina', 'name': 'Vezina-2'}]",1341
+7.4,0,NHL,54,STL,3232,30,18,102,1,123,0,-2.27,10,6,24,1,0,0,0,.901,2000-01,1248,2.28,6,[],1125
+11.1,0,NHL,69,CGY,4081,31,28,101,5,172,0,-2.35,0,5,30,5,0,0,0,.906,2001-02,1839,2.53,4,[],1667
+9.0,0,NHL,65,CGY,3822,32,29,107,4,164,0,-10.94,9,4,27,4,0,0,0,.902,2002-03,1679,2.57,14,[],1515
+3.0,0,NHL,18,CGY,1031,33,11,97,1,40,0,1.23,0,3,6,1,0,0,0,.914,2003-04,463,2.33,0,[],423

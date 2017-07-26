@@ -1,0 +1,12 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+0,NHL,81,0,19,0,0,66,26,0,10,1798,SJS,0,0,"[{'link': '/awards/voting-2007.html#byng', 'name': 'Byng-45'}, {'link': '/awards/voting-2007.html#calder', 'name': 'Calder-6'}]",4.5,1,23,13,3,0,0,2006-07,0,22:12,2,18,1,12
+37,NHL,82,0,20,0,181,72,14,24,4,1772,SJS,12,0,"[{'link': '/awards/voting-2008.html#byng', 'name': 'Byng-45'}]",2.8,1,12,-12,2,0,0,2007-08,85,21:37,1,24,0,8
+48,NHL,82,1,21,0,256,104,36,56,18,1960,SJS,20,0,[],5.8,3,30,15,6,0,0,2008-09,122,23:54,3,42,1,11
+27,NHL,64,0,22,0,185,74,16,52,1,1414,SJS,13,0,"[{'link': '/awards/voting-2010.html#byng', 'name': 'Byng-29'}]",4.1,2,13,21,3,0,0,2009-10,104,22:05,1,33,0,12
+45,NHL,80,2,23,0,283,116,18,50,1,1669,SJS,30,0,"[{'link': '/awards/voting-2011.html#byng', 'name': 'Byng-39'}]",3.4,4,14,14,4,0,0,2010-11,147,20:52,0,18,0,13
+44,NHL,82,1,24,0,287,119,23,45,1,1899,SJS,18,0,[],3.4,4,19,11,4,0,0,2011-12,171,23:09,0,40,1,17
+34,NHL,0,0,25,0,138,59,7,27,0,1000,SJS,10,0,[],5.1,3,4,5,3,0,0,2012-13,81,20:49,0,29,0,4
+35,NHL,81,0,26,0,336,138,24,51,1,1678,SJS,18,0,"[{'link': '/awards/voting-2014.html#AS', 'name': 'AS-12'}, {'link': '/awards/voting-2014.html#byng', 'name': 'Byng-20'}, {'link': '/awards/voting-2014.html#norris', 'name': 'Norris-12'}]",3.6,4,19,31,5,0,1,2013-14,150,20:43,0,38,1,17
+31,NHL,70,3,27,0,237,98,23,51,3,1548,SJS,11,0,[],9.2,9,14,12,9,0,0,2014-15,112,22:07,0,23,0,11
+29,NHL,67,0,28,2,280,116,39,47,8,1550,SJS,15,0.0,"[{'link': '/awards/voting-2016.html#AS', 'name': 'AS-19'}, {'link': '/awards/voting-2016.html#norris', 'name': 'Norris-20'}]",6.9,6,31,15,8,0,0,2015-16,129,23:08,2,48,2,21
+61,NHL,75,2,29,0,316,144,28,18,6,1593,SJS,23,0,"[{'link': '/awards/voting-2017.html#AS', 'name': 'AS-21'}, {'link': '/awards/voting-2017.html#norris', 'name': 'Norris-21'}]",4.2,5,22,4,6,0,0,2016-17,144,21:14,1,35,1,15

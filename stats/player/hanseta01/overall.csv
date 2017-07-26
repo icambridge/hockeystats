@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1975-06-17,RW,", ",R,Tavis Hansen
+handed,heigh_and_weight,position,date_of_birth,name
+R,", ",RW,1975-06-17,Tavis Hansen

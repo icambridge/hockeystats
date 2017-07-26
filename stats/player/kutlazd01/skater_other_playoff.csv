@@ -1,0 +1,14 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1998-99,18,0,0,0,0,CzRep,3,HC Ceske Budejovice,0
+1999-00,19,0,2,0,0,CzRep-2,2,IHC Pisek,0
+1999-00,19,0,0,0,0,CzRep,1,HC Ceske Budejovice,0
+2001-02,21,0,0,0,0,AHL,2,Providence Bruins,0
+2002-03,22,1,2,0,-1,AHL,4,Providence Bruins,1
+2003-04,23,0,2,0,-4,AHL,2,Providence Bruins,0
+2005-06,25,2,12,2,0,CzRep,10,HC Ceske Budejovice,4
+2006-07,26,0,49,0,0,CzRep,11,HC Mountfield Ceske Budejovice,0
+2007-08,27,1,6,6,0,Swiss,11,HC Ambri-Piotta,7
+2008-09,28,2,8,5,0,Swiss,12,HC Ambri-Piotta,7
+2009-10,29,1,4,1,0,Swiss,6,HC Ambri-Piotta,2
+2010-11,30,0,0,0,0,Swiss,1,HC Ambri-Piotta,0
+2012-13,32,1,2,0,0,Swiss,4,HC Ambri-Piotta,1

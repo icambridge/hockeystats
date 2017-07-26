@@ -1,0 +1,14 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,NAHL,37,Soo Indians,2113,17,14,0,0,82,0,0,0,3,21,0,0,0,0,0,1997-98,0,2.33,0,0
+0,NAHL,47,Soo Indians,2711,18,14,0,0,104,0,0,1,8,31,0,0,0,0,0,1998-99,0,2.30,0,0
+0,CCHA,26,Michigan State Spartans,1525,19,5,0,1,39,0,0,3,8,16,1,0,0,0,0,1999-00,0,1.53,0,0
+0,CCHA,40,Michigan State Spartans,2447,20,5,0,3,54,0,0,4,10,31,3,0,0,0,0,2000-01,0,1.32,0,0
+0,CCHA,40,Michigan State Spartans,2411,21,9,0,2,71,0,0,5,8,26,2,0,0,0,0,2001-02,0,1.77,0,0
+0,WC-A,4,United States,238,21,0,0,0,7,0,0,0,1,0,0,0,0,0,0,2001-02,0,1.76,0,0
+0,AHL,47,Rochester Americans,2817,22,18,0,0,110,0,0,5,2,23,0,0,0,0,.920,2002-03,1376,2.34,6,1266
+0,WC-A,4,United States,193,22,0,0,0,8,0,0,0,0,0,0,0,0,0,.889,2002-03,72,2.49,0,64
+0,AHL,60,Rochester Americans,3579,23,25,0,1,132,0,0,7,5,27,1,0,0,0,.925,2003-04,1760,2.21,2,1628
+0,AHL,63,Rochester Americans,3741,24,17,0,0,153,0,0,4,8,41,0,0,0,0,.922,2004-05,1967,2.45,12,1814
+0,AHL,2,Rochester Americans,120,25,1,0,0,5,0,0,0,0,1,0,0,0,0,.889,2005-06,45,2.50,0,40
+0,Olympics,6,United States,355,29,1,0,1,8,0,0,0,1,5,1,0,0,0,.946,2009-10,147,1.35,0,139
+0,Olympics,1,United States,60,33,0,0,0,1,0,0,0,0,1,0,0,0,0,.944,2013-14,18,1.00,0,17

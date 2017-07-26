@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1990-91,15,9,14,10,0,ON-Jr.B,24,Strathroy Blades,19
+1991-92,16,15,57,38,0,OHL,62,Sudbury Wolves,53
+1992-93,17,13,71,26,0,OHL,57,Sudbury Wolves,39
+1993-94,18,36,69,49,0,OHL,65,Sudbury Wolves,85
+1994-95,19,47,67,42,0,OHL,60,Sudbury Wolves,89
+1995-96,20,26,40,30,0,AHL,64,Rochester Americans,56
+1996-97,21,19,14,17,0,AHL,41,2 Teams,36
+1996-97,21,14,14,15,0,AHL,32,Rochester Americans,29
+1996-97,21,5,0,2,0,AHL,9,Hamilton Bulldogs,7
+1997-98,22,22,64,29,-1,AHL,70,Hamilton Bulldogs,51
+1998-99,23,9,18,10,-11,IHL,43,Indianapolis Ice,19
+1998-99,23,3,4,7,-7,AHL,23,Portland Pirates,10
+1999-00,24,18,50,33,14,AHL,80,Portland Pirates,51
+2000-01,25,0,0,0,0,IHL,2,Manitoba Moose,0
+2000-01,25,11,26,16,0,Britain,32,Manchester Storm,27
+2001-02,26,2,2,3,-5,AHL,14,Portland Pirates,5
+2001-02,26,20,34,24,26,ECHL,48,Columbia Inferno,44
+2002-03,27,23,52,33,17,ECHL,72,Columbia Inferno,56
+2003-04,28,23,22,36,21,ECHL,59,Columbia Inferno,59
+2004-05,29,16,40,31,-8,UHL,78,Missouri River Otters,47

@@ -1,0 +1,11 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2007-08,15,3,80,8,0,AMHL,31,Edmonton MLAC,11
+2007-08,15,1,2,0,0,WHL,10,Red Deer Rebels,1
+2008-09,16,1,70,12,-4,WHL,66,Red Deer Rebels,13
+2009-10,17,8,87,19,3,WHL,57,Red Deer Rebels,27
+2010-11,18,7,140,50,27,WHL,69,Red Deer Rebels,57
+2011-12,19,12,141,36,-10,WHL,68,Red Deer Rebels,48
+2011-12,19,0,0,1,-1,AHL,5,San Antonio Rampage,1
+2012-13,20,4,102,13,8,AHL,55,San Antonio Rampage,17
+2013-14,21,2,79,11,3,AHL,43,San Antonio Rampage,13
+2014-15,22,3,59,17,-2,AHL,41,San Antonio Rampage,20

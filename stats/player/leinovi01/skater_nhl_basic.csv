@@ -1,0 +1,9 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+1,NHL,13,1,25,5,36,17,9,3,0,165,DET,5,58.3,[],29.4,5,4,5,5,7,0,2008-09,1,12:42,0,6,0,4
+16,NHL,55,2,26,8,158,77,11,19,1,720,TOT,13,42.9,[],7.8,5,5,-8,6,6,0,2009-10,17,13:05,1,10,0,4
+11,NHL,42,1,26,4,115,54,7,12,1,555,DET,10,20.0,[],7.4,3,3,-10,4,1,0,2009-10,14,13:13,1,6,0,2
+5,NHL,13,1,26,4,43,23,4,7,0,165,PHI,3,55.6,[],8.7,2,2,2,2,5,0,2009-10,3,12:40,0,4,0,2
+37,NHL,81,2,27,58,196,117,53,35,6,1297,PHI,39,57.4,"[{'link': '/awards/voting-2011.html#selke', 'name': 'Selke-36'}]",16.2,14,34,14,19,78,0,2010-11,40,16:01,5,22,0,28
+24,NHL,71,1,28,135,165,78,25,41,0,1131,BUF,30,41.3,[],10.3,7,17,-2,8,95,0,2011-12,28,15:55,1,16,0,17
+2,NHL,8,0,29,6,16,11,6,5,1,126,BUF,1,40.0,[],18.2,1,4,0,2,4,0,2012-13,2,15:48,1,6,0,3
+17,NHL,58,0,30,162,82,38,15,26,6,837,BUF,23,43.6,[],0.0,0,15,-16,0,125,0,2013-14,25,14:26,0,10,0,9

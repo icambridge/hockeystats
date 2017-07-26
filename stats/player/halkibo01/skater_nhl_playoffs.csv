@@ -1,6 +1,6 @@
-shorthanded_goals,power_play_goals,year,team,average_ice_time,age,points,shotsPercentage,assists,league,pim,game_winning_goals,goals,win,plus_minus,total_ice_time,games_played,even_strength_goals,shots
-0,0,1984-85,BUF,,18,0,0.0,0,NHL,19,0,0,,0,,4,0,1
-0,0,1987-88,BUF,,21,0,0,0,NHL,22,0,0,,0,,4,0,0
-0,0,1989-90,LAK,,23,1,0.0,1,NHL,8,0,0,,-7,,8,0,10
-0,0,1990-91,LAK,,24,0,0.0,0,NHL,0,0,0,,-2,,3,0,2
-0,0,1993-94,DET,,27,0,0,0,NHL,2,0,0,,-1,,1,0,0
+even_strength_goals,assists,team,goals,pim,age,game_winning_goals,total_ice_time,league,shorthanded_goals,shots,average_ice_time,year,games_played,shotsPercentage,win,power_play_goals,points,plus_minus
+0,0,BUF,0,19,18,0,,NHL,0,1,,1984-85,4,0.0,,0,0,0
+0,0,BUF,0,22,21,0,,NHL,0,0,,1987-88,4,0,,0,0,0
+0,1,LAK,0,8,23,0,,NHL,0,10,,1989-90,8,0.0,,0,1,-7
+0,0,LAK,0,0,24,0,,NHL,0,2,,1990-91,3,0.0,,0,0,-2
+0,0,DET,0,2,27,0,,NHL,0,0,,1993-94,1,0,,0,0,-1

@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1952-10-05,", ",D,Rich Hart,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",D,1952-10-05,Rich Hart

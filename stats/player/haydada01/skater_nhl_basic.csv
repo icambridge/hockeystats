@@ -1,5 +1,5 @@
-average_ice_time,total_shots,points,game_winning_goals,shorthanded_goals,blocks,league,age,even_strength_assists,faceoff_wins,pim,plus_minus,shots,faceoff_percentage,even_strength_goals,faceoff_loses,power_play_goals,shorthanded_assists,power_play_assists,takeaways,year,team,goals,hits,assists,giveaways,shotsPercentage,total_ice_time,games_played,awards
-8:54,0,0,0,0,0,NHL,23,0,0,0,-1,1,0,0,0,0,0,0,0,2002-03,NSH,0,0,0,0,0.0,18,2,[]
-8:01,0,0,0,0,0,NHL,27,0,0,0,0,4,0,0,0,0,0,0,0,2006-07,ATL,0,0,0,0,0.0,32,4,[]
-11:46,26,8,0,0,5,NHL,28,5,0,2,4,14,0.0,1,2,0,0,2,6,2007-08,ATL,1,1,7,6,7.1,188,16,[]
-5:22,2,0,0,0,0,NHL,30,0,0,0,0,2,0,0,0,0,0,0,0,2009-10,COL,0,0,0,0,0.0,5,1,[]
+shotsPercentage,faceoff_loses,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,giveaways,total_shots,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,takeaways,faceoff_percentage,age,game_winning_goals,league,shorthanded_goals,blocks,average_ice_time,hits,games_played,faceoff_wins,points,awards,power_play_goals
+0.0,0,2002-03,0,0,18,0,0,0,1,0,0,-1,0,NSH,0,0,0,23,0,NHL,0,0,8:54,0,2,0,0,[],0
+0.0,0,2006-07,0,0,32,0,0,0,4,0,0,0,0,ATL,0,0,0,27,0,NHL,0,0,8:01,0,4,0,0,[],0
+7.1,2,2007-08,2,5,188,0,6,26,14,2,1,4,7,ATL,1,6,0.0,28,0,NHL,0,5,11:46,1,16,0,8,[],0
+0.0,0,2009-10,0,0,5,0,0,2,2,0,0,0,0,COL,0,0,0,30,0,NHL,0,0,5:22,0,1,0,0,[],0

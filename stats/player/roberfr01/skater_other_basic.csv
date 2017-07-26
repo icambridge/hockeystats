@@ -1,0 +1,32 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1928-29,17,3,0,2,0,OHA-Jr.,9,Toronto Canoe Club,5
+1929-30,18,3,0,0,0,NOJHA,5,Sudbury K of C,3
+1929-30,18,2,20,0,0,OHA-Jr.,4,Toronto Canoe Club,2
+1929-30,18,7,28,4,0,TMHL,15,Toronto Eaton\'s,11
+1930-31,19,0,14,0,0,OHA-Sr.,8,Toronto Marlboros,0
+1930-31,19,6,29,2,0,TMHL,14,Toronto Eaton\'s,8
+1931-32,20,4,16,2,0,TMHL,9,Toronto Eaton\'s,6
+1931-32,20,7,58,6,0,OHA-Sr.,20,Toronto Marlboros,13
+1932-33,21,3,109,4,0,IHL,42,Syracuse Stars,7
+1933-34,22,0,34,0,0,IHL,19,Detroit Olympics,0
+1934-35,23,3,42,4,0,IHL,45,2 Teams,7
+1934-35,23,0,22,3,0,IHL,25,Syracuse Stars,3
+1934-35,23,3,20,1,0,IHL,20,Cleveland Falcons,4
+1935-36,24,5,82,5,0,IHL,48,Cleveland Falcons,10
+1936-37,25,0,28,7,0,IAHL,32,Cleveland Barons,7
+1937-38,26,3,74,4,0,IAHL,48,Cleveland Barons,7
+1938-39,27,0,45,1,0,IAHL,51,Cleveland Barons,1
+1939-40,28,5,38,3,0,IAHL,45,Cleveland Barons,8
+1940-41,29,7,45,8,0,AHL,56,Cleveland Barons,15
+1941-42,30,5,22,8,0,AHL,48,Cleveland Barons,13
+1942-43,31,2,33,9,0,AHL,56,Cleveland Barons,11
+1943-44,32,4,14,6,0,AHL,36,2 Teams,10
+1943-44,32,1,2,1,0,AHL,3,Cleveland Barons,2
+1943-44,32,3,12,5,0,AHL,33,Pittsburgh Hornets,8
+1944-45,33,3,26,20,0,AHL,50,2 Teams,23
+1944-45,33,1,22,17,0,AHL,35,Pittsburgh Hornets,18
+1944-45,33,2,4,3,0,AHL,15,Hershey Bears,5
+1945-46,34,2,10,7,0,AHL,40,2 Teams,9
+1945-46,34,2,4,3,0,AHL,24,Hershey Bears,5
+1945-46,34,0,6,4,0,AHL,16,St. Louis Flyers,4
+1946-47,35,1,9,2,0,TIHL,20,Toronto Stoneys,3

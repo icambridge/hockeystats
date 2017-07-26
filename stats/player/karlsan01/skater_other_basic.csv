@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1992-93,17,0,6,0,0,Sweden,13,Leksands IF,0
+1992-93,17,1,0,3,0,EJC-A,4,Sweden,4
+1993-94,18,0,10,0,0,Sweden,21,Leksands IF,0
+1994-95,19,3,0,3,0,Swe-Jr.,3,Leksands IF Jr.,6
+1994-95,19,7,0,8,0,Sweden,24,Leksands IF,15
+1994-95,19,2,0,2,0,WJC-A,7,Sweden,4
+1995-96,20,4,6,1,0,Swe-Jr.,2,Leksands IF Jr.,5
+1995-96,20,10,10,13,0,Sweden,40,Leksands IF,23
+1995-96,20,0,4,0,0,WC-A,5,Sweden,0
+1996-97,21,13,39,11,0,Sweden,49,Leksands IF,24
+1997-98,22,9,20,14,0,Sweden,33,Leksands IF,23
+1997-98,22,2,2,3,0,EuroHL,6,Leksands IF,5
+1998-99,23,18,18,15,0,Sweden,49,Leksands IF,33
+1998-99,23,1,2,3,0,EuroHL,6,Leksands IF,4
+1999-00,24,5,6,5,0,IHL,18,Orlando Solar Bears,10
+2001-02,26,6,11,14,6,AHL,16,Chicago Wolves,20
+2002-03,27,12,16,20,-7,AHL,41,Chicago Wolves,32
+2003-04,28,7,30,21,0,Swiss,40,EHC Basel,28
+2004-05,29,11,12,13,0,Sweden,39,HV 71 Jonkoping,24
+2005-06,30,26,30,29,0,Sweden,50,HV 71 Jonkoping,55
+2005-06,30,5,6,4,0,WC-A,9,Sweden,9
+2008-09,33,3,6,5,0,Sweden,11,Frolunda HC Goteborg,8
+2009-10,34,3,6,3,0,Sweden,15,Frolunda HC Goteborg,6
+2010-11,35,2,12,10,0,Sweden,35,Frolunda HC Goteborg,12

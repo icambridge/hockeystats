@@ -1,0 +1,9 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,12,0,25,15,0,0,,BUF,[],0.0,0,0,-8,0,0,1970-71,,0,29,0,0
+WHA,71,0,27,0,40,0,,HSA,[],0,20,20,0,20,0,1972-73,,0,78,0,0
+WHA,56,3,28,0,52,0,,LAS,[],0,18,30,0,22,0,1973-74,,4,54,0,0
+WHA,65,0,29,143,37,0,,TOT,[],11.9,13,20,-21,17,0,1974-75,,4,34,0,0
+WHA,18,0,29,39,8,0,,MIB,[],7.7,1,5,-11,3,0,1974-75,,2,15,0,0
+WHA,47,0,29,104,29,0,,INR,[],13.5,12,15,-10,14,0,1974-75,,2,19,0,0
+WHA,62,4,30,117,33,0,,INR,[],13.7,13,17,-6,16,2,1975-76,,1,54,0,0
+WHA,50,0,31,89,28,0,,INR,[],16.9,8,13,-20,15,2,1976-77,,5,48,0,0

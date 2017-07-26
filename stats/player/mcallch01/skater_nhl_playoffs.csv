@@ -1,0 +1,4 @@
+age,win,shotsPercentage,even_strength_goals,assists,plus_minus,league,games_played,shorthanded_goals,year,game_winning_goals,shots,goals,average_ice_time,power_play_goals,pim,total_ice_time,team,points
+23,,0.0,0,1,-1,NHL,6,0,1998-99,0,2,0,13:00,0,4,78,TOR,1
+25,,0,0,0,1,NHL,2,0,2000-01,0,0,0,8:00,0,0,16,PHI,0
+27,,0,0,0,0,NHL,1,0,2002-03,0,0,0,2:34,0,0,3,COL,0

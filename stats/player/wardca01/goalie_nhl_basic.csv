@@ -1,0 +1,13 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+3.1,0,NHL,28,CAR,1484,21,8,119,2,91,0,-14.68,2,0,14,2,0,0,0,.882,2005-06,773,3.68,0,"[{'link': '/awards/smythe.html#2006', 'name': None}]",682
+8.5,0,NHL,60,CAR,3422,22,21,108,1,167,0,-13.02,6,2,30,1,0,0,0,.897,2006-07,1625,2.93,6,"[{'link': '/awards/voting-2007.html#byng', 'name': 'Byng-69'}]",1458
+10.4,14,NHL,69,CAR,3930,23,25,106,1,180,67,-10.12,5,4,37,1,.522,0,35,.904,2007-08,1870,2.75,4,[],1690
+12.9,10,NHL,68,CAR,3928,24,23,92,1,160,68,13.96,5,6,39,1,.632,0,43,.916,2008-09,1901,2.44,4,"[{'link': '/awards/voting-2009.html#AS', 'name': 'AS-7'}, {'link': '/awards/voting-2009.html#hart', 'name': 'Hart-17'}, {'link': '/awards/voting-2009.html#vezina', 'name': 'Vezina-7'}]",1741
+9.2,4,NHL,47,CAR,2651,25,23,95,3,119,44,6.02,5,0,18,3,.568,0,25,.916,2009-10,1409,2.69,0,[],1290
+0,8,NHL,0,CAR,0,26,26,89,1,0,73,22.90,10,4,37,1,.589,0,43,.923,2010-11,0,2.56,0,"[{'link': '/awards/voting-2011.html#AS', 'name': 'AS-8'}, {'link': '/awards/voting-2011.html#byng', 'name': 'Byng-48'}, {'link': '/awards/voting-2011.html#vezina', 'name': 'Vezina-7'}]",0
+13.4,10,NHL,68,CAR,3988,27,23,98,1,182,68,3.29,0,5,30,0,.559,1,38,.915,2011-12,2143,2.74,4,[],1961
+2.7,3,NHL,17,CAR,929,28,6,105,0,44,16,-1.99,1,0,9,0,.500,0,8,.908,2012-13,477,2.84,0,[],433
+3.4,6,NHL,30,CAR,1645,29,12,118,1,84,28,-13.00,6,0,10,1,.393,0,11,.898,2013-14,824,3.06,2,[],740
+7.4,7,NHL,51,CAR,3026,30,24,105,0,121,50,-5.69,5,1,22,0,.520,0,26,.910,2014-15,1351,2.40,4,[],1230
+7.0,7,NHL,52,CAR,3038,31,17,107,0,122,51,-7.65,0,1,23,0,.451,0,23,.909,2015-16,1343,2.41,0,[],1221
+8.5,9,NHL,61,CAR,3618,32,22,109,1,162,61,-13.93,12,2,26,1,.492,0,30,.905,2016-17,1711,2.69,6,[],1549

@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1995-96,15,19,30,14,0,CzRep-Jr.,37,HC Slezan Opava Jr.,33
+1996-97,16,12,22,9,0,CzRep-Jr.,16,HC Slezan Opava Jr.,21
+1997-98,17,15,36,11,0,CzRep-Jr.,37,HC Opava Jr.,26
+1998-99,18,21,0,14,0,CzRep-Jr.,38,HC Opava Jr.,35
+1998-99,18,0,0,1,0,CzRep,5,HC Bohemex Trade Opava,1
+1999-00,19,1,4,3,0,CzRep-Jr.,5,HC Havirov Jr.,4
+1999-00,19,11,41,11,0,CzRep,40,HC Femax Havirov,22
+1999-00,19,1,4,2,3,WJC-A,7,Czech Republic,3
+2000-01,20,7,58,12,0,CzRep,45,HC Femax Havirov,19
+2001-02,21,8,36,20,0,CzRep,46,HC Continental Zlin,28
+2002-03,22,13,60,12,0,CzRep,52,HC Hame Zlin,25
+2003-04,23,11,50,20,17,AHL,67,Milwaukee Admirals,31
+2004-05,24,5,59,15,2,AHL,56,Milwaukee Admirals,20
+2005-06,25,12,63,57,3,AHL,69,Milwaukee Admirals,69
+2006-07,26,9,38,5,0,CzRep,35,HC Moeller Pardubice,14
+2007-08,27,8,28,8,0,CzRep,33,HC Moeller Pardubice,16
+2008-09,28,18,60,21,0,CzRep,50,HC Moeller Pardubice,39
+2009-10,29,11,44,15,0,CzRep,49,HC Eaton Pardubice,26
+2010-11,30,4,16,4,0,KHL,21,Neftekhimik Nizhnekamsk,8
+2010-11,30,7,24,13,0,CzRep,27,HC Eaton Pardubice,20
+2011-12,31,7,71,11,0,KHL,47,Dynamo Minsk,18
+2012-13,32,1,52,5,0,KHL,39,Dynamo Minsk,6

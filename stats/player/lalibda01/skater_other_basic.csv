@@ -1,0 +1,19 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2000-01,14,0,0,1,0,QAAA,3,College Antoine-Girouard,1
+2001-02,15,21,14,21,0,QAAA,41,College Antoine-Girouard,42
+2002-03,16,15,10,14,0,QMJHL,66,Montreal Rocket,29
+2003-04,17,21,51,22,7,QMJHL,70,P.E.I. Rocket,43
+2004-05,18,23,36,13,3,QMJHL,41,P.E.I. Rocket,36
+2005-06,19,12,41,11,-15,QMJHL,34,P.E.I. Rocket,23
+2006-07,20,50,86,48,9,QMJHL,68,P.E.I. Rocket,98
+2007-08,21,3,13,6,-7,AHL,27,Philadelphia Phantoms,9
+2007-08,21,10,16,14,0,ECHL,27,Wheeling Nailers,24
+2008-09,22,28,43,20,3,AHL,70,Philadelphia Phantoms,48
+2009-10,23,18,39,28,-11,AHL,66,Adirondack Phantoms,46
+2010-11,24,9,66,15,-23,AHL,66,3 Teams,24
+2010-11,24,3,20,6,-13,AHL,19,Adirondack Phantoms,9
+2010-11,24,5,32,4,-4,AHL,30,Syracuse Crunch,9
+2010-11,24,1,14,5,-6,AHL,17,Providence Bruins,6
+2011-12,25,20,14,10,0,Germany,50,Grizzly Adams Wolfsburg,30
+2012-13,26,3,13,8,-5,AHL,21,Adirondack Phantoms,11
+2012-13,26,1,2,1,-5,ECHL,5,Trenton Titans,2

@@ -1,12 +1,12 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-5,1975-76,HIFK Helsinki,1,0,20,4,2,1,Finland
-4,1978-79,HIFK Helsinki,6,0,23,6,7,1,Finland
-6,1979-80,HIFK Helsinki,10,0,24,7,13,3,Finland
-11,1982-83,HIFK Helsinki,8,0,27,9,17,9,Finland
-2,1983-84,HIFK Helsinki,1,0,28,2,2,1,Finland
-2,1985-86,EV Landshut,2,0,30,3,3,1,W.German
-10,1986-87,HIFK Helsinki,1,0,31,3,1,0,Finland
-6,1987-88,HIFK Helsinki,5,0,32,6,9,4,Finland
-0,1988-89,HIFK Helsinki,1,0,33,2,1,0,Finland
-0,1989-90,Hockey-Reipas Lahti,3,0,34,4,5,2,Finland-2
-2,1991-92,HIFK Helsinki,3,0,36,8,4,1,Finland
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+1,HIFK Helsinki,1,1975-76,4,2,5,20,0,Finland
+6,HIFK Helsinki,1,1978-79,6,7,4,23,0,Finland
+10,HIFK Helsinki,3,1979-80,7,13,6,24,0,Finland
+8,HIFK Helsinki,9,1982-83,9,17,11,27,0,Finland
+1,HIFK Helsinki,1,1983-84,2,2,2,28,0,Finland
+2,EV Landshut,1,1985-86,3,3,2,30,0,W.German
+1,HIFK Helsinki,0,1986-87,3,1,10,31,0,Finland
+5,HIFK Helsinki,4,1987-88,6,9,6,32,0,Finland
+1,HIFK Helsinki,0,1988-89,2,1,0,33,0,Finland
+3,Hockey-Reipas Lahti,2,1989-90,4,5,0,34,0,Finland-2
+3,HIFK Helsinki,1,1991-92,8,4,2,36,0,Finland

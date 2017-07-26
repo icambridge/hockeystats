@@ -1,0 +1,31 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1989-90,18,0,10,0,0,USSR,20,Krylja Sovetov Moscow,0
+1990-91,19,0,2,1,0,USSR,16,Krylja Sovetov Moscow,1
+1991-92,20,1,14,1,0,CIS,36,Krylja Sovetov Moscow,2
+1992-93,21,1,4,0,0,CIS,12,Krylja Sovetov Moscow,1
+1993-94,22,4,14,8,0,CIS,43,Krylja Sovetov Moscow,12
+1994-95,23,8,55,12,0,CIS,52,Krylja Sovetov Moscow,20
+1994-95,23,1,0,1,0,WC-A,6,Russia,2
+1995-96,24,10,32,20,0,Germany,46,Augsburger Panther,30
+1995-96,24,2,2,1,0,WC-A,7,Russia,3
+1996-97,25,3,80,6,0,Finland,46,TPS Turku,9
+1996-97,25,0,4,1,0,EuroHL,5,TPS Turku,1
+1996-97,25,1,4,0,0,WC-A,9,Russia,1
+1997-98,26,2,8,9,0,Finland,48,TPS Turku,11
+1997-98,26,0,4,1,0,EuroHL,5,TPS Turku,1
+1997-98,26,1,2,0,0,WC-A,6,Russia,1
+1998-99,27,3,8,2,-1,IHL,19,Cleveland Lumberjacks,5
+1999-00,28,4,44,15,-12,IHL,51,Detroit Vipers,19
+2000-01,29,0,22,6,1,IHL,25,Orlando Solar Bears,6
+2001-02,30,3,50,6,0,Russia,43,Dynamo Moscow,9
+2002-03,31,1,32,3,0,Russia,37,Dynamo Moscow,4
+2003-04,32,3,46,8,0,Russia,57,Dynamo Moscow,11
+2003-04,32,1,2,0,0,WC-A,4,Russia,1
+2004-05,33,1,63,2,0,Russia,38,Dynamo Moscow,3
+2005-06,34,0,20,3,0,Russia,28,Dynamo Moscow,3
+2006-07,35,3,46,11,0,Russia,45,Vityaz Chekhov,14
+2007-08,36,3,53,4,0,Russia,42,Vityaz Chekhov,7
+2008-09,37,5,62,6,0,KHL,55,Sibir Novosibirsk,11
+2009-10,38,2,16,0,0,KHL,15,HK MVD Moscow Region,2
+2010-11,39,0,4,0,0,KHL,10,Sibir Novosibirsk,0
+2011-12,40,0,2,0,0,KHL,2,OHK Dynamo Moscow,0

@@ -1,0 +1,30 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1995-96,14,0,0,0,0,Fin-U18,5,Jokerit Helsinki U18,0
+1996-97,15,22,4,7,0,Fin-U18,27,Jokerit Helsinki U18,29
+1996-97,15,0,0,0,0,Fin-Jr.,3,Jokerit Helsinki Jr.,0
+1997-98,16,7,2,4,0,Fin-U18,7,Jokerit Helsinki U18,11
+1997-98,16,15,2,9,0,Fin-Jr.,36,Jokerit Helsinki Jr.,24
+1997-98,16,2,6,3,0,EJC-A,6,Finland,5
+1998-99,17,9,8,13,0,Fin-Jr.,20,Jokerit Helsinki Jr.,22
+1998-99,17,3,39,2,0,Finland,41,Jokerit Helsinki,5
+1998-99,17,0,0,0,0,EuroHL,3,Jokerit Helsinki,0
+1998-99,17,1,2,1,0,WJC-A,6,Finland,2
+1999-00,18,1,0,0,0,Fin-Jr.,1,Jokerit Helsinki Jr.,1
+1999-00,18,6,10,3,0,Finland,49,Jokerit Helsinki,9
+1999-00,18,0,0,3,-1,WJC-A,7,Finland,3
+2000-01,19,3,0,2,0,Fin-Jr.,3,Jokerit Helsinki Jr.,5
+2000-01,19,5,18,10,0,Finland,50,Jokerit Helsinki,15
+2000-01,19,8,0,1,5,WJC-A,7,Finland,9
+2001-02,20,25,32,17,-10,AHL,76,Hamilton Bulldogs,42
+2002-03,21,21,18,27,12,AHL,64,Hamilton Bulldogs,48
+2003-04,22,17,18,24,7,AHL,64,Toronto Roadrunners,41
+2004-05,23,21,12,18,0,Finland,56,HPK Hameenlinna,39
+2004-05,23,0,6,2,2,WC-A,7,Finland,2
+2005-06,24,1,0,0,1,WC-A,6,Finland,1
+2006-07,25,32,28,20,0,Finland,56,Jokerit Helsinki,52
+2007-08,26,10,16,10,0,Finland,37,Jokerit Helsinki,20
+2008-09,27,14,12,16,0,Finland,58,Jokerit Helsinki,30
+2009-10,28,13,26,15,0,Finland,58,Jokerit Helsinki,28
+2010-11,29,2,2,0,0,Finland,8,Jokerit Helsinki,2
+2011-12,30,17,20,14,0,Finland,60,Jokerit Helsinki,31
+2012-13,31,11,6,5,0,Finland,50,Jokerit Helsinki,16

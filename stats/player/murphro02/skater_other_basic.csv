@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1985-86,16,17,47,33,0,QAAA,41,L\'Outaouais Frontaliers,50
+1986-87,17,35,86,54,0,QMJHL,70,Laval Titan,89
+1987-88,18,27,123,53,0,QMJHL,59,2 Teams,80
+1987-88,18,11,82,25,0,QMJHL,26,Laval Titan,36
+1987-88,18,16,41,28,0,QMJHL,33,Drummondville Voltigeurs,44
+1988-89,19,13,16,25,0,QMJHL,26,Drummondville Voltigeurs,38
+1988-89,19,1,8,0,0,WJC-A,7,Canada,1
+1988-89,19,4,4,2,0,IHL,8,Milwaukee Admirals,6
+1989-90,20,24,87,47,0,IHL,64,Milwaukee Admirals,71
+1990-91,21,1,48,7,0,IHL,23,Milwaukee Admirals,8
+1991-92,22,26,141,38,0,IHL,73,Milwaukee Admirals,64
+1992-93,23,8,28,12,0,AHL,26,New Haven Senators,20
+1993-94,24,23,101,34,0,IHL,72,Phoenix Roadrunners,57
+1994-95,25,0,10,0,0,IHL,2,Phoenix Roadrunners,0
+1995-96,26,24,107,52,0,IHL,82,Fort Wayne Komets,76
+1996-97,27,9,40,16,0,IHL,35,Fort Wayne Komets,25
+1997-98,28,9,68,24,0,Germany,44,Star Bulls Rosenheim,33
+1998-99,29,14,77,30,0,Germany,52,EV Landshut,44
+1999-00,30,10,95,24,0,Germany,58,EHC Eisbaren Berlin,34
+2000-01,31,9,101,36,0,Germany,59,Hannover Scorpions,45
+2001-02,32,11,40,26,0,Germany,60,Hannover Scorpions,37
+2002-03,33,0,69,15,0,Germany,51,Hannover Scorpions,15

@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1881-05-03,D,", ",R,Joe Hall
+handed,heigh_and_weight,position,date_of_birth,name
+R,", ",D,1881-05-03,Joe Hall

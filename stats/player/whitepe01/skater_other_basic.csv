@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1984-85,15,16,18,32,0,QAAA,42,Lac St-Louis Lions,48
+1985-86,16,38,28,62,0,QAAA,42,Lac St-Louis Lions,100
+1986-87,17,20,20,34,0,ON-Jr.A,55,Pembroke Lumber Kings,54
+1987-88,18,90,32,136,0,ON-Jr.A,56,Pembroke Lumber Kings,226
+1988-89,19,20,17,33,0,CCHA,46,Michigan State Spartans,53
+1989-90,20,22,6,40,0,CCHA,45,Michigan State Spartans,62
+1990-91,21,7,28,31,0,CCHA,37,Michigan State Spartans,38
+1991-92,22,26,32,49,0,CCHA,41,Michigan State Spartans,75
+1992-93,23,12,10,28,0,AHL,64,Cape Breton Oilers,40
+1993-94,24,21,12,49,0,AHL,45,Cape Breton Oilers,70
+1994-95,25,36,30,69,0,AHL,65,Cape Breton Oilers,105
+1995-96,26,6,6,7,0,AHL,17,St. John\'s Maple Leafs,13
+1995-96,26,21,4,20,0,IHL,36,Atlanta Knights,41
+1996-97,27,44,28,61,0,AHL,80,Philadelphia Phantoms,105
+1997-98,28,27,28,78,18,AHL,80,Philadelphia Phantoms,105
+1998-99,29,31,20,59,18,AHL,77,Philadelphia Phantoms,90
+1999-00,30,20,38,41,6,AHL,62,Philadelphia Phantoms,61
+2001-02,32,4,18,19,7,AHL,24,Norfolk Admirals,23
+2002-03,33,23,37,43,-4,AHL,78,2 Teams,66
+2002-03,33,6,21,17,0,AHL,31,Norfolk Admirals,23
+2002-03,33,17,16,26,-4,AHL,47,Philadelphia Phantoms,43
+2003-04,34,12,39,48,20,AHL,75,Philadelphia Phantoms,60
+2004-05,35,14,20,31,-11,AHL,80,2 Teams,45
+2004-05,35,2,6,6,4,AHL,10,Philadelphia Phantoms,8
+2004-05,35,12,14,25,-15,AHL,70,Utah Grizzlies,37
+2005-06,36,4,20,10,0,Finland,49,HIFK Helsinki,14

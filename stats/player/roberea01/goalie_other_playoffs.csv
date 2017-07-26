@@ -1,0 +1,13 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,S-SJHL,2,Regina Falcons,120,15,2,0,0,9,0,0,0,0,0,0,0,0,0,0,1925-26,0,4.50,0,0
+0,M-Cup,2,Regina Falcons,120,15,2,0,0,9,0,0,0,0,0,0,0,0,0,0,1925-26,0,4.50,0,0
+0,S-SJHL,1,Regina Falcons,60,16,1,0,0,3,0,0,0,0,0,0,0,0,0,0,1926-27,0,3.00,0,0
+0,Al-Cup,4,Vancouver Monarchs,240,17,2,0,0,11,0,0,1,0,1,0,0,0,0,0,1927-28,0,2.75,0,0
+0,Cal-Pro,7,Hollywood Stars,420,21,3,0,0,20,0,0,0,1,4,0,0,0,0,0,1931-32,0,2.86,0,0
+0,WCHL,8,Edmonton Eskimos,480,22,0,0,0,15,0,0,0,1,0,0,0,0,0,0,1932-33,0,1.88,0,0
+0,NWHL,2,Edmonton Eskimos,120,23,2,0,0,7,0,0,0,0,0,0,0,0,0,0,1933-34,0,3.50,0,0
+0,IHL,8,Windsor Bulldogs,505,25,4,0,0,18,0,0,1,2,3,0,0,0,0,0,1935-36,0,2.14,0,0
+0,IAHL,4,Pittsburgh Hornets,240,26,3,0,0,12,0,0,0,0,1,0,0,0,0,0,1936-37,0,3.00,0,0
+0,AHL,3,Springfield Indians,236,30,2,0,0,5,0,0,0,0,1,0,0,0,0,0,1940-41,0,1.27,0,0
+0,AHL,3,Springfield Indians,160,31,1,0,0,15,0,0,0,0,2,0,0,0,0,0,1941-42,0,5.63,0,0
+0,Al-Cup,3,Edmonton Vics,180,33,3,0,0,26,0,0,0,0,0,0,0,0,0,0,1943-44,0,8.67,0,0

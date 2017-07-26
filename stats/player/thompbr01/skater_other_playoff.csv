@@ -1,0 +1,15 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1988-89,18,0,2,0,0,WHL,3,Medicine Hat Tigers,0
+1989-90,19,0,14,1,0,WHL,3,Medicine Hat Tigers,1
+1990-91,20,1,16,7,0,WHL,12,Medicine Hat Tigers,8
+1990-91,20,0,6,1,0,IHL,4,Phoenix Roadrunners,1
+1995-96,25,1,55,4,0,AHL,10,Springfield Falcons,5
+1996-97,26,0,31,2,0,AHL,17,Springfield Falcons,2
+1997-98,27,0,25,4,0,AHL,15,Hartford Wolf Pack,4
+1998-99,28,0,23,0,0,AHL,7,Hartford Wolf Pack,0
+1999-00,29,0,11,0,0,AHL,3,Louisville Panthers,0
+2000-01,30,0,10,0,0,AHL,12,Hershey Bears,0
+2001-02,31,0,21,0,0,AHL,8,Hershey Bears,0
+2002-03,32,0,7,0,-1,AHL,3,Hershey Bears,0
+2003-04,33,0,10,1,0,CHL,4,Colorado Eagles,1
+2004-05,34,1,17,2,3,AHL,16,Providence Bruins,3

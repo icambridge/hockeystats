@@ -1,0 +1,10 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHL,4,Niagara Falls Thunder,119,17,1,0,0,10,0,0,0,0,1,0,0,0,0,0,1990-91,0,5.04,0,0
+0,OHL,14,Niagara Falls Thunder,791,18,5,0,0,56,0,0,0,0,8,0,0,0,0,0,1991-92,0,4.25,0,0
+0,OHL,4,Niagara Falls Thunder,240,19,4,0,0,18,0,0,0,0,0,0,0,0,0,0,1992-93,0,4.50,0,0
+0,AHL,4,Springfield Falcons,220,22,3,0,0,18,0,0,0,0,1,0,0,0,0,0,1995-96,0,4.91,0,0
+0,AHL,12,Springfield Falcons,745,23,3,0,0,25,0,0,0,2,9,0,0,0,0,0,1996-97,0,2.01,0,0
+0,IHL,4,Las Vegas Thunder,237,24,3,0,0,16,0,0,0,0,1,0,0,0,0,0,1997-98,0,4.05,0,0
+0,IHL,6,Long Beach Ice Dogs,338,25,2,0,0,9,0,0,0,0,4,0,0,0,0,.944,1998-99,162,1.60,0,153
+0,IHL,2,Manitoba Moose,141,26,2,0,0,7,0,0,0,0,0,0,0,0,0,0,1999-00,0,2.98,0,0
+0,AHL,7,Peoria Rivermen,429,35,4,0,0,18,0,0,0,0,3,0,0,0,0,.899,2008-09,179,2.52,0,161

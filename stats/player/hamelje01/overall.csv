@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1952-06-06,D,", ",L,Jean Hamel
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",D,1952-06-06,Jean Hamel

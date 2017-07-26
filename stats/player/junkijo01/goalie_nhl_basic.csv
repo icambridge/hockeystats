@@ -1,0 +1,4 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+0.1,0,NHL,1,BOS,8,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1968-69,0,0.00,0,[],0
+0,0,WHA,53,NYJ,3122,27,0,102,1,0,0,-4.08,0,1,0,1,0,0,0,.888,1973-74,1762,3.79,7,[],1565
+0,0,WHA,16,SDM,839,28,0,101,1,46,0,-0.42,0,1,0,1,0,0,0,.889,1974-75,416,3.29,2,[],370

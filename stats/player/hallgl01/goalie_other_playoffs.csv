@@ -1,8 +1,8 @@
-ties,assists,points,games_started,league,pim,goals,goals_allowed_average,loses,saves,games_played,good_start_precentages,goals_allowed_precentage,bad_start,saves_percentage,year,team,goals_saved_aboved_average,goals_allowed,shots_againist,shutouts,age,good_starts,minutes,wins
-0,0,0,0,N-SJHL,0,0,7.50,2,0,2,0,0,0,0,1947-48,Humboldt Indians,0,15,0,0,16,0,120,0
-0,0,0,0,N-SJHL,0,0,5.14,4,0,7,0,0,0,0,1948-49,Humboldt Indians,0,36,0,0,17,0,420,3
-0,0,0,0,OHA-Jr.,0,0,3.36,5,0,11,0,0,0,0,1949-50,Windsor Spitfires,0,37,0,0,18,0,660,6
-0,0,0,0,OHA-Jr.,0,0,3.75,0,0,8,0,0,0,0,1950-51,Windsor Spitfires,0,30,0,0,19,0,480,0
-0,0,0,0,WHL,0,0,3.51,5,0,15,0,0,0,0,1952-53,Edmonton Flyers,0,53,0,0,21,0,905,10
-0,0,0,0,WHL,0,0,3.37,6,0,13,0,0,0,0,1953-54,Edmonton Flyers,0,44,0,2,22,0,783,7
-0,0,0,0,WHL,0,0,2.58,5,0,16,0,0,0,0,1954-55,Edmonton Flyers,0,43,0,1,23,0,1000,11
+goals_allowed_precentage,goals_saved_aboved_average,bad_start,year,goals_allowed,minutes,ties,pim,good_starts,saves,shots_againist,assists,team,shutouts,goals,games_started,goals_allowed_average,age,league,saves_percentage,good_start_precentages,games_played,points,wins,loses
+0,0,0,1947-48,15,120,0,0,0,0,0,0,Humboldt Indians,0,0,0,7.50,16,N-SJHL,0,0,2,0,0,2
+0,0,0,1948-49,36,420,0,0,0,0,0,0,Humboldt Indians,0,0,0,5.14,17,N-SJHL,0,0,7,0,3,4
+0,0,0,1949-50,37,660,0,0,0,0,0,0,Windsor Spitfires,0,0,0,3.36,18,OHA-Jr.,0,0,11,0,6,5
+0,0,0,1950-51,30,480,0,0,0,0,0,0,Windsor Spitfires,0,0,0,3.75,19,OHA-Jr.,0,0,8,0,0,0
+0,0,0,1952-53,53,905,0,0,0,0,0,0,Edmonton Flyers,0,0,0,3.51,21,WHL,0,0,15,0,10,5
+0,0,0,1953-54,44,783,0,0,0,0,0,0,Edmonton Flyers,2,0,0,3.37,22,WHL,0,0,13,0,7,6
+0,0,0,1954-55,43,1000,0,0,0,0,0,0,Edmonton Flyers,1,0,0,2.58,23,WHL,0,0,16,0,11,5

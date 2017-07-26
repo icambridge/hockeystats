@@ -1,0 +1,35 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1999-00,14,17,48,23,0,CzRep-Jr.,49,HC Karlovy Vary Jr.,40
+2000-01,15,36,38,33,0,CzRep-Jr.,47,HC Karlovy Vary Jr.,69
+2000-01,15,0,0,0,0,CzRep,2,HC Becherovka Karlovy Vary,0
+2001-02,16,11,26,14,0,CzRep-Jr.,37,HC Karlovy Vary Jr.,25
+2001-02,16,1,2,1,0,CzRep,9,HC Becherovka Karlovy Vary,2
+2002-03,17,7,51,9,0,CzRep,41,HC Energie Karlovy Vary,16
+2002-03,17,3,18,7,0,CzRep-Jr.,6,HC Karlovy Vary Jr.,10
+2002-03,17,3,18,2,0,WJ18-A,6,Czech Republic,5
+2003-04,18,8,2,4,0,CzRep-Jr.,5,HC Karlovy Vary Jr.,12
+2003-04,18,1,4,0,0,WJC-A,6,Czech Republic,1
+2003-04,18,1,42,8,0,CzRep,45,2 Teams,9
+2003-04,18,1,0,0,0,CzRep,1,HC Sparta Praha,1
+2003-04,18,0,42,8,0,CzRep,44,HC Energie Karlovy Vary,8
+2004-05,19,1,39,2,0,CzRep-2,7,SK Kadan,3
+2004-05,19,9,12,6,0,CzRep-Jr.,8,2 Teams,15
+2004-05,19,2,16,7,0,CzRep,42,2 Teams,9
+2004-05,19,4,6,1,0,CzRep-Jr.,5,HC Dukla Jihlava Jr.,5
+2004-05,19,1,12,2,0,CzRep,16,HC Dukla Jihlava,3
+2004-05,19,5,6,5,0,CzRep-Jr.,3,HC Karlovy Vary Jr.,10
+2004-05,19,1,4,5,0,CzRep,26,HC Energie Karlovy Vary,6
+2005-06,20,12,41,22,-5,AHL,60,Iowa Stars,34
+2006-07,21,17,48,28,-1,AHL,67,Iowa Stars,45
+2007-08,22,6,18,10,-8,AHL,35,Iowa Stars,16
+2007-08,22,1,4,0,0,CzRep,5,HC Energie Karlovy Vary,1
+2008-09,23,21,42,13,0,CzRep,45,HC Ocelari Trinec,34
+2009-10,24,10,48,9,0,CzRep,49,HC Ocelari Trinec,19
+2010-11,25,15,30,21,0,CzRep,48,HC Ocelari Trinec,36
+2011-12,26,13,22,14,0,Swiss,42,2 Teams,27
+2011-12,26,9,16,10,0,Swiss,30,Kloten Flyers,19
+2011-12,26,4,6,4,0,Swiss,12,SCL Tigers Langnau,8
+2012-13,27,0,2,1,0,Swiss,5,HC Davos,1
+2012-13,27,5,51,6,0,CzRep,28,2 Teams,11
+2012-13,27,1,12,3,0,CzRep,11,Pirati Chomutov,4
+2012-13,27,4,39,3,0,CzRep,17,HC Energie Karlovy Vary,7

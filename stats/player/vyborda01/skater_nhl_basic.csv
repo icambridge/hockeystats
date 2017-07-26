@@ -1,0 +1,8 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+0,NHL,79,1,26,0,0,125,32,0,7,1219,CBJ,0,0,"[{'link': '/awards/voting-2001.html#calder', 'name': 'Calder-13'}]",10.4,8,19,-9,13,0,0,2000-01,0,15:25,5,22,0,12
+0,NHL,75,2,27,0,0,103,31,0,3,1159,CBJ,0,0,[],12.6,7,18,-14,13,0,0,2001-02,0,15:27,6,6,0,15
+0,NHL,79,4,28,0,0,125,46,0,6,1291,CBJ,0,0,[],16.0,15,26,12,20,0,1,2002-03,0,16:20,4,16,1,19
+0,NHL,82,2,29,0,0,158,53,0,16,1671,CBJ,0,0,[],13.9,10,31,-26,22,0,4,2003-04,0,20:23,8,40,0,15
+0,NHL,80,6,31,0,0,145,65,0,27,1655,CBJ,0,0,[],15.2,15,43,-9,22,0,2,2005-06,0,20:41,5,50,0,16
+0,NHL,82,2,32,0,0,158,64,0,21,1668,CBJ,0,0,"[{'link': '/awards/voting-2007.html#byng', 'name': 'Byng-60'}]",10.1,10,48,6,16,0,0,2006-07,0,20:20,6,60,0,27
+12,NHL,66,0,33,36,150,106,26,36,10,1022,CBJ,25,36.8,[],6.6,5,19,-8,7,21,0,2007-08,23,15:29,2,34,0,9

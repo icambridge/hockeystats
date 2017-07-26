@@ -1,0 +1,11 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1996-97,18,0,23,0,0,ON-Jr.A,10,Orillia Terriers,0
+1997-98,19,13,166,19,0,ON-Jr.A,45,Couchiching Terriers,32
+1998-99,20,12,193,12,0,OHL,54,Oshawa Generals,24
+1999-00,21,1,317,5,0,ECHL,55,Charlotte Checkers,6
+2000-01,22,1,22,1,0,ECHL,4,Charlotte Checkers,2
+2000-01,22,2,320,5,0,AHL,64,Hartford Wolf Pack,7
+2001-02,23,2,211,3,0,AHL,39,Hartford Wolf Pack,5
+2002-03,24,0,150,5,-1,AHL,32,Hartford Wolf Pack,5
+2002-03,24,0,4,1,-2,ECHL,3,Charlotte Checkers,1
+2003-04,25,2,79,2,1,AHL,15,Hartford Wolf Pack,4

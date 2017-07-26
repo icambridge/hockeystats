@@ -1,0 +1,16 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,SMHL,26,Yorkton Mallers,1480,17,10,0,0,79,0,0,3,0,13,0,0,0,0,0,2000-01,0,3.20,0,0
+0,BCHL,33,Penticton Panthers,1980,18,0,0,0,128,0,0,0,0,0,0,0,0,0,0,2001-02,0,3.88,0,0
+0,BCHL,44,Vernon Vipers,2012,19,9,0,0,96,0,0,0,2,34,0,0,0,0,0,2002-03,0,2.86,0,0
+0,WCHA,23,Colorado College,1323,20,10,0,3,50,0,0,2,1,10,3,0,0,0,0,2003-04,0,2.27,0,0
+0,WCHA,18,Colorado College,1050,21,5,0,1,43,0,0,2,2,10,1,0,0,0,0,2004-05,0,2.46,0,0
+0,WCHA,36,Colorado College,2068,22,14,0,0,87,0,0,2,4,20,0,0,0,0,0,2005-06,0,2.52,0,0
+0,WCHA,33,Colorado College,1908,23,13,0,1,76,0,0,4,3,15,1,0,0,0,0,2006-07,0,2.39,0,0
+0,ECHL,28,2 Teams,1566,24,8,0,1,69,0,0,2,3,15,1,0,0,0,.915,2007-08,810,2.64,2,741
+0,ECHL,9,Charlotte Checkers,496,24,4,0,0,30,0,0,1,0,3,0,0,0,0,.891,2007-08,274,3.63,0,244
+0,ECHL,19,Idaho Steelheads,1070,24,4,0,1,39,0,0,1,3,12,1,0,0,0,.927,2007-08,536,2.19,2,497
+0,AHL,41,Hartford Wolf Pack,2262,25,10,0,2,88,0,0,0,2,25,2,0,0,0,.920,2008-09,1104,2.33,0,1016
+0,AHL,25,Hartford Wolf Pack,1296,26,12,0,0,68,0,0,2,0,6,0,0,0,0,.899,2009-10,676,3.15,2,608
+0,ECHL,3,Charlotte Checkers,185,26,1,0,0,11,0,0,0,0,2,0,0,0,0,.884,2009-10,95,3.57,0,84
+0,Italy,38,HC Bolzano,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2010-11,0,0,0,0
+0,Italy,40,Bolzano,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2011-12,0,0,0,0

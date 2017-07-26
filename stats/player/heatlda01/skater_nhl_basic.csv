@@ -1,0 +1,14 @@
+shotsPercentage,faceoff_loses,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,giveaways,total_shots,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,takeaways,faceoff_percentage,age,game_winning_goals,league,shorthanded_goals,blocks,average_ice_time,hits,games_played,faceoff_wins,points,awards,power_play_goals
+12.9,0,2001-02,56,29,1631,1,0,0,202,11,19,-19,41,ATL,26,0,0,21,4,NHL,0,0,19:53,0,82,0,67,"[{'link': '/awards/calder.html#2002', 'name': None}]",7
+16.3,0,2002-03,58,28,1690,0,0,0,252,20,21,-8,48,ATL,41,0,0,22,6,NHL,1,0,21:57,0,77,0,89,"[{'link': '/awards/voting-2003.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-2003.html#AS', 'name': 'AS-9'}, {'link': '/awards/voting-2003.html#byng', 'name': 'Byng-22'}, {'link': '/awards/voting-2003.html#hart', 'name': 'Hart-17'}]",19
+15.7,0,2003-04,18,5,616,0,0,0,83,7,8,-8,12,ATL,13,0,0,23,3,NHL,0,0,19:53,0,31,0,25,[],5
+16.7,0,2005-06,86,31,1734,2,0,0,300,20,25,29,53,OTT,50,0,0,25,7,NHL,2,0,21:09,0,82,0,103,"[{'link': '/awards/nhl_all_star.html#2006', 'name': None}, {'link': '/awards/voting-2006.html#AS', 'name': 'AS-9'}, {'link': '/awards/voting-2006.html#hart', 'name': 'Hart-10'}]",23
+16.1,0,2006-07,74,32,1725,1,0,0,310,22,30,31,55,OTT,50,0,0,26,0,NHL,3,0,21:02,0,82,0,105,"[{'link': '/awards/nhl_all_star.html#2007', 'name': None}, {'link': '/awards/voting-2007.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-2007.html#hart', 'name': 'Hart-12'}, {'link': '/awards/voting-2007.html#selke', 'name': 'Selke-47'}]",17
+18.3,11,2007-08,76,29,1543,0,60,400,224,12,28,33,41,OTT,41,44,57.7,27,8,NHL,0,31,21:44,58,71,15,82,"[{'link': '/awards/voting-2008.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-2008.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-2008.html#selke', 'name': 'Selke-31'}]",13
+15.1,16,2008-09,88,22,1649,0,45,461,258,11,24,-11,33,OTT,39,42,46.7,28,6,NHL,0,24,20:07,87,82,14,72,[],15
+13.9,21,2009-10,54,31,1659,0,55,518,280,12,20,14,43,SJS,39,38,40.0,29,0,NHL,1,35,20:14,81,82,14,82,"[{'link': '/awards/voting-2010.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-2010.html#AS', 'name': 'AS-8'}]",18
+12.0,11,2010-11,56,18,1572,1,68,404,217,19,14,8,38,SJS,26,29,45.0,30,5,NHL,1,29,19:39,104,80,9,64,[],11
+10.1,31,2011-12,28,18,1717,0,33,434,238,11,16,2,29,MIN,24,33,53.7,31,3,NHL,0,45,20:57,70,82,36,53,[],8
+13.3,19,2012-13,8,6,667,0,8,135,83,4,8,-12,10,MIN,11,8,38.7,32,1,NHL,0,22,18:32,26,36,12,21,[],3
+10.9,10,2013-14,18,10,1126,0,19,202,110,6,8,-18,16,MIN,12,21,41.2,33,2,NHL,0,30,14:49,33,76,7,28,[],4
+0.0,0,2014-15,0,0,73,0,0,13,8,0,0,-3,0,ANA,0,1,0,34,0,NHL,0,3,12:08,5,6,0,0,[],0

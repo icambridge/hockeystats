@@ -1,0 +1,12 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2007-08,15,0,0,1,0,WHL,3,Regina Pats,1
+2008-09,16,16,26,54,-10,WHL,65,Regina Pats,70
+2009-10,17,35,54,67,3,WHL,72,Regina Pats,102
+2010-11,18,43,70,53,13,WHL,72,Regina Pats,96
+2010-11,18,0,0,1,1,AHL,7,Manchester Monarchs,1
+2011-12,19,41,36,75,31,WHL,70,Regina Pats,116
+2011-12,19,0,0,0,-1,AHL,2,Manchester Monarchs,0
+2012-13,20,15,38,18,8,AHL,63,Manchester Monarchs,33
+2013-14,21,23,42,47,28,AHL,76,Manchester Monarchs,70
+2014-15,22,20,56,49,11,AHL,73,Manchester Monarchs,69
+2016-17,24,15,30,32,11,AHL,43,Lehigh Valley Phantoms,47

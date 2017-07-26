@@ -1,0 +1,20 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,QMJHL,52,Quebec Remparts,2427,17,14,0,0,183,0,0,3,0,20,0,0,0,0,0,1979-80,0,4.52,0,0
+0,QMJHL,59,Quebec Remparts,3173,18,24,0,0,232,0,0,2,0,24,0,0,0,0,0,1980-81,0,4.39,0,0
+0,QMJHL,57,2 Teams,3149,19,18,0,0,198,0,0,2,1,34,0,0,0,0,0,1981-82,0,3.77,0,0
+0,QMJHL,1,Quebec Remparts,60,19,1,0,0,4,0,0,0,0,0,0,0,0,0,0,1981-82,0,4.00,0,0
+0,QMJHL,56,Hull Olympiques,3089,19,17,0,0,194,0,0,2,1,34,0,0,0,0,0,1981-82,0,3.77,0,0
+0,AHL,38,Baltimore Skipjacks,2163,20,14,0,0,146,0,0,3,0,19,0,0,0,0,0,1982-83,0,4.05,0,0
+0,AHL,31,Baltimore Skipjacks,1759,21,6,0,0,106,0,0,1,0,23,0,0,0,0,0,1983-84,0,3.62,0,0
+0,AHL,12,Baltimore Skipjacks,719,22,8,0,0,44,0,0,2,0,2,0,0,0,0,0,1984-85,0,3.67,0,0
+0,AHL,6,2 Teams,339,24,3,0,0,21,0,0,0,0,0,0,0,0,0,0,1986-87,0,3.72,0,0
+0,AHL,5,Baltimore Skipjacks,274,24,3,0,0,18,0,0,0,0,0,0,0,0,0,0,1986-87,0,3.94,0,0
+0,AHL,1,Moncton Golden Flames,65,24,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1986-87,0,2.77,0,0
+0,AHL,16,Maine Mariners,875,25,8,0,0,52,0,0,1,0,5,0,0,0,0,0,1987-88,0,3.57,0,0
+0,Italy,32,HC Bolzano,1778,27,0,0,0,105,0,0,0,0,0,0,0,0,0,0,1989-90,0,3.54,0,0
+0,Italy,10,HC Milano Saima,538,28,0,0,0,31,0,0,0,0,0,0,0,0,0,0,1990-91,0,3.46,0,0
+0,Alpenliga,29,HC Milano,1704,29,0,0,0,78,0,0,0,2,0,0,0,0,0,0,1991-92,0,2.75,0,0
+0,Italy,17,HC Milano Saima,973,29,0,0,0,42,0,0,0,1,0,0,0,0,0,0,1991-92,0,2.59,0,0
+0,WC-A,3,Italy,151,29,0,0,0,11,0,0,0,0,0,0,0,0,0,0,1991-92,0,4.37,0,0
+0,Alpenliga,28,HC Milano,1549,30,0,0,0,73,0,0,0,0,0,0,0,0,0,0,1992-93,0,2.83,0,0
+0,IHL,11,Cleveland Lumberjacks,642,31,7,0,0,45,0,0,2,1,2,0,0,0,0,0,1993-94,0,4.21,0,0

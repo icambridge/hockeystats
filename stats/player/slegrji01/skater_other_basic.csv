@@ -1,0 +1,31 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1987-88,16,1,0,1,0,Czech,4,CHZ Litvinov,2
+1988-89,17,0,4,0,0,Czech,8,CHZ Litvinov,0
+1988-89,17,3,4,1,0,EJC-A,6,Czechoslovakia,4
+1989-90,18,4,0,15,0,Czech,51,CHZ Litvinov,19
+1989-90,18,3,18,4,0,WJC-A,7,Czechoslovakia,7
+1990-91,19,11,26,36,0,Czech,47,HC CHZ Litvinov,47
+1990-91,19,0,14,9,0,WJC-A,7,Czechoslovakia,9
+1990-91,19,2,32,1,0,WEC-A,9,Czechoslovakia,3
+1991-92,20,0,25,1,0,Can-Cup,5,Czechoslovakia,1
+1991-92,20,9,38,23,0,Czech,42,HC Chemopetrol Litvinov,32
+1991-92,20,1,14,1,0,Olympics,8,Czechoslovakia,2
+1992-93,21,4,42,14,0,AHL,21,Hamilton Canucks,18
+1994-95,23,3,80,10,0,CzRep,11,HC Chemopetrol Litvinov,13
+1995-96,24,1,4,2,0,AHL,4,Cape Breton Oilers,3
+1996-97,25,0,6,0,0,W-Cup,3,Czech Republic,0
+1996-97,25,0,0,0,0,CzRep,1,HC Chemopetrol Litvinov,0
+1996-97,25,4,62,14,0,Sweden,30,Sodertalje SK,18
+1996-97,25,1,35,1,0,WC-A,8,Czech Republic,2
+1997-98,26,1,8,0,0,Olympics,6,Czech Republic,1
+1997-98,26,0,20,1,0,WC-A,6,Czech Republic,1
+2002-03,31,2,14,3,0,CzRep,10,HC Chemopetrol Litvinov,5
+2002-03,31,1,8,2,0,Russia,6,Avangard Omsk,3
+2003-04,32,0,10,2,7,WC-A,7,Czech Republic,2
+2004-05,33,1,2,0,1,W-Cup,3,Czech Republic,1
+2004-05,33,6,135,23,0,CzRep,46,HC Chemopetrol Litvinov,29
+2004-05,33,0,6,0,2,WC-A,9,Czech Republic,0
+2006-07,35,8,134,8,0,CzRep,41,HC Chemopetrol Litvinov,16
+2007-08,36,7,121,6,0,CzRep,45,HC Litvinov,13
+2008-09,37,5,98,26,0,CzRep,48,HC Litvinov,31
+2009-10,38,2,39,0,0,CzRep,11,HC Benzina Litvinov,2

@@ -1,8 +1,8 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1965-66,Wistra-Ostrand IF,0,0,18,2,0,0,Sweden
-0,1968-69,Brynas IF Gavle,2,0,21,7,4,2,Sweden
-2,1969-70,Brynas IF Gavle,1,0,22,14,8,7,Sweden
-4,1970-71,Brynas IF Gavle,2,0,23,14,6,4,Sweden
-0,1971-72,Brynas IF Gavle,0,0,24,10,6,6,Sweden
-8,1972-73,Brynas IF Gavle,6,0,25,14,16,10,Sweden
-6,1979-80,Brynas IF Gavle,3,0,32,7,8,5,Sweden
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Wistra-Ostrand IF,0,1965-66,2,0,0,18,0,Sweden
+2,Brynas IF Gavle,2,1968-69,7,4,0,21,0,Sweden
+1,Brynas IF Gavle,7,1969-70,14,8,2,22,0,Sweden
+2,Brynas IF Gavle,4,1970-71,14,6,4,23,0,Sweden
+0,Brynas IF Gavle,6,1971-72,10,6,0,24,0,Sweden
+6,Brynas IF Gavle,10,1972-73,14,16,8,25,0,Sweden
+3,Brynas IF Gavle,5,1979-80,7,8,6,32,0,Sweden

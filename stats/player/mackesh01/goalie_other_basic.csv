@@ -1,0 +1,12 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OMJHL,41,Windsor Spitfires,1964,17,14,0,0,158,0,0,1,0,17,0,0,0,0,0,1979-80,0,4.83,0,0
+0,OMJHL,60,Windsor Spitfires,3540,18,27,0,0,282,0,0,2,1,30,0,0,0,0,0,1980-81,0,4.78,0,0
+0,OHL,49,2 Teams,2935,19,23,0,0,201,0,0,0,1,26,0,0,0,0,0,1981-82,0,4.11,0,0
+0,OHL,17,Windsor Spitfires,1001,19,11,0,0,77,0,0,0,0,6,0,0,0,0,0,1981-82,0,4.62,0,0
+0,OHL,32,Oshawa Generals,1934,19,12,0,0,124,0,0,0,1,20,0,0,0,0,0,1981-82,0,3.85,0,0
+0,CHL,36,Wichita Wind,2083,20,23,0,0,148,0,0,2,1,10,0,0,0,0,0,1982-83,0,4.26,0,0
+0,AHL,34,Maine Mariners,1946,21,13,0,0,113,0,0,5,0,14,0,0,0,0,0,1983-84,0,3.48,0,0
+0,AHL,24,Maine Mariners,1254,22,8,0,0,70,0,0,3,3,8,0,0,0,0,0,1984-85,0,3.35,0,0
+0,AHL,10,Hershey Bears,521,23,3,0,0,36,0,0,0,0,5,0,0,0,0,0,1985-86,0,4.15,0,0
+0,IHL,6,Kalamazoo Wings,362,23,2,0,0,27,0,0,0,0,4,0,0,0,0,0,1985-86,0,4.48,0,0
+0,AHL,6,Maine Mariners,321,24,2,0,0,19,0,0,0,1,3,0,0,0,0,0,1986-87,0,3.55,0,0

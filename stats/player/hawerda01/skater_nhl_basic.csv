@@ -1,19 +1,19 @@
-average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
-,103,2,0,NHL,18,34,47,-4,339,33,12,2,22,1981-82,WIN,45,58,"[{'link': '/awards/voting-1982.html#AS', 'name': 'AS-6'}, {'link': '/awards/voting-1982.html#byng', 'name': 'Byng-20'}, {'link': '/awards/calder.html#1982', 'name': None}, {'link': '/awards/voting-1982.html#hart', 'name': 'Hart-5'}]",13.3,,80
-,91,3,1,NHL,19,31,31,-17,297,26,13,0,20,1982-83,WIN,40,51,[],13.5,,79
-,102,4,0,NHL,20,46,73,-14,256,27,10,2,17,1983-84,WIN,37,65,[],14.5,,0
-,130,4,3,NHL,21,50,74,22,280,33,17,1,26,1984-85,WIN,53,77,"[{'link': '/awards/nhl_all_star.html#1985', 'name': None}, {'link': '/awards/voting-1985.html#hart', 'name': 'Hart-2'}]",18.9,,0
-,105,2,2,NHL,22,35,44,-27,313,26,18,0,24,1985-86,WIN,46,59,"[{'link': '/awards/voting-1986.html#AS', 'name': 'AS-9'}]",14.7,,80
-,100,4,0,NHL,23,36,52,3,267,37,10,0,17,1986-87,WIN,47,53,"[{'link': '/awards/voting-1987.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1987.html#hart', 'name': 'Hart-6'}]",17.6,,80
-,121,4,3,NHL,24,36,59,-9,292,21,20,2,39,1987-88,WIN,44,77,"[{'link': '/awards/voting-1988.html#AS', 'name': 'AS-13'}, {'link': '/awards/voting-1988.html#AS', 'name': 'AS-6'}, {'link': '/awards/voting-1988.html#hart', 'name': 'Hart-7'}]",15.1,,0
-,96,4,3,NHL,25,30,28,-30,239,24,14,1,24,1988-89,WIN,41,55,"[{'link': '/awards/voting-1989.html#byng', 'name': 'Byng-10'}]",17.2,,75
-,81,2,0,NHL,26,29,60,-11,211,18,8,1,25,1989-90,WIN,26,55,[],12.3,,79
-,89,1,0,NHL,27,36,32,2,194,19,12,0,22,1990-91,BUF,31,58,[],16.0,,80
-,98,4,0,NHL,28,32,27,-22,242,10,13,0,43,1991-92,BUF,23,75,"[{'link': '/awards/voting-1992.html#byng', 'name': 'Byng-11'}]",9.5,,77
-,96,2,0,NHL,29,36,52,-17,259,8,8,0,44,1992-93,BUF,16,80,[],6.2,,81
-,86,7,1,NHL,30,23,91,10,227,21,13,0,28,1993-94,BUF,35,51,[],15.4,,81
-,16,2,0,NHL,31,3,2,-2,56,3,2,0,8,1994-95,BUF,5,11,[],8.9,,23
-,61,2,0,NHL,32,25,26,15,180,11,6,1,18,1995-96,TOT,17,44,[],9.4,,82
-,41,1,0,NHL,32,13,22,5,136,8,5,1,14,1995-96,STL,13,28,[],9.6,,66
-,20,1,0,NHL,32,12,4,10,44,3,1,0,4,1995-96,PHI,4,16,[],9.1,,16
-,34,2,0,NHL,33,17,32,9,102,6,6,0,5,1996-97,PHI,12,22,[],11.8,,51
+shotsPercentage,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,age,game_winning_goals,league,shorthanded_goals,average_ice_time,games_played,points,awards,power_play_goals
+13.3,1981-82,47,34,,2,339,22,33,-4,58,WIN,45,18,2,NHL,0,,80,103,"[{'link': '/awards/voting-1982.html#AS', 'name': 'AS-6'}, {'link': '/awards/voting-1982.html#byng', 'name': 'Byng-20'}, {'link': '/awards/calder.html#1982', 'name': None}, {'link': '/awards/voting-1982.html#hart', 'name': 'Hart-5'}]",12
+13.5,1982-83,31,31,,0,297,20,26,-17,51,WIN,40,19,3,NHL,1,,79,91,[],13
+14.5,1983-84,73,46,,2,256,17,27,-14,65,WIN,37,20,4,NHL,0,,0,102,[],10
+18.9,1984-85,74,50,,1,280,26,33,22,77,WIN,53,21,4,NHL,3,,0,130,"[{'link': '/awards/nhl_all_star.html#1985', 'name': None}, {'link': '/awards/voting-1985.html#hart', 'name': 'Hart-2'}]",17
+14.7,1985-86,44,35,,0,313,24,26,-27,59,WIN,46,22,2,NHL,2,,80,105,"[{'link': '/awards/voting-1986.html#AS', 'name': 'AS-9'}]",18
+17.6,1986-87,52,36,,0,267,17,37,3,53,WIN,47,23,4,NHL,0,,80,100,"[{'link': '/awards/voting-1987.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1987.html#hart', 'name': 'Hart-6'}]",10
+15.1,1987-88,59,36,,2,292,39,21,-9,77,WIN,44,24,4,NHL,3,,0,121,"[{'link': '/awards/voting-1988.html#AS', 'name': 'AS-13'}, {'link': '/awards/voting-1988.html#AS', 'name': 'AS-6'}, {'link': '/awards/voting-1988.html#hart', 'name': 'Hart-7'}]",20
+17.2,1988-89,28,30,,1,239,24,24,-30,55,WIN,41,25,4,NHL,3,,75,96,"[{'link': '/awards/voting-1989.html#byng', 'name': 'Byng-10'}]",14
+12.3,1989-90,60,29,,1,211,25,18,-11,55,WIN,26,26,2,NHL,0,,79,81,[],8
+16.0,1990-91,32,36,,0,194,22,19,2,58,BUF,31,27,1,NHL,0,,80,89,[],12
+9.5,1991-92,27,32,,0,242,43,10,-22,75,BUF,23,28,4,NHL,0,,77,98,"[{'link': '/awards/voting-1992.html#byng', 'name': 'Byng-11'}]",13
+6.2,1992-93,52,36,,0,259,44,8,-17,80,BUF,16,29,2,NHL,0,,81,96,[],8
+15.4,1993-94,91,23,,0,227,28,21,10,51,BUF,35,30,7,NHL,1,,81,86,[],13
+8.9,1994-95,2,3,,0,56,8,3,-2,11,BUF,5,31,2,NHL,0,,23,16,[],2
+9.4,1995-96,26,25,,1,180,18,11,15,44,TOT,17,32,2,NHL,0,,82,61,[],6
+9.6,1995-96,22,13,,1,136,14,8,5,28,STL,13,32,1,NHL,0,,66,41,[],5
+9.1,1995-96,4,12,,0,44,4,3,10,16,PHI,4,32,1,NHL,0,,16,20,[],1
+11.8,1996-97,32,17,,0,102,5,6,9,22,PHI,12,33,2,NHL,0,,51,34,[],6

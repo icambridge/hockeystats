@@ -1,0 +1,12 @@
+age,win,shotsPercentage,even_strength_goals,assists,plus_minus,league,games_played,shorthanded_goals,year,game_winning_goals,shots,goals,average_ice_time,power_play_goals,pim,total_ice_time,team,points
+28,,0,0,0,0,NHL,2,0,1926-27,0,0,0,,0,8,,NYR,0
+29,SC,0,0,1,0,NHL,0,0,1927-28,0,0,1,,0,0,,NYR,2
+30,,0,0,0,0,NHL,0,0,1928-29,0,0,0,,0,26,,NYR,0
+31,,0,0,0,0,NHL,4,0,1929-30,0,0,0,,0,14,,NYR,0
+32,,0,0,0,0,NHL,4,0,1930-31,0,0,1,,0,17,,NYR,1
+33,,0,0,0,0,NHL,0,0,1931-32,0,0,2,,0,0,,NYR,2
+34,SC,0,0,0,0,NHL,8,0,1932-33,0,0,1,,0,14,,NYR,1
+35,,0,0,0,0,NHL,2,0,1933-34,0,0,0,,0,4,,NYR,0
+36,,0,0,0,0,NHL,4,0,1934-35,0,0,0,,0,2,,NYR,0
+38,,0,0,1,0,NHL,9,0,1936-37,0,0,0,,0,4,,NYR,1
+39,,0,0,0,0,NHL,6,0,1937-38,0,0,0,,0,2,,NYA,0

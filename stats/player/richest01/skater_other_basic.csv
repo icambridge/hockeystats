@@ -1,0 +1,28 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1982-83,16,9,70,37,0,QAAA,48,Montreal-Concordia,46
+1983-84,17,8,42,38,0,QMJHL,70,Hull Olympiques,46
+1984-85,18,21,100,56,0,QMJHL,62,Hull Olympiques,77
+1985-86,19,14,166,52,0,QMJHL,71,Hull Olympiques,66
+1986-87,20,6,72,22,0,QMJHL,33,Hull Olympiques,28
+1987-88,21,4,52,10,0,AHL,63,2 Teams,14
+1987-88,21,0,6,3,0,AHL,22,Baltimore Skipjacks,3
+1987-88,21,4,46,7,0,AHL,41,Sherbrooke Canadiens,11
+1988-89,22,7,158,26,0,AHL,70,Sherbrooke Canadiens,33
+1989-90,23,10,85,12,0,AHL,60,Sherbrooke Canadiens,22
+1990-91,24,0,0,1,0,AHL,3,New Haven Nighthawks,1
+1990-91,24,11,48,38,0,IHL,67,Phoenix Roadrunners,49
+1991-92,25,17,74,47,0,AHL,80,Fredericton Canadiens,64
+1992-93,26,0,4,4,0,IHL,3,Atlanta Knights,4
+1992-93,26,8,60,20,0,AHL,53,Providence Bruins,28
+1993-94,27,9,80,55,0,IHL,66,Cincinnati Cyclones,64
+1994-95,28,16,67,53,0,IHL,80,Cincinnati Cyclones,69
+1995-96,29,11,62,30,0,Germany,50,Adler Mannheim,41
+1996-97,30,10,65,19,0,Germany,49,Adler Mannheim,29
+1997-98,31,6,64,25,0,Germany,48,Adler Mannheim,31
+1997-98,31,0,29,2,0,EuroHL,5,Adler Mannheim,2
+1998-99,32,13,90,29,0,Germany,51,Adler Mannheim,42
+1998-99,32,1,2,2,0,EuroHL,4,Adler Mannheim,3
+1999-00,33,10,46,18,0,Germany,43,Adler Mannheim,28
+1999-00,33,1,18,2,0,EuroHL,5,Adler Mannheim,3
+2000-01,34,8,72,19,0,Germany,55,Adler Mannheim,27
+2001-02,35,1,58,13,0,Germany,50,Adler Mannheim,14

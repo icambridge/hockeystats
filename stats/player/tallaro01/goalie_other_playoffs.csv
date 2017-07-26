@@ -1,0 +1,4 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WHL,5,Seattle Thunderbirds,333,19,4,0,0,18,0,0,0,0,1,0,0,0,0,0,1992-93,0,3.24,0,0
+0,WHL,9,Seattle Thunderbirds,567,20,4,0,0,40,0,0,0,0,5,0,0,0,0,0,1993-94,0,4.23,0,0
+0,AHL,2,Providence Bruins,135,22,2,0,0,9,0,0,0,0,0,0,0,0,0,0,1995-96,0,4.00,0,0

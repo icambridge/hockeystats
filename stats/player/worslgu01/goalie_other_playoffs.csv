@@ -1,0 +1,8 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,QJHL,5,Verdun Cyclones,317,18,4,0,0,21,0,0,0,0,1,0,0,0,0,0,1947-48,0,3.97,0,0
+0,MMJHL,5,Montreal St. Francis Xavier,310,19,3,0,0,16,0,0,0,0,2,0,0,0,0,0,1948-49,0,3.10,0,0
+0,EAHL,12,New York Rovers,720,20,2,0,0,27,0,0,0,1,8,0,0,0,0,0,1949-50,0,2.25,0,0
+0,USHL,4,St. Paul Saints,247,21,3,0,0,9,0,0,0,0,1,0,0,0,0,0,1950-51,0,2.19,0,0
+0,PCHL,13,Saskatoon Quakers,818,22,3,0,0,31,0,0,0,1,10,0,0,0,0,0,1951-52,0,2.27,0,0
+0,WHL,12,Vancouver Canucks,709,24,4,0,0,29,0,0,0,0,7,0,0,0,0,0,1953-54,0,2.45,0,0
+0,AHL,9,Quebec Aces,543,34,5,0,0,29,0,0,0,0,4,0,0,0,0,0,1963-64,0,3.20,0,0

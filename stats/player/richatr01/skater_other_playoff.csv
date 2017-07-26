@@ -1,0 +1,11 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1993-94,23,1,0,1,0,IHL,4,Kalamazoo Wings,2
+1994-95,24,1,12,5,0,IHL,15,Kalamazoo Wings,6
+1995-96,25,2,4,2,0,IHL,9,Michigan K-Wings,4
+1996-97,26,1,2,3,0,IHL,5,Grand Rapids Griffins,4
+1997-98,27,1,4,1,0,IHL,3,Grand Rapids Griffins,2
+1999-00,29,1,18,7,0,IHL,17,Grand Rapids Griffins,8
+2000-01,30,0,8,5,0,IHL,10,Grand Rapids Griffins,5
+2001-02,31,0,2,1,0,AHL,5,Grand Rapids Griffins,1
+2002-03,32,0,6,4,3,AHL,15,Grand Rapids Griffins,4
+2003-04,33,1,2,0,-6,AHL,4,Grand Rapids Griffins,1

@@ -1,0 +1,35 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1979-80,17,0,0,1,0,Czech,7,Sparta CKD Praha,1
+1979-80,17,0,8,1,0,EJC-A,5,Czechoslovakia,1
+1980-81,18,5,0,6,0,Czech,34,Dukla Trencin,11
+1980-81,18,3,8,1,0,WJC-A,5,Czechoslovakia,4
+1981-82,19,9,46,3,0,Czech,36,Dukla Trencin,12
+1981-82,19,2,6,2,0,WJC-A,7,Czechoslovakia,4
+1982-83,20,20,0,25,0,Czech,40,Sparta CKD Praha,45
+1983-84,21,13,48,5,0,Czech,43,Sparta CKD Praha,18
+1984-85,22,15,70,4,0,Czech,44,Sparta CKD Praha,19
+1985-86,23,7,0,2,0,Czech,40,Sparta CKD Praha,9
+1986-87,24,7,58,5,0,Czech,36,Sparta CKD Praha,12
+1987-88,25,14,45,11,0,Czech,45,Sparta CKD Praha,25
+1988-89,26,15,87,17,0,Czech,45,Sparta CKD Praha,32
+1988-89,26,1,2,1,0,WEC-A,5,Czechoslovakia,2
+1989-90,27,21,0,17,0,Czech,38,Motor Ceske Budejovice,38
+1989-90,27,1,14,4,0,WEC-A,10,Czechoslovakia,5
+1990-91,28,24,102,23,0,Czech,51,Motor Ceske Budejovice,47
+1991-92,29,2,10,3,0,Can-Cup,5,Czechoslovakia,5
+1991-92,29,24,98,23,0,Finland,41,HPK Hameenlinna,47
+1991-92,29,3,12,2,0,Olympics,8,Czechoslovakia,5
+1991-92,29,4,10,5,0,WC-A,8,Czechoslovakia,9
+1993-94,31,0,0,0,0,AHL,2,P.E.I. Senators,0
+1993-94,31,3,18,3,0,Swiss,8,Zurcher SC,6
+1994-95,32,11,0,17,0,CzRep,41,HC Slavia Praha,28
+1995-96,33,19,0,25,0,CzRep,37,HC ZKZ Plzen,44
+1996-97,34,22,66,26,0,CzRep,51,HC ZKZ Plzen,48
+1997-98,35,12,134,18,0,CzRep,51,2 Teams,30
+1997-98,35,2,20,5,0,CzRep,14,HC Keramika Plzen,7
+1997-98,35,10,114,13,0,CzRep,37,HC Sparta Praha,23
+1998-99,36,10,34,16,0,German-3,14,1.EV Weiden,26
+1998-99,36,5,42,6,0,CzRep,27,3 Teams,11
+1998-99,36,4,34,6,0,CzRep,19,HC Vitkovice,10
+1998-99,36,0,0,0,0,CzRep,1,HC Sparta Praha,0
+1998-99,36,1,8,0,0,CzRep,7,HC Bohemex Trade Opava,1

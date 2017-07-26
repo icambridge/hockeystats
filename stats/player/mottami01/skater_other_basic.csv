@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,16,7,0,19,0,High-MA,29,Thayer Academy,26
+1995-96,17,6,14,20,0,High-MA,31,Thayer Academy,26
+1996-97,18,5,77,18,0,H-East,38,Boston College Eagles,23
+1997-98,19,13,50,36,0,H-East,40,Boston College Eagles,49
+1997-98,19,2,4,2,0,WJC-A,7,United States,4
+1998-99,20,3,44,39,0,H-East,43,Boston College Eagles,42
+1998-99,20,2,0,1,0,WC-A,3,United States,3
+1999-00,21,6,61,37,0,H-East,42,Boston College Eagles,43
+1999-00,21,0,0,1,-2,WC-A,7,United States,1
+2000-01,22,10,45,33,13,AHL,61,Hartford Wolf Pack,43
+2001-02,23,9,56,42,16,AHL,80,Hartford Wolf Pack,51
+2002-03,24,0,0,1,2,WC-A,6,United States,1
+2002-03,24,6,38,30,3,AHL,61,2 Teams,36
+2002-03,24,1,24,18,9,AHL,29,Hartford Wolf Pack,19
+2002-03,24,5,14,12,-6,AHL,32,Saint John Flames,17
+2003-04,25,9,79,22,-11,AHL,69,Cincinnati Mighty Ducks,31
+2004-05,26,4,23,31,-18,AHL,73,Worcester IceCats,35
+2005-06,27,8,81,48,2,AHL,76,Peoria Rivermen,56
+2006-07,28,1,33,26,-5,AHL,43,Lowell Devils,27
+2012-13,34,0,14,14,2,AHL,34,2 Teams,14
+2012-13,34,0,6,7,5,AHL,16,San Antonio Rampage,7
+2012-13,34,0,8,7,-3,AHL,18,Toronto Marlies,7
+2013-14,35,1,26,9,1,AHL,29,San Antonio Rampage,10

@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1986-87,17,55,58,95,0,QAAA,42,Laval-Laurentides,150
+1987-88,18,20,111,50,0,QMJHL,61,Verdun Jr. Canadiens,70
+1988-89,19,27,156,38,0,QMJHL,54,2 Teams,65
+1988-89,19,19,87,17,0,QMJHL,28,Verdun Jr. Canadiens,36
+1988-89,19,8,69,21,0,QMJHL,26,Trois-Rivieres Draveurs,29
+1989-90,20,57,162,79,0,QMJHL,60,Trois-Rivieres Draveurs,136
+1990-91,21,13,51,16,0,AHL,45,Fredericton Canadiens,29
+1991-92,22,44,183,44,0,ECHL,60,Cincinnati Cyclones,88
+1992-93,23,21,78,39,0,AHL,71,New Haven Senators,60
+1993-94,24,13,87,15,0,AHL,49,2 Teams,28
+1993-94,24,13,65,12,0,AHL,37,P.E.I. Senators,25
+1993-94,24,0,22,3,0,AHL,12,Providence Bruins,3
+1994-95,25,14,61,12,0,BH-Cup,8,Whitley Warriors,26
+1994-95,25,1,16,1,0,Britain,2,Whitley Warriors,2
+1995-96,26,61,0,48,0,WCHL,53,San Diego Gulls,109
+1995-96,26,0,6,2,0,IHL,5,2 Teams,2
+1995-96,26,0,6,2,0,IHL,4,San Francisco Spiders,2
+1995-96,26,0,0,0,0,IHL,1,Los Angeles Ice Dogs,0
+1996-97,27,3,12,4,0,France,7,HC Amiens,7
+1996-97,27,60,170,67,0,WCHL,59,San Diego Gulls,127
+1997-98,28,35,203,44,45,WCHL,61,San Diego Gulls,79
+1998-99,29,15,176,31,24,WCHL,59,San Diego Gulls,46
+1999-00,30,6,80,10,4,WCHL,23,San Diego Gulls,16
+2000-01,31,1,45,4,0,WCHL,14,San Diego Gulls,5
+2001-02,32,2,39,8,3,WCHL,20,San Diego Gulls,10
+2002-03,33,0,32,2,1,WCHL,3,San Diego Gulls,2

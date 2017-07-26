@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1997-98,15,0,0,0,0,Russia,6,Torpedo Yaroslavl,0
+1998-99,16,2,4,2,0,Russia-3,14,Torpedo Yaroslavl 2,4
+1999-00,17,24,10,17,0,Russia-3,53,Torpedo Yaroslavl 2,41
+2000-01,18,5,8,11,0,Russia-2,26,2 Teams,16
+2000-01,18,0,2,0,0,Russia-2,4,HK Moscow,0
+2000-01,18,5,6,11,0,Russia-2,22,THK Tver,16
+2001-02,19,8,0,6,0,Russia-3,8,Dynamo Moscow 2,14
+2001-02,19,2,4,1,0,Russia,36,2 Teams,3
+2001-02,19,2,4,1,0,Russia,35,Dynamo Moscow,3
+2001-02,19,0,0,0,0,Russia,1,Salavat Yulayev Ufa,0
+2002-03,20,7,10,9,0,Russia,51,Sibir Novosibirsk,16
+2003-04,21,14,22,8,0,Russia,58,Sibir Novosibirsk,22
+2004-05,22,1,0,0,0,Russia-3,2,Lokomotiv Yaroslavl 2,1
+2004-05,22,2,16,12,0,Russia,44,2 Teams,14
+2004-05,22,2,12,3,0,Russia,26,Sibir Novosibirsk,5
+2004-05,22,0,4,9,0,Russia,18,Lokomotiv Yaroslavl,9
+2005-06,23,14,18,7,0,Russia,40,Lokomotiv Yaroslavl,21
+2005-06,23,4,2,2,1,WC-A,7,Russia,6
+2006-07,24,6,22,12,0,AHL,27,Wilkes-Barre Penguins,18
+2006-07,24,5,6,3,0,Russia,11,Lokomotiv Yaroslavl,8
+2007-08,25,14,50,20,0,Russia,52,Lokomotiv Yaroslavl,34
+2008-09,26,16,57,17,0,KHL,52,Lokomotiv Yaroslavl,33
+2009-10,27,7,16,14,0,KHL,40,Lokomotiv Yaroslavl,21
+2010-11,28,3,12,12,0,KHL,32,Lokomotiv Yaroslavl,15
+2011-12,29,8,12,10,0,KHL,39,Metallurg Magnitogorsk,18
+2012-13,30,11,22,8,0,KHL,39,Atlant Moscow Region,19

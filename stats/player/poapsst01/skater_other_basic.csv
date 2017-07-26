@@ -1,0 +1,17 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1986-87,18,10,94,27,0,ON-Jr.A,54,Smiths Falls Bears,37
+1987-88,19,3,22,13,0,ECAC,32,Colgate U. Red Raiders,16
+1988-89,20,0,38,5,0,ECAC,30,Colgate U. Red Raiders,5
+1989-90,21,4,54,15,0,ECAC,38,Colgate U. Red Raiders,19
+1990-91,22,6,43,15,0,ECAC,32,Colgate U. Red Raiders,21
+1991-92,23,8,29,20,0,ECHL,55,Hampton Roads Admirals,28
+1992-93,24,10,57,35,0,ECHL,63,Hampton Roads Admirals,45
+1992-93,24,0,4,1,0,AHL,7,Baltimore Skipjacks,1
+1993-94,25,14,47,21,0,AHL,78,Portland Pirates,35
+1994-95,26,8,60,22,0,AHL,71,Portland Pirates,30
+1995-96,27,10,79,24,0,AHL,70,Portland Pirates,34
+1996-97,28,1,34,20,0,AHL,47,Portland Pirates,21
+1997-98,29,8,46,29,17,AHL,76,Portland Pirates,37
+1998-99,30,3,36,21,3,AHL,54,Portland Pirates,24
+1999-00,31,0,20,14,14,AHL,58,Portland Pirates,14
+2000-01,32,1,14,8,16,AHL,37,Norfolk Admirals,9

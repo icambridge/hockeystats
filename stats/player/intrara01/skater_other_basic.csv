@@ -1,0 +1,29 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1989-90,16,33,20,26,0,MTHL,37,Toronto Young Nationals,59
+1990-91,17,25,22,42,0,OHL,63,Sault Ste. Marie Greyhounds,67
+1991-92,18,50,44,63,0,OHL,65,Sault Ste. Marie Greyhounds,113
+1992-93,19,31,61,47,0,OHL,54,Sault Ste. Marie Greyhounds,78
+1992-93,19,3,4,2,0,WJC-A,7,Canada,5
+1993-94,20,21,39,31,0,AHL,66,Cape Breton Oilers,52
+1994-95,21,46,62,47,0,AHL,70,Cape Breton Oilers,93
+1994-95,21,5,6,1,0,WC-A,8,Canada,6
+1995-96,22,34,84,39,0,AHL,52,Cape Breton Oilers,73
+1996-97,23,36,88,40,0,AHL,68,Hamilton Bulldogs,76
+1997-98,24,26,68,35,0,IHL,81,Manitoba Moose,61
+1998-99,25,29,70,31,12,IHL,71,Manitoba Moose,60
+1999-00,26,14,20,19,0,Germany,54,Adler Mannheim,33
+1999-00,26,1,0,4,0,EuroHL,5,Adler Mannheim,5
+2000-01,27,27,87,20,0,Germany,51,ESC Moskitos Essen,47
+2001-02,28,20,66,15,0,Germany,58,ESC Moskitos Essen,35
+2002-03,29,31,42,19,0,Austria,51,EHC Linz,50
+2003-04,30,6,68,6,0,Austria,35,EHC Linz,12
+2004-05,31,12,95,13,0,Germany,51,Iserlohn Roosters,25
+2005-06,32,24,38,22,0,Germany,52,Iserlohn Roosters,46
+2006-07,33,15,24,19,0,Austria,24,Klagenfurter AC,34
+2006-07,33,3,4,2,0,Germany,8,Kolner Haie,5
+2007-08,34,19,101,19,0,Austria,38,Olimpija Ljubljana,38
+2008-09,35,15,46,21,0,Austria,48,Olimpija Ljubljana,36
+2009-10,36,16,34,26,0,Italy,35,HC Asiago,42
+2010-11,37,16,34,20,0,Italy,36,HC Asiago,36
+2011-12,38,6,4,10,0,Italy-2,13,EV Bozen 84,16
+2011-12,38,10,18,12,0,Italy,28,HC Asiago,22

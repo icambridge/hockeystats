@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1991-92,18,12,6,16,0,USHL,45,Waterloo Black Hawks,28
+1992-93,19,13,22,17,0,USHL,42,Waterloo Black Hawks,30
+1993-94,20,4,18,15,0,CCHA,32,Ferris State Bulldogs,19
+1994-95,21,11,26,19,0,CCHA,36,Ferris State Bulldogs,30
+1995-96,22,15,44,19,0,CCHA,33,Ferris State Bulldogs,34
+1996-97,23,12,18,34,0,CCHA,37,Ferris State Bulldogs,46
+1997-98,24,8,30,16,0,IHL,67,San Antonio Dragons,24
+1998-99,25,12,52,31,0,IHL,85,2 Teams,43
+1998-99,25,5,34,21,0,IHL,41,Long Beach Ice Dogs,26
+1998-99,25,7,18,10,0,IHL,44,Utah Grizzlies,17
+1999-00,26,19,40,22,0,Germany,55,Krefeld Pinguine,41
+2000-01,27,7,32,13,0,Germany,59,Adler Mannheim,20
+2001-02,28,9,16,21,0,Germany,60,Adler Mannheim,30
+2002-03,29,18,16,16,0,Germany,49,Adler Mannheim,34
+2003-04,30,11,26,21,0,Germany,46,Adler Mannheim,32
+2003-04,30,2,0,3,3,WC-A,9,United States,5
+2004-05,31,4,20,5,0,Swiss,14,Lausanne HC,9
+2004-05,31,2,2,3,0,Swiss-Q,7,Lausanne HC,5
+2004-05,31,0,4,3,5,WC-A,7,United States,3
+2005-06,32,2,6,3,-6,AHL,10,Peoria Rivermen,5
+2005-06,32,4,16,7,0,Swiss,14,ZSC Lions Zurich,11
+2006-07,33,13,74,28,0,Germany,48,Eisbaren Berlin,41
+2007-08,34,16,54,31,0,Germany,56,Eisbaren Berlin,47

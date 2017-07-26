@@ -1,0 +1,41 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1990-91,17,9,12,14,0,Czech,33,Dukla Trencin,23
+1990-91,17,1,4,7,0,EJC-A,5,Czechoslovakia,8
+1991-92,18,25,28,36,0,Czech,46,Dukla Trencin,61
+1991-92,18,3,10,6,0,WJC-A,7,Czechoslovakia,9
+1992-93,19,5,39,3,0,AHL,16,Springfield Indians,8
+1993-94,20,0,0,0,0,Slovakia,1,Dukla Trencin,0
+1993-94,20,16,39,8,0,AHL,30,Springfield Indians,24
+1993-94,20,1,18,6,0,Olympics,8,Slovakia,7
+1994-95,21,30,121,52,0,AHL,74,Springfield Indians,82
+1994-95,21,4,8,7,0,WC-B,6,Slovakia,11
+1995-96,22,4,18,8,0,AHL,9,Springfield Falcons,12
+1995-96,22,0,0,1,0,WC-A,5,Slovakia,1
+1995-96,22,28,79,26,0,IHL,62,2 Teams,54
+1995-96,22,5,16,3,0,IHL,12,Detroit Vipers,8
+1995-96,22,23,63,23,0,IHL,50,Michigan K-Wings,46
+1996-97,23,5,19,4,0,AHL,12,Worcester IceCats,9
+1997-98,24,27,97,34,-5,AHL,65,Worcester IceCats,61
+1997-98,24,2,0,1,0,Olympics,4,Slovakia,3
+1998-99,25,26,87,32,15,IHL,49,Grand Rapids Griffins,58
+1999-00,26,5,4,3,-4,IHL,7,Grand Rapids Griffins,8
+2000-01,27,13,22,10,5,IHL,23,Chicago Wolves,23
+2000-01,27,3,10,2,0,Sweden,7,MoDo HK Ornskoldsvik,5
+2000-01,27,4,0,2,5,WC-A,7,Slovakia,6
+2001-02,28,23,32,23,0,Swiss,38,HC Ambri-Piotta,46
+2001-02,28,1,2,1,-1,Olympics,4,Slovakia,2
+2001-02,28,1,4,1,1,WC-A,9,Slovakia,2
+2002-03,29,15,40,20,0,Swiss,42,HC Ambri-Piotta,35
+2003-04,30,7,12,12,0,Swiss,24,SCL Tigers Langnau,19
+2004-05,31,21,48,29,0,Swiss,44,ZSC Lions Zurich,50
+2005-06,32,5,14,8,0,Swiss,19,ZSC Lions Zurich,13
+2006-07,33,14,50,17,0,Swiss,39,ZSC Lions Zurich,31
+2007-08,34,5,8,4,0,CzRep,11,HC Vitkovice Steel,9
+2007-08,34,4,2,2,1,WC-A,5,Slovakia,6
+2008-09,35,5,47,15,0,CzRep,37,HC Vitkovice Steel,20
+2009-10,36,0,2,4,0,Slovakia,4,Dukla Trencin,4
+2009-10,36,8,43,11,0,KHL,34,Dynamo Riga,19
+2010-11,37,2,4,5,0,Finland,13,KalPa Kuopio,7
+2010-11,37,1,8,3,0,KHL,20,Dynamo Riga,4
+2011-12,38,8,22,18,0,CzRep,43,HC Kometa Brno,26
+2012-13,39,9,20,8,0,CzRep,52,HC Kometa Brno,17

@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1983-84,14,15,0,11,0,High-CT,21,South Windsor High School,26
+1984-85,15,24,0,19,0,High-CT,20,South Windsor High School,43
+1985-86,16,39,0,50,0,High-CT,22,South Windsor High School,89
+1986-87,17,30,0,35,0,NEJHL,50,Springfield Olympics,65
+1987-88,18,20,18,12,0,H-East,37,Northeastern University,32
+1988-89,19,13,65,14,0,H-East,34,Northeastern University,27
+1989-90,20,24,72,21,0,H-East,34,Northeastern University,45
+1990-91,21,17,75,23,0,H-East,32,Northeastern University,40
+1991-92,22,23,58,24,0,AHL,70,Utica Devils,47
+1992-93,23,30,88,27,0,AHL,75,Utica Devils,57
+1993-94,24,31,140,30,0,AHL,77,Albany River Rats,61
+1994-95,25,24,97,23,0,IHL,74,San Diego Gulls,47
+1995-96,26,15,81,18,0,Italy,29,HC Fassa,33
+1996-97,27,22,115,24,0,IHL,77,San Antonio Dragons,46
+1997-98,28,12,49,7,0,IHL,54,Grand Rapids Griffins,19
+1997-98,28,2,29,4,4,AHL,11,Springfield Falcons,6
+1998-99,29,9,32,7,2,IHL,55,2 Teams,16
+1998-99,29,0,0,0,-1,IHL,2,Kansas City Blades,0
+1998-99,29,9,32,7,3,IHL,53,Houston Aeros,16

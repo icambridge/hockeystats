@@ -1,20 +1,20 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-51,1979-80,Saskatoon J\'s,53,0,16,59,85,32,SJHL
-2,1979-80,Saskatoon Blades,3,0,16,15,5,2,WHL
-50,1980-81,Saskatoon Blades,63,0,17,72,97,34,WHL
-74,1981-82,Saskatoon Blades,87,0,18,55,151,64,WHL
-2,1981-82,Canada,6,0,18,7,12,6,WJC-A
-8,1982-83,Kamloops Jr. Oilers,16,0,19,6,23,7,WHL
-32,1983-84,Moncton Alpines,37,0,20,71,56,19,AHL
-65,1984-85,Nova Scotia Oilers,29,0,21,48,58,29,AHL
-21,1985-86,Springfield Indians,32,0,22,41,50,18,AHL
-70,1986-87,Canada,32,0,23,51,61,29,Nat-Tm
-42,1987-88,Canada,34,0,24,61,53,19,Nat-Tm
-6,1987-88,Canada,3,0,24,8,8,5,Olympics
-4,1991-92,Canada,0,0,28,6,1,1,WC-A
-70,1992-93,SC Bern,23,0,29,36,42,19,Swiss
-11,1992-93,Canada,3,0,29,3,3,0,Nat-Tm
-49,1993-94,Las Vegas Thunder,40,0,30,59,54,14,IHL
-38,1994-95,Las Vegas Thunder,15,0,31,43,26,11,IHL
-0,1994-95,EV Zug,1,0,31,5,1,0,Swiss
-73,1995-96,Augsburger Panther,32,0,32,48,46,14,Germany
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+53,Saskatoon J\'s,32,1979-80,59,85,51,16,0,SJHL
+3,Saskatoon Blades,2,1979-80,15,5,2,16,0,WHL
+63,Saskatoon Blades,34,1980-81,72,97,50,17,0,WHL
+87,Saskatoon Blades,64,1981-82,55,151,74,18,0,WHL
+6,Canada,6,1981-82,7,12,2,18,0,WJC-A
+16,Kamloops Jr. Oilers,7,1982-83,6,23,8,19,0,WHL
+37,Moncton Alpines,19,1983-84,71,56,32,20,0,AHL
+29,Nova Scotia Oilers,29,1984-85,48,58,65,21,0,AHL
+32,Springfield Indians,18,1985-86,41,50,21,22,0,AHL
+32,Canada,29,1986-87,51,61,70,23,0,Nat-Tm
+34,Canada,19,1987-88,61,53,42,24,0,Nat-Tm
+3,Canada,5,1987-88,8,8,6,24,0,Olympics
+0,Canada,1,1991-92,6,1,4,28,0,WC-A
+23,SC Bern,19,1992-93,36,42,70,29,0,Swiss
+3,Canada,0,1992-93,3,3,11,29,0,Nat-Tm
+40,Las Vegas Thunder,14,1993-94,59,54,49,30,0,IHL
+15,Las Vegas Thunder,11,1994-95,43,26,38,31,0,IHL
+1,EV Zug,0,1994-95,5,1,0,31,0,Swiss
+32,Augsburger Panther,14,1995-96,48,46,73,32,0,Germany

@@ -1,0 +1,9 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,27,0,24,0,6,0,,MTM,[],0,0,1,0,5,0,1924-25,,0,16,0,0
+NHL,33,0,25,0,10,0,,MTM,"[{'link': '/awards/voting-1926.html#byng', 'name': 'Byng-5'}]",0,0,6,0,4,0,1925-26,,0,55,0,0
+NHL,43,0,26,0,11,0,,MTM,[],0,0,5,0,6,0,1926-27,,0,42,0,0
+NHL,43,0,27,0,7,0,,MTM,[],0,0,2,0,5,0,1927-28,,0,35,0,0
+NHL,1,0,28,0,0,0,,MTM,[],0,0,0,0,0,0,1928-29,,0,0,0,0
+NHL,40,0,29,0,9,0,,MTM,[],0,0,2,0,7,0,1929-30,,0,10,0,0
+NHL,4,0,30,0,1,0,,MTM,[],0,0,1,0,0,0,1930-31,,0,0,0,0
+NHL,0,0,31,0,2,0,,MTL,[],0,0,1,0,1,0,1931-32,,0,14,0,0

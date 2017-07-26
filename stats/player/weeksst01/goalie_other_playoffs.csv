@@ -1,0 +1,5 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,CCHA,1,Northern Michigan U.,60,18,1,0,0,6,0,0,0,0,0,0,0,0,0,0,1976-77,0,6.00,0,0
+0,CCHA,2,Northern Michigan U.,151,20,1,0,0,10,0,0,0,0,0,0,0,0,0,0,1978-79,0,3.97,0,0
+0,CCHA,6,Northern Michigan U.,330,21,1,0,0,18,0,0,0,0,4,0,0,0,0,0,1979-80,0,3.27,0,0
+0,IHL,3,Milwaukee Admirals,210,32,2,0,0,13,0,0,0,0,1,0,0,0,0,0,1990-91,0,3.71,0,0

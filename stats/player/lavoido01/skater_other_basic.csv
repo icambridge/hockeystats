@@ -1,0 +1,36 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1984-85,17,1,10,1,0,QMJHL,30,St-Jean Castors,2
+1985-86,18,12,99,37,0,QMJHL,70,St-Jean Castors,49
+1986-87,19,12,97,42,0,QMJHL,64,St-Jean Castors,54
+1987-88,20,7,54,26,0,IHL,65,Peoria Rivermen,33
+1988-89,21,11,98,31,0,IHL,69,Peoria Rivermen,42
+1989-90,22,19,32,23,0,IHL,58,Peoria Rivermen,42
+1990-91,23,15,72,25,0,IHL,46,Peoria Rivermen,40
+1991-92,24,20,87,32,0,IHL,58,Peoria Rivermen,52
+1992-93,25,18,76,34,0,AHL,67,2 Teams,52
+1992-93,25,2,14,7,0,AHL,14,New Haven Senators,9
+1992-93,25,16,62,27,0,AHL,53,Providence Bruins,43
+1993-94,26,22,82,35,0,IHL,67,2 Teams,57
+1993-94,26,20,70,33,0,IHL,58,Phoenix Roadrunners,53
+1993-94,26,2,12,2,0,IHL,9,San Diego Gulls,4
+1994-95,27,9,30,15,0,Euroliga,17,VEU Feldkirch,24
+1994-95,27,12,79,13,0,Austria,28,VEU Feldkirch,25
+1995-96,28,5,14,7,0,Alpenliga,8,VEU Feldkirch,12
+1995-96,28,20,75,33,0,Austria,35,VEU Feldkirch,53
+1996-97,29,18,46,29,0,Alpenliga,43,VEU Feldkirch,47
+1996-97,29,2,29,4,0,Austria,11,VEU Feldkirch,6
+1997-98,30,8,12,8,0,Alpenliga,21,VEU Feldkirch,16
+1997-98,30,5,16,6,0,Austria,15,VEU Feldkirch,11
+1997-98,30,1,10,5,0,EuroHL,6,VEU Feldkirch,6
+1997-98,30,5,8,1,0,Olympics,4,Austria,6
+1998-99,31,14,18,14,0,Alpenliga,32,VEU Feldkirch,28
+1998-99,31,2,22,9,0,Austria,17,VEU Feldkirch,11
+1998-99,31,3,22,2,0,EuroHL,6,VEU Feldkirch,5
+1998-99,31,2,8,0,0,WC-A,6,Austria,2
+1999-00,32,25,122,33,0,Germany,67,Hannover Scorpions,58
+1999-00,32,0,12,1,0,WC-A,6,Austria,1
+2000-01,33,8,86,24,0,Germany,59,Hannover Scorpions,32
+2001-02,34,12,56,27,0,Germany,57,Hannover Scorpions,39
+2001-02,34,0,2,1,-1,Olympics,4,Austria,1
+2002-03,35,12,78,31,0,Austria,45,VEU Feldkirch,43
+2003-04,36,2,40,9,0,Austria,40,VEU Feldkirch,11

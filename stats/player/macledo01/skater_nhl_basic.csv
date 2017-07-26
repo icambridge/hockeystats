@@ -1,0 +1,6 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,22,0,21,25,7,0,,LAK,[],20.0,3,2,-1,5,0,1997-98,,2,4,0,2
+NHL,3,0,24,2,1,0,29,TOR,[],0.0,0,1,-2,0,0,2000-01,9:48,0,2,0,1
+NHL,4,0,27,10,1,0,47,CBJ,[],10.0,1,0,-1,1,0,2003-04,11:41,0,0,0,0
+NHL,3,1,29,3,2,0,38,DET,[],33.3,0,1,2,1,0,2005-06,12:45,1,0,0,1
+NHL,9,0,30,12,2,1,114,PHX,[],8.3,1,1,-4,1,0,2006-07,12:38,0,0,0,0

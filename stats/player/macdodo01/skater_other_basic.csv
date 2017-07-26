@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1984-85,15,53,0,105,0,Minor-BC,50,Burnaby Winter Club,158
+1985-86,16,21,8,33,0,BCJHL,45,Langley Eagles,54
+1986-87,17,28,61,49,0,BCJHL,51,Delta Flyers,77
+1987-88,18,50,72,54,0,BCJHL,51,Delta Flyers,104
+1988-89,19,23,50,25,0,WCHA,44,University of Wisconsin,48
+1989-90,20,16,52,35,0,WCHA,44,University of Wisconsin,51
+1990-91,21,20,50,26,0,WCHA,31,University of Wisconsin,46
+1991-92,22,14,58,25,0,WCHA,29,University of Wisconsin,39
+1992-93,23,25,58,33,0,AHL,64,Rochester Americans,58
+1993-94,24,25,46,19,0,AHL,63,Rochester Americans,44
+1994-95,25,21,73,25,0,AHL,58,Rochester Americans,46
+1995-96,26,19,66,40,0,IHL,71,Cincinnati Cyclones,59
+1996-97,27,20,36,34,0,IHL,65,Cincinnati Cyclones,54
+1997-98,28,17,64,19,-20,IHL,70,Cincinnati Cyclones,36
+1998-99,29,7,22,11,-3,IHL,33,Cincinnati Cyclones,18
+1999-00,30,0,2,1,1,IHL,7,Cincinnati Cyclones,1
+1999-00,30,6,12,10,0,Germany,26,Kolner Haie,16
+2000-01,31,9,58,11,0,Germany,57,Kolner Haie,20
+2001-02,32,12,70,17,0,Germany,49,ESC Moskitos Essen,29
+2002-03,33,11,30,10,0,Britain,32,Belfast Giants,21

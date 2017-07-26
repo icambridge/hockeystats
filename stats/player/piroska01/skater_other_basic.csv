@@ -1,0 +1,31 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1993-94,15,18,0,23,0,CzRep-Jr.,38,2 Teams,41
+1993-94,15,12,0,10,0,CzRep-Jr.,16,Banik Most Jr.,22
+1993-94,15,6,0,13,0,CzRep-Jr.,22,HC Chemopetrol Litvinov Jr.,19
+1994-95,16,27,0,16,0,CzRep-Jr.,40,HC Chemopetrol Litvinov Jr.,43
+1995-96,17,16,0,13,0,CzRep-Jr.,42,HC Chemopetrol Litvinov Jr.,29
+1996-97,18,2,0,1,0,CzRep-Jr.,3,HC Chemopetrol Litvinov Jr.,3
+1996-97,18,4,10,9,0,CzRep,38,HC Chemopetrol Litvinov,13
+1997-98,19,2,16,10,0,CzRep,40,2 Teams,12
+1997-98,19,0,2,1,0,CzRep,14,HC Chemopetrol Litvinov,1
+1997-98,19,2,14,9,0,CzRep,26,HC Vitkovice,11
+1998-99,20,7,10,9,0,CzRep,41,HC Chemopetrol Litvinov,16
+1999-00,21,8,18,8,0,CzRep,40,HC Chemopetrol Litvinov,16
+2000-01,22,11,28,13,0,CzRep,48,HC Chemopetrol Litvinov,24
+2001-02,23,19,16,30,3,AHL,64,Chicago Wolves,49
+2002-03,24,10,16,9,-8,AHL,51,Chicago Wolves,19
+2003-04,25,12,26,25,1,AHL,64,2 Teams,37
+2003-04,25,10,20,20,4,AHL,50,Chicago Wolves,30
+2003-04,25,2,6,5,-3,AHL,14,San Antonio Rampage,7
+2004-05,26,2,8,6,0,Russia,27,Khimik Moscow Region (Voskresensk),8
+2005-06,27,6,32,5,0,Russia,33,Neftekhimik Nizhnekamsk,11
+2006-07,28,9,22,24,0,Swiss,41,EV Zug,33
+2007-08,29,12,34,22,0,Germany,53,Kolner Haie,34
+2008-09,30,7,30,19,0,Germany,40,Kolner Haie,26
+2008-09,30,1,12,2,0,Sweden,8,HV 71 Jonkoping,3
+2009-10,31,8,8,5,0,Sweden,24,Timra IK,13
+2009-10,31,2,16,3,0,Finland,22,Assat Pori,5
+2010-11,32,12,34,27,0,Sweden,54,HV 71 Jonkoping,39
+2011-12,33,12,12,13,0,Sweden,47,HV 71 Jonkoping,25
+2012-13,34,1,6,4,0,CzRep,18,HC Verva Litvinov,5
+2012-13,34,2,14,2,0,KHL,18,Avtomobilist Yekaterinburg,4

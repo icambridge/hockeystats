@@ -1,0 +1,10 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WHL,9,Portland Winter Hawks,535,17,3,0,0,31,0,0,0,0,6,0,0,0,0,0,1992-93,0,3.48,0,0
+0,WHL,10,Portland Winter Hawks,600,18,4,0,0,34,0,0,0,0,6,0,0,0,0,0,1993-94,0,3.40,0,0
+0,WHL,8,Portland Winter Hawks,510,19,5,0,0,30,0,0,0,0,3,0,0,0,0,0,1994-95,0,3.53,0,0
+0,AHL,7,Springfield Falcons,393,20,2,0,0,23,0,0,0,0,4,0,0,0,0,0,1995-96,0,3.51,0,0
+0,AHL,4,Springfield Falcons,216,22,3,0,0,14,0,0,0,0,1,0,0,0,0,0,1997-98,0,3.89,0,0
+0,IHL,6,Orlando Solar Bears,381,24,3,0,0,16,0,0,0,0,2,0,0,0,0,0,1999-00,0,2.52,4,0
+0,AHL,3,Cincinnati Mighty Ducks,142,25,1,0,0,7,0,0,0,0,1,0,0,0,0,.921,2000-01,89,2.96,0,82
+0,Finland,2,Assat Pori,116,29,2,0,0,5,0,0,0,0,0,0,0,0,0,0,2004-05,0,2.59,0,0
+0,Swiss,4,SC Rapperswil-Jona Lakers,239,31,3,0,0,18,0,0,0,0,1,0,0,0,0,0,2006-07,0,4.52,2,0

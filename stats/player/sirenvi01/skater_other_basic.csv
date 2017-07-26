@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1981-82,17,13,40,12,0,Fin-Jr.,30,Ilves Tampere Jr.,25
+1981-82,17,1,8,0,0,EJC-A,5,Finland,1
+1982-83,18,3,42,2,0,Finland,29,Ilves Tampere,5
+1982-83,18,1,6,1,0,WJC-A,7,Finland,2
+1983-84,19,0,4,2,0,WJC-A,7,Finland,2
+1983-84,19,0,2,1,0,Olympics,6,Finland,1
+1983-84,19,1,40,10,0,Finland,38,2 Teams,11
+1983-84,19,0,0,0,0,Finland,2,Olympia,0
+1983-84,19,1,40,10,0,Finland,36,Ilves Tampere,11
+1984-85,20,11,24,13,0,Finland,36,Ilves Tampere,24
+1984-85,20,0,8,0,0,WEC-A,5,Finland,0
+1987-88,23,0,6,0,0,Can-Cup,5,Finland,0
+1990-91,26,4,90,9,0,Finland,44,HPK Hameenlinna,13
+1990-91,26,2,16,2,0,WEC-A,10,Finland,4
+1991-92,27,0,15,1,0,Can-Cup,6,Finland,1
+1991-92,27,8,88,14,0,Finland,43,Ilves Tampere,22
+1991-92,27,0,16,2,0,Olympics,8,Finland,2
+1992-93,28,3,84,11,0,Sweden,37,Lulea HF,14
+1992-93,28,0,6,0,0,WC-A,6,Finland,0
+1993-94,29,4,65,11,0,Sweden,40,Lulea HF,15
+1994-95,30,1,44,4,0,Sweden,37,Vasteras IK,5
+1995-96,31,3,54,13,0,Swiss-2,24,EHC Olten,16
+1995-96,31,1,8,2,0,Swiss,6,SC Bern,3
+1996-97,32,10,72,11,0,Swiss,42,SC Bern,21
+1997-98,33,3,96,9,0,Swiss,36,SC Bern,12
+1998-99,34,3,42,2,0,Finland,34,HIFK Helsinki,5

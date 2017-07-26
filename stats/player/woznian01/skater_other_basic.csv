@@ -1,0 +1,18 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1999-00,19,1,8,1,0,H-East,17,U. of Massachusetts-Lowell,2
+2000-01,20,10,98,34,0,NAHL,54,Texas Tornado,44
+2001-02,21,3,54,13,0,WCHA,39,University of Wisconsin,16
+2002-03,22,1,47,7,0,WCHA,33,University of Wisconsin,8
+2003-04,23,6,104,8,0,WCHA,43,University of Wisconsin,14
+2003-04,23,0,0,1,-1,AHL,3,St. John\'s Maple Leafs,1
+2004-05,24,1,20,4,2,AHL,28,St. John\'s Maple Leafs,5
+2005-06,25,4,42,11,-2,AHL,31,Toronto Marlies,15
+2006-07,26,0,8,3,-4,AHL,5,Toronto Marlies,3
+2007-08,27,7,26,10,8,AHL,33,Toronto Marlies,17
+2008-09,28,3,82,18,-9,AHL,74,2 Teams,21
+2008-09,28,1,56,16,-8,AHL,56,Peoria Rivermen,17
+2008-09,28,2,26,2,-1,AHL,18,Wilkes-Barre Penguins,4
+2009-10,29,10,69,33,-10,AHL,68,Providence Bruins,43
+2010-11,30,10,123,13,0,Swiss,50,EV Zug,23
+2011-12,31,11,75,23,0,Swiss,47,EV Zug,34
+2012-13,32,3,36,7,0,Swiss,35,EV Zug,10

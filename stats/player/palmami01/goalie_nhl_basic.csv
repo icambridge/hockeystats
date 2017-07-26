@@ -1,0 +1,9 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+8.2,0,NHL,50,TOR,2877,23,18,0,2,154,0,0,8,4,23,2,0,0,0,0,1976-77,0,3.21,8,"[{'link': '/awards/voting-1977.html#AS', 'name': 'AS-8'}, {'link': '/awards/voting-1977.html#calder', 'name': 'Calder-5'}]",0
+13.0,0,NHL,63,TOR,3760,24,19,0,1,172,0,0,9,5,34,1,0,0,0,0,1977-78,0,2.74,12,[],0
+11.6,0,NHL,58,TOR,3396,25,21,0,5,167,0,0,10,4,26,5,0,0,0,0,1978-79,0,2.95,24,"[{'link': '/awards/voting-1979.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1979.html#hart', 'name': 'Hart-5'}]",0
+4.9,0,NHL,38,TOR,2039,26,14,0,3,125,0,0,3,2,16,3,0,0,0,0,1979-80,0,3.68,6,[],0
+7.0,0,NHL,49,WSH,2679,27,19,0,8,172,0,0,9,2,18,8,0,0,0,0,1980-81,0,3.85,17,[],0
+1.0,0,NHL,11,WSH,584,28,7,0,1,47,0,0,2,0,2,1,0,0,0,0,1981-82,0,4.83,6,[],0
+7.4,0,NHL,53,TOR,2965,29,23,0,3,197,0,0,7,0,21,3,0,0,0,0,1982-83,0,3.99,17,"[{'link': '/awards/voting-1983.html#AS', 'name': 'AS-9'}]",0
+3.5,0,NHL,34,TOR,1831,30,17,119,2,149,0,-24.26,4,0,9,2,0,0,0,.849,1983-84,986,4.88,28,[],837

@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1975-02-17,", ",RWC,Todd Harvey,R
+handed,heigh_and_weight,position,date_of_birth,name
+R,", ",RWC,1975-02-17,Todd Harvey

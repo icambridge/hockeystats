@@ -1,22 +1,22 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-0,,LW,,0,0,0,0,26,0,20,14,Herbie Lewis,6.1,1.0,34,0,20,,48,0,5.0,0,/players/l/lewishe01.html
-0,,RW,,0,0,0,0,31,0,12,13,Frank Carson,3.8,1.0,25,0,35,,45,0,2.8,0,/players/c/carsofr01.html
-0,,LW,,0,0,0,0,27,0,14,10,John Sorrell,3.9,1.0,24,0,11,,47,0,2.9,0,/players/s/sorrejo01.html
-0,,RW,,0,0,0,0,27,0,12,11,Larry Aurie,3.5,1.0,23,0,25,,45,0,2.5,0,/players/a/auriela01.html
-0,,LW/D,,0,0,0,0,28,0,9,13,Hap Emms,3.0,0.9,22,0,63,,43,0,2.1,0,/players/e/emmsha01.html
-0,,C/D,,0,0,0,0,25,0,12,8,Ebbie Goodfellow,3.2,0.9,20,0,47,,41,0,2.3,0,/players/g/goodfeb01.html
-0,,C,,0,0,0,0,26,0,6,14,Carl Voss,2.5,0.8,20,0,6,,38,0,1.7,0,/players/v/vossca01.html
-0,,RW,,0,0,0,0,20,0,8,8,Eddie Wiseman,2.1,0.9,16,0,16,,43,0,1.1,0,/players/w/wisemed01.html
-0,,D,,0,0,0,0,24,0,5,6,Doug Young,5.3,4.2,11,0,59,,48,0,1.2,0,/players/y/youngdo01.html
-0,,D,,0,0,0,0,24,0,3,6,John Gallagher,3.9,3.0,9,0,48,,35,0,0.9,0,/players/g/gallajo01.html
-0,,RW,,0,0,0,0,26,0,3,6,Leroy Goldsworthy,0.9,0.5,9,0,6,,25,0,0.4,0,/players/g/goldsle01.html
-0,,D,,0,0,0,0,24,0,2,6,Stewart Evans,4.5,4.2,8,0,74,,48,0,0.3,0,/players/e/evansst01.html
-0,,LW,,0,0,0,0,35,0,1,6,George Hay,0.1,0.7,7,0,6,,34,0,-0.7,0,/players/h/hayge01.html
-0,,D,,0,0,0,0,25,0,2,4,Walt Buswell,4.1,4.0,6,0,16,,46,0,0.1,0,/players/b/buswewa01.html
-0,,RW,,0,0,0,0,25,0,1,1,Gus Marker,0.0,0.3,2,0,8,,13,0,-0.3,0,/players/m/markegu01.html
-0,,LW,,0,0,0,0,27,0,1,1,Ron Moffat,-0.3,0.5,2,0,6,,24,0,-0.8,0,/players/m/moffaro01.html
-0,,F,,0,0,0,0,33,0,0,0,Bob Davis,-0.1,0.1,0,0,0,,3,0,-0.2,0,/players/d/davisbo01.html
-0,,D,,0,0,0,0,25,0,0,0,Emil Hanson,0.5,0.6,0,0,6,,7,0,-0.2,0,/players/h/hansoem01.html
-0,,LW/D,,0,0,0,0,36,0,0,0,Reg Noble,-0.2,0.1,0,0,6,,5,0,-0.3,0,/players/n/noblere01.html
-0,,C,,0,0,0,0,22,0,0,0,Jack Riley,0.0,0.0,0,0,0,,1,0,-0.1,0,/players/r/rileyja01.html
-0,,G,,0,0,0,0,32,0,0,0,John Ross Roach,9.9,0.0,0,0,0,,48,0,0.0,0,/players/r/roachjo01.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+14,0,20,26,,5.0,1.0,0,,0,LW,6.1,0,DET,/players/l/lewishe01.html,0,20,0,0,Herbie Lewis,,1933,34,0,48,0
+13,0,12,31,,2.8,1.0,0,,0,RW,3.8,0,DET,/players/c/carsofr01.html,0,35,0,0,Frank Carson,,1933,25,0,45,0
+10,0,14,27,,2.9,1.0,0,,0,LW,3.9,0,DET,/players/s/sorrejo01.html,0,11,0,0,John Sorrell,,1933,24,0,47,0
+11,0,12,27,,2.5,1.0,0,,0,RW,3.5,0,DET,/players/a/auriela01.html,0,25,0,0,Larry Aurie,,1933,23,0,45,0
+13,0,9,28,,2.1,0.9,0,,0,LW/D,3.0,0,DET,/players/e/emmsha01.html,0,63,0,0,Hap Emms,,1933,22,0,43,0
+8,0,12,25,,2.3,0.9,0,,0,C/D,3.2,0,DET,/players/g/goodfeb01.html,0,47,0,0,Ebbie Goodfellow,,1933,20,0,41,0
+14,0,6,26,,1.7,0.8,0,,0,C,2.5,0,DET,/players/v/vossca01.html,0,6,0,0,Carl Voss,,1933,20,0,38,0
+8,0,8,20,,1.1,0.9,0,,0,RW,2.1,0,DET,/players/w/wisemed01.html,0,16,0,0,Eddie Wiseman,,1933,16,0,43,0
+6,0,5,24,,1.2,4.2,0,,0,D,5.3,0,DET,/players/y/youngdo01.html,0,59,0,0,Doug Young,,1933,11,0,48,0
+6,0,3,24,,0.9,3.0,0,,0,D,3.9,0,DET,/players/g/gallajo01.html,0,48,0,0,John Gallagher,,1933,9,0,35,0
+6,0,3,26,,0.4,0.5,0,,0,RW,0.9,0,DET,/players/g/goldsle01.html,0,6,0,0,Leroy Goldsworthy,,1933,9,0,25,0
+6,0,2,24,,0.3,4.2,0,,0,D,4.5,0,DET,/players/e/evansst01.html,0,74,0,0,Stewart Evans,,1933,8,0,48,0
+6,0,1,35,,-0.7,0.7,0,,0,LW,0.1,0,DET,/players/h/hayge01.html,0,6,0,0,George Hay,,1933,7,0,34,0
+4,0,2,25,,0.1,4.0,0,,0,D,4.1,0,DET,/players/b/buswewa01.html,0,16,0,0,Walt Buswell,,1933,6,0,46,0
+1,0,1,25,,-0.3,0.3,0,,0,RW,0.0,0,DET,/players/m/markegu01.html,0,8,0,0,Gus Marker,,1933,2,0,13,0
+1,0,1,27,,-0.8,0.5,0,,0,LW,-0.3,0,DET,/players/m/moffaro01.html,0,6,0,0,Ron Moffat,,1933,2,0,24,0
+0,0,0,33,,-0.2,0.1,0,,0,F,-0.1,0,DET,/players/d/davisbo01.html,0,0,0,0,Bob Davis,,1933,0,0,3,0
+0,0,0,25,,-0.2,0.6,0,,0,D,0.5,0,DET,/players/h/hansoem01.html,0,6,0,0,Emil Hanson,,1933,0,0,7,0
+0,0,0,36,,-0.3,0.1,0,,0,LW/D,-0.2,0,DET,/players/n/noblere01.html,0,6,0,0,Reg Noble,,1933,0,0,5,0
+0,0,0,22,,-0.1,0.0,0,,0,C,0.0,0,DET,/players/r/rileyja01.html,0,0,0,0,Jack Riley,,1933,0,0,1,0
+0,0,0,32,,0.0,0.0,0,,0,G,9.9,0,DET,/players/r/roachjo01.html,0,0,0,0,John Ross Roach,,1933,0,0,48,0

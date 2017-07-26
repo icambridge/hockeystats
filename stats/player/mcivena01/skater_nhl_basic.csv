@@ -1,0 +1,4 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+0,NHL,1,0,22,0,0,0,0,0,0,11,VAN,0,0,[],0,0,0,-3,0,0,0,2006-07,0,11:20,0,7,0,0
+0,NHL,17,0,23,0,13,9,0,19,0,178,VAN,0,0,[],0.0,0,0,-8,0,0,0,2007-08,20,10:28,0,52,0,0
+1,NHL,18,0,24,0,13,5,1,37,0,169,ANA,1,0,[],0.0,0,1,2,0,0,0,2008-09,7,9:24,0,36,0,1

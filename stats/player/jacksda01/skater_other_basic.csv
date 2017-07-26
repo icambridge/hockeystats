@@ -1,0 +1,18 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1985-86,15,22,53,38,0,KIJHL,39,Castlegar Rebels,60
+1987-88,17,24,95,30,0,BCJHL,49,Vernon Lakers,54
+1988-89,18,4,33,5,0,WCHA,30,University of North Dakota,9
+1989-90,19,15,56,11,0,WCHA,44,University of North Dakota,26
+1990-91,20,17,79,9,0,WCHA,37,University of North Dakota,26
+1991-92,21,23,81,19,0,WCHA,39,University of North Dakota,42
+1992-93,22,23,59,20,0,AHL,68,Hamilton Canucks,43
+1993-94,23,25,75,35,0,AHL,60,Hamilton Canucks,60
+1994-95,24,30,162,28,0,AHL,78,Syracuse Crunch,58
+1995-96,25,27,132,19,0,AHL,50,Rochester Americans,46
+1996-97,26,24,111,34,0,AHL,78,Rochester Americans,58
+1997-98,27,10,55,13,1,AHL,28,Rochester Americans,23
+1998-99,28,16,103,27,1,AHL,80,Lowell Lock Monsters,43
+1999-00,29,6,8,9,0,AHL,21,Rochester Americans,15
+2000-01,30,16,104,12,-8,AHL,69,Rochester Americans,28
+2001-02,31,16,93,21,7,AHL,76,Manchester Monarchs,37
+2002-03,32,6,80,14,5,AHL,63,Manchester Monarchs,20

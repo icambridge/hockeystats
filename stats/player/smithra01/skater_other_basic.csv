@@ -1,0 +1,32 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1982-83,17,25,141,20,0,SJHL,65,Battleford Barons,45
+1983-84,18,19,53,21,0,WHL,69,Saskatoon Blades,40
+1984-85,19,34,26,51,0,WHL,71,2 Teams,85
+1984-85,19,6,9,16,0,WHL,25,Saskatoon Blades,22
+1984-85,19,28,17,35,0,WHL,46,Calgary Wranglers,63
+1985-86,20,60,44,86,0,WHL,70,Saskatoon Blades,146
+1986-87,21,20,24,44,0,AHL,75,Springfield Indians,64
+1987-88,22,13,54,43,0,IHL,77,Kalamazoo Wings,56
+1988-89,23,9,34,16,0,AHL,33,Maine Mariners,25
+1988-89,23,4,2,9,0,IHL,23,Kalamazoo Wings,13
+1989-90,24,6,22,8,0,IHL,38,2 Teams,14
+1989-90,24,1,12,2,0,IHL,8,Kalamazoo Wings,3
+1989-90,24,5,10,6,0,IHL,30,Salt Lake Golden Eagles,11
+1990-91,25,17,42,39,0,Nat-Tm,58,Canada,56
+1990-91,25,0,8,0,0,WEC-A,10,Canada,0
+1991-92,26,1,26,5,0,Swiss,7,EHC Biel-Bienne,6
+1991-92,26,20,24,25,0,Nat-Tm,59,Canada,45
+1991-92,26,1,4,7,0,Olympics,8,Canada,8
+1991-92,26,1,4,0,0,WC-A,6,Canada,1
+1992-93,27,26,0,18,0,Austria,39,Klagenfurter AC,44
+1993-94,28,7,78,7,0,IHL,53,Las Vegas Thunder,14
+1994-95,29,10,10,13,0,BH-Cup,8,Peterborough Pirates,23
+1994-95,29,82,67,84,0,Britain,44,Peterborough Pirates,166
+1995-96,30,22,4,19,0,BH-Cup,10,Cardiff Devils,41
+1995-96,30,51,38,49,0,Britain,36,Cardiff Devils,100
+1996-97,31,3,4,3,0,BH-Cup,6,Cardiff Devils,6
+1997-98,32,7,6,4,0,BH-Cup,10,Newcastle Cobras,11
+1997-98,32,9,32,18,0,Britain,40,Newcastle Cobras,27
+1998-99,33,30,22,44,0,Britain-2,29,Peterborough Pirates,74
+1999-00,34,9,25,17,0,BH-Cup,11,Peterborough Pirates,26
+1999-00,34,43,30,44,0,Britain-2,36,Peterborough Pirates,87

@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1992-93,15,23,49,24,0,NOHA,35,Kenora Thistles,47
+1993-94,16,3,23,14,0,ON-Jr.A,16,Peterborough Jr. Petes,17
+1993-94,16,8,18,17,0,OHL,49,Peterborough Petes,25
+1994-95,17,19,40,24,0,OHL,64,Peterborough Petes,43
+1995-96,18,42,108,60,0,OHL,66,Peterborough Petes,102
+1996-97,19,33,91,50,0,OHL,51,Peterborough Petes,83
+1996-97,19,3,10,4,0,WJC-A,7,Canada,7
+1997-98,20,21,99,26,-27,AHL,71,Providence Bruins,47
+1998-99,21,21,65,25,15,AHL,43,Providence Bruins,46
+1999-00,22,7,45,12,-3,AHL,29,Providence Bruins,19
+2000-01,23,24,59,23,-8,AHL,39,Providence Bruins,47
+2001-02,24,19,83,32,-6,AHL,61,Utah Grizzlies,51
+2002-03,25,26,75,31,1,AHL,59,Milwaukee Admirals,57
+2003-04,26,16,76,25,0,Germany,44,ERC Ingolstadt,41
+2004-05,27,17,42,21,0,Germany,46,ERC Ingolstadt,38
+2005-06,28,17,48,21,0,Germany,49,ERC Ingolstadt,38
+2006-07,29,3,37,5,0,Germany,16,ERC Ingolstadt,8
+2007-08,30,11,24,8,0,Finland,34,Ilves Tampere,19
+2008-09,31,5,30,8,0,Germany,17,Fuchse Duisburg,13

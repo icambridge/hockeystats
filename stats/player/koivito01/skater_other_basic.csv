@@ -1,0 +1,36 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1990-91,16,0,0,0,0,Fin-Jr.,1,TPS Turku Jr.,0
+1991-92,17,4,40,9,0,Fin-Jr.,36,TPS Turku Jr.,13
+1991-92,17,0,2,2,0,EJC-A,5,Finland,2
+1992-93,18,10,30,8,0,Fin-Jr.,21,TPS Turku Jr.,18
+1992-93,18,0,4,4,0,Finland-2,16,Kiekko-67 Turku,4
+1992-93,18,0,0,0,0,Finland,1,TPS Turku,0
+1992-93,18,0,0,1,0,WJC-A,7,Finland,1
+1993-94,19,4,16,5,0,Fin-Jr.,10,TPS Turku Jr.,9
+1993-94,19,4,2,12,0,Finland-2,16,Kiekko-67 Turku,16
+1993-94,19,2,4,5,0,Finland,18,TPS Turku,7
+1993-94,19,1,6,0,0,WJC-A,7,Finland,1
+1994-95,20,0,8,2,0,Fin-Jr.,5,TPS Turku Jr.,2
+1994-95,20,7,6,3,0,Finland-2,14,Kiekko-67 Turku,10
+1994-95,20,3,20,3,0,Finland,29,2 Teams,6
+1994-95,20,0,4,0,0,Finland,4,TPS Turku,0
+1994-95,20,3,16,3,0,Finland,25,HPK Hameenlinna,6
+1995-96,21,8,52,11,0,Finland,50,HPK Hameenlinna,19
+1996-97,22,18,50,17,0,Finland,46,HPK Hameenlinna,35
+1997-98,23,6,28,6,0,Finland,23,HPK Hameenlinna,12
+1997-98,23,1,0,0,0,EuroHL,3,HPK Hameenlinna,1
+1998-99,24,13,91,26,0,Finland,52,HPK Hameenlinna,39
+1999-00,25,8,58,20,0,Finland,43,Jokerit Helsinki,28
+2000-01,26,8,36,15,0,Finland,47,Jokerit Helsinki,23
+2001-02,27,8,30,14,0,Finland,43,Jokerit Helsinki,22
+2001-02,27,2,4,1,2,WC-A,9,Finland,3
+2002-03,28,4,32,13,4,AHL,47,Worcester IceCats,17
+2003-04,29,4,28,21,-2,AHL,45,2 Teams,25
+2003-04,29,4,16,13,4,AHL,28,Worcester IceCats,17
+2003-04,29,0,12,8,-6,AHL,17,Springfield Falcons,8
+2004-05,30,9,66,19,0,Sweden,50,Frolunda HC Goteborg,28
+2005-06,31,6,76,16,0,Sweden,40,Frolunda HC Goteborg,22
+2006-07,32,7,91,17,0,Swiss,36,SC Rapperswil-Jona Lakers,24
+2007-08,33,7,46,10,0,Swiss,47,Rapperswil-Jona Lakers,17
+2008-09,34,5,56,17,0,Finland,43,Jokerit Helsinki,22
+2009-10,35,6,40,13,0,Finland,40,Jokerit Helsinki,19

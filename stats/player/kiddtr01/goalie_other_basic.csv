@@ -1,0 +1,17 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,MAHA,14,Eastman Selects,840,15,0,0,0,66,0,0,0,0,0,0,0,0,0,0,1987-88,0,4.71,0,0
+0,WHL,32,Brandon Wheat Kings,1509,16,13,0,0,102,0,0,1,0,11,0,0,0,0,0,1988-89,0,4.06,0,0
+0,WHL,63,Brandon Wheat Kings,3676,17,32,0,0,254,0,0,2,2,24,0,0,0,0,0,1989-90,0,4.15,0,0
+0,WJC-A,6,Canada,340,18,0,0,0,15,0,0,0,0,0,0,0,0,0,0,1990-91,0,2.65,0,0
+0,WHL,44,2 Teams,2479,18,22,0,0,161,0,0,1,0,18,0,0,0,0,0,1990-91,0,3.90,0,0
+0,WHL,30,Brandon Wheat Kings,1730,18,19,0,0,117,0,0,1,0,10,0,0,0,0,0,1990-91,0,4.06,0,0
+0,WHL,14,Spokane Chiefs,749,18,3,0,0,44,0,0,0,0,8,0,0,0,0,0,1990-91,0,3.52,0,0
+0,Nat-Tm,28,Canada,1349,19,4,0,0,79,0,0,4,2,18,0,0,0,0,0,1991-92,0,3.51,0,0
+0,WJC-A,7,Canada,420,19,3,0,0,29,0,0,2,1,2,0,0,0,0,0,1991-92,0,4.14,0,0
+0,Olympics,1,Canada,60,19,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1991-92,0,0.00,0,0
+0,WC-A,1,Canada,60,19,0,0,0,3,0,0,0,0,1,0,0,0,0,0,1991-92,0,3.00,0,0
+0,IHL,29,Salt Lake Golden Eagles,1696,20,16,0,0,111,0,0,1,1,10,0,0,0,0,0,1992-93,0,3.93,0,0
+0,AHL,1,Louisville Panthers,60,27,1,0,0,5,0,0,0,0,0,0,0,0,0,.900,1999-00,50,5.00,0,45
+0,AHL,1,St. John\'s Maple Leafs,60,31,0,0,0,1,0,0,0,0,1,0,0,0,0,.966,2003-04,29,1.00,0,28
+0,Sweden-3,8,HC Orebro 90,480,32,0,0,1,19,0,0,0,2,0,1,0,0,0,0,2004-05,0,2.37,10,0
+0,Germany,45,Hannover Scorpions,2620,33,0,0,2,120,0,0,0,1,0,2,0,0,0,0,2005-06,0,2.75,14,0

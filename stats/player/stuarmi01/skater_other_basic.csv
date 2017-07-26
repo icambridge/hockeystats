@@ -1,0 +1,17 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1996-97,16,4,22,9,0,USHL,46,Rochester Mustangs,13
+1997-98,17,4,40,15,0,USHL,50,Rochester Mustangs,19
+1998-99,18,2,44,12,0,WCHA,40,Colorado College,14
+1999-00,19,2,26,5,0,WCHA,32,Colorado College,7
+1999-00,19,0,2,0,0,WJC-A,7,United States,0
+2000-01,20,1,36,13,0,WCHA,33,Colorado College,14
+2001-02,21,3,46,9,0,WCHA,35,Colorado College,12
+2002-03,22,1,19,5,-2,AHL,41,Worcester IceCats,6
+2002-03,22,2,12,7,3,ECHL,19,Peoria Rivermen,9
+2003-04,23,0,20,4,-3,AHL,30,Worcester IceCats,4
+2004-05,24,1,26,10,5,AHL,70,Worcester IceCats,11
+2005-06,25,0,30,13,-10,AHL,56,Peoria Rivermen,13
+2006-07,26,0,56,9,-9,AHL,63,Peoria Rivermen,9
+2007-08,27,4,82,11,0,Austria,42,EC Graz,15
+2008-09,28,8,62,12,-3,Austria,50,EC Graz,20
+2009-10,29,3,17,8,5,ECHL,21,Idaho Steelheads,11

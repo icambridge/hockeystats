@@ -1,0 +1,11 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+WHA,0,0,22,0,51,0,,PHB,[],0,4,41,0,10,0,1972-73,,6,66,0,0
+WHA,75,1,23,0,38,0,,VNB,[],0,5,32,0,6,0,1973-74,,1,40,0,0
+WHA,78,0,24,215,48,0,,SDM,[],4.7,8,38,18,10,1,1974-75,,1,56,0,0
+WHA,80,3,25,287,46,0,,CNS,[],3.5,4,36,-8,10,0,1975-76,,6,31,0,0
+WHA,79,2,26,223,69,0,,CNS,"[{'link': '/awards/wha_all_star.html#1977', 'name': None}, {'link': '/awards/murphy.html#1977', 'name': None}]",4.9,10,58,64,11,0,1976-77,,1,52,0,0
+WHA,81,0,27,224,57,0,,TOT,[],6.3,6,43,-12,14,0,1977-78,,8,63,0,0
+WHA,54,0,27,150,47,0,,CNS,[],8.7,5,34,-18,13,0,1977-78,,8,45,0,0
+WHA,27,0,27,74,10,0,,NEW,[],1.4,1,9,6,1,0,1977-78,,0,18,0,0
+WHA,78,0,28,108,20,0,,NEW,[],3.7,4,16,5,4,0,1978-79,,0,33,0,0
+NHL,26,0,29,38,7,0,,HAR,[],7.9,3,4,10,3,0,1979-80,,0,14,0,4

@@ -1,0 +1,29 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2008-09,17,1,14,4,7,WJC-18,7,Russia U18,5
+2008-09,17,6,24,12,0,Russia4,23,MHK Krylia Sovetov-2,18
+2008-09,17,0,0,0,-4,Russia2,8,MHC Krylya,0
+2009-10,18,0,2,1,2,MHL,4,Sibirskie Snaipery Novosibirsk,1
+2009-10,18,0,6,1,-10,KHL,40,Sibir Novosibirsk,1
+2009-10,18,0,4,0,1,WJC-20,6,Russia U20,0
+2010-11,19,0,12,2,5,KHL,39,Sibir Novosibirsk,2
+2010-11,19,0,0,0,-2,WJC-20,6,Russia U20,0
+2010-11,19,0,0,0,0,VHL,0,Zauralie Kurgan,0
+2010-11,19,1,0,2,1,MHL,4,Sibirskie Snaipery Novosibirsk,3
+2011-12,20,4,0,0,3,MHL,4,Sibirskie Snaipery Novosibirsk,4
+2011-12,20,1,28,3,4,KHL,53,Sibir Novosibirsk,4
+2012-13,21,7,41,11,-7,KHL,49,Sibir Novosibirsk,18
+2012-13,21,1,0,0,2,Internationa,5,Russia (all),1
+2012-13,21,1,0,0,1,WC,3,Russia,1
+2012-13,21,0,0,0,1,EHT,2,Russia,0
+2013-14,22,0,2,0,0,Internationa,11,Russia (all),0
+2013-14,22,0,2,0,-1,EHT,6,Russia,0
+2013-14,22,1,0,2,-2,Spengler Cup,2,CSKA Moskva,3
+2013-14,22,4,18,8,1,KHL,33,CSKA Moskva,12
+2014-15,23,0,0,0,0,Internationa,3,Russia (all),0
+2014-15,23,0,0,0,0,EHT,3,Russia,0
+2014-15,23,12,31,20,27,KHL,57,CSKA Moskva,32
+2015-16,24,8,20,18,21,KHL,46,CSKA Moskva,26
+2015-16,24,1,6,3,8,Internationa,18,Russia (all),4
+2015-16,24,1,2,3,12,WC,10,Russia,4
+2015-16,24,0,4,0,-4,EHT,8,Russia,0
+2016-17,25,0,2,2,3,WCup,4,Russia,2

@@ -1,0 +1,9 @@
+goals_allowed_precentage,goalie_point_share,goals_saved_aboved_average,bad_start,year,awards,goals_allowed,minutes,ties,pim,good_starts,saves,shots_againist,assists,team,shutouts,goals,games_started,goals_allowed_average,age,league,saves_percentage,good_start_precentages,games_played,points,wins,loses
+0,0.7,0,0,1995-96,[],3,163,0,0,0,64,67,0,DET,1,0,0,1.10,23,NHL,.955,0,4,0,2,0
+0,0.9,0,0,1996-97,[],8,294,1,0,0,106,114,1,DET,1,0,0,1.63,24,NHL,.930,0,6,1,2,2
+106,2.4,-2.37,0,1997-98,"[{'link': '/awards/voting-1998.html#calder', 'name': 'Calder-10'}]",44,988,3,2,0,400,444,0,DET,2,0,0,2.67,25,NHL,.901,0,21,0,9,3
+0,1.0,0,0,1998-99,[],20,413,1,0,0,177,197,0,TOT,0,0,0,2.91,26,NHL,.898,0,9,0,2,3
+0,0.3,0,0,1998-99,[],9,175,0,0,0,70,79,0,DET,0,0,0,3.09,26,NHL,.886,0,4,0,0,2
+0,0.7,0,0,1998-99,[],11,238,1,0,0,107,118,0,TBL,0,0,0,2.77,26,NHL,.907,0,5,0,2,1
+0,0.3,0,0,1999-00,[],47,769,4,2,0,280,327,0,TBL,0,0,0,3.67,27,NHL,.856,0,24,0,2,7
+0,0.3,0,0,2002-03,[],12,283,1,2,0,89,101,0,TBL,0,0,0,2.54,30,NHL,.881,0,7,0,0,3

@@ -1,0 +1,24 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,QMJHL,42,Sherbrooke Castors,2047,17,11,0,0,142,0,0,3,1,18,0,0,0,0,0,1978-79,0,4.16,0,0
+0,QMJHL,64,Sherbrooke Castors,3589,18,15,0,0,252,0,0,7,1,38,0,0,0,0,0,1979-80,0,4.21,0,0
+0,QMJHL,64,Sherbrooke Castors,3768,19,26,0,0,280,0,0,3,2,35,0,0,0,0,0,1980-81,0,4.46,0,0
+0,WJC-A,5,Canada,207,19,2,0,0,20,0,0,1,0,1,0,0,0,0,0,1980-81,0,5.80,0,0
+0,AHL,1,Adirondack Red Wings,10,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1981-82,0,0.00,0,0
+0,IHL,20,Kalamazoo Wings,1146,20,0,0,0,91,0,0,0,1,0,0,0,0,0,0,1981-82,0,4.76,0,0
+0,AHL,11,Adirondack Red Wings,660,21,5,0,0,37,0,0,0,0,6,0,0,0,0,0,1982-83,0,3.36,0,0
+0,AHL,29,Adirondack Red Wings,1767,22,10,0,0,132,0,0,5,0,14,0,0,0,0,0,1983-84,0,4.48,0,0
+0,AHL,1,Adirondack Red Wings,60,23,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1984-85,0,2.00,0,0
+0,IHL,7,Kalamazoo Wings,398,24,0,0,0,29,0,0,0,0,0,0,0,0,0,0,1985-86,0,4.37,0,0
+0,AHL,25,Adirondack Red Wings,1436,24,9,0,0,93,0,0,2,0,12,0,0,0,0,0,1985-86,0,3.89,0,0
+0,AHL,1,Adirondack Red Wings,59,25,1,0,0,5,0,0,0,0,0,0,0,0,0,0,1986-87,0,5.08,0,0
+0,Swiss,13,HC Fribourg-Gotteron,710,25,0,0,0,66,0,0,0,0,0,0,0,0,0,0,1986-87,0,5.58,0,0
+0,France,17,HC Villard-de-Lans,1013,27,0,0,0,78,0,0,0,0,0,0,0,0,0,0,1988-89,0,4.62,0,0
+0,France,30,HC Villard-de-Lans,1670,28,0,0,0,168,0,0,0,0,0,0,0,0,0,0,1989-90,0,6.04,0,0
+0,France,28,HC Briancon,1643,29,0,0,0,85,0,0,0,0,0,0,0,0,0,0,1990-91,0,3.10,0,0
+0,France,19,HC Briancon,1093,30,0,0,0,54,0,0,0,1,0,0,0,0,0,0,1991-92,0,2.96,0,0
+0,Italy,19,Varese Hockey,1077,31,0,0,0,84,0,0,0,0,0,0,0,0,0,0,1992-93,0,4.68,0,0
+0,Italy,26,HC Courmaosta,1433,32,0,0,0,95,0,0,0,0,0,0,0,0,0,0,1993-94,0,3.98,0,0
+0,IHL,18,San Francisco Spiders,851,34,8,0,0,56,0,0,2,0,4,0,0,0,0,0,1995-96,0,3.95,0,0
+0,German-2,39,EHC Trier,2249,35,0,0,0,139,0,0,0,4,0,0,0,0,0,0,1996-97,0,3.71,0,0
+0,German-2,42,Braunlager EHC Harz,2479,37,0,0,0,115,0,0,0,5,0,0,0,0,0,0,1998-99,0,2.78,0,0
+0,German-3,48,ESC Erfurt,2714,38,0,0,0,120,0,0,0,6,0,0,0,0,0,0,1999-00,0,2.65,0,0

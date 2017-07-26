@@ -1,0 +1,10 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+2.3,0,NHL,10,LAK,559,22,3,0,0,23,0,0,3,0,3,0,0,0,0,0,1979-80,0,2.47,0,[],0
+0.6,0,NHL,9,LAK,454,23,3,0,0,37,0,0,1,0,2,0,0,0,0,0,1980-81,0,4.89,7,[],0
+3.3,0,NHL,31,LAK,1436,24,10,0,0,103,0,0,7,0,8,0,0,0,0,0,1981-82,0,4.30,0,[],0
+0.5,0,NHL,6,LAK,304,25,2,0,1,24,0,0,2,0,0,1,0,0,0,0,1982-83,0,4.74,0,[],0
+4.8,0,NHL,33,BOS,1779,26,8,92,0,92,0,8.07,3,2,19,0,0,0,0,.884,1983-84,791,3.10,2,"[{'link': '/awards/voting-1984.html#vezina', 'name': 'Vezina-9'}]",699
+3.7,0,NHL,25,BOS,1497,27,6,98,0,82,0,1.91,3,1,16,0,0,0,0,.877,1984-85,669,3.29,6,[],587
+3.5,0,NHL,30,BOS,1757,28,13,109,1,107,0,-8.69,3,0,14,1,0,0,0,.863,1985-86,782,3.65,12,[],675
+5.0,0,NHL,36,BOS,1942,29,8,99,2,108,0,1.04,4,0,18,2,0,0,0,.881,1986-87,909,3.34,24,[],801
+4.1,0,NHL,30,BOS,1660,30,11,100,2,90,0,0.24,0,1,16,2,0,0,0,.880,1987-88,751,3.25,2,[],661

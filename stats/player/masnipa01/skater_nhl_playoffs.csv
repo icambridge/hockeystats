@@ -1,0 +1,5 @@
+age,win,shotsPercentage,even_strength_goals,assists,plus_minus,league,games_played,shorthanded_goals,year,game_winning_goals,shots,goals,average_ice_time,power_play_goals,pim,total_ice_time,team,points
+19,,0,0,1,0,NHL,0,0,1950-51,0,0,2,,0,4,,MTL,3
+20,,0,0,0,0,NHL,6,0,1951-52,0,0,1,,0,12,,MTL,1
+21,SC,0,0,0,0,NHL,6,0,1952-53,0,0,1,,0,7,,MTL,1
+22,,0,0,4,0,NHL,10,0,1953-54,0,0,0,,0,4,,MTL,4

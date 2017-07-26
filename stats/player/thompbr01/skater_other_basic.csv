@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1987-88,17,0,33,13,0,AMHL,25,Calgary North Stars,13
+1988-89,18,3,160,10,0,WHL,72,Medicine Hat Tigers,13
+1989-90,19,10,167,35,0,WHL,68,Medicine Hat Tigers,45
+1990-91,20,5,87,40,0,WHL,51,Medicine Hat Tigers,45
+1991-92,21,4,139,13,0,IHL,42,Phoenix Roadrunners,17
+1992-93,22,0,112,5,0,IHL,22,Phoenix Roadrunners,5
+1993-94,23,1,118,11,0,IHL,26,Phoenix Roadrunners,12
+1995-96,25,2,203,10,0,AHL,58,Springfield Falcons,12
+1996-97,26,2,215,15,0,AHL,64,Springfield Falcons,17
+1996-97,26,0,67,1,0,IHL,12,Phoenix Roadrunners,1
+1997-98,27,4,308,15,11,AHL,77,Hartford Wolf Pack,19
+1998-99,28,3,265,15,20,AHL,76,Hartford Wolf Pack,18
+1999-00,29,4,311,22,27,AHL,67,Louisville Panthers,26
+2000-01,30,1,214,10,-24,AHL,74,2 Teams,11
+2000-01,30,1,170,9,-18,AHL,59,Louisville Panthers,10
+2000-01,30,0,44,1,-6,AHL,15,Hershey Bears,1
+2001-02,31,8,178,16,3,AHL,79,Hershey Bears,24
+2002-03,32,2,134,17,-1,AHL,61,Hershey Bears,19
+2003-04,33,5,172,24,9,CHL,61,Colorado Eagles,29
+2004-05,34,3,256,9,8,AHL,79,Providence Bruins,12

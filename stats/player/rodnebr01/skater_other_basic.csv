@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2000-01,16,0,26,15,0,OHL,65,Ottawa 67\'s,15
+2001-02,17,5,22,16,0,OHL,48,2 Teams,21
+2001-02,17,3,14,8,0,OHL,30,Ottawa 67\'s,11
+2001-02,17,2,8,8,0,OHL,18,Kingston Frontenacs,10
+2002-03,18,8,60,52,0,OHL,67,Kingston Frontenacs,60
+2003-04,19,11,68,65,0,OHL,67,Kingston Frontenacs,76
+2004-05,20,23,48,39,0,OHL,64,London Knights,62
+2005-06,21,1,0,2,3,AHL,8,Hartford Wolf Pack,3
+2005-06,21,4,47,21,-9,ECHL,59,Charlotte Checkers,25
+2006-07,22,4,26,28,-5,ECHL,45,2 Teams,32
+2006-07,22,2,14,19,1,ECHL,31,Charlotte Checkers,21
+2006-07,22,2,12,9,-6,ECHL,14,Columbia Inferno,11
+2007-08,23,4,22,11,-2,AHL,42,Albany River Rats,15
+2007-08,23,7,12,14,-7,ECHL,23,2 Teams,21
+2007-08,23,2,10,9,-8,ECHL,17,Columbia Inferno,11
+2007-08,23,5,2,5,1,ECHL,6,Elmira Jackals,10
+2008-09,24,3,28,33,-12,AHL,58,Albany River Rats,36
+2009-10,25,7,42,28,1,AHL,54,Albany River Rats,35
+2010-11,26,9,38,38,-15,AHL,77,Charlotte Checkers,47
+2011-12,27,6,28,24,-2,AHL,67,2 Teams,30
+2011-12,27,5,10,15,-11,AHL,41,Syracuse Crunch,20
+2011-12,27,1,18,9,9,AHL,26,Oklahoma City Barons,10
+2012-13,28,4,10,11,-3,AHL,44,Manchester Monarchs,15

@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1938-39,16,14,20,11,0,TBJHL,18,Fort William Maroons,25
+1939-40,17,16,2,9,0,TBJHL,16,Port Arthur Bruins,25
+1939-40,17,0,0,0,0,TBSHL,1,Port Arthur Bearcats,0
+1940-41,18,16,29,21,0,TBJHL,16,Port Arthur Bruins,37
+1941-42,19,22,55,41,0,TBJHL,18,Port Arthur Bruins,63
+1941-42,19,1,0,1,0,TBSHL,1,Port Arthur Bearcats,2
+1942-43,20,21,7,15,0,OHA-Sr.,17,St. Catharines Saints,36
+1943-44,21,8,2,8,0,WNDHL,10,Winnipeg Army,16
+1945-46,23,14,14,20,0,AHL,30,Indianapolis Capitols,34
+1945-46,23,4,4,10,0,USHL,17,Omaha Knights,14
+1946-47,24,21,4,24,0,AHL,56,Indianapolis Capitols,45
+1947-48,25,37,27,29,0,AHL,68,Philadelphia Rockets,66
+1948-49,26,29,37,28,0,AHL,68,Philadelphia Rockets,57
+1949-50,27,21,12,23,0,AHL,47,Cleveland Barons,44
+1950-51,28,26,24,30,0,AHL,58,Cleveland Barons,56
+1951-52,29,37,42,41,0,AHL,68,Cleveland Barons,78
+1952-53,30,37,16,31,0,AHL,64,Cleveland Barons,68
+1953-54,31,26,18,32,0,AHL,70,Buffalo Bisons,58
+1954-55,32,5,2,4,0,AHL,17,Buffalo Bisons,9
+1954-55,32,10,13,7,0,NOHA,23,Sault Ste. Marie Greyhounds,17

@@ -1,0 +1,11 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,61,5,21,131,53,1,,NYR,"[{'link': '/awards/calder.html#1973', 'name': None}]",22.9,28,23,35,30,0,1972-73,,2,37,0,22
+NHL,75,5,22,168,58,9,,NYR,[],20.2,29,24,6,34,0,1973-74,,5,18,1,14
+NHL,0,6,23,188,89,13,,NYR,"[{'link': '/awards/voting-1975.html#AS', 'name': 'AS-10'}, {'link': '/awards/nhl_all_star.html#1975', 'name': None}]",21.8,25,48,10,41,0,1974-75,,16,64,0,35
+NHL,0,4,24,202,83,17,,NYR,[],14.9,20,53,-17,30,0,1975-76,,10,40,0,36
+NHL,75,3,25,157,53,7,,NYR,[],14.0,18,31,-14,22,0,1976-77,,4,26,0,24
+NHL,79,2,26,113,63,17,,NYR,[],16.8,10,44,10,19,0,1977-78,,9,30,0,27
+NHL,66,3,27,86,47,8,,NYR,[],15.1,9,34,-7,13,0,1978-79,,4,24,0,26
+NHL,75,2,28,98,62,10,,NYR,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-11'}]",0,17,33,20,29,0,1979-80,,12,38,0,23
+NHL,73,3,29,85,58,7,,NYR,[],22.4,13,39,7,19,1,1980-81,,5,40,0,32
+NHL,34,2,30,48,20,3,,NYR,[],18.8,7,11,4,9,0,1981-82,,2,13,0,8

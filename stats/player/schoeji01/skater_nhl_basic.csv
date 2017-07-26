@@ -1,0 +1,16 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,66,0,20,91,19,1,,BUF,"[{'link': '/awards/voting-1973.html#calder', 'name': 'Calder-4'}]",4.4,3,15,12,4,0,1972-73,,1,178,0,14
+NHL,28,0,21,49,9,0,,BUF,[],2.0,1,8,-9,1,0,1973-74,,0,56,0,8
+NHL,68,0,22,148,20,2,,BUF,"[{'link': '/awards/voting-1975.html#AS', 'name': 'AS-13'}]",0.7,1,19,35,1,0,1974-75,,0,184,3,14
+NHL,56,0,23,112,24,2,,BUF,[],1.8,2,22,40,2,0,1975-76,,0,114,1,19
+NHL,65,2,24,181,32,8,,BUF,"[{'link': '/awards/voting-1977.html#AS', 'name': 'AS-9'}]",3.9,5,25,28,7,0,1976-77,,2,97,1,16
+NHL,60,0,25,114,22,3,,BUF,[],1.8,2,20,24,2,0,1977-78,,0,89,0,17
+NHL,46,0,26,99,25,2,,BUF,"[{'link': '/awards/voting-1979.html#AS', 'name': 'AS-11'}]",8.1,2,17,8,8,0,1978-79,,6,67,2,13
+NHL,77,1,27,114,36,3,,BUF,"[{'link': '/awards/nhl_all_star.html#1980', 'name': None}, {'link': '/awards/voting-1980.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-1980.html#norris', 'name': 'Norris-3'}]",7.9,5,27,0,9,0,1979-80,,4,72,0,24
+NHL,71,0,28,101,33,1,,BUF,"[{'link': '/awards/voting-1981.html#AS', 'name': 'AS-10'}, {'link': '/awards/voting-1981.html#norris', 'name': 'Norris-12'}]",7.9,5,25,28,8,0,1980-81,,3,110,1,23
+NHL,52,1,29,108,19,0,,TOT,[],7.4,8,11,7,8,0,1981-82,,0,99,0,11
+NHL,13,1,29,21,5,0,,BUF,[],14.3,3,2,5,3,0,1981-82,,0,30,0,2
+NHL,39,0,29,87,14,0,,DET,[],5.7,5,9,2,5,0,1981-82,,0,69,0,9
+NHL,57,1,30,68,11,1,,DET,[],1.5,1,10,-14,1,0,1982-83,,0,18,1,8
+NHL,39,0,31,35,2,0,,BOS,[],0.0,0,2,18,0,0,1983-84,,0,20,0,2
+NHL,34,0,32,37,3,0,,BUF,[],0.0,0,3,0,0,0,1984-85,,0,28,0,3

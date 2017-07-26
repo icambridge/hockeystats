@@ -1,0 +1,36 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2000-01,15,1,2,2,0,Exhib.,8,Skane,3
+2000-01,15,1,0,1,0,Swe-U18,3,MIF Redhawks Malmo U18,2
+2001-02,16,9,18,20,0,Swe-U18,13,MIF Redhawks Malmo U18,29
+2001-02,16,0,2,2,0,Swe-Jr.,4,MIF Redhawks Malmo Jr.,2
+2002-03,17,6,25,3,0,Swe-U18,4,MIF Redhawks Malmo U18,9
+2002-03,17,17,22,18,0,Swe-Jr.,28,MIF Redhawks Malmo Jr.,35
+2003-04,18,23,30,25,0,Swe-U18,27,MIF Redhawks Malmo U18,48
+2003-04,18,1,8,1,0,Sweden,24,MIF Redhawks Malmo,2
+2003-04,18,1,4,1,0,Sweden-Q,8,MIF Redhawks Malmo,2
+2003-04,18,1,8,1,-8,SEL,24,Malmo IF,2
+2004-05,19,5,8,6,0,Sweden-2,14,Morrums GoIS IK,11
+2004-05,19,13,43,6,0,Swe-Jr.,12,IF Malmo Redhawks Jr.,19
+2004-05,19,0,8,5,0,Sweden,38,IF Malmo Redhawks,5
+2004-05,19,0,0,0,0,Sweden-Q,7,IF Redhawks Malmo,0
+2004-05,19,4,4,2,0,WJC-A,6,Sweden,6
+2004-05,19,0,8,5,-3,SEL,38,Malmo IF,5
+2004-05,19,5,8,6,-6,Swe-1,14,Morrums GoIS IK,11
+2005-06,20,20,47,27,0,Sweden-2,49,IF Malmo Redhawks,47
+2005-06,20,15,45,24,24,Swe-1,39,Malmo Redhawks,39
+2006-07,21,12,14,18,0,Sweden,31,IF Malmo Redhawks,30
+2006-07,21,12,14,18,0,SEL,31,Malmo IF,30
+2007-08,22,22,18,36,0,Sweden-2,42,IF Malmo Redhawks,58
+2007-08,22,15,16,29,19,Swe-1,32,Malmo Redhawks,44
+2008-09,23,18,26,41,0,Sweden-2,45,IF Malmo Redhawks,59
+2008-09,23,18,26,41,10,Swe-1,45,Malmo Redhawks,59
+2009-10,24,20,53,31,0,Sweden-2,51,IF Malmo Redhawks,51
+2009-10,24,20,53,31,12,Swe-1,51,Malmo Redhawks,51
+2010-11,25,12,18,34,0,Sweden-2,52,IF Malmo Redhawks,46
+2010-11,25,12,18,34,4,Swe-1,52,Malmo Redhawks,46
+2011-12,26,14,20,21,0,Sweden,42,Linkopings HC,35
+2011-12,26,14,20,21,6,SEL,42,Linkopings HC,35
+2012-13,27,31,48,29,0,Sweden,54,Linkopings HC,60
+2012-13,27,31,48,29,18,SEL,54,Linkopings HC,60
+2016-17,31,1,2,0,-1,Internationa,4,Sweden (all),1
+2016-17,31,0,4,1,-2,WCup,4,Sweden,1

@@ -1,9 +1,9 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1994-95,Kiekko-Espoo,0,0,21,4,0,0,Finland
-6,1997-98,Kiekko-Espoo,1,0,24,8,1,0,Finland
-2,2000-01,Jokerit Helsinki,0,0,27,5,0,0,Finland
-2,2001-02,Jokerit Helsinki,2,0,28,12,4,2,Finland
-6,2002-03,Hamilton Bulldogs,2,1,29,14,3,1,AHL
-12,2003-04,MODO Hockey Ornskoldsvik,0,0,30,6,0,0,Sweden
-6,2005-06,Fuchse Duisburg,3,0,32,5,3,0,Germany
-12,2007-08,Karpat Oulu,1,0,34,11,1,0,Finland
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Kiekko-Espoo,0,1994-95,4,0,0,21,0,Finland
+1,Kiekko-Espoo,0,1997-98,8,1,6,24,0,Finland
+0,Jokerit Helsinki,0,2000-01,5,0,2,27,0,Finland
+2,Jokerit Helsinki,2,2001-02,12,4,2,28,0,Finland
+2,Hamilton Bulldogs,1,2002-03,14,3,6,29,1,AHL
+0,MODO Hockey Ornskoldsvik,0,2003-04,6,0,12,30,0,Sweden
+3,Fuchse Duisburg,0,2005-06,5,3,6,32,0,Germany
+1,Karpat Oulu,0,2007-08,11,1,12,34,0,Finland

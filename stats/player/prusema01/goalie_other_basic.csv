@@ -1,0 +1,21 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,CzRep,40,HC Vitkovice,2336,20,0,0,0,113,0,0,0,1,0,0,0,0,0,0,1995-96,0,2.90,0,0
+0,CzRep,49,HC Vitkovice,2841,21,0,0,0,109,0,0,0,8,0,0,0,0,0,0,1996-97,0,2.30,0,0
+0,CzRep,50,HC Vitkovice,2901,22,0,0,0,129,0,0,0,0,0,0,0,0,0,0,1997-98,0,2.67,0,0
+0,CzRep,37,HC Vitkovice,1905,23,0,0,0,85,0,0,0,0,0,0,0,0,0,0,1998-99,0,2.68,0,0
+0,CzRep,50,HC Vitkovice,2647,24,0,0,0,132,0,0,0,0,0,0,0,0,0,0,1999-00,0,2.99,20,0
+0,CzRep,30,HC Vitkovice,1679,25,0,0,0,64,0,0,0,0,0,0,0,0,0,0,2000-01,0,2.29,0,0
+0,AHL,33,Grand Rapids Griffins,1903,26,8,0,2,58,0,0,5,4,18,2,0,0,0,.930,2001-02,830,1.83,0,772
+0,AHL,4,Binghamton Senators,243,27,2,0,0,7,0,0,1,1,1,0,0,0,0,.925,2002-03,93,1.73,5,86
+0,CzRep,22,2 Teams,1125,29,0,0,0,46,0,0,0,0,0,0,0,0,0,0,2004-05,0,2.45,0,0
+0,CzRep,14,HC Vitkovice Steel,672,29,0,0,0,28,0,0,0,0,0,0,0,0,0,0,2004-05,0,2.50,0,0
+0,CzRep,8,HC Znojemsti Orli Znojmo,453,29,0,0,0,18,0,0,0,0,0,0,0,0,0,0,2004-05,0,2.38,0,0
+0,AHL,23,Syracuse Crunch,1203,30,7,0,1,60,0,0,1,2,12,1,0,0,0,.911,2005-06,675,2.99,0,615
+0,Russia,22,SKA St. Petersburg,1161,31,0,0,0,52,0,0,0,3,0,0,0,0,0,0,2006-07,0,2.69,2,0
+0,CzRep,45,HC Vitkovice Steel,2486,32,0,0,0,112,0,0,0,3,0,0,0,0,0,0,2007-08,0,2.70,10,0
+0,WC-A,3,Czech Republic,136,33,1,0,0,4,0,0,0,0,2,0,0,0,0,.920,2008-09,50,1.76,0,46
+0,KHL,42,2 Teams,2444,33,0,0,0,99,0,0,0,8,0,0,0,0,0,0,2008-09,0,2.43,0,0
+0,KHL,22,Spartak Moscow,1280,33,0,0,0,65,0,0,0,2,0,0,0,0,0,0,2008-09,0,3.05,0,0
+0,KHL,20,Dynamo Riga,1164,33,0,0,0,34,0,0,0,6,0,0,0,0,0,0,2008-09,0,1.75,0,0
+0,KHL,28,Dynamo Riga,1477,34,0,0,0,77,0,0,0,0,0,0,0,0,0,0,2009-10,0,3.13,2,0
+0,CzRep,2,HC Vitkovice Steel,106,35,0,0,0,4,0,0,0,0,0,0,0,0,0,0,2010-11,0,2.26,0,0

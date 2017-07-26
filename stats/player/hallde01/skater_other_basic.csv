@@ -1,7 +1,7 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1969-70,Chatham Maroons,46,0,20,40,99,53,ON-Jr.A
-26,1970-71,St. Clair College,30,0,21,22,53,23,OCAA
-18,1971-72,Columbus Seals,27,0,22,64,53,26,IHL
-23,1972-73,Salt Lake Golden Eagles,18,0,23,63,42,24,WHL
-30,1973-74,Salt Lake Golden Eagles,41,0,24,71,79,38,WHL
-4,1974-75,Salt Lake Golden Eagles,32,0,25,70,64,32,CHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+46,Chatham Maroons,53,1969-70,40,99,0,20,0,ON-Jr.A
+30,St. Clair College,23,1970-71,22,53,26,21,0,OCAA
+27,Columbus Seals,26,1971-72,64,53,18,22,0,IHL
+18,Salt Lake Golden Eagles,24,1972-73,63,42,23,23,0,WHL
+41,Salt Lake Golden Eagles,38,1973-74,71,79,30,24,0,WHL
+32,Salt Lake Golden Eagles,32,1974-75,70,64,4,25,0,CHL

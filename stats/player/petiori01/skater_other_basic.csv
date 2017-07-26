@@ -1,0 +1,16 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2000-01,18,8,81,16,0,AJHL,55,Camrose Kodiaks,24
+2001-02,19,4,35,6,0,WCHA,39,Colorado College,10
+2002-03,20,1,86,6,0,WCHA,38,Colorado College,7
+2003-04,21,3,61,5,0,WCHA,39,Colorado College,8
+2004-05,22,3,42,5,0,WCHA,26,Colorado College,8
+2005-06,23,4,52,10,15,AHL,63,Manchester Monarchs,14
+2006-07,24,1,25,1,-3,AHL,13,Manchester Monarchs,2
+2007-08,25,2,56,5,7,AHL,40,Manchester Monarchs,7
+2008-09,26,3,59,11,-4,AHL,46,2 Teams,14
+2008-09,26,3,59,11,-4,AHL,45,Toronto Marlies,14
+2008-09,26,0,0,0,0,AHL,1,Norfolk Admirals,0
+2009-10,27,8,88,29,20,AHL,80,Rockford IceHogs,37
+2010-11,28,0,52,15,14,AHL,66,Oklahoma City Barons,15
+2011-12,29,0,7,0,5,AHL,6,Norfolk Admirals,0
+2012-13,30,1,22,2,-2,AHL,24,St. John\'s IceCaps,3

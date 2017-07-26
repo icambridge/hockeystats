@@ -1,17 +1,17 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-0,,C,,0,0,0,0,24,0,25,7,Howie Morenz,10.6,1.4,32,0,49,,44,0,9.3,0,/players/m/morenho01.html
-0,,LW,,0,0,0,0,25,0,14,4,Aurele Joliat,5.3,1.3,18,0,79,,43,0,4.0,0,/players/j/joliaau01.html
-0,,C,,0,0,0,0,25,0,16,1,Pit Lepine,5.5,1.4,17,0,20,,44,0,4.1,0,/players/l/lepinpi01.html
-0,,RW,,0,0,0,0,29,0,14,3,Art Gagne,5.0,1.4,17,0,42,,44,0,3.7,0,/players/g/gagnear01.html
-0,,D,,0,0,0,0,24,0,10,5,Sylvio Mantha,9.0,5.3,15,0,77,,43,0,3.7,0,/players/m/manthsy01.html
-0,,D,,0,0,0,0,35,0,6,6,Herb Gardiner,7.6,5.4,12,0,26,,44,0,2.2,0,/players/g/gardihe01.html
-0,,D,,0,0,0,0,24,0,5,2,Albert Leduc,6.2,5.3,7,0,62,,43,0,0.9,0,/players/l/leducal01.html
-0,,LW,,0,0,0,0,24,0,3,3,Gizzy Hart,0.4,1.2,6,0,8,,40,0,-0.8,0,/players/h/hartgi01.html
-0,,RW,,0,0,0,0,27,0,4,0,Billy Boucher,0.9,0.6,4,0,14,,21,0,0.3,0,/players/b/bouchbi01.html
-0,,RW,,0,0,0,0,27,0,2,0,Carson Cooper,4.3,0.2,2,0,2,,6,0,4.1,0,/players/c/coopeca01.html
-0,,RW,,0,0,0,0,20,0,0,1,Wildor Larochelle,-1.3,1.3,1,0,6,,41,0,-2.6,0,/players/l/larocwi01.html
-0,,F,,0,0,0,0,22,0,0,0,Art Gauthier,-0.5,0.4,0,0,0,,13,0,-0.9,0,/players/g/gauthar01.html
-0,,G,,0,0,0,0,31,0,0,0,George Hainsworth,10.1,0.0,0,0,0,,44,0,0.0,0,/players/h/hainsge01.html
-0,,C/LW,,0,0,0,0,24,0,0,0,Leo Lafrance,-0.1,0.1,0,0,0,,4,0,-0.3,0,/players/l/lafrale01.html
-0,,D,,0,0,0,0,31,0,0,0,Amby Moran,1.0,1.5,0,0,10,,12,0,-0.5,0,/players/m/moranam01.html
-0,,LW,,0,0,0,0,18,0,0,0,Pete Palangio,-0.2,0.2,0,0,0,,6,0,-0.4,0,/players/p/palanpe01.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+7,0,25,24,,9.3,1.4,0,,0,C,10.6,0,MTL,/players/m/morenho01.html,0,49,0,0,Howie Morenz,,1927,32,0,44,0
+4,0,14,25,,4.0,1.3,0,,0,LW,5.3,0,MTL,/players/j/joliaau01.html,0,79,0,0,Aurele Joliat,,1927,18,0,43,0
+1,0,16,25,,4.1,1.4,0,,0,C,5.5,0,MTL,/players/l/lepinpi01.html,0,20,0,0,Pit Lepine,,1927,17,0,44,0
+3,0,14,29,,3.7,1.4,0,,0,RW,5.0,0,MTL,/players/g/gagnear01.html,0,42,0,0,Art Gagne,,1927,17,0,44,0
+5,0,10,24,,3.7,5.3,0,,0,D,9.0,0,MTL,/players/m/manthsy01.html,0,77,0,0,Sylvio Mantha,,1927,15,0,43,0
+6,0,6,35,,2.2,5.4,0,,0,D,7.6,0,MTL,/players/g/gardihe01.html,0,26,0,0,Herb Gardiner,,1927,12,0,44,0
+2,0,5,24,,0.9,5.3,0,,0,D,6.2,0,MTL,/players/l/leducal01.html,0,62,0,0,Albert Leduc,,1927,7,0,43,0
+3,0,3,24,,-0.8,1.2,0,,0,LW,0.4,0,MTL,/players/h/hartgi01.html,0,8,0,0,Gizzy Hart,,1927,6,0,40,0
+0,0,4,27,,0.3,0.6,0,,0,RW,0.9,0,MTL,/players/b/bouchbi01.html,0,14,0,0,Billy Boucher,,1927,4,0,21,0
+0,0,2,27,,4.1,0.2,0,,0,RW,4.3,0,MTL,/players/c/coopeca01.html,0,2,0,0,Carson Cooper,,1927,2,0,6,0
+1,0,0,20,,-2.6,1.3,0,,0,RW,-1.3,0,MTL,/players/l/larocwi01.html,0,6,0,0,Wildor Larochelle,,1927,1,0,41,0
+0,0,0,22,,-0.9,0.4,0,,0,F,-0.5,0,MTL,/players/g/gauthar01.html,0,0,0,0,Art Gauthier,,1927,0,0,13,0
+0,0,0,31,,0.0,0.0,0,,0,G,10.1,0,MTL,/players/h/hainsge01.html,0,0,0,0,George Hainsworth,,1927,0,0,44,0
+0,0,0,24,,-0.3,0.1,0,,0,C/LW,-0.1,0,MTL,/players/l/lafrale01.html,0,0,0,0,Leo Lafrance,,1927,0,0,4,0
+0,0,0,31,,-0.5,1.5,0,,0,D,1.0,0,MTL,/players/m/moranam01.html,0,10,0,0,Amby Moran,,1927,0,0,12,0
+0,0,0,18,,-0.4,0.2,0,,0,LW,-0.2,0,MTL,/players/p/palanpe01.html,0,0,0,0,Pete Palangio,,1927,0,0,6,0

@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1996-97,16,37,23,48,0,MTHL,40,Wexford Raiders,85
+1996-97,16,2,2,5,0,ON-Jr.A,8,Wexford Raiders,7
+1997-98,17,23,30,51,0,OHL,62,Kingston Frontenacs,74
+1998-99,18,29,36,56,0,OHL,67,Kingston Frontenacs,85
+1999-00,19,40,49,54,21,OHL,59,Kingston Frontenacs,94
+2000-01,20,40,44,37,21,OHL,52,Kingston Frontenacs,77
+2000-01,20,2,0,2,5,WJC-A,7,Canada,4
+2001-02,21,18,24,30,-1,AHL,79,Lowell Lock Monsters,48
+2002-03,22,13,19,18,-2,AHL,38,Lowell Lock Monsters,31
+2003-04,23,17,56,35,0,AHL,61,Lowell Lock Monsters,52
+2004-05,24,29,71,31,7,AHL,76,Lowell Lock Monsters,60
+2005-06,25,16,35,25,0,AHL,39,2 Teams,41
+2005-06,25,6,19,7,-2,AHL,11,Lowell Lock Monsters,13
+2005-06,25,10,16,18,2,AHL,28,Peoria Rivermen,28
+2007-08,27,10,14,15,9,AHL,27,San Antonio Rampage,25
+2009-10,29,0,0,13,5,AHL,7,Toronto Marlies,13
+2009-10,29,4,12,7,0,Sweden,27,Djurgardens IF Stockholm,11
+2010-11,30,14,66,33,-3,AHL,64,Toronto Marlies,47
+2011-12,31,19,52,42,11,AHL,68,Toronto Marlies,61
+2012-13,32,7,42,28,2,AHL,65,Toronto Marlies,35

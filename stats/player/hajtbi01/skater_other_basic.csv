@@ -1,7 +1,7 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-35,1967-68,Saskatoon Blades,10,0,16,60,14,4,WCJHL
-54,1968-69,Saskatoon Blades,18,0,17,60,21,3,WCJHL
-40,1969-70,Saskatoon Blades,21,0,18,60,31,10,WCJHL
-50,1970-71,Saskatoon Blades,53,0,19,66,72,19,WCJHL
-40,1972-73,Cincinnati Swords,31,0,21,69,35,4,AHL
-66,1973-74,Cincinnati Swords,30,0,22,66,35,5,AHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+10,Saskatoon Blades,4,1967-68,60,14,35,16,0,WCJHL
+18,Saskatoon Blades,3,1968-69,60,21,54,17,0,WCJHL
+21,Saskatoon Blades,10,1969-70,60,31,40,18,0,WCJHL
+53,Saskatoon Blades,19,1970-71,66,72,50,19,0,WCJHL
+31,Cincinnati Swords,4,1972-73,69,35,40,21,0,AHL
+30,Cincinnati Swords,5,1973-74,66,35,66,22,0,AHL

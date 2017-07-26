@@ -1,0 +1,4 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+0.0,0,NHL,1,BUF,36,23,0,0,0,3,0,0,0,0,0,0,0,0,0,.833,1990-91,18,5.00,0,[],15
+0.1,0,NHL,1,BUF,60,24,1,0,0,4,0,0,0,0,0,0,0,0,0,.862,1991-92,29,4.00,0,[],25
+-0.3,0,NHL,1,TBL,45,25,1,0,0,7,0,0,0,0,0,0,0,0,0,.667,1992-93,21,9.33,0,[],14

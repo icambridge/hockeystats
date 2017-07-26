@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1988-89,19,53,112,101,0,ON-Jr.A,50,Pembroke Lumber Kings,154
+1989-90,20,26,35,34,0,H-East,45,University of Maine,60
+1990-91,21,24,44,57,0,H-East,43,University of Maine,81
+1991-92,22,21,46,44,0,H-East,37,University of Maine,65
+1992-93,23,32,40,63,0,H-East,45,University of Maine,95
+1993-94,24,7,10,8,0,IHL,12,Peoria Rivermen,15
+1994-95,25,8,14,6,0,AHL,16,Hershey Bears,14
+1995-96,26,34,95,71,0,AHL,78,Hershey Bears,105
+1996-97,27,12,111,35,0,Germany,50,Kolner Haie,47
+1996-97,27,0,16,1,0,EuroHL,6,Kolner Haie,1
+1997-98,28,19,75,43,20,AHL,68,Philadelphia Phantoms,62
+1998-99,29,29,89,58,0,AHL,78,Philadelphia Phantoms,87
+1999-00,30,3,22,9,0,AHL,13,Philadelphia Phantoms,12
+1999-00,30,18,111,28,11,IHL,67,Manitoba Moose,46
+2000-01,31,22,44,52,0,AHL,55,Kentucky Thoroughblades,74
+2001-02,32,28,90,43,7,AHL,71,Utah Grizzlies,71
+2002-03,33,22,109,46,-4,AHL,72,Utah Grizzlies,68
+2003-04,34,0,10,7,0,Russia,21,Salavat Yulayev Ufa,7
+2004-05,35,20,64,27,3,UHL,42,Missouri River Otters,47

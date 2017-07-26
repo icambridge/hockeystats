@@ -1,0 +1,8 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHL,17,Detroit Jr. Whalers,922,19,6,0,0,55,0,0,0,1,9,0,0,0,0,0,1995-96,0,3.58,0,0
+0,ECHL,3,Wheeling Nailers,148,20,2,0,0,16,0,0,0,0,0,0,0,0,0,0,1996-97,0,6.49,0,0
+0,AHL,1,Hamilton Bulldogs,20,22,0,0,0,0,0,0,0,0,0,0,0,0,0,1.000,1998-99,7,0.00,0,7
+0,AHL,1,Hamilton Bulldogs,23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,1.000,1999-00,8,0.00,0,8
+0,AHL,4,St. John\'s Maple Leafs,252,24,3,0,0,15,0,0,0,0,1,0,0,0,0,.882,2000-01,127,3.57,2,112
+0,AHL,5,Manitoba Moose,282,26,2,0,0,9,0,0,0,0,2,0,0,0,0,.930,2002-03,128,1.91,0,119
+0,ECHL,5,Columbia Inferno,304,28,3,0,0,12,0,0,0,1,2,0,0,0,0,.918,2004-05,147,2.37,0,135

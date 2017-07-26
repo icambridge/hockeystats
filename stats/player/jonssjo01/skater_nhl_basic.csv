@@ -1,0 +1,4 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,81,1,27,116,31,1,1263,TOT,[],10.3,9,19,-8,12,2,1999-00,15:35,1,16,1,17
+NHL,68,0,27,95,28,1,1096,NYI,[],11.6,8,17,-6,11,2,1999-00,16:07,1,16,1,15
+NHL,13,1,27,21,3,0,167,MDA,[],4.8,1,2,-2,1,0,1999-00,12:51,0,0,0,2

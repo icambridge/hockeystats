@@ -1,0 +1,6 @@
+even_strength_goals,assists,team,goals,pim,age,game_winning_goals,total_ice_time,league,shorthanded_goals,shots,average_ice_time,year,games_played,shotsPercentage,win,power_play_goals,points,plus_minus
+0,0,NJD,0,16,23,0,,NHL,0,1,,1989-90,5,0.0,,0,0,0
+0,0,NJD,0,6,24,0,,NHL,0,0,,1990-91,3,0,,0,0,0
+0,0,BOS,0,9,27,0,,NHL,0,3,,1993-94,4,0.0,,0,0,1
+0,0,BOS,0,11,28,0,,NHL,0,0,,1994-95,5,0,,0,0,0
+0,1,CGY,0,4,29,0,,NHL,0,4,,1995-96,4,0.0,,0,1,-2

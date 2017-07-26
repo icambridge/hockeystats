@@ -1,0 +1,9 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,Finland-2,35,Jokipojat Joensuu,0,20,0,0,4,0,0,0,0,0,0,1,0,0,0,0,2006-07,0,0,0,0
+0,Finland,31,TPS Turku,1757,21,12,0,1,76,0,0,6,1,7,1,0,0,0,0,2007-08,0,2.60,22,0
+0,Finland,52,TPS Turku,2981,22,20,0,1,119,0,0,9,4,20,1,0,0,0,0,2008-09,0,2.40,39,0
+0,AHL,48,Rochester Americans,2557,23,14,0,3,123,0,0,0,1,29,3,0,0,0,.910,2009-10,1368,2.89,14,1245
+0,Sweden,32,Farjestads BK Karlstad,1857,24,0,0,1,61,0,0,0,7,0,1,0,0,0,0,2010-11,0,1.97,41,0
+0,AHL,21,Rockford IceHogs,1048,25,10,0,0,47,0,0,0,0,6,0,0,0,0,.903,2011-12,486,2.69,16,439
+0,Sweden,41,Farjestads BK Karlstad,2453,26,15,0,3,66,0,0,0,7,25,3,0,0,0,0,2012-13,0,1.61,8,0
+0,WC-A,3,Czech Republic,297,26,2,0,0,7,0,0,0,0,1,0,0,0,0,.938,2012-13,112,1.41,0,105

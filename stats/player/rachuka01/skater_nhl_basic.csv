@@ -1,0 +1,10 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+0,NHL,6,0,20,0,0,3,0,0,0,48,OTT,0,0,[],0.0,0,0,0,0,0,0,1999-00,0,8:03,0,2,0,0
+0,NHL,71,0,21,0,0,77,33,0,14,1483,OTT,0,0,"[{'link': '/awards/voting-2001.html#calder', 'name': 'Calder-13'}]",3.9,0,30,17,3,0,0,2000-01,0,20:54,3,60,1,15
+0,NHL,51,2,22,0,0,55,18,0,4,985,OTT,0,0,[],5.5,2,15,7,3,0,0,2001-02,0,19:19,1,24,0,11
+0,NHL,58,1,23,0,0,110,29,0,9,1262,OTT,0,0,[],3.6,1,25,23,4,0,0,2002-03,0,21:46,3,30,1,15
+0,NHL,72,0,24,0,0,120,21,0,9,1412,TOT,0,0,[],1.7,1,19,8,2,0,0,2003-04,0,19:37,1,33,0,10
+0,NHL,60,0,24,0,0,99,17,0,7,1183,OTT,0,0,[],1.0,1,16,17,1,0,0,2003-04,0,19:43,0,29,0,9
+0,NHL,12,0,24,0,0,21,4,0,2,229,NYR,0,0,[],4.8,0,3,-9,1,0,0,2003-04,0,19:04,1,4,0,1
+0,NHL,66,1,27,0,0,99,26,0,11,1279,NYR,0,0,[],6.1,1,20,-9,6,0,1,2006-07,0,19:23,4,38,0,9
+16,NHL,47,0,28,0,141,68,13,62,2,911,NJD,13,0,[],5.9,4,9,3,4,0,0,2007-08,47,19:23,0,40,0,7

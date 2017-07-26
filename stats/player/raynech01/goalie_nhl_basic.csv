@@ -1,0 +1,11 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+0.9,0,NHL,12,NYA,773,20,7,0,0,44,0,0,3,0,2,0,0,0,0,0,1940-41,0,3.42,0,[],0
+4.5,0,NHL,36,BRO,2230,21,21,0,0,129,0,0,2,1,13,0,0,0,0,0,1941-42,0,3.47,0,[],0
+5.2,0,NHL,40,NYR,2377,25,0,0,0,149,0,0,7,1,12,0,0,0,0,0,1945-46,0,3.76,6,[],0
+10.2,0,NHL,58,NYR,3480,26,0,0,0,0,0,0,6,0,22,0,0,0,0,0,1946-47,0,3.05,0,"[{'link': '/awards/voting-1947.html#hart', 'name': 'Hart-4'}]",0
+1.1,0,NHL,12,NYR,691,27,7,0,0,42,0,0,0,0,4,0,0,0,0,0,1947-48,0,3.65,0,[],0
+8.6,0,NHL,58,NYR,3480,28,0,0,0,168,0,0,11,7,16,0,0,0,0,0,1948-49,0,2.90,2,"[{'link': '/awards/nhl_all_star.html#1949', 'name': None}, {'link': '/awards/voting-1949.html#hart', 'name': 'Hart-7'}]",0
+12.3,0,NHL,69,NYR,4140,29,30,0,0,181,0,0,11,6,28,0,0,0,0,0,1949-50,0,2.62,6,"[{'link': '/awards/nhl_all_star.html#1950', 'name': None}, {'link': '/awards/hart.html#1950', 'name': None}]",0
+10.0,0,NHL,66,NYR,3940,30,28,0,0,187,0,0,0,2,19,0,0,0,0,0,1950-51,0,2.85,6,"[{'link': '/awards/nhl_all_star.html#1951', 'name': None}]",0
+6.5,0,NHL,53,NYR,3180,31,25,0,0,159,0,0,10,2,18,0,0,0,0,0,1951-52,0,3.00,4,[],0
+2.1,0,NHL,20,NYR,1200,32,8,0,0,58,0,0,8,1,4,0,0,0,0,0,1952-53,0,2.90,2,[],0

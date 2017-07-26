@@ -1,0 +1,13 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,5,0,21,5,0,0,,NYI,[],0.0,0,0,-6,0,0,1993-94,,0,0,0,0
+NHL,33,1,22,75,17,2,,NYI,[],13.3,9,7,3,10,0,1994-95,,1,6,0,5
+NHL,81,6,23,257,87,22,,NYI,[],16.7,25,44,-17,43,1,1995-96,,17,56,1,21
+NHL,80,6,24,292,90,15,,NYI,"[{'link': '/awards/voting-1997.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1997.html#hart', 'name': 'Hart-12'}]",16.4,38,42,21,48,4,1996-97,,6,43,2,25
+NHL,82,5,25,277,87,18,,NYI,"[{'link': '/awards/voting-1998.html#AS', 'name': 'AS-10'}, {'link': '/awards/voting-1998.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-1998.html#byng', 'name': 'Byng-11'}]",16.2,26,42,-2,45,2,1997-98,,0,34,2,22
+NHL,50,1,26,168,50,10,1103,NYI,[],13.1,15,28,-6,22,2,1998-99,22:04,5,34,0,18
+NHL,64,3,27,186,66,17,1258,LAK,[],14.5,23,39,18,27,0,1999-00,19:39,4,32,0,22
+NHL,73,8,28,217,89,28,1443,LAK,"[{'link': '/awards/voting-2001.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-2001.html#AS', 'name': 'AS-12'}, {'link': '/awards/voting-2001.html#byng', 'name': 'Byng-5'}, {'link': '/awards/voting-2001.html#selke', 'name': 'Selke-18'}]",17.5,22,51,22,38,4,2000-01,19:46,12,20,0,23
+NHL,63,6,29,161,59,12,1279,LAK,"[{'link': '/awards/voting-2002.html#AS', 'name': 'AS-10'}]",19.9,16,27,5,32,1,2001-02,20:18,15,26,0,15
+NHL,76,5,30,277,85,17,1706,LAK,"[{'link': '/awards/voting-2003.html#AS', 'name': 'AS-6'}, {'link': '/awards/voting-2003.html#byng', 'name': 'Byng-44'}]",13.4,25,48,22,37,2,2002-03,22:27,10,47,1,30
+NHL,35,2,31,109,41,14,754,LAK,[],14.7,10,25,18,16,3,2003-04,21:32,3,12,1,10
+NHL,42,2,33,112,42,9,812,PIT,[],9.8,9,31,5,11,0,2005-06,19:19,2,12,0,22

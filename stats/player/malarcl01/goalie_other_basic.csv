@@ -1,0 +1,16 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,AJHL,33,Fort Saskatchewan Traders,2015,16,9,0,0,157,0,0,1,1,23,0,0,0,0,0,1977-78,0,4.67,0,0
+0,AJHL,52,Fort Saskatchewan Traders,3030,17,15,0,0,204,0,0,1,1,36,0,0,0,0,0,1978-79,0,4.04,0,0
+0,WHL,2,Portland Winter Hawks,120,17,0,0,0,4,0,0,0,0,2,0,0,0,0,0,1978-79,0,2.00,0,0
+0,WHL,37,Portland Winter Hawks,1948,18,10,0,0,147,0,0,0,0,21,0,0,0,0,0,1979-80,0,4.53,0,0
+0,WHL,38,Portland Winter Hawks,2235,19,8,0,0,142,0,0,0,3,28,0,0,0,0,0,1980-81,0,3.81,0,0
+0,AHL,51,Fredericton Express,2906,20,34,0,0,247,0,0,2,0,15,0,0,0,0,0,1981-82,0,5.10,0,0
+0,AHL,25,Fredericton Express,1506,21,6,0,0,78,0,0,5,0,14,0,0,0,0,0,1982-83,0,3.11,0,0
+0,AHL,11,Fredericton Express,663,22,5,0,0,40,0,0,1,0,5,0,0,0,0,0,1983-84,0,3.62,0,0
+0,AHL,56,Fredericton Express,3347,23,25,0,0,198,0,0,4,2,26,0,0,0,0,0,1984-85,0,3.55,0,0
+0,AHL,2,Rochester Americans,120,30,0,0,0,3,0,0,0,1,2,0,0,0,0,0,1991-92,0,1.50,0,0
+0,IHL,27,San Diego Gulls,1516,31,3,0,0,72,0,0,3,3,17,0,0,0,0,0,1992-93,0,2.85,0,0
+0,IHL,55,Las Vegas Thunder,3076,32,10,0,0,172,0,0,7,1,34,0,0,0,0,0,1993-94,0,3.36,0,0
+0,IHL,38,Las Vegas Thunder,2039,33,13,0,0,127,0,0,3,0,15,0,0,0,0,.883,1994-95,1087,3.74,0,960
+0,IHL,1,Las Vegas Thunder,4,34,0,0,0,0,0,0,0,0,0,0,0,0,0,1.000,1995-96,2,0.00,0,2
+0,IHL,3,Las Vegas Thunder,63,35,1,0,0,6,0,0,0,0,1,0,0,0,0,0,1996-97,0,5.71,0,0

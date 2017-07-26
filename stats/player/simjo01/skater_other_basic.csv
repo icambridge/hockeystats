@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,17,0,6,1,1,QMJHL,9,Laval Titan,1
+1994-95,17,9,19,12,0,OHL,25,Sarnia Sting,21
+1995-96,18,56,130,46,0,OHL,63,Sarnia Sting,102
+1996-97,19,56,109,39,0,OHL,64,Sarnia Sting,95
+1997-98,20,44,95,50,23,OHL,59,Sarnia Sting,94
+1998-99,21,24,91,27,-19,IHL,68,Michigan K-Wings,51
+1999-00,22,14,65,16,-5,IHL,35,Michigan K-Wings,30
+2000-01,23,16,44,13,0,IHL,39,Utah Grizzlies,29
+2001-02,24,21,63,6,0,AHL,31,Utah Grizzlies,27
+2002-03,25,16,85,31,11,AHL,42,Utah Grizzlies,47
+2004-05,27,37,78,28,21,AHL,73,2 Teams,65
+2004-05,27,2,12,2,-8,AHL,10,Utah Grizzlies,4
+2004-05,27,35,66,26,29,AHL,63,Philadelphia Phantoms,61
+2008-09,31,13,12,10,-5,AHL,18,Bridgeport Sound Tigers,23
+2010-11,33,7,6,2,0,AHL,8,Bridgeport Sound Tigers,9
+2010-11,33,1,2,0,0,Swiss,7,HC Fribourg-Gotteron,1
+2011-12,34,2,27,4,0,Germany,14,Eisbaren Berlin,6
+2011-12,34,3,34,5,0,CzRep,28,2 Teams,8
+2011-12,34,2,22,4,0,CzRep,20,HC CSOB Pojistovna Pardubice,6
+2011-12,34,1,12,1,0,CzRep,8,HC Slavia Praha,2
+2012-13,35,12,36,20,-7,AHL,56,2 Teams,32
+2012-13,35,6,14,7,1,AHL,22,San Antonio Rampage,13
+2012-13,35,6,22,13,-8,AHL,34,Adirondack Phantoms,19

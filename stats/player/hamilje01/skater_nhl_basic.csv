@@ -1,6 +1,6 @@
-giveaways,faceoff_loses,power_play_goals,assists,faceoff_wins,points,takeaways,power_play_assists,league,even_strength_assists,game_winning_goals,shorthanded_goals,shotsPercentage,games_played,average_ice_time,blocks,hits,year,team,total_shots,age,plus_minus,shorthanded_assists,even_strength_goals,pim,awards,total_ice_time,goals,shots,faceoff_percentage
-0,0,0,0,0,0,0,0,NHL,0,0,0,0.0,1,10:00,0,0,2003-04,NYI,0,26,0,0,0,0,[],10,0,1,0
-0,0,1,6,0,8,0,4,NHL,2,0,0,6.9,13,10:33,0,0,2005-06,NYI,0,28,0,0,1,8,[],137,2,29,0
-0,0,3,21,0,39,0,11,NHL,10,4,0,13.0,70,12:56,0,0,2006-07,CHI,0,29,-4,0,15,22,"[{'link': '/awards/voting-2007.html#byng', 'name': 'Byng-69'}]",905,18,138,0
-15,41,7,15,38,24,8,9,NHL,6,1,0,7.8,58,10:48,12,17,2007-08,CAR,224,30,-8,0,2,10,[],626,9,116,48.1
-7,8,0,3,3,6,6,0,NHL,3,1,0,10.0,15,12:57,5,6,2008-09,TOR,59,31,2,0,3,4,[],194,3,30,27.3
+shotsPercentage,faceoff_loses,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,giveaways,total_shots,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,takeaways,faceoff_percentage,age,game_winning_goals,league,shorthanded_goals,blocks,average_ice_time,hits,games_played,faceoff_wins,points,awards,power_play_goals
+0.0,0,2003-04,0,0,10,0,0,0,1,0,0,0,0,NYI,0,0,0,26,0,NHL,0,0,10:00,0,1,0,0,[],0
+6.9,0,2005-06,8,2,137,0,0,0,29,4,1,0,6,NYI,2,0,0,28,0,NHL,0,0,10:33,0,13,0,8,[],1
+13.0,0,2006-07,22,10,905,0,0,0,138,11,15,-4,21,CHI,18,0,0,29,4,NHL,0,0,12:56,0,70,0,39,"[{'link': '/awards/voting-2007.html#byng', 'name': 'Byng-69'}]",3
+7.8,41,2007-08,10,6,626,0,15,224,116,9,2,-8,15,CAR,9,8,48.1,30,1,NHL,0,12,10:48,17,58,38,24,[],7
+10.0,8,2008-09,4,3,194,0,7,59,30,0,3,2,3,TOR,3,6,27.3,31,1,NHL,0,5,12:57,6,15,3,6,[],0

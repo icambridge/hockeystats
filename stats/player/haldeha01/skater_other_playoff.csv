@@ -1,16 +1,16 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-4,1917-18,Winnipeg Ypres,3,0,18,4,7,4,Al-Cup
-6,1919-20,Winnipeg Falcons,6,0,20,6,10,4,Al-Cup
-9,1920-21,Saskatoon Crescents,0,0,21,4,8,8,SSHL
-0,1922-23,Victoria Cougars,0,0,23,2,0,0,PCHA
-12,1924-25,Victoria Cougars,0,0,25,4,1,1,WCHL
-8,1924-25,Victoria Cougars,1,0,25,4,3,2,St-Cup
-10,1925-26,Victoria Cougars,0,0,26,3,1,1,WHL
-8,1925-26,Victoria Cougars,0,0,26,4,1,1,St-Cup
-14,1927-28,Quebec Castors,1,0,28,6,2,1,Can-Am
-8,1929-30,Kansas City Pla-Mors,0,0,30,5,0,0,AHA
-10,1930-31,Kansas City Pla-Mors,1,0,31,8,2,1,AHA
-0,1931-32,Kansas City Pla-Mors,0,0,32,4,2,2,AHA
-4,1933-34,Tulsa Oilers,2,0,34,4,2,0,AHA
-2,1934-35,Tulsa Oilers,2,0,35,5,3,1,AHA
-4,1935-36,Tulsa Oilers,0,0,36,3,0,0,AHA
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+3,Winnipeg Ypres,4,1917-18,4,7,4,18,0,Al-Cup
+6,Winnipeg Falcons,4,1919-20,6,10,6,20,0,Al-Cup
+0,Saskatoon Crescents,8,1920-21,4,8,9,21,0,SSHL
+0,Victoria Cougars,0,1922-23,2,0,0,23,0,PCHA
+0,Victoria Cougars,1,1924-25,4,1,12,25,0,WCHL
+1,Victoria Cougars,2,1924-25,4,3,8,25,0,St-Cup
+0,Victoria Cougars,1,1925-26,3,1,10,26,0,WHL
+0,Victoria Cougars,1,1925-26,4,1,8,26,0,St-Cup
+1,Quebec Castors,1,1927-28,6,2,14,28,0,Can-Am
+0,Kansas City Pla-Mors,0,1929-30,5,0,8,30,0,AHA
+1,Kansas City Pla-Mors,1,1930-31,8,2,10,31,0,AHA
+0,Kansas City Pla-Mors,2,1931-32,4,2,0,32,0,AHA
+2,Tulsa Oilers,0,1933-34,4,2,4,34,0,AHA
+2,Tulsa Oilers,1,1934-35,5,3,2,35,0,AHA
+0,Tulsa Oilers,0,1935-36,3,0,4,36,0,AHA

@@ -1,0 +1,13 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+0,NHL,56,2,20,0,0,98,25,0,7,648,MDA,0,0,[],13.3,9,12,1,13,0,0,2005-06,0,11:34,4,50,0,5
+0,NHL,82,3,21,0,0,194,44,0,16,1022,ANA,0,0,[],8.8,13,27,12,17,0,0,2006-07,0,12:28,4,55,0,11
+43,NHL,70,4,22,13,326,200,54,95,6,1257,ANA,29,18.8,[],14.5,18,25,12,29,3,0,2007-08,11,17:57,11,108,0,19
+45,NHL,78,8,23,22,443,283,72,109,14,1451,ANA,33,29.0,"[{'link': '/awards/voting-2009.html#AS', 'name': 'AS-5'}]",11.3,22,40,10,32,9,0,2008-09,13,18:36,10,109,0,26
+54,NHL,82,2,24,22,450,270,76,93,17,1727,ANA,38,21.4,"[{'link': '/awards/voting-2010.html#AS', 'name': 'AS-8'}]",10.0,20,49,0,27,6,1,2009-10,34,21:04,6,111,1,31
+54,NHL,82,0,25,13,483,290,98,64,17,1830,ANA,55,40.9,"[{'link': '/awards/nhl_all_star.html#2011', 'name': None}, {'link': '/awards/hart.html#2011', 'name': None}, {'link': '/awards/richard.html#2011', 'name': None}, {'link': '/awards/voting-2011.html#selke', 'name': 'Selke-21'}]",17.2,0,48,9,0,9,4,2010-11,41,22:19,14,104,1,30
+48,NHL,80,6,26,29,463,277,60,65,9,1710,ANA,34,39.6,"[{'link': '/awards/voting-2012.html#AS', 'name': 'AS-12'}]",13.4,22,23,-7,37,19,1,2011-12,45,21:23,14,127,1,13
+21,NHL,44,5,27,23,208,128,36,49,5,839,ANA,18,20.7,"[{'link': '/awards/voting-2013.html#AS', 'name': 'AS-13'}]",11.7,10,21,10,15,6,0,2012-13,18,19:04,5,72,1,15
+56,NHL,81,9,28,16,492,280,82,81,10,1578,ANA,31,36.0,"[{'link': '/awards/nhl_all_star.html#2014', 'name': None}, {'link': '/awards/voting-2014.html#hart', 'name': 'Hart-13'}]",15.4,0,39,32,43,9,0,2013-14,28,19:29,8,65,0,29
+46,NHL,67,3,29,9,349,193,55,64,3,1213,ANA,25,25.0,"[{'link': '/awards/voting-2015.html#AS', 'name': 'AS-9'}]",17.1,29,22,13,33,3,0,2014-15,27,18:06,4,67,0,19
+53,NHL,82,6,30,8,384,215,62,104,12,1452,ANA,25,20.0,"[{'link': '/awards/voting-2016.html#AS', 'name': 'AS-6'}]",15.8,22,28,2,34,2,0,2015-16,36,17:42,12,68,0,16
+38,NHL,0,3,31,13,385,215,53,81,15,1453,ANA,32,35.0,[],8.8,14,34,2,19,7,0,2016-17,35,17:43,5,76,0,19

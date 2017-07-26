@@ -1,0 +1,41 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1992-93,15,0,2,0,0,Fin-U18,2,Jokerit Helsinki U18,0
+1993-94,16,1,8,1,0,Fin-U18,13,Jokerit Helsinki U18,2
+1993-94,16,0,26,3,0,Fin-Jr.,33,Jokerit Helsinki Jr.,3
+1994-95,17,3,42,5,0,Fin-U18,10,Jokerit Helsinki U18,8
+1994-95,17,4,74,8,0,Fin-Jr.,24,Jokerit Helsinki Jr.,12
+1994-95,17,0,7,1,0,EJC-A,5,Finland,1
+1995-96,18,11,56,18,0,Fin-Jr.,34,Jokerit Helsinki Jr.,29
+1995-96,18,0,8,2,0,Finland-2,4,Haukat Jarvenpaa,2
+1995-96,18,0,6,2,0,Finland,6,Jokerit Helsinki,2
+1995-96,18,3,43,1,0,WJC-A,6,Finland,4
+1996-97,19,0,2,1,0,Fin-Jr.,2,Jokerit Helsinki Jr.,1
+1996-97,19,2,38,9,0,Finland,44,Jokerit Helsinki,11
+1996-97,19,0,8,2,0,WJC-A,6,Finland,2
+1997-98,20,1,2,1,0,Fin-Jr.,3,Jokerit Helsinki Jr.,2
+1997-98,20,2,71,6,0,Finland,46,Jokerit Helsinki,8
+1997-98,20,0,6,1,0,EuroHL,6,Jokerit Helsinki,1
+1997-98,20,0,6,0,0,WC-A,9,Finland,0
+1998-99,21,3,107,7,0,Finland,53,Jokerit Helsinki,10
+1998-99,21,2,4,2,0,EuroHL,6,Jokerit Helsinki,4
+1998-99,21,1,8,1,0,WC-A,10,Finland,2
+1999-00,22,8,77,8,0,Finland,53,Jokerit Helsinki,16
+1999-00,22,0,0,0,-1,WC-A,9,Finland,0
+2000-01,23,3,26,8,7,AHL,36,Cincinnati Mighty Ducks,11
+2000-01,23,0,10,1,-1,WC-A,9,Finland,1
+2001-02,24,10,25,9,1,AHL,39,Cincinnati Mighty Ducks,19
+2002-03,25,6,42,11,0,Finland,48,Jokerit Helsinki,17
+2003-04,26,4,74,14,0,Sweden,47,Vastra Frolunda HC Goteborg,18
+2003-04,26,1,4,2,6,WC-A,7,Finland,3
+2004-05,27,4,78,9,0,Sweden,45,Frolunda HC Goteborg,13
+2004-05,27,2,4,0,-1,WC-A,7,Finland,2
+2005-06,28,1,60,4,0,Sweden,49,Frolunda HC Goteborg,5
+2005-06,28,0,2,0,0,Olympics,8,Finland,0
+2006-07,29,3,110,11,0,Sweden,48,Frolunda HC Goteborg,14
+2007-08,30,1,79,4,0,Sweden,54,Frolunda HC Goteborg,5
+2007-08,30,0,28,1,0,WC-A,9,Finland,1
+2008-09,31,0,30,2,0,KHL,37,Lada Togliatti,2
+2009-10,32,1,74,8,0,Finland,51,Jokerit Helsinki,9
+2010-11,33,1,78,2,0,Finland,38,Jokerit Helsinki,3
+2011-12,34,1,52,7,0,Finland,43,Jokerit Helsinki,8
+2012-13,35,2,36,7,0,Finland,39,Jokerit Helsinki,9

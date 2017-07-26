@@ -1,0 +1,19 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1940-41,17,13,2,10,0,ON-Jr.B,9,Kitchener Greenshirts,23
+1941-42,18,29,20,16,0,OHA-B,13,Stratford Kist,45
+1942-43,19,6,4,4,0,OHA-Jr.,6,Stratford Kroehlers,10
+1945-46,22,8,4,5,0,OHA-Sr.,7,Stratford Indians,13
+1954-55,31,0,2,0,0,AHL,2,Pittsburgh Hornets,0
+1957-58,34,7,0,16,0,SJSHL,12,St. John\'s City Council,23
+1959-60,36,0,2,2,0,Exhib.,2,2 Teams,2
+1959-60,36,0,2,2,0,Exhib.,1,St. John\'s Capitals,2
+1959-60,36,0,0,0,0,Exhib.,1,Conception Bay Cee Bees,0
+1960-61,37,5,15,4,0,Nfld-Sr.,5,St. John\'s Capitals,9
+1963-64,40,0,2,2,0,SJSHL,4,St. John\'s Jr. Guards,2
+1963-64,40,1,12,1,0,Nfld-Sr.,4,St. John\'s Capitals,2
+1964-65,41,0,2,2,0,SJSHL,1,St. John\'s Jr. Guards,2
+1965-66,42,3,14,6,0,SJSHL,7,St. John\'s Jr. Guards,9
+1966-67,43,0,4,0,0,Nfld-Sr.,3,St. John\'s Capitals,0
+1967-68,44,3,6,14,0,SJSHL,7,St. John\'s Feildians,17
+1968-69,45,4,0,12,0,SJSHL,14,St. John\'s Feildians,16
+1968-69,45,0,2,2,0,Nfld-Sr.,3,St. John\'s Capitals,2

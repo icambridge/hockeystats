@@ -1,0 +1,15 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+9.3,0,NHL,0,BOS,2710,25,13,0,0,52,0,0,5,12,0,0,0,0,0,0,1928-29,0,1.15,0,[],0
+0,0,NHL,0,BOS,2680,26,5,0,0,98,0,0,1,3,0,0,0,0,0,0,1929-30,0,0,0,"[{'link': '/awards/vezina.html#1930', 'name': None}]",0
+9.1,0,NHL,0,BOS,2730,27,10,0,0,90,0,0,6,3,0,0,0,0,0,0,1930-31,0,1.98,0,"[{'link': '/awards/nhl_all_star.html#1931', 'name': None}]",0
+7.6,0,NHL,43,BOS,2698,28,19,0,0,103,0,0,0,0,13,0,0,0,0,0,1931-32,0,2.29,0,[],0
+0,0,NHL,0,BOS,3000,29,15,0,0,88,0,0,8,0,0,0,0,0,0,0,1932-33,0,0,0,"[{'link': '/awards/vezina.html#1933', 'name': None}]",0
+6.1,0,NHL,0,BOS,2980,30,25,0,0,130,0,0,5,5,18,0,0,0,0,0,1933-34,0,2.62,0,[],0
+9.0,0,NHL,0,BOS,2970,31,16,0,0,112,0,0,6,8,26,0,0,0,0,0,1934-35,0,2.26,0,"[{'link': '/awards/nhl_all_star.html#1935', 'name': None}]",0
+0,0,NHL,0,BOS,2930,32,20,0,1,82,0,0,6,0,22,1,0,0,0,0,1935-36,0,0,0,"[{'link': '/awards/nhl_all_star.html#1936', 'name': None}, {'link': '/awards/vezina.html#1936', 'name': None}]",0
+8.8,0,NHL,0,BOS,2970,33,18,0,0,110,0,0,7,0,23,0,0,0,0,0,1936-37,0,2.22,0,"[{'link': '/awards/voting-1937.html#hart', 'name': 'Hart-4'}]",0
+0,0,NHL,0,BOS,2970,34,11,0,0,89,0,0,7,7,0,0,0,0,0,0,1937-38,0,0,0,"[{'link': '/awards/nhl_all_star.html#1938', 'name': None}, {'link': '/awards/vezina.html#1938', 'name': None}]",0
+7.5,0,NHL,44,TOT,2707,35,18,0,0,109,0,0,7,4,19,0,0,0,0,0,1938-39,0,2.42,0,[],0
+1.4,0,NHL,5,BOS,310,35,1,0,0,8,0,0,1,0,3,0,0,0,0,0,1938-39,0,1.55,0,[],0
+6.1,0,NHL,39,DET,2397,35,17,0,0,101,0,0,6,4,16,0,0,0,0,0,1938-39,0,2.53,0,[],0
+7.0,0,NHL,46,DET,2830,36,24,0,0,120,0,0,6,3,16,0,0,0,0,0,1939-40,0,2.54,0,[],0

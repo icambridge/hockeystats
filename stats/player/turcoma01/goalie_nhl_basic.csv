@@ -1,0 +1,12 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+4.5,0,NHL,26,DAL,1266,25,6,0,0,40,0,11.46,1,3,13,0,0,0,0,0,2000-01,532,0,12,"[{'link': '/awards/voting-2001.html#calder', 'name': 'Calder-11'}]",492
+5.1,0,NHL,31,DAL,1519,26,6,86,0,53,0,8.81,2,2,15,0,0,0,0,.921,2001-02,670,2.09,10,[],617
+11.9,0,NHL,55,DAL,3203,27,10,0,3,92,0,0,10,7,31,3,0,0,0,0,2002-03,1359,0,16,"[{'link': '/awards/nhl_all_star.html#2003', 'name': None}, {'link': '/awards/voting-2003.html#hart', 'name': 'Hart-11'}, {'link': '/awards/voting-2003.html#vezina', 'name': 'Vezina-2'}]",1267
+10.4,0,NHL,73,DAL,4359,28,21,98,1,144,0,2.77,13,9,37,1,0,0,0,.913,2003-04,1648,1.98,32,"[{'link': '/awards/voting-2004.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-2004.html#hart', 'name': 'Hart-8'}, {'link': '/awards/voting-2004.html#vezina', 'name': 'Vezina-4'}]",1504
+9.2,0,NHL,68,DAL,3910,30,19,104,2,166,0,-5.66,5,3,41,2,0,0,0,.898,2005-06,1624,2.55,28,"[{'link': '/awards/voting-2006.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-2006.html#hart', 'name': 'Hart-18'}, {'link': '/awards/voting-2006.html#vezina', 'name': 'Vezina-5'}]",1458
+10.5,0,NHL,67,DAL,3764,31,20,94,4,140,0,8.20,5,6,38,4,0,0,0,.910,2006-07,1564,2.23,18,"[{'link': '/awards/voting-2007.html#AS', 'name': 'AS-8'}]",1424
+9.6,9,NHL,62,DAL,3629,32,21,100,3,140,60,0.17,6,3,32,3,.500,0,30,.909,2007-08,1543,2.31,16,"[{'link': '/awards/voting-2008.html#byng', 'name': 'Byng-45'}]",1403
+9.6,22,NHL,74,DAL,4327,33,0,111,5,203,74,-20.62,10,3,33,5,.514,0,38,.898,2008-09,1993,2.81,18,[],1790
+9.9,8,NHL,53,DAL,3088,34,20,98,4,140,51,2.41,0,4,22,4,.569,0,29,.913,2009-10,1605,2.72,10,[],1465
+3.3,5,NHL,29,CHI,1631,35,11,118,0,82,27,-12.39,3,1,11,0,.370,0,10,.897,2010-11,799,3.02,6,[],717
+-0.1,2,NHL,5,BOS,261,36,2,0,0,16,4,0,0,0,2,0,.250,0,1,.855,2011-12,110,3.68,2,[],94

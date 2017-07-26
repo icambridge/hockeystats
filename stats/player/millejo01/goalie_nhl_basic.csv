@@ -1,0 +1,5 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+0.9,0,NHL,28,NYA,1721,27,16,0,0,77,0,0,4,5,8,0,0,0,0,0,1927-28,0,2.68,0,[],0
+4.4,0,NHL,0,PTP,2780,28,27,0,0,80,0,0,8,11,9,0,0,0,0,0,1928-29,0,1.73,0,[],0
+1.8,0,NHL,43,PTP,2630,29,0,0,0,0,0,0,3,0,5,0,0,0,0,0,1929-30,0,4.08,0,[],0
+-0.2,0,NHL,12,PHQ,740,30,9,0,0,47,0,0,1,0,2,0,0,0,0,0,1930-31,0,3.81,0,[],0

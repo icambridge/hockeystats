@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1985-86,16,48,36,63,0,MTHL,42,Toronto Red Wings,111
+1986-87,17,34,31,55,0,OHL,61,North Bay Centennials,89
+1987-88,18,14,20,22,0,OHL,30,North Bay Centennials,36
+1988-89,19,45,57,64,0,OHL,65,2 Teams,109
+1988-89,19,11,12,15,0,OHL,15,North Bay Centennials,26
+1988-89,19,34,45,49,0,OHL,50,Niagara Falls Thunder,83
+1989-90,20,23,58,24,0,IHL,56,Peoria Rivermen,47
+1990-91,21,10,79,20,0,IHL,54,Peoria Rivermen,30
+1990-91,21,0,6,3,0,AHL,12,Newmarket Saints,3
+1991-92,22,11,21,16,0,AHL,53,St. John\'s Maple Leafs,27
+1992-93,23,40,91,49,0,IHL,72,Atlanta Knights,89
+1993-94,24,26,0,31,0,Swiss,36,Zurcher SC,57
+1995-96,26,23,64,28,0,IHL,63,Peoria Rivermen,51
+1996-97,27,15,45,13,0,IHL,61,2 Teams,28
+1996-97,27,12,41,13,0,IHL,52,San Antonio Dragons,25
+1996-97,27,3,4,0,0,IHL,9,Utah Grizzlies,3
+1997-98,28,1,20,5,0,Germany,17,Augsburger Panther,6
+1997-98,28,26,60,35,0,UHL,50,Winston-Salem IceHawks,61
+1998-99,29,20,72,49,-16,UHL,73,Saginaw Gears,69
+1999-00,30,15,71,55,-56,UHL,70,Ohio Gears,70

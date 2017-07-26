@@ -1,0 +1,17 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,AMBHL,21,Fort Saskatchewan Rangers,1239,15,4,0,0,60,0,0,2,0,15,0,0,0,0,0,1999-00,0,2.91,0,0
+0,WHL,44,Tri-City Americans,2466,16,25,0,0,155,0,0,4,0,10,0,0,0,0,0,2000-01,0,3.77,0,0
+0,WHL,47,Tri-City Americans,2494,17,17,0,3,149,0,0,6,2,18,3,0,0,0,.896,2001-02,1433,3.58,19,1284
+0,WJ18-A,2,Canada,62,17,1,0,0,7,0,0,0,0,0,0,0,0,0,0,2001-02,0,6.77,0,0
+0,WHL,55,Tri-City Americans,3129,18,35,0,3,211,0,0,2,1,16,3,0,0,0,.879,2002-03,1747,4.05,14,1536
+0,WHL,54,Tri-City Americans,3023,19,21,0,2,136,0,0,7,1,23,2,0,0,0,.911,2003-04,1532,2.70,8,1396
+0,CHL,44,Colorado Eagles,2630,20,6,0,2,79,0,0,5,8,33,2,0,0,0,.938,2004-05,1276,1.80,4,1197
+0,AHL,14,Lowell Lock Monsters,844,21,6,0,0,36,0,0,1,0,6,0,0,0,0,.913,2005-06,416,2.56,0,380
+0,ECHL,32,San Diego Gulls,1797,21,12,0,3,84,0,0,3,1,14,3,0,0,0,.910,2005-06,930,2.80,0,846
+0,AHL,54,Albany River Rats,3047,22,22,0,1,152,0,0,3,2,27,1,0,0,0,.905,2006-07,1600,2.99,0,1448
+0,AHL,31,Lake Erie Monsters,1769,23,19,0,0,98,0,0,1,2,9,0,0,0,0,.903,2007-08,1015,3.32,4,917
+0,AHL,44,Lake Erie Monsters,2559,24,20,0,0,105,0,0,2,8,21,0,0,0,0,.915,2008-09,1236,2.46,13,1131
+0,AHL,43,Lake Erie Monsters,2538,25,18,0,0,105,0,0,3,3,21,0,0,0,0,.912,2009-10,1191,2.48,4,1086
+0,AHL,29,Manitoba Moose,1717,26,10,0,0,75,0,0,2,1,15,0,0,0,0,.909,2010-11,820,2.62,2,745
+0,Germany,40,Augsburger Panther,2421,27,17,0,1,94,0,0,0,4,23,1,0,0,0,0,2011-12,0,2.33,2,0
+0,Germany,44,Thomas Sabo Ice Tigers Nurnberg,2505,28,22,0,1,123,0,0,0,1,21,1,0,0,0,0,2012-13,0,2.95,12,0

@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1945-12-05,", ",C,Joe Hardy,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",C,1945-12-05,Joe Hardy

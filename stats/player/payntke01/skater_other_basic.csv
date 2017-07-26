@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1981-82,16,7,65,23,0,MJrHL,35,Summerside Capitals,30
+1982-83,17,4,97,11,0,OHL,65,Kitchener Rangers,15
+1983-84,18,9,94,27,0,OHL,65,Kitchener Rangers,36
+1984-85,19,7,93,28,0,OHL,58,Kitchener Rangers,35
+1985-86,20,1,36,2,0,AHL,23,Nova Scotia Oilers,3
+1985-86,20,0,2,1,0,IHL,4,Saginaw Generals,1
+1986-87,21,2,57,6,0,AHL,66,Nova Scotia Oilers,8
+1987-88,22,8,141,20,0,IHL,74,Saginaw Hawks,28
+1988-89,23,12,148,14,0,IHL,69,Saginaw Hawks,26
+1989-90,24,7,110,20,0,AHL,60,Baltimore Skipjacks,27
+1990-91,25,10,64,17,0,AHL,43,Baltimore Skipjacks,27
+1991-92,26,3,71,30,0,AHL,62,Moncton Hawks,33
+1992-93,27,7,81,17,0,AHL,48,New Haven Senators,24
+1993-94,28,6,125,20,0,AHL,63,P.E.I. Senators,26
+1994-95,29,3,104,22,0,IHL,73,Milwaukee Admirals,25
+1995-96,30,9,147,19,0,IHL,79,Milwaukee Admirals,28
+1996-97,31,10,97,28,0,IHL,77,Milwaukee Admirals,38
+1997-98,32,3,50,13,1,IHL,52,2 Teams,16
+1997-98,32,0,14,6,2,IHL,15,Milwaukee Admirals,6
+1997-98,32,3,36,7,-1,IHL,37,Indianapolis Ice,10

@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2000-01,15,2,4,0,0,ON-Jr.A,6,St. Michael\'s Buzzers,2
+2001-02,16,4,34,6,0,OHL,63,North Bay Centennials,10
+2002-03,17,32,81,22,0,OHL,62,Saginaw Spirit,54
+2002-03,17,3,0,0,2,WJ18-A,7,Canada,3
+2003-04,18,25,71,24,0,OHL,55,2 Teams,49
+2003-04,18,7,49,13,0,OHL,27,Saginaw Spirit,20
+2003-04,18,18,22,11,0,OHL,28,Erie Otters,29
+2004-05,19,45,84,34,0,OHL,68,Erie Otters,79
+2004-05,19,0,0,2,0,ECHL,2,Atlantic City Boardwalk Bullies,2
+2005-06,20,30,58,35,1,AHL,66,Syracuse Crunch,65
+2006-07,21,28,59,21,4,AHL,53,Syracuse Crunch,49
+2007-08,22,32,55,33,9,AHL,75,2 Teams,65
+2007-08,22,4,6,3,-1,AHL,15,Syracuse Crunch,7
+2007-08,22,28,49,30,10,AHL,60,Portland Pirates,58
+2008-09,23,19,54,18,0,Finland,45,Ilves Tampere,37
+2008-09,23,2,8,3,0,KHL,13,Dynamo Minsk,5
+2009-10,24,26,77,18,0,KHL,56,Dynamo Minsk,44
+2010-11,25,18,46,15,0,KHL,54,Dynamo Minsk,33
+2011-12,26,13,42,17,0,KHL,47,Dynamo Minsk,30
+2012-13,27,13,76,15,0,KHL,50,Dynamo Minsk,28

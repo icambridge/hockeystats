@@ -1,0 +1,28 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1989-90,16,13,14,16,0,ON-Jr.B,40,Thorold Blackhawks,29
+1990-91,17,13,28,20,0,ON-Jr.B,35,Thorold Blackhawks,33
+1991-92,18,26,46,24,0,ON-Jr.B,41,Thorold Blackhawks,50
+1992-93,19,27,74,41,0,ON-Jr.B,39,Thorold Blackhawks,68
+1993-94,20,51,48,51,0,ON-Jr.B,39,Thorold Blackhawks,102
+1994-95,21,35,24,48,0,OUAA,38,Brock University,83
+1994-95,21,0,0,0,0,IHL,1,Cleveland Lumberjacks,0
+1995-96,22,6,31,7,0,IHL,49,Cleveland Lumberjacks,13
+1996-97,23,35,100,44,0,ECHL,60,Johnstown Chiefs,79
+1996-97,23,1,4,2,0,IHL,12,2 Teams,3
+1996-97,23,1,2,0,0,IHL,4,Cleveland Lumberjacks,1
+1996-97,23,0,2,2,0,IHL,8,Fort Wayne Komets,2
+1997-98,24,0,0,0,0,Finland,1,HIFK Helsinki,0
+1997-98,24,0,2,4,-1,AHL,7,Syracuse Crunch,4
+1997-98,24,1,0,5,-7,ECHL,6,Johnstown Chiefs,6
+1998-99,25,9,40,22,-10,AHL,54,Syracuse Crunch,31
+1999-00,26,21,91,30,0,Nat-Tm,56,Canada,51
+2000-01,27,14,42,16,0,Germany,47,Augsburger Panther,30
+2001-02,28,25,57,24,0,Swiss-2,36,EHC Biel-Bienne,49
+2002-03,29,32,32,29,0,Swiss-2,38,EHC Biel-Bienne,61
+2003-04,30,0,6,0,0,Sweden,6,Djurgardens IF Stockholm,0
+2003-04,30,3,12,4,0,Swiss,12,SCL Tigers Langnau,7
+2004-05,31,2,14,1,0,Swiss,13,SCL Tigers Langnau,3
+2004-05,31,9,33,13,0,Italy,22,HC Milano,22
+2005-06,32,16,28,14,0,Italy,40,HC Milano,30
+2006-07,33,8,32,16,0,Italy,31,HC Milano,24
+2007-08,34,11,38,14,0,Italy,30,SV Renon,25

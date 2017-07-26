@@ -1,0 +1,17 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1989-90,19,0,2,1,0,Sweden-2,6,Huddinge IK,1
+1990-91,20,5,6,4,0,Sweden-2,16,Huddinge IK,9
+1991-92,21,0,8,4,0,Sweden-2,13,Huddinge IK,4
+1992-93,22,3,8,5,0,Sweden-2,18,Huddinge IK,8
+1993-94,23,4,12,4,0,Sweden-2,18,Huddinge IK,8
+1994-95,24,5,4,7,0,Sweden-2,17,Huddinge IK,12
+1995-96,25,8,14,9,0,Sweden,38,Lulea HF,17
+1996-97,26,15,30,10,0,Sweden,47,Lulea HF,25
+1997-98,27,7,27,8,0,Sweden,45,Lulea HF,15
+1998-99,28,3,14,2,-17,AHL,35,Hartford Wolf Pack,5
+1998-99,28,0,6,1,-6,IHL,5,Utah Grizzlies,1
+1999-00,29,8,38,21,0,IEHL,34,Klagenfurter AC,29
+1999-00,29,8,14,5,0,Austria,16,Klagenfurter AC,13
+2000-01,30,11,54,31,0,Austria,46,Klagenfurter AC,42
+2001-02,31,6,65,31,0,Austria,42,Klagenfurter AC,37
+2002-03,32,0,34,6,0,Sweden,28,Linkopings HC,6

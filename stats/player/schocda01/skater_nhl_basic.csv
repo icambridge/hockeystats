@@ -1,0 +1,4 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,20,0,22,8,3,0,,TOT,[],12.5,1,2,0,1,0,1970-71,,0,0,0,2
+NHL,6,0,22,1,0,0,,BOS,[],0.0,0,0,-1,0,0,1970-71,,0,0,0,0
+NHL,14,0,22,7,3,0,,PHI,[],14.3,1,2,1,1,0,1970-71,,0,0,0,2

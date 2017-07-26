@@ -1,16 +1,16 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-50,1981-82,Kamloops Jr. Oilers,21,0,16,64,40,19,WHL
-101,1982-83,Kamloops Jr. Oilers,36,0,17,70,58,22,WHL
-106,1983-84,Victoria Cougars,10,0,18,42,27,17,WHL
-33,1984-85,Victoria Cougars,16,0,19,24,28,12,WHL
-0,1984-85,Rochester Americans,2,0,19,2,2,0,AHL
-95,1985-86,Rochester Americans,27,0,20,54,37,10,AHL
-90,1986-87,Rochester Americans,15,0,21,58,22,7,AHL
-24,1987-88,Rochester Americans,11,0,22,37,18,7,AHL
-30,1987-88,Flint Spirits,6,0,22,17,10,4,IHL
-22,1988-89,Canada,11,0,23,50,25,14,Nat-Tm
-8,1989-90,Canada,10,0,24,42,16,6,Nat-Tm
-46,1990-91,Innsbrucker EV,7,0,25,19,17,10,Austria
-10,1990-91,Canada,6,0,25,27,11,5,Nat-Tm
-14,1991-92,SV Renon,24,0,26,24,43,19,Italy-2
-57,1992-93,Dallas Freeze,14,0,27,21,24,10,CHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+21,Kamloops Jr. Oilers,19,1981-82,64,40,50,16,0,WHL
+36,Kamloops Jr. Oilers,22,1982-83,70,58,101,17,0,WHL
+10,Victoria Cougars,17,1983-84,42,27,106,18,0,WHL
+16,Victoria Cougars,12,1984-85,24,28,33,19,0,WHL
+2,Rochester Americans,0,1984-85,2,2,0,19,0,AHL
+27,Rochester Americans,10,1985-86,54,37,95,20,0,AHL
+15,Rochester Americans,7,1986-87,58,22,90,21,0,AHL
+11,Rochester Americans,7,1987-88,37,18,24,22,0,AHL
+6,Flint Spirits,4,1987-88,17,10,30,22,0,IHL
+11,Canada,14,1988-89,50,25,22,23,0,Nat-Tm
+10,Canada,6,1989-90,42,16,8,24,0,Nat-Tm
+7,Innsbrucker EV,10,1990-91,19,17,46,25,0,Austria
+6,Canada,5,1990-91,27,11,10,25,0,Nat-Tm
+24,SV Renon,19,1991-92,24,43,14,26,0,Italy-2
+14,Dallas Freeze,10,1992-93,21,24,57,27,0,CHL

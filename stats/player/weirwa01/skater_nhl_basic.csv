@@ -1,0 +1,12 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+WHA,69,0,22,123,20,0,,QBN,[],2.4,3,17,13,3,0,1976-77,,0,197,0,0
+WHA,13,0,23,21,0,0,,QBN,[],0.0,0,0,-5,0,0,1977-78,,0,47,0,0
+WHA,68,0,24,84,9,0,,QBN,[],2.4,2,7,9,2,0,1978-79,,0,166,0,0
+NHL,73,0,25,91,15,1,,QUE,[],3.3,3,12,-18,3,0,1979-80,,0,133,0,11
+NHL,54,0,26,50,14,0,,QUE,[],12.0,6,8,0,6,0,1980-81,,0,77,1,7
+NHL,62,0,27,44,8,1,,QUE,[],6.8,3,5,-16,3,0,1981-82,,0,173,0,4
+NHL,58,0,28,50,16,1,,QUE,[],10.0,4,11,11,5,0,1982-83,,1,135,0,10
+NHL,25,1,29,15,5,0,,QUE,[],13.3,2,3,5,2,0,1983-84,,0,17,0,3
+NHL,48,0,30,32,8,0,,TOT,[],6.3,2,6,-6,2,0,1984-85,,0,90,0,6
+NHL,34,0,30,24,5,0,,HAR,[],8.3,2,3,-7,2,0,1984-85,,0,56,0,3
+NHL,14,0,30,8,3,0,,PIT,[],0.0,0,3,1,0,0,1984-85,,0,34,0,3

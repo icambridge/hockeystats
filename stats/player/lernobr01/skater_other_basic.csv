@@ -1,0 +1,12 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2010-11,15,3,67,12,0,WCML,31,Winnipeg Warriors City Midget,15
+2011-12,16,8,62,27,0,MMHL,44,Winnipeg Wild Midget AAA,35
+2011-12,16,0,0,1,0,MJHL,6,Steinbach Pistons,1
+2011-12,16,0,0,0,-2,WHL,2,Saskatoon Blades,0
+2012-13,17,0,15,0,0,WHL,18,Saskatoon Blades,0
+2012-13,17,1,28,1,-4,WHL,41,Swift Current Broncos,2
+2013-14,18,8,103,14,7,WHL,72,Swift Current Broncos,22
+2014-15,19,14,68,28,-12,WHL,72,Swift Current Broncos,42
+2014-15,19,0,2,0,-1,AHL,6,Hamilton Bulldogs,0
+2015-16,20,2,73,10,-4,AHL,69,St. John\'s IceCaps,12
+2016-17,21,3,63,13,5,AHL,74,St. John\'s IceCaps,16

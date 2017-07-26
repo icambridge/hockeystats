@@ -1,0 +1,6 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,Finland,3,SaiPa Lappeenranta,189,23,0,0,0,8,0,0,0,0,0,0,0,0,0,0,2008-09,0,2.54,0,0
+0,Finland,3,Blues Espoo,219,24,0,0,0,7,0,0,0,0,0,0,0,0,0,0,2009-10,0,1.92,0,0
+0,Finland,18,Blues Espoo,1098,25,8,0,0,40,0,0,0,3,10,0,0,0,0,0,2010-11,0,2.19,0,0
+0,AHL,4,Syracuse Crunch,244,26,3,0,0,15,0,0,0,0,1,0,0,0,0,.881,2011-12,126,3.69,0,111
+0,KHL,14,Salavat Yulayev Ufa,881,27,7,0,0,35,0,0,0,2,7,0,0,0,0,0,2012-13,0,2.38,0,0

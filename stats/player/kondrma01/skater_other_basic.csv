@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1999-00,17,0,6,2,0,Russia-3,16,Lada Togliatti 2,2
+1999-00,17,1,0,1,0,Russia,20,Lada Togliatti,2
+2000-01,18,2,24,1,0,Russia-2,18,CSK VVS Samara,3
+2001-02,19,3,32,3,0,Russia,43,Lada Togliatti,6
+2001-02,19,0,2,1,-1,WJC-A,7,Russia,1
+2001-02,19,0,0,1,0,4-Nations,3,Russia,1
+2002-03,20,2,56,3,0,Russia,47,Lada Togliatti,5
+2002-03,20,0,14,1,0,WJC-A,6,Russia,1
+2003-04,21,3,10,5,3,AHL,18,St. John\'s Maple Leafs,8
+2003-04,21,2,85,3,0,Russia,29,Lada Togliatti,5
+2003-04,21,0,2,0,0,WC-A,2,Russia,0
+2004-05,22,1,8,4,-1,AHL,13,Hartford Wolf Pack,5
+2004-05,22,2,65,4,0,Russia,32,Lada Togliatti,6
+2005-06,23,4,19,13,8,AHL,41,2 Teams,17
+2005-06,23,0,0,0,4,AHL,4,Hartford Wolf Pack,0
+2005-06,23,4,19,13,4,AHL,37,Portland Pirates,17
+2006-07,24,3,144,16,0,Russia,51,Lada Togliatti,19
+2006-07,24,0,2,0,0,WC-A,9,Russia,0
+2007-08,25,2,24,4,0,Russia,23,SKA St. Petersburg,6
+2008-09,26,1,51,11,0,KHL,42,CSKA Moscow,12

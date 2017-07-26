@@ -1,0 +1,8 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WHL,5,Tri-City Americans,301,17,4,0,0,14,0,0,0,0,1,0,0,0,0,.917,2001-02,169,2.79,2,155
+0,WHL,5,Tri-City Americans,233,19,2,0,0,11,0,0,0,0,1,0,0,0,0,.906,2003-04,117,2.83,0,106
+0,CHL,13,Colorado Eagles,744,20,4,0,0,32,0,0,0,1,8,0,0,0,0,.918,2004-05,391,2.58,11,359
+0,ECHL,4,San Diego Gulls,251,21,4,0,0,15,0,0,0,0,0,0,0,0,0,.895,2005-06,143,3.59,0,128
+0,AHL,5,Albany River Rats,294,22,4,0,0,17,0,0,0,0,1,0,0,0,0,0,2006-07,0,3.47,0,-17
+0,AHL,4,Manitoba Moose,160,26,2,0,0,8,0,0,0,0,1,0,0,0,0,.896,2010-11,77,3.00,0,69
+0,Germany,2,Augsburger Panther,111,27,2,0,0,6,0,0,0,0,0,0,0,0,0,0,2011-12,0,3.24,0,0

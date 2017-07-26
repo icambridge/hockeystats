@@ -1,0 +1,5 @@
+even_strength_goals,assists,team,goals,pim,age,game_winning_goals,total_ice_time,league,shorthanded_goals,shots,average_ice_time,year,games_played,shotsPercentage,win,power_play_goals,points,plus_minus
+0,1,BOS,0,16,21,0,,NHL,0,4,,1981-82,8,0.0,,0,1,0
+0,0,BOS,0,4,22,0,,NHL,0,0,,1982-83,3,0,,0,0,-2
+0,1,PIT,0,49,28,0,,NHL,0,8,,1988-89,9,0.0,,0,1,-1
+0,0,PIT,0,24,30,0,,NHL,0,2,,1990-91,8,0.0,SC,0,0,1

@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1931-32,17,0,0,0,0,OHA-Jr.,1,Kitchener Redshirts,0
+1932-33,18,1,0,0,0,OHA-B,1,Kitchener Empires,1
+1933-34,19,10,26,1,0,OHA-Jr.,16,Kitchener Greenshirts,11
+1934-35,20,4,10,2,0,ON-Sr.B,13,Kitchener Greenshirts,6
+1935-36,21,0,25,1,0,NOHA,8,Creighton Mines,1
+1936-37,22,2,27,3,0,NOHA,14,Sudbury Frood Miners,5
+1936-37,22,0,0,1,0,OHA-Sr.,2,Kitchener Greenshirts,1
+1937-38,23,2,4,1,0,IAHL,12,Syracuse Stars,3
+1942-43,28,4,18,3,0,NSDHL,8,Halifax Army,7
+1943-44,29,0,2,1,0,NSDHL,2,Halifax Crescents,1
+1943-44,29,0,4,0,0,NSAPC,2,New Glasgow Bombers,0
+1944-45,30,0,8,0,0,NSDHL,5,Dartmouth RCAF,0
+1945-46,31,4,12,8,0,AHL,27,Providence Reds,12
+1946-47,32,4,44,14,0,AHL,45,St. Louis Flyers,18
+1947-48,33,4,29,13,0,AHL,46,St. Louis Flyers,17
+1948-49,34,6,82,14,0,PCHL,69,Fresno Falcons,20
+1949-50,35,3,27,6,0,PCHL,37,Fresno Falcons,9
+1949-50,35,2,14,2,0,OSHL,9,Nanaimo Clippers,4
+1950-51,36,2,20,3,0,OMHL,23,Kitchener Dutchmen,5

@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1952-09-16,G,", ",L,Pierre Hamel
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",G,1952-09-16,Pierre Hamel

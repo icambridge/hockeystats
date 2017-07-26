@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1936-07-18,", ",D,Ted Harris,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",D,1936-07-18,Ted Harris

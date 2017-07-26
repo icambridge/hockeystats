@@ -1,0 +1,13 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1991-92,15,98,167,100,0,Minor-BC,65,Salmon Arm Selects,198
+1992-93,16,20,61,23,0,RMJHL,51,Kimberley Dynamiters,43
+1993-94,17,9,46,11,0,WHL,47,Portland Winter Hawks,20
+1994-95,18,20,148,30,0,WHL,71,Portland Winter Hawks,50
+1995-96,19,19,146,28,0,WHL,59,Portland Winter Hawks,47
+1995-96,19,0,0,0,0,AHL,1,Syracuse Crunch,0
+1996-97,20,8,65,7,0,AHL,26,Syracuse Crunch,15
+2007-08,31,1,14,3,-1,AHL,11,2 Teams,4
+2007-08,31,0,0,1,-1,AHL,3,Hartford Wolf Pack,1
+2007-08,31,1,14,2,0,AHL,8,Milwaukee Admirals,3
+2009-10,33,20,59,10,3,AHL,36,Milwaukee Admirals,30
+2010-11,34,7,50,11,-1,AHL,41,Peoria Rivermen,18

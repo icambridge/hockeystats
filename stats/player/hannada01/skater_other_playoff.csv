@@ -1,5 +1,5 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-2,1977-78,Windsor Spitfires,1,0,16,6,1,0,OMJHL
-23,1979-80,Brantford Alexanders,6,0,18,10,8,2,OMJHL
-20,1980-81,Brantford Alexanders,4,0,19,6,6,2,OMJHL
-27,1983-84,Baltimore Skipjacks,6,0,22,10,8,2,AHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+1,Windsor Spitfires,0,1977-78,6,1,2,16,0,OMJHL
+6,Brantford Alexanders,2,1979-80,10,8,23,18,0,OMJHL
+4,Brantford Alexanders,2,1980-81,6,6,20,19,0,OMJHL
+6,Baltimore Skipjacks,2,1983-84,10,8,27,22,0,AHL

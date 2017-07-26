@@ -1,0 +1,12 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1997-98,17,0,4,1,0,OHL,10,Sudbury Wolves,1
+1998-99,18,2,4,3,0,OHL,4,Sudbury Wolves,5
+1999-00,19,8,6,11,0,OHL,12,Sudbury Wolves,19
+2000-01,20,0,2,0,0,AHL,4,Rochester Americans,0
+2001-02,21,0,6,3,0,AHL,2,Rochester Americans,3
+2002-03,22,2,2,0,-1,AHL,3,Rochester Americans,2
+2003-04,23,7,10,6,7,AHL,16,Rochester Americans,13
+2004-05,24,1,4,2,2,AHL,9,Rochester Americans,3
+2008-09,28,1,2,3,0,Germany,10,Grizzly Adams Wolfsburg,4
+2009-10,29,2,6,6,0,Germany,7,Grizzly Adams Wolfsburg,8
+2010-11,30,4,2,7,0,Germany,9,Grizzly Adams Wolfsburg,11

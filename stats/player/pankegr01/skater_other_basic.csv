@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1988-89,18,26,307,18,0,AJHL,53,Sherwood Park Crusaders,44
+1989-90,19,14,136,24,0,WHL,63,Regina Pats,38
+1990-91,20,39,134,41,0,WHL,72,Regina Pats,80
+1991-92,21,41,214,39,0,ECHL,59,Knoxville Cherokees,80
+1992-93,22,23,163,20,0,AHL,62,New Haven Senators,43
+1993-94,23,33,241,29,0,AHL,69,P.E.I. Senators,62
+1994-95,24,37,161,30,0,AHL,75,P.E.I. Senators,67
+1995-96,25,9,99,12,0,AHL,28,Portland Pirates,21
+1995-96,25,9,164,16,0,IHL,45,Chicago Wolves,25
+1996-97,26,32,222,34,0,IHL,79,Manitoba Moose,66
+1997-98,27,42,246,34,7,IHL,76,Manitoba Moose,76
+1998-99,28,12,91,17,-17,AHL,40,2 Teams,29
+1998-99,28,10,84,14,-15,AHL,30,Saint John Flames,24
+1998-99,28,2,7,3,-2,AHL,10,Kentucky Thoroughblades,5
+1999-00,29,22,134,19,-4,IHL,62,Houston Aeros,41
+2000-01,30,22,231,24,5,IHL,74,Houston Aeros,46
+2001-02,31,39,306,46,23,ECHL,63,Pensacola Ice Pilots,85
+2002-03,32,46,340,41,-4,ECHL,67,Pensacola Ice Pilots,87
+2003-04,33,46,142,49,38,CHL,59,Colorado Eagles,95
+2003-04,33,0,0,0,-1,AHL,2,Wilkes-Barre Penguins,0
+2004-05,34,32,101,49,33,CHL,47,Colorado Eagles,81
+2005-06,35,47,298,43,20,CHL,64,Colorado Eagles,90
+2006-07,36,20,92,16,2,CHL,18,Colorado Eagles,36
+2007-08,37,24,249,52,22,CHL,58,Colorado Eagles,76
+2008-09,38,38,248,47,14,CHL,58,Colorado Eagles,85

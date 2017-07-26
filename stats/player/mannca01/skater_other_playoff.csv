@@ -1,0 +1,15 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1993-94,16,1,2,1,0,OHL,7,Peterborough Petes,2
+1994-95,17,3,4,8,0,OHL,11,Peterborough Petes,11
+1995-96,18,27,33,16,0,OHL,24,Peterborough Petes,43
+1995-96,18,4,4,2,0,M-Cup,5,Peterborough Petes,6
+1996-97,19,10,16,18,0,OHL,11,Peterborough Petes,28
+1998-99,21,7,4,7,0,AHL,11,Providence Bruins,14
+1999-00,22,6,0,7,0,AHL,11,Providence Bruins,13
+2001-02,24,0,6,0,0,AHL,5,Utah Grizzlies,0
+2002-03,25,3,0,3,-2,AHL,6,Milwaukee Admirals,6
+2003-04,26,0,10,0,0,Germany,6,ERC Ingolstadt,0
+2004-05,27,2,20,5,0,Germany,9,ERC Ingolstadt,7
+2005-06,28,2,6,3,0,Germany,7,ERC Ingolstadt,5
+2006-07,29,0,2,1,0,Germany,2,ERC Ingolstadt,1
+2007-08,30,0,20,2,0,Finland,9,Ilves Tampere,2

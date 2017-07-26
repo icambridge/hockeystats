@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1955-02-11,", ",G,Paul Harrison,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",G,1955-02-11,Paul Harrison

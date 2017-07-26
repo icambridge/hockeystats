@@ -1,0 +1,12 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+0,NHL,81,4,18,0,0,131,42,0,2,1210,PIT,0,0,"[{'link': '/awards/voting-2007.html#byng', 'name': 'Byng-42'}, {'link': '/awards/voting-2007.html#calder', 'name': 'Calder-3'}, {'link': '/awards/voting-2007.html#selke', 'name': 'Selke-13'}]",0,18,13,16,29,0,0,2006-07,0,14:56,4,24,2,9
+37,NHL,82,4,19,695,301,183,28,86,4,1498,PIT,40,42.2,"[{'link': '/awards/voting-2008.html#selke', 'name': 'Selke-58'}]",6.6,9,16,-5,12,507,0,2007-08,57,18:16,3,55,1,11
+44,NHL,82,3,20,639,300,166,49,156,4,1627,PIT,45,47.0,"[{'link': '/awards/voting-2009.html#selke', 'name': 'Selke-28'}]",13.3,19,27,5,22,567,1,2008-09,55,19:51,2,37,3,20
+31,NHL,82,1,21,679,327,195,49,117,4,1590,PIT,41,48.2,"[{'link': '/awards/voting-2010.html#byng', 'name': 'Byng-24'}, {'link': '/awards/voting-2010.html#selke', 'name': 'Selke-3'}]",10.8,18,28,19,21,633,2,2009-10,41,19:24,1,57,1,23
+10,NHL,42,4,22,425,166,91,30,70,4,897,PIT,20,46.9,"[{'link': '/awards/voting-2011.html#selke', 'name': 'Selke-14'}]",12.1,8,19,7,11,376,0,2010-11,13,21:21,3,24,2,13
+26,NHL,62,0,23,567,265,149,50,101,2,1243,PIT,39,51.0,"[{'link': '/awards/voting-2012.html#selke', 'name': 'Selke-8'}]",16.8,17,25,11,25,591,3,2011-12,23,20:03,5,34,2,21
+20,NHL,0,1,24,456,188,114,31,105,6,965,CAR,31,50.1,"[{'link': '/awards/voting-2013.html#selke', 'name': 'Selke-29'}]",8.8,9,21,-18,10,458,0,2012-13,20,20:06,1,32,1,14
+41,NHL,82,2,25,674,298,165,40,194,8,1554,CAR,51,54.4,[],9.1,12,25,2,15,803,1,2013-14,37,18:57,2,34,3,14
+24,NHL,46,1,26,386,175,92,24,85,6,853,CAR,39,56.4,[],6.5,5,18,-6,6,499,0,2014-15,15,18:33,1,14,0,12
+50,NHL,82,4,27,589,271,151,48,165,4,1501,CAR,55,57.8,"[{'link': '/awards/voting-2016.html#selke', 'name': 'Selke-13'}]",13.2,14,28,6,20,806,0,2015-16,31,18:18,6,34,2,22
+42,NHL,75,3,28,477,273,164,45,139,4,1400,CAR,55,59.1,"[{'link': '/awards/voting-2017.html#selke', 'name': 'Selke-9'}]",9.8,11,29,-1,16,688,1,2016-17,29,18:40,4,38,0,25

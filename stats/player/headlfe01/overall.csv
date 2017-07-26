@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1901-03-02,", ",D,Fern Headley,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",D,1901-03-02,Fern Headley

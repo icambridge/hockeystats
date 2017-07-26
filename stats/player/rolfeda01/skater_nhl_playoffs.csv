@@ -1,0 +1,8 @@
+age,win,shotsPercentage,even_strength_goals,assists,plus_minus,league,games_played,shorthanded_goals,year,game_winning_goals,shots,goals,average_ice_time,power_play_goals,pim,total_ice_time,team,points
+27,,0.0,0,1,-2,NHL,7,0,1967-68,0,13,0,,0,14,,LAK,1
+28,,0.0,0,4,-6,NHL,10,0,1968-69,0,21,0,,0,8,,LAK,4
+29,,0.0,0,2,-1,NHL,4,0,1969-70,0,14,0,,0,8,,DET,2
+30,,0.0,0,1,2,NHL,13,0,1970-71,0,35,0,,0,14,,NYR,1
+31,,21.1,4,3,10,NHL,0,0,1971-72,1,19,4,,0,16,,NYR,7
+32,,0.0,0,5,2,NHL,8,0,1972-73,0,18,0,,0,6,,NYR,5
+33,,3.7,1,8,3,NHL,13,0,1973-74,0,27,1,,0,23,,NYR,9

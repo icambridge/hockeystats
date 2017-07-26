@@ -1,0 +1,8 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+8,NHL,29,0,21,0,38,15,1,10,1,400,VAN,10,0,[],0.0,0,1,0,0,0,0,2010-11,32,13:47,0,0,0,0
+8,NHL,25,0,22,0,40,15,2,10,0,418,VAN,5,0,[],0.0,0,2,10,0,0,0,2011-12,43,16:43,0,2,0,2
+14,NHL,38,1,23,0,58,20,7,14,0,657,VAN,13,0,[],10.0,2,5,4,2,0,0,2012-13,61,17:17,0,10,0,5
+18,NHL,64,2,24,0,130,65,17,25,0,1327,VAN,17,0,[],9.2,5,11,12,6,0,1,2013-14,136,20:44,0,8,0,11
+49,NHL,70,1,25,0,127,53,20,23,2,1476,VAN,26,0,"[{'link': '/awards/voting-2015.html#byng', 'name': 'Byng-45'}]",3.8,2,18,8,2,0,0,2014-15,170,21:05,0,12,0,16
+39,NHL,69,0,26,0,96,42,18,18,1,1501,VAN,14,0,"[{'link': '/awards/voting-2016.html#byng', 'name': 'Byng-21'}]",9.5,2,14,-8,4,0,0,2015-16,166,21:45,2,8,1,12
+25,NHL,53,1,27,0,92,39,10,19,0,1078,VAN,15,0,[],5.1,2,8,3,2,0,0,2016-17,91,20:21,0,14,0,8

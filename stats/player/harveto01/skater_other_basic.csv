@@ -1,14 +1,14 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-213,Cambridge Winterhawks,27,0,62,ON-Jr.B,41,1989-90,14,35
-174,Cambridge Winterhawks,39,0,71,ON-Jr.B,35,1990-91,15,32
-141,Detroit Compuware Ambassadors,43,0,64,OHL,58,1991-92,16,21
-83,Detroit Jr. Red Wings,50,0,100,OHL,55,1992-93,17,50
-75,Detroit Jr. Red Wings,51,0,85,OHL,49,1993-94,18,34
-6,Canada,3,0,7,WJC-A,7,1993-94,18,4
-12,Detroit Jr. Red Wings,14,0,22,OHL,11,1994-95,19,8
-4,Canada,0,0,6,WJC-A,7,1994-95,19,6
-8,Michigan K-Wings,3,0,4,IHL,5,1995-96,20,1
-29,Cleveland Barons,1,2,7,AHL,13,2003-04,28,6
-31,Cambridge Hornets,15,0,24,OHA-Sr.,16,2004-05,29,9
-0,Dundas Real McCoys,0,0,1,OHA-Sr.,1,2006-07,31,1
-66,Dundas Real McCoys,14,0,26,OHA-Sr.,23,2007-08,32,12
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+27,Cambridge Winterhawks,35,1989-90,41,62,213,14,0,ON-Jr.B
+39,Cambridge Winterhawks,32,1990-91,35,71,174,15,0,ON-Jr.B
+43,Detroit Compuware Ambassadors,21,1991-92,58,64,141,16,0,OHL
+50,Detroit Jr. Red Wings,50,1992-93,55,100,83,17,0,OHL
+51,Detroit Jr. Red Wings,34,1993-94,49,85,75,18,0,OHL
+3,Canada,4,1993-94,7,7,6,18,0,WJC-A
+14,Detroit Jr. Red Wings,8,1994-95,11,22,12,19,0,OHL
+0,Canada,6,1994-95,7,6,4,19,0,WJC-A
+3,Michigan K-Wings,1,1995-96,5,4,8,20,0,IHL
+1,Cleveland Barons,6,2003-04,13,7,29,28,2,AHL
+15,Cambridge Hornets,9,2004-05,16,24,31,29,0,OHA-Sr.
+0,Dundas Real McCoys,1,2006-07,1,1,0,31,0,OHA-Sr.
+14,Dundas Real McCoys,12,2007-08,23,26,66,32,0,OHA-Sr.

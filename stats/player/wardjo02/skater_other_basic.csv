@@ -1,0 +1,13 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1997-98,17,8,14,4,0,OHL,47,Owen Sound Platers,12
+1998-99,18,19,23,16,0,OHL,58,Owen Sound Platers,35
+1999-00,19,23,51,20,0,OHL,63,Owen Sound Platers,43
+2000-01,20,26,45,36,0,OHL,67,Owen Sound Attack,62
+2001-02,21,13,16,14,0,CIS,22,University of Prince Edward Island,27
+2002-03,22,11,24,15,0,CIS,19,University of Prince Edward Island,26
+2003-04,23,14,42,24,0,CIS,27,University of Prince Edward Island,38
+2004-05,24,16,42,28,0,CIS,28,University of Prince Edward Island,44
+2005-06,25,8,34,14,8,AHL,66,Houston Aeros,22
+2006-07,26,9,45,14,-1,AHL,64,Houston Aeros,23
+2007-08,27,21,47,20,12,AHL,79,Houston Aeros,41
+2013-14,33,6,4,3,7,WC,8,Canada,9

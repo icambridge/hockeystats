@@ -1,9 +1,9 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-2,1983-84,Ilves Tampere,0,0,18,2,0,0,Finland
-0,1984-85,Ilves Tampere,1,0,19,9,4,3,Finland
-8,1990-91,JYP HT Jyvaskyla,1,0,25,5,4,3,Finland
-8,1991-92,JYP HT Jyvaskyla,2,0,26,10,8,6,Finland
-4,1992-93,JYP HT Jyvaskyla,2,0,27,9,3,1,Finland
-6,1993-94,Tappara Tampere,6,0,28,10,9,3,Finland
-8,1995-96,Tappara Tampere,0,0,30,4,3,3,Finland
-0,1998-99,HC Les Flammes Bleues Reims,6,0,33,11,9,3,France
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Ilves Tampere,0,1983-84,2,0,2,18,0,Finland
+1,Ilves Tampere,3,1984-85,9,4,0,19,0,Finland
+1,JYP HT Jyvaskyla,3,1990-91,5,4,8,25,0,Finland
+2,JYP HT Jyvaskyla,6,1991-92,10,8,8,26,0,Finland
+2,JYP HT Jyvaskyla,1,1992-93,9,3,4,27,0,Finland
+6,Tappara Tampere,3,1993-94,10,9,6,28,0,Finland
+0,Tappara Tampere,3,1995-96,4,3,8,30,0,Finland
+6,HC Les Flammes Bleues Reims,3,1998-99,11,9,0,33,0,France

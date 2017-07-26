@@ -1,0 +1,4 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+0.0,0,NHL,1,CBH,60,20,1,0,0,4,0,0,0,0,0,0,0,0,0,.818,1984-85,22,4.00,0,[],18
+9.4,0,NHL,45,CHI,2548,23,23,90,6,163,0,17.37,1,0,17,6,0,0,0,.891,1987-88,1501,3.84,2,"[{'link': '/awards/voting-1988.html#calder', 'name': 'Calder-3'}]",1338
+4.2,0,NHL,35,CHI,1644,24,11,109,3,120,0,-9.65,6,0,10,3,0,0,0,.869,1988-89,915,4.38,4,[],795

@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1966-08-02,", ",W,Todd Hawkins,R
+handed,heigh_and_weight,position,date_of_birth,name
+R,", ",W,1966-08-02,Todd Hawkins

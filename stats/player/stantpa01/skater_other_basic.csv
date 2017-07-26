@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1983-84,16,15,0,20,0,High-MA,20,Catholic Memorial Knights,35
+1984-85,17,16,17,21,0,High-MA,20,Catholic Memorial Knights,37
+1985-86,18,4,16,6,0,WCHA,36,University of Wisconsin,10
+1986-87,19,5,70,17,0,WCHA,41,University of Wisconsin,22
+1987-88,20,9,98,38,0,WCHA,45,University of Wisconsin,47
+1988-89,21,7,126,29,0,WCHA,45,University of Wisconsin,36
+1989-90,22,5,61,27,0,IHL,77,Muskegon Lumberjacks,32
+1994-95,27,4,4,4,0,AHL,8,Providence Bruins,8
+1994-95,27,2,15,6,0,IHL,11,Denver Grizzlies,8
+1994-95,27,2,4,1,0,WC-A,6,United States,3
+1995-96,28,12,88,24,0,Germany,47,Adler Mannheim,36
+1995-96,28,0,4,0,0,WC-A,7,United States,0
+1996-97,29,5,64,26,0,Germany,50,Adler Mannheim,31
+1997-98,30,10,72,25,0,Germany,47,Adler Mannheim,35
+1997-98,30,3,31,0,0,EuroHL,5,Adler Mannheim,3
+1997-98,30,0,0,0,0,WC-A,5,United States,0
+1998-99,31,6,50,16,0,Germany,38,Adler Mannheim,22
+1998-99,31,1,2,1,0,EuroHL,2,Adler Mannheim,2
+1999-00,32,2,77,19,0,Germany,56,Adler Mannheim,21
+1999-00,32,0,38,0,0,EuroHL,5,Adler Mannheim,0
+2000-01,33,11,104,19,0,Germany,49,Nurnberg Ice Tigers,30
+2001-02,34,7,94,29,0,Germany,57,Nurnberg Ice Tigers,36
+2002-03,35,10,167,22,0,Germany,49,Frankfurt Lions,32
+2003-04,36,8,104,30,0,Germany,52,Frankfurt Lions,38
+2004-05,37,0,27,1,0,Sweden,6,IF Malmo Redhawks,1

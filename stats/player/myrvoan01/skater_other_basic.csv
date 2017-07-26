@@ -1,0 +1,41 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1991-92,16,0,4,0,0,Norway,1,Storhamar IL,0
+1992-93,17,0,0,0,0,Sweden,2,Farjestads BK Karlstad,0
+1992-93,17,5,10,1,0,WJC-B,7,Norway,6
+1993-94,18,1,59,0,0,Sweden-2,24,Grums IK,1
+1993-94,18,0,14,2,0,WJC-B,7,Norway,2
+1993-94,18,1,6,0,0,WC-A,6,Norway,1
+1994-95,19,13,175,50,0,QMJHL,64,Laval Titan,63
+1994-95,19,0,36,3,0,WJC-B,7,Norway,3
+1995-96,20,5,125,24,0,AHL,70,Cornwall Aces,29
+1996-97,21,6,123,18,0,AHL,73,2 Teams,24
+1996-97,21,0,16,3,0,AHL,20,Hershey Bears,3
+1996-97,21,6,107,15,0,AHL,53,Providence Bruins,21
+1997-98,22,4,91,21,-39,AHL,75,Providence Bruins,25
+1998-99,23,0,4,1,0,EuroHL,3,Djurgardens IF Stockholm,1
+1998-99,23,0,10,1,0,WC-A,6,Norway,1
+1998-99,23,4,76,7,0,Sweden,48,2 Teams,11
+1998-99,23,3,52,4,0,Sweden,29,Djurgardens IF Stockholm,7
+1998-99,23,1,24,3,0,Sweden,19,AIK Solna,4
+1999-00,24,1,87,3,0,Sweden,49,AIK Solna,4
+2000-01,25,5,129,25,2,AHL,69,Springfield Falcons,30
+2001-02,26,3,28,3,0,AHL,19,Hartford Wolf Pack,6
+2001-02,26,0,16,0,0,Swiss,6,HC Fribourg-Gotteron,0
+2001-02,26,4,8,1,3,WC-B,5,Norway,5
+2002-03,27,0,82,3,0,Germany,45,Adler Mannheim,3
+2002-03,27,1,4,1,2,WC-B,5,Norway,2
+2003-04,28,0,94,21,3,AHL,71,Grand Rapids Griffins,21
+2004-05,29,8,108,24,0,Norway,40,Valerengen IF Oslo,32
+2004-05,29,3,0,6,6,Oly-PQ,3,Norway,9
+2004-05,29,1,10,2,1,Oly-Q,3,Norway,3
+2004-05,29,1,0,5,8,WC-B,5,Norway,6
+2005-06,30,0,4,0,0,Swiss,2,ZSC Lions Zurich,0
+2005-06,30,0,12,3,-2,WC-A,6,Norway,3
+2006-07,31,0,34,11,0,Norway,17,Valerengen IF Oslo,11
+2007-08,32,0,26,2,0,Norway,14,Valerengen IF Oslo,2
+2007-08,32,0,22,0,-3,WC-A,7,Norway,0
+2008-09,33,6,120,24,0,Norway,44,Stavanger Oilers,30
+2008-09,33,0,4,1,0,Oly-Q,3,Norway,1
+2008-09,33,0,12,1,-7,WC-A,6,Norway,1
+2009-10,34,2,88,22,0,Norway,40,Stjernen Hockey,24
+2010-11,35,1,136,9,0,Norway,43,Frisk-Asker IF,10

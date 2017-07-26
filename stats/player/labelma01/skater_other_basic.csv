@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1986-87,17,1,91,4,0,QMJHL,58,Hull Olympiques,5
+1987-88,18,11,236,14,0,QMJHL,63,2 Teams,25
+1987-88,18,2,24,1,0,QMJHL,11,Hull Olympiques,3
+1987-88,18,9,212,13,0,QMJHL,52,Victoriaville Tigres,22
+1988-89,19,9,202,26,0,QMJHL,62,Victoriaville Tigres,35
+1989-90,20,18,192,21,0,QMJHL,56,Victoriaville Tigres,39
+1990-91,21,1,95,4,0,AHL,25,Fredericton Canadiens,5
+1990-91,21,1,37,1,0,ECHL,5,Richmond Renegades,2
+1991-92,22,7,238,10,0,AHL,62,Fredericton Canadiens,17
+1992-93,23,0,5,2,0,IHL,5,San Diego Gulls,2
+1992-93,23,5,124,4,0,AHL,31,New Haven Senators,9
+1992-93,23,0,17,5,0,ColHL,9,Thunder Bay Thunder Hawks,5
+1993-94,24,2,133,1,0,IHL,37,Cincinnati Cyclones,3
+1994-95,25,3,173,4,0,IHL,54,Cincinnati Cyclones,7
+1995-96,26,11,268,14,0,IHL,77,2 Teams,25
+1995-96,26,6,218,11,0,IHL,57,Cincinnati Cyclones,17
+1995-96,26,5,50,3,0,IHL,20,Milwaukee Admirals,8
+1996-97,27,5,181,8,0,IHL,60,2 Teams,13
+1996-97,27,1,33,1,0,IHL,14,Milwaukee Admirals,2
+1996-97,27,4,148,7,0,IHL,46,Michigan K-Wings,11
+1997-98,28,0,0,0,0,QSPHL,1,Lachute Rapides,0
+1997-98,28,2,160,1,-17,IHL,60,Cincinnati Cyclones,3
+1998-99,29,11,182,25,23,WPHL,47,El Paso Buzzards,36
+1999-00,30,0,186,9,-14,WPHL,39,El Paso Buzzards,9

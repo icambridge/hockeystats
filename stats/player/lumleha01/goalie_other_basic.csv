@@ -1,0 +1,8 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,AHL,52,Indianapolis Capitols,3120,17,18,0,0,147,0,0,15,0,19,0,0,0,0,0,1943-44,0,2.83,0,0
+0,AHL,21,Indianapolis Capitols,1260,18,5,0,0,46,0,0,5,2,11,0,0,0,0,0,1944-45,0,2.19,0,0
+0,AHL,63,Buffalo Bisons,3780,30,36,0,0,264,0,0,2,0,25,0,0,0,0,0,1956-57,0,4.19,0,0
+0,AHL,17,Buffalo Bisons,1029,31,9,0,0,63,0,0,1,1,7,0,0,0,0,0,1957-58,0,3.67,0,0
+0,AHL,58,Providence Reds,3480,32,29,0,0,208,0,0,2,4,27,0,0,0,0,0,1958-59,0,3.59,0,0
+0,EPHL,2,Kingston Frontenacs,120,34,1,0,0,7,0,0,0,0,1,0,0,0,0,0,1960-61,0,3.50,0,0
+0,WHL,61,Winnipeg Warriors,3660,34,40,0,0,213,0,0,4,0,17,0,0,0,0,0,1960-61,0,3.49,0,0

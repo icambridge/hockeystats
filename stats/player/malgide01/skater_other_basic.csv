@@ -1,0 +1,38 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2007-08,11,0,0,3,0,Mini B,1,Biel-Bienne II U15,3
+2008-09,12,0,2,0,0,Top Mini,3,Biel-Bienne U15,0
+2008-09,12,3,0,5,0,Mini B,2,Biel-Bienne II U15,8
+2009-10,13,14,12,12,0,Top Mini,24,Biel-Bienne U15,26
+2010-11,14,13,6,9,0,Top Novizen,16,ZSC II U17,22
+2010-11,14,30,32,22,0,Top Mini,21,GC K\xc3\xbcsnacht U15,52
+2011-12,15,37,69,20,0,Top Mini,13,GC K\xc3\xbcsnacht U15,57
+2011-12,15,17,34,19,0,Elite Novize,25,ZSC U17,36
+2012-13,16,6,16,10,0,Elite Novize,7,ZSC U17,16
+2012-13,16,3,4,3,0,Internationa,8,Switzerland U18 (all),6
+2012-13,16,2,4,2,-3,WJC-18,5,Switzerland U18,4
+2012-13,16,1,0,0,-1,EYOF,3,Switzerland U17,1
+2012-13,16,10,4,11,0,Internationa,9,Switzerland U16 (all),21
+2012-13,16,15,14,11,0,Elite Jr. A,25,GCK Lions U20,26
+2012-13,16,1,0,0,0,Internationa,3,Switzerland U17 (all),1
+2013-14,17,6,6,10,0,Internationa,18,Switzerland U18 (all),16
+2013-14,17,3,2,4,4,WJC-18,5,Switzerland U18,7
+2013-14,17,1,2,2,0,Hlinka Memor,4,Switzerland U18,3
+2013-14,17,0,0,0,0,Elite Jr. A,0,GCK Lions U20,0
+2013-14,17,6,14,13,0,NLB,38,GC K\xc3\xbcsnacht Lions,19
+2014-15,18,0,0,0,0,Elite Jr. A,0,GCK Lions U20,0
+2014-15,18,0,0,0,0,Swiss Cup,1,GC K\xc3\xbcsnacht Lions,0
+2014-15,18,6,4,6,0,NLB,24,GC K\xc3\xbcsnacht Lions,12
+2014-15,18,2,8,6,4,NLA,23,ZSC Lions,8
+2014-15,18,0,0,0,-1,Champions HL,1,ZSC Lions,0
+2014-15,18,7,2,9,0,Internationa,16,Switzerland U20 (all),16
+2014-15,18,1,0,6,6,WJC-20,6,Switzerland U20,7
+2014-15,18,3,2,2,0,Internationa,7,Switzerland U18 (all),5
+2014-15,18,3,2,2,0,WJC-18,7,Switzerland U18,5
+2015-16,19,0,0,1,0,Elite Jr. A,1,GCK Lions U20,1
+2015-16,19,2,0,3,0,NLB,7,GC K\xc3\xbcsnacht Lions,5
+2015-16,19,1,0,1,0,Swiss Cup,5,ZSC Lions,2
+2015-16,19,5,12,12,5,NLA,38,ZSC Lions,17
+2015-16,19,0,0,1,2,Champions HL,3,ZSC Lions,1
+2015-16,19,3,6,8,0,Internationa,10,Switzerland U20 (all),11
+2015-16,19,1,6,8,-1,WJC-20,6,Switzerland U20,9
+2016-17,20,3,14,9,6,AHL,15,Springfield Thunderbirds,12

@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1995-96,15,33,0,20,0,CzRep-Jr.,34,AC ZPS Zlin Jr.,53
+1996-97,16,28,0,27,0,CzRep-Jr.,44,AC ZPS Zlin Jr.,55
+1997-98,17,8,0,5,0,CzRep-Jr.,7,HC ZPS Zlin Jr.,13
+1997-98,17,0,0,0,0,CzRep-2,4,BHS Prostejov,0
+1997-98,17,2,20,8,0,CzRep,37,HC ZPS Barum Zlin,10
+1997-98,17,4,8,2,0,EJC-A,6,Czech Republic,6
+1998-99,18,38,55,48,30,WHL,70,Tri-City Americans,86
+1999-00,19,26,16,25,5,WHL,45,Tri-City Americans,51
+1999-00,19,5,2,1,7,WJC-A,7,Czech Republic,6
+2000-01,20,5,20,3,-2,AHL,35,Rochester Americans,8
+2001-02,21,3,20,6,0,AHL,43,Rochester Americans,9
+2002-03,22,15,24,17,3,AHL,47,Rochester Americans,32
+2003-04,23,12,24,14,0,CzRep,52,HC Ceske Budejovice,26
+2004-05,24,5,14,10,0,CzRep,45,HC Hame Zlin,15
+2005-06,25,11,38,6,0,CzRep,52,HC Hame Zlin,17
+2006-07,26,8,22,7,0,CzRep,39,2 Teams,15
+2006-07,26,3,10,5,0,CzRep,26,HC Hame Zlin,8
+2006-07,26,5,12,2,0,CzRep,13,HC Energie Karlovy Vary,7
+2007-08,27,6,28,9,0,CzRep,51,HC Energie Karlovy Vary,15
+2008-09,28,15,22,11,0,CzRep,47,HC Energie Karlovy Vary,26
+2009-10,29,10,26,14,0,CzRep,52,2 Teams,24
+2009-10,29,8,14,10,0,CzRep,44,HC Energie Karlovy Vary,18
+2009-10,29,2,12,4,0,CzRep,8,PSG Zlin,6
+2010-11,30,14,38,32,0,Slovakia,55,HC Kosice,46
+2011-12,31,10,14,6,0,KHL,39,Lev Poprad,16

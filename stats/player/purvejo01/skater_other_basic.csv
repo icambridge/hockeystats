@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1983-84,15,24,58,35,0,MTHL,40,North York Rangers,59
+1984-85,16,15,39,14,0,OHL,55,Belleville Bulls,29
+1985-86,17,16,42,37,0,OHL,52,2 Teams,53
+1985-86,17,3,6,9,0,OHL,16,Belleville Bulls,12
+1985-86,17,13,36,28,0,OHL,36,Hamilton Steelhawks,41
+1986-87,18,12,37,11,0,OHL,28,Hamilton Steelhawks,23
+1987-88,19,39,65,44,0,OHL,64,Hamilton Steelhawks,83
+1988-89,20,39,40,63,0,OHL,47,2 Teams,102
+1988-89,20,5,2,11,0,OHL,5,Niagara Falls Thunder,16
+1988-89,20,34,38,52,0,OHL,42,North Bay Centennials,86
+1989-90,21,29,12,35,0,AHL,75,Baltimore Skipjacks,64
+1990-91,22,22,27,29,0,AHL,53,Baltimore Skipjacks,51
+1991-92,23,43,47,46,0,AHL,78,Baltimore Skipjacks,89
+1992-93,24,15,34,17,0,Germany,43,ESV Kaufbeuren,32
+1993-94,25,38,29,48,0,IHL,69,Fort Wayne Komets,86
+1994-95,26,30,16,33,0,IHL,60,Fort Wayne Komets,63
+1995-96,27,56,32,49,0,IHL,75,San Francisco Spiders,105
+1996-97,28,25,17,47,0,IHL,66,Kansas City Blades,72
+1997-98,29,28,21,31,-36,IHL,80,2 Teams,59
+1997-98,29,6,9,10,-10,IHL,21,Kansas City Blades,16
+1997-98,29,22,12,21,-26,IHL,59,San Antonio Dragons,43
+1998-99,30,24,24,39,-7,IHL,80,Utah Grizzlies,63
+1999-00,31,36,40,27,3,IHL,78,Utah Grizzlies,63
+2000-01,32,22,32,36,0,IHL,78,Utah Grizzlies,58
+2001-02,33,14,28,18,-5,AHL,57,Utah Grizzlies,32

@@ -1,0 +1,8 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,MMMHL,2,Pembina Valley Hawks,120,15,0,0,0,2,0,0,0,1,2,0,0,0,0,0,1997-98,0,1.00,0,0
+0,WHL,5,Calgary Hitmen,266,17,2,0,0,13,0,0,0,0,2,0,0,0,0,0,1999-00,0,2.93,0,0
+0,WHL,2,Calgary Hitmen,119,19,1,0,0,6,0,0,0,0,1,0,0,0,0,.908,2001-02,65,3.03,0,59
+0,WHL,15,Seattle Thunderbirds,960,20,6,0,0,38,0,0,0,2,9,0,0,0,0,.919,2002-03,471,2.37,2,433
+0,AHL,1,Lowell Lock Monsters,1,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2004-05,0,0.00,0,0
+0,AHL,1,Omaha Ak-Sar-Ben Knights,59,24,1,0,0,3,0,0,0,0,0,0,0,0,0,0,2006-07,0,3.05,0,-3
+0,AHL,11,Texas Stars,628,27,4,0,0,26,0,0,0,0,7,0,0,0,0,.924,2009-10,342,2.48,0,316

@@ -1,0 +1,7 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,QMJHL,1,Halifax Mooseheads,17,16,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1998-99,0,7.06,0,0
+0,QMJHL,5,Halifax Mooseheads,198,17,2,0,0,12,0,0,0,0,1,0,0,0,0,0,1999-00,0,3.64,0,0
+0,QMJHL,2,Halifax Mooseheads,109,18,2,0,0,10,0,0,0,0,0,0,0,0,0,0,2000-01,0,5.50,0,0
+0,QMJHL,7,Montreal Rocket,441,19,4,0,0,15,0,0,0,0,3,0,0,0,0,0,2001-02,0,2.04,2,0
+0,AHL,3,Syracuse Crunch,142,21,2,0,0,12,0,0,0,0,1,0,0,0,0,.864,2003-04,88,5.07,0,76
+0,AHL,5,Syracuse Crunch,288,23,3,0,0,11,0,0,0,1,2,0,0,0,0,.939,2005-06,181,2.29,4,170

@@ -1,0 +1,12 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,31,0,20,26,11,0,,NYR,[],15.4,3,7,0,4,0,1979-80,,1,2,0,7
+NHL,32,0,21,56,5,0,,NYR,[],7.1,4,1,-9,4,0,1980-81,,0,32,0,1
+NHL,77,4,22,195,69,14,,HAR,[],14.9,24,40,-13,29,0,1981-82,,5,39,0,26
+NHL,77,0,23,162,41,4,,HAR,[],13.6,14,19,-57,22,0,1982-83,,8,14,0,15
+NHL,67,0,24,130,19,1,,HAR,[],4.6,6,13,-11,6,0,1983-84,,0,20,0,12
+NHL,57,1,25,112,38,5,,NJD,[],19.6,16,16,-11,22,0,1984-85,,6,4,0,11
+NHL,73,5,26,139,43,4,,NJD,[],15.1,14,22,-10,21,1,1985-86,,6,20,0,18
+NHL,78,4,27,148,53,5,,NJD,"[{'link': '/awards/voting-1987.html#byng', 'name': 'Byng-13'}]",18.2,22,26,-17,27,1,1986-87,,4,14,1,20
+NHL,59,0,28,89,30,2,,NJD,[],18.0,7,14,-8,16,1,1987-88,,8,22,3,9
+NHL,52,1,29,52,12,0,,PHI,[],11.5,5,6,-8,6,1,1988-89,,0,8,1,5
+NHL,28,0,30,28,7,0,,PHI,[],10.7,3,4,4,3,0,1989-90,,0,0,0,4

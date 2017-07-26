@@ -1,0 +1,16 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+0.8,0,NHL,5,PHI,280,21,2,0,0,16,0,0,1,0,1,0,0,0,0,0,1978-79,0,3.43,6,[],0
+8.8,0,NHL,40,PHI,2373,22,5,0,0,108,0,0,5,1,29,0,0,0,0,0,1979-80,0,2.73,28,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-1980.html#calder', 'name': 'Calder-3'}]",0
+8.7,0,NHL,40,PHI,2333,23,12,0,1,115,0,0,5,2,22,1,0,0,0,0,1980-81,0,2.96,8,"[{'link': '/awards/voting-1981.html#AS', 'name': 'AS-5'}]",0
+7.8,0,NHL,44,PHI,2591,24,18,0,1,160,0,0,3,0,23,1,0,0,0,0,1981-82,0,3.71,19,[],0
+0,0,NHL,62,BOS,3611,25,11,0,2,142,0,0,9,0,0,2,0,0,0,0,1982-83,0,0,33,"[{'link': '/awards/nhl_all_star.html#1983', 'name': None}, {'link': '/awards/voting-1983.html#hart', 'name': 'Hart-2'}, {'link': '/awards/vezina.html#1983', 'name': None}]",0
+6.8,0,NHL,50,BOS,2868,26,16,98,0,151,0,3.60,2,0,29,0,0,0,0,.876,1983-84,1222,3.16,36,"[{'link': '/awards/voting-1984.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-1984.html#vezina', 'name': 'Vezina-10'}]",1071
+6.4,0,NHL,51,BOS,2975,27,26,105,0,172,0,-8.07,4,1,19,0,0,0,0,.868,1984-85,1307,3.47,20,[],1135
+6.2,0,NHL,42,TOT,2506,28,15,99,2,144,0,1.21,4,1,22,2,0,0,0,.875,1985-86,1155,3.45,12,[],1011
+1.3,0,NHL,8,BOS,485,28,4,0,2,31,0,0,1,0,3,2,0,0,0,.873,1985-86,245,3.84,4,[],214
+4.9,0,NHL,34,WSH,2021,28,11,99,0,113,0,1.41,3,1,19,0,0,0,0,.876,1985-86,910,3.35,8,[],797
+5.4,0,NHL,37,WSH,2002,29,11,96,4,107,0,4.56,4,0,17,4,0,0,0,.885,1986-87,930,3.21,16,[],823
+5.9,0,NHL,35,WSH,1896,30,12,85,1,88,0,16.06,5,2,14,1,0,0,0,.898,1987-88,866,0,10,"[{'link': '/awards/voting-1988.html#AS', 'name': 'AS-10'}]",778
+4.8,0,NHL,33,WSH,1854,31,7,92,1,88,0,7.27,3,4,20,1,0,0,0,.889,1988-89,790,2.85,8,"[{'link': '/awards/voting-1989.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-1989.html#vezina', 'name': 'Vezina-11'}]",702
+3.3,0,NHL,24,PHI,1140,32,13,100,1,72,0,0.03,5,1,1,1,0,0,0,.881,1989-90,606,3.79,2,[],534
+4.3,0,NHL,26,PHI,1270,33,7,86,1,61,0,10.01,1,1,9,1,0,0,0,.902,1990-91,623,2.88,14,[],562

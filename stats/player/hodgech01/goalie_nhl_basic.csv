@@ -1,0 +1,14 @@
+goals_allowed_precentage,goalie_point_share,goals_saved_aboved_average,bad_start,year,awards,goals_allowed,minutes,ties,pim,good_starts,saves,shots_againist,assists,team,shutouts,goals,games_started,goals_allowed_average,age,league,saves_percentage,good_start_precentages,games_played,points,wins,loses
+0,2.7,0,0,1954-55,[],31,820,4,0,0,0,0,0,MTL,1,0,0,2.27,21,NHL,0,0,14,0,6,4
+0,2.2,0,0,1957-58,[],31,720,2,0,0,0,0,0,MTL,1,0,0,2.58,24,NHL,0,0,12,0,8,2
+0,0.3,0,0,1958-59,[],6,120,0,0,0,0,0,0,MTL,0,0,0,3.00,25,NHL,0,0,2,0,1,1
+0,0.2,0,0,1959-60,[],3,60,0,0,0,0,0,0,MTL,0,0,0,3.00,26,NHL,0,0,1,0,0,1
+0,6.3,0,0,1960-61,[],74,1800,4,0,0,0,0,0,MTL,4,0,0,0,27,NHL,0,0,30,0,18,8
+0,13.3,0,0,1963-64,"[{'link': '/awards/nhl_all_star.html#1964', 'name': None}, {'link': '/awards/voting-1964.html#hart', 'name': 'Hart-4'}, {'link': '/awards/vezina.html#1964', 'name': None}]",140,3720,11,2,0,0,0,0,MTL,0,0,0,2.26,30,NHL,0,0,62,0,33,18
+0,10.3,0,0,1964-65,"[{'link': '/awards/nhl_all_star.html#1965', 'name': None}, {'link': '/awards/voting-1965.html#hart', 'name': 'Hart-5'}]",135,3180,0,2,0,0,0,0,MTL,3,0,0,2.55,31,NHL,0,0,53,0,26,16
+0,4.5,0,0,1965-66,"[{'link': '/awards/vezina.html#1966', 'name': None}]",56,1301,2,0,0,0,0,0,MTL,1,0,0,2.58,32,NHL,0,0,26,0,12,7
+0,6.9,0,0,1966-67,[],88,2055,7,2,0,0,0,0,MTL,3,0,0,2.57,33,NHL,0,0,37,0,11,15
+0,8.4,0,0,1967-68,[],158,3311,0,4,0,0,0,0,OAK,3,0,0,2.86,34,NHL,0,0,58,0,13,0
+0,1.2,0,0,1968-69,[],48,781,1,0,0,0,0,0,OAK,0,0,0,3.69,35,NHL,0,0,14,0,4,6
+0,1.3,0,0,1969-70,[],43,738,2,0,0,0,0,0,OAK,0,0,0,3.50,36,NHL,0,0,14,0,3,5
+0,4.4,0,0,1970-71,[],112,1967,5,0,0,0,0,0,VAN,0,0,0,3.42,37,NHL,0,0,35,0,15,13

@@ -1,0 +1,11 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,ConHL,1,Chicago Cardinals,60,22,1,0,0,6,0,0,0,0,0,0,0,0,0,0,1979-80,0,6.00,0,0
+0,IHL,42,2 Teams,2327,22,0,0,0,133,0,0,0,1,0,0,0,0,0,0,1979-80,0,3.43,0,0
+0,IHL,2,Flint Generals,119,22,0,0,0,5,0,0,0,0,0,0,0,0,0,0,1979-80,0,2.52,0,0
+0,IHL,40,Fort Wayne Komets,2208,22,0,0,0,128,0,0,0,1,0,0,0,0,0,0,1979-80,0,3.48,0,0
+0,AHL,34,New Brunswick Hawks,1915,23,18,0,0,131,0,0,1,0,11,0,0,0,0,0,1980-81,0,4.10,0,0
+0,AHL,53,New Brunswick Hawks,3224,24,13,0,0,153,0,0,7,2,32,0,0,0,0,0,1981-82,0,2.85,0,0
+0,AHL,47,Springfield Indians,2754,25,24,0,0,167,0,0,4,3,19,0,0,0,0,0,1982-83,0,3.64,0,0
+0,AHL,30,Springfield Indians,1644,26,11,0,0,94,0,0,4,0,14,0,0,0,0,0,1983-84,0,3.43,0,0
+0,AHL,37,New Haven Nighthawks,2162,30,13,0,0,125,0,0,3,1,19,0,0,0,0,0,1987-88,0,3.47,0,0
+0,AHL,34,New Haven Nighthawks,1992,31,13,0,0,131,0,0,6,1,14,0,0,0,0,0,1988-89,0,3.95,0,0

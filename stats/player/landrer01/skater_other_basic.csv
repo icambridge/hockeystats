@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1992-93,18,15,98,11,0,QAAA,40,Abitibi Regents,26
+1993-94,19,42,128,33,0,QMJHL,69,St-Hyacinthe Laser,75
+1994-95,20,38,249,36,-8,QMJHL,68,St-Hyacinthe Laser,74
+1995-96,21,7,46,3,0,QMJHL,7,St-Hyacinthe Laser,10
+1995-96,21,19,187,33,0,AHL,74,Cape Breton Oilers,52
+1996-97,22,15,139,17,0,AHL,74,Hamilton Bulldogs,32
+1997-98,23,17,194,21,7,AHL,61,Saint John Flames,38
+1997-98,23,0,0,0,0,WC-A,2,United States,0
+1998-99,24,19,158,22,4,AHL,56,Saint John Flames,41
+1999-00,25,35,170,31,10,AHL,79,Kentucky Thoroughblades,66
+2000-01,26,14,90,18,8,AHL,27,Quebec Citadelles,32
+2001-02,27,32,125,43,13,AHL,63,Quebec Citadelles,75
+2002-03,28,26,119,36,8,AHL,73,Utah Grizzlies,62
+2003-04,29,21,90,27,0,Swiss,47,Lausanne HC,48
+2003-04,29,3,37,2,0,Swiss-Q,8,Lausanne HC,5
+2004-05,30,18,88,21,0,Swiss,41,Lausanne HC,39
+2005-06,31,20,118,16,0,Swiss,40,EHC Basel,36
+2006-07,32,9,72,11,0,Swiss,43,2 Teams,20
+2006-07,32,4,40,5,0,Swiss,16,EHC Basel,9
+2006-07,32,5,32,6,0,Swiss,27,SC Bern,11
+2007-08,33,10,52,6,0,Russia,41,Dynamo Moscow,16
+2008-09,34,14,77,15,0,KHL,42,Dynamo Moscow,29
+2009-10,35,5,74,10,0,KHL,54,Atlant Moscow Region,15
+2010-11,36,10,14,12,0,Swiss,31,HC Ambri-Piotta,22

@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1977-10-15,", ",C,Mark Hartigan,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",C,1977-10-15,Mark Hartigan

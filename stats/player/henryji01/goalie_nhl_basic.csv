@@ -1,0 +1,10 @@
+goals_allowed_precentage,goalie_point_share,goals_saved_aboved_average,bad_start,year,awards,goals_allowed,minutes,ties,pim,good_starts,saves,shots_againist,assists,team,shutouts,goals,games_started,goals_allowed_average,age,league,saves_percentage,good_start_precentages,games_played,points,wins,loses
+0,8.6,0,0,1941-42,[],143,0,2,0,0,0,0,0,NYR,1,0,0,2.90,21,NHL,0,0,0,0,0,17
+0,1.1,0,0,1945-46,[],42,623,2,0,0,0,0,0,NYR,1,0,0,4.04,25,NHL,0,0,11,0,1,7
+0,0.1,0,0,1946-47,[],9,120,0,0,0,0,0,0,NYR,0,0,0,4.50,26,NHL,0,0,2,0,0,2
+0,6.8,0,0,1947-48,[],153,2880,0,0,0,0,0,0,NYR,2,0,0,3.19,27,NHL,0,0,48,0,17,18
+0,5.0,0,0,1948-49,[],0,0,8,0,0,0,0,0,CBH,0,0,0,3.52,28,NHL,0,0,0,0,21,0
+0,12.3,0,0,1951-52,"[{'link': '/awards/nhl_all_star.html#1952', 'name': None}, {'link': '/awards/voting-1952.html#hart', 'name': 'Hart-3'}]",176,0,0,0,0,0,0,0,BOS,7,0,0,2.51,31,NHL,0,0,0,0,25,29
+0,11.1,0,0,1952-53,[],172,0,13,0,0,0,0,0,BOS,8,0,0,2.46,32,NHL,0,0,0,0,28,29
+0,10.1,0,0,1953-54,[],181,0,10,0,0,0,0,0,BOS,8,0,0,2.59,33,NHL,0,0,0,0,32,28
+0,2.9,0,0,1954-55,[],79,1572,6,0,0,0,0,0,BOS,1,0,0,3.02,34,NHL,0,0,27,0,8,12

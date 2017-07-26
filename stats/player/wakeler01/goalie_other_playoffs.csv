@@ -1,0 +1,10 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,MJHL,5,Winnipeg Braves,300,17,3,0,0,20,0,0,0,0,2,0,0,0,0,0,1957-58,0,4.00,0,0
+0,MJHL,8,Winnipeg Braves,490,18,1,0,0,22,0,0,0,1,7,0,0,0,0,0,1958-59,0,2.69,0,0
+0,M-Cup,16,Winnipeg Braves,960,18,4,0,0,45,0,0,0,1,12,0,0,0,0,0,1958-59,0,2.81,0,0
+0,MJHL,4,Winnipeg Braves,250,19,3,0,0,15,0,0,0,0,1,0,0,0,0,0,1959-60,0,3.60,0,0
+0,MJHL,3,Winnipeg Braves,210,20,3,0,0,14,0,0,0,0,0,0,0,0,0,0,1960-61,0,4.00,0,0
+0,CPHL,10,Omaha Knights,600,23,2,0,0,19,0,0,0,3,8,0,0,0,0,0,1963-64,0,1.90,0,0
+0,AHL,4,Quebec Aces,240,24,3,0,0,17,0,0,0,0,1,0,0,0,0,0,1964-65,0,4.25,0,0
+0,AHL,5,Cleveland Barons,301,26,3,0,0,10,0,0,0,0,2,0,0,0,0,0,1966-67,0,1.99,0,0
+0,AHL,5,Cleveland Barons,304,28,3,0,0,20,0,0,0,0,2,0,0,0,0,0,1968-69,0,3.95,0,0

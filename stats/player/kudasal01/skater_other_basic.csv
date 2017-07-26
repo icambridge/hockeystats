@@ -1,0 +1,43 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1986-87,15,0,0,0,0,USSR-2,2,Kristall Elektrostal,0
+1987-88,16,4,6,1,0,USSR-2,18,Kristall Elektrostal,5
+1988-89,17,6,4,5,0,USSR-2,42,Kristall Elektrostal,11
+1988-89,17,5,2,1,0,EJC-A,6,Soviet Union,6
+1989-90,18,0,14,5,0,USSR,45,Krylja Sovetov Moscow,5
+1989-90,18,0,0,0,0,Fr-Tour,1,Krylja Sovetov Moscow,0
+1989-90,18,2,0,1,0,WJC-A,7,Soviet Union,3
+1990-91,19,9,10,5,0,USSR,45,Krylja Sovetov Moscow,14
+1990-91,19,0,0,0,0,Fr-Tour,1,Krylja Sovetov Moscow,0
+1990-91,19,2,6,8,0,WJC-A,7,Soviet Union,10
+1991-92,20,9,14,16,0,CIS,42,Krylja Sovetov Moscow,25
+1991-92,20,0,0,0,0,CIS-2,2,Kristall Elektrostal,0
+1992-93,21,8,24,20,0,CIS,41,Krylja Sovetov Moscow,28
+1993-94,22,2,0,0,0,CIS,1,Krylja Sovetov Moscow,2
+1993-94,22,7,21,15,0,AHL,27,St. John\'s Maple Leafs,22
+1993-94,22,1,4,2,0,Olympics,8,Russia,3
+1994-95,23,25,17,54,0,AHL,75,St. John\'s Maple Leafs,79
+1995-96,24,7,18,22,0,AHL,33,Carolina Panthers,29
+1995-96,24,7,4,8,0,Germany,9,Dusseldorfer EG,15
+1996-97,25,13,16,16,0,Germany,48,Dusseldorfer EG,29
+1997-98,26,8,34,31,0,Finland,48,TPS Turku,39
+1997-98,26,1,2,2,0,WC-A,3,Russia,3
+1998-99,27,8,32,8,0,Russia,41,Ak Bars Kazan,16
+1998-99,27,0,6,2,0,WC-A,6,Russia,2
+1999-00,28,12,20,12,0,Russia,37,Dynamo Moscow,24
+1999-00,28,0,4,1,-3,WC-A,6,Russia,1
+2000-01,29,12,42,18,0,Russia,44,Dynamo Moscow,30
+2001-02,30,11,44,18,0,Russia,51,Dynamo Moscow,29
+2002-03,31,12,34,12,0,Russia,37,Dynamo Moscow,24
+2003-04,32,5,22,9,0,Russia,51,Dynamo Moscow,14
+2004-05,33,8,28,20,0,Russia,40,2 Teams,28
+2004-05,33,0,2,6,0,Russia,10,Dynamo Moscow,6
+2004-05,33,8,26,14,0,Russia,30,CSKA Moscow,22
+2005-06,34,5,48,22,0,Russia,49,CSKA Moscow,27
+2006-07,35,5,42,13,0,Russia,45,2 Teams,18
+2006-07,35,0,18,3,0,Russia,21,Khimik Moscow Region,3
+2006-07,35,5,24,10,0,Russia,24,Lokomotiv Yaroslavl,15
+2007-08,36,8,66,26,0,Russia,57,Lokomotiv Yaroslavl,34
+2008-09,37,9,20,23,0,KHL,56,Lokomotiv Yaroslavl,32
+2009-10,38,8,6,14,0,KHL,36,HK MVD Moscow Region,22
+2010-11,39,5,24,12,0,KHL,43,OHK Dynamo Moscow,17
+2011-12,40,3,31,3,0,KHL,37,OHK Dynamo Moscow,6

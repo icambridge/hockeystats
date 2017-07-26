@@ -1,0 +1,13 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1991-92,15,20,30,20,0,QAHA,28,Montreal-Bourassa,40
+1992-93,16,8,50,20,0,QAAA,37,Montreal-Bourassa,28
+1993-94,17,11,132,11,0,QMJHL,70,St-Jean Lynx,22
+1994-95,18,19,259,22,-1,QMJHL,62,St-Jean Lynx,41
+1995-96,19,20,260,24,1,QMJHL,41,3 Teams,44
+1995-96,19,8,76,13,-5,QMJHL,11,Laval Titan,21
+1995-96,19,3,59,4,-6,QMJHL,8,St-Hyacinthe Laser,7
+1995-96,19,9,125,7,12,QMJHL,22,Granby Predateurs,16
+1996-97,20,14,179,20,0,AHL,73,Hamilton Bulldogs,34
+1997-98,21,10,154,20,6,AHL,46,Hamilton Bulldogs,30
+1998-99,22,6,93,8,-2,AHL,25,Hamilton Bulldogs,14
+2004-05,28,11,24,5,0,Sweden-3,16,AIK Solna,16

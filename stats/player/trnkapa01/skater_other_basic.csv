@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1993-94,17,0,0,1,0,CzRep,12,HC Skoda Plzen,1
+1993-94,17,0,6,1,0,EJC-A,5,Czech Republic,1
+1994-95,18,0,8,0,0,WJC-A,7,Czech Republic,0
+1994-95,18,0,24,5,0,CzRep,34,2 Teams,5
+1994-95,18,0,24,5,0,CzRep,28,HC Kladno,5
+1994-95,18,0,0,0,0,CzRep,6,HC Interconex Plzen,0
+1995-96,19,2,44,6,0,AHL,69,Baltimore Bandits,8
+1996-97,20,6,86,14,0,AHL,69,Baltimore Bandits,20
+1997-98,21,3,28,5,-2,AHL,23,Cincinnati Mighty Ducks,8
+2002-03,26,1,6,0,-1,WC-A,5,Czech Republic,1
+2004-05,28,7,103,10,0,CzRep,47,HC Lasselsberger Plzen,17
+2005-06,29,8,40,6,0,CzRep,38,HC Lasselsberger Plzen,14
+2005-06,29,0,8,3,0,Sweden,7,Leksands IF,3
+2005-06,29,0,14,1,0,Sweden-Q,9,Leksands IF,1
+2006-07,30,3,62,2,0,CzRep,28,HC Lasselsberger Plzen,5
+2006-07,30,0,36,1,0,Sweden,20,IF Malmo Redhawks,1
+2006-07,30,0,4,0,0,Sweden-Q,10,IF Malmo Redhawks,0
+2007-08,31,1,72,4,0,CzRep,54,HC Vitkovice Steel,5
+2008-09,32,1,20,8,0,CzRep,31,HC Vitkovice Steel,9
+2009-10,33,1,42,6,0,CzRep,46,HC Vitkovice Steel,7
+2010-11,34,2,48,7,0,CzRep,49,HC Vitkovice Steel,9
+2011-12,35,0,16,5,0,CzRep,34,HC Vitkovice Steel,5

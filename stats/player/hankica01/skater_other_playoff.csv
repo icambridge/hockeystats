@@ -1,7 +1,7 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-2,1999-00,Cleveland Lumberjacks,0,0,23,2,0,0,IHL
-2,2000-01,Norfolk Admirals,4,0,24,9,9,5,AHL
-0,2001-02,Norfolk Admirals,2,0,25,4,3,1,AHL
-10,2002-03,Norfolk Admirals,3,2,26,9,7,4,AHL
-10,2003-04,Cincinnati Mighty Ducks,1,0,27,9,5,4,AHL
-36,2004-05,Cincinnati Mighty Ducks,4,1,28,12,6,2,AHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Cleveland Lumberjacks,0,1999-00,2,0,2,23,0,IHL
+4,Norfolk Admirals,5,2000-01,9,9,2,24,0,AHL
+2,Norfolk Admirals,1,2001-02,4,3,0,25,0,AHL
+3,Norfolk Admirals,4,2002-03,9,7,10,26,2,AHL
+1,Cincinnati Mighty Ducks,4,2003-04,9,5,10,27,0,AHL
+4,Cincinnati Mighty Ducks,2,2004-05,12,6,36,28,1,AHL

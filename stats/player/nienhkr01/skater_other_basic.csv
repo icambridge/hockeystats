@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1980-81,19,7,24,10,0,ON-Jr.B,34,Sarnia Bees,17
+1981-82,20,25,0,27,0,ON-Jr.B,41,Sarnia Bees,52
+1982-83,21,9,34,11,0,ECAC,24,RPI Engineers,20
+1983-84,22,10,26,12,0,ECAC,35,RPI Engineers,22
+1984-85,23,11,55,10,0,ECAC,36,RPI Engineers,21
+1986-87,25,10,44,17,0,AHL,54,Moncton Golden Flames,27
+1987-88,26,16,57,17,0,AHL,36,Maine Mariners,33
+1988-89,27,0,12,0,0,Nat-Tm,4,Canada,0
+1988-89,27,23,80,28,0,W.German,35,ESV Kaufbeuren,51
+1989-90,28,7,18,4,0,W.German,13,Mannheimer ERC,11
+1990-91,29,31,66,22,0,Austria,30,Klagenfurter AC,53
+1990-91,29,3,0,1,0,IHL,3,Albany Choppers,4
+1991-92,30,21,0,15,0,Austria,26,Klagenfurter AC,36
+1992-93,31,14,0,13,0,Austria,18,Klagenfurter AC,27
+1993-94,32,8,0,12,0,Austria,22,Klagenfurter AC,20
+1994-95,33,53,93,38,0,Slovenia,36,HK Olimpija Ljubljana,91
+1995-96,34,9,8,10,0,Alpenliga,10,HK Olimpija Ljubljana,19
+1995-96,34,31,32,25,0,Slovenia,33,HK Olimpija Ljubljana,56
+1995-96,34,0,12,0,0,WC-A,6,Austria,0
+1996-97,35,12,79,22,0,Germany,48,EHC Eisbaren Berlin,34
+1997-98,36,4,2,4,0,BH-Cup,12,Nottingham Panthers,8
+1997-98,36,21,43,24,0,Britain,42,Nottingham Panthers,45
+1998-99,37,4,12,6,0,Alpenliga,7,SG Cortina,10
+1998-99,37,15,12,22,18,UHL,29,Port Huron Border Cats,37
+1999-00,38,13,33,22,10,UHL,37,Port Huron Border Cats,35
+2000-01,39,9,28,10,0,UHL,16,Port Huron Border Cats,19

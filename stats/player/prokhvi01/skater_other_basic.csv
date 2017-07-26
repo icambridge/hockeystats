@@ -1,0 +1,33 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1983-84,17,0,0,0,0,USSR,5,Spartak Moscow,0
+1984-85,18,1,10,1,0,USSR,31,Spartak Moscow,2
+1985-86,19,3,4,9,0,USSR,29,Spartak Moscow,12
+1986-87,20,1,2,6,0,USSR,27,Spartak Moscow,7
+1987-88,21,5,4,0,0,USSR,19,Spartak Moscow,5
+1987-88,21,3,4,3,0,USSR-2,16,Kristall Elektrostal,6
+1988-89,22,11,10,5,0,USSR,37,Spartak Moscow,16
+1988-89,22,1,0,0,0,USSR-3,2,Traktor Lipetsk,0
+1989-90,23,13,35,8,0,USSR,43,Spartak Moscow,21
+1989-90,23,0,0,0,0,Fr-Tour,1,Spartak Moscow,0
+1990-91,24,21,29,10,0,USSR,43,Spartak Moscow,31
+1990-91,24,0,0,1,0,Fr-Tour,1,Spartak Moscow,1
+1991-92,25,1,4,2,0,Can-Cup,5,Soviet Union,3
+1991-92,25,13,68,19,0,CIS,38,Spartak Moscow,32
+1991-92,25,2,6,4,0,Olympics,8,Russia,6
+1991-92,25,0,4,3,0,WC-A,6,Russia,3
+1993-94,27,13,16,10,0,IHL,19,Peoria Rivermen,23
+1994-95,28,1,8,4,0,CIS,8,Spartak Moscow,5
+1994-95,28,6,6,3,0,IHL,20,Peoria Rivermen,9
+1995-96,29,9,63,11,0,Sweden,37,Farjestads BK Karlstad,20
+1996-97,30,12,0,0,0,Russia-4,11,Standart Mendeleyevo,0
+1997-98,31,21,90,14,0,Russia,46,Spartak Moscow,35
+1997-98,31,0,0,1,0,WC-A,6,Russia,1
+1998-99,32,0,2,1,0,Swiss,3,HC Davos,1
+1998-99,32,7,30,9,0,Russia,28,2 Teams,16
+1998-99,32,5,22,5,0,Russia,12,CSKA Moscow,10
+1998-99,32,2,8,4,0,Russia,16,Ak Bars Kazan,6
+1999-00,33,8,8,11,0,Russia,20,Metallurg Magnitogorsk,19
+2000-01,34,7,62,12,0,Russia,39,2 Teams,19
+2000-01,34,2,8,4,0,Russia,14,Lada Togliatti,6
+2000-01,34,5,54,8,0,Russia,25,Vityaz Podolsk,13
+2001-02,35,10,30,8,0,Russia-2,32,Khimik Voskresensk,18

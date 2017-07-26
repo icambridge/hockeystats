@@ -1,0 +1,5 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+7,NHL,17,0,21,22,37,22,9,7,2,229,WSH,3,18.5,[],13.6,2,6,-2,3,5,1,2013-14,2,13:28,0,6,0,4
+24,NHL,80,1,22,377,230,127,37,43,9,1066,WSH,32,44.6,[],8.7,7,26,10,11,304,0,2014-15,15,13:20,4,24,0,17
+54,NHL,82,4,23,594,318,193,77,73,13,1428,WSH,61,47.8,"[{'link': '/awards/voting-2016.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-2016.html#byng', 'name': 'Byng-13'}, {'link': '/awards/voting-2016.html#hart', 'name': 'Hart-19'}, {'link': '/awards/voting-2016.html#selke', 'name': 'Selke-27'}]",10.4,15,57,27,20,543,0,2015-16,29,17:25,5,32,0,44
+59,NHL,0,4,24,581,325,170,59,57,11,1390,WSH,43,44.0,"[{'link': '/awards/voting-2017.html#selke', 'name': 'Selke-48'}]",11.2,16,40,18,19,456,0,2016-17,18,16:57,3,46,0,29

@@ -1,0 +1,31 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1993-94,16,0,0,0,0,Slovakia,1,Martimex ZTS Martin,0
+1994-95,17,3,39,0,0,Slovakia,25,HC Martimex ZTS Martin,3
+1994-95,17,3,2,0,0,WJC-B,7,Slovakia,3
+1995-96,18,3,8,6,0,Slovakia,25,HC Martimex ZTS Martin,9
+1995-96,18,1,2,1,0,WJC-A,6,Slovakia,2
+1996-97,19,3,0,5,0,Slovakia,35,HC Martimex ZTS Martin,8
+1996-97,19,3,0,2,0,WJC-A,6,Slovakia,5
+1997-98,20,6,10,9,0,Slovakia,26,HC Martimex ZTS Martin,15
+1998-99,21,1,6,4,0,Slovakia,26,Dukla Trencin,5
+1999-00,22,38,32,28,0,Slovak-2,40,HC Martimex ZTS Martin,66
+2000-01,23,15,22,10,0,CzRep,46,HC Continental Zlin,25
+2000-01,23,0,0,0,-1,WC-A,6,Slovakia,0
+2001-02,24,14,22,14,0,CzRep,37,HC Continental Zlin,28
+2001-02,24,0,2,3,1,WC-A,9,Slovakia,3
+2003-04,26,0,2,0,0,AHL,1,Philadelphia Phantoms,0
+2004-05,27,0,0,0,-2,W-Cup,1,Slovakia,0
+2004-05,27,1,0,0,0,Slovak-2,2,MHC Martin,1
+2004-05,27,7,24,16,0,CzRep,31,HC Vsetin,23
+2004-05,27,1,6,0,0,Sweden,8,IF Malmo Redhawks,1
+2004-05,27,1,2,3,0,Sweden-Q,10,IF Redhawks Malmo,4
+2005-06,28,5,20,15,0,Russia,37,Severstal Cherepovets,20
+2006-07,29,6,45,19,0,Russia,54,Severstal Cherepovets,25
+2006-07,29,1,2,1,0,WC-A,6,Slovakia,2
+2007-08,30,13,20,11,0,CzRep,60,HC Moeller Pardubice,24
+2007-08,30,0,2,0,0,WC-A,4,Slovakia,0
+2008-09,31,13,8,14,0,CzRep,43,HC Moeller Pardubice,27
+2009-10,32,15,28,18,0,CzRep,49,HC Eaton Pardubice,33
+2010-11,33,16,16,15,0,CzRep,46,HC Eaton Pardubice,31
+2011-12,34,9,10,9,0,CzRep,35,HC CSOB Pojistovna Pardubice,18
+2012-13,35,14,18,15,0,CzRep,51,HC CSOB Pojistovna Pardubice,29

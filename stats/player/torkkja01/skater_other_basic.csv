@@ -1,0 +1,34 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1981-82,16,15,10,10,0,Fin-Jr.,8,Lukko Rauma Jr.,25
+1981-82,16,0,0,0,0,Finland,1,Lukko Rauma,0
+1981-82,16,1,2,3,0,EJC-A,5,Finland,4
+1982-83,17,8,24,6,0,Fin-Jr.,7,Lukko Rauma Jr.,14
+1982-83,17,13,34,17,0,Finland,34,Lukko Rauma,30
+1982-83,17,6,10,1,0,EJC-A,5,Finland,7
+1983-84,18,3,2,0,0,Fin-Jr.,1,Lukko Rauma Jr.,3
+1983-84,18,41,70,25,0,Finland-2,36,Lukko Rauma,66
+1983-84,18,4,8,2,0,WJC-A,7,Finland,6
+1984-85,19,25,40,21,0,Finland,36,Lukko Rauma,46
+1984-85,19,5,8,4,0,WJC-A,7,Finland,9
+1985-86,20,0,0,1,0,Fin-Jr.,1,Lukko Rauma Jr.,1
+1985-86,20,22,40,18,0,Finland,32,Lukko Rauma,40
+1986-87,21,27,42,8,0,Finland,44,Lukko Rauma,35
+1986-87,21,5,12,2,0,WEC-A,10,Finland,7
+1987-88,22,23,54,24,0,Finland,43,Lukko Rauma,47
+1987-88,22,1,2,0,0,Olympics,4,Finland,1
+1988-89,23,30,22,42,0,IHL,72,Saginaw Hawks,72
+1989-90,24,25,50,29,0,IHL,66,Indianapolis Ice,54
+1990-91,25,23,52,26,0,Finland,44,Lukko Rauma,49
+1991-92,26,16,34,19,0,Finland,44,Lukko Rauma,35
+1992-93,27,17,38,14,0,Finland,48,Lukko Rauma,31
+1993-94,28,14,22,18,0,Finland,46,Lukko Rauma,32
+1994-95,29,14,48,30,0,Finland,33,Lukko Rauma,44
+1995-96,30,16,50,20,0,Finland,48,Lukko Rauma,36
+1996-97,31,17,80,17,0,Germany,47,Star Bulls Rosenheim,34
+1997-98,32,10,20,14,0,Germany,41,Star Bulls Rosenheim,24
+1998-99,33,7,18,7,0,Alpenliga,27,HC Merano,14
+1998-99,33,11,10,12,0,Italy,16,HC Merano,23
+1999-00,34,11,38,24,0,France,21,HC Junior Milano Vipers,35
+2000-01,35,14,16,13,0,Italy,18,HC Milano,27
+2001-02,36,8,2,2,0,Italy,11,HC Merano,10
+2001-02,36,1,2,1,0,Britain,10,Bracknell Bees,2

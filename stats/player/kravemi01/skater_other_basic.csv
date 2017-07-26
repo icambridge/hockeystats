@@ -1,0 +1,37 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1982-83,19,20,53,12,0,USSR-3,62,Izhorets Leningrad,32
+1983-84,20,34,44,17,0,USSR-2,60,Izhorets Leningrad,51
+1984-85,21,39,43,11,0,USSR-2,52,Izhorets Leningrad,50
+1985-86,22,14,20,7,0,USSR,38,SKA Leningrad,21
+1986-87,23,16,37,11,0,USSR,36,SKA Leningrad,27
+1987-88,24,9,36,5,0,USSR,44,SKA Leningrad,14
+1988-89,25,8,20,18,0,USSR,43,SKA Leningrad,26
+1989-90,26,10,36,14,0,USSR,30,SKA Leningrad,24
+1989-90,26,8,33,9,0,USSR-Q,27,SKA Leningrad,17
+1989-90,26,0,2,0,0,Fr-Tour,1,SKA Leningrad,0
+1990-91,27,8,28,8,0,USSR,25,SKA Leningrad,16
+1990-91,27,11,38,11,0,USSR-Q,28,SKA Leningrad,22
+1990-91,27,0,0,0,0,Fr-Tour,1,SKA Leningrad/Torpedo Yaroslavl,0
+1991-92,28,10,172,32,0,IHL,74,Kansas City Blades,42
+1992-93,29,19,153,49,0,IHL,71,Kansas City Blades,68
+1993-94,30,14,171,44,0,IHL,63,Kansas City Blades,58
+1994-95,31,2,8,2,0,AHL,7,Syracuse Crunch,4
+1994-95,31,7,29,15,0,IHL,44,2 Teams,22
+1994-95,31,0,4,0,0,IHL,7,Detroit Vipers,0
+1994-95,31,7,25,15,0,IHL,37,Minnesota Moose,22
+1995-96,32,14,89,57,0,CHL,37,Wichita Thunder,71
+1995-96,32,0,4,1,0,IHL,7,Milwaukee Admirals,1
+1996-97,33,22,93,45,0,ECHL,57,Louisiana IceGators,67
+1997-98,34,15,105,37,4,ECHL,53,4 Teams,52
+1997-98,34,2,37,9,-1,ECHL,11,Baton Rouge Kingfish,11
+1997-98,34,8,41,18,0,ECHL,28,Louisiana IceGators,26
+1997-98,34,1,2,0,0,ECHL,4,New Orleans Brass,1
+1997-98,34,4,25,10,5,ECHL,10,Mississippi Sea Wolves,14
+1998-99,35,17,136,42,6,ECHL,59,Mississippi Sea Wolves,59
+1999-00,36,17,91,37,-22,ECHL,53,2 Teams,54
+1999-00,36,10,64,17,-25,ECHL,30,Arkansas RiverBlades,27
+1999-00,36,7,27,20,3,ECHL,23,Mississippi Sea Wolves,27
+2000-01,37,5,62,9,0,Russia-2,18,Spartak St. Petersburg,14
+2000-01,37,0,12,0,0,Russia,8,SKA St. Petersburg,0
+2001-02,38,11,86,17,0,Russia-2,51,Spartak St. Petersburg,28
+2002-03,39,0,30,1,0,Russia-2,8,Spartak St. Petersburg,1

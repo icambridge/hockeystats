@@ -1,0 +1,15 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,QJHL,6,Quebec Citadelles,360,16,0,0,0,22,0,0,0,0,0,0,0,0,0,0,1961-62,0,3.67,0,0
+0,AHL,1,Quebec Aces,60,18,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1963-64,0,2.00,0,0
+0,QJHL,19,Thetford Mines Aces,1140,19,7,0,0,69,0,0,0,1,12,0,0,0,0,0,1964-65,0,3.63,0,0
+0,OHA-Jr.,26,Montreal Jr. Canadiens,1560,19,0,0,0,92,0,0,0,1,0,0,0,0,0,0,1964-65,0,3.54,0,0
+0,OHA-Jr.,15,Peterborough Petes,880,20,0,0,0,61,0,0,0,0,0,0,0,0,0,0,1965-66,0,4.16,0,0
+0,IHL,68,Muskegon Mohawks,4080,21,0,0,0,265,0,0,0,1,0,0,0,0,0,0,1966-67,0,3.90,0,0
+0,AHL,46,Quebec Aces,2529,22,16,0,0,132,0,0,7,0,19,0,0,0,0,0,1967-68,0,3.13,0,0
+0,CHL,29,Memphis South Stars,1682,23,0,0,0,101,0,0,0,2,0,0,0,0,0,0,1968-69,0,3.60,0,0
+0,CHL,18,Iowa Stars,1050,24,5,0,0,61,0,0,4,1,9,0,0,0,0,0,1969-70,0,3.49,0,0
+0,AHL,36,Cleveland Barons,2047,25,14,0,0,102,0,0,4,2,15,0,0,0,0,0,1970-71,0,2.99,0,0
+0,AHL,40,Cleveland Barons,2199,26,19,0,0,118,0,0,5,1,12,0,0,0,0,0,1971-72,0,3.22,0,0
+0,AHL,65,Jacksonville Barons,3643,27,0,0,0,250,0,0,0,2,0,0,0,0,0,0,1972-73,0,4.12,0,0
+0,AHL,12,New Haven Nighthawks,700,28,3,0,0,41,0,0,2,2,7,0,0,0,0,0,1973-74,0,3.51,0,0
+0,AHL,7,New Haven Nighthawks,404,29,4,0,0,26,0,0,1,0,1,0,0,0,0,0,1974-75,0,3.86,0,0

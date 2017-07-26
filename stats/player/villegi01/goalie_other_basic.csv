@@ -1,0 +1,16 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,IHL,3,Troy Bruins,180,18,2,0,0,18,0,0,0,0,1,0,0,0,0,0,1958-59,0,6.00,0,0
+0,OHA-Jr.,35,Guelph Biltmores,1980,19,0,0,0,128,0,0,0,1,0,0,0,0,0,0,1959-60,0,3.88,0,0
+0,EHL,51,New York Rovers,3060,20,34,0,0,223,0,0,1,1,16,0,0,0,0,0,1960-61,0,4.37,0,0
+0,EHL,67,3 Teams,4020,21,40,0,0,251,0,0,1,3,26,0,0,0,0,0,1961-62,0,3.75,0,0
+0,EHL,65,Long Island Ducks,3900,21,39,0,0,242,0,0,1,3,25,0,0,0,0,0,1961-62,0,3.72,0,0
+0,EHL,1,Charlotte Checkers,60,21,1,0,0,7,0,0,0,0,0,0,0,0,0,0,1961-62,0,7.00,0,0
+0,EHL,1,Johnstown Jets,60,21,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1961-62,0,2.00,0,0
+0,WHL,70,Vancouver Canucks,4200,22,31,0,0,228,0,0,4,5,35,0,0,0,0,0,1962-63,0,3.26,0,0
+0,AHL,66,Baltimore Clippers,3960,23,33,0,0,192,0,0,2,3,31,0,0,0,0,0,1963-64,0,2.91,0,0
+0,WHL,60,Vancouver Canucks,3676,24,26,0,0,212,0,0,6,2,27,0,0,0,0,0,1964-65,0,3.46,0,0
+0,WHL,69,Vancouver Canucks,4178,25,34,0,0,223,0,0,3,5,32,0,0,0,0,0,1965-66,0,3.20,0,0
+0,AHL,70,Baltimore Clippers,4180,26,27,0,0,238,0,0,9,4,34,0,0,0,0,0,1966-67,0,3.42,0,0
+0,AHL,37,Buffalo Bisons,2160,27,13,0,0,89,0,0,6,3,18,0,0,0,0,0,1967-68,0,2.47,0,0
+0,AHL,62,Buffalo Bisons,3674,28,12,0,0,148,0,0,14,6,36,0,0,0,0,0,1968-69,0,2.42,0,0
+0,AHL,65,Buffalo Bisons,3714,29,0,0,0,156,0,0,0,8,0,0,0,0,0,0,1969-70,0,2.52,0,0

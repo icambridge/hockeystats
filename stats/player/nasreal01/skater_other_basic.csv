@@ -1,0 +1,28 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1990-91,15,10,50,25,0,QAAA,35,Montreal-Bourassa,35
+1991-92,16,1,78,9,0,QMJHL,61,Drummondville Voltigeurs,10
+1992-93,17,0,137,14,0,QMJHL,64,Drummondville Voltigeurs,14
+1993-94,18,3,218,24,0,QMJHL,60,Chicoutimi Sagueneens,27
+1994-95,19,8,342,31,0,QMJHL,67,Chicoutimi Sagueneens,39
+1995-96,20,0,245,5,0,AHL,63,Carolina Panthers,5
+1996-97,21,0,109,4,0,AHL,26,Carolina Monarchs,4
+1996-97,21,0,248,2,0,IHL,49,Indianapolis Ice,2
+1997-98,22,1,258,12,5,IHL,75,Indianapolis Ice,13
+1998-99,23,0,144,11,4,AHL,45,2 Teams,11
+1998-99,23,0,36,1,-3,AHL,7,Portland Pirates,1
+1998-99,23,0,108,10,7,AHL,38,Fredericton Canadiens,10
+1999-00,24,1,190,6,-19,AHL,70,2 Teams,7
+1999-00,24,1,178,6,-16,AHL,59,Quebec Citadelles,7
+1999-00,24,0,12,0,-3,AHL,11,Hamilton Bulldogs,0
+2000-01,25,4,164,14,-17,AHL,74,Hamilton Bulldogs,18
+2001-02,26,7,154,10,9,AHL,79,Hamilton Bulldogs,17
+2002-03,27,3,114,9,7,AHL,67,Bridgeport Sound Tigers,12
+2003-04,28,2,86,7,6,AHL,70,2 Teams,9
+2003-04,28,1,70,6,0,AHL,53,Bridgeport Sound Tigers,7
+2003-04,28,1,16,1,6,AHL,17,Wilkes-Barre Penguins,2
+2004-05,29,3,129,15,5,AHL,75,Wilkes-Barre Penguins,18
+2005-06,30,0,71,12,24,AHL,71,Wilkes-Barre Penguins,12
+2006-07,31,3,25,5,9,AHL,19,Wilkes-Barre Penguins,8
+2007-08,32,6,61,10,0,AHL,67,Wilkes-Barre Penguins,16
+2008-09,33,2,64,8,0,Germany,38,Sinupret Ice Tigers Nurnberg,10
+2009-10,34,1,82,9,0,Germany,55,Thomas Sabo Ice Tigers Nurnberg,10

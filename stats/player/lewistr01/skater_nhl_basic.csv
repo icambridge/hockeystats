@@ -1,0 +1,10 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+1,NHL,6,0,22,3,16,10,3,4,0,70,LAK,0,25.0,[],10.0,1,2,0,1,1,0,2008-09,4,11:36,0,0,0,2
+1,NHL,5,0,23,5,6,4,0,8,0,46,LAK,0,0.0,[],0.0,0,0,-3,0,0,0,2009-10,3,9:08,0,0,0,0
+16,NHL,72,2,24,234,182,105,13,102,0,827,LAK,27,39.2,"[{'link': '/awards/voting-2011.html#byng', 'name': 'Byng-48'}]",2.9,3,10,-11,3,151,0,2010-11,25,11:29,0,6,0,10
+20,NHL,72,1,25,111,183,103,7,114,0,953,LAK,25,43.9,[],2.9,3,4,-3,3,87,0,2011-12,25,13:14,0,26,0,4
+9,NHL,0,2,26,33,146,92,14,83,0,730,LAK,11,48.4,[],5.4,4,9,5,5,31,1,2012-13,31,15:12,0,19,1,8
+18,NHL,73,2,27,135,201,111,11,145,0,968,LAK,14,48.5,[],5.4,5,5,-1,6,127,1,2013-14,36,13:15,0,6,0,5
+7,NHL,73,2,28,98,219,143,25,189,0,1030,LAK,16,40.2,[],6.3,8,16,8,9,66,1,2014-15,17,14:06,0,14,0,16
+22,NHL,75,1,29,154,265,167,16,168,1,1092,LAK,17,40.1,[],4.8,7,8,-10,8,103,1,2015-16,28,14:34,0,20,0,7
+12,NHL,0,3,30,66,248,145,24,174,1,1170,LAK,18,40.0,"[{'link': '/awards/voting-2017.html#selke', 'name': 'Selke-29'}]",8.3,11,12,-6,12,44,0,2016-17,30,14:16,1,30,0,11

@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2005-06,15,27,0,35,0,High-MN,31,Saint Thomas Academy,62
+2006-07,16,12,10,11,0,NAHL,31,U.S. National Team Development Program,23
+2006-07,16,2,2,8,0,U-17,8,U.S. National Team Development Program,10
+2006-07,16,6,4,13,0,U-18,17,U.S. National Team Development Program,19
+2006-07,16,4,0,7,3,WJ18-A,7,United States,11
+2007-08,17,1,4,8,5,NAHL,14,U.S. National Team Development Program,9
+2007-08,17,21,12,23,0,U-18,41,U.S. National Team Development Program,44
+2007-08,17,1,2,7,0,WJC-A,6,United States,8
+2007-08,17,3,2,2,7,WJ18-A,7,United States,5
+2008-09,18,13,29,32,1,WCHA,35,University of Minnesota,45
+2008-09,18,3,2,8,1,WJC-A,6,United States,11
+2009-10,19,9,14,19,0,WCHA,37,University of Minnesota,28
+2009-10,19,3,2,5,6,WJC-A,7,United States,8
+2009-10,19,4,0,5,-1,AHL,11,Manitoba Moose,9
+2010-11,20,10,10,18,-7,AHL,61,Manitoba Moose,28
+2011-12,21,21,18,23,8,AHL,76,Chicago Wolves,44
+2012-13,22,12,14,21,0,AHL,42,Chicago Wolves,33
+2013-14,23,0,2,1,0,AHL,2,Utica Comets,1
+2014-15,24,10,10,18,-6,AHL,35,Iowa Wild,28
+2015-16,25,0,0,1,-3,WC,9,USA,1
+2015-16,25,14,12,20,-3,AHL,40,Iowa Wild,34
+2016-17,26,6,12,12,0,AHL,25,Iowa Wild,18

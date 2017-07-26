@@ -1,0 +1,11 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,3,0,26,3,2,0,,ATF,[],0.0,0,2,2,0,0,1973-74,,0,0,0,2
+NHL,50,0,27,61,10,1,,ATF,[],1.6,1,9,7,1,0,1974-75,,0,39,0,8
+NHL,78,0,28,125,27,4,,ATF,[],6.4,7,19,21,8,0,1975-76,,1,101,0,15
+NHL,72,0,29,112,25,1,,ATF,[],3.6,4,21,0,4,0,1976-77,,0,63,1,19
+NHL,60,0,30,78,26,2,,ATF,[],3.8,3,23,25,3,0,1977-78,,0,40,1,20
+NHL,53,1,31,53,24,0,,ATF,"[{'link': '/awards/voting-1979.html#AS', 'name': 'AS-18'}]",11.3,4,18,-2,6,0,1978-79,,2,40,1,17
+NHL,69,1,32,73,19,2,,STL,[],4.1,3,16,9,3,0,1979-80,,0,79,0,14
+NHL,74,0,33,59,21,0,,STL,"[{'link': '/awards/voting-1981.html#AS', 'name': 'AS-29'}, {'link': '/awards/voting-1981.html#byng', 'name': 'Byng-16'}]",5.1,3,18,15,3,0,1980-81,,0,60,1,17
+NHL,78,0,34,89,16,0,,STL,[],2.2,2,14,19,2,0,1981-82,,0,62,0,14
+NHL,46,0,35,42,5,0,,STL,[],0.0,0,5,-7,0,0,1982-83,,0,24,0,5

@@ -1,28 +1,28 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-3,,C,14.0,64,193,14,2,25,4,27,89,Bobby Clarke,11.2,3.1,116,10,125,,80,79,8.2,23,/players/c/clarkbo01.html
-3,,C,12.3,26,309,24,1,25,8,38,41,Rick MacLeish,7.6,1.6,79,11,50,,80,29,6.1,14,/players/m/macleri01.html
-0,,RW,15.6,24,289,33,0,24,10,45,33,Reggie Leach,8.8,2.3,78,12,63,,80,53,6.5,9,/players/l/leachre01.html
-5,,LW,12.3,20,276,21,2,22,4,34,37,Bill Barber,7.2,2.1,71,8,66,,79,46,5.1,15,/players/b/barbebi01.html
-0,,LW,13.3,19,180,15,2,27,3,24,25,Ross Lonsberry,4.0,1.5,49,9,99,,80,28,2.5,4,/players/l/lonsbro01.html
-2,,RW,14.8,22,115,12,0,31,4,17,27,Gary Dornhoefer,3.3,1.3,44,3,102,,69,23,2.0,5,/players/d/dornhga01.html
-0,,C,15.0,12,140,20,1,24,2,21,16,Bill Clement,3.0,1.2,37,1,42,,68,21,1.8,3,/players/c/clemebi01.html
-0,,D,6.7,14,164,9,1,25,4,11,21,Andre Dupont,8.4,6.6,32,2,276,,80,41,1.8,6,/players/d/duponan01.html
-0,,C,9.6,18,104,9,0,24,2,10,21,Orest Kindrachuk,1.5,0.8,31,1,72,,60,8,0.8,3,/players/k/kindror01.html
-0,,LW,10.4,18,106,11,0,24,1,11,18,Bob Kelly,1.6,1.2,29,0,99,,67,21,0.4,0,/players/k/kellybo02.html
-0,,D,5.2,10,174,4,0,22,3,9,20,Tom Bladon,7.9,6.4,29,5,54,,76,42,1.5,10,/players/b/bladoto01.html
-0,,RW,8.8,17,113,10,1,25,2,10,18,Don Saleski,1.1,0.8,28,0,107,,63,7,0.4,0,/players/s/salesdo01.html
-1,,C,11.4,15,70,7,1,31,1,8,19,Terry Crisp,0.8,1.0,27,0,20,,71,11,-0.2,3,/players/c/crispte01.html
-0,,LW,9.7,15,93,9,0,25,0,9,17,Dave Schultz,0.7,1.2,26,0,472,,76,16,-0.4,2,/players/s/schulda01.html
-0,,D,6.2,14,113,6,0,22,2,7,18,Jimmy Watson,7.2,6.0,25,1,72,,68,41,1.2,4,/players/w/watsoji02.html
-0,,D,5.2,13,115,6,0,31,0,6,17,Joe Watson,7.3,6.6,23,0,42,,80,42,0.7,4,/players/w/watsojo01.html
-0,,D,1.8,14,57,1,2,34,0,1,17,Ed Van Impe,6.3,6.4,18,0,109,,78,39,-0.1,1,/players/v/vanimed01.html
-0,,D,8.1,3,37,2,0,22,0,3,9,Larry Goodenough,2.6,1.7,12,1,0,,20,12,0.8,6,/players/g/goodela01.html
-0,,D,2.6,6,38,1,0,38,1,1,6,Ted Harris,4.4,5.2,7,0,48,,70,27,-0.8,0,/players/h/harrite01.html
-0,,RW,33.3,0,3,1,0,20,0,1,0,Bob Sirois,0.1,0.1,1,0,4,,3,1,0.0,0,/players/s/siroibo01.html
-0,,RW,,0,0,0,0,25,0,0,0,Mike Boland,-0.1,0.0,0,0,0,,2,0,-0.1,0,/players/b/bolanmi01.html
-0,,D,0.0,0,6,0,0,24,0,0,0,Serge Lajeunesse,0.2,0.3,0,0,2,,5,1,-0.1,0,/players/l/lajeuse01.html
-0,,D,0.0,0,1,0,0,22,0,0,0,Jack McIlhargey,0.0,0.0,0,0,11,,2,-1,0.0,0,/players/m/mcilhja01.html
-0,,LW,,0,0,0,0,22,0,0,0,Randy Osburn,0.0,0.0,0,0,0,,1,0,0.0,0,/players/o/osburra01.html
-0,,G,,0,0,0,0,29,0,0,0,Bernie Parent,18.6,0.0,0,0,16,,68,0,0.0,0,/players/p/parenbe01.html
-0,,G,,0,0,0,0,30,0,0,0,Wayne Stephenson,2.3,0.0,0,0,0,,12,0,0.0,0,/players/s/stephwa01.html
-0,,G,,0,0,0,0,30,0,0,0,Bobby Taylor,-0.2,0.0,0,0,2,,3,0,0.0,0,/players/t/taylobo02.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+89,4,27,25,,8.2,3.1,14,,23,C,11.2,64,PHI,/players/c/clarkbo01.html,2,125,10,79,Bobby Clarke,14.0,1975,116,3,80,193
+41,8,38,25,,6.1,1.6,24,,14,C,7.6,26,PHI,/players/m/macleri01.html,1,50,11,29,Rick MacLeish,12.3,1975,79,3,80,309
+33,10,45,24,,6.5,2.3,33,,9,RW,8.8,24,PHI,/players/l/leachre01.html,0,63,12,53,Reggie Leach,15.6,1975,78,0,80,289
+37,4,34,22,,5.1,2.1,21,,15,LW,7.2,20,PHI,/players/b/barbebi01.html,2,66,8,46,Bill Barber,12.3,1975,71,5,79,276
+25,3,24,27,,2.5,1.5,15,,4,LW,4.0,19,PHI,/players/l/lonsbro01.html,2,99,9,28,Ross Lonsberry,13.3,1975,49,0,80,180
+27,4,17,31,,2.0,1.3,12,,5,RW,3.3,22,PHI,/players/d/dornhga01.html,0,102,3,23,Gary Dornhoefer,14.8,1975,44,2,69,115
+16,2,21,24,,1.8,1.2,20,,3,C,3.0,12,PHI,/players/c/clemebi01.html,1,42,1,21,Bill Clement,15.0,1975,37,0,68,140
+21,4,11,25,,1.8,6.6,9,,6,D,8.4,14,PHI,/players/d/duponan01.html,1,276,2,41,Andre Dupont,6.7,1975,32,0,80,164
+21,2,10,24,,0.8,0.8,9,,3,C,1.5,18,PHI,/players/k/kindror01.html,0,72,1,8,Orest Kindrachuk,9.6,1975,31,0,60,104
+18,1,11,24,,0.4,1.2,11,,0,LW,1.6,18,PHI,/players/k/kellybo02.html,0,99,0,21,Bob Kelly,10.4,1975,29,0,67,106
+20,3,9,22,,1.5,6.4,4,,10,D,7.9,10,PHI,/players/b/bladoto01.html,0,54,5,42,Tom Bladon,5.2,1975,29,0,76,174
+18,2,10,25,,0.4,0.8,10,,0,RW,1.1,17,PHI,/players/s/salesdo01.html,1,107,0,7,Don Saleski,8.8,1975,28,0,63,113
+19,1,8,31,,-0.2,1.0,7,,3,C,0.8,15,PHI,/players/c/crispte01.html,1,20,0,11,Terry Crisp,11.4,1975,27,1,71,70
+17,0,9,25,,-0.4,1.2,9,,2,LW,0.7,15,PHI,/players/s/schulda01.html,0,472,0,16,Dave Schultz,9.7,1975,26,0,76,93
+18,2,7,22,,1.2,6.0,6,,4,D,7.2,14,PHI,/players/w/watsoji02.html,0,72,1,41,Jimmy Watson,6.2,1975,25,0,68,113
+17,0,6,31,,0.7,6.6,6,,4,D,7.3,13,PHI,/players/w/watsojo01.html,0,42,0,42,Joe Watson,5.2,1975,23,0,80,115
+17,0,1,34,,-0.1,6.4,1,,1,D,6.3,14,PHI,/players/v/vanimed01.html,2,109,0,39,Ed Van Impe,1.8,1975,18,0,78,57
+9,0,3,22,,0.8,1.7,2,,6,D,2.6,3,PHI,/players/g/goodela01.html,0,0,1,12,Larry Goodenough,8.1,1975,12,0,20,37
+6,1,1,38,,-0.8,5.2,1,,0,D,4.4,6,PHI,/players/h/harrite01.html,0,48,0,27,Ted Harris,2.6,1975,7,0,70,38
+0,0,1,20,,0.0,0.1,1,,0,RW,0.1,0,PHI,/players/s/siroibo01.html,0,4,0,1,Bob Sirois,33.3,1975,1,0,3,3
+0,0,0,25,,-0.1,0.0,0,,0,RW,-0.1,0,PHI,/players/b/bolanmi01.html,0,0,0,0,Mike Boland,,1975,0,0,2,0
+0,0,0,24,,-0.1,0.3,0,,0,D,0.2,0,PHI,/players/l/lajeuse01.html,0,2,0,1,Serge Lajeunesse,0.0,1975,0,0,5,6
+0,0,0,22,,0.0,0.0,0,,0,D,0.0,0,PHI,/players/m/mcilhja01.html,0,11,0,-1,Jack McIlhargey,0.0,1975,0,0,2,1
+0,0,0,22,,0.0,0.0,0,,0,LW,0.0,0,PHI,/players/o/osburra01.html,0,0,0,0,Randy Osburn,,1975,0,0,1,0
+0,0,0,29,,0.0,0.0,0,,0,G,18.6,0,PHI,/players/p/parenbe01.html,0,16,0,0,Bernie Parent,,1975,0,0,68,0
+0,0,0,30,,0.0,0.0,0,,0,G,2.3,0,PHI,/players/s/stephwa01.html,0,0,0,0,Wayne Stephenson,,1975,0,0,12,0
+0,0,0,30,,0.0,0.0,0,,0,G,-0.2,0,PHI,/players/t/taylobo02.html,0,2,0,0,Bobby Taylor,,1975,0,0,3,0

@@ -1,28 +1,28 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-0,,RW,18.5,26,248,31,0,26,7,46,39,Danny Gare,7.7,1.3,85,15,109,,73,12,6.3,13,/players/g/gareda01.html
-2,,C,20.8,34,149,27,2,27,4,31,43,Andre Savard,6.2,1.9,74,2,63,,79,32,4.2,7,/players/s/savaran01.html
-0,,LW,15.7,27,236,28,0,22,4,37,32,Tony McKegney,5.7,1.4,69,9,24,,80,11,4.3,5,/players/m/mckegto01.html
-1,,D,7.0,25,258,11,0,28,2,18,51,John Van Boxmeer,9.0,4.5,69,6,69,,80,-2,4.5,26,/players/v/vanbojo01.html
-0,,LW,12.7,26,166,10,0,26,2,21,43,Derek Smith,4.5,1.3,64,11,12,,69,14,3.2,17,/players/s/smithde02.html
-1,,LW,21.8,32,110,22,3,29,3,24,35,Craig Ramsay,4.8,2.1,59,1,12,,80,39,2.6,0,/players/r/ramsacr01.html
-0,,C,13.3,25,150,15,0,30,3,20,39,Gilbert Perreault,4.2,0.9,59,5,56,,56,3,3.3,14,/players/p/perregi01.html
-1,,RW,21.4,23,140,27,1,23,4,30,27,Ric Seiling,4.7,1.6,57,2,80,,74,20,3.2,3,/players/s/seiliri01.html
-0,,D,4.0,19,175,3,0,23,1,7,42,Richie Dunn,8.0,5.6,49,4,34,,79,21,2.3,23,/players/d/dunnri01.html
-0,,C,22.2,15,72,12,0,20,1,16,20,Alan Haworth,2.2,0.5,36,4,34,,49,-6,1.7,5,/players/h/haworal01.html
-0,,D,7.9,23,101,5,1,28,0,8,25,Jim Schoenfeld,7.0,5.6,33,3,110,,71,28,1.4,1,/players/s/schoeji01.html
-4,,C,16.0,12,94,11,1,32,2,15,13,Don Luce,1.8,1.2,28,0,19,,61,14,0.6,0,/players/l/lucedo01.html
-0,,RW,8.2,14,97,7,0,20,2,8,18,Lindy Ruff,0.7,1.0,26,1,121,,65,3,-0.3,4,/players/r/ruffli01.html
-0,,LW,20.4,12,49,8,0,32,0,10,13,Rick Dudley,1.5,0.7,23,2,10,,38,7,0.8,1,/players/d/dudleri01.html
-0,,LW,12.3,13,57,5,0,29,1,7,14,Rick Martin,1.5,0.4,21,2,20,,23,4,1.0,1,/players/m/martiri01.html
-0,,D,3.4,18,58,2,1,29,0,2,19,Bill Hajt,6.1,5.9,21,0,42,,68,38,0.2,0,/players/h/hajtbi01.html
-0,,LW,17.9,9,56,8,0,20,0,10,9,Gilles Hamel,0.5,0.5,19,2,53,,51,-8,0.0,0,/players/h/hamelgi01.html
-0,,D,6.0,11,50,3,0,20,0,3,14,Mike Ramsey,4.9,5.0,17,0,56,,72,16,-0.1,3,/players/r/ramsemi01.html
-0,,C,4.5,9,67,2,0,23,1,3,12,Rob McClanahan,-0.7,0.2,15,1,38,,53,-19,-0.9,3,/players/m/mcclaro01.html
-0,,C,19.2,8,26,2,0,21,0,5,9,J.F. Sauve,0.8,0.2,14,3,12,,20,-2,0.5,1,/players/s/sauveje01.html
-0,,D,5.6,9,54,3,0,22,1,3,9,Larry Playfair,4.0,4.5,12,0,169,,75,4,-0.5,0,/players/p/playfla01.html
-0,,RW,2.9,7,35,1,0,19,0,1,7,Steve Patrick,-0.2,0.4,8,0,25,,30,1,-0.6,0,/players/p/patrist01.html
-0,,RW,28.6,2,7,2,0,18,0,2,2,Mike Moller,0.4,0.1,4,0,0,,5,3,0.2,0,/players/m/mollemi01.html
-0,,G,,0,0,0,0,25,0,0,2,Don Edwards,10.1,0.0,2,0,0,,45,0,0.0,0,/players/e/edwardo01.html
-0,,G,,0,0,0,0,25,0,0,1,Bob Sauve,7.3,0.0,1,0,0,,35,0,0.0,0,/players/s/sauvebo01.html
-0,,C,0.0,0,1,0,0,19,0,0,0,Randy Cunneyworth,0.0,0.0,0,0,2,,1,0,0.0,0,/players/c/cunnera01.html
-0,,C,0.0,0,2,0,0,21,0,0,0,Bob Mongrain,-0.2,0.0,0,0,2,,4,-2,-0.2,0,/players/m/mongrbo01.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+39,7,46,26,,6.3,1.3,31,,13,RW,7.7,26,BUF,/players/g/gareda01.html,0,109,15,12,Danny Gare,18.5,1981,85,0,73,248
+43,4,31,27,,4.2,1.9,27,,7,C,6.2,34,BUF,/players/s/savaran01.html,2,63,2,32,Andre Savard,20.8,1981,74,2,79,149
+32,4,37,22,,4.3,1.4,28,,5,LW,5.7,27,BUF,/players/m/mckegto01.html,0,24,9,11,Tony McKegney,15.7,1981,69,0,80,236
+51,2,18,28,,4.5,4.5,11,,26,D,9.0,25,BUF,/players/v/vanbojo01.html,0,69,6,-2,John Van Boxmeer,7.0,1981,69,1,80,258
+43,2,21,26,,3.2,1.3,10,,17,LW,4.5,26,BUF,/players/s/smithde02.html,0,12,11,14,Derek Smith,12.7,1981,64,0,69,166
+35,3,24,29,,2.6,2.1,22,,0,LW,4.8,32,BUF,/players/r/ramsacr01.html,3,12,1,39,Craig Ramsay,21.8,1981,59,1,80,110
+39,3,20,30,,3.3,0.9,15,,14,C,4.2,25,BUF,/players/p/perregi01.html,0,56,5,3,Gilbert Perreault,13.3,1981,59,0,56,150
+27,4,30,23,,3.2,1.6,27,,3,RW,4.7,23,BUF,/players/s/seiliri01.html,1,80,2,20,Ric Seiling,21.4,1981,57,1,74,140
+42,1,7,23,,2.3,5.6,3,,23,D,8.0,19,BUF,/players/d/dunnri01.html,0,34,4,21,Richie Dunn,4.0,1981,49,0,79,175
+20,1,16,20,,1.7,0.5,12,,5,C,2.2,15,BUF,/players/h/haworal01.html,0,34,4,-6,Alan Haworth,22.2,1981,36,0,49,72
+25,0,8,28,,1.4,5.6,5,,1,D,7.0,23,BUF,/players/s/schoeji01.html,1,110,3,28,Jim Schoenfeld,7.9,1981,33,0,71,101
+13,2,15,32,,0.6,1.2,11,,0,C,1.8,12,BUF,/players/l/lucedo01.html,1,19,0,14,Don Luce,16.0,1981,28,4,61,94
+18,2,8,20,,-0.3,1.0,7,,4,RW,0.7,14,BUF,/players/r/ruffli01.html,0,121,1,3,Lindy Ruff,8.2,1981,26,0,65,97
+13,0,10,32,,0.8,0.7,8,,1,LW,1.5,12,BUF,/players/d/dudleri01.html,0,10,2,7,Rick Dudley,20.4,1981,23,0,38,49
+14,1,7,29,,1.0,0.4,5,,1,LW,1.5,13,BUF,/players/m/martiri01.html,0,20,2,4,Rick Martin,12.3,1981,21,0,23,57
+19,0,2,29,,0.2,5.9,2,,0,D,6.1,18,BUF,/players/h/hajtbi01.html,1,42,0,38,Bill Hajt,3.4,1981,21,0,68,58
+9,0,10,20,,0.0,0.5,8,,0,LW,0.5,9,BUF,/players/h/hamelgi01.html,0,53,2,-8,Gilles Hamel,17.9,1981,19,0,51,56
+14,0,3,20,,-0.1,5.0,3,,3,D,4.9,11,BUF,/players/r/ramsemi01.html,0,56,0,16,Mike Ramsey,6.0,1981,17,0,72,50
+12,1,3,23,,-0.9,0.2,2,,3,C,-0.7,9,BUF,/players/m/mcclaro01.html,0,38,1,-19,Rob McClanahan,4.5,1981,15,0,53,67
+9,0,5,21,,0.5,0.2,2,,1,C,0.8,8,BUF,/players/s/sauveje01.html,0,12,3,-2,J.F. Sauve,19.2,1981,14,0,20,26
+9,1,3,22,,-0.5,4.5,3,,0,D,4.0,9,BUF,/players/p/playfla01.html,0,169,0,4,Larry Playfair,5.6,1981,12,0,75,54
+7,0,1,19,,-0.6,0.4,1,,0,RW,-0.2,7,BUF,/players/p/patrist01.html,0,25,0,1,Steve Patrick,2.9,1981,8,0,30,35
+2,0,2,18,,0.2,0.1,2,,0,RW,0.4,2,BUF,/players/m/mollemi01.html,0,0,0,3,Mike Moller,28.6,1981,4,0,5,7
+2,0,0,25,,0.0,0.0,0,,0,G,10.1,0,BUF,/players/e/edwardo01.html,0,0,0,0,Don Edwards,,1981,2,0,45,0
+1,0,0,25,,0.0,0.0,0,,0,G,7.3,0,BUF,/players/s/sauvebo01.html,0,0,0,0,Bob Sauve,,1981,1,0,35,0
+0,0,0,19,,0.0,0.0,0,,0,C,0.0,0,BUF,/players/c/cunnera01.html,0,2,0,0,Randy Cunneyworth,0.0,1981,0,0,1,1
+0,0,0,21,,-0.2,0.0,0,,0,C,-0.2,0,BUF,/players/m/mongrbo01.html,0,2,0,-2,Bob Mongrain,0.0,1981,0,0,4,2

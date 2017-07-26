@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1997-98,17,2,0,4,0,Sweden-2,12,Arlanda HC Marsta,6
+1998-99,18,8,8,22,0,Sweden-2,37,Arlanda HC Marsta,30
+1999-00,19,21,14,28,0,Sweden-2,44,Arlanda HC Marsta,49
+1999-00,19,2,2,4,2,WJC-A,7,Sweden,6
+2000-01,20,15,20,11,0,Sweden,50,Brynas IF Gavle,26
+2000-01,20,1,0,0,0,Swe-Jr.,1,Brynas IF Gavle Jr.,1
+2001-02,21,9,14,17,0,Sweden,50,Brynas IF Gavle,26
+2002-03,22,17,20,36,-3,AHL,79,Cincinnati Mighty Ducks,53
+2003-04,23,16,20,34,11,AHL,67,Cincinnati Mighty Ducks,50
+2004-05,24,13,12,21,0,Sweden,50,Linkopings HC,34
+2005-06,25,16,32,30,0,Sweden,49,Linkopings HC,46
+2005-06,25,1,4,1,-1,WC-A,9,Sweden,2
+2006-07,26,18,20,36,0,Sweden,55,Linkopings HC,54
+2006-07,26,4,8,7,0,WC-A,9,Sweden,11
+2007-08,27,17,36,50,0,Sweden,55,Linkopings HC,67
+2007-08,27,4,4,5,6,WC-A,9,Sweden,9
+2008-09,28,12,22,35,0,KHL,55,Ak Bars Kazan,47
+2008-09,28,1,8,9,1,WC-A,9,Sweden,10
+2009-10,29,19,26,44,0,Sweden,55,Linkopings HC,63
+2009-10,29,2,6,4,3,WC-A,9,Sweden,6
+2010-11,30,10,28,23,0,KHL,54,SKA St. Petersburg,33
+2011-12,31,23,10,38,0,KHL,54,SKA St. Petersburg,61
+2012-13,32,20,20,23,0,KHL,52,SKA St. Petersburg,43

@@ -1,0 +1,22 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1985-86,16,53,0,34,0,QAAA,42,Ste-Foy Gouverneurs,87
+1986-87,17,33,55,35,0,QMJHL,66,Trois-Rivieres Draveurs,68
+1987-88,18,40,69,55,0,QMJHL,69,Trois-Rivieres Draveurs,95
+1988-89,19,59,107,81,0,QMJHL,66,Trois-Rivieres Draveurs,140
+1989-90,20,16,98,24,0,AHL,67,Binghamton Whalers,40
+1990-91,21,56,61,40,0,AHL,77,Springfield Indians,96
+1991-92,22,21,44,17,0,AHL,40,Springfield Indians,38
+1992-93,23,7,51,10,0,IHL,33,Kansas City Blades,17
+1993-94,24,41,99,44,0,AHL,61,Portland Pirates,85
+1994-95,25,32,58,57,0,AHL,57,P.E.I. Senators,89
+1995-96,26,37,79,45,0,AHL,55,P.E.I. Senators,82
+1996-97,27,0,0,1,0,Sweden,3,Vastra Frolunda HC Goteborg,1
+1996-97,27,46,58,55,0,IHL,82,Grand Rapids Griffins,101
+1997-98,28,28,42,41,5,IHL,58,Grand Rapids Griffins,69
+1998-99,29,2,2,2,1,IHL,6,Grand Rapids Griffins,4
+1999-00,30,33,50,35,29,IHL,65,Grand Rapids Griffins,68
+2000-01,31,31,22,39,-7,AHL,72,Philadelphia Phantoms,70
+2001-02,32,24,30,28,0,Germany,60,Adler Mannheim,52
+2002-03,33,32,34,52,8,AHL,78,Grand Rapids Griffins,84
+2003-04,34,17,35,37,2,AHL,75,Grand Rapids Griffins,54
+2004-05,35,36,22,55,0,QNAHL,60,Thetford Mines Prolab,91

@@ -1,0 +1,41 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1993-94,17,5,14,6,0,Fin-U18,10,TPS Turku U18,11
+1993-94,17,9,16,7,0,Fin-Jr.,33,TPS Turku Jr.,16
+1994-95,18,2,0,0,0,Fin-U18,1,TPS Turku U18,2
+1994-95,18,5,24,12,0,Fin-Jr.,14,TPS Turku Jr.,17
+1994-95,18,8,16,5,0,Finland-2,25,Kiekko-67 Turku,13
+1994-95,18,4,6,2,0,EJC-A,5,Finland,6
+1995-96,19,8,14,3,0,Fin-Jr.,8,TPS Turku Jr.,11
+1995-96,19,2,10,3,0,Finland,8,TPS Turku,5
+1995-96,19,10,28,11,0,Finland-2,29,Kiekko-67 Turku,21
+1995-96,19,2,2,2,0,WJC-A,6,Finland,4
+1996-97,20,1,2,1,0,Fin-Jr.,2,TPS Turku Jr.,2
+1996-97,20,9,18,10,0,Finland,47,TPS Turku,19
+1996-97,20,2,25,0,0,EuroHL,6,TPS Turku,2
+1996-97,20,5,2,4,0,WJC-A,6,Finland,9
+1997-98,21,10,8,10,0,Finland,47,TPS Turku,20
+1997-98,21,0,2,1,0,EuroHL,6,TPS Turku,1
+1998-99,22,15,20,21,0,Finland,54,TPS Turku,36
+1998-99,22,1,0,2,0,WC-A,10,Finland,3
+1999-00,23,26,40,27,0,Finland,50,TPS Turku,53
+1999-00,23,2,0,1,0,EuroHL,5,TPS Turku,3
+1999-00,23,2,0,5,0,WC-A,9,Finland,7
+2000-01,24,4,6,1,3,WC-A,9,Finland,5
+2001-02,25,1,2,2,3,Olympics,4,Finland,3
+2001-02,25,3,6,2,-1,WC-A,9,Finland,5
+2002-03,26,6,10,8,0,Sweden,10,Vastra Frolunda HC Goteborg,14
+2002-03,26,3,2,3,4,WC-A,7,Finland,6
+2003-04,27,24,54,17,0,Sweden,50,Vastra Frolunda HC Goteborg,41
+2003-04,27,2,0,5,8,WC-A,7,Finland,7
+2004-05,28,18,24,19,0,Sweden,50,Frolunda HC Goteborg,37
+2004-05,28,1,4,2,-3,WC-A,7,Finland,3
+2005-06,29,26,68,25,0,Sweden,49,Frolunda HC Goteborg,51
+2005-06,29,4,2,2,3,WC-A,9,Finland,6
+2006-07,30,18,103,36,0,Sweden,55,Frolunda HC Goteborg,54
+2006-07,30,1,33,2,2,WC-A,9,Finland,3
+2007-08,31,27,54,20,0,Sweden,54,Frolunda HC Goteborg,47
+2008-09,32,19,95,15,0,Sweden,55,Frolunda HC Goteborg,34
+2009-10,33,18,40,22,0,Sweden,55,Frolunda HC Goteborg,40
+2010-11,34,12,36,18,0,Sweden,55,Frolunda HC Goteborg,30
+2011-12,35,12,18,17,0,Sweden,43,Vaxjo Lakers HC,29
+2012-13,36,12,18,17,0,Sweden,55,Vaxjo Lakers HC,29

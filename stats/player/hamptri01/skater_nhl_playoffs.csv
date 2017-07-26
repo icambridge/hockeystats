@@ -1,2 +1,2 @@
-shorthanded_goals,power_play_goals,year,team,average_ice_time,age,points,shotsPercentage,assists,league,pim,game_winning_goals,goals,win,plus_minus,total_ice_time,games_played,even_strength_goals,shots
-0,0,1978-79,LAK,,22,0,0.0,0,NHL,0,0,0,,0,,2,0,4
+even_strength_goals,assists,team,goals,pim,age,game_winning_goals,total_ice_time,league,shorthanded_goals,shots,average_ice_time,year,games_played,shotsPercentage,win,power_play_goals,points,plus_minus
+0,0,LAK,0,0,22,0,,NHL,0,4,,1978-79,2,0.0,,0,0,0

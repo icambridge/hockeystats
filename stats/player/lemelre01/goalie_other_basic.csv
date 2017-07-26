@@ -1,0 +1,12 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,QMJHL,36,Sherbrooke Castors,1815,18,18,0,0,153,0,0,0,0,14,0,0,0,0,0,1972-73,0,5.06,0,0
+0,QMJHL,43,Sherbrooke Castors,2076,19,15,0,0,162,0,0,1,0,18,0,0,0,0,0,1973-74,0,4.68,0,0
+0,NAHL,43,Philadelphia Firebirds,2277,20,16,0,0,131,0,0,2,3,21,0,0,0,0,0,1974-75,0,3.45,0,0
+0,AHL,7,Richmond Robins,402,21,0,0,0,30,0,0,0,0,0,0,0,0,0,0,1975-76,0,4.48,0,0
+0,NAPro,29,Philadelphia Firebirds,1601,21,0,0,0,97,0,0,0,1,0,0,0,0,0,0,1975-76,0,3.64,0,0
+0,AHL,3,Springfield Indians,180,22,1,0,0,10,0,0,0,0,2,0,0,0,0,0,1976-77,0,3.33,0,0
+0,NAPro,51,Philadelphia Firebirds,2763,22,19,0,0,170,0,0,1,1,26,0,0,0,0,0,1976-77,0,3.69,0,0
+0,AHL,60,Philadelphia Firebirds,3585,23,21,0,0,177,0,0,7,4,31,0,0,0,0,0,1977-78,0,2.96,0,0
+0,AHL,13,Philadelphia Firebirds,780,24,9,0,0,36,0,0,1,0,3,0,0,0,0,0,1978-79,0,2.77,0,0
+0,CHL,38,Birmingham Bulls,2188,25,21,0,0,137,0,0,2,0,13,0,0,0,0,0,1979-80,0,3.76,0,0
+0,CHL,13,Birmingham Bulls,757,26,8,0,0,56,0,0,2,0,3,0,0,0,0,0,1980-81,0,4.44,0,0

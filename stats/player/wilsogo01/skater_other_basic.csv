@@ -1,0 +1,11 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1952-53,20,3,0,2,0,AHL,7,Hershey Bears,5
+1953-54,21,1,0,0,0,AHL,4,Hershey Bears,1
+1954-55,22,27,12,25,0,AHL,63,Hershey Bears,52
+1955-56,23,27,8,38,0,AHL,55,Hershey Bears,65
+1956-57,24,1,2,1,0,QHL,5,Quebec Aces,2
+1956-57,24,0,0,1,0,WHL,14,Victoria Cougars,1
+1957-58,25,26,4,38,0,WHL,65,Victoria Cougars,64
+1958-59,26,12,0,15,0,WHL,40,Victoria Cougars,27
+1959-60,27,5,0,7,0,WHL,43,Victoria Cougars,12
+1959-60,27,1,2,0,0,AHL,15,Quebec Aces,1

@@ -1,7 +1,7 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-4,1981-82,Saskatoon Blades,4,0,18,5,7,3,WHL
-0,1981-82,Wichita Wind,0,0,18,3,0,0,CHL
-9,1984-85,Nova Scotia Oilers,3,0,21,6,7,4,AHL
-6,1992-93,SC Bern,4,0,29,5,5,1,Swiss
-15,1993-94,Las Vegas Thunder,1,0,30,5,2,1,IHL
-4,1995-96,Augsburger Panther,5,0,32,7,9,4,Germany
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+4,Saskatoon Blades,3,1981-82,5,7,4,18,0,WHL
+0,Wichita Wind,0,1981-82,3,0,0,18,0,CHL
+3,Nova Scotia Oilers,4,1984-85,6,7,9,21,0,AHL
+4,SC Bern,1,1992-93,5,5,6,29,0,Swiss
+1,Las Vegas Thunder,1,1993-94,5,2,15,30,0,IHL
+5,Augsburger Panther,4,1995-96,7,9,4,32,0,Germany

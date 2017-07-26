@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1959-06-29,", ",D,Craig Hartsburg,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",D,1959-06-29,Craig Hartsburg

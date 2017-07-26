@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1984-85,15,3,50,18,0,SMBHL,36,Prince Albert Raiders,21
+1985-86,16,3,74,23,0,SMHL,36,Prince Albert Midget Raiders,26
+1985-86,16,0,0,0,0,WHL,4,Prince Albert Raiders,0
+1986-87,17,1,10,6,0,WHL,35,Prince Albert Raiders,7
+1987-88,18,3,59,21,0,WHL,72,Prince Albert Raiders,24
+1988-89,19,14,72,45,0,WHL,72,Prince Albert Raiders,59
+1989-90,20,13,88,42,0,WHL,69,Prince Albert Raiders,55
+1990-91,21,4,32,20,0,IHL,79,Muskegon Lumberjacks,24
+1991-92,22,6,46,35,0,IHL,80,Muskegon Lumberjacks,41
+1992-93,23,7,115,35,0,IHL,76,Cleveland Lumberjacks,42
+1993-94,24,11,69,34,0,AHL,80,Portland Pirates,45
+1994-95,25,10,76,35,0,AHL,75,Portland Pirates,45
+1995-96,26,10,38,40,0,AHL,70,Hershey Bears,50
+1996-97,27,3,32,18,0,IHL,81,Grand Rapids Griffins,21
+1997-98,28,6,36,21,15,IHL,75,Grand Rapids Griffins,27
+1998-99,29,5,26,10,0,Germany,44,Berlin Capitals,15
+1999-00,30,0,0,0,0,EuroHL,1,HIFK Helsinki,0
+1999-00,30,1,2,1,0,Finland,4,HIFK Helsinki,2
+1999-00,30,2,47,15,36,IHL,73,Grand Rapids Griffins,17
+2000-01,31,6,32,20,9,AHL,74,Rochester Americans,26
+2001-02,32,8,38,25,33,UHL,66,Muskegon Fury,33
+2001-02,32,0,8,2,0,AHL,7,Grand Rapids Griffins,2

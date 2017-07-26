@@ -1,0 +1,12 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,80,2,20,107,38,3,,CGY,[],12.1,12,25,-2,13,0,1980-81,,1,108,0,22
+NHL,74,5,21,141,67,7,,CGY,[],21.3,24,37,0,30,3,1981-82,,3,115,0,30
+NHL,0,1,22,147,41,1,,CGY,[],10.2,14,26,-5,15,0,1982-83,,1,134,0,25
+NHL,74,1,23,149,33,1,,CGY,[],7.4,11,22,-21,11,0,1983-84,,0,114,0,21
+NHL,0,1,24,174,45,0,,CGY,[],9.2,16,29,12,16,0,1984-85,,0,111,2,27
+NHL,77,3,25,161,59,0,,CGY,"[{'link': '/awards/voting-1986.html#selke', 'name': 'Selke-24'}]",14.9,23,35,31,24,1,1985-86,,0,214,0,35
+NHL,80,3,26,145,50,0,,CGY,"[{'link': '/awards/voting-1987.html#selke', 'name': 'Selke-21'}]",12.4,16,32,13,18,2,1986-87,,0,181,1,31
+NHL,75,4,27,128,51,0,,CGY,[],15.6,18,31,20,20,2,1987-88,,0,234,1,30
+NHL,79,2,28,103,38,0,,CGY,[],12.6,13,25,6,13,0,1988-89,,0,241,0,25
+NHL,6,0,29,12,1,0,,CGY,[],8.3,1,0,-1,1,0,1989-90,,0,4,0,0
+NHL,6,0,34,5,1,0,,CGY,[],0.0,0,1,-2,0,0,1994-95,,0,11,0,1

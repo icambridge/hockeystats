@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1987-88,16,0,0,0,0,Czech,3,Motor Ceske Budejovice,0
+1988-89,17,0,8,1,0,Czech,28,Motor Ceske Budejovice,1
+1988-89,17,2,12,2,0,EJC-A,6,Czechoslovakia,4
+1989-90,18,2,0,2,0,Czech,41,Motor Ceske Budejovice,4
+1990-91,19,1,6,9,0,Czech,33,Dukla Trencin,10
+1990-91,19,0,2,1,0,WJC-A,6,Czechoslovakia,1
+1991-92,20,4,0,10,0,Czech-2,14,Motor Ceske Budejovice,14
+1991-92,20,0,6,4,0,Czech,18,Dukla Trencin,4
+1992-93,21,7,62,35,0,AHL,80,Utica Devils,42
+1993-94,22,1,25,5,0,AHL,19,Albany River Rats,6
+1994-95,23,1,30,3,0,CzRep,19,HC Ceske Budejovice,4
+1994-95,23,5,14,6,0,AHL,18,Albany River Rats,11
+1996-97,25,4,37,16,0,IHL,34,2 Teams,20
+1996-97,25,3,17,12,0,IHL,23,Phoenix Roadrunners,15
+1996-97,25,1,20,4,0,IHL,11,Utah Grizzlies,5
+1997-98,26,12,72,21,13,IHL,74,Utah Grizzlies,33
+1998-99,27,6,44,29,16,IHL,64,Long Beach Ice Dogs,35
+1999-00,28,2,8,4,5,IHL,11,Long Beach Ice Dogs,6
+2002-03,31,0,4,3,2,WC-A,9,Czech Republic,3
+2004-05,33,3,24,7,0,CzRep,19,HC Bili Tygri Liberec,10
+2008-09,37,3,48,14,0,CzRep,52,HC Bili Tygri Liberec,17
+2009-10,38,9,91,18,0,CzRep,52,HC Plzen 1929,27
+2010-11,39,8,54,12,0,CzRep,52,HC Plzen 1929,20
+2011-12,40,1,37,0,0,CzRep,14,HC Plzen 1929,1

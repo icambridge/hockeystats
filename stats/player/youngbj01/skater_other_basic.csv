@@ -1,0 +1,15 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1992-93,15,48,94,60,0,AAHL,50,Anchorage North Stars,108
+1993-94,16,19,66,24,0,WHL,54,Tri-City Americans,43
+1994-95,17,11,72,12,0,WHL,51,2 Teams,23
+1994-95,17,6,39,3,0,WHL,30,Tri-City Americans,9
+1994-95,17,5,33,9,0,WHL,21,Red Deer Rebels,14
+1995-96,18,49,144,45,0,WHL,67,Red Deer Rebels,94
+1996-97,19,58,97,56,0,WHL,63,Red Deer Rebels,114
+1997-98,20,15,191,22,-4,AHL,65,Adirondack Red Wings,37
+1998-99,21,13,150,17,-7,AHL,58,Adirondack Red Wings,30
+1999-00,22,25,147,26,-19,AHL,71,Cincinnati Mighty Ducks,51
+2000-01,23,14,111,22,2,AHL,42,Cincinnati Mighty Ducks,36
+2000-01,23,8,47,7,0,IHL,33,Manitoba Moose,15
+2001-02,24,10,159,10,-10,WCHL,26,Anchorage Aces,20
+2002-03,25,17,233,25,-33,WCHL,52,Anchorage Aces,42

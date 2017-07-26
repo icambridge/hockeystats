@@ -1,0 +1,31 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1986-87,16,15,0,30,0,High-IN,39,Culver Academy Eagles,45
+1987-88,17,24,18,29,0,High-IN,35,Culver Academy Eagles,53
+1988-89,18,21,16,29,0,High-IN,19,Culver Academy Eagles,50
+1988-89,18,0,2,0,0,WJC-A,7,United States,0
+1989-90,19,13,36,23,0,WCHA,42,University of Wisconsin,36
+1989-90,19,3,0,1,0,WJC-A,7,United States,4
+1990-91,20,15,42,20,0,WCHA,43,University of Wisconsin,35
+1991-92,21,10,62,25,0,WCHA,39,University of Wisconsin,35
+1991-92,21,1,4,0,0,WC-A,4,United States,1
+1992-93,22,14,74,32,0,WCHA,42,University of Wisconsin,46
+1992-93,22,0,8,0,0,WC-A,6,United States,0
+1993-94,23,7,50,16,0,Nat-Tm,56,United States,23
+1993-94,23,0,4,3,0,Olympics,8,United States,3
+1993-94,23,0,6,0,0,WC-A,7,United States,0
+1993-94,23,0,12,9,0,AHL,21,Binghamton Rangers,9
+1994-95,24,15,54,41,0,AHL,73,Binghamton Rangers,56
+1995-96,25,20,64,61,0,AHL,69,Binghamton Rangers,81
+1996-97,26,2,4,6,0,AHL,19,Providence Bruins,8
+1997-98,27,16,47,29,-15,AHL,75,Providence Bruins,45
+1998-99,28,2,0,0,0,WC-A,6,United States,2
+1999-00,29,0,0,0,-3,AHL,2,Quebec Citadelles,0
+1999-00,29,5,6,4,1,IHL,19,Manitoba Moose,9
+2000-01,30,4,45,47,6,AHL,68,Quebec Citadelles,51
+2001-02,31,5,82,12,0,Sweden,44,Linkopings HC,17
+2002-03,32,6,74,10,0,Sweden,44,Linkopings HC,16
+2003-04,33,5,20,25,0,Swiss,47,EV Zug,30
+2004-05,34,8,43,18,0,Swiss,38,EV Zug,26
+2005-06,35,10,46,20,0,Swiss,44,EV Zug,30
+2006-07,36,9,34,20,0,Swiss,44,EV Zug,29
+2007-08,37,8,58,19,0,Swiss,44,EV Zug,27

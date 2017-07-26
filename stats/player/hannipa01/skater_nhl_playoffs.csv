@@ -1,3 +1,3 @@
-shorthanded_goals,power_play_goals,year,team,average_ice_time,age,points,shotsPercentage,assists,league,pim,game_winning_goals,goals,win,plus_minus,total_ice_time,games_played,even_strength_goals,shots
-0,0,1961-62,NYR,,25,0,0.0,0,NHL,2,0,0,,0,,4,0,1
-0,0,1967-68,PHI,,31,3,12.5,2,NHL,9,0,1,,-2,,7,1,8
+even_strength_goals,assists,team,goals,pim,age,game_winning_goals,total_ice_time,league,shorthanded_goals,shots,average_ice_time,year,games_played,shotsPercentage,win,power_play_goals,points,plus_minus
+0,0,NYR,0,2,25,0,,NHL,0,1,,1961-62,4,0.0,,0,0,0
+1,2,PHI,1,9,31,0,,NHL,0,8,,1967-68,7,12.5,,0,3,-2

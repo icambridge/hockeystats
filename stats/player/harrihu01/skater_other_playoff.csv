@@ -1,7 +1,7 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-4,Muskegon Mohawks,4,0,6,IHL,9,1967-68,19,2
-6,Muskegon Mohawks,9,0,12,IHL,11,1968-69,20,3
-6,Muskegon Mohawks,1,0,3,IHL,6,1969-70,21,2
-14,Montreal Voyageurs,0,0,0,AHL,2,1970-71,22,0
-0,Muskegon Mohawks,3,0,6,IHL,6,1970-71,22,3
-6,Cincinnati Swords,4,0,7,AHL,9,1971-72,23,3
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+4,Muskegon Mohawks,2,1967-68,9,6,4,19,0,IHL
+9,Muskegon Mohawks,3,1968-69,11,12,6,20,0,IHL
+1,Muskegon Mohawks,2,1969-70,6,3,6,21,0,IHL
+0,Montreal Voyageurs,0,1970-71,2,0,14,22,0,AHL
+3,Muskegon Mohawks,3,1970-71,6,6,0,22,0,IHL
+4,Cincinnati Swords,3,1971-72,9,7,6,23,0,AHL

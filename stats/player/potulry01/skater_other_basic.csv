@@ -1,0 +1,16 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2001-02,17,23,65,34,0,USHL,60,Lincoln Stars,57
+2002-03,18,35,18,43,32,USHL,54,Lincoln Stars,78
+2003-04,19,6,10,8,0,WCHA,15,University of Minnesota,14
+2004-05,20,24,20,17,0,WCHA,44,University of Minnesota,41
+2005-06,21,38,31,25,0,WCHA,41,University of Minnesota,63
+2006-07,22,12,34,14,1,AHL,30,Philadelphia Phantoms,26
+2007-08,23,21,51,26,-16,AHL,58,Philadelphia Phantoms,47
+2008-09,24,38,48,24,-11,AHL,70,Springfield Falcons,62
+2009-10,25,3,8,5,-3,AHL,14,Springfield Falcons,8
+2009-10,25,2,0,2,-1,WC-A,6,United States,4
+2010-11,26,21,34,28,-1,AHL,71,2 Teams,49
+2010-11,26,18,30,23,0,AHL,58,Rockford IceHogs,41
+2010-11,26,3,4,5,-1,AHL,13,Binghamton Senators,8
+2011-12,27,33,32,32,0,AHL,61,Hershey Bears,65
+2012-13,28,19,30,22,-2,AHL,66,Hershey Bears,41

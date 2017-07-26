@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1993-94,18,21,0,33,0,SJHL,60,Nipawin Hawks,54
+1994-95,19,6,28,10,0,WCHA,33,University of North Dakota,16
+1995-96,20,6,58,12,0,WCHA,38,University of North Dakota,18
+1996-97,21,12,36,30,0,WCHA,43,University of North Dakota,42
+1997-98,22,8,78,34,0,WCHA,39,University of North Dakota,42
+1998-99,23,22,60,35,0,IHL,80,Orlando Solar Bears,57
+1999-00,24,8,59,43,0,IHL,81,Orlando Solar Bears,51
+2000-01,25,19,55,30,0,IHL,51,Orlando Solar Bears,49
+2001-02,26,12,75,35,7,AHL,80,Houston Aeros,47
+2002-03,27,23,63,31,13,AHL,80,Houston Aeros,54
+2003-04,28,17,51,36,40,AHL,79,Milwaukee Admirals,53
+2004-05,29,6,50,6,0,Russia,60,Lokomotiv Yaroslavl,12
+2005-06,30,14,76,53,9,AHL,80,Houston Aeros,67
+2006-07,31,10,52,35,-10,AHL,75,Houston Aeros,45
+2007-08,32,7,56,20,0,Swiss,50,SCL Tigers Langnau,27
+2008-09,33,5,38,14,0,Swiss,27,SCL Tigers Langnau,19
+2009-10,34,7,32,16,0,Swiss,50,SCL Tigers Langnau,23
+2010-11,35,5,46,17,0,Swiss,47,SCL Tigers Langnau,22
+2011-12,36,16,34,28,0,Austria,50,EHC Linz,44

@@ -1,0 +1,13 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,59,1,20,89,25,15,,WSH,[],4.5,3,21,-12,4,0,1980-81,,1,46,0,6
+NHL,67,1,21,203,53,29,,WSH,[],4.4,4,44,-17,9,0,1981-82,,5,54,0,15
+NHL,10,0,22,23,8,4,,WSH,[],0.0,0,8,-1,0,0,1982-83,,0,0,0,4
+NHL,46,0,23,120,24,10,,WSH,[],5.0,2,18,0,6,0,1983-84,,4,17,0,8
+NHL,75,0,24,126,21,7,,WSH,[],2.4,1,18,31,3,0,1984-85,,2,37,0,11
+NHL,75,0,25,104,17,1,,TOT,[],2.9,3,14,12,3,0,1985-86,,0,29,1,12
+NHL,62,0,25,82,12,0,,WSH,[],3.7,3,9,21,3,0,1985-86,,0,27,0,9
+NHL,13,0,25,22,5,1,,DET,[],0.0,0,5,-9,0,0,1985-86,,0,2,1,3
+NHL,77,2,26,164,58,19,,DET,"[{'link': '/awards/voting-1987.html#AS', 'name': 'AS-12'}]",7.9,5,45,14,13,1,1986-87,,7,52,0,26
+NHL,63,1,27,156,40,12,,DET,[],4.5,3,33,11,7,0,1987-88,,4,45,3,18
+NHL,37,0,28,69,10,3,,TOR,[],4.3,2,7,-17,3,0,1988-89,,1,16,0,4
+NHL,2,0,30,2,1,1,,TOR,[],0.0,0,1,-4,0,0,1990-91,,0,0,0,0

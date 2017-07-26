@@ -1,0 +1,9 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+0,NHL,9,0,23,0,0,3,1,0,1,88,DAL,0,0,[],0.0,0,1,-1,0,0,0,2001-02,0,9:44,0,2,0,0
+0,NHL,82,1,24,0,0,80,34,0,0,1201,DAL,0,0,"[{'link': '/awards/voting-2003.html#calder', 'name': 'Calder-6'}, {'link': '/awards/voting-2003.html#selke', 'name': 'Selke-38'}]",6.3,4,29,25,5,0,1,2002-03,0,14:39,0,44,0,29
+0,NHL,67,0,25,0,0,57,6,0,0,771,DAL,0,0,[],1.8,1,5,-15,1,0,0,2003-04,0,11:30,0,16,0,5
+0,NHL,81,4,27,0,0,97,35,0,8,1152,DAL,0,0,[],14.4,7,21,-10,14,0,2,2005-06,0,14:13,5,36,0,13
+0,NHL,79,1,28,0,0,79,22,0,5,979,TOT,0,0,[],7.6,4,16,-23,6,0,0,2006-07,0,12:24,2,28,0,11
+0,NHL,60,0,28,0,0,51,13,0,0,645,ATL,0,0,[],7.8,3,9,-12,4,0,0,2006-07,0,10:45,1,20,0,9
+0,NHL,19,1,28,0,0,28,9,0,5,334,PHX,0,0,[],7.1,1,7,-11,2,0,0,2006-07,0,17:36,1,8,0,2
+20,NHL,79,5,29,386,141,85,28,23,10,1091,PHX,25,52.1,[],11.8,5,18,-1,10,420,0,2007-08,26,13:49,5,34,0,8

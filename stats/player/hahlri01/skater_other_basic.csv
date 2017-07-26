@@ -1,30 +1,30 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-22,1996-97,HPK Hameenlinna U18,24,0,16,32,43,19,Fin-U18
-2,1996-97,HPK Hameenlinna Jr.,1,0,16,2,1,0,Fin-Jr.
-6,1997-98,HPK Hameenlinna U18,14,0,17,10,19,5,Fin-U18
-12,1997-98,HPK Hameenlinna Jr.,6,0,17,35,19,13,Fin-Jr.
-2,1997-98,Finland,4,0,17,6,5,1,EJC-A
-6,1998-99,HPK Hameenlinna Jr.,2,0,18,7,2,0,Fin-Jr.
-0,1998-99,HPK Hameenlinna,1,0,18,28,1,0,Finland
-2,1998-99,Finland,0,0,18,6,0,0,WJC-A
-24,1999-00,HPK Hameenlinna Jr.,10,0,19,19,16,6,Fin-Jr.
-18,1999-00,HPK Hameenlinna,3,0,19,50,7,4,Finland
-2,1999-00,Finland,1,-4,19,7,1,0,WJC-A
-0,2000-01,HPK Hameenlinna Jr.,3,0,20,2,4,1,Fin-Jr.
-32,2000-01,HPK Hameenlinna,9,0,20,55,12,3,Finland
-16,2001-02,Hershey Bears,17,16,21,52,23,6,AHL
-17,2002-03,Hershey Bears,7,-1,22,28,14,7,AHL
-0,2004-05,Finland,0,0,24,2,1,1,W-Cup
-12,2004-05,HPK Hameenlinna,13,0,24,44,21,8,Finland
-2,2004-05,Finland,0,0,24,5,0,0,WC-A
-22,2005-06,HC Davos,17,0,25,41,25,8,Swiss
-4,2005-06,Finland,2,5,25,9,5,3,WC-A
-16,2006-07,Timra IK,13,0,26,31,17,4,Sweden
-22,2007-08,Timra IK,31,0,27,48,41,10,Sweden
-0,2007-08,Finland,0,-2,27,9,0,0,WC-A
-22,2008-09,Frolunda HC Goteborg,24,0,28,52,31,7,Sweden
-12,2009-10,Frolunda HC Goteborg,10,0,29,26,13,3,Sweden
-0,2009-10,Finland,1,-2,29,6,1,0,WC-A
-14,2010-11,Frolunda HC Goteborg,20,0,30,47,24,4,Sweden
-6,2011-12,Jokerit Helsinki,15,0,31,45,24,9,Finland
-28,2012-13,Jokerit Helsinki,15,0,32,48,20,5,Finland
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+24,HPK Hameenlinna U18,19,1996-97,32,43,22,16,0,Fin-U18
+1,HPK Hameenlinna Jr.,0,1996-97,2,1,2,16,0,Fin-Jr.
+14,HPK Hameenlinna U18,5,1997-98,10,19,6,17,0,Fin-U18
+6,HPK Hameenlinna Jr.,13,1997-98,35,19,12,17,0,Fin-Jr.
+4,Finland,1,1997-98,6,5,2,17,0,EJC-A
+2,HPK Hameenlinna Jr.,0,1998-99,7,2,6,18,0,Fin-Jr.
+1,HPK Hameenlinna,0,1998-99,28,1,0,18,0,Finland
+0,Finland,0,1998-99,6,0,2,18,0,WJC-A
+10,HPK Hameenlinna Jr.,6,1999-00,19,16,24,19,0,Fin-Jr.
+3,HPK Hameenlinna,4,1999-00,50,7,18,19,0,Finland
+1,Finland,0,1999-00,7,1,2,19,-4,WJC-A
+3,HPK Hameenlinna Jr.,1,2000-01,2,4,0,20,0,Fin-Jr.
+9,HPK Hameenlinna,3,2000-01,55,12,32,20,0,Finland
+17,Hershey Bears,6,2001-02,52,23,16,21,16,AHL
+7,Hershey Bears,7,2002-03,28,14,17,22,-1,AHL
+0,Finland,1,2004-05,2,1,0,24,0,W-Cup
+13,HPK Hameenlinna,8,2004-05,44,21,12,24,0,Finland
+0,Finland,0,2004-05,5,0,2,24,0,WC-A
+17,HC Davos,8,2005-06,41,25,22,25,0,Swiss
+2,Finland,3,2005-06,9,5,4,25,5,WC-A
+13,Timra IK,4,2006-07,31,17,16,26,0,Sweden
+31,Timra IK,10,2007-08,48,41,22,27,0,Sweden
+0,Finland,0,2007-08,9,0,0,27,-2,WC-A
+24,Frolunda HC Goteborg,7,2008-09,52,31,22,28,0,Sweden
+10,Frolunda HC Goteborg,3,2009-10,26,13,12,29,0,Sweden
+1,Finland,0,2009-10,6,1,0,29,-2,WC-A
+20,Frolunda HC Goteborg,4,2010-11,47,24,14,30,0,Sweden
+15,Jokerit Helsinki,9,2011-12,45,24,6,31,0,Finland
+15,Jokerit Helsinki,5,2012-13,48,20,28,32,0,Finland

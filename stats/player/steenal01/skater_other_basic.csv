@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1999-00,15,5,0,7,0,Swe-Jr.,8,Vastra Frolunda HC Goteborg Jr.,12
+1999-00,15,3,16,5,0,Swe-U18,14,Vastra Frolunda HC Goteborg U18,8
+2000-01,16,11,15,12,0,Swe-Jr.,23,Vastra Frolunda HC Goteborg Jr.,23
+2000-01,16,3,9,3,0,Swe-U18,6,Vastra Frolunda HC Goteborg U18,6
+2001-02,17,21,47,17,0,Swe-Jr.,23,Vastra Frolunda HC Goteborg Jr.,38
+2001-02,17,0,14,3,0,Sweden,26,Vastra Frolunda HC Goteborg,3
+2001-02,17,2,8,6,1,WJ18-A,8,Sweden,8
+2001-02,17,0,14,3,-2,SEL,26,Vastra Frolunda HC,3
+2002-03,18,5,18,10,0,Sweden,45,Vastra Frolunda HC Goteborg,15
+2002-03,18,0,0,2,0,Swe-Jr.,2,Vastra Frolunda HC Goteborg Jr.,2
+2002-03,18,4,6,2,0,WJC-A,6,Sweden,6
+2002-03,18,5,18,10,1,SEL,45,Vastra Frolunda HC,15
+2003-04,19,10,50,14,0,Sweden,48,Vastra Frolunda HC Goteborg,24
+2003-04,19,2,4,1,0,WJC-A,6,Sweden,3
+2003-04,19,10,50,14,5,SEL,48,Vastra Frolunda HC,24
+2004-05,20,9,26,8,0,Sweden,50,MODO Hockey Ornskoldsvik,17
+2004-05,20,9,26,8,-2,SEL,50,MODO Hockey Ornskoldsvik,17
+2006-07,22,2,6,2,0,WC-A,9,Sweden,4
+2012-13,28,8,28,15,5,Sweden,20,MODO Hockey Ornskoldsvik,23
+2012-13,28,8,28,15,5,SEL,20,MODO Hockey Ornskoldsvik,23
+2013-14,29,1,4,3,-1,Internationa,6,Sweden (all),4
+2013-14,29,1,4,3,-1,Olympics,6,Sweden,4

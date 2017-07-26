@@ -1,0 +1,28 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2010-11,14,0,0,0,0,Jr. C SM-sar,0,KalPa U16,0
+2011-12,15,1,10,1,0,Jr. C I-divi,2,KalPa U16,2
+2011-12,15,4,2,2,3,YOG,6,Finland YOG,6
+2011-12,15,11,20,6,11,Internationa,16,Finland U16 (all),17
+2011-12,15,0,2,0,0,Jr. B SM-sar,2,KalPa U18,0
+2011-12,15,12,4,4,0,Jr. C SM-sar,8,KalPa U16,16
+2012-13,16,3,0,3,0,Jr. B SM-sar,3,KalPa U18,6
+2012-13,16,4,2,0,1,Liiga,13,KalPa,4
+2012-13,16,1,15,1,-1,Internationa,8,Finland U18 (all),2
+2012-13,16,5,4,3,4,WJC-18,7,Finland U18,8
+2012-13,16,1,0,1,1,Hlinka Memor,4,Finland U18,2
+2012-13,16,3,4,6,0,WHC-17,5,Finland U17,9
+2012-13,16,14,16,15,-3,Jr. A SM-lii,36,KalPa U20,29
+2013-14,17,5,0,1,0,Jr. B SM-sar,2,KalPa U18,6
+2013-14,17,7,10,7,-8,Liiga,47,KalPa,14
+2013-14,17,3,16,0,0,ET,6,KalPa,3
+2013-14,17,1,0,1,-3,Internationa,5,Finland U18 (all),2
+2013-14,17,1,0,1,-3,WJC-18,5,Finland U18,2
+2013-14,17,1,0,0,0,Internationa,5,Finland U20 (all),1
+2014-15,18,1,0,0,-1,WJC-20,5,Finland U20,1
+2014-15,18,1,0,1,-1,AHL,4,Wilkes-Barre/Scranton Penguins,2
+2014-15,18,11,14,10,2,Liiga,41,KalPa,21
+2014-15,18,3,0,2,-1,Internationa,10,Finland U20 (all),5
+2015-16,19,9,8,16,7,AHL,44,Toronto Marlies,25
+2015-16,19,2,2,4,0,Internationa,9,Finland U20 (all),6
+2015-16,19,2,2,3,-2,WJC-20,7,Finland U20,5
+2016-17,20,18,16,25,2,AHL,43,Toronto Marlies,43

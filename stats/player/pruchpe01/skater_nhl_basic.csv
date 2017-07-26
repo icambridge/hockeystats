@@ -1,0 +1,9 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+0,NHL,68,2,23,0,0,130,47,0,6,931,NYR,0,0,"[{'link': '/awards/voting-2006.html#calder', 'name': 'Calder-10'}]",23.1,14,17,3,30,0,0,2005-06,0,13:42,16,32,0,11
+0,NHL,79,2,24,0,0,136,40,0,8,1027,NYR,0,0,[],16.2,14,18,-7,22,0,0,2006-07,0,13:00,8,30,0,10
+21,NHL,62,1,25,1,163,89,17,81,2,722,NYR,31,66.7,[],7.9,5,10,3,7,2,0,2007-08,17,11:38,2,22,0,8
+11,NHL,47,1,26,7,132,67,19,76,4,690,TOT,13,12.5,[],9.0,5,13,-1,6,1,0,2008-09,24,14:41,1,22,0,9
+5,NHL,28,0,26,0,73,44,9,46,0,340,NYR,7,0,[],9.1,4,5,-2,4,0,0,2008-09,13,12:09,0,16,0,5
+6,NHL,19,1,26,7,59,23,10,30,4,350,PHX,6,12.5,[],8.7,1,8,1,2,1,0,2008-09,11,18:26,1,6,0,4
+20,NHL,79,2,27,82,205,128,22,73,2,1109,PHX,26,45.3,[],10.2,9,9,-2,13,68,0,2009-10,16,14:02,4,23,0,7
+1,NHL,11,0,28,2,19,10,1,13,0,126,PHX,4,60.0,[],0.0,0,1,0,0,3,0,2010-11,3,11:28,0,4,0,1

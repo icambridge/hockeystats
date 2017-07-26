@@ -1,0 +1,29 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1972-73,21,23,0,6,0,Czech,40,Motor Ceske Budejovice,29
+1973-74,22,25,0,8,0,Czech,40,Motor Ceske Budejovice,33
+1975-76,24,14,38,7,0,Czech,30,Motor Ceske Budejovice,21
+1975-76,24,1,2,1,0,Olympics,5,Czechoslovakia,2
+1975-76,24,2,0,3,0,WEC-A,8,Czechoslovakia,5
+1976-77,25,2,4,0,0,Can-Cup,5,Czechoslovakia,2
+1976-77,25,29,0,15,0,Czech,44,Motor Ceske Budejovice,44
+1976-77,25,4,14,4,0,WEC-A,10,Czechoslovakia,8
+1977-78,26,42,0,20,0,Czech,43,Motor Ceske Budejovice,62
+1977-78,26,7,4,1,0,WEC-A,10,Czechoslovakia,8
+1978-79,27,10,38,7,0,Czech,23,Motor Ceske Budejovice,17
+1978-79,27,4,6,3,0,WEC-A,8,Czechoslovakia,7
+1979-80,28,39,48,23,0,Czech,44,Motor Ceske Budejovice,62
+1979-80,28,8,8,5,0,Olympics,6,Czechoslovakia,13
+1980-81,29,29,45,23,0,Czech,42,Motor Ceske Budejovice,52
+1980-81,29,1,2,1,0,WEC-A,7,Czechoslovakia,2
+1981-82,30,1,4,1,0,Can-Cup,6,Czechoslovakia,2
+1981-82,30,19,32,17,0,Czech,34,Motor Ceske Budejovice,36
+1981-82,30,3,6,1,0,WEC-A,10,Czechoslovakia,4
+1985-86,34,17,39,26,0,W.German,36,ECD Iserlohn,43
+1986-87,35,29,30,32,0,W.German,35,ECD Iserlohn,61
+1987-88,36,19,29,25,0,W.German,33,2 Teams,44
+1987-88,36,16,15,18,0,W.German,26,ECD Iserlohn,34
+1987-88,36,3,14,7,0,W.German,7,SB DJK Rosenheim,10
+1988-89,37,20,26,34,0,W.German,36,SB DJK Rosenheim,54
+1989-90,38,9,32,31,0,W.German,35,SB DJK Rosenheim,40
+1990-91,39,17,26,46,0,German-2,33,Augsburger EV,63
+1991-92,40,1,4,2,0,Germany,5,SB DJK Rosenheim,3

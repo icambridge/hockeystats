@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1987-88,16,11,90,12,0,ON-Jr.B,40,Burlington Cougars,23
+1988-89,17,9,142,27,0,OHL,63,Niagara Falls Thunder,36
+1989-90,18,15,123,18,0,OHL,54,Niagara Falls Thunder,33
+1990-91,19,27,53,38,0,OHL,66,Detroit Compuware Ambassadors,65
+1991-92,20,32,75,40,0,OHL,52,2 Teams,72
+1991-92,20,19,54,26,0,OHL,28,Detroit Compuware Ambassadors,45
+1991-92,20,13,21,14,0,OHL,24,North Bay Centennials,27
+1992-93,21,8,46,14,0,ECHL,20,Dayton Bombers,22
+1992-93,21,22,47,13,0,IHL,57,Kalamazoo Wings,35
+1993-94,22,17,90,20,0,IHL,64,Kalamazoo Wings,37
+1994-95,23,21,92,29,0,IHL,77,Kalamazoo Wings,50
+1995-96,24,15,92,14,0,IHL,55,Michigan K-Wings,29
+1996-97,25,15,141,21,0,IHL,68,Michigan K-Wings,36
+1997-98,26,36,102,28,7,IHL,80,Utah Grizzlies,64
+1998-99,27,10,28,6,-1,AHL,21,Lowell Lock Monsters,16
+1999-00,28,4,32,6,4,IHL,16,Chicago Wolves,10
+1999-00,28,4,8,4,-4,AHL,18,Lowell Lock Monsters,8
+2000-01,29,8,26,6,-1,IHL,32,Chicago Wolves,14
+2001-02,30,15,41,19,-1,UHL,38,Kalamazoo Wings,34
+2002-03,31,10,89,41,-28,UHL,69,Kalamazoo Wings,51

@@ -1,0 +1,32 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1930-31,16,7,2,8,0,MJHL,12,Kenora Thistles,15
+1931-32,17,4,6,7,0,TBSHL,17,Port Arthur Ports,11
+1932-33,18,7,4,3,0,TBSHL,19,Port Arthur Ports,10
+1933-34,19,8,20,4,0,TBSHL,13,Port Arthur Ports,12
+1934-35,20,5,8,2,0,TBSHL,14,Port Arthur Ports,7
+1935-36,21,7,2,0,0,TBSHL,8,Port Arthur Indians,7
+1935-36,21,7,4,3,0,Nat-Tm,11,Canada,10
+1935-36,21,7,2,0,0,Olympics,8,Canada,7
+1936-37,22,34,31,15,0,TBSHL,31,Port Arthur Bearcats,49
+1937-38,23,7,17,9,0,IAHL,47,Syracuse Stars,16
+1938-39,24,9,12,17,0,IAHL,49,2 Teams,26
+1938-39,24,8,10,14,0,IAHL,35,Pittsburgh Hornets,22
+1938-39,24,1,2,3,0,IAHL,14,Syracuse Stars,4
+1939-40,25,10,12,26,0,IAHL,40,2 Teams,36
+1939-40,25,10,12,26,0,IAHL,38,Indianapolis Capitols,36
+1939-40,25,0,0,0,0,IAHL,2,Syracuse Stars,0
+1940-41,26,5,23,15,0,AHL,45,2 Teams,20
+1940-41,26,5,23,15,0,AHL,44,Indianapolis Capitols,20
+1940-41,26,0,0,0,0,AHL,1,Pittsburgh Hornets,0
+1941-42,27,26,11,27,0,AHA,50,Omaha Knights,53
+1942-43,28,23,4,22,0,AHL,55,Indianapolis Capitols,45
+1943-44,29,20,6,38,0,AHL,45,Indianapolis Capitols,58
+1944-45,30,9,17,19,0,AHL,32,Indianapolis Capitols,28
+1945-46,31,7,6,23,0,AHL,51,2 Teams,30
+1945-46,31,2,0,10,0,AHL,23,St. Louis Flyers,12
+1945-46,31,5,6,13,0,AHL,28,Hershey Bears,18
+1946-47,32,2,0,5,0,AHL,13,Hershey Bears,7
+1946-47,32,8,12,13,0,USHL,26,Minneapolis Millers,21
+1947-48,33,10,0,24,0,USHL,56,Tulsa Oilers,34
+1948-49,34,4,0,3,0,USHL,11,Dallas Texans,7
+1948-49,34,0,0,7,0,PCHL,9,Seattle Ironmen,7

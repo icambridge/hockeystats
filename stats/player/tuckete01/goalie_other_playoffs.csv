@@ -1,0 +1,15 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,M-Cup,1,Fort William Canadiens,40,16,1,0,0,6,0,0,0,0,0,0,0,0,0,0,1965-66,0,9.00,0,0
+0,OHA-Jr.,1,Montreal Jr. Canadiens,30,18,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1967-68,0,2.00,0,0
+0,OHA-Jr.,2,Montreal Jr. Canadiens,80,19,1,0,0,7,0,0,0,0,0,0,0,0,0,0,1968-69,0,5.25,0,0
+0,EHL,17,Clinton Comets,0,20,5,0,0,47,0,0,0,2,12,0,0,0,0,0,1969-70,0,0,0,0
+0,EHL,5,Clinton Comets,300,21,4,0,0,20,0,0,0,0,1,0,0,0,0,0,1970-71,0,4.00,0,0
+0,EHL,2,Syracuse Blazers,120,21,2,0,0,14,0,0,0,0,0,0,0,0,0,0,1970-71,0,7.00,0,0
+0,EHL,3,Clinton Comets,220,22,2,0,0,12,0,0,0,0,1,0,0,0,0,0,1971-72,0,3.27,0,0
+0,WHL,7,Salt Lake Golden Eagles,427,23,5,0,0,26,0,0,0,0,2,0,0,0,0,0,1972-73,0,3.65,0,0
+0,WHL,3,Salt Lake Golden Eagles,160,24,3,0,0,12,0,0,0,0,0,0,0,0,0,0,1973-74,0,4.50,0,0
+0,IHL,11,Toledo Goaldiggers,522,25,0,0,0,31,0,0,0,1,0,0,0,0,0,0,1974-75,0,3.56,0,0
+0,IHL,1,Toledo Goaldiggers,60,26,1,0,0,5,0,0,0,0,0,0,0,0,0,0,1975-76,0,5.00,0,0
+0,IHL,3,Muskegon Mohawks,179,27,0,0,0,10,0,0,0,0,0,0,0,0,0,0,1976-77,0,3.35,0,0
+0,IHL,1,Toledo/Port Huron Flags,17,28,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1977-78,0,7.06,0,0
+0,IHL,4,Saginaw Gears,205,30,0,0,0,11,0,0,0,0,0,0,0,0,0,0,1979-80,0,3.22,0,0

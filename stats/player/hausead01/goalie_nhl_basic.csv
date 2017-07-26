@@ -1,2 +1,2 @@
-bad_start,shutouts,awards,points,goals_allowed_average,goals_saved_aboved_average,shots_againist,league,good_starts,age,good_start_precentages,saves,pim,goals,games_started,goals_allowed_precentage,goals_allowed,saves_percentage,year,team,loses,goalie_point_share,assists,ties,wins,games_played,minutes
-0,0,[],0,7.06,0,24,NHL,0,25,0,18,0,0,0,0,6,.750,2005-06,LAK,0,-0.2,0,0,0,1,51
+goals_allowed_precentage,goalie_point_share,goals_saved_aboved_average,bad_start,year,awards,goals_allowed,minutes,ties,pim,good_starts,saves,shots_againist,assists,team,shutouts,goals,games_started,goals_allowed_average,age,league,saves_percentage,good_start_precentages,games_played,points,wins,loses
+0,-0.2,0,0,2005-06,[],6,51,0,0,0,18,24,0,LAK,0,0,0,7.06,25,NHL,.750,0,1,0,0,0

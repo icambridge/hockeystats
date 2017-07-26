@@ -1,0 +1,5 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHA-Jr.,2,Toronto Canoe Club,120,15,2,0,0,7,0,0,0,0,0,0,0,0,0,0,1924-25,0,3.50,0,0
+0,MCHL,2,Montreal AAA,150,20,1,0,0,2,0,0,0,1,1,0,0,0,0,0,1929-30,0,0.80,0,0
+0,MCHL,2,Montreal CPR,120,20,1,0,0,4,0,0,0,0,0,0,0,0,0,0,1929-30,0,2.00,0,0
+0,Al-Cup,9,Montreal AAA,610,20,0,0,0,5,0,0,2,5,7,0,0,0,0,0,1929-30,0,0.49,0,0

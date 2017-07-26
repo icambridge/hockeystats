@@ -1,0 +1,9 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHA-Jr.,3,Kingston Collegiate Institute,180,17,1,0,0,13,0,0,1,0,1,0,0,0,0,0,1914-15,0,4.33,0,0
+0,OHA-Jr.,4,Kingston A.C.,240,19,1,0,0,14,0,0,0,0,3,0,0,0,0,0,1916-17,0,3.50,0,0
+0,OHA-Int.,8,Kingston A.C.,480,21,4,0,0,26,0,0,0,0,4,0,0,0,0,0,1918-19,0,3.25,0,0
+0,NOHA,5,Sault Ste. Marie Greyhounds,300,23,2,0,0,24,0,0,0,0,3,0,0,0,0,0,1920-21,0,4.80,0,0
+0,NOHA,2,Sault Ste. Marie Greyhounds,120,24,1,0,0,7,0,0,1,0,0,0,0,0,0,0,1921-22,0,3.50,0,0
+0,NOHA,2,Sault Ste. Marie Greyhounds,120,25,0,0,0,4,0,0,1,0,1,0,0,0,0,0,1922-23,0,2.00,0,0
+0,Al-Cup,5,Sault Ste. Marie Greyhounds,300,25,1,0,0,17,0,0,0,0,4,0,0,0,0,0,1922-23,0,3.40,0,0
+0,NOHA,7,Sault Ste. Marie Greyhounds,420,26,2,0,0,11,0,0,0,2,5,0,0,0,0,0,1923-24,0,1.57,0,0

@@ -1,0 +1,26 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OVHL,5,Pembroke Lumber Kings,300,18,4,0,0,22,0,0,0,0,1,0,0,0,0,0,1903-04,0,4.40,0,0
+0,OVHL,8,Pembroke Lumber Kings,480,20,0,0,0,13,0,0,0,1,8,0,0,0,0,0,1905-06,0,1.62,0,0
+0,IHL,24,Canadian Soo,1440,21,11,0,0,123,0,0,0,0,13,0,0,0,0,0,1906-07,0,5.12,0,0
+0,OVHL,4,Pembroke Lumber Kings,240,22,2,0,0,22,0,0,0,0,2,0,0,0,0,0,1907-08,0,5.50,0,0
+0,OPHL,15,Berlin Professionals,890,23,6,0,0,72,0,0,0,0,9,0,0,0,0,0,1908-09,0,4.85,0,0
+0,OPHL,23,Berlin Professionals,1355,24,6,0,0,93,0,0,0,3,17,0,0,0,0,0,1909-10,0,4.12,0,0
+0,OPHL,15,Berlin Professionals,900,25,8,0,0,87,0,0,0,0,7,0,0,0,0,0,1910-11,0,5.80,0,0
+0,PCHA,15,New Westminster Royals,911,26,6,0,0,77,0,0,0,0,9,0,0,0,0,0,1911-12,0,5.07,0,0
+0,Exhib.,3,PCHA All-Stars,180,26,1,0,0,12,0,0,0,0,2,0,0,0,0,0,1911-12,0,4.00,0,0
+0,PCHA,12,New Westminster Royals,739,27,8,0,0,51,0,0,0,0,4,0,0,0,0,0,1912-13,0,4.14,0,0
+0,PCHA,16,New Westminster Royals,997,28,9,0,0,81,0,0,0,0,7,0,0,0,0,0,1913-14,0,4.87,0,0
+0,PCHA,17,Vancouver Millionaires,1043,29,4,0,0,71,0,0,0,1,13,0,0,0,0,0,1914-15,0,4.08,0,0
+0,Exhib.,2,PCHA All-Stars,120,29,0,0,0,9,0,0,0,0,2,0,0,0,0,0,1914-15,0,4.50,0,0
+0,PCHA,18,Vancouver Millionaires,1091,30,9,0,0,69,0,0,0,0,9,0,0,0,0,0,1915-16,0,3.79,0,0
+0,Exhib.,2,PCHA All-Stars,120,30,1,0,0,9,0,0,0,0,1,0,0,0,0,0,1915-16,0,4.50,0,0
+0,PCHA,23,Vancouver Millionaires,1404,31,9,0,0,124,0,0,0,0,14,0,0,0,0,0,1916-17,0,5.30,0,0
+0,PCHA,18,Vancouver Millionaires,1179,32,9,0,0,60,0,0,0,1,9,0,0,0,0,0,1917-18,0,3.05,0,0
+0,PCHA,20,Vancouver Millionaires,1277,33,8,0,0,55,0,0,0,1,12,0,0,0,0,0,1918-19,0,2.58,0,0
+0,PCHA,22,Vancouver Millionaires,1334,34,11,0,0,65,0,0,0,1,11,0,0,0,0,0,1919-20,0,2.92,0,0
+0,PCHA,24,Vancouver Millionaires,1449,35,11,0,0,78,0,0,0,3,13,0,0,0,0,0,1920-21,0,3.23,0,0
+0,PCHA,22,Vancouver Millionaires,1318,36,10,0,0,62,0,0,0,4,12,0,0,0,0,0,1921-22,0,2.82,0,0
+0,PCHA,25,Vancouver Maroons,1571,37,8,0,0,61,0,0,1,5,16,0,0,0,0,0,1922-23,0,2.33,0,0
+0,PCHA,30,Vancouver Maroons,1846,38,16,0,0,80,0,0,1,1,13,0,0,0,0,0,1923-24,0,2.60,0,0
+0,WCHL,11,Vancouver Maroons,663,39,4,0,0,29,0,0,0,0,7,0,0,0,0,0,1924-25,0,2.62,0,0
+0,WHL,30,Vancouver Maroons,1839,40,18,0,0,90,0,0,2,3,10,0,0,0,0,0,1925-26,0,2.94,0,0

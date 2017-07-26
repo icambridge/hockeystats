@@ -1,9 +1,9 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-8,Peterborough Petes,1,0,1,OHA-Jr.,10,1966-67,18,0
-72,Muskegon Mohawks,19,0,35,IHL,63,1967-68,19,16
-83,Muskegon Mohawks,39,0,72,IHL,71,1968-69,20,33
-35,Muskegon Mohawks,25,0,56,IHL,48,1969-70,21,31
-4,Montreal Voyageurs,2,0,5,AHL,5,1970-71,22,3
-86,Muskegon Mohawks,47,0,86,IHL,63,1970-71,22,39
-70,Cincinnati Swords,24,0,42,AHL,71,1971-72,23,18
-37,Cincinnati Swords,7,0,14,AHL,14,1972-73,24,7
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+1,Peterborough Petes,0,1966-67,10,1,8,18,0,OHA-Jr.
+19,Muskegon Mohawks,16,1967-68,63,35,72,19,0,IHL
+39,Muskegon Mohawks,33,1968-69,71,72,83,20,0,IHL
+25,Muskegon Mohawks,31,1969-70,48,56,35,21,0,IHL
+2,Montreal Voyageurs,3,1970-71,5,5,4,22,0,AHL
+47,Muskegon Mohawks,39,1970-71,63,86,86,22,0,IHL
+24,Cincinnati Swords,18,1971-72,71,42,70,23,0,AHL
+7,Cincinnati Swords,7,1972-73,14,14,37,24,0,AHL

@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1987-88,16,43,72,78,0,QAAA,40,Montreal L\'est Cantonniers,121
+1988-89,17,27,88,43,0,QMJHL,67,Verdun Jr. Canadiens,70
+1989-90,18,47,205,72,0,QMJHL,67,St-Hyacinthe Laser,119
+1990-91,19,36,203,46,0,QMJHL,60,St-Hyacinthe Laser,82
+1990-91,19,4,8,2,0,WJC-A,7,Canada,6
+1991-92,20,22,145,37,0,AHL,74,Fredericton Canadiens,59
+1992-93,21,36,113,40,0,AHL,80,Fredericton Canadiens,76
+1995-96,24,39,188,42,0,AHL,76,Fredericton Canadiens,81
+1996-97,25,9,58,17,0,AHL,32,Fredericton Canadiens,26
+1997-98,26,18,94,13,0,AHL,40,Hartford Wolf Pack,31
+1998-99,27,12,51,24,-4,IHL,49,2 Teams,36
+1998-99,27,1,7,3,0,IHL,6,Long Beach Ice Dogs,4
+1998-99,27,11,44,21,-4,IHL,43,Orlando Solar Bears,32
+1999-00,28,24,154,43,7,AHL,78,Quebec Citadelles,67
+2000-01,29,29,138,37,1,AHL,74,Quebec Citadelles,66
+2001-02,30,13,76,17,-4,AHL,66,Quebec Citadelles,30
+2002-03,31,31,150,48,0,German-2,54,Straubing Tigers,79
+2003-04,32,30,142,52,0,QSPHL,47,Thetford Mines Prolab,82
+2004-05,33,5,53,21,0,QNAHL,35,2 Teams,26
+2004-05,33,0,7,1,0,QNAHL,6,Thetford Mines Prolab,1
+2004-05,33,5,46,20,0,QNAHL,29,Quebec RadioX,25
+2005-06,34,0,0,0,0,QNAHL,1,Quebec RadioX,0
+2007-08,36,1,6,5,0,QCSHL,2,Pont-Rouge Precision,6

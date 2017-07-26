@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2005-06,14,1,14,6,0,Swe-U18,14,Timra IK U18,7
+2006-07,15,6,14,10,0,Swe-U18,12,Timra IK U18,16
+2006-07,15,2,10,1,0,Swe-Jr.,10,Timra IK Jr.,3
+2007-08,16,6,8,4,0,Swe-U18,4,Timra IK U18,10
+2007-08,16,5,39,14,0,Swe-Jr.,18,Timra IK Jr.,19
+2007-08,16,1,4,2,0,Sweden,32,Timra IK,3
+2007-08,16,0,4,2,0,WJ18-A,6,Sweden,2
+2007-08,16,1,4,2,2,SEL,32,Timra IK,3
+2008-09,17,5,8,1,0,Swe-Jr.,8,Timra IK Jr.,6
+2008-09,17,4,12,6,0,Sweden,47,Timra IK,10
+2008-09,17,2,16,7,0,WJ18-A,6,Sweden,9
+2008-09,17,4,12,6,-1,SEL,47,Timra IK,10
+2009-10,18,7,14,9,0,Sweden,49,Timra IK,16
+2009-10,18,5,4,3,0,WJC-A,6,Sweden,8
+2009-10,18,7,14,9,-2,SEL,49,Timra IK,16
+2010-11,19,11,38,15,0,Sweden,49,Timra IK,26
+2010-11,19,1,4,3,4,WJC-A,6,Sweden,4
+2010-11,19,11,38,15,-14,SEL,49,Timra IK,26
+2011-12,20,1,10,4,-1,AHL,14,Oklahoma City Barons,5
+2012-13,21,9,22,11,-1,AHL,47,Oklahoma City Barons,20
+2013-14,22,18,30,34,7,AHL,46,Oklahoma City Barons,52
+2014-15,23,1,2,1,2,EHT,2,Sweden,2
+2014-15,23,9,20,22,8,AHL,29,Oklahoma City Barons,31
+2014-15,23,4,8,5,6,Internationa,10,Sweden (all),9
+2014-15,23,3,6,4,4,WC,8,Sweden,7
+2016-17,25,25,14,30,20,AHL,42,Bakersfield Condors,55

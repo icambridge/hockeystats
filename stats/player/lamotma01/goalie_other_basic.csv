@@ -1,0 +1,20 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,ON-Jr.A,25,Ottawa Jr. Senators,1220,16,7,0,0,82,0,0,0,1,13,0,0,0,0,0,1990-91,0,4.03,0,0
+0,OHL,42,Kingston Frontenacs,2378,17,25,0,0,189,0,0,2,1,10,0,0,0,0,0,1991-92,0,4.77,0,0
+0,OHL,45,Kingston Frontenacs,2489,18,12,0,0,162,0,0,6,1,23,0,0,0,0,0,1992-93,0,3.91,0,0
+0,OHL,48,Kingston Frontenacs,2828,19,20,0,0,177,0,0,5,2,23,0,0,0,0,0,1993-94,0,3.76,0,0
+0,AHL,9,Fredericton Canadiens,428,20,5,0,0,32,0,0,0,0,2,0,0,0,0,.873,1994-95,251,4.49,0,219
+0,ECHL,13,Wheeling Thunderbirds,737,20,2,0,0,38,0,0,1,0,9,0,0,0,0,.892,1994-95,351,3.09,0,313
+0,AHL,23,Fredericton Canadiens,1166,21,9,0,0,73,0,0,3,1,5,0,0,0,0,.894,1995-96,687,3.76,0,614
+0,IHL,38,Indianapolis Ice,2271,22,14,0,0,100,0,0,4,1,20,0,0,0,0,.918,1996-97,1216,2.64,0,1116
+0,IHL,31,Indianapolis Ice,1772,23,10,0,0,72,0,0,2,3,18,0,0,0,0,.920,1997-98,900,2.44,0,828
+0,IHL,32,Indianapolis Ice,1823,24,16,0,1,115,0,0,6,1,9,1,0,0,0,.881,1998-99,969,3.78,23,854
+0,IHL,44,Cleveland Lumberjacks,2455,25,18,0,5,112,0,0,4,2,19,5,0,0,0,.915,1999-00,1313,2.74,8,1201
+0,AHL,42,Syracuse Crunch,2323,26,15,0,6,112,0,0,7,2,17,6,0,0,0,.921,2000-01,1412,2.89,2,1300
+0,AHL,45,Hamilton Bulldogs,2569,27,19,0,3,102,0,0,2,3,22,3,0,0,0,.918,2001-02,1242,2.38,0,1140
+0,AHL,60,Grand Rapids Griffins,3438,28,18,0,1,122,0,0,8,6,33,1,0,0,0,.923,2002-03,1591,2.13,6,1469
+0,AHL,43,Grand Rapids Griffins,2535,29,16,0,2,87,0,0,5,4,21,2,0,0,0,.924,2003-04,1148,2.06,2,1061
+0,Russia,55,Lokomotiv Yaroslavl,3357,30,0,0,2,90,0,0,0,6,0,2,0,0,0,0,2004-05,0,1.61,2,0
+0,Russia,42,Severstal Cherepovets,2378,31,0,0,1,79,0,0,0,4,0,1,0,0,0,0,2005-06,0,1.99,4,0
+0,Russia,42,Severstal Cherepovets,2384,32,0,0,1,88,0,0,0,5,0,1,0,0,0,0,2006-07,0,2.21,33,0
+0,Russia,0,SKA St. Petersburg,0,33,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2007-08,0,0,8,0

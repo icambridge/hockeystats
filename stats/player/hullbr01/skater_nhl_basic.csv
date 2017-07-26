@@ -1,0 +1,22 @@
+shotsPercentage,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,age,game_winning_goals,league,shorthanded_goals,average_ice_time,games_played,points,awards,power_play_goals
+20.0,1986-87,0,0,,0,5,0,1,-1,0,CGY,1,22,1,NHL,0,,5,1,[],0
+15.2,1987-88,16,22,,0,211,10,26,14,32,TOT,32,23,3,NHL,0,,65,64,"[{'link': '/awards/voting-1988.html#calder', 'name': 'Calder-5'}]",6
+17.0,1987-88,12,16,,0,153,8,22,10,24,CGY,26,23,3,NHL,0,,52,50,"[{'link': '/awards/voting-1988.html#calder', 'name': 'Calder-5'}]",4
+10.3,1987-88,4,6,,0,58,2,4,4,8,STL,6,23,0,NHL,0,,13,14,"[{'link': '/awards/voting-1988.html#calder', 'name': 'Calder-5'}]",2
+13.4,1988-89,33,17,,0,305,26,25,-17,43,STL,41,24,6,NHL,0,,78,84,[],16
+18.7,1989-90,24,24,,0,0,17,0,-1,41,STL,0,25,0,NHL,0,,0,113,"[{'link': '/awards/nhl_all_star.html#1990', 'name': None}, {'link': '/awards/voting-1990.html#AS', 'name': 'AS-10'}, {'link': '/awards/byng.html#1990', 'name': None}, {'link': '/awards/voting-1990.html#hart', 'name': 'Hart-3'}]",0
+22.1,1990-91,22,29,,0,0,16,0,23,45,STL,0,26,0,NHL,0,,78,131,"[{'link': '/awards/nhl_all_star.html#1991', 'name': None}, {'link': '/awards/voting-1991.html#byng', 'name': 'Byng-2'}, {'link': '/awards/hart.html#1991', 'name': None}, {'link': '/awards/pearson.html#1991', 'name': None}]",0
+17.2,1991-92,48,19,,0,0,20,0,-2,39,STL,0,27,9,NHL,5,,73,109,"[{'link': '/awards/nhl_all_star.html#1992', 'name': None}, {'link': '/awards/voting-1992.html#byng', 'name': 'Byng-7'}, {'link': '/awards/voting-1992.html#hart', 'name': 'Hart-3'}]",20
+13.8,1992-93,41,18,,0,390,29,25,-27,47,STL,54,28,2,NHL,0,,80,101,[],29
+14.5,1993-94,38,22,,2,392,16,29,-3,40,STL,57,29,6,NHL,3,,81,97,"[{'link': '/awards/voting-1994.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1994.html#byng', 'name': 'Byng-11'}]",0
+14.5,1994-95,10,11,,3,200,7,17,13,21,STL,29,30,6,NHL,3,,48,50,"[{'link': '/awards/voting-1995.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1995.html#byng', 'name': 'Byng-4'}, {'link': '/awards/voting-1995.html#hart', 'name': 'Hart-6'}]",9
+13.1,1995-96,30,22,,1,327,17,22,4,40,STL,43,31,6,NHL,5,,70,83,"[{'link': '/awards/voting-1996.html#AS', 'name': 'AS-8'}]",16
+13.9,1996-97,10,26,,0,302,14,28,-9,40,STL,42,32,6,NHL,2,,77,82,"[{'link': '/awards/voting-1997.html#byng', 'name': 'Byng-6'}]",12
+12.8,1997-98,26,32,,1,211,12,17,-1,45,STL,27,33,6,NHL,0,,66,72,"[{'link': '/awards/voting-1998.html#byng', 'name': 'Byng-13'}]",10
+16.7,1998-99,30,20,1044,0,192,6,17,19,26,DAL,32,34,0,NHL,0,17:24,60,58,[],15
+10.8,1999-00,43,19,1470,0,223,16,13,-21,35,DAL,24,35,3,NHL,0,18:37,79,59,"[{'link': '/awards/voting-2000.html#AS', 'name': 'AS-9'}]",11
+17.8,2000-01,18,18,1413,0,219,22,28,10,40,DAL,39,36,8,NHL,0,17:53,79,79,"[{'link': '/awards/voting-2001.html#AS', 'name': 'AS-8'}, {'link': '/awards/voting-2001.html#byng', 'name': 'Byng-4'}, {'link': '/awards/voting-2001.html#hart', 'name': 'Hart-23'}]",11
+12.1,2001-02,35,18,1543,0,247,15,22,18,33,DET,30,37,4,NHL,1,18:49,82,63,"[{'link': '/awards/voting-2002.html#AS', 'name': 'AS-16'}]",7
+14.1,2002-03,22,24,1486,1,262,14,24,11,39,DET,37,38,4,NHL,1,18:07,82,76,"[{'link': '/awards/voting-2003.html#AS', 'name': 'AS-7'}, {'link': '/awards/voting-2003.html#byng', 'name': 'Byng-7'}, {'link': '/awards/voting-2003.html#selke', 'name': 'Selke-20'}]",12
+12.5,2003-04,12,30,1369,0,200,13,15,-4,43,DET,25,39,6,NHL,0,16:54,81,68,"[{'link': '/awards/voting-2004.html#AS', 'name': 'AS-9'}, {'link': '/awards/voting-2004.html#byng', 'name': 'Byng-5'}]",10
+0.0,2005-06,0,0,69,0,8,1,0,-3,1,PHX,0,41,0,NHL,0,13:45,5,1,[],0

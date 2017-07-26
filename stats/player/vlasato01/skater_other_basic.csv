@@ -1,0 +1,34 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1991-92,16,2,2,3,0,EJC-A,5,Czechoslovakia,5
+1992-93,17,17,0,6,0,Czech-2,31,Slavia Praha,23
+1992-93,17,5,8,7,0,EJC-A,6,Czech Republic,12
+1993-94,18,16,0,11,0,CzRep,41,HC Chemopetrol Litvinov,27
+1993-94,18,3,2,1,0,WJC-A,7,Czech Republic,4
+1994-95,19,6,4,14,0,CzRep,35,HC Chemopetrol Litvinov,20
+1995-96,20,10,0,22,0,CzRep,35,HC Chemopetrol Litvinov,32
+1996-97,21,0,29,2,0,EuroHL,6,HC Chemopetrol Litvinov,2
+1996-97,21,26,16,34,0,CzRep,52,HC Chemopetrol Litvinov,60
+1997-98,22,22,40,22,0,CzRep,51,HC Chemopetrol Litvinov,44
+1998-99,23,28,36,29,0,Finland,54,HPK Hameenlinna,57
+1998-99,23,3,16,2,0,WC-A,12,Czech Republic,5
+1999-00,24,24,63,39,0,Finland,48,HPK Hameenlinna,63
+1999-00,24,4,0,5,5,WC-A,9,Czech Republic,9
+2000-01,25,0,5,1,-1,AHL,5,Lowell Lock Monsters,1
+2000-01,25,6,10,12,0,Finland,27,HPK Hameenlinna,18
+2000-01,25,2,4,4,6,WC-A,9,Czech Republic,6
+2001-02,26,20,39,23,0,Swiss,42,HC Ambri-Piotta,43
+2001-02,26,3,0,3,2,WC-A,7,Czech Republic,6
+2002-03,27,19,42,27,0,Russia,48,Avangard Omsk,46
+2003-04,28,13,47,30,0,Russia,60,Avangard Omsk,43
+2004-05,29,0,0,1,2,W-Cup,2,Czech Republic,1
+2004-05,29,0,0,0,0,Russia,3,Ak Bars Kazan,0
+2004-05,29,15,6,17,0,CzRep,44,HC Slavia Praha,32
+2005-06,30,15,36,24,0,CzRep,46,HC Slavia Praha,39
+2006-07,31,14,28,10,0,CzRep,32,HC Slavia Praha,24
+2006-07,31,7,4,8,0,Sweden,22,Linkopings HC,15
+2007-08,32,16,30,14,0,CzRep,52,HC Lasselsberger Plzen,30
+2008-09,33,27,62,31,0,CzRep,52,HC Lasselsberger Plzen,58
+2009-10,34,19,49,33,0,CzRep,51,HC Plzen 1929,52
+2010-11,35,30,26,38,0,CzRep,52,HC Plzen 1929,68
+2011-12,36,7,4,8,0,CzRep,18,HC Plzen 1929,15
+2012-13,37,17,12,35,0,CzRep,45,HC Skoda Plzen,52

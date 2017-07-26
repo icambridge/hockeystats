@@ -1,0 +1,16 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1987-88,18,13,228,43,0,AJHL,53,Calgary Canucks,56
+1988-89,19,22,104,31,0,WHL,71,Saskatoon Blades,53
+1989-90,20,5,83,14,0,AHL,57,Rochester Americans,19
+1990-91,21,7,65,24,0,AHL,62,Rochester Americans,31
+1995-96,26,4,60,16,0,AHL,32,Worcester IceCats,20
+1996-97,27,3,48,10,0,IHL,20,Manitoba Moose,13
+1996-97,27,6,79,13,0,AHL,61,Albany River Rats,19
+1997-98,28,0,15,7,1,AHL,10,Albany River Rats,7
+1998-99,29,13,118,42,33,AHL,75,Albany River Rats,55
+1999-00,30,5,129,16,8,AHL,57,Albany River Rats,21
+2001-02,32,1,51,10,-3,AHL,28,Bridgeport Sound Tigers,11
+2002-03,33,6,70,26,-17,AHL,74,Albany River Rats,32
+2003-04,34,3,157,13,0,Germany,47,ERC Ingolstadt,16
+2004-05,35,7,80,19,0,Germany,51,ERC Ingolstadt,26
+2005-06,36,4,112,22,0,Germany,49,ERC Ingolstadt,26

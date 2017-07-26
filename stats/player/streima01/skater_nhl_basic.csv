@@ -1,0 +1,14 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+0,NHL,48,0,28,0,0,52,11,0,6,700,MTL,0,0,[],3.8,0,9,-6,2,0,0,2005-06,0,14:36,2,28,0,3
+0,NHL,76,1,29,0,0,102,36,0,12,1065,MTL,0,0,"[{'link': '/awards/voting-2007.html#byng', 'name': 'Byng-33'}]",9.8,7,26,-5,10,0,1,2006-07,0,14:01,2,14,0,14
+42,NHL,81,3,30,1,314,165,62,59,27,1419,MTL,40,0.0,"[{'link': '/awards/voting-2008.html#AS', 'name': 'AS-13'}, {'link': '/awards/voting-2008.html#byng', 'name': 'Byng-21'}, {'link': '/awards/voting-2008.html#norris', 'name': 'Norris-13'}]",7.9,6,49,-6,13,0,0,2007-08,62,17:31,7,28,0,22
+68,NHL,74,1,31,0,328,150,56,114,19,1866,NYI,51,0,"[{'link': '/awards/voting-2009.html#AS', 'name': 'AS-10'}, {'link': '/awards/voting-2009.html#norris', 'name': 'Norris-8'}]",10.7,5,40,5,16,0,1,2008-09,113,25:13,10,62,1,20
+73,NHL,82,2,32,1,405,187,49,78,13,2107,NYI,76,0.0,"[{'link': '/awards/voting-2010.html#AS', 'name': 'AS-12'}, {'link': '/awards/voting-2010.html#norris', 'name': 'Norris-10'}]",5.9,2,38,0,11,0,0,2009-10,132,25:42,9,48,0,25
+63,NHL,82,1,34,1,319,149,47,110,20,1917,NYI,50,0.0,[],4.7,4,40,-27,7,0,0,2011-12,115,23:23,3,46,0,20
+37,NHL,0,1,35,0,206,83,27,34,8,1121,NYI,20,0,[],7.2,3,21,-14,6,0,0,2012-13,86,23:21,3,22,0,13
+41,NHL,82,2,36,0,279,121,44,41,11,1693,PHI,16,0,[],8.3,6,34,3,10,0,0,2013-14,108,20:39,4,44,0,23
+41,NHL,81,0,37,0,316,144,52,63,26,1812,PHI,16,0,[],6.3,5,43,-8,9,0,0,2014-15,103,22:22,4,36,0,17
+41,NHL,62,1,38,0,225,110,23,28,6,1356,PHI,14,0,[],5.5,4,17,-1,6,0,0,2015-16,90,21:52,2,18,0,11
+39,NHL,68,2,39,0,224,114,27,38,12,1275,TOT,16,0,[],5.3,5,21,-12,6,0,0,2016-17,92,18:45,1,28,0,9
+31,NHL,49,1,39,0,176,88,21,25,7,950,PHI,10,0,[],5.7,4,16,-10,5,0,0,2016-17,58,19:23,1,22,0,9
+8,NHL,19,1,39,0,48,26,6,13,5,325,PIT,6,0,[],3.8,1,5,-2,1,0,0,2016-17,34,17:06,0,6,0,0

@@ -1,0 +1,7 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+0,NHL,69,1,25,0,0,89,19,0,8,1255,SJS,0,0,[],2.2,0,17,8,2,0,0,2003-04,0,18:12,2,12,0,9
+0,NHL,74,2,27,0,0,131,43,0,20,1517,SJS,0,0,[],8.4,9,32,17,11,0,0,2005-06,0,20:30,2,26,1,11
+0,NHL,80,0,28,0,0,94,38,0,15,1220,OTT,0,0,"[{'link': '/awards/voting-2007.html#AS', 'name': 'AS-16'}, {'link': '/awards/voting-2007.html#byng', 'name': 'Byng-40'}, {'link': '/awards/voting-2007.html#norris', 'name': 'Norris-15'}]",7.4,4,31,40,7,0,0,2006-07,0,15:15,3,18,0,16
+45,NHL,77,1,29,7,191,93,24,22,4,1377,LAK,16,22.2,[],8.6,2,16,-6,8,2,0,2007-08,42,17:53,6,16,0,12
+15,NHL,22,0,30,0,80,40,7,15,3,368,LAK,4,0,[],7.5,1,4,-7,3,0,0,2008-09,21,16:45,2,6,0,1
+1,NHL,4,0,31,0,11,6,1,3,0,52,COL,1,0,[],0.0,0,1,-6,0,0,0,2009-10,3,13:05,0,0,0,1

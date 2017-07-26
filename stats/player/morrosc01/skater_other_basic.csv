@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1987-88,18,10,30,18,0,High-NY,24,Northwood Huskies,28
+1988-89,19,6,14,7,0,H-East,19,U. of New Hampshire,13
+1989-90,20,10,35,11,0,H-East,29,U. of New Hampshire,21
+1990-91,21,11,52,11,0,H-East,31,U. of New Hampshire,22
+1991-92,22,30,65,23,0,H-East,35,U. of New Hampshire,53
+1991-92,22,0,0,1,0,AHL,2,Springfield Indians,1
+1992-93,23,22,80,29,0,AHL,70,Springfield Indians,51
+1993-94,24,14,28,17,0,AHL,38,2 Teams,31
+1993-94,24,12,28,15,0,AHL,30,Springfield Indians,27
+1993-94,24,2,0,2,0,AHL,8,Saint John Flames,4
+1994-95,25,18,105,21,0,AHL,64,Saint John Flames,39
+1995-96,26,48,110,45,0,AHL,79,Hershey Bears,93
+1996-97,27,14,50,23,0,IHL,67,Cincinnati Cyclones,37
+1996-97,27,3,15,4,0,AHL,11,Providence Bruins,7
+1997-98,28,3,14,2,-17,UHL,8,Binghamton Icemen,5
+1997-98,28,1,7,4,0,AHL,5,Providence Bruins,5
+1997-98,28,15,44,12,-9,IHL,55,Cincinnati Cyclones,27
+1998-99,29,29,116,22,-7,IHL,80,Cincinnati Cyclones,51
+1999-00,30,2,0,3,0,Exhib.,2,Boston Lagers,5
+2000-01,31,33,143,53,15,ECHL,70,Augusta Lynx,86
+2000-01,31,1,6,2,-4,IHL,8,Manitoba Moose,3
+2001-02,32,28,130,46,2,ECHL,71,Augusta Lynx,74

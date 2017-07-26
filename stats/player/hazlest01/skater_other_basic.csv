@@ -1,13 +1,13 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-34,Hamilton Mountain A\'s,44,0,95,ON-Jr.A,60,1975-76,18,51
-0,Hamilton Fincups,4,0,7,OMJHL,5,1975-76,18,3
-56,St. Catharines Fincups,58,0,100,OMJHL,66,1976-77,19,42
-6,Canada,0,0,6,WJC-A,7,1976-77,19,6
-16,Hamilton Fincups,25,0,44,OMJHL,27,1977-78,20,19
-10,Tulsa Oilers,2,0,3,CHL,15,1977-78,20,1
-4,Fort Wayne Komets,1,0,4,IHL,4,1977-78,20,3
-36,Dallas Black Hawks,32,0,76,CHL,76,1978-79,21,44
-43,Dallas Black Hawks,23,0,46,CHL,61,1979-80,22,23
-74,Dallas Black Hawks,13,0,31,CHL,60,1980-81,23,18
-48,Dallas Black Hawks,34,0,53,CHL,71,1981-82,24,19
-6,Fort Wayne Komets,9,0,13,IHL,18,1982-83,25,4
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+44,Hamilton Mountain A\'s,51,1975-76,60,95,34,18,0,ON-Jr.A
+4,Hamilton Fincups,3,1975-76,5,7,0,18,0,OMJHL
+58,St. Catharines Fincups,42,1976-77,66,100,56,19,0,OMJHL
+0,Canada,6,1976-77,7,6,6,19,0,WJC-A
+25,Hamilton Fincups,19,1977-78,27,44,16,20,0,OMJHL
+2,Tulsa Oilers,1,1977-78,15,3,10,20,0,CHL
+1,Fort Wayne Komets,3,1977-78,4,4,4,20,0,IHL
+32,Dallas Black Hawks,44,1978-79,76,76,36,21,0,CHL
+23,Dallas Black Hawks,23,1979-80,61,46,43,22,0,CHL
+13,Dallas Black Hawks,18,1980-81,60,31,74,23,0,CHL
+34,Dallas Black Hawks,19,1981-82,71,53,48,24,0,CHL
+9,Fort Wayne Komets,4,1982-83,18,13,6,25,0,IHL

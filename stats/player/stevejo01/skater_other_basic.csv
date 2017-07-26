@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1982-83,16,2,111,9,0,ON-Jr.A,48,Newmarket Flyers,11
+1983-84,17,1,71,10,0,OHL,70,Oshawa Generals,11
+1984-85,18,2,61,10,0,OHL,44,Oshawa Generals,12
+1984-85,18,0,0,0,0,AHL,3,Hershey Bears,0
+1985-86,19,1,146,7,0,OHL,65,Oshawa Generals,8
+1985-86,19,0,8,1,0,IHL,6,Kalamazoo Wings,1
+1986-87,20,1,131,15,0,AHL,63,Hershey Bears,16
+1987-88,21,1,108,15,0,AHL,59,Hershey Bears,16
+1988-89,22,3,129,13,0,AHL,78,Hershey Bears,16
+1989-90,23,3,193,10,0,AHL,79,Hershey Bears,13
+1990-91,24,0,139,12,0,AHL,65,Springfield Indians,12
+1991-92,25,1,73,12,0,AHL,45,Springfield Indians,13
+1992-93,26,1,111,19,0,AHL,74,Springfield Indians,20
+1993-94,27,3,85,9,0,AHL,71,Springfield Indians,12
+1994-95,28,5,122,15,0,AHL,79,Springfield Indians,20
+1995-96,29,0,95,19,0,AHL,69,Springfield Falcons,19
+1996-97,30,2,116,18,0,AHL,74,Philadelphia Phantoms,20
+1997-98,31,1,76,9,10,AHL,50,Philadelphia Phantoms,10
+1998-99,32,0,19,1,12,AHL,25,Philadelphia Phantoms,1

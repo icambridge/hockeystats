@@ -1,32 +1,32 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-0,,C,15.2,55,348,36,1,28,6,53,84,Marcel Dionne,13.6,2.0,137,17,32,,80,35,11.6,28,/players/d/dionnma01.html
-0,,LW,26.3,28,213,35,0,25,8,56,45,Charlie Simmer,11.8,2.1,101,21,65,,64,47,9.7,17,/players/s/simmech01.html
-0,,RW,21.8,39,170,25,0,24,7,37,53,Dave Taylor,9.3,1.9,90,12,72,,61,39,7.4,14,/players/t/tayloda01.html
-1,,C,12.5,20,160,17,0,30,1,20,48,Butch Goring,4.3,0.2,68,2,12,,69,-21,4.0,28,/players/g/gorinbu01.html
-0,,D,6.7,21,165,3,0,24,0,11,45,Doug Halward,7.6,3.7,56,8,52,,63,14,3.9,24,/players/h/halwado01.html
-3,,RW,15.3,18,176,17,1,29,1,27,22,Mike Murphy,3.3,0.6,49,7,29,,80,-12,2.6,3,/players/m/murphmi01.html
-0,,D,3.6,32,110,3,0,23,0,4,36,Robert Palmer,7.0,5.2,40,1,18,,78,29,1.8,4,/players/p/palmero02.html
-2,,LW,14.1,11,149,15,0,24,2,21,15,Steve Jensen,1.1,-0.2,36,4,13,,76,-39,1.3,4,/players/j/jensest01.html
-0,,C,5.0,20,121,5,1,26,0,6,24,Andre St. Laurent,0.2,0.6,30,1,88,,77,-13,-0.4,3,/players/s/stlauan01.html
-0,,RW,10.9,11,92,9,0,26,1,10,11,Glenn Goldup,0.7,0.6,21,1,78,,55,-4,0.2,0,/players/g/goldugl01.html
-0,,C,20.0,10,45,8,0,24,1,9,12,Steve Carlson,0.6,0.4,21,1,23,,52,-7,0.2,2,/players/c/carlsst01.html
-0,,C,9.4,14,53,4,0,32,0,5,16,Syl Apps,0.1,0.1,21,1,12,,51,-17,-0.1,2,/players/a/appssy02.html
-0,,D,8.2,3,73,3,0,31,0,6,10,Randy Manery,2.2,1.6,16,3,48,,52,-13,0.6,7,/players/m/manerra01.html
-0,,RW,14.0,5,57,7,0,20,2,8,6,Dean Hopkins,-0.5,0.3,14,1,39,,60,-16,-0.8,1,/players/h/hopkide01.html
-0,,D,1.3,8,78,0,0,31,0,1,13,Brad Selwood,1.9,2.1,14,1,82,,63,-14,-0.2,5,/players/s/selwobr01.html
-0,,D,3.6,9,55,2,0,31,0,2,9,Barry Gibbs,1.8,2.1,11,0,32,,63,-13,-0.3,0,/players/g/gibbsba01.html
-0,,RW,18.2,3,22,3,0,28,1,4,3,Billy Harris,0.7,0.2,7,1,6,,11,4,0.4,0,/players/h/harribi02.html
-1,,LW,7.1,3,56,2,0,30,0,4,3,Bert Wilson,-1.9,0.4,7,1,91,,75,-19,-2.2,0,/players/w/wilsobe01.html
-0,,LW,4.3,4,46,2,0,27,0,2,5,Don Howse,-0.7,-0.1,7,0,6,,33,-16,-0.7,1,/players/h/howsedo01.html
-0,,LW,6.5,5,31,2,0,20,0,2,5,John Paul Kelly,-0.6,0.3,7,0,28,,40,-6,-0.9,0,/players/k/kellyjo01.html
-0,,D,3.3,2,30,1,0,31,0,1,2,Jerry Korab,0.4,0.3,3,0,34,,11,-3,0.1,0,/players/k/korabje01.html
-0,,D,0.0,3,8,0,0,24,0,0,3,Richard Mulhern,0.7,0.7,3,0,16,,15,1,-0.1,0,/players/m/mulheri01.html
-0,,D,9.1,0,11,1,0,26,0,1,1,Dave Lewis,0.7,0.7,2,0,12,,11,3,0.0,1,/players/l/lewisda02.html
-0,,G,,0,0,0,0,29,0,0,1,Ron Grahame,2.4,0.0,1,0,2,,26,0,0.0,0,/players/g/graharo02.html
-0,,D,0.0,1,14,0,0,20,0,0,1,Mark Hardy,0.0,0.3,1,0,10,,15,-7,-0.2,0,/players/h/hardyma01.html
-0,,D,0.0,1,10,0,0,27,0,0,1,Randy Holt,0.9,1.7,1,0,94,,42,-3,-0.8,0,/players/h/holtra01.html
-0,,D,0.0,0,1,0,0,23,0,0,0,Rick Hampton,0.2,0.3,0,0,0,,3,3,-0.1,0,/players/h/hamptri01.html
-0,,G,,0,0,0,0,22,0,0,0,Doug Keans,2.3,0.0,0,0,0,,10,0,0.0,0,/players/k/keansdo01.html
-0,,G,,0,0,0,0,25,0,0,0,Mario Lessard,5.9,0.0,0,0,6,,50,0,0.0,0,/players/l/lessama01.html
-0,,LW,0.0,0,1,0,0,24,0,0,0,Mike Marson,-0.1,0.0,0,0,5,,3,-2,-0.1,0,/players/m/marsomi01.html
-0,,D,0.0,0,22,0,0,20,0,0,0,Jay Wells,-0.2,0.7,0,0,113,,43,-22,-0.9,0,/players/w/wellsja01.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+84,6,53,28,,11.6,2.0,36,,28,C,13.6,55,LAK,/players/d/dionnma01.html,1,32,17,35,Marcel Dionne,15.2,1980,137,0,80,348
+45,8,56,25,,9.7,2.1,35,,17,LW,11.8,28,LAK,/players/s/simmech01.html,0,65,21,47,Charlie Simmer,26.3,1980,101,0,64,213
+53,7,37,24,,7.4,1.9,25,,14,RW,9.3,39,LAK,/players/t/tayloda01.html,0,72,12,39,Dave Taylor,21.8,1980,90,0,61,170
+48,1,20,30,,4.0,0.2,17,,28,C,4.3,20,LAK,/players/g/gorinbu01.html,0,12,2,-21,Butch Goring,12.5,1980,68,1,69,160
+45,0,11,24,,3.9,3.7,3,,24,D,7.6,21,LAK,/players/h/halwado01.html,0,52,8,14,Doug Halward,6.7,1980,56,0,63,165
+22,1,27,29,,2.6,0.6,17,,3,RW,3.3,18,LAK,/players/m/murphmi01.html,1,29,7,-12,Mike Murphy,15.3,1980,49,3,80,176
+36,0,4,23,,1.8,5.2,3,,4,D,7.0,32,LAK,/players/p/palmero02.html,0,18,1,29,Robert Palmer,3.6,1980,40,0,78,110
+15,2,21,24,,1.3,-0.2,15,,4,LW,1.1,11,LAK,/players/j/jensest01.html,0,13,4,-39,Steve Jensen,14.1,1980,36,2,76,149
+24,0,6,26,,-0.4,0.6,5,,3,C,0.2,20,LAK,/players/s/stlauan01.html,1,88,1,-13,Andre St. Laurent,5.0,1980,30,0,77,121
+11,1,10,26,,0.2,0.6,9,,0,RW,0.7,11,LAK,/players/g/goldugl01.html,0,78,1,-4,Glenn Goldup,10.9,1980,21,0,55,92
+12,1,9,24,,0.2,0.4,8,,2,C,0.6,10,LAK,/players/c/carlsst01.html,0,23,1,-7,Steve Carlson,20.0,1980,21,0,52,45
+16,0,5,32,,-0.1,0.1,4,,2,C,0.1,14,LAK,/players/a/appssy02.html,0,12,1,-17,Syl Apps,9.4,1980,21,0,51,53
+10,0,6,31,,0.6,1.6,3,,7,D,2.2,3,LAK,/players/m/manerra01.html,0,48,3,-13,Randy Manery,8.2,1980,16,0,52,73
+6,2,8,20,,-0.8,0.3,7,,1,RW,-0.5,5,LAK,/players/h/hopkide01.html,0,39,1,-16,Dean Hopkins,14.0,1980,14,0,60,57
+13,0,1,31,,-0.2,2.1,0,,5,D,1.9,8,LAK,/players/s/selwobr01.html,0,82,1,-14,Brad Selwood,1.3,1980,14,0,63,78
+9,0,2,31,,-0.3,2.1,2,,0,D,1.8,9,LAK,/players/g/gibbsba01.html,0,32,0,-13,Barry Gibbs,3.6,1980,11,0,63,55
+3,1,4,28,,0.4,0.2,3,,0,RW,0.7,3,LAK,/players/h/harribi02.html,0,6,1,4,Billy Harris,18.2,1980,7,0,11,22
+3,0,4,30,,-2.2,0.4,2,,0,LW,-1.9,3,LAK,/players/w/wilsobe01.html,0,91,1,-19,Bert Wilson,7.1,1980,7,1,75,56
+5,0,2,27,,-0.7,-0.1,2,,1,LW,-0.7,4,LAK,/players/h/howsedo01.html,0,6,0,-16,Don Howse,4.3,1980,7,0,33,46
+5,0,2,20,,-0.9,0.3,2,,0,LW,-0.6,5,LAK,/players/k/kellyjo01.html,0,28,0,-6,John Paul Kelly,6.5,1980,7,0,40,31
+2,0,1,31,,0.1,0.3,1,,0,D,0.4,2,LAK,/players/k/korabje01.html,0,34,0,-3,Jerry Korab,3.3,1980,3,0,11,30
+3,0,0,24,,-0.1,0.7,0,,0,D,0.7,3,LAK,/players/m/mulheri01.html,0,16,0,1,Richard Mulhern,0.0,1980,3,0,15,8
+1,0,1,26,,0.0,0.7,1,,1,D,0.7,0,LAK,/players/l/lewisda02.html,0,12,0,3,Dave Lewis,9.1,1980,2,0,11,11
+1,0,0,29,,0.0,0.0,0,,0,G,2.4,0,LAK,/players/g/graharo02.html,0,2,0,0,Ron Grahame,,1980,1,0,26,0
+1,0,0,20,,-0.2,0.3,0,,0,D,0.0,1,LAK,/players/h/hardyma01.html,0,10,0,-7,Mark Hardy,0.0,1980,1,0,15,14
+1,0,0,27,,-0.8,1.7,0,,0,D,0.9,1,LAK,/players/h/holtra01.html,0,94,0,-3,Randy Holt,0.0,1980,1,0,42,10
+0,0,0,23,,-0.1,0.3,0,,0,D,0.2,0,LAK,/players/h/hamptri01.html,0,0,0,3,Rick Hampton,0.0,1980,0,0,3,1
+0,0,0,22,,0.0,0.0,0,,0,G,2.3,0,LAK,/players/k/keansdo01.html,0,0,0,0,Doug Keans,,1980,0,0,10,0
+0,0,0,25,,0.0,0.0,0,,0,G,5.9,0,LAK,/players/l/lessama01.html,0,6,0,0,Mario Lessard,,1980,0,0,50,0
+0,0,0,24,,-0.1,0.0,0,,0,LW,-0.1,0,LAK,/players/m/marsomi01.html,0,5,0,-2,Mike Marson,0.0,1980,0,0,3,1
+0,0,0,20,,-0.9,0.7,0,,0,D,-0.2,0,LAK,/players/w/wellsja01.html,0,113,0,-22,Jay Wells,0.0,1980,0,0,43,22

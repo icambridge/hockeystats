@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1992-93,16,0,0,0,0,Czech,1,TJ Vitkovice,0
+1993-94,17,6,0,7,0,CzRep,24,HC Vitkovice,13
+1993-94,17,3,6,3,0,EJC-A,5,Czech Republic,6
+1994-95,18,50,108,38,0,WHL,68,Tacoma Rockets,88
+1994-95,18,6,25,4,0,WJC-A,7,Czech Republic,10
+1995-96,19,39,100,46,0,WHL,59,Kelowna Rockets,85
+1995-96,19,5,8,1,0,WJC-A,6,Czech Republic,6
+1995-96,19,3,4,0,0,AHL,5,Rochester Americans,3
+1996-97,20,23,81,25,0,AHL,53,Rochester Americans,48
+1997-98,21,30,74,26,20,AHL,45,Rochester Americans,56
+1999-00,23,2,12,3,0,CzRep,5,HC Vitkovice,5
+1999-00,23,2,6,4,5,WC-A,9,Czech Republic,6
+2004-05,28,8,83,19,0,CzRep,44,HC Vitkovice Steel,27
+2004-05,28,1,2,0,2,WC-A,9,Czech Republic,1
+2006-07,30,6,26,4,0,Swiss,25,HC Davos,10
+2007-08,31,12,56,20,0,Swiss,37,SCL Tigers Langnau,32
+2008-09,32,5,22,5,0,CzRep,16,HC Vitkovice Steel,10
+2009-10,33,6,30,13,0,CzRep,43,2 Teams,19
+2009-10,33,2,12,8,0,CzRep,19,HC Vitkovice Steel,10
+2009-10,33,4,18,5,0,CzRep,24,HC Kometa Brno,9
+2010-11,34,12,44,25,0,CzRep,51,HC Ocelari Trinec,37
+2011-12,35,6,20,7,0,CzRep,16,HC Ocelari Trinec,13
+2012-13,36,14,60,23,0,CzRep,51,HC Ocelari Trinec,37

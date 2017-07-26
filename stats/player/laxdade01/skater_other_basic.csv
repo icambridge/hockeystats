@@ -1,0 +1,33 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1982-83,16,4,27,9,0,WHL,39,Portland Winter Hawks,13
+1983-84,17,23,86,20,0,WHL,70,Brandon Wheat Kings,43
+1984-85,18,61,74,41,0,WHL,69,Brandon Wheat Kings,102
+1984-85,18,3,2,2,0,AHL,5,St. Catharines Saints,5
+1985-86,19,1,6,4,0,WJC-A,7,Canada,5
+1985-86,19,0,15,1,0,AHL,7,St. Catharines Saints,1
+1985-86,19,43,76,41,0,WHL,60,2 Teams,84
+1985-86,19,34,62,35,0,WHL,42,Brandon Wheat Kings,69
+1985-86,19,9,14,6,0,WHL,18,New Westminster Bruins,15
+1986-87,20,24,69,20,0,AHL,78,Newmarket Saints,44
+1987-88,21,18,81,25,0,AHL,67,Newmarket Saints,43
+1988-89,22,22,53,22,0,AHL,34,Newmarket Saints,44
+1989-90,23,20,94,20,0,AHL,51,2 Teams,40
+1989-90,23,7,52,8,0,AHL,23,Newmarket Saints,15
+1989-90,23,13,42,12,0,AHL,28,Springfield Indians,25
+1990-91,24,14,75,25,0,AHL,65,Capital District Islanders,39
+1991-92,25,7,61,7,0,AHL,49,Capital District Islanders,14
+1992-93,26,13,71,27,0,Nat-Tm,51,Canada,40
+1993-94,27,6,20,5,0,Finland,17,Ilves Tampere,11
+1994-95,28,32,144,24,0,ECHL,66,Roanoke Express,56
+1995-96,29,10,33,15,0,BH-Cup,8,Humberside Hawks,25
+1995-96,29,29,163,29,0,Britain,33,Humberside Hawks,58
+1996-97,30,8,37,1,0,BH-Cup,11,Nottingham Panthers,9
+1996-97,30,14,54,14,0,Britain,31,Nottingham Panthers,28
+1997-98,31,7,16,9,0,BH-Cup,12,Nottingham Panthers,16
+1997-98,31,24,103,23,0,Britain,44,Nottingham Panthers,47
+1998-99,32,0,6,6,0,BH-Cup,10,Sheffield Steelers,6
+1998-99,32,9,32,13,0,Britain,29,Sheffield Steelers,22
+1999-00,33,6,6,6,0,BH-Cup,10,Sheffield Steelers,12
+1999-00,33,3,20,3,0,Britain,18,Sheffield Steelers,6
+1999-00,33,28,53,25,2,WPHL,46,Odessa Jackalopes,53
+2000-01,34,21,103,23,0,WPHL,65,Odessa Jackalopes,44

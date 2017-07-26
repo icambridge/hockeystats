@@ -1,0 +1,16 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2004-05,16,6,91,13,-2,USHL,47,Sioux City Musketeers,19
+2005-06,17,6,99,10,1,USHL,56,Sioux City Musketeers,16
+2006-07,18,1,24,3,3,CCHA,35,University of Michigan,4
+2007-08,19,2,36,15,27,CCHA,42,University of Michigan,17
+2008-09,20,1,24,12,17,CCHA,25,University of Michigan,13
+2009-10,21,3,50,23,18,CCHA,45,University of Michigan,26
+2009-10,21,1,4,2,-2,AHL,6,Providence Bruins,3
+2010-11,22,3,12,13,10,AHL,22,Providence Bruins,16
+2011-12,23,2,16,6,-6,AHL,24,2 Teams,8
+2011-12,23,1,8,3,-3,AHL,12,Providence Bruins,4
+2011-12,23,1,8,3,-3,AHL,12,Houston Aeros,4
+2012-13,24,4,28,17,-9,AHL,55,Houston Aeros,21
+2013-14,25,6,48,20,-16,AHL,69,Iowa Wild,26
+2014-15,26,8,49,11,-5,AHL,42,San Antonio Rampage,19
+2016-17,28,4,44,15,-22,AHL,43,Hartford Wolf Pack,19

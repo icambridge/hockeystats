@@ -1,0 +1,17 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,QAAA,16,Montreal L\'est Cantonniers,960,15,7,0,0,83,0,0,2,0,7,0,0,0,0,0,1980-81,0,5.19,0,0
+0,QAAA,19,Montreal L\'est Cantonniers,1140,16,4,0,0,97,0,0,2,0,13,0,0,0,0,0,1981-82,0,5.11,0,0
+0,QMJHL,39,2 Teams,1990,17,18,0,0,204,0,0,2,0,12,0,0,0,0,0,1982-83,0,6.15,0,0
+0,QMJHL,17,Hull Olympiques,808,17,8,0,0,80,0,0,0,0,5,0,0,0,0,0,1982-83,0,5.94,0,0
+0,QMJHL,22,Trois-Rivieres Draveurs,1182,17,10,0,0,124,0,0,2,0,7,0,0,0,0,0,1982-83,0,6.29,0,0
+0,QMJHL,54,Trois-Rivieres Draveurs,2801,18,26,0,0,227,0,0,1,1,19,0,0,0,0,0,1983-84,0,4.86,0,0
+0,QMJHL,58,Trois-Rivieres Draveurs,3297,19,26,0,0,220,0,0,1,2,28,0,0,0,0,0,1984-85,0,4.00,0,0
+0,Nat-Tm,46,Canada,2571,20,18,0,0,151,0,0,3,4,25,0,0,0,0,0,1985-86,0,3.52,0,0
+0,IHL,45,Fort Wayne Komets,2433,21,16,0,0,134,0,0,0,1,23,0,0,0,0,0,1986-87,0,3.30,0,0
+0,IHL,40,Fort Wayne Komets,2271,22,15,0,0,142,0,0,3,2,20,0,0,0,0,0,1987-88,0,3.75,0,0
+0,AHL,41,Baltimore Skipjacks,2301,23,22,0,0,162,0,0,2,0,14,0,0,0,0,0,1988-89,0,4.22,0,0
+0,AHL,11,Baltimore Skipjacks,612,24,5,0,0,34,0,0,2,0,4,0,0,0,0,0,1989-90,0,3.33,0,0
+0,ECHL,31,Hampton Roads Admirals,2048,24,12,0,0,123,0,0,1,0,17,0,0,0,0,0,1989-90,0,3.60,0,0
+0,IHL,5,Peoria Rivermen,304,25,3,0,0,22,0,0,1,0,1,0,0,0,0,0,1990-91,0,4.34,0,0
+0,ECHL,43,Nashville Knights,2508,25,18,0,0,189,0,0,3,1,21,0,0,0,0,0,1990-91,0,4.52,0,0
+0,IHL,6,Peoria Rivermen,370,26,3,0,0,27,0,0,2,0,1,0,0,0,0,0,1991-92,0,4.38,0,0

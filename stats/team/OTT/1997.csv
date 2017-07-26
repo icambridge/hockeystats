@@ -1,32 +1,32 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-0,,C,12.0,22,291,25,1,23,5,35,40,Alexei Yashin,8.3,1.0,75,10,44,,82,-7,7.2,17,/players/y/yashial01.html
-1,,RW,9.7,25,247,12,2,24,1,24,47,Daniel Alfredsson,7.4,1.4,71,11,30,,76,5,6.0,20,/players/a/alfreda01.html
-0,,RW,12.8,11,203,22,0,21,5,26,25,Alexandre Daigle,4.2,0.1,51,4,33,,82,-33,4.1,14,/players/d/daiglal02.html
-2,,D,9.1,18,208,7,0,31,3,19,28,Steve Duchesne,8.6,3.9,47,10,38,,78,-9,4.7,10,/players/d/duchest01.html
-0,,LW,10.4,20,115,6,0,35,3,12,24,Randy Cunneyworth,2.5,0.9,36,6,99,,76,-7,1.6,4,/players/c/cunnera01.html
-0,,RW,15.2,18,79,10,0,24,3,12,19,Andreas Dackell,2.0,1.0,31,2,8,,79,-6,1.0,1,/players/d/dackean01.html
-1,,LW,7.3,16,150,10,1,27,2,11,20,Shawn McEachern,2.3,0.8,31,0,18,,65,-5,1.5,3,/players/m/mceacsh01.html
-0,,D,5.9,15,102,4,1,19,1,6,24,Wade Redden,6.7,4.9,30,2,41,,82,1,1.8,8,/players/r/reddewa01.html
-0,,C,12.5,12,96,7,0,24,0,12,16,Sergei Zholtok,2.5,1.0,28,5,19,,57,2,1.6,4,/players/z/zholtse01.html
-1,,LW,15.5,6,116,16,1,30,1,18,8,Tom Chorske,2.5,1.0,26,1,16,,68,-1,1.5,1,/players/c/chorsto01.html
-1,,C,8.9,12,123,9,1,29,2,11,14,Shaun Van Allen,1.3,1.0,25,1,35,,80,-8,0.3,1,/players/v/vanalsh01.html
-1,,RW,11.7,9,94,10,0,24,2,11,10,Bruce Gardiner,1.6,1.2,21,0,49,,67,4,0.4,1,/players/g/gardibr01.html
-0,,D,3.3,11,121,3,0,26,0,4,17,Jason York,4.7,3.8,21,1,67,,75,-8,0.9,6,/players/y/yorkja01.html
-0,,D,2.8,10,109,1,1,26,0,3,18,Janne Laukkanen,4.2,3.5,21,2,76,,76,-14,0.8,7,/players/l/laukkja01.html
-0,,LW,6.9,16,58,4,0,27,1,4,16,Denny Lambert,0.3,1.1,20,0,217,,80,-4,-0.8,0,/players/l/lambede01.html
-1,,C,6.1,12,82,4,0,21,0,5,13,Radek Bonk,0.8,0.7,18,0,14,,53,-4,0.1,1,/players/b/bonkra01.html
-0,,D,9.3,5,54,5,0,29,1,5,5,Lance Pitlick,4.1,4.0,10,0,91,,66,2,0.1,0,/players/p/pitlila01.html
-0,,LW,15.0,3,20,3,0,25,0,3,3,Jason Zent,0.5,0.5,6,0,9,,22,5,0.0,0,/players/z/zentja01.html
-0,,D,8.3,1,24,1,0,26,0,2,3,Christer Olsson,1.3,1.1,5,1,10,,25,-5,0.2,2,/players/o/olssoch01.html
-0,,RW,8.3,4,12,1,0,26,0,1,4,Denis Chasse,0.2,0.4,5,0,19,,22,3,-0.3,0,/players/c/chassde01.html
-0,,D,0.0,5,24,0,0,32,0,0,5,Frantisek Musil,3.1,3.8,5,0,58,,57,6,-0.6,0,/players/m/musilfr01.html
-1,,C,12.5,1,16,1,1,35,1,2,2,Dave Hannan,-0.3,0.5,4,0,8,,34,-1,-0.8,0,/players/h/hannada01.html
-0,,G,,0,0,0,0,27,0,0,2,Damian Rhodes,4.9,0.0,2,0,2,,50,0,0.0,0,/players/r/rhodeda01.html
-0,,D,0.0,1,27,0,0,22,0,0,1,Radim Bicanek,0.6,0.9,1,0,8,,21,-4,-0.3,0,/players/b/bicanra01.html
-0,,RW,0.0,1,8,0,0,26,0,0,1,Phil Crowe,-0.5,0.4,1,0,30,,26,0,-0.9,0,/players/c/croweph01.html
-0,,G,,0,0,0,0,29,0,0,1,Ron Tugnutt,3.9,0.0,1,0,0,,37,0,0.0,0,/players/t/tugnuro01.html
-0,,LW,0.0,1,4,0,0,27,0,0,1,Dennis Vial,-0.2,0.2,1,0,25,,11,0,-0.3,0,/players/v/vialde01.html
-0,,D,0.0,0,2,0,0,27,0,0,1,Phil Von Stefenelli,0.1,0.1,1,0,7,,6,-3,0.0,1,/players/v/vonstph01.html
-0,,G,,0,0,0,0,25,0,0,0,Mike Bales,-0.1,0.0,0,0,0,,1,0,0.0,0,/players/b/balesmi01.html
-0,,D,0.0,0,9,0,0,26,0,0,0,Sean Hill,0.3,0.4,0,0,4,,5,1,-0.1,0,/players/h/hillse01.html
-0,,D,0.0,0,3,0,0,21,0,0,0,Stan Neckar,0.3,0.4,0,0,2,,5,2,-0.1,0,/players/n/neckast01.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+40,5,35,23,,7.2,1.0,25,,17,C,8.3,22,OTT,/players/y/yashial01.html,1,44,10,-7,Alexei Yashin,12.0,1997,75,0,82,291
+47,1,24,24,,6.0,1.4,12,,20,RW,7.4,25,OTT,/players/a/alfreda01.html,2,30,11,5,Daniel Alfredsson,9.7,1997,71,1,76,247
+25,5,26,21,,4.1,0.1,22,,14,RW,4.2,11,OTT,/players/d/daiglal02.html,0,33,4,-33,Alexandre Daigle,12.8,1997,51,0,82,203
+28,3,19,31,,4.7,3.9,7,,10,D,8.6,18,OTT,/players/d/duchest01.html,0,38,10,-9,Steve Duchesne,9.1,1997,47,2,78,208
+24,3,12,35,,1.6,0.9,6,,4,LW,2.5,20,OTT,/players/c/cunnera01.html,0,99,6,-7,Randy Cunneyworth,10.4,1997,36,0,76,115
+19,3,12,24,,1.0,1.0,10,,1,RW,2.0,18,OTT,/players/d/dackean01.html,0,8,2,-6,Andreas Dackell,15.2,1997,31,0,79,79
+20,2,11,27,,1.5,0.8,10,,3,LW,2.3,16,OTT,/players/m/mceacsh01.html,1,18,0,-5,Shawn McEachern,7.3,1997,31,1,65,150
+24,1,6,19,,1.8,4.9,4,,8,D,6.7,15,OTT,/players/r/reddewa01.html,1,41,2,1,Wade Redden,5.9,1997,30,0,82,102
+16,0,12,24,,1.6,1.0,7,,4,C,2.5,12,OTT,/players/z/zholtse01.html,0,19,5,2,Sergei Zholtok,12.5,1997,28,0,57,96
+8,1,18,30,,1.5,1.0,16,,1,LW,2.5,6,OTT,/players/c/chorsto01.html,1,16,1,-1,Tom Chorske,15.5,1997,26,1,68,116
+14,2,11,29,,0.3,1.0,9,,1,C,1.3,12,OTT,/players/v/vanalsh01.html,1,35,1,-8,Shaun Van Allen,8.9,1997,25,1,80,123
+10,2,11,24,,0.4,1.2,10,,1,RW,1.6,9,OTT,/players/g/gardibr01.html,0,49,0,4,Bruce Gardiner,11.7,1997,21,1,67,94
+17,0,4,26,,0.9,3.8,3,,6,D,4.7,11,OTT,/players/y/yorkja01.html,0,67,1,-8,Jason York,3.3,1997,21,0,75,121
+18,0,3,26,,0.8,3.5,1,,7,D,4.2,10,OTT,/players/l/laukkja01.html,1,76,2,-14,Janne Laukkanen,2.8,1997,21,0,76,109
+16,1,4,27,,-0.8,1.1,4,,0,LW,0.3,16,OTT,/players/l/lambede01.html,0,217,0,-4,Denny Lambert,6.9,1997,20,0,80,58
+13,0,5,21,,0.1,0.7,4,,1,C,0.8,12,OTT,/players/b/bonkra01.html,0,14,0,-4,Radek Bonk,6.1,1997,18,1,53,82
+5,1,5,29,,0.1,4.0,5,,0,D,4.1,5,OTT,/players/p/pitlila01.html,0,91,0,2,Lance Pitlick,9.3,1997,10,0,66,54
+3,0,3,25,,0.0,0.5,3,,0,LW,0.5,3,OTT,/players/z/zentja01.html,0,9,0,5,Jason Zent,15.0,1997,6,0,22,20
+3,0,2,26,,0.2,1.1,1,,2,D,1.3,1,OTT,/players/o/olssoch01.html,0,10,1,-5,Christer Olsson,8.3,1997,5,0,25,24
+4,0,1,26,,-0.3,0.4,1,,0,RW,0.2,4,OTT,/players/c/chassde01.html,0,19,0,3,Denis Chasse,8.3,1997,5,0,22,12
+5,0,0,32,,-0.6,3.8,0,,0,D,3.1,5,OTT,/players/m/musilfr01.html,0,58,0,6,Frantisek Musil,0.0,1997,5,0,57,24
+2,1,2,35,,-0.8,0.5,1,,0,C,-0.3,1,OTT,/players/h/hannada01.html,1,8,0,-1,Dave Hannan,12.5,1997,4,1,34,16
+2,0,0,27,,0.0,0.0,0,,0,G,4.9,0,OTT,/players/r/rhodeda01.html,0,2,0,0,Damian Rhodes,,1997,2,0,50,0
+1,0,0,22,,-0.3,0.9,0,,0,D,0.6,1,OTT,/players/b/bicanra01.html,0,8,0,-4,Radim Bicanek,0.0,1997,1,0,21,27
+1,0,0,26,,-0.9,0.4,0,,0,RW,-0.5,1,OTT,/players/c/croweph01.html,0,30,0,0,Phil Crowe,0.0,1997,1,0,26,8
+1,0,0,29,,0.0,0.0,0,,0,G,3.9,0,OTT,/players/t/tugnuro01.html,0,0,0,0,Ron Tugnutt,,1997,1,0,37,0
+1,0,0,27,,-0.3,0.2,0,,0,LW,-0.2,1,OTT,/players/v/vialde01.html,0,25,0,0,Dennis Vial,0.0,1997,1,0,11,4
+1,0,0,27,,0.0,0.1,0,,1,D,0.1,0,OTT,/players/v/vonstph01.html,0,7,0,-3,Phil Von Stefenelli,0.0,1997,1,0,6,2
+0,0,0,25,,0.0,0.0,0,,0,G,-0.1,0,OTT,/players/b/balesmi01.html,0,0,0,0,Mike Bales,,1997,0,0,1,0
+0,0,0,26,,-0.1,0.4,0,,0,D,0.3,0,OTT,/players/h/hillse01.html,0,4,0,1,Sean Hill,0.0,1997,0,0,5,9
+0,0,0,21,,-0.1,0.4,0,,0,D,0.3,0,OTT,/players/n/neckast01.html,0,2,0,2,Stan Neckar,0.0,1997,0,0,5,3

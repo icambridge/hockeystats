@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,16,7,22,8,0,Swe-Jr.,24,Djurgardens IF Stockholm Jr.,15
+1994-95,16,4,0,4,0,EJC-A,5,Sweden,8
+1995-96,17,19,46,17,0,Swe-Jr.,25,Djurgardens IF Stockholm Jr.,36
+1995-96,17,3,12,5,0,WJC-A,7,Sweden,8
+1995-96,17,0,0,0,0,Sweden,12,Djurgardens IF Stockholm,0
+1995-96,17,3,10,5,0,EJC-A,5,Sweden,8
+1996-97,18,0,33,3,0,Sweden,37,Djurgardens IF Stockholm,3
+1996-97,18,0,29,4,0,WJC-A,6,Sweden,4
+1997-98,19,4,18,7,0,Sweden,41,Djurgardens IF Stockholm,11
+1997-98,19,3,4,5,0,WJC-A,7,Sweden,8
+1998-99,20,8,10,25,-14,AHL,69,Beast of New Haven,33
+1999-00,21,9,52,23,3,AHL,64,Louisville Panthers,32
+2002-03,24,0,0,0,0,WC-A,1,Sweden,0
+2004-05,26,1,4,0,1,W-Cup,4,Sweden,1
+2004-05,26,17,110,22,0,Sweden,48,Djurgardens IF Stockholm,39
+2007-08,29,4,2,2,1,WC-A,9,Sweden,6
+2008-09,30,6,30,3,0,KHL,36,Lokomotiv Yaroslavl,9
+2008-09,30,3,6,3,2,WC-A,9,Sweden,6
+2009-10,31,24,32,27,0,Sweden,53,Djurgardens IF Stockholm,51
+2009-10,31,1,2,1,0,WC-A,9,Sweden,2
+2010-11,32,7,38,16,0,Sweden,39,Djurgardens IF Stockholm,23
+2011-12,33,11,45,21,0,Sweden,51,Djurgardens IF Stockholm,32
+2011-12,33,1,2,5,0,Sweden-Q,10,Djurgardens IF Stockholm,6
+2012-13,34,18,37,16,0,Sweden,53,HV 71 Jonkoping,34

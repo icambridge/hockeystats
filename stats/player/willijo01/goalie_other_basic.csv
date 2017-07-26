@@ -1,0 +1,16 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,ON-Jr.C,17,Hanover Barons,906,16,1,0,0,37,0,0,2,0,11,0,0,0,0,0,1991-92,0,2.45,0,0
+0,OHL,26,London Knights,1428,17,6,0,0,101,0,0,3,1,13,0,0,0,0,0,1992-93,0,4.24,0,0
+0,OHL,44,London Knights,2428,18,19,0,0,158,0,0,2,1,20,0,0,0,0,0,1993-94,0,3.90,0,0
+0,OHL,53,London Knights,2824,19,29,0,0,202,0,0,3,0,16,0,0,0,0,0,1994-95,0,4.29,0,-202
+0,IHL,38,Michigan K-Wings,2184,20,9,0,0,118,0,0,9,1,17,0,0,0,0,.895,1995-96,1127,3.24,0,1009
+0,Nat-Tm,15,Canada,804,21,4,0,0,42,0,0,2,0,7,0,0,0,0,0,1996-97,0,3.13,0,0
+0,ECHL,8,Dayton Bombers,429,21,4,0,0,25,0,0,0,0,4,0,0,0,0,.895,1996-97,239,3.50,0,214
+0,IHL,2,Michigan K-Wings,102,21,2,0,0,8,0,0,0,0,0,0,0,0,0,.890,1996-97,73,4.71,0,65
+0,IHL,31,Michigan K-Wings,1584,22,18,0,0,93,0,0,2,1,8,0,0,0,0,.879,1997-98,769,3.52,0,676
+0,ECHL,47,Baton Rouge Kingfish,2521,23,20,0,3,131,0,0,5,4,19,3,0,0,0,.903,1998-99,1345,3.12,25,1214
+0,BH-Cup,8,Nottingham Panthers,205,24,0,0,0,28,0,0,0,0,0,0,0,0,0,0,1999-00,0,8.20,0,0
+0,Britain,40,Nottingham Panthers,2344,24,0,0,0,141,0,0,0,0,0,0,0,0,0,0,1999-00,0,3.61,0,0
+0,BH-Cup,7,Nottingham Panthers,400,25,0,0,0,21,0,0,0,0,0,0,0,0,0,0,2000-01,0,3.15,0,0
+0,Britain,40,Nottingham Panthers,2300,25,0,0,0,119,0,0,0,0,0,0,0,0,0,0,2000-01,0,3.10,0,0
+0,ECHL,28,Roanoke Express,1451,26,9,0,1,81,0,0,5,0,11,1,0,0,0,.890,2001-02,735,3.35,9,654

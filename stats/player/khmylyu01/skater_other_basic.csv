@@ -1,0 +1,31 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1981-82,17,2,0,0,0,USSR-2,6,Lokomotiv Moscow,2
+1981-82,17,2,2,2,0,USSR,8,Krylja Sovetov Moscow,4
+1981-82,17,2,4,3,0,EJC-A,5,Soviet Union,5
+1982-83,18,9,14,7,0,USSR,51,Krylja Sovetov Moscow,16
+1983-84,19,7,10,8,0,USSR,43,Krylja Sovetov Moscow,15
+1983-84,19,2,0,7,0,WJC-A,7,Soviet Union,9
+1984-85,20,11,24,4,0,USSR,30,Krylja Sovetov Moscow,15
+1985-86,21,24,22,9,0,USSR,40,Krylja Sovetov Moscow,33
+1985-86,21,2,4,1,0,WEC-A,6,Soviet Union,3
+1986-87,22,15,48,15,0,USSR,40,Krylja Sovetov Moscow,30
+1986-87,22,0,0,0,0,RV-87,2,Soviet Union,0
+1986-87,22,1,8,1,0,WEC-A,10,Soviet Union,2
+1987-88,23,0,2,1,0,Can-Cup,9,Soviet Union,1
+1987-88,23,21,46,8,0,USSR,48,Krylja Sovetov Moscow,29
+1988-89,24,16,38,18,0,USSR,44,Krylja Sovetov Moscow,34
+1988-89,24,1,2,0,0,Super-S,2,CSKA Moscow,1
+1988-89,24,1,0,3,0,WEC-A,8,Soviet Union,4
+1989-90,25,14,30,13,0,USSR,44,Krylja Sovetov Moscow,27
+1989-90,25,1,0,0,0,Fr-Tour,1,Krylja Sovetov Moscow,1
+1989-90,25,4,0,1,0,Super-S,5,Krylja Sovetov Moscow,5
+1990-91,26,25,26,14,0,USSR,45,Krylja Sovetov Moscow,39
+1990-91,26,0,0,0,0,Fr-Tour,1,Krylja Sovetov Moscow,0
+1990-91,26,3,0,3,0,Super-S,7,CSKA Moscow,6
+1991-92,27,19,20,17,0,CIS,42,Krylja Sovetov Moscow,36
+1991-92,27,4,4,6,0,Olympics,8,Russia,10
+1991-92,27,0,0,1,0,WC-A,5,Russia,1
+1996-97,32,1,4,7,0,IHL,15,Quebec Rafales,8
+1996-97,32,5,43,19,0,AHL,52,Hamilton Bulldogs,24
+1997-98,33,5,2,6,0,Swiss,17,HC Fribourg-Gotteron,11
+1998-99,34,12,19,21,-4,AHL,48,St. John\'s Maple Leafs,33

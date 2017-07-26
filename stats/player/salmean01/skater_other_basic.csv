@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2000-01,16,7,24,3,0,Fin-U18,32,Tappara Tampere U18,10
+2001-02,17,6,12,4,0,Fin-U18,11,Tappara Tampere U18,10
+2001-02,17,3,22,4,0,Fin-Jr.,26,Tappara Tampere Jr.,7
+2002-03,18,5,22,9,0,Fin-Jr.,23,Tappara Tampere Jr.,14
+2003-04,19,2,0,2,0,Finland-2,5,Suomi U20,4
+2003-04,19,10,22,9,0,Fin-Jr.,27,Tappara Tampere Jr.,19
+2003-04,19,0,2,0,0,Finland,10,Tappara Tampere,0
+2004-05,20,2,6,4,0,Fin-Jr.,10,Tappara Tampere Jr.,6
+2004-05,20,1,49,5,0,Finland,48,Tappara Tampere,6
+2005-06,21,8,59,8,0,Finland,48,2 Teams,16
+2005-06,21,0,0,1,0,Finland,8,Tappara Tampere,1
+2005-06,21,8,59,7,0,Finland,40,Pelicans Lahti,15
+2006-07,22,11,58,12,0,Finland,56,Pelicans Lahti,23
+2007-08,23,16,40,16,0,Finland,56,Tappara Tampere,32
+2007-08,23,0,37,0,3,WC-A,8,Finland,0
+2008-09,24,1,2,0,2,WC-A,7,Finland,1
+2008-09,24,8,41,16,-8,AHL,40,2 Teams,24
+2008-09,24,8,41,16,-6,AHL,38,Lowell Devils,24
+2008-09,24,0,0,0,-2,AHL,2,Chicago Wolves,0
+2010-11,26,0,0,0,-3,AHL,2,Albany Devils,0
+2010-11,26,1,4,2,5,WC-A,9,Finland,3
+2011-12,27,6,14,4,0,KHL,22,Avangard Omsk Region,10
+2011-12,27,0,25,2,0,WC-A,7,Finland,2
+2012-13,28,2,37,12,0,KHL,37,Avangard Omsk Region,14

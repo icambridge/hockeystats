@@ -1,24 +1,24 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-2,Montreal Bell Telephone,1,0,2,MTRHL,2,1928-29,19,1
-2,Montreal Columbus,0,0,2,MCHL,10,1929-30,20,2
-6,Montreal Columbus,0,0,3,MCHL,9,1930-31,21,3
-6,Boston Cubs,1,0,3,Can-Am,18,1931-32,22,2
-12,Montreal AAA,1,0,5,MCHL,8,1931-32,22,4
-10,Boston Cubs,1,0,5,Can-Am,23,1932-33,23,4
-16,Boston Cubs,5,0,15,Can-Am,38,1933-34,24,10
-0,Syracuse Stars,1,0,1,IHL,5,1934-35,25,0
-20,Boston Cubs,15,0,26,Can-Am,40,1934-35,25,11
-14,Boston Cubs,4,0,7,Can-Am,22,1935-36,26,3
-0,Calgary Tigers,3,0,7,NWHL,14,1935-36,26,4
-2,St. Louis Flyers,0,0,1,AHA,7,1936-37,27,1
-4,2 Teams,16,0,28,AHA,42,1937-38,28,12
-4,St. Paul Saints,15,0,27,AHA,34,1937-38,28,12
-0,St. Louis Flyers,1,0,1,AHA,8,1937-38,28,0
-31,St. Louis Flyers,25,0,41,AHA,47,1938-39,29,16
-18,St. Louis Flyers,29,0,53,AHA,48,1939-40,30,24
-10,St. Louis Flyers,24,0,37,AHA,48,1940-41,31,13
-8,St. Louis Flyers,10,0,17,AHA,42,1941-42,32,7
-2,Montreal Royals,2,0,2,QSHL,9,1942-43,33,0
-2,Montreal RCAF,3,0,5,MCHL,7,1942-43,33,2
-0,Montreal RCAF,0,0,0,MNDHL,4,1943-44,34,0
-0,Montreal RCAF,18,0,24,MCHL,12,1944-45,35,6
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+1,Montreal Bell Telephone,1,1928-29,2,2,2,19,0,MTRHL
+0,Montreal Columbus,2,1929-30,10,2,2,20,0,MCHL
+0,Montreal Columbus,3,1930-31,9,3,6,21,0,MCHL
+1,Boston Cubs,2,1931-32,18,3,6,22,0,Can-Am
+1,Montreal AAA,4,1931-32,8,5,12,22,0,MCHL
+1,Boston Cubs,4,1932-33,23,5,10,23,0,Can-Am
+5,Boston Cubs,10,1933-34,38,15,16,24,0,Can-Am
+1,Syracuse Stars,0,1934-35,5,1,0,25,0,IHL
+15,Boston Cubs,11,1934-35,40,26,20,25,0,Can-Am
+4,Boston Cubs,3,1935-36,22,7,14,26,0,Can-Am
+3,Calgary Tigers,4,1935-36,14,7,0,26,0,NWHL
+0,St. Louis Flyers,1,1936-37,7,1,2,27,0,AHA
+16,2 Teams,12,1937-38,42,28,4,28,0,AHA
+15,St. Paul Saints,12,1937-38,34,27,4,28,0,AHA
+1,St. Louis Flyers,0,1937-38,8,1,0,28,0,AHA
+25,St. Louis Flyers,16,1938-39,47,41,31,29,0,AHA
+29,St. Louis Flyers,24,1939-40,48,53,18,30,0,AHA
+24,St. Louis Flyers,13,1940-41,48,37,10,31,0,AHA
+10,St. Louis Flyers,7,1941-42,42,17,8,32,0,AHA
+2,Montreal Royals,0,1942-43,9,2,2,33,0,QSHL
+3,Montreal RCAF,2,1942-43,7,5,2,33,0,MCHL
+0,Montreal RCAF,0,1943-44,4,0,0,34,0,MNDHL
+18,Montreal RCAF,6,1944-45,12,24,0,35,0,MCHL

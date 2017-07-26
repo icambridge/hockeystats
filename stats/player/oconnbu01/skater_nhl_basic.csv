@@ -1,0 +1,11 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,36,0,25,0,25,0,,MTL,"[{'link': '/awards/voting-1942.html#calder', 'name': 'Calder-2'}]",0,0,16,0,9,0,1941-42,,0,4,0,0
+NHL,0,0,26,0,58,0,,MTL,"[{'link': '/awards/voting-1943.html#byng', 'name': 'Byng-2'}]",0,0,43,0,15,0,1942-43,,0,2,0,0
+NHL,44,0,27,0,54,0,,MTL,[],0,0,42,0,12,0,1943-44,,0,6,0,0
+NHL,0,0,28,0,44,0,,MTL,"[{'link': '/awards/voting-1945.html#byng', 'name': 'Byng-4'}]",0,0,23,0,21,0,1944-45,,0,2,0,0
+NHL,45,0,29,0,22,0,,MTL,[],0,0,11,0,11,0,1945-46,,0,2,0,0
+NHL,46,0,30,0,30,0,,MTL,[],0,0,20,0,10,0,1946-47,,0,6,0,0
+NHL,60,0,31,0,60,0,,NYR,"[{'link': '/awards/nhl_all_star.html#1948', 'name': None}, {'link': '/awards/byng.html#1948', 'name': None}, {'link': '/awards/hart.html#1948', 'name': None}]",0,0,36,0,24,0,1947-48,,0,8,0,0
+NHL,46,0,32,0,35,0,,NYR,[],0,0,24,0,11,0,1948-49,,0,0,0,0
+NHL,66,0,33,0,33,0,,NYR,[],0,0,22,0,11,0,1949-50,,0,4,0,0
+NHL,66,0,34,0,36,0,,NYR,"[{'link': '/awards/voting-1951.html#byng', 'name': 'Byng-4'}]",0,0,20,0,16,0,1950-51,,0,0,0,0

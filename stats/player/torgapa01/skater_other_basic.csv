@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1982-83,17,0,0,0,0,USSR,4,Torpedo Gorky,0
+1983-84,18,2,8,3,0,USSR,27,Torpedo Gorky,5
+1983-84,18,0,8,4,0,EJC-A,5,USSR,4
+1984-85,19,11,52,5,0,USSR,47,Torpedo Gorky,16
+1984-85,19,2,8,2,0,WJC-A,7,Soviet Union,4
+1985-86,20,1,18,4,0,USSR,38,Torpedo Gorky,5
+1985-86,20,2,6,2,0,WJC-A,7,Soviet Union,4
+1986-87,21,6,30,9,0,USSR,40,Torpedo Gorky,15
+1987-88,22,7,14,4,0,USSR,25,Torpedo Gorky,11
+1988-89,23,6,17,3,0,USSR,26,Torpedo Gorky,9
+1989-90,24,18,64,5,0,USSR,48,Torpedo Gorky,23
+1990-91,25,10,22,5,0,USSR,37,Torpedo Nizhny Novgorod,15
+1991-92,26,13,46,5,0,CIS,45,Torpedo Nizhny Novgorod,18
+1992-93,27,1,4,0,0,CIS,5,Torpedo Nizhny Novgorod,1
+1992-93,27,16,48,20,0,Finland,30,Kiekko-Espoo,36
+1993-94,28,19,60,11,0,Finland,47,TPS Turku,30
+1993-94,28,2,10,1,0,Olympics,8,Russia,3
+1994-95,29,13,44,18,0,Finland,50,JYP HT Jyvaskyla,31
+1994-95,29,0,4,2,0,WC-A,6,Russia,2
+1995-96,30,11,18,6,0,AHL,16,Saint John Flames,17
+1996-97,31,18,87,21,0,Swiss,34,HC Lugano,39
+1997-98,32,20,85,27,0,Swiss,38,HC Davos,47
+1998-99,33,15,36,11,0,Swiss,26,HC Fribourg-Gotteron,26
+1999-00,34,8,47,9,0,IHL,36,Long Beach Ice Dogs,17

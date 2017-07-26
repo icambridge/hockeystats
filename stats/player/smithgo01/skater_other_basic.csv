@@ -1,0 +1,13 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1969-70,20,4,92,20,0,EHL,72,New Haven Blades,24
+1970-71,21,7,253,24,0,EHL,73,New Haven Blades,31
+1971-72,22,3,188,33,0,EHL,74,New Haven Blades,36
+1972-73,23,3,134,29,0,AHL,72,Springfield Kings,32
+1973-74,24,13,118,54,0,AHL,75,Springfield Kings,67
+1974-75,25,1,23,4,0,AHL,15,Richmond Robins,5
+1975-76,26,2,80,13,0,AHL,50,Richmond Robins,15
+1978-79,29,1,54,16,0,AHL,33,Hershey Bears,17
+1979-80,30,5,55,16,0,CHL,64,Tulsa Oilers,21
+1980-81,31,1,94,11,0,AHL,58,New Haven Nighthawks,12
+1981-82,32,4,80,12,0,AHL,80,Springfield Indians,16
+1982-83,33,0,49,8,0,AHL,35,Maine Mariners,8

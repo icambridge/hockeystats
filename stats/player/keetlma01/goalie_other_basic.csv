@@ -1,0 +1,14 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WHL,3,Medicine Hat Tigers,72,17,1,0,0,5,0,0,0,0,0,0,0,0,0,.881,2003-04,42,4.17,0,37
+0,WHL,32,Medicine Hat Tigers,1846,18,5,0,0,51,0,0,3,6,21,0,0,0,0,.933,2004-05,764,1.66,7,713
+0,WHL,62,Medicine Hat Tigers,3741,19,13,0,4,130,0,0,6,6,42,4,0,0,0,.916,2005-06,1549,2.09,6,1419
+0,WHL,55,Medicine Hat Tigers,3258,20,11,0,3,119,0,0,1,6,42,3,0,0,0,.913,2006-07,1367,2.19,4,1248
+0,AHL,26,Quad City Flames,1393,21,8,0,0,54,0,0,3,1,10,0,0,0,0,.912,2007-08,612,2.33,4,558
+0,AHL,33,Quad City Flames,1853,22,18,0,0,88,0,0,4,2,8,0,0,0,0,.892,2008-09,817,2.85,0,729
+0,ECHL,7,Las Vegas Wranglers,429,22,3,0,0,19,0,0,3,0,1,0,0,0,0,.930,2008-09,273,2.66,2,254
+0,AHL,23,Abbotsford Heat,1205,23,7,0,0,52,0,0,1,2,10,0,0,0,0,.912,2009-10,588,2.59,0,536
+0,ECHL,9,Victoria Salmon Kings,484,23,7,0,0,31,0,0,0,2,2,0,0,0,0,.880,2009-10,258,3.84,0,227
+0,ECHL,38,Bakersfield Condors,0,24,0,0,0,3,0,0,0,0,0,0,0,0,0,0,2010-11,0,0,0,0
+0,AHL,9,Abbotsford Heat,424,24,7,0,0,25,0,0,1,0,0,0,0,0,0,.860,2010-11,179,3.54,0,154
+0,ECHL,38,Bakersfield Condors,2057,25,20,0,3,102,0,0,3,2,12,3,0,0,0,.910,2011-12,1128,2.98,0,1026
+0,AHL,2,Houston Aeros,84,25,1,0,0,6,0,0,0,0,1,0,0,0,0,.800,2011-12,30,4.29,0,24

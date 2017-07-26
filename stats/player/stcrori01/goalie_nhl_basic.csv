@@ -1,0 +1,11 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+1.2,0,NHL,7,PHI,395,23,4,0,0,20,0,0,1,0,2,0,0,0,0,0,1977-78,0,3.04,0,[],0
+0.4,0,NHL,2,PHI,117,24,1,0,0,6,0,0,1,0,0,0,0,0,0,0,1978-79,0,3.08,0,[],0
+0.3,0,NHL,1,PHI,60,25,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1979-80,0,2.00,0,[],0
+6.8,0,NHL,27,PHI,1567,26,7,0,1,65,0,0,6,2,13,1,0,0,0,0,1980-81,0,2.49,0,"[{'link': '/awards/voting-1981.html#AS', 'name': 'AS-9'}]",0
+4.8,0,NHL,29,PHI,1729,27,9,0,1,112,0,0,6,0,13,1,0,0,0,0,1981-82,0,3.89,2,[],0
+5.5,0,NHL,33,TOT,1860,28,14,0,0,112,0,0,4,0,13,0,0,0,0,0,1982-83,0,3.61,0,[],0
+3.0,0,NHL,16,PHI,940,28,5,0,0,54,0,0,2,0,9,0,0,0,0,0,1982-83,0,3.45,0,[],0
+2.5,0,NHL,17,TOR,920,28,9,0,0,58,0,0,2,0,4,0,0,0,0,0,1982-83,0,3.78,0,[],0
+1.9,0,NHL,20,TOR,939,29,10,119,0,80,0,-12.82,0,0,5,0,0,0,0,.849,1983-84,531,5.11,0,[],451
+0.6,0,NHL,11,TOR,628,30,9,0,0,54,0,0,0,0,2,0,0,0,0,.828,1984-85,314,5.16,0,[],260

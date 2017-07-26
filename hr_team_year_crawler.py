@@ -93,7 +93,7 @@ def writeCsv(team, year, skaters):
         for i in range(len(skaters)):
             writer.writerow(skaters[i])
 
-def buildSkaters(tree):
+def buildSkaters(tree, team, year):
     names = tree.xpath('//*[@id="skaters"]/tbody/tr/td[1]/a/text()')
     links = tree.xpath('//*[@id="skaters"]/tbody/tr/td[1]/a/@href')
     agesPre = tree.xpath('//*[@id="skaters"]/tbody/tr/td[2]')
@@ -178,7 +178,9 @@ def buildSkaters(tree):
             "average_ice_time": averageIceTime[counter],
             "offensive_point_share": ops[counter],
             "defensive_point_share": dps[counter],
-            "overall_point_share": ps[counter]
+            "overall_point_share": ps[counter],
+            "team": team,
+            "year": year
         }
         skaters.append(skater)
         counter = counter + 1
@@ -211,7 +213,7 @@ for team in teams:
         content = getHtml(team, year)
         tree = html.fromstring(content)
 
-        skaters = buildSkaters(tree)
+        skaters = buildSkaters(tree, team, year)
         writeCsv(team, year, skaters)
 
         year = year + 1

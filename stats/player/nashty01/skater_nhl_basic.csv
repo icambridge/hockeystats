@@ -1,0 +1,8 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,2,0,23,1,0,0,15,STL,[],0.0,0,0,-1,0,0,1998-99,7:44,0,5,0,0
+NHL,66,1,24,68,13,1,567,STL,"[{'link': '/awards/voting-2000.html#calder', 'name': 'Calder-14'}]",5.9,3,9,6,4,1,1999-00,8:35,0,150,0,8
+NHL,57,0,25,113,15,0,711,STL,[],7.1,7,7,8,8,1,2000-01,12:29,0,110,0,7
+NHL,64,1,26,66,13,0,643,STL,[],9.1,6,7,2,6,0,2001-02,10:03,0,100,0,7
+NHL,66,2,27,77,9,0,652,STL,[],7.8,5,3,0,6,0,2002-03,9:53,1,114,0,3
+NHL,69,0,28,83,8,0,820,PHX,[],3.6,3,5,-6,3,0,2003-04,11:53,0,110,1,4
+NHL,50,0,30,44,6,0,502,PHX,[],0.0,0,6,-7,0,0,2005-06,10:03,0,84,1,5

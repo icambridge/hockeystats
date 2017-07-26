@@ -1,6 +1,6 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-4,Montreal AAA,1,0,3,MCHL,10,1929-30,19,2
-16,Windsor Bulldogs,16,0,27,IHL,27,1930-31,20,11
-6,Windsor Bulldogs,14,0,24,IHL,33,1931-32,21,10
-0,Windsor Bulldogs,0,0,0,IHL,4,1933-34,23,0
-4,New Haven Eagles,11,0,14,AHL,31,1940-41,30,3
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+1,Montreal AAA,2,1929-30,10,3,4,19,0,MCHL
+16,Windsor Bulldogs,11,1930-31,27,27,16,20,0,IHL
+14,Windsor Bulldogs,10,1931-32,33,24,6,21,0,IHL
+0,Windsor Bulldogs,0,1933-34,4,0,0,23,0,IHL
+11,New Haven Eagles,3,1940-41,31,14,4,30,0,AHL

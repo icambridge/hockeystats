@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1924-12-19,", ",D,Doug Harvey,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",D,1924-12-19,Doug Harvey

@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1997-98,16,2,24,11,0,AMHL,36,Calgary Buffaloes,13
+1999-00,18,5,80,26,0,AJHL,45,Calgary Royals,31
+2000-01,19,5,146,28,13,WHL,70,Kamloops Blazers,33
+2001-02,20,3,89,29,29,WHL,70,Kamloops Blazers,32
+2001-02,20,0,5,0,0,AHL,2,Syracuse Crunch,0
+2002-03,21,2,46,1,-11,AHL,39,Syracuse Crunch,3
+2002-03,21,1,22,2,2,ECHL,14,Dayton Bombers,3
+2003-04,22,2,50,4,0,AHL,69,Syracuse Crunch,6
+2004-05,23,0,18,2,0,AHL,14,Syracuse Crunch,2
+2004-05,23,6,84,11,-14,ECHL,43,Dayton Bombers,17
+2005-06,24,4,71,16,22,ECHL,48,Las Vegas Wranglers,20
+2005-06,24,0,0,0,-5,AHL,4,Manitoba Moose,0
+2006-07,25,2,104,9,8,AHL,68,Hershey Bears,11
+2007-08,26,1,90,7,5,AHL,56,Hershey Bears,8
+2008-09,27,2,61,10,14,AHL,46,Hershey Bears,12
+2009-10,28,0,0,1,3,AHL,2,Hershey Bears,1
+2010-11,29,0,6,2,4,AHL,6,Hershey Bears,2
+2011-12,30,1,58,9,12,AHL,62,Milwaukee Admirals,10
+2012-13,31,3,55,6,2,AHL,42,Texas Stars,9

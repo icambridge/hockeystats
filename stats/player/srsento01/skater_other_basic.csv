@@ -1,0 +1,31 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1984-85,18,14,20,8,0,Czech-2,31,TJ DS Olomouc,22
+1985-86,19,6,44,5,0,Czech,40,Zetor Brno,11
+1985-86,19,0,6,2,0,WJC-A,7,Czechoslovakia,2
+1986-87,20,15,44,8,0,Czech,40,Zetor Brno,23
+1987-88,21,24,114,8,0,Czech,45,Zetor Brno,32
+1988-89,22,19,48,11,0,Czech,42,Dukla Jihlava,30
+1989-90,23,8,0,15,0,Czech,30,2 Teams,23
+1989-90,23,5,0,10,0,Czech,25,Dukla Jihlava,15
+1989-90,23,3,0,5,0,Czech,5,Zetor Brno,8
+1990-91,24,32,100,26,0,AHL,72,Cape Breton Oilers,58
+1991-92,25,19,79,27,0,AHL,68,Cape Breton Oilers,46
+1992-93,26,20,48,6,0,Sweden,39,Leksands IF,26
+1993-94,27,28,72,13,0,Sweden,40,Rogle BK Angelholm,41
+1993-94,27,2,8,3,0,Olympics,8,Czech Republic,5
+1993-94,27,1,2,1,0,WC-A,6,Czech Republic,2
+1994-95,28,3,30,1,0,Sweden,16,Rogle BK Angelholm,4
+1994-95,28,9,0,18,0,CzRep,24,HC Dadak Vsetin,27
+1994-95,28,1,6,1,0,WC-A,8,Czech Republic,2
+1995-96,29,8,0,18,0,CzRep,31,HC Petra Vsetin,26
+1996-97,30,16,92,36,0,CzRep,52,HC Petra Vsetin,52
+1997-98,31,3,12,6,0,EuroHL,10,HC Petra Vsetin,9
+1997-98,31,13,107,31,0,CzRep,50,HC Petra Vsetin,44
+1998-99,32,9,81,27,0,CzRep,48,HC Slovnaft Vsetin,36
+1999-00,33,21,92,21,0,Germany,67,ESC Moskitos Essen,42
+2000-01,34,12,42,14,0,CzRep,46,2 Teams,26
+2000-01,34,11,38,13,0,CzRep,39,HC Femax Havirov,24
+2000-01,34,1,4,1,0,CzRep,7,HC Vitkovice,2
+2001-02,35,7,12,8,0,Italy,17,HC Merano,15
+2001-02,35,14,56,20,0,German-2,29,EHC Wolfsburg,34
+2002-03,36,9,108,21,0,CzRep,52,HC Havirov,30

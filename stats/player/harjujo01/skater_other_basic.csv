@@ -1,19 +1,19 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-14,Lulea HF U18,2,0,9,Swe-U18,11,2002-03,16,7
-0,Lulea HF Jr.,0,0,2,Swe-Jr.,7,2002-03,16,2
-0,Lulea HF U18,3,0,4,Swe-U18,3,2003-04,17,1
-8,Lulea HF Jr.,12,0,26,Swe-Jr.,35,2003-04,17,14
-14,Lulea HF Jr.,13,0,31,Swe-Jr.,33,2004-05,18,18
-0,Pitea HC,0,0,0,Sweden-2,1,2004-05,18,0
-0,Lulea HF,0,0,0,Sweden,4,2004-05,18,0
-4,Lulea HF Jr.,9,0,23,Swe-Jr.,17,2005-06,19,14
-8,Lulea HF,1,0,4,Sweden,39,2005-06,19,3
-30,Lulea HF,10,0,22,Sweden,55,2006-07,20,12
-55,Lulea HF,8,0,28,Sweden,51,2007-08,21,20
-30,Lulea HF,22,0,49,Sweden,55,2008-09,22,27
-4,Sweden,2,4,4,WC-A,9,2008-09,22,2
-38,Dynamo Moscow,14,0,18,KHL,55,2009-10,23,4
-4,Sweden,1,-1,5,WC-A,9,2009-10,23,4
-20,Norfolk Admirals,30,15,53,AHL,63,2010-11,24,23
-16,Lulea HF,10,0,25,Sweden,53,2011-12,25,15
-16,Brynas IF Gavle,10,0,28,Sweden,55,2012-13,26,18
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+2,Lulea HF U18,7,2002-03,11,9,14,16,0,Swe-U18
+0,Lulea HF Jr.,2,2002-03,7,2,0,16,0,Swe-Jr.
+3,Lulea HF U18,1,2003-04,3,4,0,17,0,Swe-U18
+12,Lulea HF Jr.,14,2003-04,35,26,8,17,0,Swe-Jr.
+13,Lulea HF Jr.,18,2004-05,33,31,14,18,0,Swe-Jr.
+0,Pitea HC,0,2004-05,1,0,0,18,0,Sweden-2
+0,Lulea HF,0,2004-05,4,0,0,18,0,Sweden
+9,Lulea HF Jr.,14,2005-06,17,23,4,19,0,Swe-Jr.
+1,Lulea HF,3,2005-06,39,4,8,19,0,Sweden
+10,Lulea HF,12,2006-07,55,22,30,20,0,Sweden
+8,Lulea HF,20,2007-08,51,28,55,21,0,Sweden
+22,Lulea HF,27,2008-09,55,49,30,22,0,Sweden
+2,Sweden,2,2008-09,9,4,4,22,4,WC-A
+14,Dynamo Moscow,4,2009-10,55,18,38,23,0,KHL
+1,Sweden,4,2009-10,9,5,4,23,-1,WC-A
+30,Norfolk Admirals,23,2010-11,63,53,20,24,15,AHL
+10,Lulea HF,15,2011-12,53,25,16,25,0,Sweden
+10,Brynas IF Gavle,18,2012-13,55,28,16,26,0,Sweden

@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1990-91,16,23,43,54,0,AMHL,35,Calgary Flames,77
+1991-92,17,6,18,17,0,WHL,65,Lethbridge Hurricanes,23
+1992-93,18,46,69,73,0,WHL,66,Lethbridge Hurricanes,119
+1993-94,19,58,93,69,0,WHL,72,Lethbridge Hurricanes,127
+1994-95,20,18,66,32,0,IHL,62,Cleveland Lumberjacks,50
+1995-96,21,10,100,28,0,IHL,74,Cleveland Lumberjacks,38
+1996-97,22,23,91,43,0,IHL,65,Long Beach Ice Dogs,66
+1997-98,23,23,90,41,-18,AHL,75,Syracuse Crunch,64
+1998-99,24,38,108,66,24,AHL,76,Rochester Americans,104
+1999-00,25,17,85,48,9,AHL,53,Rochester Americans,65
+2002-03,28,11,65,21,3,AHL,30,Milwaukee Admirals,32
+2003-04,29,20,137,57,10,AHL,75,Rochester Americans,77
+2004-05,30,17,110,29,0,Swiss,43,Kloten Flyers,46
+2005-06,31,13,66,19,0,Swiss,39,Kloten Flyers,32
+2006-07,32,17,75,34,0,Swiss,40,Kloten Flyers,51
+2007-08,33,10,56,38,0,Swiss,48,2 Teams,48
+2007-08,33,7,46,28,0,Swiss,35,Kloten Flyers,35
+2007-08,33,3,10,10,0,Swiss,13,ZSC Lions Zurich,13
+2011-12,37,12,46,21,0,Swiss,49,ZSC Lions Zurich,33

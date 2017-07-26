@@ -1,0 +1,17 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1983-84,18,46,22,34,0,BCJHL,46,Richmond Sockeyes,80
+1984-85,19,3,0,4,0,WCHA,28,University of Wisconsin,7
+1985-86,20,2,2,10,0,WCHA,32,University of Wisconsin,12
+1986-87,21,31,14,21,0,WCHA,42,University of Wisconsin,52
+1987-88,22,27,18,39,0,WCHA,45,University of Wisconsin,66
+1990-91,25,24,8,32,0,IHL,42,Peoria Rivermen,56
+1991-92,26,43,22,46,0,IHL,71,Peoria Rivermen,89
+1992-93,27,27,12,34,0,IHL,51,Milwaukee Admirals,61
+1992-93,27,11,2,17,0,AHL,22,Halifax Citadels,28
+1993-94,28,27,34,44,0,IHL,78,Milwaukee Admirals,71
+1994-95,29,17,22,14,0,IHL,59,2 Teams,31
+1994-95,29,14,14,13,0,IHL,38,Peoria Rivermen,27
+1994-95,29,3,8,1,0,IHL,21,Milwaukee Admirals,4
+1995-96,30,32,36,35,0,IHL,81,Milwaukee Admirals,67
+1996-97,31,25,20,19,0,IHL,71,Milwaukee Admirals,44
+1997-98,32,7,26,6,-1,IHL,37,Milwaukee Admirals,13

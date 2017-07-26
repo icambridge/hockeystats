@@ -1,0 +1,40 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1982-83,16,2,4,1,0,USSR,13,Salavat Yulayev Ufa,3
+1982-83,16,3,8,3,0,EJC-A,5,Soviet Union,6
+1983-84,17,0,2,4,0,WJC-A,7,Soviet Union,4
+1983-84,17,9,10,8,0,EJC-A,5,Soviet Union,17
+1984-85,18,19,64,17,0,USSR-2,47,Salavat Yulayev Ufa,36
+1984-85,18,7,12,4,0,WJC-A,7,Soviet Union,11
+1985-86,19,9,22,7,0,USSR,22,Salavat Yulayev Ufa,16
+1985-86,19,3,4,6,0,WJC-A,7,Soviet Union,9
+1986-87,20,20,32,8,0,USSR,40,Dynamo Moscow,28
+1986-87,20,0,0,0,0,RV-87,2,Soviet Union,0
+1986-87,20,1,4,0,0,WEC-A,10,Soviet Union,1
+1987-88,21,3,10,0,0,Can-Cup,7,Soviet Union,3
+1987-88,21,21,40,14,0,USSR,47,Dynamo Moscow,35
+1988-89,22,18,22,10,0,USSR,44,Dynamo Moscow,28
+1989-90,23,23,33,11,0,USSR,43,Dynamo Moscow,34
+1989-90,23,2,0,0,0,Fr-Tour,1,Dynamo Moscow,2
+1989-90,23,1,2,2,0,Super-S,5,Dynamo Moscow,3
+1989-90,23,2,6,2,0,WEC-A,10,Soviet Union,4
+1990-91,24,17,48,21,0,USSR,46,Dynamo Moscow,38
+1990-91,24,1,2,0,0,Fr-Tour,1,Dynamo Moscow,1
+1990-91,24,3,2,4,0,Super-S,7,Dynamo Moscow,7
+1990-91,24,5,8,5,0,WEC-A,10,Soviet Union,10
+1991-92,25,2,7,1,0,Can-Cup,5,Soviet Union,3
+1991-92,25,10,26,13,0,CIS,26,Dynamo Moscow,23
+1991-92,25,2,2,1,0,CIS-3,2,Dynamo Moscow 2,3
+1991-92,25,3,0,2,0,AHL,7,Utica Devils,5
+1994-95,28,9,4,6,0,CIS,9,Salavat Yulayev Ufa,15
+1996-97,30,0,0,0,0,W-Cup,1,Russia,0
+1996-97,30,10,12,14,0,AHL,23,Syracuse Crunch,24
+1996-97,30,11,10,13,0,IHL,13,Las Vegas Thunder,24
+1997-98,31,26,90,35,-4,IHL,67,Chicago Wolves,61
+1998-99,32,20,62,42,15,AHL,70,Albany River Rats,62
+1999-00,33,27,84,47,0,German-2,42,EHC Freiburg,74
+2000-01,34,17,148,21,0,Russia,43,Salavat Yulayev Ufa,38
+2001-02,35,16,98,19,0,Russia,48,Salavat Yulayev Ufa,35
+2002-03,36,10,42,13,0,Russia,48,Dynamo Moscow,23
+2003-04,37,5,48,5,0,Russia,28,Severstal Cherepovets,10
+2003-04,37,0,2,0,0,Russia-3,1,Severstal Cherepovets 2,0
+2004-05,38,1,30,9,0,Russia-2,25,HK MVD Tver,10

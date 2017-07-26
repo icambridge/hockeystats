@@ -1,11 +1,11 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1977-78,Detroit Nationals,90,0,16,75,160,70,MNHL
-29,1978-79,Windsor Spitfires,42,0,17,66,69,27,OMJHL
-28,1979-80,Michigan State Spartans,28,0,18,38,44,16,WCHA
-20,1980-81,Michigan State Spartans,15,0,19,35,33,18,WCHA
-37,1981-82,Michigan State Spartans,31,0,20,41,65,34,CCHA
-10,1982-83,Michigan State Spartans,21,0,21,32,43,22,CCHA
-38,1983-84,Indianapolis Checkers,32,0,22,71,54,22,CHL
-29,1984-85,Springfield Indians,34,0,23,75,63,29,AHL
-7,1985-86,Springfield Indians,8,0,24,14,13,5,AHL
-8,1986-87,Springfield Indians,31,0,25,59,56,25,AHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+90,Detroit Nationals,70,1977-78,75,160,0,16,0,MNHL
+42,Windsor Spitfires,27,1978-79,66,69,29,17,0,OMJHL
+28,Michigan State Spartans,16,1979-80,38,44,28,18,0,WCHA
+15,Michigan State Spartans,18,1980-81,35,33,20,19,0,WCHA
+31,Michigan State Spartans,34,1981-82,41,65,37,20,0,CCHA
+21,Michigan State Spartans,22,1982-83,32,43,10,21,0,CCHA
+32,Indianapolis Checkers,22,1983-84,71,54,38,22,0,CHL
+34,Springfield Indians,29,1984-85,75,63,29,23,0,AHL
+8,Springfield Indians,5,1985-86,14,13,7,24,0,AHL
+31,Springfield Indians,25,1986-87,59,56,8,25,0,AHL

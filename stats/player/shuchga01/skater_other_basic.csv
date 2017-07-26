@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1984-85,17,30,88,31,0,AJHL,56,St. Albert Saints,61
+1985-86,18,42,36,37,0,AJHL,49,St. Albert Saints,73
+1986-87,19,19,72,11,0,WCHA,42,University of Wisconsin,30
+1987-88,20,7,70,22,0,WCHA,44,University of Wisconsin,29
+1988-89,21,18,102,19,0,WCHA,46,University of Wisconsin,37
+1989-90,22,41,70,39,0,WCHA,45,University of Wisconsin,80
+1990-91,23,23,32,24,0,AHL,59,Adirondack Red Wings,47
+1991-92,24,32,48,48,0,AHL,79,Adirondack Red Wings,80
+1992-93,25,24,66,53,0,AHL,47,Adirondack Red Wings,77
+1994-95,27,8,12,7,0,IHL,13,Phoenix Roadrunners,15
+1995-96,28,8,76,21,0,IHL,33,Phoenix Roadrunners,29
+1996-97,29,18,48,23,0,IHL,55,Houston Aeros,41
+1997-98,30,15,60,33,0,Swiss,40,SC Herisau,48
+1998-99,31,15,89,27,0,Alpenliga,31,Klagenfurter AC,42
+1998-99,31,5,30,9,0,Austria,21,Klagenfurter AC,14
+1999-00,32,16,94,33,1,IHL,71,Orlando Solar Bears,49
+2000-01,33,17,62,30,0,Germany,56,Dusseldorfer EG,47
+2001-02,34,18,70,32,0,Germany,60,Krefeld Pinguine,50
+2002-03,35,7,62,13,0,Germany,51,Krefeld Pinguine,20
+2003-04,36,8,45,21,-16,AHL,67,Springfield Falcons,29

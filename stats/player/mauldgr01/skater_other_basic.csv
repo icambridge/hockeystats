@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1999-00,17,45,14,42,0,EJHL,58,Boston Junior Bruins,87
+2000-01,18,48,73,58,0,EJHL,53,Boston Junior Bruins,106
+2001-02,19,12,10,12,0,H-East,33,U. of Massachusetts,24
+2002-03,20,21,26,20,0,H-East,36,U. of Massachusetts,41
+2003-04,21,15,15,14,0,H-East,29,U. of Massachusetts,29
+2003-04,21,0,0,0,-1,AHL,2,Syracuse Crunch,0
+2004-05,22,7,49,20,9,AHL,66,Syracuse Crunch,27
+2005-06,23,13,53,20,2,AHL,67,2 Teams,33
+2005-06,23,12,53,17,4,AHL,56,Syracuse Crunch,29
+2005-06,23,1,0,3,-2,AHL,11,Houston Aeros,4
+2006-07,24,0,2,0,-3,UHL,2,Bloomington Prairie Thunder,0
+2006-07,24,6,31,10,0,Sweden-2,32,2 Teams,16
+2006-07,24,1,0,2,0,Sweden-2,6,Huddinge IK,3
+2006-07,24,5,31,8,0,Sweden-2,26,IK Oskarshamn,13
+2007-08,25,15,37,18,0,AHL,71,Binghamton Senators,33
+2008-09,26,24,41,27,13,AHL,80,Binghamton Senators,51
+2009-10,27,25,35,29,9,AHL,77,Bridgeport Sound Tigers,54
+2010-11,28,18,20,17,25,AHL,43,Lake Erie Monsters,35
+2011-12,29,16,17,18,5,AHL,59,Lake Erie Monsters,34
+2012-13,30,13,8,8,0,Swiss,39,HC Fribourg-Gotteron,21

@@ -1,0 +1,23 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,AWHL,22,Fernie Ghostriders,1140,16,2,0,0,48,0,0,0,0,15,0,0,0,0,0,1999-00,0,2.53,0,0
+0,BCHL,41,Nanaimo Clippers,2330,17,0,0,0,127,0,0,0,6,0,0,0,0,0,0,2000-01,0,3.27,0,0
+0,ECAC,14,Cornell Big Red,842,18,2,0,1,21,0,0,1,2,11,1,0,0,0,0,2001-02,0,1.50,0,0
+0,ECAC,32,Cornell Big Red,1946,19,3,0,0,39,0,0,1,9,28,0,0,0,0,0,2002-03,0,1.20,0,0
+0,WJC-A,2,Canada,91,19,0,0,0,4,0,0,0,0,0,0,0,0,0,.840,2002-03,25,2.64,0,21
+0,AHL,38,Springfield Falcons,2217,20,19,0,0,102,0,0,3,1,16,0,0,0,0,.917,2003-04,1228,2.76,17,1126
+0,AHL,48,Utah Grizzlies,2702,21,32,0,1,132,0,0,3,0,11,1,0,0,0,.909,2004-05,1452,2.93,2,1320
+0,AHL,28,San Antonio Rampage,1646,22,16,0,0,80,0,0,2,2,10,0,0,0,0,.921,2005-06,1007,2.92,0,927
+0,AHL,37,San Antonio Rampage,2101,23,20,0,2,104,0,0,2,2,13,2,0,0,0,.907,2006-07,1117,2.97,0,1013
+0,AHL,34,2 Teams,1958,24,10,0,0,76,0,0,5,2,17,0,0,0,0,.916,2007-08,901,2.33,0,825
+0,AHL,21,San Antonio Rampage,1172,24,7,0,0,52,0,0,3,1,9,0,0,0,0,.911,2007-08,585,2.66,0,533
+0,AHL,13,Hartford Wolf Pack,786,24,3,0,0,24,0,0,2,1,8,0,0,0,0,.924,2007-08,316,1.83,0,292
+0,AHL,46,Iowa Chops,2627,25,19,0,1,129,0,0,6,0,20,1,0,0,0,.895,2008-09,1231,2.95,0,1102
+0,Austria,43,EC Red Bull Salzburg,2467,26,0,0,0,106,0,0,0,2,0,0,0,0,0,0,2009-10,0,2.58,0,0
+0,AHL,42,Springfield Falcons,2426,27,21,0,1,120,0,0,2,0,16,1,0,0,0,.896,2010-11,1149,2.97,0,1029
+0,AHL,34,Oklahoma City Barons,1927,28,12,0,0,72,0,0,3,2,18,0,0,0,0,.918,2011-12,882,2.24,4,810
+0,Austria,27,EHC Linz,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012-13,0,0,0,0
+0,ECHL,0,South Carolina Stingrays,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2013-14,0,0,0,0
+0,AHL,0,Providence Bruins,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2013-14,0,0,0,0
+0,AHL,0,Hartford Wolf Pack,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2013-14,0,0,0,0
+0,ECHL,0,South Carolina Stingrays,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014-15,0,0,0,0
+0,KHL,0,HC Slovan Bratislava,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014-15,0,0,0,0

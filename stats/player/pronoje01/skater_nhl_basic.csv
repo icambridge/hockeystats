@@ -1,0 +1,15 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,76,1,23,199,41,8,,PIT,[],8.0,10,25,-4,16,2,1968-69,,4,41,0,17
+NHL,72,6,24,222,41,3,,PIT,[],9.0,15,21,-2,20,0,1969-70,,5,45,0,18
+NHL,78,2,25,225,45,4,,PIT,[],9.3,17,24,8,21,0,1970-71,,4,35,0,20
+NHL,68,3,26,214,53,5,,PIT,[],14.0,26,23,15,30,1,1971-72,,3,12,1,17
+NHL,66,5,27,192,43,5,,PIT,[],10.9,18,22,-15,21,1,1972-73,,2,16,0,17
+NHL,77,2,28,248,72,10,,PIT,[],16.1,28,32,9,40,4,1973-74,,8,22,2,20
+NHL,78,9,29,275,75,6,,PIT,"[{'link': '/awards/voting-1975.html#AS', 'name': 'AS-5'}]",15.6,31,32,13,43,1,1974-75,,11,37,1,25
+NHL,0,3,30,299,104,24,,PIT,"[{'link': '/awards/voting-1976.html#byng', 'name': 'Byng-2'}]",17.4,37,52,16,52,2,1975-76,,13,24,0,28
+NHL,79,6,31,217,64,8,,PIT,"[{'link': '/awards/voting-1977.html#AS', 'name': 'AS-5'}]",15.2,25,31,8,33,1,1976-77,,7,24,3,20
+NHL,79,5,32,219,65,9,,PIT,[],18.3,26,25,-16,40,2,1977-78,,12,50,0,16
+NHL,75,8,33,151,67,11,,ATF,"[{'link': '/awards/voting-1979.html#byng', 'name': 'Byng-17'}, {'link': '/awards/voting-1979.html#selke', 'name': 'Selke-15'}]",18.5,22,39,21,28,2,1978-79,,4,30,1,27
+NHL,80,3,34,119,43,1,,ATF,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-12'}]",20.2,18,19,12,24,0,1979-80,,6,12,2,16
+NHL,80,4,35,188,58,16,,WSH,[],11.7,15,36,-9,22,1,1980-81,,6,61,3,17
+NHL,10,0,36,15,3,0,,WSH,[],6.7,1,2,-7,1,0,1981-82,,0,4,0,2

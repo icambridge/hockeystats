@@ -1,16 +1,16 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-4,1954-55,Flin Flon Bombers,6,0,18,13,12,6,SJHL
-16,1955-56,Flin Flon Bombers,62,0,19,48,113,51,SJHL
-37,1956-57,Flin Flon Bombers,70,0,20,55,118,48,SJHL
-0,1956-57,Brandon Regals,3,0,20,2,4,1,WHL
-22,1957-58,Providence Reds,25,0,21,70,40,15,AHL
-23,1958-59,Vancouver Canucks,41,0,22,66,68,27,WHL
-9,1959-60,Rochester Americans,18,0,23,29,24,6,AHL
-4,1962-63,Baltimore Clippers,14,0,26,22,26,12,AHL
-6,1963-64,Pittsburgh Hornets,33,0,27,66,48,15,AHL
-39,1964-65,Pittsburgh Hornets,39,0,28,64,54,15,AHL
-6,1965-66,Pittsburgh Hornets,29,0,29,72,49,20,AHL
-2,1966-67,Pittsburgh Hornets,4,0,30,7,5,1,AHL
-4,1978-79,Oklahoma City Stars,7,0,42,23,9,2,CHL
-0,1979-80,Oklahoma City Stars,1,0,43,3,1,0,CHL
-12,1980-81,Oklahoma City Stars,0,0,44,6,0,0,CHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+6,Flin Flon Bombers,6,1954-55,13,12,4,18,0,SJHL
+62,Flin Flon Bombers,51,1955-56,48,113,16,19,0,SJHL
+70,Flin Flon Bombers,48,1956-57,55,118,37,20,0,SJHL
+3,Brandon Regals,1,1956-57,2,4,0,20,0,WHL
+25,Providence Reds,15,1957-58,70,40,22,21,0,AHL
+41,Vancouver Canucks,27,1958-59,66,68,23,22,0,WHL
+18,Rochester Americans,6,1959-60,29,24,9,23,0,AHL
+14,Baltimore Clippers,12,1962-63,22,26,4,26,0,AHL
+33,Pittsburgh Hornets,15,1963-64,66,48,6,27,0,AHL
+39,Pittsburgh Hornets,15,1964-65,64,54,39,28,0,AHL
+29,Pittsburgh Hornets,20,1965-66,72,49,6,29,0,AHL
+4,Pittsburgh Hornets,1,1966-67,7,5,2,30,0,AHL
+7,Oklahoma City Stars,2,1978-79,23,9,4,42,0,CHL
+1,Oklahoma City Stars,0,1979-80,3,1,0,43,0,CHL
+0,Oklahoma City Stars,0,1980-81,6,0,12,44,0,CHL

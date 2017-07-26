@@ -1,0 +1,10 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+0.6,0,NHL,3,HAR,180,21,1,0,2,10,0,0,0,0,2,2,0,0,0,.896,1988-89,96,3.33,4,[],86
+0.7,0,NHL,9,HAR,442,22,2,0,1,26,0,0,1,0,4,1,0,0,0,.858,1989-90,183,3.53,4,[],157
+1.4,0,NHL,18,HAR,854,23,9,120,1,52,0,-8.80,3,0,3,1,0,0,0,.863,1990-91,379,3.65,4,[],327
+6.1,0,NHL,45,HAR,2567,24,21,107,1,155,0,-10.50,6,3,14,1,0,0,0,.880,1991-92,1292,3.62,16,[],1137
+4.9,0,NHL,31,VAN,1817,25,8,95,3,94,0,4.74,4,1,18,3,0,0,0,.890,1992-93,858,3.10,2,"[{'link': '/awards/voting-1993.html#vezina', 'name': 'Vezina-7'}]",764
+2.5,0,NHL,32,VAN,1921,26,14,127,0,113,0,-24.02,0,0,18,0,0,0,0,.867,1993-94,848,3.53,6,[],735
+0.7,0,NHL,11,VAN,558,27,6,133,1,37,0,-9.26,2,0,0,1,0,0,0,.867,1994-95,279,3.98,7,[],242
+-0.4,0,NHL,5,BOS,203,33,2,0,0,18,0,0,0,0,1,0,0,0,0,.809,2000-01,94,5.32,0,[],76
+0.0,0,NHL,1,CGY,58,34,1,0,0,3,0,0,0,0,0,0,0,0,0,.857,2001-02,21,3.10,0,[],18

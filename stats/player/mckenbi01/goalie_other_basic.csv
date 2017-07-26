@@ -1,0 +1,17 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,CCHA,25,Ohio State University,1500,20,0,0,0,79,0,0,0,4,0,0,0,0,0,0,1969-70,0,3.16,0,0
+0,CCHA,24,Ohio State University,1420,21,0,0,0,65,0,0,0,2,0,0,0,0,0,0,1970-71,0,2.75,0,0
+0,CCHA,22,Ohio State University,1280,22,0,0,0,48,0,0,0,2,0,0,0,0,0,0,1971-72,0,2.25,0,0
+0,IHL,45,Port Huron Wings,2532,23,0,0,0,120,0,0,0,2,0,0,0,0,0,0,1972-73,0,2.84,0,0
+0,AHL,29,Virginia Wings,1470,24,13,0,0,99,0,0,2,1,8,0,0,0,0,0,1973-74,0,4.04,0,0
+0,Britain,2,London Lions,120,24,0,0,0,6,0,0,0,0,0,0,0,0,0,0,1973-74,0,3.00,0,0
+0,AHL,14,Virginia Wings,700,25,6,0,0,33,0,0,0,1,8,0,0,0,0,0,1974-75,0,2.83,0,0
+0,AHL,2,Rhode Island Reds,125,27,1,0,0,10,0,0,1,0,0,0,0,0,0,0,1976-77,0,4.80,0,0
+0,CHL,16,2 Teams,871,27,5,0,0,49,0,0,2,0,9,0,0,0,0,0,1976-77,0,3.38,0,0
+0,CHL,6,Oklahoma City Blazers,358,27,3,0,0,24,0,0,1,0,2,0,0,0,0,0,1976-77,0,4.02,0,0
+0,CHL,10,Kansas City Blues,513,27,2,0,0,25,0,0,1,0,7,0,0,0,0,0,1976-77,0,2.92,0,0
+0,AHL,17,2 Teams,950,28,8,0,0,60,0,0,0,2,8,0,0,0,0,0,1977-78,0,3.79,0,0
+0,AHL,12,Hampton Gulls,645,28,4,0,0,38,0,0,0,1,7,0,0,0,0,0,1977-78,0,3.53,0,0
+0,AHL,5,Philadelphia Firebirds,305,28,4,0,0,22,0,0,0,1,1,0,0,0,0,0,1977-78,0,4.33,0,0
+0,CHL,35,Tulsa Oilers,1935,29,25,0,0,164,0,0,1,0,6,0,0,0,0,0,1978-79,0,5.09,0,0
+0,CHL,9,Fort Worth Texans,521,30,5,0,0,29,0,0,1,1,2,0,0,0,0,0,1979-80,0,3.34,0,0

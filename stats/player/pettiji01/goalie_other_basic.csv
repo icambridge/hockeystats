@@ -1,0 +1,12 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHA-Jr.,31,St. Catharines Black Hawks,1089,19,0,0,0,152,0,0,0,1,0,0,0,0,0,0,1972-73,0,8.37,0,0
+0,IHL,40,Dayton Gems,2092,20,0,0,0,96,0,0,0,1,0,0,0,0,0,0,1973-74,0,2.75,0,0
+0,IHL,27,Dayton Gems,1310,21,0,0,0,73,0,0,0,0,0,0,0,0,0,0,1974-75,0,3.34,0,0
+0,NAPro,5,Binghamton Dusters,260,22,0,0,0,16,0,0,0,1,0,0,0,0,0,0,1975-76,0,3.69,0,0
+0,IHL,51,Dayton Gems,2178,22,0,0,0,104,0,0,0,5,0,0,0,0,0,0,1975-76,0,2.87,0,0
+0,AHL,43,Rochester Americans,2462,23,15,0,0,131,0,0,1,2,26,0,0,0,0,0,1976-77,0,3.19,0,0
+0,AHL,32,Rochester Americans,1897,24,12,0,0,107,0,0,4,2,16,0,0,0,0,0,1977-78,0,3.38,0,0
+0,AHL,9,Rochester Americans,451,25,7,0,0,39,0,0,1,0,0,0,0,0,0,0,1978-79,0,5.19,0,0
+0,AHL,33,New Haven Nighthawks,1975,26,13,0,0,131,0,0,3,2,16,0,0,0,0,0,1979-80,0,3.98,0,0
+0,CHL,21,Birmingham Bulls,1189,27,0,0,0,109,0,0,0,0,0,0,0,0,0,0,1980-81,0,5.50,0,0
+0,EHL,1,Richmond Rifles,62,27,1,0,0,7,0,0,0,0,0,0,0,0,0,0,1980-81,0,6.77,0,0

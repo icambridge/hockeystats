@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1982-83,16,22,74,43,0,MTHL,39,Toronto Young Nationals,65
+1983-84,17,25,154,49,0,OHL,68,Kingston Canadians,74
+1984-85,18,27,100,33,0,OHL,58,Kingston Canadians,60
+1985-86,19,36,213,43,0,OHL,66,Kingston Canadians,79
+1986-87,20,25,156,57,0,OHL,57,Windsor Spitfires,82
+1986-87,20,2,12,5,0,WJC-A,6,Canada,7
+1987-88,21,11,143,32,0,AHL,65,2 Teams,43
+1987-88,21,9,87,19,0,AHL,43,Nova Scotia Oilers,28
+1987-88,21,2,56,13,0,AHL,22,Rochester Americans,15
+1988-89,22,20,241,31,0,AHL,60,Rochester Americans,51
+1989-90,23,12,93,17,0,AHL,43,Rochester Americans,29
+1990-91,24,17,177,22,0,AHL,69,Rochester Americans,39
+1991-92,25,19,83,16,0,German-2,25,EHC Dynamo Berlin,35
+1992-93,26,4,4,3,0,German-2,8,ES Weisswasser,7
+1992-93,26,8,45,17,0,Germany,27,EHC Eisbaren Berlin,25
+1993-94,27,25,136,56,0,ECHL,56,Knoxville Cherokees,81
+1993-94,27,5,16,7,0,AHL,16,Rochester Americans,12
+1994-95,28,19,216,36,0,AHL,63,Rochester Americans,55
+1995-96,29,21,228,24,0,AHL,71,Rochester Americans,45
+1996-97,30,32,205,38,0,AHL,80,Rochester Americans,70
+1997-98,31,9,192,24,0,AHL,75,Rochester Americans,33
+1998-99,32,11,126,21,0,Germany,50,Hannover Scorpions,32
+1999-00,33,10,85,18,0,Germany,61,Hannover Scorpions,28
+2000-01,34,7,22,2,0,BH-Cup,11,Sheffield Steelers,9
+2000-01,34,8,95,15,0,Britain,49,Sheffield Steelers,23
+2001-02,35,0,0,0,0,UHL,3,Adirondack IceHawks,0

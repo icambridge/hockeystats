@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1996-97,17,52,111,58,0,ON-Jr.A,48,Syracuse Jr. Crunch,110
+1997-98,18,56,103,70,0,ON-Jr.A,49,Syracuse Jr. Crunch,126
+1998-99,19,17,32,32,0,ECAC,36,RPI Engineers,49
+1999-00,20,9,42,29,0,ECAC,35,RPI Engineers,38
+2000-01,21,24,34,18,0,ECAC,34,RPI Engineers,42
+2001-02,22,24,26,22,0,ECAC,32,RPI Engineers,46
+2002-03,23,21,45,37,-4,AHL,73,Wilkes-Barre Scranton Pens,58
+2003-04,24,10,69,26,2,AHL,63,Wilkes-Barre Penguins,36
+2004-05,25,17,55,24,16,AHL,80,Wilkes-Barre Penguins,41
+2006-07,27,23,18,32,-8,AHL,61,Albany River Rats,55
+2007-08,28,21,43,41,20,AHL,76,San Antonio Rampage,62
+2008-09,29,4,28,4,0,KHL,33,Amur Khabarovsk,8
+2009-10,30,7,12,7,0,Swiss,14,2 Teams,14
+2009-10,30,1,4,1,0,Swiss,3,HC Lugano,2
+2009-10,30,6,8,6,0,Swiss,11,Rapperswil-Jona Lakers,12
+2010-11,31,12,36,11,0,Sweden,44,2 Teams,23
+2010-11,31,3,0,5,0,Sweden,12,Linkopings HC,8
+2010-11,31,9,36,6,0,Sweden,32,Timra IK,15
+2011-12,32,15,16,16,0,Sweden,55,Timra IK,31
+2011-12,32,4,2,7,0,Sweden-Q,9,Timra IK,11
+2012-13,33,5,22,8,0,Sweden,13,Timra IK,13
+2012-13,33,4,2,6,0,Sweden-Q,10,Timra IK,10

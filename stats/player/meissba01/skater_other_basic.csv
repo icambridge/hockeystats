@@ -1,0 +1,13 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1963-64,17,0,4,0,0,SJHL,6,Regina Pats,0
+1964-65,18,27,91,31,0,SJHL,52,Regina Pats,58
+1965-66,19,47,148,56,0,SJHL,60,Regina Pats,103
+1966-67,20,35,78,44,0,CMJHL,53,Regina Pats,79
+1967-68,21,15,66,24,0,CPHL,64,Memphis South Stars,39
+1968-69,22,27,80,26,0,CHL,67,Memphis South Stars,53
+1969-70,23,7,62,10,0,CHL,49,Iowa Stars,17
+1970-71,24,22,39,16,0,AHL,61,Cleveland Barons,38
+1971-72,25,2,6,1,0,AHL,9,Cleveland Barons,3
+1971-72,25,0,6,2,0,WHL,7,Seattle Totems,2
+1971-72,25,6,18,9,0,CHL,37,Omaha Knights,15
+1972-73,26,20,71,25,0,AHL,68,Cleveland/Jacksonville Barons,45

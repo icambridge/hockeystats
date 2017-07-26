@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2000-01,16,14,0,42,0,MWEHL,66,Pittsburgh Hornets,66
+2001-02,17,7,70,16,0,NAHL,48,Pittsburgh Forge,23
+2002-03,18,11,98,30,0,NAHL,56,Pittsburgh Forge,41
+2003-04,19,1,18,4,0,ECAC,21,Harvard Crimson,5
+2004-05,20,7,44,12,0,ECAC,34,Harvard Crimson,19
+2005-06,21,4,36,15,0,ECAC,33,Harvard Crimson,19
+2006-07,22,9,26,9,0,ECAC,33,Harvard Crimson,18
+2006-07,22,0,12,4,0,AHL,10,Hartford Wolf Pack,4
+2007-08,23,1,49,6,1,AHL,59,San Antonio Rampage,7
+2008-09,24,1,64,27,0,AHL,75,San Antonio Rampage,28
+2009-10,25,5,31,19,12,AHL,52,2 Teams,24
+2009-10,25,4,31,18,12,AHL,51,Syracuse Crunch,22
+2009-10,25,1,0,1,0,AHL,1,Bridgeport Sound Tigers,2
+2010-11,26,4,30,14,-9,AHL,37,Bridgeport Sound Tigers,18
+2011-12,27,2,12,13,0,AHL,27,Bridgeport Sound Tigers,15
+2012-13,28,8,34,17,3,AHL,66,Wilkes-Barre Penguins,25
+2013-14,29,2,20,5,-13,KHL,45,Amur Khabarovsk,7
+2013-14,29,0,4,0,-1,Internationa,3,Team USA,0
+2013-14,29,0,0,0,-1,Nadezhda Cup,2,Amur Khabarovsk,0
+2014-15,30,10,42,30,12,AHL,72,Portland Pirates,40

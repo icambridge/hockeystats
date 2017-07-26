@@ -1,0 +1,32 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1987-88,16,19,0,32,0,High-MA,22,Deerfield Academy,51
+1988-89,17,6,0,16,0,High-MA,22,Tabor Academy Seawolves,22
+1989-90,18,10,0,28,0,High-MA,22,Tabor Academy Seawolves,38
+1990-91,19,1,22,5,0,CCHA,28,Bowling Green University,6
+1991-92,20,8,34,7,0,CCHA,33,Bowling Green University,15
+1992-93,21,8,48,17,0,CCHA,41,Bowling Green University,25
+1993-94,22,7,56,23,0,CCHA,38,Bowling Green University,30
+1994-95,23,0,2,1,0,AHL,2,Albany River Rats,1
+1994-95,23,7,94,38,0,ECHL,69,2 Teams,45
+1994-95,23,2,33,13,0,ECHL,26,Raleigh IceCaps,15
+1994-95,23,5,61,25,0,ECHL,43,Tallahassee Tiger Sharks,30
+1995-96,24,0,39,2,0,IHL,31,Chicago Wolves,2
+1995-96,24,2,51,13,0,ECHL,22,2 Teams,15
+1995-96,24,1,10,3,0,ECHL,7,Tallahassee Tiger Sharks,4
+1995-96,24,1,41,10,0,ECHL,15,Jacksonville Lizard Kings,11
+1996-97,25,5,159,15,0,IHL,80,2 Teams,20
+1996-97,25,3,108,10,0,IHL,57,Chicago Wolves,13
+1996-97,25,2,51,5,0,IHL,23,San Antonio Dragons,7
+1997-98,26,7,148,16,0,IHL,81,2 Teams,23
+1997-98,26,5,132,14,0,IHL,70,San Antonio Dragons,19
+1997-98,26,2,16,2,0,IHL,11,Fort Wayne Komets,4
+1998-99,27,9,84,25,4,AHL,58,Hamilton Bulldogs,34
+2000-01,29,2,20,6,5,AHL,7,Worcester IceCats,8
+2002-03,31,7,97,13,-5,AHL,58,Cincinnati Mighty Ducks,20
+2003-04,32,9,84,15,-22,AHL,73,2 Teams,24
+2003-04,32,3,42,8,-8,AHL,39,Cincinnati Mighty Ducks,11
+2003-04,32,6,42,7,-14,AHL,34,Springfield Falcons,13
+2004-05,33,3,56,5,3,AHL,52,Houston Aeros,8
+2005-06,34,4,72,13,0,Germany,37,DEG Metro Stars Dusseldorf,17
+2006-07,35,2,24,6,0,Austria,15,EC Graz,8
+2006-07,35,5,36,10,0,Denmark,22,SonderjyskE Vojens,15

@@ -1,4 +1,4 @@
-giveaways,faceoff_loses,power_play_goals,assists,faceoff_wins,points,takeaways,power_play_assists,league,even_strength_assists,game_winning_goals,shorthanded_goals,shotsPercentage,games_played,average_ice_time,blocks,hits,year,team,total_shots,age,plus_minus,shorthanded_assists,even_strength_goals,pim,awards,total_ice_time,goals,shots,faceoff_percentage
-0,3,0,1,1,1,0,0,NHL,1,0,0,0.0,1,12:08,2,0,2009-10,BOS,2,21,1,0,0,0,[],12,0,1,25.0
-2,11,0,1,5,1,1,0,NHL,1,0,0,0.0,3,10:28,3,0,2010-11,BOS,4,22,1,0,0,0,[],31,0,1,31.3
-2,16,0,2,15,2,6,0,NHL,2,0,0,0.0,16,10:59,4,13,2011-12,BOS,27,23,3,0,0,4,[],176,0,13,48.4
+shotsPercentage,faceoff_loses,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,giveaways,total_shots,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,takeaways,faceoff_percentage,age,game_winning_goals,league,shorthanded_goals,blocks,average_ice_time,hits,games_played,faceoff_wins,points,awards,power_play_goals
+0.0,3,2009-10,0,1,12,0,0,2,1,0,0,1,1,BOS,0,0,25.0,21,0,NHL,0,2,12:08,0,1,1,1,[],0
+0.0,11,2010-11,0,1,31,0,2,4,1,0,0,1,1,BOS,0,1,31.3,22,0,NHL,0,3,10:28,0,3,5,1,[],0
+0.0,16,2011-12,4,2,176,0,2,27,13,0,0,3,2,BOS,0,6,48.4,23,0,NHL,0,4,10:59,13,16,15,2,[],0

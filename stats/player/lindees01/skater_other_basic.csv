@@ -1,0 +1,35 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2008-09,14,0,2,3,0,Jr. C SM-sar,8,Jokerit U16,3
+2009-10,15,0,2,1,0,Jr. B SM-sar,3,Jokerit U18,1
+2009-10,15,3,2,5,0,Jr. C SM-sar,7,Jokerit U16,8
+2010-11,16,0,0,0,0,Jr. A SM-lii,0,Jokerit U20,0
+2010-11,16,5,10,7,0,Jr. B SM-sar,14,Jokerit U18,12
+2010-11,16,0,4,1,0,Internationa,9,Finland U17 (all),1
+2010-11,16,0,0,0,1,EYOF,3,Finland U17,0
+2011-12,17,0,0,0,1,Mestis,2,Kiekko-Vantaa,0
+2011-12,17,21,16,30,24,Jr. A SM-lii,48,Jokerit U20,51
+2011-12,17,2,18,7,3,Internationa,15,Finland U18 (all),9
+2011-12,17,0,2,6,4,WJC-18,7,Finland U18,6
+2011-12,17,1,14,0,-3,Hlinka Memor,5,Finland U18,1
+2012-13,18,2,2,1,0,ET,7,Jokerit,3
+2012-13,18,3,2,0,0,Internationa,7,Finland U19 (all),3
+2012-13,18,4,16,6,-10,Mestis,22,Kiekko-Vantaa,10
+2012-13,18,5,6,4,2,Jr. A SM-lii,11,Jokerit U20,9
+2012-13,18,0,4,0,-9,Liiga,19,Jokerit,0
+2012-13,18,0,6,0,3,Internationa,8,Finland U20 (all),0
+2013-14,19,2,8,3,2,Mestis,11,Kiekko-Vantaa,5
+2013-14,19,2,10,3,8,Liiga,44,Jokerit,5
+2013-14,19,0,2,2,0,ET,5,Jokerit,2
+2013-14,19,2,6,3,6,WJC-20,7,Finland U20,5
+2013-14,19,0,0,1,5,Internationa,6,Finland (all),1
+2014-15,20,0,2,1,0,AHL,5,Texas Stars,1
+2014-15,20,4,0,6,4,Internationa,19,Finland (all),10
+2014-15,20,1,0,5,5,WC,8,Finland,6
+2014-15,20,2,0,0,-2,EHT,8,Finland,2
+2014-15,20,14,28,21,0,Liiga,57,\xc3\x84ss\xc3\xa4t,35
+2015-16,21,14,56,28,6,AHL,73,Texas Stars,42
+2015-16,21,1,0,3,6,Internationa,10,Finland (all),4
+2015-16,21,1,0,3,6,WC,10,Finland,4
+2016-17,22,0,0,1,3,AHL,2,Texas Stars,1
+2016-17,22,0,0,1,1,Internationa,3,Finland (all),1
+2016-17,22,0,0,0,-1,WCup,1,Finland,0

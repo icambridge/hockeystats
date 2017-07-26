@@ -1,0 +1,16 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,0,1,20,92,35,5,,MTL,[],5.4,4,30,17,5,1,1975-76,,0,16,3,22
+NHL,0,2,21,88,38,0,,MTL,[],18.2,16,22,30,16,0,1976-77,,0,14,0,22
+NHL,80,1,22,129,39,2,,MTL,[],8.5,7,28,12,11,2,1977-78,,2,23,1,25
+NHL,0,1,23,117,23,0,,MTL,"[{'link': '/awards/voting-1979.html#byng', 'name': 'Byng-22'}, {'link': '/awards/voting-1979.html#selke', 'name': 'Selke-8'}]",8.5,9,13,5,10,1,1978-79,,0,16,0,13
+NHL,80,3,24,130,24,0,,MTL,[],10.0,12,11,-5,13,1,1979-80,,0,28,0,11
+NHL,80,1,25,122,38,1,,MTL,"[{'link': '/awards/voting-1981.html#selke', 'name': 'Selke-20'}]",13.1,14,22,12,16,2,1980-81,,0,34,2,19
+NHL,80,4,26,127,48,2,,MTL,"[{'link': '/awards/voting-1982.html#byng', 'name': 'Byng-20'}, {'link': '/awards/voting-1982.html#selke', 'name': 'Selke-4'}]",15.7,19,28,34,20,0,1981-82,,1,20,3,23
+NHL,0,0,27,95,30,1,,WSH,"[{'link': '/awards/voting-1983.html#selke', 'name': 'Selke-29'}]",8.4,7,22,-12,8,1,1982-83,,0,10,0,21
+NHL,0,0,28,122,42,5,,WSH,"[{'link': '/awards/voting-1984.html#byng', 'name': 'Byng-4'}, {'link': '/awards/selke.html#1984', 'name': None}]",10.7,11,29,7,13,2,1983-84,,0,12,2,22
+NHL,0,1,29,103,37,1,,WSH,"[{'link': '/awards/voting-1985.html#selke', 'name': 'Selke-2'}]",8.7,7,28,19,9,1,1984-85,,1,32,1,26
+NHL,0,0,30,74,27,0,,TOT,"[{'link': '/awards/voting-1986.html#selke', 'name': 'Selke-7'}]",12.2,6,18,2,9,3,1985-86,,0,36,1,17
+NHL,25,0,30,19,3,0,,WSH,"[{'link': '/awards/voting-1986.html#selke', 'name': 'Selke-7'}]",5.3,1,2,-5,1,0,1985-86,,0,16,0,2
+NHL,57,0,30,55,24,0,,HAR,"[{'link': '/awards/voting-1986.html#selke', 'name': 'Selke-7'}]",14.5,5,16,7,8,3,1985-86,,0,20,1,15
+NHL,80,2,31,88,22,1,,HAR,"[{'link': '/awards/voting-1987.html#byng', 'name': 'Byng-13'}, {'link': '/awards/masterton.html#1987', 'name': None}, {'link': '/awards/voting-1987.html#selke', 'name': 'Selke-8'}]",10.2,7,13,0,9,2,1986-87,,0,20,3,9
+NHL,2,0,32,2,0,0,,HAR,[],0.0,0,0,0,0,0,1987-88,,0,2,0,0

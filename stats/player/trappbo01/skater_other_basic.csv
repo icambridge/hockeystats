@@ -1,0 +1,17 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1915-16,16,4,0,0,0,OHA-Sr.,8,Toronto R & AA,4
+1918-19,19,2,0,1,0,OHA-Sr.,3,Toronto Veterans,3
+1919-20,20,2,6,2,0,Big-4,12,Edmonton Eskimos,4
+1920-21,21,6,2,1,0,Big-4,16,Edmonton Dominions,7
+1921-22,22,5,5,4,0,WCHL,24,Edmonton Eskimos,9
+1922-23,23,5,14,5,0,WCHL,26,Edmonton Eskimos,10
+1923-24,24,5,20,4,0,WCHL,30,Edmonton Eskimos,9
+1924-25,25,8,33,11,0,WCHL,27,Edmonton Eskimos,19
+1925-26,26,4,55,12,0,WHL,30,Portland Rosebuds,16
+1928-29,29,8,30,6,0,AHA,40,Tulsa Oilers,14
+1929-30,30,1,10,3,0,AHA,23,Tulsa Oilers,4
+1930-31,31,8,54,13,0,AHA,45,Tulsa Oilers,21
+1931-32,32,4,30,3,0,AHA,25,Tulsa Oilers,7
+1931-32,32,2,12,2,0,Can-Am,14,Providence Reds,4
+1932-33,33,3,50,11,0,Can-Am,44,Providence Reds,14
+1933-34,34,0,2,1,0,Can-Am,17,Providence Reds,1

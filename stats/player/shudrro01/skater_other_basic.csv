@@ -1,0 +1,31 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1984-85,17,14,70,57,0,AJHL,57,Red Deer Rustlers,71
+1985-86,18,10,81,40,0,WHL,72,Kamloops Blazers,50
+1986-87,19,49,68,70,0,WHL,71,Kamloops Blazers,119
+1987-88,20,7,21,15,0,AHL,49,Nova Scotia Oilers,22
+1988-89,21,0,0,0,0,AHL,5,Cape Breton Oilers,0
+1988-89,21,11,44,14,0,IHL,64,Denver Rangers,25
+1989-90,22,11,48,16,0,IHL,67,Fort Wayne Komets,27
+1990-91,23,1,2,0,0,Aut-Cup,3,Solihull Barons,1
+1990-91,23,24,70,53,0,Britain,36,Solihull Barons,77
+1991-92,24,7,2,6,0,Aut-Cup,6,Solihull Barons,13
+1991-92,24,78,42,70,0,Britain-3,32,Sheffield Steelers,148
+1992-93,25,6,14,6,0,BH-Cup,8,Sheffield Steelers,12
+1992-93,25,32,36,46,0,Britain-2,26,Sheffield Steelers,78
+1993-94,26,8,8,11,0,BH-Cup,6,Sheffield Steelers,19
+1993-94,26,31,69,48,0,Britain,34,Sheffield Steelers,79
+1994-95,27,10,33,8,0,BH-Cup,12,Sheffield Steelers,18
+1994-95,27,25,83,38,0,Britain,43,Sheffield Steelers,63
+1995-96,28,13,10,16,0,BH-Cup,13,Sheffield Steelers,29
+1995-96,28,23,56,31,0,Britain,36,Sheffield Steelers,54
+1996-97,29,2,8,5,0,BH-Cup,10,Sheffield Steelers,7
+1996-97,29,13,12,16,0,Britain,41,Sheffield Steelers,29
+1997-98,30,1,6,6,0,BH-Cup,12,Sheffield Steelers,7
+1997-98,30,8,18,16,0,Britain,38,Sheffield Steelers,24
+1998-99,31,1,4,3,0,BH-Cup,10,Sheffield Steelers,4
+1998-99,31,0,2,1,0,Britain,11,Sheffield Steelers,1
+1999-00,32,18,26,32,0,Britain,35,Hull Thunder,50
+2000-01,33,3,2,10,0,BH-Cup,8,Hull Thunder,13
+2000-01,33,22,42,26,0,Britain,35,Hull Thunder,48
+2001-02,34,3,2,1,0,Britain-2,7,Edinburgh Capitals,4
+2001-02,34,4,10,6,0,Britain,25,Sheffield Steelers,10

@@ -1,7 +1,7 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-2,1991-92,Utica Devils,1,0,22,4,4,3,AHL
-6,1992-93,Utica Devils,2,0,23,5,4,2,AHL
-6,1993-94,Albany River Rats,1,0,24,5,4,3,AHL
-8,1995-96,Adirondack Red Wings,0,0,26,3,0,0,AHL
-4,1996-97,Grand Rapids Griffins,2,0,27,5,4,2,IHL
-47,1997-98,Orlando Solar Bears,4,0,28,14,4,0,IHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+1,Utica Devils,3,1991-92,4,4,2,22,0,AHL
+2,Utica Devils,2,1992-93,5,4,6,23,0,AHL
+1,Albany River Rats,3,1993-94,5,4,6,24,0,AHL
+0,Adirondack Red Wings,0,1995-96,3,0,8,26,0,AHL
+2,Grand Rapids Griffins,2,1996-97,5,4,4,27,0,IHL
+4,Orlando Solar Bears,0,1997-98,14,4,47,28,0,IHL

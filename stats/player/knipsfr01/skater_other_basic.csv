@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1988-89,19,32,123,33,0,USHL,47,Omaha Lancers,65
+1989-90,20,38,66,46,0,USHL,48,Omaha Lancers,84
+1990-91,21,9,57,10,0,WCHA,40,St. Cloud State Huskies,19
+1991-92,22,15,48,17,0,WCHA,33,St. Cloud State Huskies,32
+1992-93,23,34,68,26,0,WCHA,36,St. Cloud State Huskies,60
+1993-94,24,26,50,13,0,AHL,62,Providence Bruins,39
+1994-95,25,29,81,34,0,AHL,71,Providence Bruins,63
+1995-96,26,36,93,37,0,AHL,68,Worcester IceCats,73
+1996-97,27,15,65,20,0,IHL,65,2 Teams,35
+1996-97,27,5,19,11,0,IHL,24,Phoenix Roadrunners,16
+1996-97,27,10,46,9,0,IHL,41,Indianapolis Ice,19
+1997-98,28,0,8,7,-16,AHL,17,Kentucky Thoroughblades,7
+1997-98,28,21,69,32,19,IHL,58,Utah Grizzlies,53
+1998-99,29,18,64,24,-21,IHL,64,2 Teams,42
+1998-99,29,4,20,9,-6,IHL,21,Utah Grizzlies,13
+1998-99,29,14,44,15,-15,IHL,43,Cincinnati Cyclones,29
+1999-00,30,9,28,23,-1,IHL,48,2 Teams,32
+1999-00,30,1,2,0,-2,IHL,8,Cincinnati Cyclones,1
+1999-00,30,8,26,23,1,IHL,40,Milwaukee Admirals,31

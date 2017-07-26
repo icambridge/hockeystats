@@ -1,0 +1,16 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,CCHA,2,St. Louis University,41,18,1,0,0,6,0,0,0,0,0,0,0,0,0,0,1973-74,0,8.78,0,0
+0,CCHA,24,St. Louis University,1459,19,0,0,0,71,0,0,0,1,0,0,0,0,0,0,1974-75,0,2.92,0,0
+0,CCHA,30,St. Louis University,1767,20,0,0,0,88,0,0,0,0,0,0,0,0,0,0,1975-76,0,2.99,0,0
+0,CCHA,18,St. Louis University,1058,21,0,0,0,54,0,0,0,1,0,0,0,0,0,0,1976-77,0,3.06,0,0
+0,AHL,17,New Haven Nighthawks,968,22,9,0,0,71,0,0,3,0,5,0,0,0,0,0,1977-78,0,4.40,0,0
+0,IHL,16,Toledo Goaldiggers,949,22,0,0,0,45,0,0,0,2,0,0,0,0,0,0,1977-78,0,2.85,0,0
+0,AHL,54,New Haven Nighthawks,3221,23,19,0,0,173,0,0,5,1,29,0,0,0,0,0,1978-79,0,3.22,0,0
+0,CHL,37,Tulsa Oilers,2073,24,15,0,0,102,0,0,3,0,16,0,0,0,0,0,1979-80,0,2.95,0,0
+0,CHL,36,Tulsa Oilers,2115,25,16,0,0,120,0,0,2,2,17,0,0,0,0,0,1980-81,0,3.40,0,0
+0,CHL,31,Nashville South Stars,1868,26,11,0,0,93,0,0,2,3,17,0,0,0,0,0,1981-82,0,2.99,0,0
+0,CHL,13,Wichita Wind,779,27,7,0,0,46,0,0,0,0,6,0,0,0,0,0,1982-83,0,3.54,0,0
+0,AHL,11,Moncton Alpines,669,27,4,0,0,42,0,0,1,0,6,0,0,0,0,0,1982-83,0,3.77,0,0
+0,CHL,36,Montana Magic,2104,28,22,0,0,162,0,0,3,0,10,0,0,0,0,0,1983-84,0,4.62,0,0
+0,IHL,50,Toledo Goaldiggers,2791,29,25,0,0,183,0,0,3,0,18,0,0,0,0,0,1984-85,0,3.93,0,0
+0,IHL,56,Milwaukee Admirals,3318,30,10,0,0,191,0,0,0,3,33,0,0,0,0,0,1985-86,0,3.45,0,0

@@ -1,0 +1,11 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+9.5,4,NHL,41,MTL,2413,20,12,88,2,103,40,13.46,3,3,24,2,.600,0,24,.920,2007-08,1282,2.56,0,"[{'link': '/awards/voting-2008.html#calder', 'name': 'Calder-4'}, {'link': '/awards/voting-2008.html#vezina', 'name': 'Vezina-9'}]",1179
+8.5,8,NHL,52,MTL,3036,21,16,103,1,143,49,-4.55,10,1,23,1,.612,0,30,.905,2008-09,1513,2.83,4,[],1370
+7.6,4,NHL,41,MTL,2358,22,20,99,1,109,39,1.38,5,0,13,1,.538,0,21,.912,2009-10,1244,2.77,8,[],1135
+15.4,9,NHL,72,MTL,4206,23,28,88,2,165,70,22.04,6,8,0,2,.600,0,42,.923,2010-11,2147,2.35,13,"[{'link': '/awards/voting-2011.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-2011.html#hart', 'name': 'Hart-7'}, {'link': '/awards/voting-2011.html#vezina', 'name': 'Vezina-5'}]",1982
+12.3,8,NHL,65,MTL,3944,24,28,97,2,160,65,5.49,11,4,26,2,.538,0,35,.916,2011-12,1914,2.43,6,[],1754
+5.4,8,NHL,39,MTL,2249,25,13,108,0,97,38,-7.34,4,3,21,0,.553,0,21,.905,2012-13,1018,2.59,0,"[{'link': '/awards/voting-2013.html#AS', 'name': 'AS-11'}, {'link': '/awards/voting-2013.html#hart', 'name': 'Hart-17'}, {'link': '/awards/voting-2013.html#vezina', 'name': 'Vezina-10'}]",921
+13.9,7,NHL,59,MTL,3464,26,20,85,2,134,59,23.51,5,6,34,2,.644,0,38,.927,2013-14,1828,2.32,4,"[{'link': '/awards/voting-2014.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-2014.html#hart', 'name': 'Hart-14'}, {'link': '/awards/voting-2014.html#vezina', 'name': 'Vezina-4'}]",1694
+0,6,NHL,66,MTL,3977,27,16,0,1,130,66,0,6,9,0,1,.591,0,39,0,2014-15,1953,0,4,"[{'link': '/awards/nhl_all_star.html#2015', 'name': None}, {'link': '/awards/hart.html#2015', 'name': None}, {'link': '/awards/jennings.html#2015', 'name': None}, {'link': '/awards/pearson.html#2015', 'name': None}, {'link': '/awards/vezina.html#2015', 'name': None}]",1823
+3.0,1,NHL,12,MTL,698,28,2,77,0,24,12,7.08,0,2,10,0,.667,0,8,.934,2015-16,365,2.06,0,[],341
+12.6,8,NHL,62,MTL,3708,29,20,89,1,138,62,17.25,5,3,37,1,.613,0,38,.923,2016-17,1794,2.23,4,"[{'link': '/awards/voting-2017.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-2017.html#vezina', 'name': 'Vezina-3'}]",1656

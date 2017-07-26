@@ -1,0 +1,15 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,QMJHL,56,Cornwall Royals,2824,18,24,0,0,248,0,0,6,1,21,0,0,0,0,0,1978-79,0,5.27,0,0
+0,QMJHL,41,Cornwall Royals,2086,19,11,0,0,165,0,0,3,0,19,0,0,0,0,0,1979-80,0,4.75,0,0
+0,WCHA,33,Michigan State Spartans,1899,20,21,0,0,123,0,0,1,2,11,0,0,0,0,0,1980-81,0,3.89,0,0
+0,CCHA,39,Michigan State Spartans,2298,21,13,0,0,109,0,0,1,2,24,0,0,0,0,0,1981-82,0,2.85,0,0
+0,CCHA,40,Michigan State Spartans,2273,22,9,0,0,100,0,0,1,2,29,0,0,0,0,0,1982-83,0,2.64,0,0
+0,CHL,29,Tulsa Oilers,1717,23,13,0,0,109,0,0,3,0,13,0,0,0,0,0,1983-84,0,3.81,0,0
+0,AHL,36,New Haven Nighthawks,2047,24,18,0,0,130,0,0,4,0,13,0,0,0,0,0,1984-85,0,3.81,0,0
+0,AHL,19,New Haven Nighthawks,1069,25,8,0,0,66,0,0,1,1,8,0,0,0,0,0,1985-86,0,3.70,0,0
+0,AHL,29,New Haven Nighthawks,1744,26,7,0,0,107,0,0,0,2,16,0,0,0,0,0,1986-87,0,3.68,0,0
+0,AHL,17,New Haven Nighthawks,963,27,7,0,0,49,0,0,1,0,8,0,0,0,0,0,1987-88,0,3.05,0,0
+0,IHL,8,Colorado Rangers,395,27,4,0,0,33,0,0,0,0,3,0,0,0,0,0,1987-88,0,5.01,0,0
+0,IHL,18,Denver Rangers,990,28,11,0,0,79,0,0,0,0,7,0,0,0,0,0,1988-89,0,4.79,0,0
+0,AHL,22,New Haven Nighthawks,1224,29,11,0,0,79,0,0,1,1,8,0,0,0,0,0,1989-90,0,3.87,0,0
+0,AHL,29,New Haven Nighthawks,1540,30,15,0,0,104,0,0,4,0,5,0,0,0,0,0,1990-91,0,4.05,0,0

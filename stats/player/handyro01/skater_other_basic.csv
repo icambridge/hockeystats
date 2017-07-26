@@ -1,33 +1,33 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1979-80,Toronto Marlboros,60,0,17,39,108,48,MTHL
-0,1979-80,Port Credit Titans,3,0,17,3,5,2,ON-Jr.B
-45,1980-81,Sault Ste. Marie Greyhounds,43,0,18,66,86,43,OMJHL
-43,1981-82,2 Teams,48,0,19,64,98,50,OHL
-20,1981-82,Sault Ste. Marie Greyhounds,10,0,19,20,25,15,OHL
-23,1981-82,Kingston Canadians,38,0,19,44,73,35,OHL
-64,1982-83,Kingston Canadians,96,0,20,67,148,52,OHL
-0,1982-83,Indianapolis Checkers,7,0,20,9,9,2,CHL
-40,1983-84,Indianapolis Checkers,46,0,21,66,75,29,CHL
-38,1984-85,Springfield Indians,35,0,22,69,64,29,AHL
-66,1985-86,Springfield Indians,30,0,23,79,61,31,AHL
-57,1986-87,Indianapolis Checkers,80,0,24,82,135,55,IHL
-61,1987-88,Peoria Rivermen,63,0,25,78,116,53,IHL
-24,1988-89,Indianapolis Ice,57,0,26,81,100,43,IHL
-52,1989-90,Fort Wayne Komets,39,0,27,82,75,36,IHL
-41,1990-91,Kansas City Blades,39,0,28,64,81,42,IHL
-30,1991-92,Kansas City Blades,19,0,29,38,35,16,IHL
-20,1992-93,Wichita Thunder,12,0,30,11,18,6,CHL
-18,1992-93,2 Teams,8,0,30,24,9,1,IHL
-16,1992-93,Peoria Rivermen,7,0,30,18,7,0,IHL
-2,1992-93,Kansas City Blades,1,0,30,6,2,1,IHL
-98,1993-94,Wichita Thunder,80,0,31,57,109,29,CHL
-31,1994-95,Sheffield Steelers,10,0,32,12,20,10,BH-Cup
-2,1994-95,Sheffield Steelers,6,0,32,6,14,8,Britain
-0,1994-95,Denver Grizzlies,0,0,32,1,0,0,IHL
-72,1994-95,Wichita Thunder,45,0,32,46,69,24,CHL
-0,1995-96,Huntsville Channel Cats,1,0,33,3,4,3,SHL
-34,1995-96,Louisiana IceGators,65,0,33,58,85,20,ECHL
-58,1996-97,Louisiana IceGators,67,0,34,66,100,33,ECHL
-50,1997-98,Huntsville Channel Cats,33,11,35,46,60,27,CHL
-21,1998-99,Lake Charles Ice Pirates,10,1,36,15,15,5,WPHL
-8,1999-00,Arkansas RiverBlades,1,-8,37,9,2,1,ECHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+60,Toronto Marlboros,48,1979-80,39,108,0,17,0,MTHL
+3,Port Credit Titans,2,1979-80,3,5,0,17,0,ON-Jr.B
+43,Sault Ste. Marie Greyhounds,43,1980-81,66,86,45,18,0,OMJHL
+48,2 Teams,50,1981-82,64,98,43,19,0,OHL
+10,Sault Ste. Marie Greyhounds,15,1981-82,20,25,20,19,0,OHL
+38,Kingston Canadians,35,1981-82,44,73,23,19,0,OHL
+96,Kingston Canadians,52,1982-83,67,148,64,20,0,OHL
+7,Indianapolis Checkers,2,1982-83,9,9,0,20,0,CHL
+46,Indianapolis Checkers,29,1983-84,66,75,40,21,0,CHL
+35,Springfield Indians,29,1984-85,69,64,38,22,0,AHL
+30,Springfield Indians,31,1985-86,79,61,66,23,0,AHL
+80,Indianapolis Checkers,55,1986-87,82,135,57,24,0,IHL
+63,Peoria Rivermen,53,1987-88,78,116,61,25,0,IHL
+57,Indianapolis Ice,43,1988-89,81,100,24,26,0,IHL
+39,Fort Wayne Komets,36,1989-90,82,75,52,27,0,IHL
+39,Kansas City Blades,42,1990-91,64,81,41,28,0,IHL
+19,Kansas City Blades,16,1991-92,38,35,30,29,0,IHL
+12,Wichita Thunder,6,1992-93,11,18,20,30,0,CHL
+8,2 Teams,1,1992-93,24,9,18,30,0,IHL
+7,Peoria Rivermen,0,1992-93,18,7,16,30,0,IHL
+1,Kansas City Blades,1,1992-93,6,2,2,30,0,IHL
+80,Wichita Thunder,29,1993-94,57,109,98,31,0,CHL
+10,Sheffield Steelers,10,1994-95,12,20,31,32,0,BH-Cup
+6,Sheffield Steelers,8,1994-95,6,14,2,32,0,Britain
+0,Denver Grizzlies,0,1994-95,1,0,0,32,0,IHL
+45,Wichita Thunder,24,1994-95,46,69,72,32,0,CHL
+1,Huntsville Channel Cats,3,1995-96,3,4,0,33,0,SHL
+65,Louisiana IceGators,20,1995-96,58,85,34,33,0,ECHL
+67,Louisiana IceGators,33,1996-97,66,100,58,34,0,ECHL
+33,Huntsville Channel Cats,27,1997-98,46,60,50,35,11,CHL
+10,Lake Charles Ice Pirates,5,1998-99,15,15,21,36,1,WPHL
+1,Arkansas RiverBlades,1,1999-00,9,2,8,37,-8,ECHL

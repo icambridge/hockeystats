@@ -1,29 +1,29 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-34,1990-91,Kiekko-Espoo Jr.,3,0,17,36,6,3,Fin-Jr.
-0,1990-91,Kiekko-Espoo,1,0,17,4,1,0,Finland-2
-0,1990-91,Finland,1,0,17,6,2,1,EJC-A
-34,1991-92,Kiekko-Espoo Jr.,4,0,18,26,4,0,Fin-Jr.
-60,1992-93,Lukko Rauma Jr.,16,0,19,36,20,4,Fin-Jr.
-0,1992-93,Lukko Rauma,0,0,19,4,0,0,Finland
-2,1993-94,Kiekko-Espoo Jr.,2,0,20,5,2,0,Fin-Jr.
-40,1993-94,Kiekko-Espoo,2,0,20,47,5,3,Finland
-54,1994-95,Kiekko-Espoo,3,0,21,48,7,4,Finland
-48,1995-96,Kiekko-Espoo,7,0,22,45,8,1,Finland
-69,1996-97,Kiekko-Espoo,12,0,23,48,12,0,Finland
-59,1997-98,Kiekko-Espoo,1,0,24,47,5,4,Finland
-58,1998-99,Star Bulls Rosenheim,9,0,25,51,10,1,Germany
-74,1999-00,Star Bulls Rosenheim,9,0,26,61,13,4,Germany
-98,2000-01,Jokerit Helsinki,8,0,27,52,10,2,Finland
-25,2001-02,Hamilton Bulldogs,2,6,28,6,2,0,AHL
-40,2001-02,Jokerit Helsinki,3,0,28,36,3,0,Finland
-12,2002-03,Hamilton Bulldogs,4,3,29,12,4,0,AHL
-50,2003-04,MODO Hockey Ornskoldsvik,3,0,30,31,4,1,Sweden
-52,2004-05,Blues Espoo,9,0,31,47,10,1,Finland
-66,2005-06,Blues Espoo,4,0,32,20,4,0,Finland
-42,2005-06,Fuchse Duisburg,6,0,32,21,6,0,Germany
-56,2006-07,Skelleftea AIK HK,11,0,33,43,12,1,Sweden
-4,2006-07,Skelleftea AIK HK,1,0,33,10,1,0,Sweden-Q
-14,2007-08,Karpat Oulu,3,0,34,9,4,1,Finland
-20,2007-08,Skelleftea AIK HK,1,0,34,21,1,0,Sweden
-16,2008-09,Pelicans Lahti,0,0,35,18,2,2,Finland
-10,2009-10,Kloten Flyers,0,0,36,8,0,0,Swiss
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+3,Kiekko-Espoo Jr.,3,1990-91,36,6,34,17,0,Fin-Jr.
+1,Kiekko-Espoo,0,1990-91,4,1,0,17,0,Finland-2
+1,Finland,1,1990-91,6,2,0,17,0,EJC-A
+4,Kiekko-Espoo Jr.,0,1991-92,26,4,34,18,0,Fin-Jr.
+16,Lukko Rauma Jr.,4,1992-93,36,20,60,19,0,Fin-Jr.
+0,Lukko Rauma,0,1992-93,4,0,0,19,0,Finland
+2,Kiekko-Espoo Jr.,0,1993-94,5,2,2,20,0,Fin-Jr.
+2,Kiekko-Espoo,3,1993-94,47,5,40,20,0,Finland
+3,Kiekko-Espoo,4,1994-95,48,7,54,21,0,Finland
+7,Kiekko-Espoo,1,1995-96,45,8,48,22,0,Finland
+12,Kiekko-Espoo,0,1996-97,48,12,69,23,0,Finland
+1,Kiekko-Espoo,4,1997-98,47,5,59,24,0,Finland
+9,Star Bulls Rosenheim,1,1998-99,51,10,58,25,0,Germany
+9,Star Bulls Rosenheim,4,1999-00,61,13,74,26,0,Germany
+8,Jokerit Helsinki,2,2000-01,52,10,98,27,0,Finland
+2,Hamilton Bulldogs,0,2001-02,6,2,25,28,6,AHL
+3,Jokerit Helsinki,0,2001-02,36,3,40,28,0,Finland
+4,Hamilton Bulldogs,0,2002-03,12,4,12,29,3,AHL
+3,MODO Hockey Ornskoldsvik,1,2003-04,31,4,50,30,0,Sweden
+9,Blues Espoo,1,2004-05,47,10,52,31,0,Finland
+4,Blues Espoo,0,2005-06,20,4,66,32,0,Finland
+6,Fuchse Duisburg,0,2005-06,21,6,42,32,0,Germany
+11,Skelleftea AIK HK,1,2006-07,43,12,56,33,0,Sweden
+1,Skelleftea AIK HK,0,2006-07,10,1,4,33,0,Sweden-Q
+3,Karpat Oulu,1,2007-08,9,4,14,34,0,Finland
+1,Skelleftea AIK HK,0,2007-08,21,1,20,34,0,Sweden
+0,Pelicans Lahti,2,2008-09,18,2,16,35,0,Finland
+0,Kloten Flyers,0,2009-10,8,0,10,36,0,Swiss

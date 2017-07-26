@@ -1,0 +1,11 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,73,0,26,103,29,14,,VAN,[],2.9,1,26,-27,3,0,1971-72,,2,59,0,12
+NHL,72,0,27,113,37,8,,VAN,[],3.5,2,33,-26,4,0,1972-73,,2,51,0,25
+NHL,52,0,28,61,17,7,,VAN,[],6.6,2,13,-11,4,0,1973-74,,2,30,1,5
+NHL,49,0,29,71,12,8,,VAN,[],1.4,0,11,5,1,0,1974-75,,1,31,0,3
+NHL,0,0,30,118,51,27,,VAN,[],4.2,4,46,-6,5,0,1975-76,,1,48,0,19
+NHL,0,1,31,121,60,22,,VAN,"[{'link': '/awards/voting-1977.html#AS', 'name': 'AS-15'}]",4.1,2,55,-25,5,1,1976-77,,2,60,0,33
+NHL,80,2,32,101,47,22,,VAN,[],4.0,3,43,-40,4,0,1977-78,,1,27,0,21
+NHL,78,0,33,102,34,12,,VAN,[],2.9,3,31,-23,3,0,1978-79,,0,28,0,19
+NHL,67,0,34,66,19,5,,VAN,[],1.5,1,18,2,1,0,1979-80,,0,24,0,13
+NHL,46,0,35,43,15,7,,VAN,[],2.3,1,14,-7,1,0,1980-81,,0,28,0,7

@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1990-05-03,", ",C,Teemu Hartikainen,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",C,1990-05-03,Teemu Hartikainen

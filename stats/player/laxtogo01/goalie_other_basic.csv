@@ -1,0 +1,15 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,BCJHL,25,Chilliwack Bruins,1350,17,0,0,0,75,0,0,0,0,0,0,0,0,0,0,1972-73,0,3.33,0,0
+0,WCJHL,25,New Westminster Bruins,1350,18,0,0,0,75,0,0,0,0,0,0,0,0,0,0,1973-74,0,3.33,0,0
+0,WCJHL,70,New Westminster Bruins,3980,19,0,0,0,239,0,0,0,3,0,0,0,0,0,0,1974-75,0,3.60,0,0
+0,AHL,31,Hershey Bears,1857,20,11,0,0,104,0,0,4,0,16,0,0,0,0,0,1975-76,0,3.36,0,0
+0,AHL,18,Hershey Bears,958,21,11,0,0,80,0,0,0,0,4,0,0,0,0,0,1976-77,0,5.01,0,0
+0,IHL,45,Grand Rapids Owls,2651,22,0,0,0,183,0,0,0,0,0,0,0,0,0,0,1977-78,0,4.14,0,0
+0,IHL,63,Grand Rapids Owls,3742,23,0,0,0,192,0,0,0,3,0,0,0,0,0,0,1978-79,0,3.08,0,0
+0,AHL,2,Syracuse Firebirds,69,24,1,0,0,11,0,0,0,0,0,0,0,0,0,0,1979-80,0,9.57,0,0
+0,IHL,20,Grand Rapids Owls,1197,24,0,0,0,90,0,0,0,0,0,0,0,0,0,0,1979-80,0,4.51,0,0
+0,AHL,2,Binghamton Whalers,118,25,2,0,0,12,0,0,0,0,0,0,0,0,0,0,1980-81,0,6.10,0,0
+0,IHL,52,Port Huron Flags,2923,25,0,0,0,207,0,0,0,0,0,0,0,0,0,0,1980-81,0,4.25,0,0
+0,AHL,31,Erie Blades,1672,26,23,0,0,172,0,0,1,0,2,0,0,0,0,0,1981-82,0,6.17,0,0
+0,IHL,3,Muskegon Mohawks,175,26,0,0,0,11,0,0,0,0,0,0,0,0,0,0,1981-82,0,3.77,0,0
+0,IHL,40,Muskegon Mohawks,2326,27,0,0,0,158,0,0,0,1,0,0,0,0,0,0,1982-83,0,4.08,0,0

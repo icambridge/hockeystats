@@ -1,2 +1,2 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-6,1980-81,AIK Solna,1,0,24,6,5,4,Sweden
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+1,AIK Solna,4,1980-81,6,5,6,24,0,Sweden

@@ -1,0 +1,10 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2008-09,17,0,0,0,0,SM-liiga,0,Jokerit Helsinki,0
+2009-10,18,0,0,0,0,SM-liiga,0,Jokerit Helsinki,0
+2011-12,20,0,2,1,0,SM-liiga,4,Jokerit Helsinki,1
+2012-13,21,2,22,3,0,SM-liiga,6,Jokerit Helsinki,5
+2012-13,21,3,10,2,0,AHL,14,Grand Rapids Griffins,5
+2013-14,22,5,10,6,0,AHL,10,Grand Rapids Griffins,11
+2013-14,22,5,8,6,10,AHL,10,Grand Rapids Griffins,11
+2014-15,23,14,22,4,0,AHL,16,Grand Rapids Griffins,18
+2014-15,23,14,-6,4,22,AHL,16,Grand Rapids Griffins,18

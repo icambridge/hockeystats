@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1977-02-11,", ",LW,Dwayne Hay,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",LW,1977-02-11,Dwayne Hay

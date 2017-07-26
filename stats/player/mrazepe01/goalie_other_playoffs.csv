@@ -1,0 +1,11 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,CzR-U17,9,HC Vitkovice U17,486,14,0,0,0,15,0,0,0,1,0,0,0,0,0,0,2006-07,0,1.85,0,0
+0,CzR-U17,3,HC Vitkovice U17,179,15,0,0,0,8,0,0,0,0,0,0,0,0,0,0,2007-08,0,2.68,0,0
+0,CzR-U17,4,HC Vitkovice U17,193,16,0,0,0,3,0,0,0,2,0,0,0,0,0,0,2008-09,0,0.93,0,0
+0,CzRep-Jr.,1,HC Vitkovice Jr.,60,16,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2008-09,0,1.00,0,0
+0,OHL,8,Ottawa 67\'s,451,17,4,0,0,18,0,0,0,0,4,0,0,0,0,0,2009-10,0,2.39,0,0
+0,OHL,4,Ottawa 67\'s,224,18,3,0,0,21,0,0,0,0,0,0,0,0,0,.868,2010-11,159,5.63,0,138
+0,OHL,17,Ottawa 67\'s,1065,19,8,0,1,46,0,0,0,0,9,1,0,0,0,.926,2011-12,620,2.59,0,574
+0,AHL,24,Grand Rapids Griffins,1431,20,9,0,0,55,0,0,0,4,15,0,0,0,0,.916,2012-13,658,2.31,0,603
+0,AHL,0,Grand Rapids Griffins,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012-13,0,0,2,0
+0,AHL,0,Grand Rapids Griffins,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2013-14,0,0,0,0

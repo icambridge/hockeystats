@@ -1,0 +1,18 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1988-89,16,0,15,2,0,OHL,15,London Knights,2
+1989-90,17,3,6,2,0,OHL,6,London Knights,5
+1990-91,18,4,6,8,0,OHL,7,London Knights,12
+1991-92,19,8,9,16,0,OHL,10,London Knights,24
+1992-93,20,0,2,1,0,AHL,4,Capital District Islanders,1
+1994-95,22,7,10,6,0,IHL,14,Denver Grizzlies,13
+1995-96,23,5,26,11,0,IHL,22,Utah Grizzlies,16
+1996-97,24,1,0,2,0,IHL,7,Utah Grizzlies,3
+1997-98,25,0,6,2,0,IHL,4,Utah Grizzlies,2
+2001-02,29,0,0,1,0,AHL,2,Rochester Americans,1
+2002-03,30,3,2,1,2,AHL,3,Rochester Americans,4
+2003-04,31,5,0,12,6,AHL,16,Rochester Americans,17
+2004-05,32,1,4,8,0,AHL,9,Rochester Americans,9
+2006-07,34,1,8,9,0,Germany,8,Frankfurt Lions,10
+2007-08,35,5,6,8,0,Germany,12,Frankfurt Lions,13
+2008-09,36,0,4,3,0,Germany,5,Frankfurt Lions,3
+2009-10,37,1,6,3,-5,AHL,7,Rochester Americans,4

@@ -1,8 +1,8 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-21,Estevan Bruins,1,0,9,SJHL,11,1965-66,18,8
-52,Estevan Bruins,5,0,15,M-Cup,13,1965-66,18,10
-11,Edmonton Oil Kings,3,0,5,M-Cup,6,1965-66,18,2
-38,Estevan Bruins,4,0,6,CMJHL,8,1966-67,19,2
-29,Estevan Bruins,22,0,35,WCJHL,14,1967-68,20,13
-42,Estevan Bruins,15,0,34,M-Cup,14,1967-68,20,19
-6,Oklahoma City Blazers,2,0,5,CHL,9,1968-69,21,3
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+1,Estevan Bruins,8,1965-66,11,9,21,18,0,SJHL
+5,Estevan Bruins,10,1965-66,13,15,52,18,0,M-Cup
+3,Edmonton Oil Kings,2,1965-66,6,5,11,18,0,M-Cup
+4,Estevan Bruins,2,1966-67,8,6,38,19,0,CMJHL
+22,Estevan Bruins,13,1967-68,14,35,29,20,0,WCJHL
+15,Estevan Bruins,19,1967-68,14,34,42,20,0,M-Cup
+2,Oklahoma City Blazers,3,1968-69,9,5,6,21,0,CHL

@@ -1,0 +1,40 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1983-84,16,8,28,15,0,QAAA,12,Richelieu Riverains,23
+1984-85,17,26,146,28,0,QMJHL,55,Longueuil Chevaliers,54
+1985-86,18,37,203,43,0,QMJHL,58,3 Teams,80
+1985-86,18,3,19,4,0,QMJHL,7,Longueuil Chevaliers,7
+1985-86,18,32,150,33,0,QMJHL,42,Chicoutimi Sagueneens,65
+1985-86,18,2,34,6,0,QMJHL,9,Shawinigan Cataractes,8
+1986-87,19,26,325,43,0,QMJHL,46,2 Teams,69
+1986-87,19,23,269,35,0,QMJHL,37,Laval Titan,58
+1986-87,19,3,56,8,0,QMJHL,9,Hull Olympiques,11
+1987-88,20,31,343,42,0,QMJHL,52,Hull Olympiques,73
+1988-89,21,5,113,20,0,AHL,42,Adirondack Red Wings,25
+1989-90,22,8,36,8,0,AHL,14,Adirondack Red Wings,16
+1990-91,23,26,278,49,0,AHL,60,Adirondack Red Wings,75
+1991-92,24,22,195,40,0,AHL,58,2 Teams,62
+1991-92,24,13,112,21,0,AHL,27,Adirondack Red Wings,34
+1991-92,24,9,83,19,0,AHL,31,Springfield Indians,28
+1992-93,25,39,495,53,0,IHL,77,San Diego Gulls,92
+1993-94,26,31,299,42,0,IHL,70,2 Teams,73
+1993-94,26,27,273,36,0,IHL,63,San Diego Gulls,63
+1993-94,26,4,26,6,0,IHL,7,Phoenix Roadrunners,10
+1994-95,27,48,172,38,0,IHL,73,2 Teams,86
+1994-95,27,4,30,11,0,IHL,19,Minnesota Moose,15
+1994-95,27,44,142,27,0,IHL,54,Detroit Vipers,71
+1995-96,28,50,287,48,0,IHL,78,2 Teams,98
+1995-96,28,36,191,29,0,IHL,49,Las Vegas Thunder,65
+1995-96,28,14,96,19,0,IHL,29,Detroit Vipers,33
+1996-97,29,33,293,58,0,IHL,81,San Antonio Dragons,91
+1997-98,30,39,141,43,0,IHL,80,San Antonio Dragons,82
+1998-99,31,2,12,5,0,Germany,9,Frankfurt Lions,7
+1998-99,31,13,26,16,-1,WCHL,17,Phoenix Mustangs,29
+1999-00,32,23,198,40,8,WCHL,48,Phoenix Mustangs,63
+2000-01,33,2,14,7,0,CHL,9,Border City Bandits,9
+2000-01,33,16,151,21,0,WCHL,34,2 Teams,37
+2000-01,33,14,145,17,0,WCHL,27,Phoenix Mustangs,31
+2000-01,33,2,6,4,0,WCHL,7,San Diego Gulls,6
+2002-03,35,19,116,46,0,QSPHL,48,2 Teams,65
+2002-03,35,0,4,2,0,QSPHL,2,St. Jean Mission,2
+2002-03,35,19,112,44,0,QSPHL,46,Saguenay Paramedic,63
+2005-06,38,1,2,0,0,QNAHL,4,Verdun Dragons,1

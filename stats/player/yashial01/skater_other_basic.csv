@@ -1,0 +1,31 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1990-91,17,2,10,1,0,USSR,26,Avtomobilist Sverdlovsk,3
+1990-91,17,1,2,3,0,EJC-A,5,Soviet Union,4
+1990-91,17,1,12,1,0,USSR-Q,12,Avtomobilist Sverdlovsk,2
+1991-92,18,7,19,5,0,CIS,35,Dynamo Moscow,12
+1991-92,18,6,8,2,0,CIS-3,6,Dynamo Moscow 2,8
+1991-92,18,4,2,2,0,WJC-A,7,Russia,6
+1992-93,19,10,18,12,0,CIS,27,Dynamo Moscow,22
+1992-93,19,1,4,0,0,WJC-A,3,Russia,1
+1992-93,19,2,5,1,0,WC-A,8,Russia,3
+1993-94,20,1,8,2,0,WC-A,5,Russia,3
+1994-95,21,15,32,20,0,IHL,24,Las Vegas Thunder,35
+1995-96,22,2,4,2,0,CIS,4,CSKA Moscow,4
+1995-96,22,4,4,5,0,WC-A,8,Russia,9
+1996-97,23,0,6,2,0,W-Cup,5,Russia,2
+1996-97,23,3,12,0,0,WC-A,5,Russia,3
+1997-98,24,3,0,3,0,Olympics,6,Russia,6
+1998-99,25,8,6,1,0,WC-A,6,Russia,9
+1999-00,26,1,8,1,0,WC-A,5,Russia,2
+2000-01,27,2,6,3,-3,WC-A,7,Russia,5
+2001-02,28,1,0,1,1,Olympics,6,Russia,2
+2003-04,30,1,2,2,0,WC-A,6,Russia,3
+2004-05,31,1,4,2,0,W-Cup,4,Russia,3
+2004-05,31,3,14,3,0,Russia,10,Lokomotiv Yaroslavl,6
+2004-05,31,2,8,1,3,WC-A,9,Russia,3
+2005-06,32,1,4,3,1,Olympics,8,Russia,4
+2007-08,34,16,63,27,0,Russia,56,Lokomotiv Yaroslavl,43
+2008-09,35,21,30,26,0,KHL,56,Lokomotiv Yaroslavl,47
+2009-10,36,18,38,46,0,KHL,56,SKA St. Petersburg,64
+2010-11,37,15,50,18,0,KHL,52,SKA St. Petersburg,33
+2011-12,38,9,18,11,0,KHL,43,CSKA Moscow,20

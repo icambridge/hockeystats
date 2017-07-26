@@ -1,0 +1,9 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,QAAA,27,Montreal-Bourassa,1585,16,7,0,0,103,0,0,3,3,15,0,0,0,0,0,1987-88,0,3.90,0,0
+0,QMJHL,65,Chicoutimi Sagueneens,3492,17,31,0,0,271,0,0,1,2,27,0,0,0,0,0,1988-89,0,4.66,0,0
+0,QMJHL,62,Chicoutimi Sagueneens,3477,18,24,0,0,231,0,0,2,2,31,0,0,0,0,0,1989-90,0,3.99,0,0
+0,QMJHL,54,Chicoutimi Sagueneens,3217,19,14,0,0,145,0,0,4,6,33,0,0,0,0,0,1990-91,0,2.70,0,0
+0,WJC-A,2,Canada,80,19,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1990-91,0,2.25,0,0
+0,AHL,35,St. John\'s Maple Leafs,2070,20,10,0,0,101,0,0,6,2,18,0,0,0,0,0,1991-92,0,2.93,0,0
+0,AHL,5,St. John\'s Maple Leafs,309,21,0,0,0,18,0,0,2,0,3,0,0,0,0,0,1992-93,0,3.50,0,0
+0,WC-A,4,Canada,240,26,0,0,0,8,0,0,1,0,3,0,0,0,0,0,1997-98,0,2.00,0,0

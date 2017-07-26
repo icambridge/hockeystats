@@ -1,0 +1,34 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1986-87,18,8,18,14,0,USSR-2,44,Dynamo Kharkov,22
+1987-88,19,2,4,5,0,USSR,31,Dynamo Moscow,7
+1988-89,20,4,6,6,0,USSR,23,Dynamo Moscow,10
+1989-90,21,5,8,4,0,USSR,33,Dynamo Moscow,9
+1989-90,21,1,0,0,0,USSR-3,2,Dynamo Moscow 2,0
+1989-90,21,0,0,0,0,Fr-Tour,1,Dynamo Moscow,0
+1989-90,21,1,2,1,0,Super-S,5,Dynamo Moscow,2
+1990-91,22,14,10,13,0,USSR,43,Dynamo Moscow,27
+1990-91,22,0,0,0,0,USSR-3,1,Dynamo Moscow 2,0
+1990-91,22,0,0,0,0,Fr-Tour,1,Dynamo Moscow,0
+1991-92,23,9,10,10,0,CIS,31,Dynamo Moscow,19
+1991-92,23,3,0,2,0,Olympics,8,Russia,5
+1991-92,23,1,2,0,0,WC-A,6,Russia,1
+1992-93,24,12,10,12,0,CIS,36,Dynamo Moscow,24
+1992-93,24,0,2,1,0,WC-A,4,Russia,1
+1993-94,25,16,8,15,0,AHL,38,Rochester Americans,31
+1994-95,26,12,16,16,0,AHL,43,Rochester Americans,28
+1995-96,27,8,14,7,0,CIS,22,Dynamo Moscow,15
+1995-96,27,1,0,1,0,CIS-2,1,Dynamo Moscow 2,2
+1996-97,28,19,20,23,0,Swiss,41,HC Davos,42
+1996-97,28,2,4,2,0,WC-A,4,Russia,4
+1997-98,29,14,8,19,0,Russia,44,Dynamo Moscow,33
+1997-98,29,2,2,4,0,WC-A,6,Russia,6
+1998-99,30,11,36,24,0,Russia,40,Dynamo Moscow,35
+1998-99,30,2,2,4,0,WC-A,6,Russia,6
+1999-00,31,7,4,9,0,CzRep,29,HC Vitkovice,16
+1999-00,31,3,6,2,0,Russia,11,Metallurg Novokuznetsk,5
+2000-01,32,14,0,31,0,Japan,40,Shin Oji Seishi Tomakomai,45
+2001-02,33,5,31,4,0,Russia,21,Severstal Cherepovets,9
+2001-02,33,0,0,4,0,Russia-3,3,Severstal Cherepovets 2,4
+2002-03,34,7,20,10,0,Russia,44,Sibir Novosibirsk,17
+2003-04,35,0,0,0,0,Russia,5,Sibir Novosibirsk,0
+2003-04,35,2,0,0,0,Russia-2,4,Molot-Prikamje Perm,2

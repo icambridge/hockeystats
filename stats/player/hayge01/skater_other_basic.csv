@@ -1,13 +1,13 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-0,Winnipeg Strathconas,0,0,4,MHL-Sr.,7,1914-15,17,4
-10,Winnipeg Monarchs,4,0,10,MHL-Sr.,7,1915-16,18,6
-5,Regina Victorias,3,0,11,SSHL,12,1919-20,22,8
-7,Regina Victorias,4,0,13,SSHL,16,1920-21,23,9
-9,Regina Capitals,11,0,32,WCHL,25,1921-22,24,21
-12,Regina Capitals,8,0,36,WCHL,30,1922-23,25,28
-8,Regina Capitals,11,0,31,WCHL,25,1923-24,26,20
-6,Regina Capitals,6,0,22,WCHL,20,1924-25,27,16
-4,Portland Rosebuds,12,0,31,WHL,30,1925-26,28,19
-26,Detroit Olympics,9,0,19,IHL,48,1931-32,34,10
-6,Detroit Olympics,1,0,7,IHL,9,1932-33,35,6
-5,Detroit Olympics,0,0,0,IHL,4,1933-34,36,0
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Winnipeg Strathconas,4,1914-15,7,4,0,17,0,MHL-Sr.
+4,Winnipeg Monarchs,6,1915-16,7,10,10,18,0,MHL-Sr.
+3,Regina Victorias,8,1919-20,12,11,5,22,0,SSHL
+4,Regina Victorias,9,1920-21,16,13,7,23,0,SSHL
+11,Regina Capitals,21,1921-22,25,32,9,24,0,WCHL
+8,Regina Capitals,28,1922-23,30,36,12,25,0,WCHL
+11,Regina Capitals,20,1923-24,25,31,8,26,0,WCHL
+6,Regina Capitals,16,1924-25,20,22,6,27,0,WCHL
+12,Portland Rosebuds,19,1925-26,30,31,4,28,0,WHL
+9,Detroit Olympics,10,1931-32,48,19,26,34,0,IHL
+1,Detroit Olympics,6,1932-33,9,7,6,35,0,IHL
+0,Detroit Olympics,0,1933-34,4,0,5,36,0,IHL

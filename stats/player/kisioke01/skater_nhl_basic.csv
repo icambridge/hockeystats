@@ -1,0 +1,14 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,15,0,23,16,7,0,,DET,[],25.0,4,3,-2,4,0,1982-83,,0,0,0,3
+NHL,70,2,24,146,60,11,,DET,[],15.8,22,37,16,23,0,1983-84,,1,34,0,26
+NHL,75,0,25,126,61,10,,DET,[],15.9,15,41,2,20,0,1984-85,,5,56,0,31
+NHL,76,0,26,140,69,18,,DET,[],15.0,11,48,-21,21,3,1985-86,,7,85,0,30
+NHL,70,1,27,137,64,11,,NYR,[],17.5,18,40,-5,24,2,1986-87,,4,73,1,28
+NHL,77,1,28,145,78,16,,NYR,"[{'link': '/awards/voting-1988.html#selke', 'name': 'Selke-24'}]",15.9,13,55,8,23,1,1987-88,,9,88,0,39
+NHL,70,4,29,128,62,7,,NYR,[],20.3,24,36,14,26,0,1988-89,,2,91,0,29
+NHL,68,1,30,128,66,17,,NYR,"[{'link': '/awards/voting-1990.html#selke', 'name': 'Selke-16'}]",17.2,13,44,11,22,2,1989-90,,7,105,1,26
+NHL,51,2,31,74,35,6,,NYR,[],20.3,7,20,3,15,1,1990-91,,7,58,0,14
+NHL,48,2,32,68,37,10,,SJS,[],16.2,6,26,-7,11,3,1991-92,,2,54,3,13
+NHL,78,2,33,152,78,25,,SJS,"[{'link': '/awards/voting-1993.html#byng', 'name': 'Byng-17'}]",17.1,15,52,-15,26,2,1992-93,,9,90,1,26
+NHL,51,1,34,62,30,10,,CGY,[],11.3,6,23,-6,7,0,1993-94,,1,28,1,12
+NHL,12,0,35,26,11,0,,CGY,[],26.9,1,4,2,7,1,1994-95,,5,6,0,4

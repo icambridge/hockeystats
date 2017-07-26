@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1981-82,15,48,99,62,0,Minor-BC,60,Seafair Islanders,110
+1982-83,16,16,53,16,0,WHL,69,Victoria Cougars,32
+1983-84,17,15,97,15,0,WHL,69,Victoria Cougars,30
+1984-85,18,33,167,38,0,WHL,72,2 Teams,71
+1984-85,18,5,45,6,0,WHL,16,Victoria Cougars,11
+1984-85,18,28,122,32,0,WHL,56,Portland Winter Hawks,60
+1985-86,19,28,180,36,0,WHL,69,2 Teams,64
+1985-86,19,3,13,4,0,WHL,9,Kamloops Blazers,7
+1985-86,19,25,167,32,0,WHL,60,Medicine Hat Tigers,57
+1986-87,20,26,173,49,0,IHL,81,Saginaw Generals,75
+1987-88,21,29,211,22,0,IHL,62,Saginaw Hawks,51
+1988-89,22,22,223,23,0,IHL,57,Saginaw Hawks,45
+1990-91,24,28,226,30,0,IHL,82,Milwaukee Admirals,58
+1991-92,25,20,90,17,0,IHL,35,Peoria Rivermen,37
+1992-93,26,24,112,22,0,IHL,42,Peoria Rivermen,46
+1993-94,27,14,132,21,0,IHL,49,Peoria Rivermen,35
+1994-95,28,19,261,18,0,IHL,74,Milwaukee Admirals,37
+1995-96,29,15,235,16,0,IHL,77,Milwaukee Admirals,31
+1996-97,30,15,223,15,0,IHL,79,Milwaukee Admirals,30
+1997-98,31,8,202,12,-2,IHL,67,2 Teams,20
+1997-98,31,3,134,6,0,IHL,36,Milwaukee Admirals,9
+1997-98,31,5,68,6,-2,IHL,31,Orlando Solar Bears,11
+1998-99,32,21,192,20,-7,IHL,78,Orlando Solar Bears,41
+1999-00,33,5,54,2,-4,IHL,45,Chicago Wolves,7

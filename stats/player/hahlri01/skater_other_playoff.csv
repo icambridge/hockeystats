@@ -1,13 +1,13 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-2,1996-97,HPK Hameenlinna Jr.,0,0,16,6,2,2,Fin-Jr.
-0,1998-99,HPK Hameenlinna Jr.,3,0,18,2,3,0,Fin-Jr.
-2,1998-99,HPK Hameenlinna,0,0,18,8,0,0,Finland
-2,1999-00,HPK Hameenlinna,0,0,19,8,0,0,Finland
-2,2004-05,HPK Hameenlinna,6,0,24,10,8,2,Finland
-20,2005-06,HC Davos,9,0,25,14,11,2,Swiss
-0,2006-07,Timra IK,0,0,26,1,0,0,Sweden
-6,2007-08,Timra IK,8,0,27,11,10,2,Sweden
-4,2008-09,Frolunda HC Goteborg,5,0,28,10,6,1,Sweden
-4,2009-10,Frolunda HC Goteborg,3,0,29,7,5,2,Sweden
-6,2011-12,Jokerit Helsinki,5,0,31,10,6,1,Finland
-0,2012-13,Jokerit Helsinki,2,0,32,6,4,2,Finland
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,HPK Hameenlinna Jr.,2,1996-97,6,2,2,16,0,Fin-Jr.
+3,HPK Hameenlinna Jr.,0,1998-99,2,3,0,18,0,Fin-Jr.
+0,HPK Hameenlinna,0,1998-99,8,0,2,18,0,Finland
+0,HPK Hameenlinna,0,1999-00,8,0,2,19,0,Finland
+6,HPK Hameenlinna,2,2004-05,10,8,2,24,0,Finland
+9,HC Davos,2,2005-06,14,11,20,25,0,Swiss
+0,Timra IK,0,2006-07,1,0,0,26,0,Sweden
+8,Timra IK,2,2007-08,11,10,6,27,0,Sweden
+5,Frolunda HC Goteborg,1,2008-09,10,6,4,28,0,Sweden
+3,Frolunda HC Goteborg,2,2009-10,7,5,4,29,0,Sweden
+5,Jokerit Helsinki,1,2011-12,10,6,6,31,0,Finland
+2,Jokerit Helsinki,2,2012-13,6,4,0,32,0,Finland

@@ -1,0 +1,5 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,25,1,23,32,12,0,,CGY,[],28.1,9,3,8,9,0,1982-83,,0,4,0,3
+NHL,12,0,24,4,3,0,,TOT,[],0.0,0,3,-3,0,0,1983-84,,0,0,0,3
+NHL,9,0,24,4,3,0,,CGY,[],0.0,0,3,-1,0,0,1983-84,,0,0,0,3
+NHL,3,0,24,0,0,0,,EDM,[],0,0,0,-2,0,0,1983-84,,0,0,0,0

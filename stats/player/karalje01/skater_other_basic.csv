@@ -1,0 +1,39 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1991-92,16,10,34,4,0,Fin-U18,26,HIFK Helsinki U18,14
+1991-92,16,2,2,1,0,Fin-Jr.,4,HIFK Helsinki Jr.,3
+1992-93,17,3,4,1,0,Fin-U18,7,HIFK Helsinki U18,4
+1992-93,17,2,49,13,0,Fin-Jr.,30,HIFK Helsinki Jr.,15
+1992-93,17,2,8,2,0,EJC-A,6,Finland,4
+1993-94,18,0,0,0,0,Fin-Jr.,3,HIFK Helsinki Jr.,0
+1993-94,18,1,36,10,0,Finland,46,HIFK Helsinki,11
+1993-94,18,0,6,0,0,Nat-Tm,2,Finland,0
+1993-94,18,3,4,2,0,WJC-A,7,Finland,5
+1994-95,19,0,8,0,0,Fin-Jr.,1,HIFK Helsinki Jr.,0
+1994-95,19,1,42,7,0,Finland,37,HIFK Helsinki,8
+1994-95,19,2,8,4,0,WJC-A,7,Finland,6
+1995-96,20,1,2,2,0,Fin-Jr.,3,HIFK Helsinki Jr.,3
+1995-96,20,4,102,6,0,Finland,36,HIFK Helsinki,10
+1996-97,21,3,20,5,0,Finland,18,HIFK Helsinki,8
+1997-98,22,14,59,16,0,Finland,43,HIFK Helsinki,30
+1997-98,22,4,6,3,0,WC-A,10,Finland,7
+1997-98,22,2,8,3,0,Nat-Tm,13,Finland,5
+1998-99,23,11,65,22,0,Finland,49,HIFK Helsinki,33
+1998-99,23,2,2,1,0,EuroHL,6,HIFK Helsinki,3
+1998-99,23,3,2,2,0,Nat-Tm,10,Finland,5
+1998-99,23,5,2,3,0,WC-A,10,Finland,8
+1999-00,24,2,55,2,0,Finland,13,HIFK Helsinki,4
+1999-00,24,0,4,3,-4,IHL,10,Long Beach Ice Dogs,3
+1999-00,24,1,8,1,0,WC-A,9,Finland,2
+2001-02,26,2,10,3,-4,WC-A,9,Finland,5
+2003-04,28,7,148,16,0,Finland,45,HIFK Helsinki,23
+2003-04,28,0,4,0,2,WC-A,7,Finland,0
+2004-05,29,4,93,10,0,Finland,42,HIFK Helsinki,14
+2004-05,29,1,6,3,0,WC-A,7,Finland,4
+2005-06,30,4,43,11,0,Finland,20,HIFK Helsinki,15
+2006-07,31,5,132,9,0,Finland,51,HIFK Helsinki,14
+2007-08,32,2,43,4,0,Finland,15,Karpat Oulu,6
+2008-09,33,7,148,16,0,Germany,50,Hamburg Freezers,23
+2009-10,34,5,193,14,0,Germany,47,Hamburg Freezers,19
+2010-11,35,11,147,19,0,Finland,53,Blues Espoo,30
+2011-12,36,7,90,7,0,KHL,54,Dynamo Minsk,14
+2012-13,37,1,96,9,0,KHL,45,Dynamo Minsk,10

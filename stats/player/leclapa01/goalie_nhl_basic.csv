@@ -1,0 +1,8 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+0.3,0,NHL,2,CBJ,119,21,2,0,0,7,0,0,0,0,0,0,0,0,0,.899,2003-04,69,3.53,0,[],62
+7.6,0,NHL,33,CBJ,1804,23,15,91,1,97,0,10.03,3,0,11,1,0,0,0,.911,2005-06,1084,3.23,2,[],987
+3.2,0,NHL,24,CBJ,1315,24,15,109,0,65,0,-5.40,2,1,6,0,0,0,0,.897,2006-07,629,2.97,2,[],564
+10.1,6,NHL,54,CBJ,2986,25,17,89,2,112,52,13.27,6,9,24,2,.577,0,30,.919,2007-08,1379,2.25,2,"[{'link': '/awards/voting-2008.html#AS', 'name': 'AS-8'}]",1267
+0.4,3,NHL,12,CBJ,674,26,6,0,1,43,12,0,1,0,4,1,.250,0,3,.867,2008-09,324,3.83,0,[],281
+2.6,9,NHL,34,OTT,1745,27,14,128,0,93,31,-20.06,2,0,12,0,.452,0,14,.887,2009-10,822,3.20,2,[],729
+2.1,1,NHL,14,OTT,763,28,7,106,0,36,13,-1.94,1,0,4,0,.615,0,8,.908,2010-11,391,2.83,0,[],355

@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1997-98,17,12,54,18,0,NAHL,54,Detroit Compuware Ambassadors,30
+1998-99,18,17,62,15,0,OHL,65,Plymouth Whalers,32
+1999-00,19,34,114,44,28,OHL,66,Plymouth Whalers,78
+2000-01,20,26,62,34,34,OHL,55,Plymouth Whalers,60
+2000-01,20,2,0,2,3,WJC-A,7,United States,4
+2001-02,21,28,68,27,19,OHL,55,Plymouth Whalers,55
+2001-02,21,0,0,0,-1,AHL,1,Lowell Lock Monsters,0
+2002-03,22,11,46,11,-15,AHL,68,Lowell Lock Monsters,22
+2003-04,23,3,21,5,-5,AHL,48,Lowell Lock Monsters,8
+2003-04,23,6,20,9,-1,ECHL,18,Florida Everblades,15
+2004-05,24,32,74,28,22,ECHL,72,Florida Everblades,60
+2005-06,25,26,55,37,-22,UHL,71,2 Teams,63
+2005-06,25,11,20,19,-26,UHL,33,Missouri River Otters,30
+2005-06,25,15,35,18,4,UHL,38,Kalamazoo Wings,33
+2006-07,26,9,38,16,0,Italy,32,HC Asiago,25
+2007-08,27,17,52,13,0,Italy,34,HC Asiago,30
+2008-09,28,10,47,5,0,Italy-2,17,HC Valpellice,15
+2008-09,28,11,30,11,-4,ECHL,41,Stockton Thunder,22
+2009-10,29,0,12,2,-7,CHL,8,Wichita Thunder,2
+2009-10,29,19,40,27,0,IHL,56,Muskegon Lumberjacks,46
+2010-11,30,28,58,30,1,CHL,67,2 Teams,58
+2010-11,30,22,43,15,-3,CHL,43,Evansville IceMen,37
+2010-11,30,6,15,15,4,CHL,24,Dayton Gems,21
+2011-12,31,31,36,34,7,CHL,65,Dayton Gems,65

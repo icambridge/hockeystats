@@ -1,0 +1,15 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1988-89,17,10,23,26,0,High-MN,27,Edina Hornets,36
+1989-90,18,8,12,18,0,High-MN,24,Edina Hornets,26
+1990-91,19,1,54,2,0,WCHA,33,University of Wisconsin,3
+1991-92,20,13,107,13,0,WCHA,36,University of Wisconsin,26
+1992-93,21,26,142,31,0,WCHA,42,University of Wisconsin,57
+1993-94,22,7,148,17,0,IHL,66,Salt Lake Golden Eagles,24
+1994-95,23,0,4,0,0,IHL,2,Denver Grizzlies,0
+1995-96,24,1,0,1,0,WC-A,7,United States,2
+1996-97,25,1,6,1,0,WC-A,8,United States,2
+1997-98,26,22,125,27,11,IHL,73,Utah Grizzlies,49
+1998-99,27,21,119,12,8,IHL,81,Chicago Wolves,33
+1999-00,28,11,71,11,-2,IHL,79,Chicago Wolves,22
+2000-01,29,15,58,11,-5,IHL,76,Chicago Wolves,26
+2001-02,30,11,44,15,12,AHL,70,Chicago Wolves,26

@@ -1,4 +1,4 @@
-power_play_goals,assists,points,power_play_assists,league,even_strength_assists,game_winning_goals,shorthanded_goals,shotsPercentage,games_played,average_ice_time,year,team,age,plus_minus,shorthanded_assists,even_strength_goals,pim,awards,total_ice_time,goals,shots
-0,0,1,0,NHL,0,0,0,0,38,,1926-27,OTS,20,0,0,0,2,[],,1,0
-0,0,0,0,NHL,0,0,0,0,13,,1927-28,OTS,21,0,0,0,2,[],,0,0
-0,0,0,0,NHL,0,0,0,0,16,,1928-29,OTS,22,0,0,0,0,[],,0,0
+shotsPercentage,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,age,game_winning_goals,league,shorthanded_goals,average_ice_time,games_played,points,awards,power_play_goals
+0,1926-27,2,0,,0,0,0,0,0,0,OTS,1,20,0,NHL,0,,38,1,[],0
+0,1927-28,2,0,,0,0,0,0,0,0,OTS,0,21,0,NHL,0,,13,0,[],0
+0,1928-29,0,0,,0,0,0,0,0,0,OTS,0,22,0,NHL,0,,16,0,[],0

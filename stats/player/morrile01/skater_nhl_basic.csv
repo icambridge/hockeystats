@@ -1,0 +1,12 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,66,3,21,130,19,0,,PHI,[],6.9,6,10,-3,9,0,1969-70,,3,19,0,10
+NHL,78,0,22,129,12,0,,PHI,[],3.9,5,7,-12,5,0,1970-71,,0,25,1,6
+NHL,58,0,23,57,10,0,,PHI,[],8.8,4,5,-18,5,0,1971-72,,1,26,0,5
+NHL,78,2,24,52,15,3,,ATF,[],11.5,5,9,-11,6,1,1972-73,,0,19,2,4
+NHL,52,0,25,31,5,0,,ATF,[],3.2,1,4,-1,1,0,1973-74,,0,0,0,4
+NHL,70,1,26,62,16,1,,TOT,[],11.3,5,9,-19,7,1,1974-75,,1,10,0,8
+NHL,18,0,26,21,4,0,,WSH,[],0.0,0,4,-14,0,0,1974-75,,0,6,0,4
+NHL,52,1,26,41,12,1,,PIT,[],17.1,5,5,-5,7,1,1974-75,,1,4,0,4
+NHL,78,0,27,24,9,0,,PIT,[],16.7,2,5,7,4,2,1975-76,,0,8,2,3
+NHL,76,0,28,25,3,0,,PIT,[],8.0,2,1,-6,2,0,1976-77,,0,0,1,0
+NHL,8,0,29,3,2,0,,PIT,[],0.0,0,2,3,0,0,1977-78,,0,0,0,2

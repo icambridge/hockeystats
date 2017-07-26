@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1986-87,16,38,48,50,0,AJHL,57,Calgary Spurs,88
+1986-87,16,2,0,0,0,WHL,4,Seattle Thunderbirds,2
+1987-88,17,17,87,18,0,WHL,67,Seattle Thunderbirds,35
+1988-89,18,20,117,27,0,WHL,63,2 Teams,47
+1988-89,18,4,48,8,0,WHL,21,Regina Pats,12
+1988-89,18,16,69,19,0,WHL,42,Swift Current Broncos,35
+1989-90,19,30,74,37,0,WHL,49,2 Teams,67
+1989-90,19,3,21,2,0,WHL,6,Swift Current Broncos,5
+1989-90,19,27,53,35,0,WHL,43,Kamloops Blazers,62
+1990-91,20,20,39,9,0,AHL,62,Cape Breton Oilers,29
+1991-92,21,0,0,1,0,AHL,2,Cape Breton Oilers,1
+1991-92,21,25,110,29,0,ECHL,53,Winston-Salem Thunderbirds,54
+1992-93,22,24,49,19,0,Nat-Tm,53,Canada,43
+1993-94,23,7,10,13,0,IHL,32,Milwaukee Admirals,20
+1994-95,24,2,0,0,0,AHL,3,Syracuse Crunch,2
+1994-95,24,9,26,10,0,IHL,37,Milwaukee Admirals,19
+1995-96,25,1,12,4,0,Italy,7,HC Asiago,5
+1995-96,25,0,0,0,0,Nat-Tm,3,Canada,0
+1995-96,25,0,0,0,0,IHL,7,Milwaukee Admirals,0
+1995-96,25,11,26,17,0,ECHL,28,Raleigh IceCaps,28
+1996-97,26,9,32,21,0,IHL,58,Orlando Solar Bears,30
+1997-98,27,4,23,11,-2,ECHL,13,New Orleans Brass,15
+1997-98,27,8,17,3,2,IHL,36,Orlando Solar Bears,11
+1998-99,28,3,12,5,-3,ECHL,9,Charlotte Checkers,8

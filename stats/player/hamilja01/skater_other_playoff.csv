@@ -1,15 +1,15 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1939-40,Toronto Young Rangers,0,0,14,2,0,0,OHA-Jr.
-0,1940-41,Toronto Young Rangers,0,0,15,5,0,0,OHA-Jr.
-0,1941-42,Toronto Kodaks,1,0,16,5,1,0,TMHL
-0,1941-42,Toronto Young Rangers,5,0,16,6,7,2,OHA-Jr.
-0,1944-45,Cornwallis Navy,3,0,19,3,5,2,NSDHL
-13,1946-47,Pittsburgh Hornets,5,0,21,12,8,3,AHL
-5,1947-48,Pittsburgh Hornets,0,0,22,2,0,0,AHL
-6,1948-49,Providence Reds,6,0,23,14,9,3,AHL
-0,1949-50,Providence Reds,2,0,24,4,4,2,AHL
-2,1952-53,New Westminster Royals,2,0,27,7,3,1,WHL
-8,1953-54,New Westminster Royals,3,0,28,7,5,2,WHL
-6,1954-55,Kitchener Dutchmen,9,0,29,10,14,5,OHA-Sr.
-4,1954-55,Kitchener Dutchmen,10,0,29,17,14,4,Al-Cup
-0,1955-56,Owen Sound Mercurys,3,0,30,6,3,0,OHA-Sr.
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Toronto Young Rangers,0,1939-40,2,0,0,14,0,OHA-Jr.
+0,Toronto Young Rangers,0,1940-41,5,0,0,15,0,OHA-Jr.
+1,Toronto Kodaks,0,1941-42,5,1,0,16,0,TMHL
+5,Toronto Young Rangers,2,1941-42,6,7,0,16,0,OHA-Jr.
+3,Cornwallis Navy,2,1944-45,3,5,0,19,0,NSDHL
+5,Pittsburgh Hornets,3,1946-47,12,8,13,21,0,AHL
+0,Pittsburgh Hornets,0,1947-48,2,0,5,22,0,AHL
+6,Providence Reds,3,1948-49,14,9,6,23,0,AHL
+2,Providence Reds,2,1949-50,4,4,0,24,0,AHL
+2,New Westminster Royals,1,1952-53,7,3,2,27,0,WHL
+3,New Westminster Royals,2,1953-54,7,5,8,28,0,WHL
+9,Kitchener Dutchmen,5,1954-55,10,14,6,29,0,OHA-Sr.
+10,Kitchener Dutchmen,4,1954-55,17,14,4,29,0,Al-Cup
+3,Owen Sound Mercurys,0,1955-56,6,3,0,30,0,OHA-Sr.

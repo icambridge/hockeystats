@@ -1,0 +1,5 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OMJHL,3,St. Catharines Fincups,132,17,1,0,0,10,0,0,0,0,0,0,0,0,0,0,1976-77,0,4.55,0,0
+0,OMJHL,3,Hamilton Fincups,333,18,1,0,0,9,0,0,0,0,2,0,0,0,0,0,1977-78,0,1.62,0,0
+0,AHL,3,Nova Scotia Voyageurs,143,20,1,0,0,12,0,0,0,0,1,0,0,0,0,0,1979-80,0,5.03,0,0
+0,AHL,4,Nova Scotia Voyageurs,199,21,1,0,0,6,0,0,0,1,2,0,0,0,0,0,1980-81,0,1.81,0,0

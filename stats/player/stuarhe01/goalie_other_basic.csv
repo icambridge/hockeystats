@@ -1,0 +1,21 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHA-Jr.,4,Brantford Alexanders,240,17,1,0,0,15,0,0,0,0,3,0,0,0,0,0,1916-17,0,3.75,0,0
+0,OHA-Jr.,5,Paris AAA,300,18,0,0,0,11,0,0,0,0,5,0,0,0,0,0,1917-18,0,2.20,0,0
+0,MHL-Sr.,2,Brandon Elks,120,20,2,0,0,18,0,0,0,0,0,0,0,0,0,0,1919-20,0,9.00,0,0
+0,MHL-Sr.,11,Brandon Elks,660,21,4,0,0,47,0,0,0,0,7,0,0,0,0,0,1920-21,0,4.27,0,0
+0,MHL-Sr.,12,Brandon Elks,720,22,3,0,0,55,0,0,0,0,9,0,0,0,0,0,1921-22,0,4.58,0,0
+0,MHL-Sr.,16,Brandon Elks,960,23,7,0,0,57,0,0,0,0,9,0,0,0,0,0,1922-23,0,3.56,0,0
+0,MHL-Sr.,12,Brandon Wheat Kings,720,24,3,0,0,36,0,0,0,1,9,0,0,0,0,0,1923-24,0,3.00,0,0
+0,WCHL,17,Edmonton Eskimos,1060,25,9,0,0,68,0,0,1,1,7,0,0,0,0,0,1924-25,0,3.85,0,0
+0,WHL,30,Edmonton Eskimos,1800,26,11,0,0,77,0,0,0,2,19,0,0,0,0,0,1925-26,0,2.57,0,0
+0,Can-Pro,41,Detroit Olympics,2540,28,13,0,0,73,0,0,4,2,24,0,0,0,0,0,1927-28,0,1.72,0,0
+0,Can-Pro,42,Detroit Olympics,2750,29,10,0,0,67,0,0,5,11,27,0,0,0,0,0,1928-29,0,1.46,0,0
+0,IHL,42,Detroit Olympics,2520,30,0,0,0,74,0,0,0,7,0,0,0,0,0,0,1929-30,0,1.76,0,0
+0,IHL,48,London Tecumsehs,3010,31,21,0,0,83,0,0,6,12,21,0,0,0,0,0,1930-31,0,1.65,0,0
+0,IHL,48,London Tecumsehs,2880,32,15,0,0,70,0,0,12,13,21,0,0,0,0,0,1931-32,0,1.46,0,0
+0,IHL,44,London Tecumsehs,2640,33,9,0,0,66,0,0,8,12,27,0,0,0,0,0,1932-33,0,1.50,0,0
+0,IHL,46,2 Teams,2760,34,17,0,0,84,0,0,9,6,18,0,0,0,0,0,1933-34,0,1.83,0,0
+0,IHL,2,Syracuse Stars,120,34,0,0,0,4,0,0,0,0,0,0,0,0,0,0,1933-34,0,2.00,0,0
+0,IHL,44,London Tecumsehs,2640,34,17,0,0,80,0,0,9,6,18,0,0,0,0,0,1933-34,0,1.82,0,0
+0,IHL,36,London Tecumsehs,2230,35,14,0,0,90,0,0,5,4,17,0,0,0,0,0,1934-35,0,2.42,0,0
+0,IHL,48,London Tecumsehs,2950,36,22,0,0,125,0,0,3,3,23,0,0,0,0,0,1935-36,0,2.54,0,0

@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1990-91,16,4,10,19,0,QAAA,42,Montreal-Bourassa,23
+1991-92,17,3,12,12,0,QMJHL,59,Shawinigan Cataractes,15
+1992-93,18,0,2,0,0,AHL,2,New Haven Senators,0
+1992-93,18,6,24,30,0,QMJHL,69,2 Teams,36
+1992-93,18,5,24,24,0,QMJHL,54,Shawinigan Cataractes,29
+1992-93,18,1,0,6,0,QMJHL,15,St-Jean Lynx,7
+1993-94,19,15,30,37,0,QMJHL,66,St-Jean Lynx,52
+1993-94,19,0,2,1,0,AHL,3,P.E.I. Senators,1
+1994-95,20,5,19,13,0,AHL,70,P.E.I. Senators,18
+1995-96,21,4,32,21,0,AHL,55,P.E.I. Senators,25
+1996-97,22,0,23,4,0,AHL,24,Worcester IceCats,4
+1996-97,22,2,10,1,0,IHL,10,Grand Rapids Griffins,3
+1997-98,23,14,67,15,-11,AHL,71,Hershey Bears,29
+1999-00,25,1,0,0,3,WC-A,8,Canada,1
+2001-02,27,0,4,2,-4,AHL,4,Quebec Citadelles,2
+2003-04,29,5,31,21,15,AHL,80,Hamilton Bulldogs,26
+2004-05,30,6,28,9,0,AHL,72,Houston Aeros,15
+2005-06,31,3,16,21,6,AHL,40,Iowa Stars,24
+2006-07,32,6,24,21,7,AHL,80,2 Teams,27
+2006-07,32,1,10,4,2,AHL,26,Hamilton Bulldogs,5
+2006-07,32,5,14,17,5,AHL,54,Worcester Sharks,22
+2007-08,33,6,52,19,-6,AHL,65,Worcester Sharks,25
+2008-09,34,9,28,33,-3,AHL,78,Worcester Sharks,42
+2009-10,35,3,28,29,0,Germany,53,DEG Metro Stars Dusseldorf,32
+2010-11,36,8,28,18,0,Germany,52,Hamburg Freezers,26
+2011-12,37,7,32,8,0,Germany,51,Hamburg Freezers,15

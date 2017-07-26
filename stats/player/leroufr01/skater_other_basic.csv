@@ -1,0 +1,19 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1986-87,16,5,76,11,0,QAAA,42,Laval-Laurentides,16
+1987-88,17,3,143,8,0,QMJHL,58,St-Jean Castors,11
+1988-89,18,8,185,34,0,QMJHL,57,St-Jean Castors,42
+1989-90,19,4,160,33,0,QMJHL,54,2 Teams,37
+1989-90,19,4,122,28,0,QMJHL,41,St-Jean Lynx,32
+1989-90,19,0,38,5,0,QMJHL,13,Victoriaville Tigres,5
+1990-91,20,2,124,7,0,AHL,71,Cape Breton Oilers,9
+1991-92,21,7,114,22,0,AHL,61,Cape Breton Oilers,29
+1992-93,22,10,139,24,0,AHL,55,Cape Breton Oilers,34
+1993-94,23,4,52,6,0,AHL,25,P.E.I. Senators,10
+1994-95,24,4,137,14,0,AHL,45,P.E.I. Senators,18
+1998-99,28,1,22,1,-5,IHL,13,Grand Rapids Griffins,2
+1999-00,29,3,162,6,-5,AHL,64,Springfield Falcons,9
+2000-01,30,4,180,6,0,AHL,65,Springfield Falcons,10
+2001-02,31,1,110,10,0,Germany,56,Berlin Capitals,11
+2002-03,32,1,124,3,-16,AHL,63,2 Teams,4
+2002-03,32,1,124,3,-15,AHL,57,Wilkes-Barre Scranton Pens,4
+2002-03,32,0,0,0,-1,AHL,6,Springfield Falcons,0

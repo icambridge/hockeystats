@@ -1,0 +1,42 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1975-76,15,6,0,0,0,Sweden-3,14,Vimmerby IF,6
+1976-77,16,29,0,13,0,Sweden-3,22,Vimmerby IF,42
+1977-78,17,3,2,2,0,EJC-A,5,Sweden,5
+1978-79,18,2,8,5,0,Sweden,15,Farjestads BK Karlstad,7
+1979-80,19,9,28,6,0,Sweden,36,Farjestads BK Karlstad,15
+1979-80,19,1,6,2,0,WJC-A,5,Sweden,3
+1980-81,20,15,22,19,0,Sweden,36,Farjestads BK Karlstad,34
+1981-82,21,14,30,13,0,Sweden,36,Farjestads BK Karlstad,27
+1981-82,21,1,2,2,0,WEC-A,9,Sweden,3
+1982-83,22,22,28,21,0,Sweden,36,Farjestads BK Karlstad,43
+1982-83,22,1,2,3,0,WEC-A,10,Sweden,4
+1983-84,23,13,38,22,0,Sweden,36,Farjestads BK Karlstad,35
+1984-85,24,19,16,39,0,AHL,73,Sherbrooke Canadiens,58
+1985-86,25,9,27,17,0,Sweden,32,Farjestads BK Karlstad,26
+1985-86,25,2,8,3,0,WEC-A,10,Sweden,5
+1986-87,26,13,38,22,0,Sweden,35,Farjestads BK Karlstad,35
+1986-87,26,1,4,2,0,WEC-A,10,Sweden,3
+1987-88,27,0,10,2,0,Can-Cup,6,Sweden,2
+1987-88,27,15,40,22,0,Sweden,40,Farjestads BK Karlstad,37
+1987-88,27,0,0,3,0,Olympics,8,Sweden,3
+1988-89,28,15,44,26,0,Sweden,37,Farjestads BK Karlstad,41
+1988-89,28,1,6,2,0,WEC-A,9,Sweden,3
+1989-90,29,16,30,29,0,Sweden,40,Farjestads BK Karlstad,45
+1989-90,29,3,6,8,0,WEC-A,10,Sweden,11
+1990-91,30,12,22,21,0,Sweden,39,Farjestads BK Karlstad,33
+1990-91,30,6,4,4,0,WEC-A,10,United States,10
+1991-92,31,2,2,2,0,Can-Cup,6,Sweden,4
+1991-92,31,10,54,28,0,Sweden,39,Farjestads BK Karlstad,38
+1991-92,31,3,8,4,0,Olympics,8,Sweden,7
+1992-93,32,8,40,17,0,Sweden,37,Farjestads BK Karlstad,25
+1992-93,32,1,0,4,0,WC-A,8,Sweden,5
+1993-94,33,9,10,20,0,Alpenliga,27,VEU Feldkirch,29
+1993-94,33,11,8,18,0,Austria,26,VEU Feldkirch,29
+1994-95,34,9,32,15,0,Austria,28,VEU Feldkirch,24
+1995-96,35,2,2,9,0,Alpenliga,5,VEU Feldkirch,11
+1995-96,35,13,33,30,0,Austria,34,VEU Feldkirch,43
+1996-97,36,9,53,25,0,Alpenliga,41,VEU Feldkirch,34
+1996-97,36,2,8,9,0,Austria,11,VEU Feldkirch,11
+1997-98,37,6,6,9,0,Alpenliga,21,VEU Feldkirch,15
+1997-98,37,6,4,7,0,EuroHL,10,VEU Feldkirch,13
+1997-98,37,2,8,16,0,Austria,27,VEU Feldkirch,18

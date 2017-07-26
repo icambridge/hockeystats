@@ -1,12 +1,12 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-0,Weyburn Wanderers,0,0,2,S-SSHL,2,1919-20,17,2
-2,Weyburn Wanderers,2,0,8,S-SSHL,5,1922-23,20,6
-0,Victoria Cougars,0,0,0,WCHL,4,1924-25,22,0
-0,Victoria Cougars,1,0,3,St-Cup,4,1924-25,22,2
-2,Victoria Cougars,0,0,1,WHL,2,1925-26,23,1
-4,Victoria Cougars,0,0,0,St-Cup,4,1925-26,23,0
-2,Providence Reds,0,0,1,Can-Am,6,1928-29,26,1
-0,Providence Reds,3,0,5,Can-Am,3,1929-30,27,2
-0,Providence Reds,1,0,2,Can-Am,2,1930-31,28,1
-6,Providence Reds,2,0,4,Can-Am,5,1931-32,29,2
-7,Providence Reds,4,0,4,Can-Am,3,1933-34,31,0
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Weyburn Wanderers,2,1919-20,2,2,0,17,0,S-SSHL
+2,Weyburn Wanderers,6,1922-23,5,8,2,20,0,S-SSHL
+0,Victoria Cougars,0,1924-25,4,0,0,22,0,WCHL
+1,Victoria Cougars,2,1924-25,4,3,0,22,0,St-Cup
+0,Victoria Cougars,1,1925-26,2,1,2,23,0,WHL
+0,Victoria Cougars,0,1925-26,4,0,4,23,0,St-Cup
+0,Providence Reds,1,1928-29,6,1,2,26,0,Can-Am
+3,Providence Reds,2,1929-30,3,5,0,27,0,Can-Am
+1,Providence Reds,1,1930-31,2,2,0,28,0,Can-Am
+2,Providence Reds,2,1931-32,5,4,6,29,0,Can-Am
+4,Providence Reds,0,1933-34,3,4,7,31,0,Can-Am

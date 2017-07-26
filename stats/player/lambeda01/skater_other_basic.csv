@@ -1,0 +1,28 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1985-86,16,14,10,22,0,High-MN,21,Warroad Warriors,36
+1986-87,17,13,95,53,0,WHL,68,Swift Current Broncos,66
+1987-88,18,20,120,63,0,WHL,69,Swift Current Broncos,83
+1988-89,19,25,158,77,0,WHL,57,Swift Current Broncos,102
+1989-90,20,17,119,51,0,WHL,50,Swift Current Broncos,68
+1990-91,21,7,20,13,0,AHL,30,Halifax Citadels,20
+1990-91,21,10,65,27,0,IHL,49,Fort Wayne Komets,37
+1990-91,21,1,4,2,0,WJC-A,7,Canada,3
+1991-92,22,3,33,28,0,AHL,47,Halifax Citadels,31
+1992-93,23,11,100,30,0,AHL,73,Moncton Hawks,41
+1993-94,24,1,8,2,0,Finland,13,HIFK Helsinki,3
+1993-94,24,10,138,27,0,IHL,62,Fort Wayne Komets,37
+1994-95,25,6,95,19,0,IHL,70,San Diego Gulls,25
+1995-96,26,22,121,65,0,IHL,81,Los Angeles Ice Dogs,87
+1996-97,27,15,70,50,0,IHL,71,Long Beach Ice Dogs,65
+1997-98,28,19,112,59,22,IHL,81,Long Beach Ice Dogs,78
+1998-99,29,17,91,36,7,IHL,50,Long Beach Ice Dogs,53
+1999-00,30,9,52,16,0,Germany,50,Kolner Haie,25
+2000-01,31,8,60,18,0,Germany,48,Krefeld Pinguine,26
+2001-02,32,11,58,32,0,Germany,56,Krefeld Pinguine,43
+2002-03,33,9,68,30,0,Germany,51,Krefeld Pinguine,39
+2003-04,34,10,42,22,0,Germany,47,Hamburg Freezers,32
+2004-05,35,7,68,24,0,Germany,50,Hannover Scorpions,31
+2005-06,36,9,114,14,0,Germany,49,Hannover Scorpions,23
+2006-07,37,3,100,29,0,Germany,47,Hannover Scorpions,32
+2007-08,38,10,73,22,0,Germany,49,Hannover Scorpions,32
+2008-09,39,4,32,12,0,Germany,41,Hannover Scorpions,16

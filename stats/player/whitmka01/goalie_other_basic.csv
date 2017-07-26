@@ -1,0 +1,21 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,NOHA,43,Sudbury Legionnaires,2580,15,0,0,0,108,0,0,0,4,0,0,0,0,0,0,1982-83,0,2.51,0,0
+0,OHL,29,Peterborough Petes,1471,16,8,0,0,110,0,0,0,0,17,0,0,0,0,0,1983-84,0,4.49,0,0
+0,OHL,53,Peterborough Petes,3077,17,16,0,0,172,0,0,2,2,35,0,0,0,0,0,1984-85,0,3.35,0,0
+0,OHL,41,Peterborough Petes,2467,18,12,0,0,114,0,0,2,3,27,0,0,0,0,0,1985-86,0,2.77,0,0
+0,OHL,36,Peterborough Petes,2159,19,17,0,0,118,0,0,5,1,14,0,0,0,0,0,1986-87,0,3.28,0,0
+0,AHL,38,Binghamton Whalers,2137,20,15,0,0,121,0,0,4,3,17,0,0,0,0,0,1987-88,0,3.40,0,0
+0,AHL,56,Binghamton Whalers,3200,21,29,0,0,241,0,0,4,1,21,0,0,0,0,0,1988-89,0,4.52,0,0
+0,AHL,24,Binghamton Whalers,1386,22,19,0,0,109,0,0,2,0,3,0,0,0,0,0,1989-90,0,4.72,0,0
+0,AHL,33,Springfield Indians,1916,23,9,0,0,98,0,0,1,1,22,0,0,0,0,0,1990-91,0,3.07,0,0
+0,AHL,11,Syracuse Crunch,663,28,4,0,0,37,0,0,1,0,6,0,0,0,0,.896,1995-96,355,3.35,0,318
+0,IHL,40,2 Teams,2064,28,14,0,0,132,0,0,7,1,13,0,0,0,0,.885,1995-96,1143,3.84,0,1011
+0,IHL,10,Detroit Vipers,501,28,5,0,0,33,0,0,0,0,3,0,0,0,0,.971,1995-96,1143,3.95,0,1110
+0,IHL,30,Los Angeles Ice Dogs,1563,28,9,0,0,99,0,0,7,1,10,0,0,0,0,0,1995-96,0,3.80,0,0
+0,Sweden,25,Sodertalje SK,1320,29,0,0,0,85,0,0,0,0,0,0,0,0,0,0,1996-97,0,3.86,0,0
+0,IHL,46,Long Beach Ice Dogs,2516,30,12,0,0,109,0,0,3,3,28,0,0,0,0,.898,1997-98,1066,2.60,0,957
+0,AHL,18,Hartford Wolf Pack,1080,31,8,0,1,47,0,0,2,0,8,1,0,0,0,.903,1998-99,486,2.61,0,439
+0,IHL,23,Milwaukee Admirals,1304,31,6,0,1,64,0,0,4,0,10,1,0,0,0,.904,1998-99,669,2.94,25,605
+0,AHL,43,Providence Bruins,2393,32,19,0,2,127,0,0,3,1,17,2,0,0,0,.899,1999-00,1254,3.18,12,1127
+0,AHL,26,Providence Bruins,1460,33,8,0,1,65,0,0,2,2,13,1,0,0,0,.917,2000-01,784,2.67,8,719
+0,AHL,36,Saint John Flames,2001,34,16,0,0,83,0,0,8,0,10,0,0,0,0,.908,2001-02,899,2.49,23,816

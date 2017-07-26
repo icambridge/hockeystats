@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1991-92,17,0,0,0,0,NOJHA,1,Sudbury Cubs,0
+1992-93,18,17,160,43,0,ON-Jr.B,45,Waterloo Siskins,60
+1993-94,19,2,90,4,0,ECAC,31,St. Lawrence University,6
+1994-95,20,7,62,10,0,ECAC,32,St. Lawrence University,17
+1995-96,21,3,77,10,0,ECAC,32,St. Lawrence University,13
+1996-97,22,10,57,8,0,ECAC,34,St. Lawrence University,18
+1997-98,23,17,53,18,3,AHL,73,Providence Bruins,35
+1998-99,24,14,163,16,5,AHL,75,Providence Bruins,30
+1999-00,25,9,143,20,-6,AHL,70,Providence Bruins,29
+2000-01,26,16,128,23,-3,AHL,74,Hershey Bears,39
+2001-02,27,10,174,38,-7,AHL,80,Cleveland Barons,48
+2002-03,28,14,0,18,0,Japan,29,Kokudo Lions Toyko,32
+2003-04,29,8,56,25,0,AsianHL,16,Kokudo Lions Toyko,33
+2004-05,30,18,170,30,0,AsianHL,34,Kokudo Lions Toyko,48
+2005-06,31,7,48,19,0,AsianHL,16,Kokudo Lions Toyko,26
+2006-07,32,16,175,28,0,AsianHL,24,Seibu Prince Rabbits,44
+2007-08,33,17,147,30,0,AsianHL,27,Seibu Prince Rabbits,47
+2008-09,34,13,174,30,0,AsianHL,35,Seibu Prince Rabbits,43
+2009-10,35,15,143,28,0,Austria,54,Medvescak Zagreb,43
+2010-11,36,13,163,36,0,Austria,51,Medvescak Zagreb,49
+2011-12,37,8,77,22,0,Austria,35,Medvescak Zagreb,30
+2012-13,38,12,22,10,0,OHA Sr.,9,Brantford Blast,22

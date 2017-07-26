@@ -1,0 +1,15 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2000-01,16,51,0,70,0,NSMHL,82,Dartmouth Subways,121
+2001-02,17,24,14,38,0,SJHL,57,Notre Dame Hounds,62
+2002-03,18,27,16,51,0,SJHL,53,Notre Dame Hounds,78
+2003-04,19,7,2,15,0,WCHA,42,University of Wisconsin,22
+2004-05,20,7,18,17,0,WCHA,41,University of Wisconsin,24
+2005-06,21,8,14,10,0,WCHA,37,University of Wisconsin,18
+2006-07,22,9,18,20,0,WCHA,40,University of Wisconsin,29
+2006-07,22,2,0,1,4,AHL,5,Hershey Bears,3
+2007-08,23,11,22,14,-1,AHL,61,Hershey Bears,25
+2008-09,24,7,22,20,13,AHL,69,Hershey Bears,27
+2009-10,25,15,11,19,33,AHL,78,Hershey Bears,34
+2010-11,26,7,20,7,-4,AHL,66,Hershey Bears,14
+2011-12,27,14,18,11,0,AHL,73,Springfield Falcons,25
+2012-13,28,9,26,13,-1,AHL,73,Springfield Falcons,22

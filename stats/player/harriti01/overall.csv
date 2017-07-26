@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1994-01-11, ,RW,Tim Harrison,
+handed,heigh_and_weight,position,date_of_birth,name
+, ,RW,1994-01-11,Tim Harrison

@@ -1,0 +1,23 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,QMJHL,17,Chicoutimi Sagueneens,889,16,8,0,0,81,0,0,2,0,4,0,0,0,0,0,1975-76,0,5.47,0,0
+0,QMJHL,21,Chicoutimi Sagueneens,901,17,9,0,0,81,0,0,0,0,5,0,0,0,0,0,1976-77,0,5.39,0,0
+0,QMJHL,60,Chicoutimi Sagueneens,3222,18,35,0,0,351,0,0,10,0,12,0,0,0,0,0,1977-78,0,6.54,0,0
+0,QMJHL,70,Chicoutimi Sagueneens,3817,19,31,0,0,290,0,0,9,0,23,0,0,0,0,0,1978-79,0,4.56,0,0
+0,AHL,5,Maine Mariners,229,20,1,0,0,17,0,0,0,0,2,0,0,0,0,0,1979-80,0,4.45,0,0
+0,IHL,38,Toledo Goaldiggers,2143,20,0,0,0,138,0,0,0,2,0,0,0,0,0,0,1979-80,0,3.86,0,0
+0,AHL,7,Maine Mariners,363,21,3,0,0,28,0,0,0,0,3,0,0,0,0,0,1980-81,0,4.63,0,0
+0,IHL,30,Toledo Goaldiggers,1614,21,0,0,0,113,0,0,0,1,0,0,0,0,0,0,1980-81,0,4.20,0,0
+0,IHL,4,Toledo Goaldiggers,248,22,0,0,0,11,0,0,0,0,0,0,0,0,0,0,1981-82,0,2.66,0,0
+0,AHL,25,Maine Mariners,1396,22,7,0,0,76,0,0,1,0,15,0,0,0,0,0,1981-82,0,3.27,0,0
+0,IHL,13,Toledo Goaldiggers,785,23,0,0,0,52,0,0,0,0,0,0,0,0,0,0,1982-83,0,3.97,0,0
+0,AHL,30,Maine Mariners,1739,23,12,0,0,109,0,0,4,0,12,0,0,0,0,0,1982-83,0,3.76,0,0
+0,AHL,38,Maine Mariners,2158,24,18,0,0,145,0,0,4,0,14,0,0,0,0,0,1983-84,0,4.03,0,0
+0,AHL,55,Maine Mariners,3245,25,22,0,0,168,0,0,7,4,26,0,0,0,0,0,1984-85,0,3.11,0,0
+0,AHL,50,Maine Mariners,2862,26,20,0,0,161,0,0,4,1,24,0,0,0,0,0,1985-86,0,3.38,0,0
+0,AHL,25,Adirondack Red Wings,1397,27,13,0,0,98,0,0,0,1,7,0,0,0,0,0,1986-87,0,4.21,0,0
+0,AHL,32,Adirondack Red Wings,1826,28,14,0,0,104,0,0,4,2,12,0,0,0,0,0,1987-88,0,3.42,0,0
+0,AHL,34,Adirondack Red Wings,2054,29,11,0,0,113,0,0,3,0,20,0,0,0,0,0,1988-89,0,3.30,0,0
+0,AHL,13,Adirondack Red Wings,785,30,2,0,0,40,0,0,1,0,10,0,0,0,0,0,1989-90,0,3.06,0,0
+0,AHL,45,Binghamton Rangers,2379,31,16,0,0,138,0,0,4,1,19,0,0,0,0,0,1990-91,0,3.48,0,0
+0,Nat-Tm,1,Canada,60,32,1,0,0,3,0,0,0,0,0,0,0,0,0,0,1991-92,0,3.00,0,0
+0,AHL,1,Binghamton Rangers,20,32,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1991-92,0,6.00,0,0

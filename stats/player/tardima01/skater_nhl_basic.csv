@@ -1,0 +1,17 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,18,0,20,25,5,0,,MTL,[],12.0,2,2,0,3,0,1969-70,,1,27,0,2
+NHL,76,2,21,144,49,7,,MTL,[],13.2,15,30,25,19,0,1970-71,,4,133,0,23
+NHL,75,4,22,203,53,6,,MTL,[],15.3,22,22,15,31,0,1971-72,,9,81,0,16
+NHL,76,4,23,152,50,6,,MTL,[],16.4,22,25,18,25,0,1972-73,,3,48,0,19
+WHA,75,3,24,0,70,0,,LAS,[],0,30,30,0,40,0,1973-74,,10,47,0,0
+WHA,76,0,25,286,89,0,,TOT,"[{'link': '/awards/wha_all_star.html#1975', 'name': 'ASW-2'}]",17.5,39,39,12,50,0,1974-75,,11,79,0,0
+WHA,23,0,25,79,17,0,,MIB,"[{'link': '/awards/wha_all_star.html#1975', 'name': 'ASW-2'}]",15.2,10,5,-1,12,0,1974-75,,2,9,0,0
+WHA,53,0,25,207,72,0,,QBN,"[{'link': '/awards/wha_all_star.html#1975', 'name': 'ASW-2'}]",18.4,29,34,13,38,0,1974-75,,9,70,0,0
+WHA,81,10,26,359,0,0,,QBN,"[{'link': '/awards/wha_all_star.html#1976', 'name': None}, {'link': '/awards/howe.html#1976', 'name': None}, {'link': '/awards/hunter.html#1976', 'name': None}]",19.8,49,0,35,0,1,1975-76,,21,79,0,0
+WHA,62,6,27,220,109,0,,QBN,"[{'link': '/awards/wha_all_star.html#1977', 'name': None}]",22.3,39,60,29,49,0,1976-77,,10,65,0,0
+WHA,78,0,28,375,0,0,,QBN,"[{'link': '/awards/wha_all_star.html#1978', 'name': None}, {'link': '/awards/howe.html#1978', 'name': None}, {'link': '/awards/hunter.html#1978', 'name': None}]",17.3,48,0,15,0,1,1977-78,,16,50,0,0
+WHA,74,0,29,255,96,0,,QBN,[],16.1,29,55,25,41,0,1978-79,,12,98,0,0
+NHL,58,4,30,229,68,9,,QUE,[],14.4,24,35,-13,33,0,1979-80,,9,30,0,26
+NHL,63,3,31,144,54,14,,QUE,[],16.0,12,31,-4,23,0,1980-81,,11,35,0,17
+NHL,75,3,32,166,70,15,,QUE,[],23.5,25,31,-15,39,0,1981-82,,14,55,0,16
+NHL,76,3,33,116,52,10,,QUE,[],18.1,17,31,0,21,0,1982-83,,4,34,0,21

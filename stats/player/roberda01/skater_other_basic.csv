@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1986-87,16,6,0,9,0,High-CT,17,Avon Old Farms,15
+1987-88,17,18,0,39,0,High-CT,25,Avon Old Farms,57
+1988-89,18,28,0,48,0,High-CT,25,Avon Old Farms,76
+1989-90,19,21,46,32,0,CCHA,42,University of Michigan,53
+1990-91,20,26,58,45,0,CCHA,43,University of Michigan,71
+1991-92,21,16,68,42,0,CCHA,44,University of Michigan,58
+1992-93,22,27,40,38,0,CCHA,40,University of Michigan,65
+1993-94,23,17,68,28,0,Nat-Tm,49,United States,45
+1993-94,23,1,4,5,0,Olympics,8,United States,6
+1993-94,23,4,4,6,0,IHL,10,Peoria Rivermen,10
+1994-95,24,30,65,38,0,IHL,65,Peoria Rivermen,68
+1995-96,25,8,46,17,0,AHL,22,Worcester IceCats,25
+1997-98,27,17,44,22,5,AHL,37,Syracuse Crunch,39
+1998-99,28,32,77,38,-5,IHL,75,Michigan K-Wings,70
+1999-00,29,15,100,21,0,Swiss,40,EV Zug,36
+2000-01,30,27,47,36,0,IHL,72,Grand Rapids Griffins,63
+2001-02,31,23,76,28,0,Germany,54,Eisbaren Berlin,51
+2002-03,32,19,95,30,0,Germany,49,Eisbaren Berlin,49
+2003-04,33,12,28,13,0,Germany,29,Eisbaren Berlin,25

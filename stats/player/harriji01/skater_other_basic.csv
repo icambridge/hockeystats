@@ -1,9 +1,9 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-0,Kamloops Rockets,11,0,19,BCJHL,25,1963-64,16,8
-40,Estevan Bruins,5,0,7,SJHL,25,1964-65,17,2
-119,Estevan Bruins,37,0,76,SJHL,60,1965-66,18,39
-179,Estevan Bruins,40,0,74,CMJHL,47,1966-67,19,34
-222,Estevan Bruins,43,0,75,WCJHL,46,1967-68,20,32
-130,Oklahoma City Blazers,13,0,26,CHL,43,1968-69,21,13
-9,Canada,1,0,1,Summit-74,3,1974-75,27,0
-0,New Brunswick Hawks,0,0,0,AHL,2,1978-79,31,0
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+11,Kamloops Rockets,8,1963-64,25,19,0,16,0,BCJHL
+5,Estevan Bruins,2,1964-65,25,7,40,17,0,SJHL
+37,Estevan Bruins,39,1965-66,60,76,119,18,0,SJHL
+40,Estevan Bruins,34,1966-67,47,74,179,19,0,CMJHL
+43,Estevan Bruins,32,1967-68,46,75,222,20,0,WCJHL
+13,Oklahoma City Blazers,13,1968-69,43,26,130,21,0,CHL
+1,Canada,0,1974-75,3,1,9,27,0,Summit-74
+0,New Brunswick Hawks,0,1978-79,2,0,0,31,0,AHL

@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1937-38,17,16,4,4,0,S-SJHL,8,Moose Jaw Canucks,20
+1938-39,18,16,2,6,0,S-SSHL,24,Moose Jaw Millers,22
+1939-40,19,23,4,9,0,S-SSHL,26,Moose Jaw Millers,32
+1941-42,21,3,0,3,0,AHL,5,Springfield Indians,6
+1942-43,22,5,6,10,0,TBSHL,8,Port Arthur Shipbuilders,15
+1942-43,22,2,0,3,0,TBDHL,1,Lakehead Army,5
+1943-44,23,20,0,3,0,TBSHL,6,Port Arthur Shipbuilders,23
+1944-45,24,18,2,17,0,QSHL,14,Quebec Aces,35
+1945-46,25,36,20,53,0,AHL,64,2 Teams,89
+1945-46,25,19,18,26,0,AHL,40,New Haven Ramblers,45
+1945-46,25,17,2,27,0,AHL,24,Hershey Bears,44
+1946-47,26,1,0,5,0,AHL,11,New Haven Ramblers,6
+1947-48,27,4,0,1,0,AHL,19,Hershey Bears,5
+1948-49,28,13,13,24,0,AHL,55,Hershey Bears,37
+1949-50,29,20,8,35,0,AHL,68,Hershey Bears,55
+1950-51,30,28,20,35,0,WCMHL,47,Calgary Stampeders,63
+1951-52,31,30,18,25,0,PCHL,65,Calgary Stampeders,55
+1952-53,32,0,0,0,0,WHL,1,Calgary Stampeders,0
+1952-53,32,26,22,21,0,OSHL,45,Kamloops Elks,47
+1953-54,33,23,12,29,0,WIHL,39,Kimberley Dynamiters,52
+1954-55,34,10,17,16,0,WIHL,26,Kimberley Dynamiters,26
+1955-56,35,35,6,37,0,WIHL,43,Kimberley Dynamiters,72

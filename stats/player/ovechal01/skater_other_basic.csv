@@ -1,0 +1,34 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2001-02,16,18,20,8,0,Russia-3,19,Dynamo Moscow 2,26
+2001-02,16,2,4,2,0,Russia,22,Dynamo Moscow,4
+2001-02,16,14,0,4,14,WJ18-A,8,Russia,18
+2002-03,17,8,28,7,0,Russia,40,Dynamo Moscow,15
+2002-03,17,6,4,1,0,WJC-A,6,Russia,7
+2002-03,17,9,8,4,0,WJ18-A,6,Russia,13
+2003-04,18,13,40,11,0,Russia,53,Dynamo Moscow,24
+2003-04,18,5,0,2,0,WJC-A,6,Russia,7
+2003-04,18,1,0,1,0,WC-A,6,Russia,2
+2004-05,19,1,0,0,2,W-Cup,2,Russia,1
+2004-05,19,13,32,13,0,Russia,37,Dynamo Moscow,26
+2004-05,19,7,4,4,0,WJC-A,6,Russia,11
+2004-05,19,5,4,3,7,WC-A,8,Russia,8
+2005-06,20,5,8,0,3,Olympics,8,Russia,5
+2005-06,20,6,6,3,6,WC-A,7,Russia,9
+2006-07,21,1,29,2,0,WC-A,8,Russia,3
+2007-08,22,6,8,6,11,WC-A,9,Russia,12
+2009-10,24,2,2,2,1,Olympics,4,Russia,4
+2009-10,24,5,4,1,3,WC-A,9,Russia,6
+2010-11,25,0,4,0,-3,WC-A,5,Russia,0
+2011-12,26,2,2,2,5,WC-A,3,Russia,4
+2012-13,27,19,14,21,13,KHL,31,Moscow Dynamo,40
+2012-13,27,19,14,21,13,KHL,31,Dynamo Moscow,40
+2012-13,27,1,0,1,-2,WC-A,1,Russia,2
+2013-14,28,0,2,2,0,EHT,3,Russia,2
+2013-14,28,5,10,10,0,Internationa,18,Russia (all),15
+2013-14,28,4,8,7,6,WC,9,Russia,11
+2013-14,28,1,0,1,2,Olympics,5,Russia,2
+2014-15,29,1,0,1,0,Internationa,2,Russia (all),2
+2014-15,29,1,0,1,1,WC,2,Russia,2
+2015-16,30,1,2,1,3,Internationa,6,Russia (all),2
+2015-16,30,1,2,1,3,WC,6,Russia,2
+2016-17,31,1,6,2,1,WCup,4,Russia,3

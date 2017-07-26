@@ -1,0 +1,14 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,69,0,21,0,21,0,,CBH,"[{'link': '/awards/voting-1957.html#calder', 'name': 'Calder-4'}]",0,0,13,0,8,0,1956-57,,0,102,0,0
+NHL,0,0,22,0,27,0,,DET,[],0,0,16,0,11,0,1957-58,,0,135,0,0
+NHL,67,0,23,0,5,0,,DET,[],0,0,4,0,1,0,1958-59,,0,149,0,0
+NHL,17,0,24,0,3,0,,DET,[],0,0,2,0,1,0,1959-60,,0,8,0,0
+NHL,14,0,26,0,1,0,,DET,[],0,0,0,0,1,0,1961-62,,0,8,0,0
+NHL,49,0,27,0,30,0,,BOS,[],0,0,18,0,12,0,1962-63,,0,46,0,0
+NHL,70,1,28,0,25,0,,BOS,[],0,8,17,0,8,0,1963-64,,0,95,0,0
+NHL,52,0,29,0,10,0,,BOS,[],0,2,4,0,6,4,1964-65,,0,41,0,0
+NHL,50,1,30,0,10,0,,BOS,[],0,3,6,0,4,1,1965-66,,0,55,0,0
+NHL,73,3,32,100,28,0,,PHI,[],10.0,8,18,4,10,1,1967-68,,1,130,2,16
+NHL,72,0,33,71,18,0,,TOT,[],11.3,8,10,-26,8,0,1968-69,,0,0,1,9
+NHL,59,0,33,64,15,0,,PHI,[],12.5,8,7,-25,8,0,1968-69,,0,195,1,6
+NHL,13,0,33,7,3,0,,TOR,[],0.0,0,3,-1,0,0,1968-69,,0,24,0,3

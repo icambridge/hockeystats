@@ -1,0 +1,12 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,AJHL,31,Calgary Canucks,1796,16,7,0,0,88,0,0,0,0,21,0,0,0,0,0,1979-80,0,2.94,0,0
+0,WHL,59,Calgary Wranglers,3154,17,17,0,0,198,0,0,1,1,33,0,0,0,0,0,1980-81,0,3.77,0,0
+0,WHL,42,Calgary Wranglers,2329,18,14,0,0,143,0,0,2,3,22,0,0,0,0,0,1981-82,0,3.68,0,0
+0,WHL,50,Calgary Wranglers,2856,19,18,0,0,155,0,0,2,3,29,0,0,0,0,0,1982-83,0,3.26,0,0
+0,WJC-A,4,Canada,180,19,0,0,0,10,0,0,0,0,3,0,0,0,0,0,1982-83,0,3.33,0,0
+0,CHL,46,Colorado Flames,2648,20,13,0,0,148,0,0,2,1,30,0,0,0,0,0,1983-84,0,3.35,0,0
+0,AHL,41,Moncton Golden Flames,2050,21,20,0,0,134,0,0,4,0,10,0,0,0,0,0,1984-85,0,3.92,0,0
+0,AHL,6,Moncton Golden Flames,374,22,1,0,0,21,0,0,2,0,3,0,0,0,0,0,1985-86,0,3.37,0,0
+0,IHL,10,Salt Lake Golden Eagles,600,22,4,0,0,34,0,0,0,1,6,0,0,0,0,0,1985-86,0,3.40,0,0
+0,Fr-Tour,3,Calgary Flames,129,26,0,0,0,3,0,0,0,0,2,0,0,0,0,0,1989-90,0,1.40,0,0
+0,WEC-A,2,Canada,73,27,1,0,0,6,0,0,0,0,0,0,0,0,0,0,1990-91,0,4.93,0,0

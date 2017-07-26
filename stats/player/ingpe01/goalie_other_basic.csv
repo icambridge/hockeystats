@@ -1,0 +1,19 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,MTHL,35,Toronto Marlboros,1800,16,0,0,0,91,0,0,0,4,0,0,0,0,0,0,1985-86,0,3.03,0,0
+0,OHL,28,Windsor Spitfires,1615,17,11,0,0,105,0,0,3,0,13,0,0,0,0,0,1986-87,0,3.90,0,0
+0,OHL,43,Windsor Spitfires,2422,18,7,0,0,125,0,0,1,2,30,0,0,0,0,0,1987-88,0,3.10,0,0
+0,OHL,51,2 Teams,2891,19,18,0,0,180,0,0,5,3,25,0,0,0,0,0,1988-89,0,3.74,0,0
+0,OHL,19,Windsor Spitfires,1043,19,7,0,0,76,0,0,3,1,7,0,0,0,0,0,1988-89,0,4.37,0,0
+0,OHL,32,London Knights,1848,19,11,0,0,104,0,0,2,2,18,0,0,0,0,0,1988-89,0,3.38,0,0
+0,AHL,48,Newmarket Saints,2829,20,19,0,0,184,0,0,12,0,16,0,0,0,0,0,1989-90,0,3.90,0,0
+0,Nat-Tm,10,Canada,460,20,2,0,0,29,0,0,4,0,2,0,0,0,0,0,1989-90,0,3.78,0,0
+0,OHL,8,London Knights,480,20,2,0,0,27,0,0,0,0,6,0,0,0,0,0,1989-90,0,3.38,0,0
+0,AHL,24,Cape Breton Oilers,1411,22,10,0,0,92,0,0,4,0,9,0,0,0,0,0,1991-92,0,3.91,0,0
+0,ColHL,3,Detroit Falcons,136,23,1,0,0,6,0,0,0,0,2,0,0,0,0,0,1992-93,0,2.65,0,0
+0,IHL,17,San Diego Gulls,882,23,4,0,0,53,0,0,1,0,11,0,0,0,0,0,1992-93,0,3.61,0,0
+0,AHL,7,Adirondack Red Wings,425,24,3,0,0,26,0,0,1,1,3,0,0,0,0,0,1993-94,0,3.67,0,0
+0,IHL,30,Las Vegas Thunder,1627,24,7,0,0,91,0,0,4,0,16,0,0,0,0,0,1993-94,0,3.36,0,0
+0,IHL,36,Fort Wayne Komets,2018,25,18,0,0,119,0,0,2,2,15,0,0,0,0,.886,1994-95,1044,3.54,0,925
+0,IHL,32,2 Teams,1734,26,17,0,0,117,0,0,0,2,12,0,0,0,0,.875,1995-96,933,4.05,0,816
+0,IHL,31,Fort Wayne Komets,1674,26,16,0,0,109,0,0,0,2,12,0,0,0,0,.880,1995-96,906,3.91,0,797
+0,IHL,1,Cincinnati Cyclones,60,26,1,0,0,8,0,0,0,0,0,0,0,0,0,.704,1995-96,27,8.00,0,19

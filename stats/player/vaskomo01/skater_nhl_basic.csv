@@ -1,0 +1,14 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,64,0,21,0,15,0,,CBH,[],0,0,12,0,3,0,1956-57,,0,31,0,0
+NHL,59,0,22,0,26,0,,CBH,[],0,0,20,0,6,0,1957-58,,0,51,0,0
+NHL,63,0,23,0,16,0,,CBH,[],0,0,10,0,6,0,1958-59,,0,52,0,0
+NHL,69,0,24,0,30,0,,CBH,[],0,0,27,0,3,0,1959-60,,0,110,0,0
+NHL,63,0,25,0,22,0,,CBH,[],0,0,18,0,4,0,1960-61,,0,40,0,0
+NHL,64,0,26,0,24,0,,CBH,[],0,0,22,0,2,0,1961-62,,0,87,0,0
+NHL,64,0,27,0,13,0,,CBH,"[{'link': '/awards/nhl_all_star.html#1963', 'name': None}, {'link': '/awards/voting-1963.html#norris', 'name': 'Norris-4'}]",0,0,9,0,4,0,1962-63,,0,70,0,0
+NHL,70,0,28,0,20,0,,CBH,"[{'link': '/awards/nhl_all_star.html#1964', 'name': None}, {'link': '/awards/voting-1964.html#norris', 'name': 'Norris-3'}]",0,2,18,0,2,0,1963-64,,0,65,0,0
+NHL,69,0,29,0,11,0,,CBH,"[{'link': '/awards/voting-1965.html#norris', 'name': 'Norris-11'}]",0,1,10,0,1,0,1964-65,,0,56,0,0
+NHL,56,0,30,0,8,0,,CBH,[],0,1,7,0,1,0,1965-66,,0,44,0,0
+NHL,70,0,32,23,7,0,,MNS,[],4.3,1,6,-36,1,0,1967-68,,0,45,0,6
+NHL,72,0,33,52,8,0,,MNS,[],1.9,1,7,-18,1,0,1968-69,,0,68,0,7
+NHL,3,0,34,3,0,0,,MNS,[],0.0,0,0,-1,0,0,1969-70,,0,0,0,0

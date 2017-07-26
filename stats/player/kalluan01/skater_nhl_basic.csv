@@ -1,0 +1,7 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,76,2,27,138,52,8,,NYI,[],15.9,13,30,12,22,0,1979-80,,5,16,0,22
+NHL,78,4,28,163,64,7,,NYI,"[{'link': '/awards/voting-1981.html#selke', 'name': 'Selke-10'}]",22.1,23,28,25,36,6,1980-81,,7,32,3,18
+NHL,58,3,29,74,40,2,,NYI,"[{'link': '/awards/voting-1982.html#selke', 'name': 'Selke-22'}]",24.3,13,22,5,18,3,1981-82,,2,18,0,20
+NHL,55,0,30,77,14,2,,NYI,[],7.8,4,8,9,6,1,1982-83,,1,33,0,6
+NHL,65,1,31,70,23,3,,NYI,[],12.9,4,14,0,9,3,1983-84,,2,24,0,11
+NHL,51,2,32,72,18,2,,NYI,[],13.9,8,8,-9,10,2,1984-85,,0,26,0,6

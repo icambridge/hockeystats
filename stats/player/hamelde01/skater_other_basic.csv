@@ -1,20 +1,20 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1992-93,Lachute Regents,24,0,15,32,42,18,QAAA
-79,1993-94,2 Teams,18,0,16,43,33,15,QAAA
-50,1993-94,Lac St-Louis Lions,11,0,16,28,21,10,QAAA
-29,1993-94,Abitibi Forestiers,7,0,16,15,12,5,QAAA
-155,1994-95,Chicoutimi Sagueneens,12,-3,17,66,27,15,QMJHL
-199,1995-96,Chicoutimi Sagueneens,49,12,18,65,89,40,QMJHL
-339,1996-97,Chicoutimi Sagueneens,50,24,19,70,100,50,QMJHL
-98,1997-98,Rochester Americans,15,-1,20,74,25,10,AHL
-121,1998-99,Rochester Americans,17,21,21,74,33,16,AHL
-122,1999-00,Rochester Americans,24,8,22,76,58,34,AHL
-64,2002-03,Rochester Americans,20,15,25,48,47,27,AHL
-116,2003-04,Binghamton Senators,38,2,26,78,67,29,AHL
-75,2004-05,Binghamton Senators,39,10,27,80,78,39,AHL
-65,2005-06,Binghamton Senators,35,-5,28,77,91,56,AHL
-60,2007-08,Binghamton Senators,23,4,30,67,55,32,AHL
-36,2008-09,Binghamton Senators,25,8,31,63,50,25,AHL
-45,2009-10,Binghamton Senators,29,-20,32,73,51,22,AHL
-50,2010-11,Adirondack Phantoms,25,-6,33,66,50,25,AHL
-14,2011-12,Adirondack Phantoms,23,-30,34,74,46,23,AHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+24,Lachute Regents,18,1992-93,32,42,0,15,0,QAAA
+18,2 Teams,15,1993-94,43,33,79,16,0,QAAA
+11,Lac St-Louis Lions,10,1993-94,28,21,50,16,0,QAAA
+7,Abitibi Forestiers,5,1993-94,15,12,29,16,0,QAAA
+12,Chicoutimi Sagueneens,15,1994-95,66,27,155,17,-3,QMJHL
+49,Chicoutimi Sagueneens,40,1995-96,65,89,199,18,12,QMJHL
+50,Chicoutimi Sagueneens,50,1996-97,70,100,339,19,24,QMJHL
+15,Rochester Americans,10,1997-98,74,25,98,20,-1,AHL
+17,Rochester Americans,16,1998-99,74,33,121,21,21,AHL
+24,Rochester Americans,34,1999-00,76,58,122,22,8,AHL
+20,Rochester Americans,27,2002-03,48,47,64,25,15,AHL
+38,Binghamton Senators,29,2003-04,78,67,116,26,2,AHL
+39,Binghamton Senators,39,2004-05,80,78,75,27,10,AHL
+35,Binghamton Senators,56,2005-06,77,91,65,28,-5,AHL
+23,Binghamton Senators,32,2007-08,67,55,60,30,4,AHL
+25,Binghamton Senators,25,2008-09,63,50,36,31,8,AHL
+29,Binghamton Senators,22,2009-10,73,51,45,32,-20,AHL
+25,Adirondack Phantoms,25,2010-11,66,50,50,33,-6,AHL
+23,Adirondack Phantoms,23,2011-12,74,46,14,34,-30,AHL

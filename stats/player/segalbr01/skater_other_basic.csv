@@ -1,0 +1,22 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1999-00,16,2,76,6,3,WHL,44,Calgary Hitmen,8
+1999-00,16,0,0,1,0,U-17,5,Team Pacific,1
+2000-01,17,16,103,11,-10,WHL,72,Calgary Hitmen,27
+2001-02,18,43,122,40,17,WHL,71,Calgary Hitmen,83
+2002-03,19,31,104,27,10,WHL,71,Calgary Hitmen,58
+2003-04,20,18,29,12,19,WHL,28,Calgary Hitmen,30
+2003-04,20,11,54,10,13,AHL,44,Milwaukee Admirals,21
+2004-05,21,7,45,8,-3,AHL,59,Milwaukee Admirals,15
+2004-05,21,5,27,4,0,UHL,10,Rockford IceHogs,9
+2005-06,22,18,126,15,-10,AHL,79,Milwaukee Admirals,33
+2006-07,23,20,84,9,-9,AHL,77,Milwaukee Admirals,29
+2007-08,24,12,71,15,-2,AHL,76,2 Teams,27
+2007-08,24,5,46,9,1,AHL,54,Portland Pirates,14
+2007-08,24,7,25,6,-3,AHL,22,Norfolk Admirals,13
+2008-09,25,26,95,26,4,AHL,69,Norfolk Admirals,52
+2009-10,26,6,34,8,0,AHL,21,Manchester Monarchs,14
+2010-11,27,7,38,10,-2,AHL,30,Texas Stars,17
+2011-12,28,18,69,18,-10,AHL,61,2 Teams,36
+2011-12,28,13,63,12,-18,AHL,53,Rockford IceHogs,25
+2011-12,28,5,6,6,8,AHL,8,Norfolk Admirals,11
+2012-13,29,24,82,20,4,AHL,73,Connecticut Whale,44

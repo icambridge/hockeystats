@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1993-94,17,0,0,0,0,CzRep,2,HC Pardubice,0
+1993-94,17,5,0,2,0,EJC-A,5,Czech Republic,7
+1994-95,18,0,18,0,0,CzRep,22,HC Pardubice,0
+1994-95,18,0,2,1,0,EJC-A,5,Czech Republic,1
+1995-96,19,0,82,4,0,CzRep,33,HC Pojistovna IB Pardubice,4
+1996-97,20,4,70,2,0,CzRep,41,HC Pojistovna IB Pardubice,6
+1997-98,21,4,107,9,0,CzRep,50,HC IPB Pojistovna Pardubice,13
+1998-99,22,7,74,12,0,CzRep,48,HC IPB Pojistovna Pardubice,19
+1999-00,23,5,58,11,0,CzRep,51,HC IPB Pojistovna Pardubice,16
+2000-01,24,10,75,13,0,CzRep,47,HC IPB Pojistovna Pardubice,23
+2001-02,25,6,62,12,11,AHL,52,Hamilton Bulldogs,18
+2002-03,26,0,14,1,2,AHL,7,Hamilton Bulldogs,1
+2003-04,27,1,46,11,0,Russia,31,Severstal Cherepovets,12
+2004-05,28,6,85,10,0,Russia,52,Severstal Cherepovets,16
+2005-06,29,13,140,10,0,Russia,51,Khimik Moscow Region,23
+2006-07,30,5,122,6,0,CzRep,30,HC Moeller Pardubice,11
+2007-08,31,0,81,8,0,CzRep,31,HC Moeller Pardubice,8
+2007-08,31,0,30,2,0,Russia,20,Torpedo Nizhny Novgorod,2
+2008-09,32,5,95,12,0,CzRep,51,HC Moeller Pardubice,17
+2009-10,33,5,40,15,0,CzRep,44,HC Eaton Pardubice,20
+2010-11,34,3,34,7,0,CzRep,40,HC Eaton Pardubice,10
+2011-12,35,7,61,17,0,CzRep,46,HC CSOB Pojistovna Pardubice,24
+2012-13,36,6,54,10,0,CzRep,50,HC CSOB Pojistovna Pardubice,16

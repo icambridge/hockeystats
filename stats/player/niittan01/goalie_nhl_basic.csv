@@ -1,0 +1,8 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+0.9,0,NHL,3,PHI,180,23,0,0,0,3,0,0,0,0,3,0,0,0,0,.961,2003-04,77,1.00,0,[],74
+6.8,0,NHL,46,PHI,2690,25,15,106,1,133,0,-8.01,6,2,23,1,0,0,0,.895,2005-06,1266,2.97,0,"[{'link': '/awards/voting-2006.html#calder', 'name': 'Calder-15'}]",1133
+7.6,0,NHL,52,PHI,2943,26,29,112,0,166,0,-17.51,9,0,9,0,0,0,0,.894,2006-07,1567,3.38,2,[],1401
+4.4,5,NHL,28,PHI,1424,27,9,103,0,69,23,-1.87,2,1,12,0,.565,0,13,.907,2007-08,739,2.91,0,[],670
+6.1,6,NHL,32,PHI,1805,28,8,96,1,83,29,3.66,6,1,15,1,.483,0,14,.912,2008-09,947,2.76,2,[],864
+7.9,11,NHL,49,TBL,2657,29,18,103,1,127,45,-3.84,5,1,21,1,.467,0,21,.909,2009-10,1388,2.87,0,[],1261
+2.4,5,NHL,24,SJS,1414,30,7,119,0,64,22,-10.42,3,0,12,0,.500,0,11,.896,2010-11,615,2.72,2,[],551

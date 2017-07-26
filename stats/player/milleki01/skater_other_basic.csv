@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1984-85,15,69,0,63,0,MNHL,65,Detroit Compuware,132
+1985-86,16,25,0,28,0,GLJHL,30,Detroit Compuware,53
+1986-87,17,20,92,19,0,CCHA,41,Michigan State Spartans,39
+1987-88,18,16,51,25,0,CCHA,39,Michigan State Spartans,41
+1987-88,18,2,2,2,0,WJC-A,7,United States,4
+1988-89,19,32,94,45,0,CCHA,47,Michigan State Spartans,77
+1989-90,20,48,60,53,0,CCHA,45,Michigan State Spartans,101
+1989-90,20,1,10,1,0,WEC-A,9,United States,2
+1990-91,21,36,40,33,0,AHL,66,Halifax Citadels,69
+1991-92,22,9,8,17,0,AHL,24,Halifax Citadels,26
+1991-92,22,1,4,8,0,IHL,6,Kalamazoo Wings,9
+1992-93,23,17,59,39,0,IHL,61,Kalamazoo Wings,56
+1993-94,24,38,51,54,0,IHL,71,Kansas City Blades,92
+1994-95,25,46,54,60,0,IHL,71,Denver Grizzlies,106
+1995-96,26,32,46,59,0,IHL,73,Indianapolis Ice,91
+1996-97,27,28,50,65,0,IHL,80,2 Teams,93
+1996-97,27,11,32,41,0,IHL,43,Chicago Wolves,52
+1996-97,27,17,18,24,0,IHL,37,Indianapolis Ice,41
+1997-98,28,38,30,59,14,IHL,72,Utah Grizzlies,97
+2000-01,31,16,12,19,14,IHL,34,Grand Rapids Griffins,35
+2001-02,32,21,27,35,13,AHL,41,Grand Rapids Griffins,56
+2004-05,35,13,17,32,-3,AHL,50,Grand Rapids Griffins,45
+2005-06,36,19,48,40,-4,AHL,67,Chicago Wolves,59
+2006-07,37,25,48,47,-5,AHL,78,Grand Rapids Griffins,72

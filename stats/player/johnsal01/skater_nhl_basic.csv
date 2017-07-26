@@ -1,0 +1,5 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,2,0,21,0,1,0,,MTL,[],0,0,1,0,0,0,1956-57,,0,2,0,0
+NHL,0,0,25,0,37,0,,DET,"[{'link': '/awards/voting-1961.html#calder', 'name': 'Calder-5'}]",0,0,21,0,16,0,1960-61,,0,14,0,0
+NHL,31,0,26,0,11,0,,DET,[],0,0,6,0,5,0,1961-62,,0,14,0,0
+NHL,2,0,27,0,0,0,,DET,[],0,0,0,0,0,0,1962-63,,0,0,0,0

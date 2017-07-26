@@ -1,0 +1,17 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1996-97,15,90,58,70,0,SAHA,41,Naicam Vikings,160
+1997-98,16,1,8,12,0,WHL,49,Spokane Chiefs,13
+1998-99,17,20,43,30,0,WHL,72,Spokane Chiefs,50
+1999-00,18,20,47,29,0,WHL,71,Spokane Chiefs,49
+2000-01,19,31,81,42,0,WHL,66,Spokane Chiefs,73
+2001-02,20,9,81,9,0,AHL,76,Cleveland Barons,18
+2002-03,21,7,39,8,-4,AHL,36,Cleveland Barons,15
+2003-04,22,11,49,15,10,AHL,48,2 Teams,26
+2003-04,22,5,40,9,9,AHL,30,Cleveland Barons,14
+2003-04,22,6,9,6,1,AHL,18,Lowell Lock Monsters,12
+2004-05,23,7,42,8,4,AHL,77,Lowell Lock Monsters,15
+2005-06,24,9,50,8,-4,AHL,68,Omaha Ak-Sar-Ben Knights,17
+2006-07,25,16,26,14,0,Germany,51,Krefeld Pinguine,30
+2007-08,26,12,51,16,0,Germany,43,Krefeld Pinguine,28
+2008-09,27,13,52,16,0,Germany,52,Krefeld Pinguine,29
+2009-10,28,6,14,3,0,Germany,26,Krefeld Pinguine,9

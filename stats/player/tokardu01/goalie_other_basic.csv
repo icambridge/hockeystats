@@ -1,0 +1,17 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WHL,30,Spokane Chiefs,1674,17,11,0,0,78,0,0,2,2,13,0,0,0,0,.903,2006-07,804,2.80,4,726
+0,WHL,45,Spokane Chiefs,2543,18,10,0,2,87,0,0,3,6,30,2,0,0,0,.922,2007-08,1121,2.05,2,1034
+0,WHL,54,Spokane Chiefs,3264,19,18,0,4,107,0,0,2,7,34,4,0,0,0,.937,2008-09,1688,1.97,6,1581
+0,WJC-A,4,Canada,249,19,0,0,0,11,0,0,0,0,4,0,0,0,0,0,2008-09,0,2.65,0,0
+0,WJ18-A,0,Canada,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2008-09,0,0,0,0
+0,AHL,55,Norfolk Admirals,3319,20,25,0,2,139,0,0,3,4,27,2,0,0,0,.915,2009-10,1632,2.51,4,1493
+0,AHL,46,Norfolk Admirals,2691,21,20,0,1,119,0,0,4,2,21,1,0,0,0,.901,2010-11,1207,2.65,2,1088
+0,AHL,45,Norfolk Admirals,2583,22,11,0,3,96,0,0,0,5,32,3,0,0,0,.913,2011-12,1109,2.23,14,1013
+0,AHL,48,2 Teams,2717,23,16,0,1,108,0,0,4,6,24,1,0,0,0,.909,2012-13,1193,2.38,19,1085
+0,AHL,33,Syracuse Crunch,1881,23,8,0,1,77,0,0,4,3,18,1,0,0,0,.900,2012-13,771,2.46,17,694
+0,AHL,15,Hamilton Bulldogs,836,23,8,0,0,31,0,0,0,3,6,0,0,0,0,.927,2012-13,422,2.22,2,391
+0,AHL,0,Hamilton Bulldogs,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2013-14,0,0,0,0
+0,AHL,0,Hamilton Bulldogs,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014-15,0,0,0,0
+0,AHL,0,St. John\'s IceCaps,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-16,0,0,0,0
+0,AHL,0,San Diego Gulls,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-16,0,0,0,0
+0,AHL,0,San Diego Gulls,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-17,0,0,0,0

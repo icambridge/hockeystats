@@ -1,0 +1,31 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1979-80,16,0,0,0,0,USSR,1,Krylja Sovetov Moscow,0
+1980-81,17,0,0,0,0,USSR,1,Krylja Sovetov Moscow,0
+1980-81,17,4,4,2,0,EJC-A,5,Soviet Union,6
+1981-82,18,4,23,5,0,USSR,43,Krylja Sovetov Moscow,9
+1981-82,18,2,4,1,0,WJC-A,7,Soviet Union,3
+1982-83,19,11,18,9,0,USSR,35,Krylja Sovetov Moscow,20
+1982-83,19,2,13,4,0,WJC-A,7,Soviet Union,6
+1983-84,20,18,24,13,0,USSR,44,Krylja Sovetov Moscow,31
+1984-85,21,14,10,9,0,USSR,32,Krylja Sovetov Moscow,23
+1985-86,22,12,16,13,0,USSR,39,Krylja Sovetov Moscow,25
+1986-87,23,12,18,20,0,USSR,40,Krylja Sovetov Moscow,32
+1986-87,23,0,12,0,0,RV-87,2,Soviet Union,0
+1986-87,23,0,8,2,0,WEC-A,8,Soviet Union,2
+1987-88,24,0,6,2,0,Can-Cup,9,Soviet Union,2
+1987-88,24,10,16,15,0,USSR,44,Krylja Sovetov Moscow,25
+1988-89,25,11,23,15,0,USSR,44,Krylja Sovetov Moscow,26
+1989-90,26,1,0,1,0,Fr-Tour,4,Calgary Flames,2
+1989-90,26,1,0,0,0,IHL,3,Salt Lake Golden Eagles,1
+1989-90,26,0,2,1,0,WEC-A,3,Soviet Union,1
+1990-91,27,5,2,12,0,IHL,18,Salt Lake Golden Eagles,17
+1991-92,28,17,26,21,0,Swiss,35,Zurcher SC,38
+1992-93,29,4,10,4,0,CIS,20,Krylja Sovetov Moscow,8
+1992-93,29,12,10,6,0,Swiss,23,Zurcher SC,18
+1993-94,30,18,20,17,0,Swiss,29,Zurcher SC,35
+1994-95,31,13,49,20,0,Finland,50,Kiekko-Espoo,33
+1995-96,32,9,53,24,0,Finland,49,Kiekko-Espoo,33
+1996-97,33,15,53,25,0,Finland,50,Kiekko-Espoo,40
+1997-98,34,11,24,24,0,Finland,46,Kiekko-Espoo,35
+1998-99,35,6,0,10,0,Japan,19,New Oji Tomakomai,16
+1999-00,36,4,14,5,0,Russia-2,23,Krylja Sovetov-VILS Moscow,9

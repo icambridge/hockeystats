@@ -1,0 +1,22 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1997-98,15,1,40,6,0,U-18,23,U.S. National Team Development Program,7
+1997-98,15,0,0,0,0,USHL,3,U.S. National Team Development Program,0
+1997-98,15,9,50,10,0,NAHL,42,U.S. National Team Development Program,19
+1998-99,16,3,30,14,0,OHL,45,Plymouth Whalers,17
+1999-00,17,16,63,22,0,OHL,64,Plymouth Whalers,38
+2000-01,18,14,35,21,0,OHL,60,Plymouth Whalers,35
+2000-01,18,1,4,0,-1,WJC-A,7,United States,1
+2001-02,19,19,98,36,30,OHL,59,Plymouth Whalers,55
+2001-02,19,2,18,2,4,WJC-A,7,United States,4
+2002-03,20,12,49,15,-12,AHL,65,Providence Bruins,27
+2003-04,21,8,61,9,-5,AHL,55,Providence Bruins,17
+2004-05,22,0,2,1,-2,AHL,5,Providence Bruins,1
+2004-05,22,16,47,20,12,ECHL,53,Florida Everblades,36
+2005-06,23,10,100,21,-3,UHL,75,Motor City Mechanics,31
+2006-07,24,14,57,22,-8,UHL,68,2 Teams,36
+2006-07,24,7,32,7,-4,UHL,34,Chicago Hounds,14
+2006-07,24,7,25,15,-4,UHL,34,Port Huron Flags,22
+2007-08,25,22,89,43,13,IHL,69,Port Huron IceHawks,65
+2008-09,26,21,96,35,17,IHL,75,Port Huron IceHawks,56
+2009-10,27,8,41,24,-4,IHL,47,Port Huron IceHawks,32
+2010-11,28,8,32,13,-14,ECHL,51,Wheeling Nailers,21

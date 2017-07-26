@@ -1,0 +1,22 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1981-82,16,11,55,17,0,WHL,63,Calgary Wranglers,28
+1982-83,17,26,71,25,0,WHL,71,Calgary Wranglers,51
+1983-84,18,64,38,54,0,WHL,71,Calgary Wranglers,118
+1984-85,19,47,65,67,0,WHL,56,Calgary Wranglers,114
+1985-86,20,11,34,26,0,AHL,61,Fredericton Express,37
+1986-87,21,14,20,27,0,AHL,48,Fredericton Express,41
+1987-88,22,37,39,39,0,AHL,58,Fredericton Express,76
+1988-89,23,41,65,49,0,AHL,72,Halifax Citadels,90
+1989-90,24,9,63,16,0,AHL,44,Halifax Citadels,25
+1990-91,25,20,76,20,0,AHL,44,Halifax Citadels,40
+1991-92,26,31,33,29,0,AHL,63,Adirondack Red Wings,60
+1992-93,27,32,15,34,0,AHL,63,Adirondack Red Wings,66
+1993-94,28,55,52,53,0,IHL,79,Las Vegas Thunder,108
+1994-95,29,40,40,42,0,IHL,78,Las Vegas Thunder,82
+1995-96,30,33,59,36,0,IHL,66,Las Vegas Thunder,69
+1996-97,31,27,39,36,0,IHL,71,Las Vegas Thunder,63
+1997-98,32,34,19,57,-24,IHL,82,Las Vegas Thunder,91
+1998-99,33,12,26,17,0,Germany,36,Frankfurt Lions,29
+1998-99,33,0,0,0,0,EuroHL,2,Frankfurt Lions,0
+1999-00,34,17,51,16,0,Germany,56,Frankfurt Lions,33
+2000-01,35,21,12,24,0,Germany,60,Frankfurt Lions,45

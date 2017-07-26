@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,16,1,0,3,0,CzRep-Jr.,16,HC Dukla Jihlava Jr.,4
+1995-96,17,6,0,5,0,CzRep-Jr.,16,HC Dukla Jihlava Jr.,11
+1995-96,17,1,2,0,0,WJC-A,5,Czech Republic,1
+1995-96,17,1,0,2,0,CzRep,18,HC Dukla Jihlava,3
+1995-96,17,2,10,1,0,EJC-A,5,Czech Republic,3
+1996-97,18,1,44,7,0,CzRep,24,HC Dukla Jihlava,8
+1996-97,18,0,0,0,0,WJC-A,1,Czech Republic,0
+1996-97,18,0,2,0,0,AHL,2,St. John\'s Maple Leafs,0
+1997-98,19,8,94,16,13,OHL,48,Sarnia Sting,24
+1997-98,19,1,8,2,0,WJC-A,7,Czech Republic,3
+1997-98,19,0,4,0,3,AHL,3,St. John\'s Maple Leafs,0
+1998-99,20,1,36,0,0,AHL,41,St. John\'s Maple Leafs,1
+1999-00,21,1,57,6,0,AHL,38,St. John\'s Maple Leafs,7
+1999-00,21,0,0,1,1,IHL,1,Detroit Vipers,1
+2000-01,22,7,58,14,-4,IHL,49,Detroit Vipers,21
+2001-02,23,8,147,6,0,CzRep,45,HC Continental Zlin,14
+2002-03,24,0,20,4,0,CzRep,41,HC Slavia Praha,4
+2003-04,25,2,24,4,0,Germany,25,Nurnberg Ice Tigers,6
+2003-04,25,0,2,0,0,CzRep-2,2,HC Slovan Usti nad Labem,0
+2003-04,25,0,14,1,0,CzRep,10,HC Lasselsberger Plzen,1
+2007-08,29,4,34,1,0,CzRep,42,2 Teams,5
+2007-08,29,3,30,1,0,CzRep,37,HC Moeller Pardubice,4
+2007-08,29,1,4,0,0,CzRep,5,HC Lasselsberger Plzen,1
+2008-09,30,3,22,4,0,CzRep,35,2 Teams,7
+2008-09,30,3,18,4,0,CzRep,33,BK Mlada Boleslav,7
+2008-09,30,0,4,0,0,CzRep,2,HC Mountfield Ceske Budejovice,0

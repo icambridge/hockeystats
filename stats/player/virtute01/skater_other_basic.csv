@@ -1,0 +1,37 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1988-89,18,6,339,31,0,AJHL,56,Hobbema Hawks,37
+1988-89,18,1,13,1,0,WHL,8,Victoria Cougars,2
+1989-90,19,2,167,19,0,WHL,58,2 Teams,21
+1989-90,19,1,85,9,0,WHL,24,Victoria Cougars,10
+1989-90,19,1,82,10,0,WHL,34,Tri-City Americans,11
+1990-91,20,10,151,52,0,WHL,70,2 Teams,62
+1990-91,20,1,24,8,0,WHL,11,Tri-City Americans,9
+1990-91,20,9,127,44,0,WHL,59,Portland Winter Hawks,53
+1991-92,21,5,223,37,0,ECHL,61,2 Teams,42
+1991-92,21,4,165,22,0,ECHL,38,Roanoke Valley Rebels,26
+1991-92,21,1,58,15,0,ECHL,23,Louisville IceHawks,16
+1992-93,22,3,170,32,0,ECHL,59,2 Teams,35
+1992-93,22,0,84,17,0,ECHL,28,Louisville IceHawks,17
+1992-93,22,3,86,15,0,ECHL,31,Wheeling Thunderbirds,18
+1993-94,23,5,61,28,0,ECHL,34,Wheeling Thunderbirds,33
+1993-94,23,4,10,6,0,AHL,26,Cape Breton Oilers,10
+1994-95,24,14,183,25,0,AHL,73,Worcester IceCats,39
+1994-95,24,0,2,0,0,IHL,1,Atlanta Knights,0
+1995-96,25,7,234,31,0,AHL,76,Worcester IceCats,38
+1996-97,26,16,220,26,0,AHL,80,Worcester IceCats,42
+1997-98,27,8,233,26,-1,AHL,74,Worcester IceCats,34
+1998-99,28,8,117,48,0,AHL,76,Providence Bruins,56
+1999-00,29,5,166,22,9,AHL,67,Hartford Wolf Pack,27
+2000-01,30,5,166,24,7,AHL,71,Hartford Wolf Pack,29
+2001-02,31,4,117,20,18,AHL,76,Hartford Wolf Pack,24
+2002-03,32,5,144,30,5,AHL,78,Worcester IceCats,35
+2003-04,33,6,66,16,4,AHL,74,Worcester IceCats,22
+2004-05,34,4,133,19,-18,AHL,78,2 Teams,23
+2004-05,34,1,21,1,-4,AHL,13,Springfield Falcons,2
+2004-05,34,3,112,18,-14,AHL,65,Utah Grizzlies,21
+2005-06,35,7,98,34,14,ECHL,54,Wheeling Nailers,41
+2005-06,35,1,37,2,-3,AHL,16,2 Teams,3
+2005-06,35,0,4,1,-5,AHL,4,Wilkes-Barre Penguins,1
+2005-06,35,1,33,1,2,AHL,12,Grand Rapids Griffins,2
+2006-07,36,9,89,24,6,CHL,51,Austin Ice Bats,33
+2006-07,36,1,27,4,-7,AHL,23,Binghamton Senators,5

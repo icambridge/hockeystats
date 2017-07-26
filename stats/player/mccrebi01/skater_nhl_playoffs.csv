@@ -1,0 +1,5 @@
+age,win,shotsPercentage,even_strength_goals,assists,plus_minus,league,games_played,shorthanded_goals,year,game_winning_goals,shots,goals,average_ice_time,power_play_goals,pim,total_ice_time,team,points
+33,,8.3,1,2,0,NHL,15,0,1967-68,0,36,3,,0,0,,STL,5
+34,,4.2,0,5,5,NHL,12,0,1968-69,1,24,1,,1,14,,STL,6
+35,,3.8,1,7,0,NHL,15,0,1969-70,0,26,1,,0,0,,STL,8
+36,,9.1,1,2,4,NHL,6,0,1970-71,0,11,1,,0,0,,STL,3

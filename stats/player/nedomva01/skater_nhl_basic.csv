@@ -1,0 +1,13 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+WHA,78,0,30,306,81,0,,TRT,[],13.4,36,40,7,41,0,1974-75,,5,19,0,0
+WHA,81,7,31,328,98,0,,TRT,"[{'link': '/awards/deneau.html#1976', 'name': None}]",17.1,50,42,-2,56,0,1975-76,,6,8,0,0
+WHA,81,3,32,306,69,0,,BRB,[],11.8,27,33,-13,36,0,1976-77,,9,10,0,0
+WHA,12,0,33,29,5,0,,BRB,[],6.9,1,3,-9,2,0,1977-78,,1,6,0,0
+NHL,63,1,33,107,28,9,,DET,[],10.3,6,17,-17,11,0,1977-78,,5,2,0,8
+NHL,0,2,34,212,73,19,,DET,"[{'link': '/awards/voting-1979.html#AS', 'name': 'AS-9'}, {'link': '/awards/voting-1979.html#byng', 'name': 'Byng-17'}]",17.9,25,35,-13,38,0,1978-79,,13,19,0,16
+NHL,79,5,35,235,74,17,,DET,[],14.9,24,39,-5,35,0,1979-80,,11,13,0,22
+NHL,74,0,36,128,32,8,,DET,[],9.4,6,20,-35,12,0,1980-81,,6,30,0,12
+NHL,68,0,37,103,40,11,,DET,[],11.7,11,28,-15,12,0,1981-82,,1,22,0,17
+NHL,57,3,38,88,31,15,,TOT,[],15.9,4,17,-9,14,0,1982-83,,10,2,0,10
+NHL,22,0,38,35,11,5,,STL,[],5.7,1,9,-8,2,0,1982-83,,1,2,0,4
+NHL,35,3,38,53,20,10,,NYR,[],22.6,3,8,-1,12,0,1982-83,,9,0,0,6

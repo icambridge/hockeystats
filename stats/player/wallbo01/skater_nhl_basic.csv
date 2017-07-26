@@ -1,0 +1,13 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,1,0,22,0,0,0,,DET,[],0,0,0,0,0,0,1964-65,,0,0,0,0
+NHL,8,0,23,0,2,0,,DET,[],0,1,1,0,1,0,1965-66,,0,8,0,0
+NHL,31,0,24,0,4,0,,DET,[],0,2,2,0,2,0,1966-67,,0,26,0,0
+NHL,71,2,25,148,23,8,,LAK,[],3.4,4,18,-9,5,0,1967-68,,1,66,0,10
+NHL,71,1,26,147,26,2,,LAK,[],8.8,11,13,-6,13,1,1968-69,,1,16,0,11
+NHL,70,1,27,116,18,8,,LAK,[],4.3,0,13,-26,5,0,1969-70,,5,26,0,5
+NHL,25,0,28,29,6,0,,STL,[],6.9,1,4,-1,2,0,1970-71,,1,4,0,4
+NHL,45,0,29,31,6,0,,DET,[],6.5,0,4,-7,2,0,1971-72,,2,9,0,4
+WHA,0,0,30,0,45,0,,ALO,[],0,9,29,0,16,2,1972-73,,5,20,0,0
+WHA,74,0,31,0,37,0,,EDO,[],0,3,31,0,6,1,1973-74,,2,46,0,0
+WHA,33,0,32,39,9,0,,SDM,[],0.0,0,9,13,0,0,1974-75,,0,15,0,0
+WHA,68,0,33,73,21,0,,SDM,[],1.4,1,20,3,1,0,1975-76,,0,32,0,0

@@ -1,0 +1,4 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,AJHL,13,Spruce Grove Saints,777,19,4,0,0,37,0,0,0,2,9,0,0,0,0,0,2005-06,0,2.86,4,0
+0,ECHL,3,Reading Royals,107,24,1,0,0,9,0,0,0,0,0,0,0,0,0,.873,2010-11,71,5.05,0,62
+0,AHL,17,Toronto Marlies,1030,25,6,0,0,33,0,0,0,3,11,0,0,0,0,.935,2011-12,509,1.92,0,476

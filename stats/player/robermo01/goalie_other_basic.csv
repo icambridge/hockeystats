@@ -1,0 +1,23 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,Can-Am,32,New Haven Eagles,1980,21,14,0,0,66,0,0,0,1,18,0,0,0,0,0,1926-27,0,2.00,0,0
+0,Can-Am,40,New Haven Eagles,2450,22,20,0,0,90,0,0,4,4,16,0,0,0,0,0,1927-28,0,2.20,0,0
+0,Can-Am,40,Philadelphia Arrows,2490,23,21,0,0,73,0,0,7,5,12,0,0,0,0,0,1928-29,0,1.76,0,0
+0,Can-Am,40,Philadelphia Arrows,2470,24,18,0,0,121,0,0,2,3,20,0,0,0,0,0,1929-30,0,2.94,0,0
+0,Can-Am,40,Philadelphia Arrows,2460,25,22,0,0,108,0,0,6,3,12,0,0,0,0,0,1930-31,0,2.63,0,0
+0,Can-Am,22,New Haven Eagles,1370,26,10,0,0,48,0,0,0,2,12,0,0,0,0,0,1931-32,0,2.10,0,0
+0,Can-Am,44,New Haven Eagles,2680,27,23,0,0,123,0,0,5,4,16,0,0,0,0,0,1932-33,0,2.75,0,0
+0,IHL,35,Cleveland Falcons,2100,28,0,0,0,98,0,0,0,3,0,0,0,0,0,0,1933-34,0,2.80,0,0
+0,IHL,44,Cleveland Falcons,2670,29,23,0,0,132,0,0,1,4,20,0,0,0,0,0,1934-35,0,2.97,0,0
+0,IHL,29,3 Teams,1800,30,8,0,0,59,0,0,4,5,17,0,0,0,0,0,1935-36,0,1.97,0,0
+0,IHL,13,Cleveland Falcons,810,30,3,0,0,28,0,0,2,2,8,0,0,0,0,0,1935-36,0,2.07,0,0
+0,IHL,1,Syracuse Stars,60,30,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1935-36,0,0.00,0,0
+0,IHL,15,Rochester Cardinals,930,30,5,0,0,31,0,0,2,2,8,0,0,0,0,0,1935-36,0,2.00,0,0
+0,IAHL,45,Cleveland Barons,2840,31,24,0,0,134,0,0,8,3,13,0,0,0,0,0,1936-37,0,2.83,0,0
+0,IAHL,45,Cleveland Barons,2810,32,11,0,0,103,0,0,9,5,24,0,0,0,0,0,1937-38,0,2.20,0,0
+0,IAHL,54,Cleveland Barons,3410,33,22,0,0,138,0,0,9,4,23,0,0,0,0,0,1938-39,0,2.43,0,0
+0,IAHL,56,Cleveland Barons,3482,34,24,0,0,130,0,0,8,5,24,0,0,0,0,0,1939-40,0,2.24,0,0
+0,AHL,43,Cleveland Barons,2640,35,15,0,0,122,0,0,7,3,20,0,0,0,0,0,1940-41,0,2.77,0,0
+0,AHL,30,2 Teams,1740,36,9,0,0,93,0,0,2,2,18,0,0,0,0,0,1941-42,0,3.21,0,0
+0,AHL,27,Cleveland Barons,1560,36,7,0,0,79,0,0,2,2,17,0,0,0,0,0,1941-42,0,3.04,0,0
+0,AHL,3,Pittsburgh Hornets,180,36,2,0,0,14,0,0,0,0,1,0,0,0,0,0,1941-42,0,4.67,0,0
+0,EAHL,24,Washington Lions,1440,40,0,0,0,97,0,0,0,2,0,0,0,0,0,0,1945-46,0,4.04,0,0

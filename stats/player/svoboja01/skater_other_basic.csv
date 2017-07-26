@@ -1,0 +1,22 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1995-96,15,13,0,15,0,CzRep-Jr.,40,HC Olomouc Jr.,28
+1996-97,16,19,0,14,0,CzRep-Jr.,39,HC Olomouc Jr.,33
+1997-98,17,14,0,21,0,CzRep-Jr.,36,HC Olomouc Jr.,35
+1997-98,17,0,0,1,0,CzRep-2,13,HC Olomouc,1
+1998-99,18,26,46,33,16,WHL,54,Kootenay Ice,59
+1999-00,19,23,97,43,38,WHL,56,Kootenay Ice,66
+1999-00,19,1,6,2,1,WJC-A,7,Czech Republic,3
+2000-01,20,4,25,10,-12,IHL,52,Cincinnati Cyclones,14
+2001-02,21,12,58,16,10,AHL,66,Lowell Lock Monsters,28
+2002-03,22,1,10,1,-4,AHL,9,Lowell Lock Monsters,2
+2003-04,23,2,4,2,0,AHL,9,Lowell Lock Monsters,4
+2004-05,24,7,67,6,0,CzRep-2,18,HC Olomouc,13
+2004-05,24,0,14,2,0,CzRep,9,HC Ocelari Trinec,2
+2006-07,26,10,160,0,0,CzRep,51,HC Znojemsti Orli Znojmo,10
+2007-08,27,12,60,8,0,CzRep,38,HC Znojemsti Orli Znojmo,20
+2008-09,28,14,40,9,0,CzRep,53,HC Znojemsti Orli Znojmo,23
+2009-10,29,10,55,6,0,CzRep,49,HC Kometa Brno,16
+2010-11,30,2,18,4,0,CzRep,27,HC Kometa Brno,6
+2011-12,31,5,47,6,0,CzRep,41,HC Kometa Brno,11
+2012-13,32,3,2,0,0,CzRep,4,HC Sparta Praha,3
+2012-13,32,2,4,0,0,KHL,25,HC Lev Praha,2

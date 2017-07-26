@@ -1,0 +1,13 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1993-94,16,30,102,22,0,Minor-ON,50,Whitby Lions,52
+1994-95,17,7,62,21,0,OHL,60,Oshawa Generals,28
+1995-96,18,15,54,17,0,OHL,49,Oshawa Generals,32
+1996-97,19,23,96,20,0,OHL,64,Oshawa Generals,43
+1997-98,20,12,67,21,10,AHL,68,Beast of New Haven,33
+1998-99,21,6,62,4,-8,AHL,47,Beast of New Haven,10
+1999-00,22,19,100,18,-2,IHL,81,Cincinnati Cyclones,37
+2000-01,23,17,139,22,2,IHL,82,Cincinnati Cyclones,39
+2001-02,24,14,128,20,-1,AHL,79,Lowell Lock Monsters,34
+2002-03,25,10,132,13,-12,AHL,71,Philadelphia Phantoms,23
+2003-04,26,13,151,15,3,AHL,71,Philadelphia Phantoms,28
+2004-05,27,21,175,31,0,German-2,48,ERC Schwenningen,52

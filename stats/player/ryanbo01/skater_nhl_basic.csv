@@ -1,0 +1,11 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+7,NHL,23,0,20,0,57,37,10,20,1,259,ANA,11,100.0,[],13.5,2,5,-1,5,1,0,2007-08,5,11:16,3,6,0,4
+39,NHL,64,3,21,7,289,174,57,78,11,988,ANA,22,46.2,"[{'link': '/awards/voting-2009.html#AS', 'name': 'AS-20'}, {'link': '/awards/voting-2009.html#calder', 'name': 'Calder-2'}]",17.8,19,26,13,31,6,0,2008-09,10,15:26,12,33,0,15
+29,NHL,81,3,22,52,465,258,64,127,10,1498,ANA,41,44.1,"[{'link': '/awards/voting-2010.html#AS', 'name': 'AS-12'}, {'link': '/awards/voting-2010.html#selke', 'name': 'Selke-54'}]",13.6,24,29,9,35,41,0,2009-10,17,18:29,11,81,0,19
+42,NHL,82,5,23,132,423,270,71,156,5,1655,ANA,62,39.7,"[{'link': '/awards/voting-2011.html#AS', 'name': 'AS-12'}]",12.6,28,37,15,34,87,1,2010-11,34,20:11,5,61,0,32
+49,NHL,82,3,24,48,369,204,57,111,8,1505,ANA,35,28.4,[],15.2,26,26,1,31,19,2,2011-12,24,18:21,3,53,0,18
+23,NHL,46,1,25,56,185,101,30,80,4,763,ANA,24,30.9,[],10.9,9,19,3,11,25,0,2012-13,29,16:35,2,17,0,15
+39,NHL,70,2,26,5,349,190,48,104,3,1181,OTT,50,61.5,[],12.1,17,25,7,23,8,0,2013-14,30,16:52,6,45,0,22
+41,NHL,78,5,27,7,368,221,54,110,10,1363,OTT,59,36.4,[],8.1,14,36,5,18,4,0,2014-15,33,17:28,4,24,0,26
+52,NHL,81,2,28,8,341,183,56,106,10,1391,OTT,52,27.3,[],12.0,16,34,-9,22,3,0,2015-16,24,17:10,6,28,0,24
+27,NHL,62,0,29,3,228,111,25,109,3,963,OTT,27,66.7,[],11.7,11,12,-3,13,6,0,2016-17,36,15:32,2,24,0,9

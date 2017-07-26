@@ -1,0 +1,37 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1995-96,15,2,20,1,0,Fin-U18,9,KalPa Kuopio U18,3
+1995-96,15,0,0,0,0,Fin-Jr.,2,KalPa Kuopio Jr.,0
+1996-97,16,3,8,2,0,Fin-U18,11,KalPa Kuopio U18,5
+1996-97,16,2,18,5,0,Fin-Jr.,34,KalPa Kuopio Jr.,7
+1996-97,16,1,6,0,0,EJC-A,6,Finland,1
+1997-98,17,5,2,1,0,Fin-U18,4,HIFK Helsinki U18,6
+1997-98,17,2,14,5,0,Fin-Jr.,22,HIFK Helsinki Jr.,7
+1997-98,17,0,0,0,0,Finland,16,HIFK Helsinki,0
+1997-98,17,0,2,1,0,Finland-2,6,Hermes Kokkola,1
+1997-98,17,1,22,6,0,EJC-A,6,Finland,7
+1998-99,18,7,8,4,0,Fin-Jr.,8,KalPa Kuopio Jr.,11
+1998-99,18,0,6,2,0,WJC-A,6,Finland,2
+1998-99,18,1,20,2,0,Finland,45,2 Teams,3
+1998-99,18,0,2,0,0,Finland,3,HIFK Helsinki,0
+1998-99,18,1,18,2,0,Finland,42,KalPa Kuopio,3
+1999-00,19,0,0,0,0,Fin-Jr.,1,SaiPa Lappeenranta Jr.,0
+1999-00,19,0,50,5,0,Finland,48,SaiPa Lappeenranta,5
+1999-00,19,0,2,1,-4,WJC-A,7,Finland,1
+2000-01,20,2,2,2,0,Fin-Jr.,4,SaiPa Lappeenranta Jr.,4
+2000-01,20,3,0,0,0,Finland-2,5,KooKoo Kouvola,3
+2000-01,20,1,26,0,0,Finland,50,SaiPa Lappeenranta,1
+2001-02,21,5,28,13,-10,AHL,56,Albany River Rats,18
+2002-03,22,11,52,18,-3,AHL,76,2 Teams,29
+2002-03,22,8,35,11,-3,AHL,44,Albany River Rats,19
+2002-03,22,3,17,7,0,AHL,32,Manitoba Moose,10
+2003-04,23,5,52,10,-11,AHL,78,Manitoba Moose,15
+2004-05,24,4,102,12,0,Finland,55,HPK Hameenlinna,16
+2005-06,25,6,65,2,0,Finland,25,HPK Hameenlinna,8
+2006-07,26,5,40,12,0,Finland,29,HPK Hameenlinna,17
+2007-08,27,7,42,11,0,Finland,51,Jokerit Helsinki,18
+2007-08,27,0,6,0,2,WC-A,9,Finland,0
+2008-09,28,8,72,20,0,Finland,55,Jokerit Helsinki,28
+2009-10,29,0,6,2,0,KHL,18,Dynamo Minsk,2
+2010-11,30,1,56,10,0,Sweden,45,Timra IK,11
+2011-12,31,4,70,8,0,Finland,45,HIFK Helsinki,12
+2012-13,32,3,88,11,0,Finland,56,HIFK Helsinki,14

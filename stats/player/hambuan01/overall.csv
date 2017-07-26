@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1991-08-30,C, ,,Anthony Hamburg
+handed,heigh_and_weight,position,date_of_birth,name
+, ,C,1991-08-30,Anthony Hamburg

@@ -1,14 +1,14 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-10,Montreal Jr. Royals,4,0,7,QJHL,6,1942-43,18,3
-10,Montreal Jr. Royals,6,0,8,QJHL,4,1943-44,19,2
-15,Montreal Navy,1,0,4,MCHL,5,1943-44,19,3
-6,Montreal Jr. Royals,1,0,1,M-Cup,3,1943-44,19,0
-6,Montreal Navy,1,0,4,MCHL,6,1944-45,20,3
-10,Montreal Jr. Royals,2,0,4,QJHL,9,1944-45,20,2
-37,Montreal Royals,6,0,7,QSHL,11,1945-46,21,1
-62,Montreal Royals,4,0,6,QSHL,11,1946-47,22,2
-26,Montreal Royals,9,0,13,Al-Cup,14,1946-47,22,4
-10,Quebec Aces,4,0,4,AHL,9,1963-64,39,0
-9,Quebec Aces,1,0,2,AHL,4,1964-65,40,1
-2,Pittsburgh Hornets,0,0,0,AHL,9,1966-67,42,0
-6,Kansas City Blues,6,-4,6,CPHL,7,1967-68,43,0
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+4,Montreal Jr. Royals,3,1942-43,6,7,10,18,0,QJHL
+6,Montreal Jr. Royals,2,1943-44,4,8,10,19,0,QJHL
+1,Montreal Navy,3,1943-44,5,4,15,19,0,MCHL
+1,Montreal Jr. Royals,0,1943-44,3,1,6,19,0,M-Cup
+1,Montreal Navy,3,1944-45,6,4,6,20,0,MCHL
+2,Montreal Jr. Royals,2,1944-45,9,4,10,20,0,QJHL
+6,Montreal Royals,1,1945-46,11,7,37,21,0,QSHL
+4,Montreal Royals,2,1946-47,11,6,62,22,0,QSHL
+9,Montreal Royals,4,1946-47,14,13,26,22,0,Al-Cup
+4,Quebec Aces,0,1963-64,9,4,10,39,0,AHL
+1,Quebec Aces,1,1964-65,4,2,9,40,0,AHL
+0,Pittsburgh Hornets,0,1966-67,9,0,2,42,0,AHL
+6,Kansas City Blues,0,1967-68,7,6,6,43,-4,CPHL

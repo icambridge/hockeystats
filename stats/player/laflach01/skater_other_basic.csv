@@ -1,0 +1,16 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1991-92,15,5,100,27,0,QAAA,42,Ste-Foy Gouverneurs,32
+1992-93,16,2,72,17,0,QMJHL,69,Verdun College Francais,19
+1992-93,16,0,6,1,0,U-18,5,Canada,1
+1993-94,17,4,85,34,0,QMJHL,72,Verdun College Francais,38
+1994-95,18,6,82,41,0,QMJHL,67,Beauport Harfangs,47
+1995-96,19,13,63,23,0,QMJHL,41,Beauport Harfangs,36
+1996-97,20,5,60,15,0,IHL,62,Indianapolis Ice,20
+1998-99,22,0,2,1,-1,AHL,2,Portland Pirates,1
+2001-02,25,2,52,17,13,AHL,62,Worcester IceCats,19
+2002-03,26,0,6,4,2,AHL,8,Worcester IceCats,4
+2003-04,27,1,25,4,0,AHL,28,Worcester IceCats,5
+2004-05,28,4,96,12,0,Germany,43,Kassel Huskies,16
+2005-06,29,6,86,12,0,Germany,51,Nurnberg Ice Tigers,18
+2006-07,30,5,172,16,0,Germany,50,Sinupret Ice Tigers Nurnberg,21
+2007-08,31,5,76,25,0,Germany,54,Sinupret Ice Tigers Nurnberg,30

@@ -1,27 +1,27 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-8,20:35,RW,17.9,31,212,22,3,28,7,38,56,Martin St. Louis,13.2,3.1,94,8,24,1688,82,35,10.1,22,/players/s/stlouma01.html
-1,19:32,LW,14.0,40,178,13,0,30,6,25,55,Cory Stillman,9.7,2.3,80,11,36,1582,81,18,7.4,15,/players/s/stillco01.html
-1,20:26,C,10.7,31,244,20,1,23,6,26,53,Brad Richards,9.3,2.2,79,5,12,1675,82,13,7.1,21,/players/r/richabr01.html
-2,18:04,C,13.2,25,242,25,0,23,6,32,34,Vincent Lecavalier,9.3,2.4,66,5,52,1463,81,24,6.9,9,/players/l/lecavvi01.html
-1,18:12,LW,14.1,24,206,23,3,29,2,29,28,Fredrik Modin,8.2,2.7,57,5,32,1492,82,31,5.5,1,/players/m/modinfr01.html
-0,17:06,RW,12.7,12,165,11,0,40,5,21,18,Dave Andreychuk,3.8,1.0,39,10,42,1403,82,-9,2.8,6,/players/a/andreda01.html
-0,14:39,LW,14.7,21,116,17,0,25,3,17,22,Ruslan Fedotenko,4.8,1.7,39,0,30,1128,77,14,3.2,1,/players/f/fedotru01.html
-0,22:46,D,6.6,18,137,6,0,27,2,9,30,Dan Boyle,8.5,5.1,39,3,60,1776,78,23,3.4,12,/players/b/boyleda01.html
-1,21:09,D,11.1,14,153,8,0,26,4,17,18,Pavel Kubina,7.7,3.8,35,8,85,1713,81,9,3.9,4,/players/k/kubinpa01.html
-0,12:54,C,7.4,13,95,7,2,34,1,7,15,Tim Taylor,1.1,0.8,22,0,25,1057,82,-5,0.3,0,/players/t/tayloti01.html
-0,18:45,D,5.8,12,86,5,0,27,1,5,14,Brad Lukowich,6.1,5.1,19,0,24,1482,79,29,1.0,2,/players/l/lukowbr01.html
-1,18:31,D,3.2,15,93,2,1,25,1,3,16,Cory Sarich,3.9,3.1,19,0,89,1518,82,5,0.7,0,/players/s/saricco01.html
-0,12:21,RW,6.1,8,98,6,0,23,1,6,10,Dmitry Afanasenkov,0.7,0.7,16,0,12,877,71,-4,0.1,2,/players/a/afanadm01.html
-0,9:48,RW,2.1,8,96,2,0,25,0,2,8,Ben Clymer,0.4,0.8,10,0,50,647,66,5,-0.4,0,/players/c/clymebe01.html
-0,7:35,C,4.5,7,44,2,0,23,0,2,7,Martin Cibak,0.3,0.4,9,0,30,478,63,-1,-0.1,0,/players/c/cibakma01.html
-0,19:02,D,2.6,5,78,2,0,31,1,2,5,Jassen Cullimore,2.7,3.4,7,0,58,1503,79,8,-0.7,0,/players/c/cullija01.html
-0,19:06,D,2.4,4,42,1,0,31,0,1,6,Darryl Sydor,1.5,1.3,7,0,6,592,31,3,0.2,2,/players/s/sydorda01.html
-0,8:16,LW,1.5,5,65,1,0,27,0,1,5,Chris Dingman,-0.7,0.2,6,0,140,612,74,-9,-0.9,0,/players/d/dingmch01.html
-0,13:50,RW,0.0,5,27,0,0,26,0,0,6,Shane Willis,0.4,0.2,6,0,2,166,12,1,0.2,1,/players/w/willish01.html
-0,16:25,D,2.9,2,35,1,1,28,0,1,3,Nolan Pratt,2.1,2.6,4,0,42,952,58,11,-0.5,0,/players/p/prattno01.html
-0,9:18,C,0.0,3,16,0,0,21,0,0,3,Alexander Svitov,0.2,0.1,3,0,4,102,11,0,0.1,0,/players/s/svitoal01.html
-0,7:52,RW,4.2,1,24,1,0,28,0,1,1,Andre Roy,-0.3,0.0,2,0,78,259,33,-5,-0.4,0,/players/r/royan01.html
-0,59:31,G,,0,0,0,0,31,0,0,2,Nikolai Khabibulin,8.5,0.0,2,0,12,3274,55,0,0.0,0,/players/k/khabini01.html
-0,58:13,G,,0,0,0,0,28,0,0,0,John Grahame,4.2,0.0,0,0,4,1688,29,0,0.0,0,/players/g/grahajo01.html
-0,8:32,C,0.0,0,3,0,0,28,0,0,0,Eric Perrin,-0.1,0.0,0,0,0,34,4,-1,-0.1,0,/players/p/perrier01.html
-0,11:34,D,0.0,0,5,0,0,35,0,0,0,Darren Rumble,-0.1,-0.1,0,0,2,58,5,-2,-0.1,0,/players/r/rumblda01.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+56,7,38,28,20:35,10.1,3.1,22,1688,22,RW,13.2,31,TBL,/players/s/stlouma01.html,3,24,8,35,Martin St. Louis,17.9,2004,94,8,82,212
+55,6,25,30,19:32,7.4,2.3,13,1582,15,LW,9.7,40,TBL,/players/s/stillco01.html,0,36,11,18,Cory Stillman,14.0,2004,80,1,81,178
+53,6,26,23,20:26,7.1,2.2,20,1675,21,C,9.3,31,TBL,/players/r/richabr01.html,1,12,5,13,Brad Richards,10.7,2004,79,1,82,244
+34,6,32,23,18:04,6.9,2.4,25,1463,9,C,9.3,25,TBL,/players/l/lecavvi01.html,0,52,5,24,Vincent Lecavalier,13.2,2004,66,2,81,242
+28,2,29,29,18:12,5.5,2.7,23,1492,1,LW,8.2,24,TBL,/players/m/modinfr01.html,3,32,5,31,Fredrik Modin,14.1,2004,57,1,82,206
+18,5,21,40,17:06,2.8,1.0,11,1403,6,RW,3.8,12,TBL,/players/a/andreda01.html,0,42,10,-9,Dave Andreychuk,12.7,2004,39,0,82,165
+22,3,17,25,14:39,3.2,1.7,17,1128,1,LW,4.8,21,TBL,/players/f/fedotru01.html,0,30,0,14,Ruslan Fedotenko,14.7,2004,39,0,77,116
+30,2,9,27,22:46,3.4,5.1,6,1776,12,D,8.5,18,TBL,/players/b/boyleda01.html,0,60,3,23,Dan Boyle,6.6,2004,39,0,78,137
+18,4,17,26,21:09,3.9,3.8,8,1713,4,D,7.7,14,TBL,/players/k/kubinpa01.html,0,85,8,9,Pavel Kubina,11.1,2004,35,1,81,153
+15,1,7,34,12:54,0.3,0.8,7,1057,0,C,1.1,13,TBL,/players/t/tayloti01.html,2,25,0,-5,Tim Taylor,7.4,2004,22,0,82,95
+14,1,5,27,18:45,1.0,5.1,5,1482,2,D,6.1,12,TBL,/players/l/lukowbr01.html,0,24,0,29,Brad Lukowich,5.8,2004,19,0,79,86
+16,1,3,25,18:31,0.7,3.1,2,1518,0,D,3.9,15,TBL,/players/s/saricco01.html,1,89,0,5,Cory Sarich,3.2,2004,19,1,82,93
+10,1,6,23,12:21,0.1,0.7,6,877,2,RW,0.7,8,TBL,/players/a/afanadm01.html,0,12,0,-4,Dmitry Afanasenkov,6.1,2004,16,0,71,98
+8,0,2,25,9:48,-0.4,0.8,2,647,0,RW,0.4,8,TBL,/players/c/clymebe01.html,0,50,0,5,Ben Clymer,2.1,2004,10,0,66,96
+7,0,2,23,7:35,-0.1,0.4,2,478,0,C,0.3,7,TBL,/players/c/cibakma01.html,0,30,0,-1,Martin Cibak,4.5,2004,9,0,63,44
+5,1,2,31,19:02,-0.7,3.4,2,1503,0,D,2.7,5,TBL,/players/c/cullija01.html,0,58,0,8,Jassen Cullimore,2.6,2004,7,0,79,78
+6,0,1,31,19:06,0.2,1.3,1,592,2,D,1.5,4,TBL,/players/s/sydorda01.html,0,6,0,3,Darryl Sydor,2.4,2004,7,0,31,42
+5,0,1,27,8:16,-0.9,0.2,1,612,0,LW,-0.7,5,TBL,/players/d/dingmch01.html,0,140,0,-9,Chris Dingman,1.5,2004,6,0,74,65
+6,0,0,26,13:50,0.2,0.2,0,166,1,RW,0.4,5,TBL,/players/w/willish01.html,0,2,0,1,Shane Willis,0.0,2004,6,0,12,27
+3,0,1,28,16:25,-0.5,2.6,1,952,0,D,2.1,2,TBL,/players/p/prattno01.html,1,42,0,11,Nolan Pratt,2.9,2004,4,0,58,35
+3,0,0,21,9:18,0.1,0.1,0,102,0,C,0.2,3,TBL,/players/s/svitoal01.html,0,4,0,0,Alexander Svitov,0.0,2004,3,0,11,16
+1,0,1,28,7:52,-0.4,0.0,1,259,0,RW,-0.3,1,TBL,/players/r/royan01.html,0,78,0,-5,Andre Roy,4.2,2004,2,0,33,24
+2,0,0,31,59:31,0.0,0.0,0,3274,0,G,8.5,0,TBL,/players/k/khabini01.html,0,12,0,0,Nikolai Khabibulin,,2004,2,0,55,0
+0,0,0,28,58:13,0.0,0.0,0,1688,0,G,4.2,0,TBL,/players/g/grahajo01.html,0,4,0,0,John Grahame,,2004,0,0,29,0
+0,0,0,28,8:32,-0.1,0.0,0,34,0,C,-0.1,0,TBL,/players/p/perrier01.html,0,0,0,-1,Eric Perrin,0.0,2004,0,0,4,3
+0,0,0,35,11:34,-0.1,-0.1,0,58,0,D,-0.1,0,TBL,/players/r/rumblda01.html,0,2,0,-2,Darren Rumble,0.0,2004,0,0,5,5

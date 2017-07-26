@@ -1,0 +1,14 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,Fin-U18,5,Tappara Tampere U18,300,16,0,0,0,8,0,0,0,0,0,0,0,0,0,0,1995-96,0,1.60,0,0
+0,Fin-Jr.,4,Tappara Tampere Jr.,262,18,2,0,0,11,0,0,0,0,2,0,0,0,0,0,1997-98,0,2.52,0,0
+0,Finland,4,Tappara Tampere,196,18,2,0,0,12,0,0,0,0,1,0,0,0,0,0,1997-98,0,3.67,0,0
+0,AHL,21,Rochester Americans,1235,20,8,0,0,37,0,0,0,6,13,0,0,0,0,.936,1999-00,577,1.80,6,540
+0,AHL,4,Rochester Americans,250,21,3,0,0,11,0,0,0,0,1,0,0,0,0,.885,2000-01,96,2.64,0,85
+0,AHL,1,Rochester Americans,59,22,1,0,0,3,0,0,0,0,0,0,0,0,0,.870,2001-02,23,3.05,0,20
+0,Finland,9,HPK Hameenlinna,482,25,4,0,0,21,0,0,0,1,4,0,0,0,0,0,2004-05,0,2.61,0,0
+0,Russia,16,Ak Bars Kazan,941,27,0,0,1,35,0,0,0,0,0,1,0,0,0,0,2006-07,0,2.23,29,0
+0,Sweden,3,Linkopings HC,221,29,0,0,0,8,0,0,0,1,0,0,0,0,0,0,2008-09,0,2.17,0,0
+0,Finland,6,HIFK Helsinki,372,30,4,0,0,15,0,0,0,1,2,0,0,0,0,0,2009-10,0,2.42,0,0
+0,Finland,12,Lukko Rauma,757,31,6,0,0,28,0,0,0,1,6,0,0,0,0,0,2010-11,0,2.22,0,0
+0,Finland,1,Lukko Rauma,58,32,1,0,2,5,0,0,0,0,0,2,0,0,0,0,2011-12,0,5.17,0,0
+0,Finland,1,Tappara Tampere,1,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012-13,0,0.00,0,0

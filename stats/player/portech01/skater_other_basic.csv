@@ -1,0 +1,15 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2001-02,17,10,32,25,0,High-MN,75,Shattuck-St. Mary\'s,35
+2002-03,18,13,74,22,5,USHL,59,Lincoln Stars,35
+2003-04,19,10,46,15,0,WCHA,41,University of North Dakota,25
+2004-05,20,12,36,3,0,WCHA,45,University of North Dakota,15
+2005-06,21,7,40,16,0,WCHA,46,University of North Dakota,23
+2006-07,22,13,38,17,0,WCHA,43,University of North Dakota,30
+2007-08,23,12,72,25,-4,AHL,80,Peoria Rivermen,37
+2008-09,24,7,72,16,1,AHL,74,Peoria Rivermen,23
+2009-10,25,13,53,18,-4,AHL,80,Peoria Rivermen,31
+2010-11,26,0,2,1,-4,WC-A,7,United States,1
+2010-11,26,9,63,11,-1,AHL,36,Peoria Rivermen,20
+2011-12,27,0,2,1,1,AHL,2,Peoria Rivermen,1
+2012-13,28,7,11,3,0,AHL,12,Peoria Rivermen,10
+2013-14,29,7,37,11,6,AHL,38,Chicago Wolves,18

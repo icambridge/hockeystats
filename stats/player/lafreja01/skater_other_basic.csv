@@ -1,0 +1,35 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1982-83,16,17,9,40,0,ON-Jr.A,48,Orillia Travelways,57
+1983-84,17,24,4,57,0,OHL,70,Brantford Alexanders,81
+1984-85,18,26,10,69,0,OHL,59,Hamilton Steelhawks,95
+1985-86,19,49,4,83,0,OHL,62,2 Teams,132
+1985-86,19,12,2,10,0,OHL,14,Hamilton Steelhawks,22
+1985-86,19,37,2,73,0,OHL,48,Belleville Bulls,110
+1986-87,20,3,0,11,0,AHL,11,Fredericton Express,14
+1987-88,21,12,38,19,0,AHL,32,Fredericton Express,31
+1988-89,22,10,17,19,0,IHL,24,Denver Rangers,29
+1989-90,23,13,34,34,0,IHL,55,2 Teams,47
+1989-90,23,9,34,25,0,IHL,41,Flint Spirits,34
+1989-90,23,4,0,9,0,IHL,14,Phoenix Roadrunners,13
+1990-91,24,26,50,33,0,Nat-Tm,59,Canada,59
+1991-92,25,1,2,2,0,IHL,5,San Diego Gulls,3
+1991-92,25,7,16,22,0,Germany,23,EV Landshut,29
+1991-92,25,3,6,4,0,Nat-Tm,8,Canada,7
+1992-93,26,23,34,47,0,IHL,63,Atlanta Knights,70
+1993-94,27,14,16,47,0,IHL,52,Milwaukee Admirals,61
+1994-95,28,12,20,15,0,Euroliga,17,HC Courmaosta,27
+1994-95,28,23,12,33,0,Italy,35,HC Courmaosta,56
+1995-96,29,10,6,10,0,Alpenliga,10,EC Villacher SV,20
+1995-96,29,30,42,26,0,Austria,34,EC VSV Villach,56
+1996-97,30,3,0,4,0,Alpenliga,4,HK Olimpija Ljubljana,7
+1996-97,30,11,18,18,0,Britain,22,Sheffield Steelers,29
+1996-97,30,4,18,2,0,IHL,17,Michigan K-Wings,6
+1997-98,31,15,62,45,0,Germany,49,Hannover Scorpions,60
+1998-99,32,7,20,31,0,Germany,47,Hannover Scorpions,38
+1999-00,33,1,4,5,0,German-2,8,Hamburg Crocodiles,6
+1999-00,33,3,2,1,0,CHL,3,Topeka ScareCrows,4
+1999-00,33,3,0,0,0,Spain,1,CH Hielo Barcelona,3
+1999-00,33,3,0,4,-9,WCHL,10,Bakersfield Condors,7
+2000-01,34,5,8,18,0,Italy,24,HC Merano,23
+2001-02,35,38,6,46,0,Britain-2,41,Edinburgh Capitals,84
+2002-03,36,19,67,37,0,Britain-2,36,Guildford Flames,56

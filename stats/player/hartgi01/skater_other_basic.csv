@@ -1,18 +1,18 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-0,Weyburn Wanderers,1,0,11,SIHL,5,1918-19,16,10
-0,Weyburn Wanderers,0,0,16,S-SSHL,10,1919-20,17,16
-0,Weyburn Wanderers,2,0,4,SSHL,11,1920-21,18,2
-2,Moose Jaw Maple Leafs,0,0,3,S-SSHL,7,1921-22,19,3
-4,Weyburn Wanderers,6,0,23,S-SSHL,10,1922-23,20,17
-10,Victoria Cougars,1,0,16,PCHA,29,1923-24,21,15
-8,Victoria Cougars,6,0,14,WCHL,26,1924-25,22,8
-2,Victoria Cougars,4,0,10,WHL,27,1925-26,23,6
-6,Windsor Hornets,1,0,5,Can-Pro,5,1926-27,24,4
-14,Providence Reds,1,0,14,Can-Am,38,1928-29,26,13
-28,Providence Reds,12,0,36,Can-Am,39,1929-30,27,24
-16,Providence Reds,13,0,38,Can-Am,37,1930-31,28,25
-29,Providence Reds,17,0,38,Can-Am,40,1931-32,29,21
-60,Providence Reds,9,0,16,Can-Am,46,1932-33,30,7
-12,Providence Reds,9,0,22,Can-Am,40,1933-34,31,13
-0,Weyburn Beavers,0,0,0,S-SSHL,1,1934-35,32,0
-0,Weyburn Beavers,0,0,0,S-SSHL,1,1937-38,35,0
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+1,Weyburn Wanderers,10,1918-19,5,11,0,16,0,SIHL
+0,Weyburn Wanderers,16,1919-20,10,16,0,17,0,S-SSHL
+2,Weyburn Wanderers,2,1920-21,11,4,0,18,0,SSHL
+0,Moose Jaw Maple Leafs,3,1921-22,7,3,2,19,0,S-SSHL
+6,Weyburn Wanderers,17,1922-23,10,23,4,20,0,S-SSHL
+1,Victoria Cougars,15,1923-24,29,16,10,21,0,PCHA
+6,Victoria Cougars,8,1924-25,26,14,8,22,0,WCHL
+4,Victoria Cougars,6,1925-26,27,10,2,23,0,WHL
+1,Windsor Hornets,4,1926-27,5,5,6,24,0,Can-Pro
+1,Providence Reds,13,1928-29,38,14,14,26,0,Can-Am
+12,Providence Reds,24,1929-30,39,36,28,27,0,Can-Am
+13,Providence Reds,25,1930-31,37,38,16,28,0,Can-Am
+17,Providence Reds,21,1931-32,40,38,29,29,0,Can-Am
+9,Providence Reds,7,1932-33,46,16,60,30,0,Can-Am
+9,Providence Reds,13,1933-34,40,22,12,31,0,Can-Am
+0,Weyburn Beavers,0,1934-35,1,0,0,32,0,S-SSHL
+0,Weyburn Beavers,0,1937-38,1,0,0,35,0,S-SSHL

@@ -1,0 +1,15 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2000-01,18,7,10,20,0,ECAC,33,Cornell Big Red,27
+2001-02,19,10,10,20,0,ECAC,35,Cornell Big Red,30
+2002-03,20,19,16,26,0,ECAC,36,Cornell Big Red,45
+2003-04,21,10,14,16,0,ECAC,27,Cornell Big Red,26
+2004-05,22,20,51,25,0,Sweden-2,43,Rogle BK Angelholm,45
+2005-06,23,18,50,49,-25,AHL,80,Springfield Falcons,67
+2006-07,24,16,51,35,-26,AHL,80,Binghamton Senators,51
+2007-08,25,26,42,18,0,Finland,56,HIFK Helsinki,44
+2008-09,26,24,28,47,4,AHL,67,Worcester Sharks,71
+2009-10,27,14,20,16,3,AHL,35,Worcester Sharks,30
+2010-11,28,25,18,23,0,KHL,51,Torpedo Nizhny Novgorod,48
+2011-12,29,4,8,6,0,KHL,18,Torpedo Nizhny Novgorod,10
+2012-13,30,2,12,4,0,Sweden,22,Skelleftea AIK,6
+2012-13,30,2,10,4,0,Finland,14,Blues Espoo,6

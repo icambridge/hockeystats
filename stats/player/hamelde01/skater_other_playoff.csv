@@ -1,11 +1,11 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-16,1993-94,Abitibi Forestiers,3,0,16,5,3,0,QAAA
-29,1994-95,Chicoutimi Sagueneens,0,0,17,13,2,2,QMJHL
-64,1995-96,Chicoutimi Sagueneens,14,0,18,17,24,10,QMJHL
-65,1996-97,Chicoutimi Sagueneens,10,5,19,20,25,15,QMJHL
-0,1997-98,Rochester Americans,2,0,20,4,3,1,AHL
-10,1998-99,Rochester Americans,4,0,21,20,7,3,AHL
-49,1999-00,Rochester Americans,7,0,22,21,13,6,AHL
-4,2002-03,Rochester Americans,2,3,25,3,5,3,AHL
-2,2003-04,Binghamton Senators,0,-4,26,2,0,0,AHL
-4,2004-05,Binghamton Senators,0,-1,27,5,1,1,AHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+3,Abitibi Forestiers,0,1993-94,5,3,16,16,0,QAAA
+0,Chicoutimi Sagueneens,2,1994-95,13,2,29,17,0,QMJHL
+14,Chicoutimi Sagueneens,10,1995-96,17,24,64,18,0,QMJHL
+10,Chicoutimi Sagueneens,15,1996-97,20,25,65,19,5,QMJHL
+2,Rochester Americans,1,1997-98,4,3,0,20,0,AHL
+4,Rochester Americans,3,1998-99,20,7,10,21,0,AHL
+7,Rochester Americans,6,1999-00,21,13,49,22,0,AHL
+2,Rochester Americans,3,2002-03,3,5,4,25,3,AHL
+0,Binghamton Senators,0,2003-04,2,0,2,26,-4,AHL
+0,Binghamton Senators,1,2004-05,5,1,4,27,-1,AHL

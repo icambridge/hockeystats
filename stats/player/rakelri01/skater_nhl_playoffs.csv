@@ -1,0 +1,5 @@
+age,win,shotsPercentage,even_strength_goals,assists,plus_minus,league,games_played,shorthanded_goals,year,game_winning_goals,shots,goals,average_ice_time,power_play_goals,pim,total_ice_time,team,points
+20,,50.0,0,1,-2,NHL,4,0,2013-14,0,2,1,44,1,0,7,ANA,2
+21,,5.0,1,0,-2,NHL,16,0,2014-15,1,20,1,185,0,2,48,ANA,1
+22,,7.7,1,1,-4,NHL,7,0,2015-16,0,13,1,105,0,0,35,ANA,2
+23,,14.6,7,6,13,NHL,15,0,2016-17,0,48,7,286,0,0,82,ANA,13

@@ -1,23 +1,23 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-0,,RW,19.2,63,291,42,0,25,8,56,80,Guy Lafleur,15.7,3.0,136,14,20,,80,89,12.7,17,/players/l/laflegu01.html
-0,,LW,20.4,36,294,52,0,24,9,60,45,Steve Shutt,13.4,3.0,105,8,28,,80,88,10.5,9,/players/s/shuttst01.html
-0,,D,9.5,52,199,16,0,25,3,19,66,Larry Robinson,16.9,9.9,85,3,45,,77,120,7.1,14,/players/r/robinla01.html
-0,,D,8.7,33,289,15,1,28,6,25,51,Guy Lapointe,13.6,6.7,76,10,53,,77,69,6.8,17,/players/l/lapoigu01.html
-2,,C,12.5,34,272,27,0,31,4,34,41,Jacques Lemaire,8.4,2.4,75,5,22,,75,70,6.0,7,/players/l/lemaija01.html
-0,,C,9.3,38,161,12,0,30,1,15,47,Pete Mahovlich,4.6,1.4,62,3,45,,76,36,3.3,9,/players/m/mahovpe01.html
-0,,C,15.5,32,142,21,0,23,6,22,38,Doug Risebrough,4.9,1.3,60,1,132,,78,33,3.6,6,/players/r/risebdo01.html
-0,,RW,20.5,24,122,19,0,33,2,25,28,Yvan Cournoyer,5.1,1.0,53,6,8,,60,27,4.0,4,/players/c/cournyv01.html
-0,,LW,18.8,18,128,22,0,26,5,24,28,Yvon Lambert,4.3,1.2,52,2,50,,79,30,3.1,10,/players/l/lambeyv01.html
-0,,RW,16.8,22,131,20,1,27,3,22,30,Rejean Houle,4.9,1.4,52,2,24,,65,39,3.5,7,/players/h/houlere01.html
-0,,RW,12.9,27,139,14,0,20,3,18,28,Mario Tremblay,3.3,1.0,46,4,61,,74,25,2.3,1,/players/t/trembma02.html
-0,,D,8.2,28,110,9,0,31,1,9,33,Serge Savard,10.0,7.4,42,0,35,,78,79,2.6,5,/players/s/savarse01.html
-0,,C,18.2,22,88,16,0,21,2,16,22,Doug Jarvis,2.4,1.2,38,0,14,,80,30,1.2,0,/players/j/jarvido01.html
-1,,LW,9.8,19,143,13,0,23,3,14,19,Bob Gainey,1.8,1.2,33,0,41,,80,31,0.6,0,/players/g/gainebo01.html
-0,,LW,15.7,13,83,12,0,25,1,13,14,Murray Wilson,1.8,1.0,27,1,26,,60,25,0.8,1,/players/w/wilsomu01.html
-0,,D,6.4,19,47,3,0,24,1,3,19,Bill Nyrop,5.5,5.0,22,0,21,,74,42,0.5,0,/players/n/nyropbi01.html
-1,,RW,8.9,14,56,4,0,36,1,5,14,Jimmy Roberts,1.0,0.8,19,0,18,,45,22,0.1,0,/players/r/roberji01.html
-1,,D,5.5,11,73,3,0,28,0,4,11,Pierre Bouchard,4.5,4.4,15,0,52,,73,33,0.1,0,/players/b/bouchpi01.html
-0,,D,7.1,4,42,3,0,22,1,3,4,Rick Chartraw,3.0,3.1,7,0,59,,43,27,-0.1,0,/players/c/chartri01.html
-0,,G,,0,0,0,0,29,0,0,2,Ken Dryden,14.3,0.0,2,0,0,,56,0,0.0,0,/players/d/drydeke01.html
-0,,D,0.0,0,5,0,0,24,0,0,1,John Van Boxmeer,0.2,0.2,1,0,0,,4,1,0.0,1,/players/v/vanbojo01.html
-0,,G,,0,0,0,0,24,0,0,0,Michel Larocque,6.8,0.0,0,0,0,,26,0,0.0,0,/players/l/larocmi01.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+80,8,56,25,,12.7,3.0,42,,17,RW,15.7,63,MTL,/players/l/laflegu01.html,0,20,14,89,Guy Lafleur,19.2,1977,136,0,80,291
+45,9,60,24,,10.5,3.0,52,,9,LW,13.4,36,MTL,/players/s/shuttst01.html,0,28,8,88,Steve Shutt,20.4,1977,105,0,80,294
+66,3,19,25,,7.1,9.9,16,,14,D,16.9,52,MTL,/players/r/robinla01.html,0,45,3,120,Larry Robinson,9.5,1977,85,0,77,199
+51,6,25,28,,6.8,6.7,15,,17,D,13.6,33,MTL,/players/l/lapoigu01.html,1,53,10,69,Guy Lapointe,8.7,1977,76,0,77,289
+41,4,34,31,,6.0,2.4,27,,7,C,8.4,34,MTL,/players/l/lemaija01.html,0,22,5,70,Jacques Lemaire,12.5,1977,75,2,75,272
+47,1,15,30,,3.3,1.4,12,,9,C,4.6,38,MTL,/players/m/mahovpe01.html,0,45,3,36,Pete Mahovlich,9.3,1977,62,0,76,161
+38,6,22,23,,3.6,1.3,21,,6,C,4.9,32,MTL,/players/r/risebdo01.html,0,132,1,33,Doug Risebrough,15.5,1977,60,0,78,142
+28,2,25,33,,4.0,1.0,19,,4,RW,5.1,24,MTL,/players/c/cournyv01.html,0,8,6,27,Yvan Cournoyer,20.5,1977,53,0,60,122
+28,5,24,26,,3.1,1.2,22,,10,LW,4.3,18,MTL,/players/l/lambeyv01.html,0,50,2,30,Yvon Lambert,18.8,1977,52,0,79,128
+30,3,22,27,,3.5,1.4,20,,7,RW,4.9,22,MTL,/players/h/houlere01.html,1,24,2,39,Rejean Houle,16.8,1977,52,0,65,131
+28,3,18,20,,2.3,1.0,14,,1,RW,3.3,27,MTL,/players/t/trembma02.html,0,61,4,25,Mario Tremblay,12.9,1977,46,0,74,139
+33,1,9,31,,2.6,7.4,9,,5,D,10.0,28,MTL,/players/s/savarse01.html,0,35,0,79,Serge Savard,8.2,1977,42,0,78,110
+22,2,16,21,,1.2,1.2,16,,0,C,2.4,22,MTL,/players/j/jarvido01.html,0,14,0,30,Doug Jarvis,18.2,1977,38,0,80,88
+19,3,14,23,,0.6,1.2,13,,0,LW,1.8,19,MTL,/players/g/gainebo01.html,0,41,0,31,Bob Gainey,9.8,1977,33,1,80,143
+14,1,13,25,,0.8,1.0,12,,1,LW,1.8,13,MTL,/players/w/wilsomu01.html,0,26,1,25,Murray Wilson,15.7,1977,27,0,60,83
+19,1,3,24,,0.5,5.0,3,,0,D,5.5,19,MTL,/players/n/nyropbi01.html,0,21,0,42,Bill Nyrop,6.4,1977,22,0,74,47
+14,1,5,36,,0.1,0.8,4,,0,RW,1.0,14,MTL,/players/r/roberji01.html,0,18,0,22,Jimmy Roberts,8.9,1977,19,1,45,56
+11,0,4,28,,0.1,4.4,3,,0,D,4.5,11,MTL,/players/b/bouchpi01.html,0,52,0,33,Pierre Bouchard,5.5,1977,15,1,73,73
+4,1,3,22,,-0.1,3.1,3,,0,D,3.0,4,MTL,/players/c/chartri01.html,0,59,0,27,Rick Chartraw,7.1,1977,7,0,43,42
+2,0,0,29,,0.0,0.0,0,,0,G,14.3,0,MTL,/players/d/drydeke01.html,0,0,0,0,Ken Dryden,,1977,2,0,56,0
+1,0,0,24,,0.0,0.2,0,,1,D,0.2,0,MTL,/players/v/vanbojo01.html,0,0,0,1,John Van Boxmeer,0.0,1977,1,0,4,5
+0,0,0,24,,0.0,0.0,0,,0,G,6.8,0,MTL,/players/l/larocmi01.html,0,0,0,0,Michel Larocque,,1977,0,0,26,0

@@ -1,0 +1,16 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,QAAA,3,Cantons de l\'Est Cantonniers,143,15,1,0,0,15,0,0,0,0,2,0,0,0,0,0,1984-85,0,6.29,0,0
+0,QAAA,2,Cantons de l\'Est Cantonniers,100,16,2,0,0,11,0,0,0,0,0,0,0,0,0,0,1985-86,0,6.60,0,0
+0,QMJHL,11,Chicoutimi Sagueneens,575,17,5,0,0,54,0,0,0,0,4,0,0,0,0,0,1986-87,0,5.63,0,0
+0,QMJHL,4,Chicoutimi Sagueneens,222,18,2,0,0,17,0,0,0,0,1,0,0,0,0,0,1987-88,0,4.59,0,0
+0,IHL,10,Indianapolis Ice,602,20,1,0,0,19,0,0,0,1,9,0,0,0,0,0,1989-90,0,1.89,0,0
+0,IHL,6,Indianapolis Ice,369,21,4,0,0,20,0,0,0,0,2,0,0,0,0,0,1990-91,0,3.25,0,0
+0,AHL,6,Hershey Bears,360,22,4,0,0,19,0,0,0,0,2,0,0,0,0,0,1991-92,0,3.17,0,0
+0,IHL,5,Indianapolis Ice,298,26,3,0,0,15,0,0,0,1,2,0,0,0,0,0,1995-96,0,3.02,0,0
+0,IHL,4,Indianapolis Ice,222,27,3,0,0,13,0,0,0,0,1,0,0,0,0,0,1996-97,0,3.51,0,0
+0,AHL,2,Springfield Falcons,118,29,2,0,0,6,0,0,0,0,0,0,0,0,0,.912,1998-99,68,3.05,2,62
+0,Germany,9,ERC Ingolstadt,579,34,0,0,0,27,0,0,0,1,0,0,0,0,0,0,2003-04,0,2.80,10,0
+0,Germany,11,ERC Ingolstadt,661,35,0,0,0,29,0,0,0,1,0,0,0,0,0,0,2004-05,0,2.63,2,0
+0,Germany,7,ERC Ingolstadt,395,36,0,0,0,17,0,0,0,1,0,0,0,0,0,0,2005-06,0,2.58,8,0
+0,Germany,6,ERC Ingolstadt,376,37,0,0,0,21,0,0,0,0,0,0,0,0,0,0,2006-07,0,3.35,2,0
+0,Germany,0,ERC Ingolstadt,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2007-08,0,0,2,0

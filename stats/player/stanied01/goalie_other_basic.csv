@@ -1,0 +1,15 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WCJHL,15,Regina Pats,777,16,0,0,0,41,0,0,0,2,0,0,0,0,0,0,1971-72,0,3.17,0,0
+0,WCJHL,64,Regina Pats,3768,17,0,0,0,236,0,0,0,0,0,0,0,0,0,0,1972-73,0,3.76,0,0
+0,WCJHL,62,Regina Pats,3629,18,12,0,0,185,0,0,9,2,39,0,0,0,0,0,1973-74,0,3.06,0,0
+0,WCJHL,65,Regina Pats,3898,19,0,0,0,255,0,0,0,2,0,0,0,0,0,0,1974-75,0,3.93,0,0
+0,WJC-A,2,Canada,120,19,0,0,0,3,0,0,0,0,2,0,0,0,0,0,1974-75,0,1.50,0,0
+0,AHL,29,Providence Reds,1709,20,11,0,0,108,0,0,1,0,15,0,0,0,0,0,1975-76,0,3.79,0,0
+0,CHL,17,Kansas City Blues,1008,21,9,0,0,59,0,0,0,2,8,0,0,0,0,0,1976-77,0,3.51,0,0
+0,CHL,31,Salt Lake Golden Eagles,1805,22,13,0,0,96,0,0,0,0,18,0,0,0,0,0,1977-78,0,3.19,0,0
+0,CHL,5,Salt Lake Golden Eagles,309,23,2,0,0,10,0,0,1,2,2,0,0,0,0,0,1978-79,0,1.94,0,0
+0,WEC-A,3,Canada,160,23,1,0,0,19,0,0,0,0,1,0,0,0,0,0,1978-79,0,7.13,0,0
+0,CHL,4,Salt Lake Golden Eagles,239,24,1,0,0,6,0,0,0,0,3,0,0,0,0,0,1979-80,0,1.51,0,0
+0,AHL,10,Sherbrooke Jets,573,27,7,0,0,48,0,0,0,0,1,0,0,0,0,0,1982-83,0,5.03,0,0
+0,AHL,10,Binghamton Whalers,612,29,4,0,0,44,0,0,2,0,4,0,0,0,0,0,1984-85,0,4.31,0,0
+0,IHL,9,Salt Lake Golden Eagles,538,29,5,0,0,33,0,0,0,0,4,0,0,0,0,0,1984-85,0,3.68,0,0

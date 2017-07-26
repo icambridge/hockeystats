@@ -1,0 +1,11 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,Fin-U18,4,Jokerit Helsinki U18,240,15,2,0,0,7,0,0,0,0,2,0,0,0,0,0,1998-99,0,1.75,0,0
+0,Fin-Jr.,12,Jokerit Helsinki Jr.,758,16,3,0,0,14,0,0,0,4,9,0,0,0,0,0,1999-00,0,1.11,0,0
+0,Fin-U18,6,Jokerit Helsinki U18,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2000-01,0,0,0,0
+0,Fin-Jr.,1,Jokerit Helsinki Jr.,54,17,1,0,0,4,0,0,0,0,0,0,0,0,0,0,2000-01,0,4.44,0,0
+0,Finland,0,Jokerit Helsinki,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2001-02,0,0,0,0
+0,Finland,11,Jokerit Helsinki,623,18,2,0,0,18,0,0,0,3,8,0,0,0,0,0,2001-02,0,1.73,0,0
+0,Finland,10,Jokerit Helsinki,626,19,4,0,0,17,0,0,0,2,6,0,0,0,0,0,2002-03,0,1.63,12,0
+0,AHL,10,Chicago Wolves,663,20,4,0,0,23,0,0,0,1,6,0,0,0,0,.942,2003-04,397,2.08,4,374
+0,AHL,0,Chicago Wolves,0,21,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2004-05,0,0,0,0
+0,AHL,16,Chicago Wolves,983,21,6,0,0,28,0,0,0,2,10,0,0,0,0,.939,2004-05,457,1.71,0,429

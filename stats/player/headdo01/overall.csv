@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1933-06-30,", ",G,Don Head,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",G,1933-06-30,Don Head

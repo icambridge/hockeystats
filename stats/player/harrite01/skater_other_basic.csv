@@ -1,14 +1,14 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-94,Winnipeg Monarchs,5,0,9,MJHL,36,1953-54,17,4
-137,Winnipeg Monarchs,15,0,17,MJHL,32,1954-55,18,2
-78,Winnipeg Monarchs,23,0,29,MJHL,20,1955-56,19,6
-4,Springfield Indians,0,0,0,AHL,2,1956-57,20,0
-103,Philadelphia Ramblers,33,0,44,EHL,61,1956-57,20,11
-82,Philadelphia Ramblers,19,0,29,EHL,62,1957-58,21,10
-11,Springfield Indians,2,0,2,AHL,9,1958-59,22,0
-82,Victoria Cougars,12,0,16,WHL,58,1958-59,22,4
-100,Springfield Indians,13,0,17,AHL,63,1959-60,23,4
-76,Springfield Indians,22,0,26,AHL,69,1960-61,24,4
-142,Springfield Indians,29,0,31,AHL,70,1961-62,25,2
-172,Springfield Indians,30,0,38,AHL,72,1962-63,26,8
-109,Cleveland Barons,23,0,29,AHL,67,1963-64,27,6
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+5,Winnipeg Monarchs,4,1953-54,36,9,94,17,0,MJHL
+15,Winnipeg Monarchs,2,1954-55,32,17,137,18,0,MJHL
+23,Winnipeg Monarchs,6,1955-56,20,29,78,19,0,MJHL
+0,Springfield Indians,0,1956-57,2,0,4,20,0,AHL
+33,Philadelphia Ramblers,11,1956-57,61,44,103,20,0,EHL
+19,Philadelphia Ramblers,10,1957-58,62,29,82,21,0,EHL
+2,Springfield Indians,0,1958-59,9,2,11,22,0,AHL
+12,Victoria Cougars,4,1958-59,58,16,82,22,0,WHL
+13,Springfield Indians,4,1959-60,63,17,100,23,0,AHL
+22,Springfield Indians,4,1960-61,69,26,76,24,0,AHL
+29,Springfield Indians,2,1961-62,70,31,142,25,0,AHL
+30,Springfield Indians,8,1962-63,72,38,172,26,0,AHL
+23,Cleveland Barons,6,1963-64,67,29,109,27,0,AHL

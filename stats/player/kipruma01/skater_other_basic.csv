@@ -1,0 +1,48 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1988-89,16,7,0,10,0,Fin-U18,8,TPS Turku U18,17
+1988-89,16,3,4,5,0,Fin-Jr.,19,TPS Turku Jr.,8
+1989-90,17,8,4,15,0,Fin-Jr.,37,TPS Turku Jr.,23
+1989-90,17,0,8,2,0,EJC-A,6,Finland,2
+1990-91,18,2,2,9,0,Fin-Jr.,17,TPS Turku Jr.,11
+1990-91,18,0,0,0,0,Finland,3,TPS Turku,0
+1990-91,18,4,0,8,0,Finland-2,22,TuTo Turku,12
+1991-92,19,0,2,0,0,Finland-2,4,Kiekko-67 Turku,0
+1991-92,19,2,0,0,0,Fin-Jr.,1,HPK Hameenlinna Jr.,2
+1991-92,19,2,2,2,0,WJC-A,7,Finland,4
+1991-92,19,0,0,2,0,Finland,26,2 Teams,2
+1991-92,19,0,0,2,0,Finland,23,TPS Turku,2
+1991-92,19,0,0,0,0,Finland,3,HPK Hameenlinna,0
+1992-93,20,0,2,1,0,Finland-2,1,Kiekko-67 Turku,1
+1992-93,20,3,14,7,0,Finland,43,TPS Turku,10
+1992-93,20,0,0,0,0,Nat-Tm,7,Finland,0
+1993-94,21,5,8,19,0,Finland,48,TPS Turku,24
+1993-94,21,0,10,2,0,Nat-Tm,13,Finland,2
+1993-94,21,3,4,3,0,Olympics,8,Finland,6
+1993-94,21,2,2,1,0,WC-A,8,Finland,3
+1994-95,22,10,16,21,0,Finland,50,TPS Turku,31
+1994-95,22,2,2,2,0,Nat-Tm,15,Finland,4
+1994-95,22,0,0,3,0,WC-A,8,Finland,3
+1995-96,23,4,2,10,0,AHL,28,Fredericton Canadiens,14
+1996-97,24,0,0,1,0,W-Cup,4,Finland,1
+1996-97,24,10,24,18,0,Sweden,50,MIF Redhawks Malmo,28
+1996-97,24,5,6,7,0,Nat-Tm,25,Finland,12
+1996-97,24,0,2,2,0,WC-A,8,Finland,2
+1997-98,25,7,16,16,0,Sweden,46,MIF Redhawks Malmo,23
+1997-98,25,2,2,6,0,Nat-Tm,16,Finland,8
+1997-98,25,2,4,1,0,WC-A,10,Finland,3
+1998-99,26,15,12,22,0,Finland,49,TPS Turku,37
+1998-99,26,1,4,4,0,WC-A,10,Finland,5
+1999-00,27,6,10,27,0,Finland,53,TPS Turku,33
+1999-00,27,1,2,2,0,EuroHL,5,TPS Turku,3
+2000-01,28,6,10,20,0,Swiss,43,Kloten Flyers,26
+2000-01,28,1,4,1,1,WC-A,9,Finland,2
+2001-02,29,0,0,2,2,AHL,9,Bridgeport Sound Tigers,2
+2001-02,29,0,4,2,0,Finland,11,TPS Turku,2
+2002-03,30,7,20,12,0,Swiss,39,Kloten Flyers,19
+2002-03,30,0,0,1,3,WC-A,4,Finland,1
+2003-04,31,3,33,13,0,Swiss,35,Kloten Flyers,16
+2004-05,32,11,28,26,0,Finland,50,TPS Turku,37
+2005-06,33,5,16,11,0,Finland,53,TPS Turku,16
+2006-07,34,4,22,25,0,Finland,55,TPS Turku,29
+2007-08,35,4,10,22,0,Finland,54,TPS Turku,26
+2008-09,36,0,20,10,0,Finland,34,TPS Turku,10

@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2004-05,15,1,2,0,0,Den-Jr.,10,Esbjerg IK Jr.,1
+2005-06,16,1,24,4,0,Swe-Jr.,32,Rogle BK Angelholm Jr.,5
+2005-06,16,0,0,0,0,Sweden-2,13,Rogle BK Angelholm,0
+2006-07,17,1,2,2,0,Swe-U18,3,Frolunda HC Goteborg U18,3
+2006-07,17,3,50,15,0,Swe-Jr.,37,Frolunda HC Goteborg Jr.,18
+2006-07,17,0,0,0,0,Sweden,5,Frolunda HC Goteborg,0
+2007-08,18,1,12,4,0,Swe-Jr.,8,Frolunda HC Goteborg Jr.,5
+2007-08,18,5,32,5,0,Sweden-2,24,Boras HC,10
+2007-08,18,0,2,0,0,Sweden,16,Frolunda HC Goteborg,0
+2008-09,19,1,0,0,0,Swe-Jr.,1,Frolunda HC Goteborg Jr.,1
+2008-09,19,2,18,15,0,Sweden,53,Frolunda HC Goteborg,17
+2009-10,20,1,20,9,0,Sweden,42,Frolunda HC Goteborg,10
+2009-10,20,2,4,0,2,WC-A,7,Denmark,2
+2010-11,21,4,12,18,3,AHL,54,Texas Stars,22
+2011-12,22,0,2,2,-6,WC-A,7,Denmark,2
+2011-12,22,1,6,9,0,AHL,12,Texas Stars,10
+2012-13,23,5,24,10,0,Finland,27,Lukko Rauma,15
+2012-13,23,1,4,1,-1,WC-A,6,Denmark,2
+2013-14,24,1,4,6,-4,AHL,7,Oklahoma City Barons,7
+2013-14,24,0,4,1,0,Internationa,7,Denmark (all),1
+2013-14,24,0,4,1,-7,WC,7,Denmark,1
+2014-15,25,6,34,19,-22,KHL,56,Yugra Khanty-Mansiysk,25
+2015-16,26,11,39,25,9,KHL,52,Jokerit,36
+2015-16,26,1,0,0,0,Spengler Cup,2,Jokerit,1
+2016-17,27,1,0,1,0,Internationa,4,Denmark (all),2
+2016-17,27,1,0,1,-2,OGQ,3,Denmark,2

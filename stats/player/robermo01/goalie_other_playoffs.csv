@@ -1,0 +1,11 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,USAHA,1,Boston A.A. Unicorns,30,19,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1924-25,0,2.00,0,0
+0,Can-Am,4,New Haven Eagles,240,21,2,0,0,9,0,0,1,0,1,0,0,0,0,0,1926-27,0,2.25,0,0
+0,Can-Am,2,Philadelphia Arrows,120,24,2,0,0,5,0,0,0,0,0,0,0,0,0,0,1929-30,0,2.50,0,0
+0,Can-Am,2,New Haven Eagles,120,26,2,0,0,8,0,0,0,0,0,0,0,0,0,0,1931-32,0,4.00,0,0
+0,IHL,2,Cleveland Falcons,140,29,2,0,0,6,0,0,0,0,0,0,0,0,0,0,1934-35,0,2.57,0,0
+0,IHL,2,Cleveland Falcons,120,30,1,0,0,3,0,0,0,1,1,0,0,0,0,0,1935-36,0,1.50,0,0
+0,IAHL,2,Cleveland Barons,183,32,2,0,0,9,0,0,0,0,0,0,0,0,0,0,1937-38,0,2.95,0,0
+0,IAHL,9,Cleveland Barons,635,33,2,0,0,12,0,0,0,4,7,0,0,0,0,0,1938-39,0,1.13,0,0
+0,AHL,4,Cleveland Barons,239,35,1,0,0,10,0,0,0,0,2,0,0,0,0,0,1940-41,0,2.51,0,0
+0,EAHL,6,Washington Lions,360,40,0,0,0,22,0,0,0,1,0,0,0,0,0,0,1945-46,0,3.67,0,0

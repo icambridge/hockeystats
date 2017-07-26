@@ -1,0 +1,8 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+-0.2,0,NHL,1,CGY,60,23,1,0,0,8,0,0,0,0,0,0,0,0,0,.771,1993-94,35,8.00,0,[],27
+0.1,0,NHL,1,CGY,10,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1.000,1994-95,8,0.00,0,[],8
+3.6,0,NHL,22,HAR,1013,25,8,88,0,49,0,6.97,3,1,4,0,0,0,0,.911,1995-96,551,2.90,33,"[{'link': '/awards/voting-1996.html#calder', 'name': 'Calder-17'}]",502
+3.1,0,NHL,31,HAR,1591,26,13,117,1,91,0,-13.35,5,0,9,1,0,0,0,.888,1996-97,815,3.43,18,[],724
+0.7,0,NHL,7,TOT,340,27,3,0,0,19,0,0,2,0,0,0,0,0,0,.888,1997-98,169,3.35,10,[],150
+0.7,0,NHL,6,NYR,313,27,3,0,0,17,0,0,2,0,0,0,0,0,0,.891,1997-98,156,3.26,10,[],139
+0.0,0,NHL,1,SJS,27,27,0,0,0,2,0,0,0,0,0,0,0,0,0,.846,1997-98,13,4.44,0,[],11

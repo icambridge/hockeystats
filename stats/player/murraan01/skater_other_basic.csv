@@ -1,0 +1,12 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1999-00,18,29,0,48,0,MJHL,63,Selkirk Steelers,77
+2000-01,19,46,72,56,0,MJHL,64,Selkirk Steelers,102
+2001-02,20,15,22,15,0,CHA,35,Bemidji State University,30
+2002-03,21,9,38,18,0,CHA,36,Bemidji State University,27
+2003-04,22,6,41,14,0,CHA,25,Bemidji State University,20
+2004-05,23,16,30,22,0,CHA,32,Bemidji State University,38
+2005-06,24,13,73,16,3,AHL,77,Syracuse Crunch,29
+2006-07,25,10,62,12,-8,AHL,72,Syracuse Crunch,22
+2007-08,26,13,15,2,3,AHL,34,Syracuse Crunch,15
+2011-12,30,2,0,1,-4,AHL,10,Worcester Sharks,3
+2012-13,31,14,18,17,-4,AHL,51,Peoria Rivermen,31

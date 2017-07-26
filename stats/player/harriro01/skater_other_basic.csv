@@ -1,8 +1,8 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-63,Hamilton Red Wings,9,0,10,OHA-Jr.,47,1960-61,18,1
-85,Hamilton Red Wings,29,0,36,OHA-Jr.,50,1961-62,19,7
-88,Pittsburgh Hornets,18,0,21,AHL,62,1962-63,20,3
-129,Cincinnati Wings,21,0,25,CPHL,66,1963-64,21,4
-75,Memphis Wings,18,0,36,CPHL,70,1964-65,22,18
-74,San Francisco Seals,16,0,28,WHL,54,1965-66,23,12
-40,California Golden Seals,9,0,17,WHL,31,1966-67,24,8
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+9,Hamilton Red Wings,1,1960-61,47,10,63,18,0,OHA-Jr.
+29,Hamilton Red Wings,7,1961-62,50,36,85,19,0,OHA-Jr.
+18,Pittsburgh Hornets,3,1962-63,62,21,88,20,0,AHL
+21,Cincinnati Wings,4,1963-64,66,25,129,21,0,CPHL
+18,Memphis Wings,18,1964-65,70,36,75,22,0,CPHL
+16,San Francisco Seals,12,1965-66,54,28,74,23,0,WHL
+9,California Golden Seals,8,1966-67,31,17,40,24,0,WHL

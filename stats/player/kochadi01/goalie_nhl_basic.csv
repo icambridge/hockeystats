@@ -1,0 +1,5 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+0.0,0,NHL,5,TBL,238,25,4,0,0,17,0,0,0,0,1,0,0,0,0,.847,1999-00,111,4.29,0,[],94
+0.3,0,NHL,10,TBL,314,26,3,0,0,18,0,0,0,0,0,0,0,0,0,.870,2000-01,138,3.44,0,[],120
+0.3,0,NHL,5,TBL,237,27,3,0,0,16,0,0,1,0,0,0,0,0,0,.876,2001-02,129,4.05,0,[],113
+-0.1,0,NHL,1,MIN,60,28,1,0,0,5,0,0,0,0,0,0,0,0,0,.821,2002-03,28,5.00,0,[],23

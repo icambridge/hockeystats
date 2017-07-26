@@ -1,0 +1,8 @@
+age,win,shotsPercentage,even_strength_goals,assists,plus_minus,league,games_played,shorthanded_goals,year,game_winning_goals,shots,goals,average_ice_time,power_play_goals,pim,total_ice_time,team,points
+22,,0,0,1,0,NHL,9,0,1930-31,0,0,1,,0,2,,CBH,2
+23,,0,0,0,0,NHL,2,0,1931-32,0,0,0,,0,0,,CBH,0
+25,SC,0,0,0,0,NHL,8,0,1933-34,0,0,2,,0,0,,CBH,9
+26,,0,0,0,0,NHL,2,0,1934-35,0,0,0,,0,0,,CBH,0
+27,,0,0,2,0,NHL,2,0,1935-36,0,0,1,,0,0,,CBH,3
+29,SC,0,0,4,0,NHL,0,0,1937-38,0,0,2,,0,2,,CBH,6
+30,,0,0,4,0,NHL,10,0,1938-39,0,0,1,,0,0,,TOR,5

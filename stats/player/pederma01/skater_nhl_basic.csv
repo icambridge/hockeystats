@@ -1,0 +1,10 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,9,0,22,10,2,0,,MTL,[],0.0,0,2,0,0,0,1989-90,,0,2,0,2
+NHL,59,2,23,76,26,6,,TOT,[],13.2,5,16,-5,10,0,1990-91,,5,23,0,10
+NHL,47,2,23,62,23,6,,MTL,[],12.9,4,15,3,8,0,1990-91,,4,18,0,9
+NHL,12,0,23,14,3,0,,PHI,[],14.3,1,1,-8,2,0,1990-91,,1,5,0,1
+NHL,58,3,24,94,40,8,,PHI,"[{'link': '/awards/voting-1992.html#selke', 'name': 'Selke-29'}]",16.0,11,25,14,15,0,1991-92,,4,22,0,17
+NHL,41,0,25,63,17,4,,TOT,[],15.9,8,7,-22,10,0,1992-93,,2,28,0,3
+NHL,14,0,25,21,7,3,,PHI,[],14.3,2,4,-2,3,0,1992-93,,1,6,0,1
+NHL,27,0,25,42,10,1,,SJS,[],16.7,6,3,-20,7,0,1992-93,,1,22,0,2
+NHL,2,0,26,0,0,0,,DET,[],0,0,0,-1,0,0,1993-94,,0,2,0,0

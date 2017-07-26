@@ -1,0 +1,13 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1998-99,17,4,14,4,0,OHL,21,Belleville Bulls,8
+1999-00,18,3,10,4,0,OHL,15,Belleville Bulls,7
+2000-01,19,6,7,10,0,OHL,10,Belleville Bulls,16
+2001-02,20,8,10,6,0,OHL,11,Belleville Bulls,14
+2002-03,21,0,0,3,0,AHL,8,Grand Rapids Griffins,3
+2003-04,22,0,2,0,0,AHL,3,Grand Rapids Griffins,0
+2005-06,24,4,2,5,1,AHL,6,Providence Bruins,9
+2006-07,25,4,26,7,0,Germany,11,Adler Mannheim,11
+2007-08,26,4,29,11,0,Germany,13,Eisbaren Berlin,15
+2008-09,27,5,24,7,0,Germany,12,Eisbaren Berlin,12
+2009-10,28,0,0,1,0,Germany,2,Adler Mannheim,1
+2010-11,29,1,8,2,0,Finland,5,Blues Espoo,3

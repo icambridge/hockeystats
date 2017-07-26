@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1944-45,19,14,6,3,0,SJHL,12,Prince Albert Black Hawks,17
+1945-46,20,0,0,0,0,AHL,1,Cleveland Barons,0
+1945-46,20,10,50,9,0,EAHL,44,Philadelphia Falcons,19
+1946-47,21,0,0,0,0,USHL,2,Minneapolis Millers,0
+1946-47,21,11,72,16,0,WCSHL,38,Edmonton Flyers,27
+1947-48,22,40,41,29,0,AHL,67,Cleveland Barons,69
+1948-49,23,16,29,31,0,AHL,68,Cleveland Barons,47
+1949-50,24,10,34,17,0,AHL,44,Pittsburgh Hornets,27
+1950-51,25,22,34,32,0,AHL,69,Pittsburgh Hornets,54
+1951-52,26,23,24,20,0,AHL,44,Pittsburgh Hornets,43
+1952-53,27,26,51,30,0,AHL,42,Pittsburgh Hornets,56
+1953-54,28,10,4,19,0,AHL,22,Pittsburgh Hornets,29
+1954-55,29,12,36,24,0,AHL,46,Pittsburgh Hornets,36
+1955-56,30,27,74,46,0,AHL,63,Pittsburgh Hornets,73
+1956-57,31,19,16,30,0,AHL,61,Hershey Bears,49
+1957-58,32,16,28,32,0,AHL,66,Hershey Bears,48
+1958-59,33,12,46,24,0,AHL,69,Hershey Bears,36
+1959-60,34,8,18,15,0,AHL,45,Hershey Bears,23
+1959-60,34,10,14,9,0,WHL,21,Edmonton Flyers,19
+1960-61,35,23,10,19,0,WHL,67,Edmonton Flyers,42
+1961-62,36,30,4,55,0,WHL,70,San Francisco Seals,85
+1962-63,37,33,28,43,0,WHL,67,Los Angeles Blades,76
+1963-64,38,13,25,20,0,WHL,59,Los Angeles Blades,33
+1965-66,40,12,59,10,0,ASHL,30,Lacombe Rockets,22
+1966-67,41,7,26,17,0,WCSHL,25,Edmonton Nuggets,24
+1968-69,43,8,36,25,0,ASHL,30,Edmonton Monarchs,33

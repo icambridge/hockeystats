@@ -1,8 +1,8 @@
-shorthanded_goals,power_play_goals,year,team,average_ice_time,age,points,shotsPercentage,assists,league,pim,game_winning_goals,goals,win,plus_minus,total_ice_time,games_played,even_strength_goals,shots
-0,0,1968-69,NYR,,22,0,0,0,NHL,0,0,0,,1,,1,0,0
-0,0,1969-70,NYR,,23,0,0.0,0,NHL,2,0,0,,-1,,5,0,3
-0,0,1973-74,EDO,,27,2,0,1,WHA,15,0,1,,0,,4,0,0
-0,0,1975-76,EDO,,29,1,0,1,WHA,6,0,0,,-2,,4,0,0
-0,0,1976-77,EDO,,30,4,0,4,WHA,4,0,0,,1,,5,0,0
-0,0,1978-79,EDO,,32,9,0,5,WHA,4,0,4,,1,,13,0,0
-0,0,1979-80,EDM,,33,0,0.0,0,NHL,0,0,0,,0,,1,0,2
+even_strength_goals,assists,team,goals,pim,age,game_winning_goals,total_ice_time,league,shorthanded_goals,shots,average_ice_time,year,games_played,shotsPercentage,win,power_play_goals,points,plus_minus
+0,0,NYR,0,0,22,0,,NHL,0,0,,1968-69,1,0,,0,0,1
+0,0,NYR,0,2,23,0,,NHL,0,3,,1969-70,5,0.0,,0,0,-1
+0,1,EDO,1,15,27,0,,WHA,0,0,,1973-74,4,0,,0,2,0
+0,1,EDO,0,6,29,0,,WHA,0,0,,1975-76,4,0,,0,1,-2
+0,4,EDO,0,4,30,0,,WHA,0,0,,1976-77,5,0,,0,4,1
+0,5,EDO,4,4,32,0,,WHA,0,0,,1978-79,13,0,,0,9,1
+0,0,EDM,0,0,33,0,,NHL,0,2,,1979-80,1,0.0,,0,0,0

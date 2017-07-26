@@ -1,0 +1,11 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHL,5,Sault Ste. Marie Greyhounds,268,18,1,0,0,13,0,0,0,1,3,0,0,0,0,0,1990-91,0,2.91,0,0
+0,M-Cup,2,Sault Ste. Marie Greyhounds,114,18,2,0,0,8,0,0,0,0,0,0,0,0,0,0,1990-91,0,4.21,0,0
+0,OHL,11,Sudbury Wolves,651,19,7,0,0,38,0,0,0,0,4,0,0,0,0,0,1991-92,0,3.50,0,0
+0,AHL,1,Springfield Indians,39,19,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1991-92,0,3.08,0,0
+0,AHL,2,Springfield Indians,100,20,0,0,0,5,0,0,0,0,1,0,0,0,0,0,1992-93,0,3.00,0,0
+0,ColHL,5,London Blues,274,22,2,0,0,20,0,0,0,0,1,0,0,0,0,0,1994-95,0,4.38,0,0
+0,ColHL,5,Saginaw Wheels,299,23,4,0,0,19,0,0,0,0,1,0,0,0,0,0,1995-96,0,3.81,0,0
+0,ECHL,1,Mobile Mysticks,60,24,1,0,0,4,0,0,0,0,0,0,0,0,0,0,1996-97,0,4.00,0,0
+0,ECHL,3,Mobile Mysticks,133,25,2,0,0,11,0,0,0,0,0,0,0,0,0,0,1997-98,0,4.96,0,0
+0,ECHL,2,Baton Rouge Kingfish,133,27,2,0,0,11,0,0,0,0,0,0,0,0,0,.825,1999-00,63,4.96,0,52

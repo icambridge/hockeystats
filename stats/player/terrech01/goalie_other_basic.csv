@@ -1,0 +1,16 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,ECAC,11,Providence College,528,18,1,0,0,17,0,0,0,2,7,0,0,0,0,0,1982-83,0,1.93,0,0
+0,ECAC,10,Providence College,391,19,2,0,0,20,0,0,0,0,4,0,0,0,0,0,1983-84,0,3.07,0,0
+0,H-East,33,Providence College,1956,20,13,0,0,116,0,0,5,1,15,0,0,0,0,0,1984-85,0,3.56,0,0
+0,WEC-A,3,United States,111,20,0,0,0,12,0,0,0,0,0,0,0,0,0,0,1984-85,0,6.49,0,0
+0,H-East,22,Providence College,1320,21,16,0,0,84,0,0,0,0,6,0,0,0,0,0,1985-86,0,3.82,0,0
+0,WEC-A,5,United States,286,21,0,0,0,20,0,0,0,1,0,0,0,0,0,0,1985-86,0,4.20,0,0
+0,AHL,14,Maine Mariners,765,22,9,0,0,57,0,0,1,0,4,0,0,0,0,0,1986-87,0,4.47,0,0
+0,WEC-A,2,United States,100,22,0,0,0,12,0,0,0,0,0,0,0,0,0,0,1986-87,0,7.20,0,0
+0,AHL,7,Utica Devils,399,23,1,0,0,18,0,0,0,0,5,0,0,0,0,0,1987-88,0,2.71,0,0
+0,Nat-Tm,26,United States,1430,23,7,0,0,81,0,0,2,0,17,0,0,0,0,0,1987-88,0,3.40,0,0
+0,Olympics,3,United States,127,23,1,0,0,14,0,0,0,0,1,0,0,0,0,0,1987-88,0,6.61,0,0
+0,AHL,39,Utica Devils,2314,24,15,0,0,132,0,0,3,0,20,0,0,0,0,0,1988-89,0,3.42,0,0
+0,WC-A,6,United States,357,32,3,0,0,16,0,0,1,0,2,0,0,0,0,0,1996-97,0,2.69,0,0
+0,IHL,3,Indianapolis Ice,180,33,0,0,0,3,0,0,1,1,2,0,0,0,0,.972,1997-98,108,1.00,0,105
+0,AHL,1,Albany River Rats,40,41,1,0,0,4,0,0,0,0,0,0,0,0,0,0,2005-06,0,6.00,0,0

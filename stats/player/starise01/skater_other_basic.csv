@@ -1,0 +1,37 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1975-76,17,0,6,0,0,EJC-A,4,Soviet Union,0
+1976-77,18,2,28,4,0,USSR,35,Traktor Chelyabinsk,6
+1976-77,18,1,8,2,0,WJC-A,7,Soviet Union,3
+1977-78,19,3,26,5,0,USSR,36,Traktor Chelyabinsk,8
+1977-78,19,1,2,5,0,WJC-A,7,Soviet Union,6
+1978-79,20,6,34,8,0,USSR,44,Traktor Chelyabinsk,14
+1978-79,20,1,4,3,0,Super-S,4,Krylja Sovetov Moscow,4
+1978-79,20,0,0,1,0,Ch-Cup,3,Soviet Union,1
+1978-79,20,0,2,1,0,WEC-A,1,Soviet Union,1
+1979-80,21,10,14,8,0,USSR,39,CSKA Moscow,18
+1979-80,21,0,0,2,0,Super-S,5,CSKA Moscow,2
+1979-80,21,1,0,6,0,Olympics,7,Soviet Union,7
+1980-81,22,4,26,8,0,USSR,49,CSKA Moscow,12
+1981-82,23,1,14,4,0,USSR,40,CSKA Moscow,5
+1982-83,24,6,14,14,0,USSR,44,CSKA Moscow,20
+1982-83,24,1,2,0,0,Super-S,5,Soviet Union,1
+1982-83,24,1,0,4,0,WEC-A,10,Soviet Union,5
+1983-84,25,11,20,7,0,USSR,44,CSKA Moscow,18
+1983-84,25,1,2,1,0,Olympics,7,Soviet Union,2
+1984-85,26,0,2,3,0,Can-Cup,6,Soviet Union,3
+1984-85,26,3,12,10,0,USSR,40,CSKA Moscow,13
+1984-85,26,0,2,4,0,WEC-A,10,Soviet Union,4
+1985-86,27,3,6,2,0,USSR,37,CSKA Moscow,5
+1985-86,27,0,0,0,0,Super-S,6,CSKA Moscow,0
+1985-86,27,0,0,2,0,WEC-A,10,Soviet Union,2
+1986-87,28,4,8,2,0,USSR,34,CSKA Moscow,6
+1986-87,28,0,0,1,0,RV-87,2,Soviet Union,1
+1986-87,28,4,8,2,0,WEC-A,10,Soviet Union,6
+1987-88,29,2,12,11,0,USSR,38,CSKA Moscow,13
+1987-88,29,0,4,2,0,Olympics,5,Soviet Union,2
+1988-89,30,3,4,3,0,USSR,30,CSKA Moscow,6
+1988-89,30,0,2,2,0,Super-S,5,CSKA Moscow,2
+1989-90,31,8,14,11,0,AHL,43,Utica Devils,19
+1990-91,32,2,26,7,0,AHL,51,Utica Devils,9
+1991-92,33,7,42,31,0,IHL,70,San Diego Gulls,38
+1992-93,34,0,12,9,0,IHL,42,San Diego Gulls,9

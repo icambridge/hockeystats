@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1906-04-28,", ",RW,Henry Harris,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",RW,1906-04-28,Henry Harris

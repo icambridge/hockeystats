@@ -1,0 +1,4 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,SJHL,6,Regina Pats,360,18,4,0,0,26,0,0,0,0,2,0,0,0,0,0,1966-67,0,4.33,0,0
+0,IHL,11,Muskegon Mohawks,617,23,0,0,0,29,0,0,0,0,0,0,0,0,0,0,1971-72,0,2.82,0,0
+0,CHL,5,Fort Worth Wings,300,25,4,0,0,21,0,0,0,0,1,0,0,0,0,0,1973-74,0,4.20,0,0

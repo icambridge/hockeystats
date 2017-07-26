@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1943-08-16,", ",RW,Nick Harbaruk,R
+handed,heigh_and_weight,position,date_of_birth,name
+R,", ",RW,1943-08-16,Nick Harbaruk

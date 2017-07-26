@@ -1,12 +1,12 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-51,Kingston Aces,16,0,33,OHA-Sr.,27,1969-70,20,17
-105,Oklahoma City Blazers,18,0,27,CHL,70,1970-71,21,9
-20,Oklahoma City Blazers,3,0,5,CHL,10,1971-72,22,2
-57,Dayton Gems,25,0,57,IHL,50,1971-72,22,32
-89,Hershey Bears,27,0,50,AHL,70,1972-73,23,23
-101,Hershey Bears,38,0,66,AHL,76,1973-74,24,28
-30,Baltimore Clippers,11,0,15,AHL,36,1974-75,25,4
-20,Fort Worth Texans,9,0,18,CHL,28,1974-75,25,9
-59,2 Teams,10,0,32,AHL,60,1975-76,26,22
-49,Springfield Indians,9,0,24,AHL,44,1975-76,26,15
-10,Baltimore Clippers,1,0,8,AHL,16,1975-76,26,7
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+16,Kingston Aces,17,1969-70,27,33,51,20,0,OHA-Sr.
+18,Oklahoma City Blazers,9,1970-71,70,27,105,21,0,CHL
+3,Oklahoma City Blazers,2,1971-72,10,5,20,22,0,CHL
+25,Dayton Gems,32,1971-72,50,57,57,22,0,IHL
+27,Hershey Bears,23,1972-73,70,50,89,23,0,AHL
+38,Hershey Bears,28,1973-74,76,66,101,24,0,AHL
+11,Baltimore Clippers,4,1974-75,36,15,30,25,0,AHL
+9,Fort Worth Texans,9,1974-75,28,18,20,25,0,CHL
+10,2 Teams,22,1975-76,60,32,59,26,0,AHL
+9,Springfield Indians,15,1975-76,44,24,49,26,0,AHL
+1,Baltimore Clippers,7,1975-76,16,8,10,26,0,AHL

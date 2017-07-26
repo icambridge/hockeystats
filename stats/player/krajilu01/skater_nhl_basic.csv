@@ -1,0 +1,10 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+0,NHL,5,0,18,0,0,3,0,0,0,67,FLA,0,0,[],0.0,0,0,0,0,0,0,2001-02,0,13:23,0,0,0,0
+0,NHL,18,0,20,0,0,16,7,0,4,244,FLA,0,0,[],6.3,0,6,-2,1,0,0,2003-04,0,13:32,1,12,0,2
+0,NHL,67,0,22,0,0,89,16,0,7,1240,FLA,0,0,[],2.2,0,14,1,2,0,0,2005-06,0,18:30,2,50,1,6
+0,NHL,78,2,23,0,0,105,16,0,4,1444,VAN,0,0,[],2.9,2,13,-4,3,0,0,2006-07,0,18:31,1,64,0,9
+14,NHL,39,0,24,0,66,28,11,27,4,709,VAN,4,0,[],7.1,1,9,-3,2,0,0,2007-08,54,18:10,1,36,0,5
+49,NHL,71,0,25,0,136,66,19,54,2,1393,TBL,22,0,[],3.0,2,17,-8,2,0,0,2008-09,90,19:37,0,48,1,14
+30,NHL,50,0,26,0,77,42,3,33,0,861,TOT,9,0,[],2.4,1,2,-14,1,0,0,2009-10,72,17:14,0,35,0,2
+14,NHL,23,0,26,0,31,17,1,21,0,403,TBL,6,0,[],0.0,0,1,-4,0,0,0,2009-10,33,17:32,0,21,0,1
+16,NHL,27,0,26,0,46,25,2,12,0,458,PHI,3,0,[],4.0,1,1,-10,1,0,0,2009-10,39,16:58,0,14,0,1

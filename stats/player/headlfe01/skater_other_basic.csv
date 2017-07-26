@@ -1,21 +1,21 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-4,Saskatoon Quakers,1,0,7,N-SSHL,3,1919-20,18,6
-0,Saskatoon Collegiate,2,0,8,N-SJHL,4,1920-21,19,6
-2,Saskatoon 5th Battalion,2,0,9,N-SSHL,9,1921-22,20,7
-4,Saskatoon Sheiks,0,0,2,WCHL,10,1922-23,21,2
-6,Saskatoon Crescents,0,0,2,WCHL,20,1923-24,22,2
-47,Calgary Tigers,1,0,3,WHL,29,1925-26,24,2
-30,Calgary Tigers,10,0,26,PrHL,30,1926-27,25,16
-37,Minneapolis Millers,5,0,11,AHA,37,1927-28,26,6
-54,St. Louis Flyers,11,0,25,AHA,40,1928-29,27,14
-47,St. Louis Flyers,6,0,11,AHA,48,1929-30,28,5
-44,Chicago Shamrocks,8,0,13,AHA,47,1930-31,29,5
-50,Chicago Shamrocks,5,0,11,AHA,47,1931-32,30,6
-37,Duluth/Wichita,9,0,19,AHA,41,1932-33,31,10
-34,Tulsa Oilers,2,0,8,AHA,32,1933-34,32,6
-31,Tulsa Oilers,11,0,16,AHA,48,1934-35,33,5
-33,Tulsa Oilers,4,0,5,AHA,43,1935-36,34,1
-19,2 Teams,1,0,2,AHA,25,1936-37,35,1
-13,Kansas City Greyhounds,1,0,2,AHA,7,1936-37,35,1
-6,Tulsa Oilers,0,0,0,AHA,18,1936-37,35,0
-36,Wichita Skyhawks,7,0,13,AHA,33,1938-39,37,6
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+1,Saskatoon Quakers,6,1919-20,3,7,4,18,0,N-SSHL
+2,Saskatoon Collegiate,6,1920-21,4,8,0,19,0,N-SJHL
+2,Saskatoon 5th Battalion,7,1921-22,9,9,2,20,0,N-SSHL
+0,Saskatoon Sheiks,2,1922-23,10,2,4,21,0,WCHL
+0,Saskatoon Crescents,2,1923-24,20,2,6,22,0,WCHL
+1,Calgary Tigers,2,1925-26,29,3,47,24,0,WHL
+10,Calgary Tigers,16,1926-27,30,26,30,25,0,PrHL
+5,Minneapolis Millers,6,1927-28,37,11,37,26,0,AHA
+11,St. Louis Flyers,14,1928-29,40,25,54,27,0,AHA
+6,St. Louis Flyers,5,1929-30,48,11,47,28,0,AHA
+8,Chicago Shamrocks,5,1930-31,47,13,44,29,0,AHA
+5,Chicago Shamrocks,6,1931-32,47,11,50,30,0,AHA
+9,Duluth/Wichita,10,1932-33,41,19,37,31,0,AHA
+2,Tulsa Oilers,6,1933-34,32,8,34,32,0,AHA
+11,Tulsa Oilers,5,1934-35,48,16,31,33,0,AHA
+4,Tulsa Oilers,1,1935-36,43,5,33,34,0,AHA
+1,2 Teams,1,1936-37,25,2,19,35,0,AHA
+1,Kansas City Greyhounds,1,1936-37,7,2,13,35,0,AHA
+0,Tulsa Oilers,0,1936-37,18,0,6,35,0,AHA
+7,Wichita Skyhawks,6,1938-39,33,13,36,37,0,AHA

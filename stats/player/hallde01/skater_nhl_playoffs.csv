@@ -1,2 +1,2 @@
-shorthanded_goals,power_play_goals,year,team,average_ice_time,age,points,shotsPercentage,assists,league,pim,game_winning_goals,goals,win,plus_minus,total_ice_time,games_played,even_strength_goals,shots
-0,0,1975-76,PHR,,26,5,0,3,WHA,0,0,2,,-5,,5,0,0
+even_strength_goals,assists,team,goals,pim,age,game_winning_goals,total_ice_time,league,shorthanded_goals,shots,average_ice_time,year,games_played,shotsPercentage,win,power_play_goals,points,plus_minus
+0,3,PHR,2,0,26,0,,WHA,0,0,,1975-76,5,0,,0,5,-5

@@ -1,18 +1,18 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-15,1980-81,Brantford Alexanders,5,0,19,6,6,1,OMJHL
-13,1981-82,Brampton Battalion,9,0,20,11,24,15,OHL
-2,1982-83,Maine Mariners,7,0,21,17,9,2,AHL
-26,1985-86,New Haven Nighthawks,1,0,24,3,1,0,AHL
-2,1986-87,Hershey Bears,2,0,25,5,2,0,AHL
-21,1987-88,Maine Mariners,7,0,26,10,12,5,AHL
-26,1988-89,Rogle BK Angelholm,2,0,27,3,4,2,Sweden-2
-6,1990-91,Binghamton Rangers,1,0,29,4,1,0,AHL
-17,1991-92,San Diego Gulls,2,0,30,4,2,0,IHL
-2,1992-93,San Diego Gulls,2,0,31,10,4,2,IHL
-2,1993-94,Krefelder EV,0,0,32,3,2,2,Germany
-0,1994-95,Detroit Vipers,1,0,33,1,1,0,IHL
-7,1995-96,Heilbronner EC,4,0,34,7,9,5,German-2
-10,1997-98,San Diego Gulls,7,0,36,12,14,7,WCHL
-4,1998-99,San Diego Gulls,12,0,37,12,16,4,WCHL
-8,1999-00,Phoenix Mustangs,10,0,38,12,13,3,WCHL
-8,2000-01,Phoenix Mustangs,10,0,39,12,13,3,WCHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+5,Brantford Alexanders,1,1980-81,6,6,15,19,0,OMJHL
+9,Brampton Battalion,15,1981-82,11,24,13,20,0,OHL
+7,Maine Mariners,2,1982-83,17,9,2,21,0,AHL
+1,New Haven Nighthawks,0,1985-86,3,1,26,24,0,AHL
+2,Hershey Bears,0,1986-87,5,2,2,25,0,AHL
+7,Maine Mariners,5,1987-88,10,12,21,26,0,AHL
+2,Rogle BK Angelholm,2,1988-89,3,4,26,27,0,Sweden-2
+1,Binghamton Rangers,0,1990-91,4,1,6,29,0,AHL
+2,San Diego Gulls,0,1991-92,4,2,17,30,0,IHL
+2,San Diego Gulls,2,1992-93,10,4,2,31,0,IHL
+0,Krefelder EV,2,1993-94,3,2,2,32,0,Germany
+1,Detroit Vipers,0,1994-95,1,1,0,33,0,IHL
+4,Heilbronner EC,5,1995-96,7,9,7,34,0,German-2
+7,San Diego Gulls,7,1997-98,12,14,10,36,0,WCHL
+12,San Diego Gulls,4,1998-99,12,16,4,37,0,WCHL
+10,Phoenix Mustangs,3,1999-00,12,13,8,38,0,WCHL
+10,Phoenix Mustangs,3,2000-01,12,13,8,39,0,WCHL

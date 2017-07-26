@@ -1,0 +1,5 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,38,0,24,36,7,0,509,ATL,[],8.3,3,4,-8,3,0,1999-00,13:24,0,6,0,4
+NHL,69,1,25,98,21,1,1015,ATL,[],10.2,8,11,-6,10,2,2000-01,14:42,0,20,0,10
+NHL,78,0,26,80,15,0,1043,ATL,[],3.8,3,12,-12,3,0,2001-02,13:22,0,24,1,11
+NHL,62,0,27,47,8,0,730,ATL,[],2.1,1,7,-11,1,0,2002-03,11:46,0,8,2,5

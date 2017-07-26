@@ -1,13 +1,13 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-0,,RW,,0,0,0,0,24,0,16,6,Billy Boucher,5.0,0.9,22,0,48,,23,0,4.1,0,/players/b/bouchbi01.html
-0,,LW,,0,0,0,0,22,0,15,5,Aurele Joliat,4.5,0.9,20,0,27,,24,0,3.6,0,/players/j/joliaau01.html
-0,,C,,0,0,0,0,21,0,13,3,Howie Morenz,3.6,0.9,16,0,20,,24,0,2.7,0,/players/m/morenho01.html
-0,,D,,0,0,0,0,33,0,8,4,Sprague Cleghorn,5.2,3.5,12,0,45,,23,0,1.7,0,/players/c/cleghsp01.html
-0,,RW/C,,0,0,0,0,32,0,2,5,Odie Cleghorn,0.6,0.8,7,0,16,,22,0,-0.3,0,/players/c/cleghod01.html
-0,,D,,0,0,0,0,31,0,3,1,Billy Coutu,2.6,2.4,4,0,18,,16,0,0.2,0,/players/c/coutubi01.html
-0,,D,,0,0,0,0,21,0,1,3,Sylvio Mantha,3.0,3.6,4,0,11,,24,0,-0.6,0,/players/m/manthsy01.html
-0,,F,,0,0,0,0,19,0,1,0,Bobby Boucher,-0.1,0.4,1,0,0,,11,0,-0.5,0,/players/b/bouchbo01.html
-0,,F,,0,0,0,0,32,0,0,0,Billy Bell,-0.4,0.4,0,0,0,,11,0,-0.8,0,/players/b/bellbi01.html
-0,,RW,,0,0,0,0,27,0,0,0,Billy Cameron,-0.7,0.7,0,0,2,,18,0,-1.3,0,/players/c/camerbi01.html
-0,,C,,0,0,0,0,33,0,0,0,Joe Malone,-0.4,0.4,0,0,0,,10,0,-0.7,0,/players/m/malonjo01.html
-0,,G,,0,0,0,0,37,0,0,0,Georges Vezina,5.7,0.0,0,0,0,,24,0,0.0,0,/players/v/vezinge01.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+6,0,16,24,,4.1,0.9,0,,0,RW,5.0,0,MTL,/players/b/bouchbi01.html,0,48,0,0,Billy Boucher,,1924,22,0,23,0
+5,0,15,22,,3.6,0.9,0,,0,LW,4.5,0,MTL,/players/j/joliaau01.html,0,27,0,0,Aurele Joliat,,1924,20,0,24,0
+3,0,13,21,,2.7,0.9,0,,0,C,3.6,0,MTL,/players/m/morenho01.html,0,20,0,0,Howie Morenz,,1924,16,0,24,0
+4,0,8,33,,1.7,3.5,0,,0,D,5.2,0,MTL,/players/c/cleghsp01.html,0,45,0,0,Sprague Cleghorn,,1924,12,0,23,0
+5,0,2,32,,-0.3,0.8,0,,0,RW/C,0.6,0,MTL,/players/c/cleghod01.html,0,16,0,0,Odie Cleghorn,,1924,7,0,22,0
+1,0,3,31,,0.2,2.4,0,,0,D,2.6,0,MTL,/players/c/coutubi01.html,0,18,0,0,Billy Coutu,,1924,4,0,16,0
+3,0,1,21,,-0.6,3.6,0,,0,D,3.0,0,MTL,/players/m/manthsy01.html,0,11,0,0,Sylvio Mantha,,1924,4,0,24,0
+0,0,1,19,,-0.5,0.4,0,,0,F,-0.1,0,MTL,/players/b/bouchbo01.html,0,0,0,0,Bobby Boucher,,1924,1,0,11,0
+0,0,0,32,,-0.8,0.4,0,,0,F,-0.4,0,MTL,/players/b/bellbi01.html,0,0,0,0,Billy Bell,,1924,0,0,11,0
+0,0,0,27,,-1.3,0.7,0,,0,RW,-0.7,0,MTL,/players/c/camerbi01.html,0,2,0,0,Billy Cameron,,1924,0,0,18,0
+0,0,0,33,,-0.7,0.4,0,,0,C,-0.4,0,MTL,/players/m/malonjo01.html,0,0,0,0,Joe Malone,,1924,0,0,10,0
+0,0,0,37,,0.0,0.0,0,,0,G,5.7,0,MTL,/players/v/vezinge01.html,0,0,0,0,Georges Vezina,,1924,0,0,24,0

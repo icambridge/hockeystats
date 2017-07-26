@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1946-47,18,5,4,6,0,MJHL,16,Winnipeg Rangers,11
+1947-48,19,12,10,5,0,MJHL,22,Winnipeg Black Hawks,17
+1948-49,20,16,49,20,0,MJHL,28,Winnipeg Black Hawks,36
+1949-50,21,0,0,1,0,WCSHL,8,Regina Capitals,1
+1949-50,21,20,45,7,0,OSHL,33,Kamloops Elks,27
+1950-51,22,22,71,23,0,WCMHL,48,Edmonton Flyers,45
+1951-52,23,5,11,2,0,AHL,14,St. Louis Flyers,7
+1952-53,24,21,66,20,0,WHL,60,Calgary Stampeders,41
+1953-54,25,19,52,36,0,WHL,69,Calgary Stampeders,55
+1954-55,26,26,61,37,0,WHL,60,Calgary Stampeders,63
+1955-56,27,30,76,34,0,WHL,66,Calgary Stampeders,64
+1956-57,28,17,55,18,0,WHL,47,Calgary Stampeders,35
+1957-58,29,27,43,46,0,WHL,65,2 Teams,73
+1957-58,29,16,29,24,0,WHL,39,Calgary Stampeders,40
+1957-58,29,11,14,22,0,WHL,26,Winnipeg Warriors,33
+1958-59,30,12,43,33,0,WHL,62,Winnipeg Warriors,45
+1959-60,31,20,40,27,0,WHL,62,Winnipeg Warriors,47
+1960-61,32,28,79,24,0,WHL,67,Spokane Comets,52
+1961-62,33,26,49,40,0,WHL,64,Spokane Comets,66
+1962-63,34,21,96,33,0,WHL,66,Spokane Comets,54
+1963-64,35,25,62,28,0,WHL,70,Denver Invaders,53
+1964-65,36,11,37,21,0,WHL,56,Victoria Maple Leafs,32
+1965-66,37,6,47,16,0,WHL,72,Victoria Maple Leafs,22
+1966-67,38,5,34,10,0,WHL,59,Victoria Maple Leafs,15
+1967-68,39,20,57,34,0,WIHL,41,Spokane Jets,54
+1968-69,40,6,30,18,0,WIHL,40,Spokane Jets,24

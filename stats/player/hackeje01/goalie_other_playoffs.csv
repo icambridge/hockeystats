@@ -1,5 +1,5 @@
-ties,assists,points,games_started,league,pim,goals,goals_allowed_average,loses,saves,games_played,good_start_precentages,goals_allowed_precentage,bad_start,saves_percentage,year,team,goals_saved_aboved_average,goals_allowed,shots_againist,shutouts,age,good_starts,minutes,wins
-0,0,0,0,OHL,0,0,2.68,7,0,15,0,0,0,0,1986-87,Oshawa Generals,0,40,0,0,18,0,895,8
-0,0,0,0,M-Cup,0,0,4.00,1,0,3,0,0,0,0,1986-87,Oshawa Generals,0,12,0,0,18,0,180,2
-0,0,0,0,OHL,0,0,4.25,4,0,7,0,0,0,0,1987-88,Oshawa Generals,0,31,0,0,19,0,438,3
-0,0,0,0,AHL,0,0,3.85,5,0,17,0,0,0,0,1989-90,Springfield Indians,0,60,0,0,21,0,934,10
+goals_allowed_precentage,goals_saved_aboved_average,bad_start,year,goals_allowed,minutes,ties,pim,good_starts,saves,shots_againist,assists,team,shutouts,goals,games_started,goals_allowed_average,age,league,saves_percentage,good_start_precentages,games_played,points,wins,loses
+0,0,0,1986-87,40,895,0,0,0,0,0,0,Oshawa Generals,0,0,0,2.68,18,OHL,0,0,15,0,8,7
+0,0,0,1986-87,12,180,0,0,0,0,0,0,Oshawa Generals,0,0,0,4.00,18,M-Cup,0,0,3,0,2,1
+0,0,0,1987-88,31,438,0,0,0,0,0,0,Oshawa Generals,0,0,0,4.25,19,OHL,0,0,7,0,3,4
+0,0,0,1989-90,60,934,0,0,0,0,0,0,Springfield Indians,0,0,0,3.85,21,AHL,0,0,17,0,10,5

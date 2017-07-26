@@ -1,0 +1,6 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,Germany,2,Adler Mannheim,34,19,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2002-03,0,3.53,0,0
+0,ECHL,1,Johnstown Chiefs,59,20,1,0,0,2,0,0,0,0,0,0,0,0,0,.938,2003-04,32,2.03,0,30
+0,AHL,4,Worcester Sharks,256,23,1,0,0,8,0,0,0,0,2,0,0,0,0,0,2006-07,0,1.88,2,-8
+0,Germany,10,Hannover Scorpions,625,25,4,0,0,24,0,0,0,1,6,0,0,0,0,0,2008-09,0,2.30,0,0
+0,Germany,10,ERC Ingolstadt,612,26,5,0,0,31,0,0,0,1,5,0,0,0,0,0,2009-10,0,3.04,0,0

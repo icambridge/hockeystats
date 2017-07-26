@@ -1,2 +1,2 @@
-power_play_goals,assists,points,power_play_assists,league,even_strength_assists,game_winning_goals,shorthanded_goals,shotsPercentage,games_played,average_ice_time,year,team,age,plus_minus,shorthanded_assists,even_strength_goals,pim,awards,total_ice_time,goals,shots
-0,3,4,0,WHA,0,0,0,11.1,14,,1977-78,CNS,28,2,0,1,42,[],,1,9
+shotsPercentage,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,age,game_winning_goals,league,shorthanded_goals,average_ice_time,games_played,points,awards,power_play_goals
+11.1,1977-78,42,0,,0,9,0,1,2,3,CNS,1,28,0,WHA,0,,14,4,[],0

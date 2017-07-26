@@ -1,0 +1,8 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,ECHL,4,Las Vegas Wranglers,173,22,1,0,0,9,0,0,0,0,1,0,0,0,0,.905,2005-06,95,3.12,0,86
+0,ECHL,0,Las Vegas Wranglers,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2006-07,0,0,4,0
+0,ECHL,6,Las Vegas Wranglers,358,23,3,0,0,15,0,0,0,0,3,0,0,0,0,.913,2006-07,173,2.51,0,158
+0,AHL,6,Portland Pirates,320,24,4,0,0,18,0,0,0,0,2,0,0,0,0,.886,2007-08,158,3.38,0,140
+0,AHL,5,Lowell Devils,317,26,4,0,0,17,0,0,0,0,1,0,0,0,0,.902,2009-10,173,3.22,0,156
+0,AHL,0,Springfield Falcons,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2013-14,0,0,0,0
+0,AHL,0,Portland Pirates,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014-15,0,0,0,0

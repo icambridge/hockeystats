@@ -1,0 +1,14 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,1,0,20,0,0,0,,TOR,[],0,0,0,0,0,0,1947-48,,0,0,0,0
+NHL,29,0,21,0,7,0,,TOR,[],0,0,4,0,3,0,1948-49,,0,0,0,0
+NHL,0,0,23,0,56,0,,TOR,[],0,0,25,0,31,0,1950-51,,0,105,0,0
+NHL,68,0,24,0,48,0,,TOR,[],0,0,23,0,25,0,1951-52,,0,89,0,0
+NHL,0,0,25,0,25,0,,TOR,[],0,0,10,0,15,0,1952-53,,0,76,0,0
+NHL,67,0,26,0,43,0,,TOR,[],0,0,32,0,11,0,1953-54,,0,100,0,0
+NHL,63,0,27,0,28,0,,TOR,[],0,0,15,0,13,0,1954-55,,0,89,0,0
+NHL,70,0,28,0,66,0,,TOR,"[{'link': '/awards/nhl_all_star.html#1956', 'name': None}, {'link': '/awards/voting-1956.html#hart', 'name': 'Hart-2'}]",0,0,29,0,37,0,1955-56,,0,100,0,0
+NHL,52,0,29,0,35,0,,TOR,[],0,0,21,0,14,0,1956-57,,0,33,0,0
+NHL,59,0,30,0,38,0,,TOR,[],0,0,25,0,13,0,1957-58,,0,58,0,0
+NHL,59,0,31,0,62,0,,CBH,[],0,0,35,0,27,0,1958-59,,0,79,0,0
+NHL,0,0,32,0,40,0,,CBH,[],0,0,20,0,20,0,1959-60,,0,54,0,0
+NHL,67,0,33,0,34,0,,CBH,[],0,0,23,0,11,0,1960-61,,0,48,0,0

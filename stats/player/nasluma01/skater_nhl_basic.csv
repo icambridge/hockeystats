@@ -1,0 +1,10 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,74,6,23,122,71,10,,MTL,"[{'link': '/awards/voting-1983.html#AS', 'name': 'AS-10'}, {'link': '/awards/voting-1983.html#byng', 'name': 'Byng-9'}, {'link': '/awards/voting-1983.html#calder', 'name': 'Calder-6'}]",21.3,25,45,34,26,0,1982-83,,1,10,0,35
+NHL,77,1,24,146,64,11,,MTL,"[{'link': '/awards/voting-1984.html#AS', 'name': 'AS-15'}, {'link': '/awards/voting-1984.html#byng', 'name': 'Byng-8'}, {'link': '/awards/voting-1984.html#selke', 'name': 'Selke-16'}]",19.9,26,35,5,29,0,1983-84,,3,4,1,23
+NHL,0,8,25,179,79,14,,MTL,"[{'link': '/awards/voting-1985.html#AS', 'name': 'AS-6'}, {'link': '/awards/voting-1985.html#byng', 'name': 'Byng-5'}, {'link': '/awards/voting-1985.html#selke', 'name': 'Selke-25'}]",23.5,31,37,19,42,2,1984-85,,9,14,0,23
+NHL,80,7,26,223,110,30,,MTL,"[{'link': '/awards/nhl_all_star.html#1986', 'name': None}, {'link': '/awards/voting-1986.html#AS', 'name': 'AS-11'}, {'link': '/awards/voting-1986.html#byng', 'name': 'Byng-3'}]",19.3,24,67,11,43,0,1985-86,,19,16,0,37
+NHL,79,3,27,173,80,30,,MTL,"[{'link': '/awards/voting-1987.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-1987.html#byng', 'name': 'Byng-6'}]",14.5,15,55,-3,25,0,1986-87,,10,16,0,25
+NHL,78,2,28,167,83,23,,MTL,"[{'link': '/awards/voting-1988.html#AS', 'name': 'AS-3'}, {'link': '/awards/byng.html#1988', 'name': None}]",14.4,20,59,17,24,0,1987-88,,4,14,0,36
+NHL,77,4,29,165,84,12,,MTL,"[{'link': '/awards/voting-1989.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1989.html#byng', 'name': 'Byng-3'}, {'link': '/awards/voting-1989.html#selke', 'name': 'Selke-17'}]",20.0,19,51,34,33,0,1988-89,,14,14,0,39
+NHL,72,3,30,136,41,4,,MTL,"[{'link': '/awards/voting-1990.html#byng', 'name': 'Byng-18'}]",15.4,15,20,3,21,0,1989-90,,6,19,0,16
+NHL,34,1,35,48,22,9,,BOS,[],16.7,6,14,-4,8,0,1994-95,,2,4,0,5

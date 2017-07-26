@@ -1,18 +1,18 @@
-ties,assists,points,games_started,league,pim,goals,goals_allowed_average,loses,saves,games_played,good_start_precentages,goals_allowed_precentage,bad_start,saves_percentage,year,team,goals_saved_aboved_average,goals_allowed,shots_againist,shutouts,age,good_starts,minutes,wins
-3,0,0,0,Minor-ON,0,0,0,7,0,38,0,0,0,0,2006-07,London Jr. Knights,0,52,0,20,16,0,0,28
-0,0,0,0,ON-Jr.B,0,0,4.19,7,0,16,0,0,0,0,2006-07,St. Catharines Falcons,0,63,0,0,16,0,902,7
-0,0,0,0,OHL,2,0,5.03,7,0,7,0,0,0,0,2006-07,Windsor Spitfires,0,36,0,0,16,0,429,0
-1,0,0,0,OHL,2,0,3.57,10,0,22,0,0,0,0,2007-08,2 Teams,0,66,0,0,17,0,1108,7
-0,0,0,0,OHL,0,0,4.62,1,0,4,0,0,0,0,2007-08,Windsor Spitfires,0,10,0,0,17,0,130,1
-1,0,0,0,OHL,2,0,3.44,9,0,18,0,0,0,0,2007-08,Plymouth Whalers,0,56,0,0,17,0,978,6
-3,1,0,0,OHL,6,0,3.04,15,0,55,0,0,0,0,2008-09,Plymouth Whalers,0,154,0,2,18,0,3036,34
-3,3,3,0,OHL,10,0,2.62,18,1710,56,0,0,0,.925,2009-10,Plymouth Whalers,0,138,1848,4,19,0,3165,33
-4,0,0,0,AHL,18,0,2.37,16,1106,45,0,0,0,.916,2010-11,Houston Aeros,0,101,1207,2,20,0,2552,23
-6,0,0,0,AHL,12,0,2.38,17,1116,44,0,0,0,.917,2011-12,Houston Aeros,0,101,1217,1,21,0,2546,20
-3,1,1,0,AHL,10,0,2.59,20,1213,46,0,0,0,.911,2012-13,2 Teams,0,119,1332,0,22,0,2759,22
-3,0,0,0,AHL,10,0,2.66,20,1108,43,0,0,0,.907,2012-13,Houston Aeros,0,114,1222,0,22,0,2574,19
-0,1,1,0,AHL,0,0,1.62,0,105,3,0,0,0,.955,2012-13,Rochester Americans,0,5,110,0,22,0,185,3
-0,0,0,0,Spengler Cup,0,0,0,0,0,0,0,0,0,0,2013-14,Rochester Americans,0,0,0,0,23,0,0,0
-0,0,0,0,AHL,0,0,0,0,0,0,0,0,0,0,2013-14,Rochester Americans,0,0,0,0,23,0,0,0
-0,0,0,0,Spengler Cup,0,0,0,0,0,0,0,0,0,0,2013-14,Team Canada,0,0,0,0,23,0,0,0
-0,0,0,0,AHL,0,0,0,0,0,0,0,0,0,0,2014-15,Rochester Americans,0,0,0,0,24,0,0,0
+goals_allowed_precentage,goals_saved_aboved_average,bad_start,year,goals_allowed,minutes,ties,pim,good_starts,saves,shots_againist,assists,team,shutouts,goals,games_started,goals_allowed_average,age,league,saves_percentage,good_start_precentages,games_played,points,wins,loses
+0,0,0,2006-07,52,0,3,0,0,0,0,0,London Jr. Knights,20,0,0,0,16,Minor-ON,0,0,38,0,28,7
+0,0,0,2006-07,63,902,0,0,0,0,0,0,St. Catharines Falcons,0,0,0,4.19,16,ON-Jr.B,0,0,16,0,7,7
+0,0,0,2006-07,36,429,0,2,0,0,0,0,Windsor Spitfires,0,0,0,5.03,16,OHL,0,0,7,0,0,7
+0,0,0,2007-08,66,1108,1,2,0,0,0,0,2 Teams,0,0,0,3.57,17,OHL,0,0,22,0,7,10
+0,0,0,2007-08,10,130,0,0,0,0,0,0,Windsor Spitfires,0,0,0,4.62,17,OHL,0,0,4,0,1,1
+0,0,0,2007-08,56,978,1,2,0,0,0,0,Plymouth Whalers,0,0,0,3.44,17,OHL,0,0,18,0,6,9
+0,0,0,2008-09,154,3036,3,6,0,0,0,1,Plymouth Whalers,2,0,0,3.04,18,OHL,0,0,55,0,34,15
+0,0,0,2009-10,138,3165,3,10,0,1710,1848,3,Plymouth Whalers,4,0,0,2.62,19,OHL,.925,0,56,3,33,18
+0,0,0,2010-11,101,2552,4,18,0,1106,1207,0,Houston Aeros,2,0,0,2.37,20,AHL,.916,0,45,0,23,16
+0,0,0,2011-12,101,2546,6,12,0,1116,1217,0,Houston Aeros,1,0,0,2.38,21,AHL,.917,0,44,0,20,17
+0,0,0,2012-13,119,2759,3,10,0,1213,1332,1,2 Teams,0,0,0,2.59,22,AHL,.911,0,46,1,22,20
+0,0,0,2012-13,114,2574,3,10,0,1108,1222,0,Houston Aeros,0,0,0,2.66,22,AHL,.907,0,43,0,19,20
+0,0,0,2012-13,5,185,0,0,0,105,110,1,Rochester Americans,0,0,0,1.62,22,AHL,.955,0,3,1,3,0
+0,0,0,2013-14,0,0,0,0,0,0,0,0,Rochester Americans,0,0,0,0,23,Spengler Cup,0,0,0,0,0,0
+0,0,0,2013-14,0,0,0,0,0,0,0,0,Rochester Americans,0,0,0,0,23,AHL,0,0,0,0,0,0
+0,0,0,2013-14,0,0,0,0,0,0,0,0,Team Canada,0,0,0,0,23,Spengler Cup,0,0,0,0,0,0
+0,0,0,2014-15,0,0,0,0,0,0,0,0,Rochester Americans,0,0,0,0,24,AHL,0,0,0,0,0,0

@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1943-44,19,0,0,0,0,MCHL,2,Montreal Army,0
+1944-45,20,5,10,13,0,MCHL,26,2 Teams,18
+1944-45,20,3,10,5,0,MCHL,14,Montreal Army,8
+1944-45,20,2,0,8,0,MCHL,12,Montreal Cyclones,10
+1945-46,21,6,60,8,0,QSHL,36,Montreal Royals,14
+1946-47,22,0,6,1,0,AHL,4,New Haven Ramblers,1
+1946-47,22,0,18,4,0,USHL,26,St. Paul Saints,4
+1947-48,23,7,22,20,0,AHL,46,New Haven Ramblers,27
+1948-49,24,3,18,7,0,AHL,30,New Haven Ramblers,10
+1949-50,25,26,16,31,0,AHL,52,New Haven Ramblers,57
+1950-51,26,13,6,36,0,AHL,64,St. Louis Flyers,49
+1951-52,27,11,32,28,0,QMHL,58,Chicoutimi Sagueneens,39
+1952-53,28,4,36,19,0,QMHL,56,Chicoutimi Sagueneens,23
+1953-54,29,5,65,22,0,QHL,68,Chicoutimi Sagueneens,27
+1954-55,30,3,59,29,0,QHL,60,Shawinigan Cataracts,32
+1955-56,31,6,44,16,0,QHL,58,Trois-Rivieres/Shawinigan,22
+1956-57,32,4,52,14,0,QHL,67,Quebec Aces,18
+1957-58,33,3,24,16,0,QHL,45,Quebec Aces,19
+1957-58,33,1,0,4,0,WEC-A,7,Canada,5
+1958-59,34,5,10,8,0,EOHL,20,Belleville McFarlands,13
+1958-59,34,1,0,0,0,WEC-A,8,Canada,1
+1959-60,35,6,50,16,0,OHA-Sr.,49,Windsor Bulldogs,22
+1960-61,36,0,2,1,0,EPHL,2,Kingston Frontenacs,1
+1960-61,36,6,22,27,0,EHL,52,Clinton Comets,33

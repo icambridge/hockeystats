@@ -1,0 +1,8 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,SMHL,4,Saskatoon Contacts,200,16,3,0,0,19,0,0,0,0,1,0,0,0,0,0,2006-07,0,5.70,0,0
+0,WHL,0,Spokane Chiefs,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2006-07,0,0,0,0
+0,WHL,1,Spokane Chiefs,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2006-07,0,0,0,0
+0,SMHL,13,Saskatoon Blazers,781,17,6,0,0,34,0,0,0,1,7,0,0,0,0,0,2007-08,0,2.61,0,0
+0,WHL,2,Red Deer Rebels,61,19,2,0,0,6,0,0,0,0,0,0,0,0,0,.806,2009-10,31,5.90,0,25
+0,WHL,7,Red Deer Rebels,403,20,3,0,0,19,0,0,0,0,4,0,0,0,0,.896,2010-11,182,2.83,4,163
+0,AHL,2,Houston Aeros,119,22,1,0,0,3,0,0,0,1,1,0,0,0,0,.957,2012-13,70,1.51,0,67

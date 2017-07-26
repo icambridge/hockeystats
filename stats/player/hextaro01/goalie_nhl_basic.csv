@@ -1,0 +1,14 @@
+goals_allowed_precentage,goalie_point_share,goals_saved_aboved_average,bad_start,year,awards,goals_allowed,minutes,ties,pim,good_starts,saves,shots_againist,assists,team,shutouts,goals,games_started,goals_allowed_average,age,league,saves_percentage,good_start_precentages,games_played,points,wins,loses
+0,0,0,0,1986-87,"[{'link': '/awards/nhl_all_star.html#1987', 'name': None}, {'link': '/awards/voting-1987.html#calder', 'name': 'Calder-2'}, {'link': '/awards/voting-1987.html#hart', 'name': 'Hart-9'}, {'link': '/awards/smythe.html#1987', 'name': None}, {'link': '/awards/vezina.html#1987', 'name': None}]",190,0,6,104,0,0,0,6,PHI,1,0,0,3.00,22,NHL,0,0,0,6,0,21
+95,10.6,10.34,0,1987-88,"[{'link': '/awards/voting-1988.html#AS', 'name': 'AS-7'}, {'link': '/awards/voting-1988.html#vezina', 'name': 'Vezina-12'}]",208,3561,7,104,0,1609,1817,6,PHI,0,1,0,3.50,23,NHL,.886,0,62,7,30,22
+90,0,22.31,0,1988-89,"[{'link': '/awards/voting-1989.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-1989.html#vezina', 'name': 'Vezina-7'}]",202,3756,6,113,0,1658,1860,8,PHI,0,0,0,3.23,24,NHL,.891,0,64,8,30,28
+0,0.9,0,0,1989-90,[],29,419,1,14,0,190,219,0,PHI,0,0,0,4.15,25,NHL,.868,0,8,0,4,2
+95,5.9,5.93,0,1990-91,[],106,2035,5,10,0,876,982,1,PHI,0,0,0,3.13,26,NHL,.892,0,36,1,13,16
+104,6.4,-6.27,0,1991-92,[],151,2668,6,35,0,1143,1294,3,PHI,3,0,0,3.40,27,NHL,.883,0,45,3,16,21
+98,8.4,3.97,0,1992-93,"[{'link': '/awards/voting-1993.html#AS', 'name': 'AS-6'}]",172,2988,5,56,0,1357,1529,2,QUE,0,0,0,3.45,28,NHL,.888,0,54,2,29,16
+97,10.2,4.97,0,1993-94,[],184,3581,6,52,0,1617,1801,3,NYI,5,0,0,3.08,29,NHL,.898,0,65,3,27,26
+111,3.6,-8.36,0,1994-95,"[{'link': '/awards/voting-1995.html#vezina', 'name': 'Vezina-13'}]",88,1824,4,13,0,713,801,0,PHI,1,0,0,2.89,30,NHL,.890,0,31,0,17,9
+85,8.7,19.24,0,1995-96,"[{'link': '/awards/voting-1996.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-1996.html#vezina', 'name': 'Vezina-5'}]",112,3102,7,28,0,1180,1292,1,PHI,4,0,0,0,31,NHL,.913,0,53,1,31,13
+108,6.1,-9.57,0,1996-97,[],132,3094,5,43,0,1153,1285,0,PHI,5,0,0,2.56,32,NHL,.897,0,55,0,31,16
+95,7.0,5.11,0,1997-98,[],97,2688,7,10,0,992,1089,0,PHI,4,0,0,2.17,33,NHL,.911,0,46,0,21,17
+122,1.7,-9.21,0,1998-99,[],52,1235,4,2,0,412,464,2,PHI,0,0,0,2.53,34,NHL,.888,0,23,2,10,7

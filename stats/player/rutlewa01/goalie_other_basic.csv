@@ -1,0 +1,16 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHA-Jr.,48,Barrie Flyers,2840,18,18,0,0,168,0,0,6,3,24,0,0,0,0,0,1959-60,0,3.55,0,0
+0,OHA-Jr.,47,Niagara Falls Flyers,2790,19,20,0,0,159,0,0,5,2,22,0,0,0,0,0,1960-61,0,3.42,0,0
+0,OHA-Jr.,43,Niagara Falls Flyers,2580,20,0,0,0,163,0,0,0,2,0,0,0,0,0,0,1961-62,0,3.79,0,0
+0,OHA-Sr.,30,Windsor Bulldogs,1800,21,0,0,0,95,0,0,0,2,0,0,0,0,0,0,1962-63,0,3.17,0,0
+0,EHL,5,Clinton Comets,300,21,0,0,0,20,0,0,0,1,0,0,0,0,0,0,1962-63,0,4.00,0,0
+0,EPHL,4,Kingston Frontenacs,240,21,1,0,0,9,0,0,0,0,3,0,0,0,0,0,1962-63,0,2.25,0,0
+0,IHL,65,Windsor Bulldogs,3900,22,0,0,0,243,0,0,0,0,0,0,0,0,0,0,1963-64,0,3.74,0,0
+0,CPHL,39,St. Paul Rangers,2320,23,16,0,0,134,0,0,1,2,22,0,0,0,0,0,1964-65,0,3.47,0,0
+0,CPHL,70,Minnesota Rangers,4200,24,25,0,0,197,0,0,11,7,34,0,0,0,0,0,1965-66,0,2.81,0,0
+0,CPHL,70,Omaha Knights,4200,25,24,0,0,203,0,0,10,2,36,0,0,0,0,0,1966-67,0,2.90,0,0
+0,AHL,6,Springfield Kings,340,28,0,0,0,23,0,0,0,0,0,0,0,0,0,0,1969-70,0,4.06,0,0
+0,EHL,3,Long Island Ducks,180,28,0,0,0,21,0,0,0,0,0,0,0,0,0,0,1969-70,0,7.00,0,0
+0,WHL,47,Denver Spurs,2648,29,18,0,0,142,0,0,12,3,15,0,0,0,0,0,1970-71,0,3.22,0,0
+0,WHL,60,Salt Lake Golden Eagles,3517,30,27,0,0,206,0,0,8,1,24,0,0,0,0,0,1971-72,0,3.51,0,0
+0,OHA-Int.,17,Orillia Terriers,1020,37,0,0,0,119,0,0,0,0,0,0,0,0,0,0,1978-79,0,7.00,0,0

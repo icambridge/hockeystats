@@ -1,0 +1,13 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,69,0,27,0,29,0,,NYR,"[{'link': '/awards/voting-1960.html#calder', 'name': 'Calder-3'}]",0,0,16,0,13,0,1959-60,,0,27,0,0
+NHL,38,0,28,0,8,0,,NYR,[],0,0,6,0,2,0,1960-61,,0,18,0,0
+NHL,65,0,29,0,28,0,,NYR,[],0,0,21,0,7,0,1961-62,,0,17,0,0
+NHL,69,0,30,0,15,0,,NYR,[],0,0,9,0,6,0,1962-63,,0,15,0,0
+NHL,4,0,31,0,0,0,,NYR,[],0,0,0,0,0,0,1963-64,,0,0,0,0
+NHL,20,2,34,0,9,0,,NYR,[],0,4,3,0,6,2,1966-67,,0,0,0,0
+NHL,57,3,35,185,39,4,,PIT,[],7.6,12,25,-10,14,0,1967-68,,2,19,0,21
+NHL,76,2,36,226,52,10,,PIT,[],8.0,9,34,-39,18,1,1968-69,,8,18,0,24
+NHL,72,5,37,225,45,11,,PIT,[],8.9,16,25,-26,20,0,1969-70,,4,19,0,14
+NHL,50,1,38,120,34,8,,PIT,[],12.5,12,19,-19,15,0,1970-71,,3,6,0,11
+NHL,74,1,39,154,45,8,,PIT,[],9.7,14,30,-10,15,0,1971-72,,1,8,1,21
+NHL,42,2,40,79,21,2,,PIT,[],13.9,10,10,-10,11,0,1972-73,,1,16,0,8

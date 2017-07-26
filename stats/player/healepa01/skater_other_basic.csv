@@ -1,23 +1,23 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-40,Fort Saskatchewan Traders,19,0,30,AJHL,52,1991-92,16,11
-66,Prince Albert Raiders,20,0,32,WHL,72,1992-93,17,12
-70,Prince Albert Raiders,26,0,49,WHL,63,1993-94,18,23
-67,Prince Albert Raiders,50,0,93,WHL,71,1994-95,19,43
-35,Hershey Bears,15,0,22,AHL,60,1995-96,20,7
-56,Philadelphia Phantoms,19,0,40,AHL,64,1996-97,21,21
-48,Philadelphia Phantoms,18,8,52,AHL,71,1997-98,22,34
-39,Philadelphia Phantoms,20,-2,46,AHL,72,1998-99,23,26
-28,Milwaukee Admirals,18,-2,39,IHL,76,1999-00,24,21
-34,Hamilton Bulldogs,32,-17,71,AHL,79,2000-01,25,39
-30,St. John\'s Maple Leafs,29,20,56,AHL,58,2001-02,26,27
-12,St. John\'s Maple Leafs,10,-6,16,AHL,17,2002-03,27,6
-57,2 Teams,15,2,31,AHL,68,2003-04,28,16
-37,Hartford Wolf Pack,10,2,21,AHL,50,2003-04,28,11
-20,San Antonio Rampage,5,0,10,AHL,18,2003-04,28,5
-79,2 Teams,23,-12,32,AHL,79,2004-05,29,9
-50,San Antonio Rampage,17,-9,23,AHL,62,2004-05,29,6
-29,Edmonton Roadrunners,6,-3,9,AHL,17,2004-05,29,3
-51,Lowell Lock Monsters,21,-21,40,AHL,59,2005-06,30,19
-22,Linkopings HC,2,0,2,Sweden,24,2006-07,31,0
-39,Assat Pori,2,0,5,Finland,25,2006-07,31,3
-52,HK Acroni Jesenice,19,0,32,Slovenia,45,2007-08,32,13
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+19,Fort Saskatchewan Traders,11,1991-92,52,30,40,16,0,AJHL
+20,Prince Albert Raiders,12,1992-93,72,32,66,17,0,WHL
+26,Prince Albert Raiders,23,1993-94,63,49,70,18,0,WHL
+50,Prince Albert Raiders,43,1994-95,71,93,67,19,0,WHL
+15,Hershey Bears,7,1995-96,60,22,35,20,0,AHL
+19,Philadelphia Phantoms,21,1996-97,64,40,56,21,0,AHL
+18,Philadelphia Phantoms,34,1997-98,71,52,48,22,8,AHL
+20,Philadelphia Phantoms,26,1998-99,72,46,39,23,-2,AHL
+18,Milwaukee Admirals,21,1999-00,76,39,28,24,-2,IHL
+32,Hamilton Bulldogs,39,2000-01,79,71,34,25,-17,AHL
+29,St. John\'s Maple Leafs,27,2001-02,58,56,30,26,20,AHL
+10,St. John\'s Maple Leafs,6,2002-03,17,16,12,27,-6,AHL
+15,2 Teams,16,2003-04,68,31,57,28,2,AHL
+10,Hartford Wolf Pack,11,2003-04,50,21,37,28,2,AHL
+5,San Antonio Rampage,5,2003-04,18,10,20,28,0,AHL
+23,2 Teams,9,2004-05,79,32,79,29,-12,AHL
+17,San Antonio Rampage,6,2004-05,62,23,50,29,-9,AHL
+6,Edmonton Roadrunners,3,2004-05,17,9,29,29,-3,AHL
+21,Lowell Lock Monsters,19,2005-06,59,40,51,30,-21,AHL
+2,Linkopings HC,0,2006-07,24,2,22,31,0,Sweden
+2,Assat Pori,3,2006-07,25,5,39,31,0,Finland
+19,HK Acroni Jesenice,13,2007-08,45,32,52,32,0,Slovenia

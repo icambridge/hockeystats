@@ -1,0 +1,22 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1996-97,16,10,8,9,0,AJHL,35,St. Albert Saints,19
+1997-98,17,33,171,58,0,AJHL,57,St. Albert Saints,91
+1997-98,17,0,2,0,0,U-18,3,Canada,0
+1998-99,18,40,123,51,-11,WHL,70,Moose Jaw Warriors,91
+1999-00,19,21,33,27,-7,WHL,37,Moose Jaw Warriors,48
+1999-00,19,2,0,3,3,WJC-A,7,Canada,5
+2000-01,20,35,49,42,-2,WHL,52,Seattle,77
+2000-01,20,4,6,3,0,WJC-A,7,Canada,7
+2001-02,21,27,56,32,-17,AHL,79,Hartford Wolf Pack,59
+2002-03,22,9,18,9,2,AHL,22,Hartford Wolf Pack,18
+2004-05,24,9,22,9,0,Italy,14,HC Forst Bolzano,18
+2004-05,24,14,146,27,-1,AHL,64,Hartford Wolf Pack,41
+2005-06,25,1,2,2,1,AHL,4,San Antonio Rampage,3
+2007-08,27,2,31,1,0,Russia,17,Dynamo Moscow,3
+2007-08,27,13,71,20,-23,AHL,51,Lake Erie Monsters,33
+2008-09,28,15,31,37,-13,AHL,54,Quad City Flames,52
+2009-10,29,9,64,12,4,AHL,32,Abbotsford Heat,21
+2010-11,30,6,22,12,0,AHL,34,Milwaukee Admirals,18
+2010-11,30,3,12,7,0,Sweden,18,Timra IK,10
+2011-12,31,8,52,8,0,KHL,47,Dynamo Riga,16
+2012-13,32,29,34,29,17,Austria,51,Klagenfurter AC,58

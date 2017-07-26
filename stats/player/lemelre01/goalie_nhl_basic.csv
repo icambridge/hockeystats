@@ -1,0 +1,16 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+2.9,0,NHL,18,ATF,994,24,8,0,0,55,0,0,1,0,8,0,0,0,0,0,1978-79,0,3.32,4,[],0
+-0.1,0,NHL,3,ATF,150,25,2,0,0,15,0,0,0,0,0,0,0,0,0,0,1979-80,0,6.00,0,[],0
+5.5,0,NHL,29,CGY,1629,26,6,0,1,88,0,0,7,2,14,1,0,0,0,0,1980-81,0,3.24,2,"[{'link': '/awards/voting-1981.html#AS', 'name': 'AS-10'}]",0
+4.2,0,NHL,34,CGY,1866,27,15,0,1,135,0,0,6,0,10,1,0,0,0,0,1981-82,0,4.34,0,[],0
+6.5,0,NHL,39,CGY,2211,28,12,0,5,133,0,0,8,0,16,5,0,0,0,0,1982-83,0,3.61,7,"[{'link': '/awards/voting-1983.html#AS', 'name': 'AS-9'}]",0
+9.5,0,NHL,51,CGY,2568,29,12,84,3,150,0,27.75,0,0,21,3,0,0,0,.893,1983-84,1405,3.50,6,"[{'link': '/awards/voting-1984.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1984.html#hart', 'name': 'Hart-8'}, {'link': '/awards/voting-1984.html#vezina', 'name': 'Vezina-2'}]",1255
+10.5,0,NHL,56,CGY,3176,30,12,89,0,183,0,22.45,0,1,30,0,0,0,0,.888,1984-85,1638,3.46,4,"[{'link': '/awards/voting-1985.html#AS', 'name': 'AS-3'}, {'link': '/awards/voting-1985.html#vezina', 'name': 'Vezina-3'}]",1455
+9.1,0,NHL,60,CGY,3369,31,24,102,4,229,0,-4.34,4,1,29,4,0,0,0,.872,1985-86,0,4.08,10,[],1558
+4.9,0,NHL,34,CGY,1735,32,9,95,0,94,0,4.97,1,2,16,0,0,0,0,.886,1986-87,825,3.25,20,"[{'link': '/awards/voting-1987.html#AS', 'name': 'AS-8'}]",731
+7.6,0,NHL,49,BOS,2828,33,17,92,0,138,0,11.49,6,3,24,0,0,0,0,.889,1987-88,1244,2.93,2,"[{'link': '/awards/voting-1988.html#AS', 'name': 'AS-6'}, {'link': '/awards/voting-1988.html#vezina', 'name': 'Vezina-7'}]",1106
+6.3,0,NHL,40,BOS,2392,34,15,94,1,120,0,7.95,6,0,19,1,0,0,0,.887,1988-89,1061,3.01,6,"[{'link': '/awards/voting-1989.html#AS', 'name': 'AS-10'}, {'link': '/awards/voting-1989.html#vezina', 'name': 'Vezina-7'}]",941
+6.2,0,NHL,43,BOS,2310,35,15,91,0,108,0,11.10,2,2,22,0,0,0,0,.892,1989-90,1002,2.81,32,"[{'link': '/awards/voting-1990.html#AS', 'name': 'AS-6'}, {'link': '/awards/jennings.html#1990', 'name': None}, {'link': '/awards/voting-1990.html#vezina', 'name': 'Vezina-4'}]",894
+3.4,0,NHL,33,BOS,1829,36,10,116,0,111,0,-15.14,3,1,17,0,0,0,0,.868,1990-91,841,3.64,10,[],730
+1.2,0,NHL,8,BOS,407,37,1,0,1,23,0,0,0,0,5,1,0,0,0,.890,1991-92,210,3.39,2,[],187
+0.8,0,NHL,10,BOS,542,38,4,0,0,31,0,0,0,0,5,0,0,0,0,.862,1992-93,225,3.43,4,[],194

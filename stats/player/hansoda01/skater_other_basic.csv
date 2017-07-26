@@ -1,17 +1,17 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-220,1973-74,St. Paul Vulcans,13,0,19,56,22,9,MWJHL
-249,1974-75,Johnstown Jets,24,0,20,72,34,10,NAPro
-311,1975-76,Johnstown Jets,21,0,21,66,29,8,NAPro
-188,1976-77,Hampton Gulls,7,0,22,28,12,5,SHL
-27,1976-77,Johnstown Jets,3,0,22,6,3,0,NAPro
-98,1976-77,Rhode Island Reds,10,0,22,27,12,2,AHL
-41,1977-78,Kansas City Red Wings,0,0,23,15,0,0,CHL
-8,1977-78,Hampton Gulls,3,0,23,5,3,0,AHL
-186,1979-80,2 Teams,6,0,25,39,10,4,CHL
-174,1979-80,Birmingham Bulls,6,0,25,33,10,4,CHL
-12,1979-80,Oklahoma City Stars,0,0,25,6,0,0,CHL
-267,1980-81,Adirondack Red Wings,21,0,26,77,32,11,AHL
-206,1981-82,Adirondack Red Wings,23,0,27,75,34,11,AHL
-285,1982-83,Indianapolis Checkers,21,0,28,80,39,18,CHL
-0,1983-84,Indianapolis Checkers,0,0,29,1,0,0,CHL
-120,1983-84,Toledo Goaldiggers,26,0,29,68,37,11,IHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+13,St. Paul Vulcans,9,1973-74,56,22,220,19,0,MWJHL
+24,Johnstown Jets,10,1974-75,72,34,249,20,0,NAPro
+21,Johnstown Jets,8,1975-76,66,29,311,21,0,NAPro
+7,Hampton Gulls,5,1976-77,28,12,188,22,0,SHL
+3,Johnstown Jets,0,1976-77,6,3,27,22,0,NAPro
+10,Rhode Island Reds,2,1976-77,27,12,98,22,0,AHL
+0,Kansas City Red Wings,0,1977-78,15,0,41,23,0,CHL
+3,Hampton Gulls,0,1977-78,5,3,8,23,0,AHL
+6,2 Teams,4,1979-80,39,10,186,25,0,CHL
+6,Birmingham Bulls,4,1979-80,33,10,174,25,0,CHL
+0,Oklahoma City Stars,0,1979-80,6,0,12,25,0,CHL
+21,Adirondack Red Wings,11,1980-81,77,32,267,26,0,AHL
+23,Adirondack Red Wings,11,1981-82,75,34,206,27,0,AHL
+21,Indianapolis Checkers,18,1982-83,80,39,285,28,0,CHL
+0,Indianapolis Checkers,0,1983-84,1,0,0,29,0,CHL
+26,Toledo Goaldiggers,11,1983-84,68,37,120,29,0,IHL

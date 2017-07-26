@@ -1,0 +1,11 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1997-98,15,45,78,44,0,SMHL,44,Saskatoon Blazers,89
+1997-98,15,2,4,3,1,WHL,8,Edmonton Ice,5
+1998-99,16,13,38,21,-10,WHL,57,Kootenay Ice,34
+1999-00,17,37,64,38,1,WHL,71,Kootenay Ice,75
+2000-01,18,40,105,66,16,WHL,62,Kootenay Ice,106
+2000-01,18,0,6,2,-1,WJC-A,7,Canada,2
+2001-02,19,32,64,34,8,WHL,47,Kootenay Ice,66
+2001-02,19,2,4,4,6,WJC-A,7,Canada,6
+2002-03,20,21,86,33,15,AHL,76,Hamilton Bulldogs,54
+2004-05,22,21,92,17,13,AHL,66,Edmonton Roadrunners,38

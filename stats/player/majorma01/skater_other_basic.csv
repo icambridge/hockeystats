@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1986-87,16,12,81,14,0,MTHL,36,Don Mills Flyers,26
+1987-88,17,16,272,17,0,OHL,57,North Bay Centennials,33
+1988-89,18,25,251,31,0,OHL,64,2 Teams,56
+1988-89,18,3,58,2,0,OHL,11,North Bay Centennials,5
+1988-89,18,22,193,29,0,OHL,53,Kingston Raiders,51
+1989-90,19,29,168,32,0,OHL,62,Kingston Frontenacs,61
+1990-91,20,8,160,10,0,IHL,60,Muskegon Lumberjacks,18
+1991-92,21,13,302,18,0,IHL,80,Muskegon Lumberjacks,31
+1992-93,22,13,155,15,0,IHL,82,Cleveland Lumberjacks,28
+1993-94,23,17,176,9,0,AHL,61,Providence Bruins,26
+1994-95,24,17,229,19,0,IHL,78,Detroit Vipers,36
+1995-96,25,10,234,19,0,AHL,78,Adirondack Red Wings,29
+1996-97,26,17,213,18,0,AHL,78,Adirondack Red Wings,35
+1997-98,27,13,355,2,-8,AHL,79,Portland Pirates,15
+1998-99,28,5,250,4,-16,AHL,66,Portland Pirates,9
+1999-00,29,1,81,0,-2,IHL,20,Houston Aeros,1
+1999-00,29,23,135,18,21,UHL,36,Flint Generals,41
+2000-01,30,16,163,30,0,UHL,53,Flint Generals,46
+2000-01,30,0,10,0,0,AHL,2,Hershey Bears,0
+2001-02,31,26,102,19,9,ECHL,71,Wheeling Nailers,45
+2002-03,32,17,135,22,-14,ECHL,68,Wheeling Nailers,39
+2003-04,33,5,33,4,2,UHL,12,Kalamazoo Wings,9

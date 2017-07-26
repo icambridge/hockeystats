@@ -1,0 +1,15 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,1,0,18,0,0,0,,CBH,[],0,0,0,0,0,0,1951-52,,0,0,0,0
+NHL,29,0,20,0,8,0,,CBH,[],0,0,7,0,1,0,1953-54,,0,8,0,0
+NHL,3,0,22,0,0,0,,CBH,[],0,0,0,0,0,0,1955-56,,0,0,0,0
+NHL,66,0,25,0,19,0,,CBH,[],0,0,9,0,10,0,1958-59,,0,14,0,0
+NHL,59,0,26,0,25,0,,CBH,[],0,0,11,0,14,0,1959-60,,0,16,0,0
+NHL,64,0,27,0,45,0,,CBH,[],0,0,29,0,16,0,1960-61,,0,12,0,0
+NHL,62,0,28,0,37,0,,CBH,[],0,0,23,0,14,0,1961-62,,0,24,0,0
+NHL,55,0,29,0,38,0,,CBH,[],0,0,18,0,20,0,1962-63,,0,17,0,0
+NHL,70,8,30,0,71,0,,CBH,"[{'link': '/awards/nhl_all_star.html#1964', 'name': None}, {'link': '/awards/byng.html#1964', 'name': None}, {'link': '/awards/voting-1964.html#hart', 'name': 'Hart-7'}]",0,25,32,0,39,0,1963-64,,0,18,0,0
+NHL,68,2,31,0,44,0,,CBH,[],0,20,20,0,24,0,1964-65,,4,27,0,0
+NHL,69,7,32,0,43,0,,CBH,[],0,17,17,0,26,0,1965-66,,9,28,0,0
+NHL,0,2,33,0,65,0,,CBH,"[{'link': '/awards/nhl_all_star.html#1967', 'name': None}]",0,23,34,0,31,0,1966-67,,8,21,0,0
+NHL,74,3,34,177,69,13,,CBH,[],15.3,17,42,-2,27,1,1967-68,,9,18,1,28
+NHL,76,4,35,167,69,14,,CBH,[],18.0,25,39,18,30,0,1968-69,,5,19,0,25

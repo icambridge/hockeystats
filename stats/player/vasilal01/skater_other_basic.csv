@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1991-92,17,0,0,1,0,CIS-3,4,ShVSM Kiev,1
+1992-93,18,27,52,25,0,WHL,71,Victoria Cougars,52
+1993-94,19,34,78,51,0,WHL,69,Victoria Cougars,85
+1994-95,20,38,91,45,0,WHL,71,2 Teams,83
+1994-95,20,32,52,34,0,WHL,48,Prince George Cougars,66
+1994-95,20,6,39,11,0,WHL,23,Brandon Wheat Kings,17
+1995-96,21,18,112,21,0,AHL,69,Worcester IceCats,39
+1996-97,22,9,100,23,0,AHL,61,Worcester IceCats,32
+1996-97,22,1,43,5,0,IHL,10,Grand Rapids Griffins,6
+1997-98,23,3,60,14,5,AHL,41,Hamilton Bulldogs,17
+1997-98,23,1,7,1,-4,IHL,9,Detroit Vipers,2
+1998-99,24,1,2,1,0,EEHL,2,Sokol Kiev,2
+1998-99,24,2,4,1,0,Russia,9,2 Teams,3
+1998-99,24,2,4,1,0,Russia,7,Krylja Sovetov Moscow,3
+1998-99,24,0,0,0,0,Russia,2,Severstal Cherepovets,0
+1999-00,25,10,22,8,8,UHL,19,Muskegon Fury,18
+1999-00,25,8,109,25,16,IHL,51,Long Beach Ice Dogs,33
+2001-02,27,3,14,14,0,EEHL,20,Sokol Kiev,17
+2001-02,27,2,6,9,0,Ukraine,8,Sokol Kiev,11
+2001-02,27,1,4,2,0,Russia,11,Mechel Chelyabinsk,3
+2002-03,28,4,42,2,0,EEHL,15,Sokol Kiev,6
+2002-03,28,5,10,16,0,Austria-2,11,EV Zeltweg,21
+2003-04,29,5,100,17,0,Russia-2,59,Olimpiya Kirovo-Chepetsk,22
+2004-05,30,7,65,19,0,BelOpen,32,Khimvolokno Mogilev,26

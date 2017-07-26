@@ -1,2 +1,2 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-24,2004-05,HC Hame Zlin,3,0,30,17,4,1,CzRep
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+3,HC Hame Zlin,1,2004-05,17,4,24,30,0,CzRep

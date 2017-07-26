@@ -1,0 +1,10 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,USHL,15,Des Moines Buccaneers,844,18,9,0,0,48,0,0,2,0,4,0,0,0,0,.893,2007-08,450,3.41,0,402
+0,NAHL,40,St. Louis Bandits,2393,19,5,0,1,71,0,0,4,7,30,1,0,0,0,.935,2008-09,1085,1.78,0,1014
+0,ECAC,25,Union College Dutchmen,1478,20,8,0,3,61,0,0,3,1,12,3,0,0,0,.912,2009-10,694,2.48,0,633
+0,ECAC,38,Union College Dutchmen,2266,21,10,0,0,75,0,0,3,3,25,0,0,0,0,.920,2010-11,942,1.99,2,867
+0,AHL,42,Albany Devils,2347,22,20,0,3,115,0,0,3,3,17,3,0,0,0,.904,2011-12,1194,2.94,4,1079
+0,AHL,45,Albany Devils,2644,23,17,0,1,120,0,0,6,2,21,1,0,0,0,.905,2012-13,1258,2.72,2,1138
+0,AHL,0,Albany Devils,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2013-14,0,0,0,0
+0,AHL,0,Albany Devils,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014-15,0,0,0,0
+0,WC,0,USA,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-16,0,0,0,0

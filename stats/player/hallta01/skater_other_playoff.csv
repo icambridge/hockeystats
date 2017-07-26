@@ -1,10 +1,10 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-14,1981-82,Regina Pats,3,0,17,11,5,2,WHL
-12,1982-83,Regina Pats,3,0,18,5,3,0,WHL
-26,1983-84,Regina Pats,20,0,19,23,41,21,WHL
-0,1985-86,Fredericton Express,0,0,21,1,0,0,AHL
-21,1987-88,Maine Mariners,4,0,23,10,5,1,AHL
-16,1992-93,Tulsa Oilers,5,0,28,9,8,3,CHL
-14,1993-94,Tulsa Oilers,5,0,29,11,8,3,CHL
-17,1994-95,Tulsa Oilers,3,0,30,7,5,2,CHL
-14,1995-96,Tulsa Oilers,1,0,31,6,2,1,CHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+3,Regina Pats,2,1981-82,11,5,14,17,0,WHL
+3,Regina Pats,0,1982-83,5,3,12,18,0,WHL
+20,Regina Pats,21,1983-84,23,41,26,19,0,WHL
+0,Fredericton Express,0,1985-86,1,0,0,21,0,AHL
+4,Maine Mariners,1,1987-88,10,5,21,23,0,AHL
+5,Tulsa Oilers,3,1992-93,9,8,16,28,0,CHL
+5,Tulsa Oilers,3,1993-94,11,8,14,29,0,CHL
+3,Tulsa Oilers,2,1994-95,7,5,17,30,0,CHL
+1,Tulsa Oilers,1,1995-96,6,2,14,31,0,CHL

@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1999-00,17,14,13,20,-8,QMJHL,64,Baie-Comeau Drakkar,34
+2000-01,18,21,61,34,-1,QMJHL,70,Baie-Comeau Drakkar,55
+2001-02,19,52,34,71,32,QMJHL,72,Baie-Comeau Drakkar,123
+2002-03,20,21,35,27,18,QMJHL,47,Baie-Comeau Drakkar,48
+2003-04,21,0,2,0,0,AHL,7,Utah Grizzlies,0
+2003-04,21,20,61,35,0,ECHL,62,Alaska Aces,55
+2004-05,22,28,44,34,0,ECHL,72,Alaska Aces,62
+2005-06,23,14,10,7,-1,AHL,38,Peoria Rivermen,21
+2005-06,23,5,15,9,0,ECHL,16,Las Vegas Wranglers,14
+2006-07,24,31,30,29,7,AHL,73,Peoria Rivermen,60
+2007-08,25,24,65,42,12,AHL,80,Peoria Rivermen,66
+2008-09,26,8,29,17,-8,AHL,58,2 Teams,25
+2008-09,26,1,23,8,-3,AHL,37,Peoria Rivermen,9
+2008-09,26,7,6,9,-5,AHL,21,Springfield Falcons,16
+2009-10,27,19,36,55,0,AHL,75,Springfield Falcons,74
+2010-11,28,20,30,25,0,KHL,53,Torpedo Nizhny Novgorod,45
+2011-12,29,12,75,14,0,KHL,51,Dynamo Minsk,26
+2012-13,30,2,0,0,0,Swiss,5,HC Lugano,2
+2012-13,30,3,24,4,0,KHL,22,Dynamo Minsk,7

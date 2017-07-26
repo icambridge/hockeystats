@@ -1,0 +1,6 @@
+even_strength_goals,assists,team,goals,pim,age,game_winning_goals,total_ice_time,league,shorthanded_goals,shots,average_ice_time,year,games_played,shotsPercentage,win,power_play_goals,points,plus_minus
+0,2,BUF,0,4,25,0,,NHL,0,11,,1992-93,8,0.0,,0,2,1
+1,1,STL,1,0,27,0,,NHL,0,10,,1994-95,4,10.0,,0,2,6
+0,1,TBL,0,4,28,0,,NHL,0,8,,1995-96,6,0.0,,0,1,0
+1,2,SJS,1,2,30,0,,NHL,0,8,,1997-98,6,12.5,,0,3,0
+0,0,SJS,3,4,31,0,150,NHL,0,8,24:59,1998-99,6,37.5,,3,3,2

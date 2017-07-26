@@ -1,37 +1,37 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-1,18:37,RW,15.5,21,233,21,0,25,5,36,46,Marian Hossa,10.8,1.6,82,14,46,1509,81,4,9.2,25,/players/h/hossama01.html
-0,19:24,RW,13.9,18,230,23,1,31,5,32,48,Daniel Alfredsson,10.4,1.9,80,9,24,1494,77,12,8.6,29,/players/a/alfreda01.html
-0,16:44,RW,17.7,20,175,18,0,22,7,31,37,Martin Havlat,9.6,1.6,68,13,46,1138,68,12,8.1,17,/players/h/havlama01.html
-0,14:38,C,15.5,25,142,17,0,20,3,22,33,Jason Spezza,7.6,2.0,55,5,71,1142,78,22,5.6,8,/players/s/spezzja01.html
-0,16:39,C,10.4,19,182,15,1,32,3,19,27,Bryan Smolinski,5.8,2.2,46,4,49,1332,80,22,3.7,7,/players/s/smolibr01.html
-0,17:38,C,12.2,11,98,6,0,28,1,12,32,Radek Bonk,4.3,1.2,44,6,66,1164,66,2,3.1,21,/players/b/bonkra01.html
-0,24:54,D,9.7,16,175,5,0,26,3,17,26,Wade Redden,9.7,5.2,43,12,65,2017,81,21,4.5,10,/players/r/reddewa01.html
-0,24:38,D,8.6,15,185,9,3,26,3,16,25,Zdeno Chara,10.3,6.1,41,7,147,1946,79,33,4.3,7,/players/c/charazd01.html
-2,15:36,LW,13.4,20,112,11,0,26,3,15,24,Peter Schaefer,4.7,2.1,39,2,26,1264,81,22,2.6,4,/players/s/schaepe01.html
-1,17:32,C,9.2,14,98,7,0,28,2,9,20,Todd White,3.1,1.4,29,1,22,929,53,12,1.7,6,/players/w/whiteto02.html
-0,20:50,D,7.5,13,93,7,0,25,1,7,16,Chris Phillips,5.6,4.2,23,0,46,1709,82,15,1.5,3,/players/p/phillch02.html
-0,10:53,RW,11.9,9,59,5,0,26,2,7,10,Josh Langfeld,2.2,0.6,17,2,16,414,38,6,1.6,1,/players/l/langfjo01.html
-0,19:43,D,1.0,9,99,1,0,24,0,1,16,Karel Rachunek,4.1,3.4,17,0,29,1183,60,17,0.7,7,/players/r/rachuka01.html
-0,8:51,RW,10.5,7,76,8,0,24,1,8,8,Chris Neil,1.9,1.2,16,0,194,726,82,13,0.7,1,/players/n/neilch01.html
-1,11:59,LW,11.1,6,63,6,1,21,0,7,7,Antoine Vermette,1.3,0.8,14,0,16,684,57,5,0.5,0,/players/v/vermean01.html
-0,18:21,RW,9.6,7,52,3,0,35,1,5,9,Peter Bondra,1.4,0.4,14,2,16,422,23,1,1.0,2,/players/b/bondrpe01.html
-1,11:29,LW,4.9,9,41,1,1,36,0,2,10,Shaun Van Allen,0.3,1.0,12,0,80,839,73,6,-0.7,0,/players/v/vanalsh01.html
-0,14:21,LW,10.6,5,47,5,0,27,1,5,5,Vaclav Varada,1.0,0.5,10,0,26,430,30,2,0.5,0,/players/v/varadva01.html
-0,17:26,C,8.5,6,47,3,0,23,0,4,6,Mike Fisher,0.7,0.3,10,1,39,418,24,-3,0.4,0,/players/f/fishemi01.html
-0,16:43,D,2.6,4,78,1,0,26,1,2,6,Brian Pothier,2.2,2.1,8,1,24,920,55,6,0.1,2,/players/p/pothibr01.html
-0,9:32,LW,5.4,4,37,1,0,24,1,2,4,Petr Schastlivy,0.1,0.3,6,1,14,410,43,-1,-0.2,0,/players/s/schaspe01.html
-0,13:54,D,3.3,4,30,1,0,34,0,1,4,Curtis Leschyshyn,2.2,2.4,5,0,16,778,56,13,-0.2,0,/players/l/leschcu01.html
-0,11:19,D,0.0,5,16,0,0,28,0,0,5,Shane Hnidy,1.0,0.9,5,0,72,419,37,2,0.1,0,/players/h/hnidysh01.html
-0,13:04,D,6.7,2,15,1,0,21,0,1,2,Anton Volchenkov,0.7,0.5,3,0,8,248,19,1,0.2,0,/players/v/volchan01.html
-0,58:19,G,,0,0,0,0,29,0,0,2,Patrick Lalime,7.2,0.0,2,0,17,3324,57,0,0.0,0,/players/l/lalimpa01.html
-0,4:40,RW,33.3,0,3,1,0,35,0,1,0,Rob Ray,0.2,0.0,1,0,14,28,6,0,0.2,0,/players/r/rayro01.html
-0,17:51,D,0.0,0,12,0,0,31,0,0,1,Greg de Vries,0.2,0.4,1,0,6,232,13,0,-0.1,1,/players/d/devrigr01.html
-0,10:30,C,0.0,1,2,0,0,24,0,0,1,Serge Payer,0.1,0.1,1,0,2,53,5,1,0.0,0,/players/p/payerse01.html
-0,52:41,G,,0,0,0,0,28,0,0,1,Martin Prusek,4.5,0.0,1,0,0,1528,29,0,0.0,0,/players/p/prusema01.html
-0,14:21,D,0.0,1,10,0,0,30,0,0,1,Todd Simpson,0.2,0.3,1,0,47,230,16,-1,-0.1,0,/players/s/simpsto01.html
-0,42:04,G,,0,0,0,0,21,0,0,0,Ray Emery,0.3,0.0,0,0,2,126,3,0,0.0,0,/players/e/emeryra01.html
-0,6:16,LW,0.0,0,6,0,0,26,0,0,0,Denis Hamel,-0.2,-0.1,0,0,0,31,5,-3,-0.1,0,/players/h/hamelde01.html
-0,2:51,RW,,0,0,0,0,34,0,0,0,Jody Hull,0.0,0.0,0,0,0,3,1,0,0.0,0,/players/h/hulljo01.html
-0,9:29,C,0.0,0,4,0,0,23,0,0,0,Chris Kelly,-0.2,0.0,0,0,0,38,4,-2,-0.1,0,/players/k/kellych01.html
-0,9:34,C,0.0,0,1,0,0,20,0,0,0,Brooks Laich,0.0,0.0,0,0,2,10,1,0,0.0,0,/players/l/laichbr01.html
-0,12:48,D,,0,0,0,0,24,0,0,0,Julien Vauclair,0.1,0.1,0,0,2,13,1,1,0.0,0,/players/v/vauclju01.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+46,5,36,25,18:37,9.2,1.6,21,1509,25,RW,10.8,21,OTT,/players/h/hossama01.html,0,46,14,4,Marian Hossa,15.5,2004,82,1,81,233
+48,5,32,31,19:24,8.6,1.9,23,1494,29,RW,10.4,18,OTT,/players/a/alfreda01.html,1,24,9,12,Daniel Alfredsson,13.9,2004,80,0,77,230
+37,7,31,22,16:44,8.1,1.6,18,1138,17,RW,9.6,20,OTT,/players/h/havlama01.html,0,46,13,12,Martin Havlat,17.7,2004,68,0,68,175
+33,3,22,20,14:38,5.6,2.0,17,1142,8,C,7.6,25,OTT,/players/s/spezzja01.html,0,71,5,22,Jason Spezza,15.5,2004,55,0,78,142
+27,3,19,32,16:39,3.7,2.2,15,1332,7,C,5.8,19,OTT,/players/s/smolibr01.html,1,49,4,22,Bryan Smolinski,10.4,2004,46,0,80,182
+32,1,12,28,17:38,3.1,1.2,6,1164,21,C,4.3,11,OTT,/players/b/bonkra01.html,0,66,6,2,Radek Bonk,12.2,2004,44,0,66,98
+26,3,17,26,24:54,4.5,5.2,5,2017,10,D,9.7,16,OTT,/players/r/reddewa01.html,0,65,12,21,Wade Redden,9.7,2004,43,0,81,175
+25,3,16,26,24:38,4.3,6.1,9,1946,7,D,10.3,15,OTT,/players/c/charazd01.html,3,147,7,33,Zdeno Chara,8.6,2004,41,0,79,185
+24,3,15,26,15:36,2.6,2.1,11,1264,4,LW,4.7,20,OTT,/players/s/schaepe01.html,0,26,2,22,Peter Schaefer,13.4,2004,39,2,81,112
+20,2,9,28,17:32,1.7,1.4,7,929,6,C,3.1,14,OTT,/players/w/whiteto02.html,0,22,1,12,Todd White,9.2,2004,29,1,53,98
+16,1,7,25,20:50,1.5,4.2,7,1709,3,D,5.6,13,OTT,/players/p/phillch02.html,0,46,0,15,Chris Phillips,7.5,2004,23,0,82,93
+10,2,7,26,10:53,1.6,0.6,5,414,1,RW,2.2,9,OTT,/players/l/langfjo01.html,0,16,2,6,Josh Langfeld,11.9,2004,17,0,38,59
+16,0,1,24,19:43,0.7,3.4,1,1183,7,D,4.1,9,OTT,/players/r/rachuka01.html,0,29,0,17,Karel Rachunek,1.0,2004,17,0,60,99
+8,1,8,24,8:51,0.7,1.2,8,726,1,RW,1.9,7,OTT,/players/n/neilch01.html,0,194,0,13,Chris Neil,10.5,2004,16,0,82,76
+7,0,7,21,11:59,0.5,0.8,6,684,0,LW,1.3,6,OTT,/players/v/vermean01.html,1,16,0,5,Antoine Vermette,11.1,2004,14,1,57,63
+9,1,5,35,18:21,1.0,0.4,3,422,2,RW,1.4,7,OTT,/players/b/bondrpe01.html,0,16,2,1,Peter Bondra,9.6,2004,14,0,23,52
+10,0,2,36,11:29,-0.7,1.0,1,839,0,LW,0.3,9,OTT,/players/v/vanalsh01.html,1,80,0,6,Shaun Van Allen,4.9,2004,12,1,73,41
+5,1,5,27,14:21,0.5,0.5,5,430,0,LW,1.0,5,OTT,/players/v/varadva01.html,0,26,0,2,Vaclav Varada,10.6,2004,10,0,30,47
+6,0,4,23,17:26,0.4,0.3,3,418,0,C,0.7,6,OTT,/players/f/fishemi01.html,0,39,1,-3,Mike Fisher,8.5,2004,10,0,24,47
+6,1,2,26,16:43,0.1,2.1,1,920,2,D,2.2,4,OTT,/players/p/pothibr01.html,0,24,1,6,Brian Pothier,2.6,2004,8,0,55,78
+4,1,2,24,9:32,-0.2,0.3,1,410,0,LW,0.1,4,OTT,/players/s/schaspe01.html,0,14,1,-1,Petr Schastlivy,5.4,2004,6,0,43,37
+4,0,1,34,13:54,-0.2,2.4,1,778,0,D,2.2,4,OTT,/players/l/leschcu01.html,0,16,0,13,Curtis Leschyshyn,3.3,2004,5,0,56,30
+5,0,0,28,11:19,0.1,0.9,0,419,0,D,1.0,5,OTT,/players/h/hnidysh01.html,0,72,0,2,Shane Hnidy,0.0,2004,5,0,37,16
+2,0,1,21,13:04,0.2,0.5,1,248,0,D,0.7,2,OTT,/players/v/volchan01.html,0,8,0,1,Anton Volchenkov,6.7,2004,3,0,19,15
+2,0,0,29,58:19,0.0,0.0,0,3324,0,G,7.2,0,OTT,/players/l/lalimpa01.html,0,17,0,0,Patrick Lalime,,2004,2,0,57,0
+0,0,1,35,4:40,0.2,0.0,1,28,0,RW,0.2,0,OTT,/players/r/rayro01.html,0,14,0,0,Rob Ray,33.3,2004,1,0,6,3
+1,0,0,31,17:51,-0.1,0.4,0,232,1,D,0.2,0,OTT,/players/d/devrigr01.html,0,6,0,0,Greg de Vries,0.0,2004,1,0,13,12
+1,0,0,24,10:30,0.0,0.1,0,53,0,C,0.1,1,OTT,/players/p/payerse01.html,0,2,0,1,Serge Payer,0.0,2004,1,0,5,2
+1,0,0,28,52:41,0.0,0.0,0,1528,0,G,4.5,0,OTT,/players/p/prusema01.html,0,0,0,0,Martin Prusek,,2004,1,0,29,0
+1,0,0,30,14:21,-0.1,0.3,0,230,0,D,0.2,1,OTT,/players/s/simpsto01.html,0,47,0,-1,Todd Simpson,0.0,2004,1,0,16,10
+0,0,0,21,42:04,0.0,0.0,0,126,0,G,0.3,0,OTT,/players/e/emeryra01.html,0,2,0,0,Ray Emery,,2004,0,0,3,0
+0,0,0,26,6:16,-0.1,-0.1,0,31,0,LW,-0.2,0,OTT,/players/h/hamelde01.html,0,0,0,-3,Denis Hamel,0.0,2004,0,0,5,6
+0,0,0,34,2:51,0.0,0.0,0,3,0,RW,0.0,0,OTT,/players/h/hulljo01.html,0,0,0,0,Jody Hull,,2004,0,0,1,0
+0,0,0,23,9:29,-0.1,0.0,0,38,0,C,-0.2,0,OTT,/players/k/kellych01.html,0,0,0,-2,Chris Kelly,0.0,2004,0,0,4,4
+0,0,0,20,9:34,0.0,0.0,0,10,0,C,0.0,0,OTT,/players/l/laichbr01.html,0,2,0,0,Brooks Laich,0.0,2004,0,0,1,1
+0,0,0,24,12:48,0.0,0.1,0,13,0,D,0.1,0,OTT,/players/v/vauclju01.html,0,2,0,1,Julien Vauclair,,2004,0,0,1,0

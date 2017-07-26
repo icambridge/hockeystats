@@ -1,0 +1,5 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,ECHL,10,Utah Grizzlies,543,24,4,0,2,26,0,0,0,2,5,2,0,0,0,0,2007-08,0,2.87,0,0
+0,AHL,2,Bridgeport Sound Tigers,123,25,2,0,0,8,0,0,0,0,0,0,0,0,0,0,2008-09,0,3.90,0,0
+0,AHL,1,Bridgeport Sound Tigers,46,26,0,0,0,2,0,0,0,0,0,0,0,0,0,.938,2009-10,32,2.61,0,30
+0,AHL,3,Binghamton Senators,165,29,3,0,0,8,0,0,0,0,0,0,0,0,0,.905,2012-13,84,2.91,0,76

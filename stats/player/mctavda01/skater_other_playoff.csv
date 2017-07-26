@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1989-90,17,1,2,5,0,OHL,12,Peterborough Petes,6
+1990-91,18,1,0,0,0,OHL,4,Peterborough Petes,1
+1991-92,19,2,11,5,0,OHL,10,Peterborough Petes,7
+1992-93,20,9,22,8,0,OHL,21,Peterborough Petes,17
+1992-93,20,2,16,1,0,M-Cup,5,Peterborough Petes,3
+1995-96,23,5,15,4,0,AHL,15,Saint John Flames,9
+1996-97,24,0,0,1,0,AHL,3,Saint John Flames,1
+1997-98,25,0,4,3,0,Finland,3,SaiPa Lappeenranta,3
+1998-99,26,4,2,5,0,Finland,7,SaiPa Lappeenranta,9
+1999-00,27,1,12,0,0,Finland,4,Blues Espoo,1
+2000-01,28,1,4,1,0,Swiss,4,SC Rapperswil-Jona,2
+2001-02,29,3,4,3,0,Swiss,5,SC Rapperswil-Jona,6
+2002-03,30,4,2,0,0,Swiss,5,SC Rapperswil-Jona,4
+2004-05,32,1,16,1,0,Swiss,4,SC Rapperswil-Jona,2
+2005-06,33,3,12,7,0,Swiss,9,ZSC Lions Zurich,10
+2006-07,34,4,22,1,0,Swiss,7,ZSC Lions Zurich,5
+2007-08,35,3,10,3,0,Swiss,7,EV Zug,6
+2008-09,36,3,6,4,0,Swiss,10,EV Zug,7
+2009-10,37,6,6,8,0,Swiss,12,EV Zug,14

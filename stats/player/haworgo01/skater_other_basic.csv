@@ -1,23 +1,23 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-36,Victoriaville Tigers,13,0,22,QJHL,46,1948-49,16,9
-2,Atlantic City Sea Gulls,1,0,1,EAHL,7,1949-50,17,0
-43,Quebec Citadelles,30,0,57,QJHL,46,1950-51,18,27
-49,Quebec Citadelles,51,0,82,QJHL,46,1951-52,19,31
-26,Valleyfield Braves,21,0,30,QMHL,53,1952-53,20,9
-64,Valleyfield Braves,28,0,52,QHL,69,1953-54,21,24
-33,Valleyfield Braves,32,0,48,QHL,60,1954-55,22,16
-30,Springfield Indians,13,0,16,AHL,30,1955-56,23,3
-8,Trois-Rivieres Lions,6,0,10,QHL,16,1955-56,23,4
-26,Victoria Cougars,35,0,52,WHL,64,1956-57,24,17
-18,Victoria Cougars,37,0,60,WHL,67,1957-58,25,23
-32,Victoria Cougars,52,0,73,WHL,65,1958-59,26,21
-24,Victoria Cougars,33,0,60,WHL,70,1959-60,27,27
-24,Portland Buckaroos,47,0,65,WHL,68,1960-61,28,18
-32,Sudbury Wolves,41,0,55,EPHL,63,1961-62,29,14
-16,Los Angeles Blades,40,0,51,WHL,69,1962-63,30,11
-24,Los Angeles Blades,36,0,53,WHL,68,1963-64,31,17
-15,Los Angeles Blades,18,0,25,WHL,47,1964-65,32,7
-26,Drummondville Eagles,30,0,44,Que-Sr.,41,1965-66,33,14
-26,Drummondville Eagles,28,0,41,Que-Sr.,40,1966-67,34,13
-21,Drummondville Eagles,31,0,46,Que-Sr.,48,1967-68,35,15
-6,Jacksonville Rockets,56,0,72,EHL,70,1969-70,37,16
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+13,Victoriaville Tigers,9,1948-49,46,22,36,16,0,QJHL
+1,Atlantic City Sea Gulls,0,1949-50,7,1,2,17,0,EAHL
+30,Quebec Citadelles,27,1950-51,46,57,43,18,0,QJHL
+51,Quebec Citadelles,31,1951-52,46,82,49,19,0,QJHL
+21,Valleyfield Braves,9,1952-53,53,30,26,20,0,QMHL
+28,Valleyfield Braves,24,1953-54,69,52,64,21,0,QHL
+32,Valleyfield Braves,16,1954-55,60,48,33,22,0,QHL
+13,Springfield Indians,3,1955-56,30,16,30,23,0,AHL
+6,Trois-Rivieres Lions,4,1955-56,16,10,8,23,0,QHL
+35,Victoria Cougars,17,1956-57,64,52,26,24,0,WHL
+37,Victoria Cougars,23,1957-58,67,60,18,25,0,WHL
+52,Victoria Cougars,21,1958-59,65,73,32,26,0,WHL
+33,Victoria Cougars,27,1959-60,70,60,24,27,0,WHL
+47,Portland Buckaroos,18,1960-61,68,65,24,28,0,WHL
+41,Sudbury Wolves,14,1961-62,63,55,32,29,0,EPHL
+40,Los Angeles Blades,11,1962-63,69,51,16,30,0,WHL
+36,Los Angeles Blades,17,1963-64,68,53,24,31,0,WHL
+18,Los Angeles Blades,7,1964-65,47,25,15,32,0,WHL
+30,Drummondville Eagles,14,1965-66,41,44,26,33,0,Que-Sr.
+28,Drummondville Eagles,13,1966-67,40,41,26,34,0,Que-Sr.
+31,Drummondville Eagles,15,1967-68,48,46,21,35,0,Que-Sr.
+56,Jacksonville Rockets,16,1969-70,70,72,6,37,0,EHL

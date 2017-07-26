@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1990-91,18,17,14,22,0,QMJHL,42,Shawinigan Cataractes,39
+1991-92,19,28,64,33,0,QMJHL,44,Shawinigan Cataractes,61
+1992-93,20,43,88,43,0,QMJHL,60,2 Teams,86
+1992-93,20,25,43,29,0,QMJHL,35,Shawinigan Cataractes,54
+1992-93,20,18,45,14,0,QMJHL,25,Sherbrooke Faucons,32
+1993-94,21,2,12,3,0,IHL,29,San Diego Gulls,5
+1993-94,21,9,41,9,0,ECHL,25,Greensboro Monarchs,18
+1994-95,22,33,85,25,0,Nat-Tm,52,Canada,58
+1994-95,22,4,6,0,0,WC-A,8,Canada,4
+1995-96,23,21,75,34,0,AHL,47,Baltimore Bandits,55
+1995-96,23,0,4,1,0,WC-A,8,Canada,1
+1997-98,25,9,32,19,-13,AHL,38,Cincinnati Mighty Ducks,28
+1997-98,25,6,24,4,-14,IHL,17,Quebec Rafales,10
+1998-99,26,6,63,14,-7,IHL,32,Las Vegas Thunder,20
+1998-99,26,11,42,21,0,AHL,32,2 Teams,32
+1998-99,26,10,36,18,0,AHL,29,Springfield Falcons,28
+1998-99,26,1,6,3,0,AHL,3,Fredericton Canadiens,4
+1999-00,27,12,109,33,0,Germany,47,Krefeld Pinguine,45
+2000-01,28,11,178,16,0,Germany,47,Adler Mannheim,27
+2002-03,30,13,110,27,0,Germany,46,ERC Ingolstadt,40
+2003-04,31,19,61,15,0,Swiss-2,20,EHC Biel-Bienne,3
+2004-05,32,10,22,15,0,Swiss-2,22,EHC Biel-Bienne,25

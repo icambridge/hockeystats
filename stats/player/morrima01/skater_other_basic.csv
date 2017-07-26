@@ -1,0 +1,32 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1979-80,16,25,26,33,0,WHL,72,Victoria Cougars,58
+1980-81,17,31,66,61,0,WHL,58,Victoria Cougars,92
+1981-82,18,48,83,66,0,WHL,56,Victoria Cougars,114
+1981-82,18,3,0,7,0,WJC-A,7,Canada,10
+1982-83,19,55,54,75,0,WHL,58,Victoria Cougars,130
+1982-83,19,3,0,2,0,WJC-A,7,Canada,5
+1983-84,20,15,34,22,0,Nat-Tm,43,Canada,37
+1983-84,20,4,2,4,0,CHL,11,Tulsa Oilers,8
+1984-85,21,5,4,5,0,AHL,31,2 Teams,10
+1984-85,21,5,0,4,0,AHL,20,New Haven Nighthawks,9
+1984-85,21,0,4,1,0,AHL,11,Nova Scotia Oilers,1
+1985-86,22,59,30,88,0,Italy,36,HC Merano,147
+1986-87,23,18,0,19,0,Swiss,37,HC Fribourg-Gotteron,37
+1988-89,25,1,0,2,0,Nat-Tm,4,Canada,3
+1988-89,25,38,25,76,0,Italy,41,HC Merano,114
+1989-90,26,39,30,42,0,Italy,36,HC Milano Saima,81
+1990-91,27,29,18,41,0,Italy,33,HC Milano Saima,70
+1991-92,28,44,45,44,0,Italy-2,26,HC Merano,88
+1992-93,29,58,38,34,0,Italy-2,32,HC Merano,92
+1993-94,30,7,10,7,0,BH-Cup,6,Fife Flyers,14
+1993-94,30,78,73,77,0,Britain,44,Fife Flyers,155
+1994-95,31,15,18,16,0,BH-Cup,10,Fife Flyers,31
+1994-95,31,52,24,63,0,Britain,36,Fife Flyers,115
+1995-96,32,19,8,28,0,BH-Cup,11,Fife Flyers,47
+1995-96,32,34,64,36,0,Britain,31,Fife Flyers,70
+1996-97,33,68,60,58,0,Britain-2,35,Fife Flyers,126
+1997-98,34,49,74,54,0,Britain-2,40,Fife Flyers,103
+1998-99,35,22,40,25,0,Britain-2,38,Fife Flyers,47
+1999-00,36,10,22,5,0,BH-Cup,10,Fife Flyers,15
+1999-00,36,29,6,30,0,Britain-2,40,Fife Flyers,59
+2000-01,37,14,24,28,0,Britain-2,34,Fife Flyers,42

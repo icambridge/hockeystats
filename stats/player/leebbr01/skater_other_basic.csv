@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,15,31,93,14,0,AMHL,36,Red Deer Vipers,45
+1994-95,15,0,4,0,0,WHL,3,Red Deer Rebels,0
+1995-96,16,3,30,6,0,WHL,38,Red Deer Rebels,9
+1996-97,17,15,76,20,0,WHL,70,Red Deer Rebels,35
+1997-98,18,23,88,23,0,WHL,63,Red Deer Rebels,46
+1998-99,19,32,84,47,0,WHL,64,Red Deer Rebels,79
+1998-99,19,3,2,5,0,WJC-A,7,Canada,8
+1999-00,20,19,50,18,0,AHL,61,Syracuse Crunch,37
+2000-01,21,18,53,16,-13,IHL,53,Kansas City Blades,34
+2001-02,22,17,45,15,-6,AHL,60,Manitoba Moose,32
+2002-03,23,35,78,26,-7,AHL,79,St. John\'s Maple Leafs,61
+2003-04,24,24,116,25,-12,AHL,77,St. John\'s Maple Leafs,49
+2004-05,25,16,43,13,7,AHL,48,St. John\'s Maple Leafs,29
+2005-06,26,34,91,24,-1,AHL,79,Toronto Marlies,58
+2006-07,27,9,25,6,-7,AHL,34,Toronto Marlies,15
+2007-08,28,18,68,21,0,Germany,55,ERC Ingolstadt,39
+2008-09,29,16,88,8,0,Germany,50,Sinupret Ice Tigers Nurnberg,24
+2009-10,30,20,80,21,0,Germany,56,Thomas Sabo Ice Tigers Nurnberg,41
+2010-11,31,13,42,19,0,Germany,50,Thomas Sabo Ice Tigers Nurnberg,32

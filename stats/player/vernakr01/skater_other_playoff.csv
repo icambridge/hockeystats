@@ -1,0 +1,15 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1997-98,15,1,7,2,0,NAHL,1,U.S. National Team Development Program,3
+1998-99,16,0,2,0,0,OHL,11,Plymouth Whalers,0
+1999-00,17,3,24,6,0,OHL,19,Plymouth Whalers,9
+2000-01,18,7,19,10,0,OHL,19,Plymouth Whalers,17
+2001-02,19,1,15,2,0,OHL,6,Plymouth Whalers,3
+2002-03,20,0,20,0,-2,AHL,4,Providence Bruins,0
+2003-04,21,0,4,0,-1,AHL,2,Providence Bruins,0
+2004-05,22,2,33,7,0,ECHL,18,Florida Everblades,9
+2005-06,23,0,0,0,-5,UHL,4,Motor City Mechanics,0
+2006-07,24,2,4,1,-3,UHL,4,Port Huron Flags,3
+2007-08,25,4,18,9,1,IHL,12,Port Huron IceHawks,13
+2008-09,26,2,8,4,0,IHL,6,Port Huron IceHawks,6
+2009-10,27,2,10,3,-5,IHL,7,Port Huron IceHawks,5
+2010-11,28,1,8,0,0,ECHL,17,Wheeling Nailers,1

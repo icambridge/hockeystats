@@ -1,25 +1,25 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-0,,C,8.5,34,189,16,0,25,3,16,54,Juha Widing,4.8,1.0,70,0,30,,77,-14,3.8,20,/players/w/widinju01.html
-0,,RW,8.6,25,255,16,0,25,3,22,46,Serge Bernier,5.0,0.8,68,6,43,,75,-20,4.3,21,/players/b/bernise01.html
-0,,RW,20.6,25,180,23,0,27,6,37,30,Mike Corrigan,6.2,0.9,67,14,146,,78,-17,5.3,5,/players/c/corrimi01.html
-0,,LW,20.5,22,176,22,0,29,2,36,28,Bob Berry,6.0,1.0,64,14,75,,78,-13,5.0,6,/players/b/berrybo01.html
-1,,C,18.9,25,148,23,1,23,1,28,31,Butch Goring,5.6,1.2,59,4,2,,67,0,4.4,5,/players/g/gorinbu01.html
-1,,C,15.2,23,132,18,0,35,6,20,29,Ralph Backstrom,3.8,0.8,49,1,6,,63,-12,3.0,6,/players/b/backsra01.html
-0,,D,2.9,18,207,3,1,27,0,6,39,Gilles Marotte,6.5,3.7,45,3,70,,78,-21,2.8,20,/players/m/marotgi01.html
-0,,LW,8.5,17,176,14,0,21,1,15,19,Vic Venasky,1.6,0.9,34,1,10,,77,-16,0.7,2,/players/v/venasvi01.html
-0,,RW,17.9,6,78,10,0,20,4,14,6,Don Kozak,0.2,0.5,20,4,104,,72,-25,-0.3,0,/players/k/kozakdo01.html
-0,,LW,4.7,12,129,6,0,26,0,6,14,Bill Lesuk,0.4,1.2,20,0,90,,67,-2,-0.8,2,/players/l/lesukbi01.html
-1,,LW,11.6,9,43,3,1,28,0,5,10,Real Lemieux,-0.3,1.3,15,1,19,,74,-1,-1.6,0,/players/l/lemiere01.html
-0,,D,4.1,9,97,4,0,40,0,4,11,Harry Howell,4.6,4.4,15,0,28,,73,-4,0.2,2,/players/h/howelha01.html
-0,,D,1.8,12,110,2,0,24,0,2,13,Barry Long,4.1,4.1,15,0,48,,70,-7,0.1,1,/players/l/longba01.html
-0,,RW,10.8,4,65,5,0,33,2,7,4,Frank St. Marseille,0.7,0.5,11,2,2,,29,-1,0.2,0,/players/s/stmarfr01.html
-0,,LW,11.4,5,35,4,0,22,1,4,7,Dan Maloney,1.1,0.4,11,0,18,,14,6,0.6,2,/players/m/malonda01.html
-1,,C,10.0,3,40,2,1,28,0,4,5,Jimmy Peters,-1.0,1.3,9,1,0,,77,-3,-2.3,1,/players/p/peterji02.html
-0,,D,1.6,8,64,1,0,33,1,1,8,Terry Harper,4.7,5.3,9,0,74,,77,6,-0.6,0,/players/h/harpete01.html
-0,,D,2.1,8,47,0,0,21,0,1,8,Neil Komadoski,2.3,2.6,9,1,67,,62,-22,-0.3,0,/players/k/komadne01.html
-0,,D,0.0,5,46,0,2,25,0,0,7,Larry Brown,2.8,3.3,7,0,8,,55,-4,-0.5,0,/players/b/brownla01.html
-0,,RW,12.1,2,33,4,0,28,1,4,2,Doug Volmar,0.2,0.3,6,0,16,,21,-2,-0.1,0,/players/v/volmado01.html
-0,,D,0.0,5,16,0,0,25,0,0,5,Paul Curtis,1.5,1.6,5,0,16,,27,-2,-0.1,0,/players/c/curtipa01.html
-0,,G,,0,0,0,0,25,0,0,1,Gary Edwards,3.4,0.0,1,0,0,,27,0,0.0,0,/players/e/edwarga01.html
-0,,LW,0.0,0,3,0,0,23,0,0,1,Phil Hoene,0.0,0.1,1,0,0,,4,1,-0.1,1,/players/h/hoeneph01.html
-0,,G,,0,0,0,0,27,0,0,1,Rogie Vachon,10.3,0.0,1,0,2,,53,0,0.0,0,/players/v/vachoro01.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+54,3,16,25,,3.8,1.0,16,,20,C,4.8,34,LAK,/players/w/widinju01.html,0,30,0,-14,Juha Widing,8.5,1973,70,0,77,189
+46,3,22,25,,4.3,0.8,16,,21,RW,5.0,25,LAK,/players/b/bernise01.html,0,43,6,-20,Serge Bernier,8.6,1973,68,0,75,255
+30,6,37,27,,5.3,0.9,23,,5,RW,6.2,25,LAK,/players/c/corrimi01.html,0,146,14,-17,Mike Corrigan,20.6,1973,67,0,78,180
+28,2,36,29,,5.0,1.0,22,,6,LW,6.0,22,LAK,/players/b/berrybo01.html,0,75,14,-13,Bob Berry,20.5,1973,64,0,78,176
+31,1,28,23,,4.4,1.2,23,,5,C,5.6,25,LAK,/players/g/gorinbu01.html,1,2,4,0,Butch Goring,18.9,1973,59,1,67,148
+29,6,20,35,,3.0,0.8,18,,6,C,3.8,23,LAK,/players/b/backsra01.html,0,6,1,-12,Ralph Backstrom,15.2,1973,49,1,63,132
+39,0,6,27,,2.8,3.7,3,,20,D,6.5,18,LAK,/players/m/marotgi01.html,1,70,3,-21,Gilles Marotte,2.9,1973,45,0,78,207
+19,1,15,21,,0.7,0.9,14,,2,LW,1.6,17,LAK,/players/v/venasvi01.html,0,10,1,-16,Vic Venasky,8.5,1973,34,0,77,176
+6,4,14,20,,-0.3,0.5,10,,0,RW,0.2,6,LAK,/players/k/kozakdo01.html,0,104,4,-25,Don Kozak,17.9,1973,20,0,72,78
+14,0,6,26,,-0.8,1.2,6,,2,LW,0.4,12,LAK,/players/l/lesukbi01.html,0,90,0,-2,Bill Lesuk,4.7,1973,20,0,67,129
+10,0,5,28,,-1.6,1.3,3,,0,LW,-0.3,9,LAK,/players/l/lemiere01.html,1,19,1,-1,Real Lemieux,11.6,1973,15,1,74,43
+11,0,4,40,,0.2,4.4,4,,2,D,4.6,9,LAK,/players/h/howelha01.html,0,28,0,-4,Harry Howell,4.1,1973,15,0,73,97
+13,0,2,24,,0.1,4.1,2,,1,D,4.1,12,LAK,/players/l/longba01.html,0,48,0,-7,Barry Long,1.8,1973,15,0,70,110
+4,2,7,33,,0.2,0.5,5,,0,RW,0.7,4,LAK,/players/s/stmarfr01.html,0,2,2,-1,Frank St. Marseille,10.8,1973,11,0,29,65
+7,1,4,22,,0.6,0.4,4,,2,LW,1.1,5,LAK,/players/m/malonda01.html,0,18,0,6,Dan Maloney,11.4,1973,11,0,14,35
+5,0,4,28,,-2.3,1.3,2,,1,C,-1.0,3,LAK,/players/p/peterji02.html,1,0,1,-3,Jimmy Peters,10.0,1973,9,1,77,40
+8,1,1,33,,-0.6,5.3,1,,0,D,4.7,8,LAK,/players/h/harpete01.html,0,74,0,6,Terry Harper,1.6,1973,9,0,77,64
+8,0,1,21,,-0.3,2.6,0,,0,D,2.3,8,LAK,/players/k/komadne01.html,0,67,1,-22,Neil Komadoski,2.1,1973,9,0,62,47
+7,0,0,25,,-0.5,3.3,0,,0,D,2.8,5,LAK,/players/b/brownla01.html,2,8,0,-4,Larry Brown,0.0,1973,7,0,55,46
+2,1,4,28,,-0.1,0.3,4,,0,RW,0.2,2,LAK,/players/v/volmado01.html,0,16,0,-2,Doug Volmar,12.1,1973,6,0,21,33
+5,0,0,25,,-0.1,1.6,0,,0,D,1.5,5,LAK,/players/c/curtipa01.html,0,16,0,-2,Paul Curtis,0.0,1973,5,0,27,16
+1,0,0,25,,0.0,0.0,0,,0,G,3.4,0,LAK,/players/e/edwarga01.html,0,0,0,0,Gary Edwards,,1973,1,0,27,0
+1,0,0,23,,-0.1,0.1,0,,1,LW,0.0,0,LAK,/players/h/hoeneph01.html,0,0,0,1,Phil Hoene,0.0,1973,1,0,4,3
+1,0,0,27,,0.0,0.0,0,,0,G,10.3,0,LAK,/players/v/vachoro01.html,0,2,0,0,Rogie Vachon,,1973,1,0,53,0

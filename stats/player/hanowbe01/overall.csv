@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1990-10-18,RW,", ",,Ben Hanowski
+handed,heigh_and_weight,position,date_of_birth,name
+,", ",RW,1990-10-18,Ben Hanowski

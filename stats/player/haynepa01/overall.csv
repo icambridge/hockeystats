@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1910-03-01,", ",C,Paul Haynes,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",C,1910-03-01,Paul Haynes

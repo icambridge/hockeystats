@@ -1,0 +1,32 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1983-84,18,4,6,4,0,Sweden-2,16,Timra IK,8
+1984-85,19,8,14,11,0,Sweden-2,23,Timra IK,19
+1985-86,20,13,40,12,0,Sweden-2,32,Timra IK,25
+1986-87,21,0,24,4,0,Sweden,29,Brynas IF Gavle,4
+1987-88,22,6,28,9,0,Sweden,40,Brynas IF Gavle,15
+1988-89,23,8,52,11,0,Sweden,40,Brynas IF Gavle,19
+1989-90,24,14,46,14,0,Sweden,40,Brynas IF Gavle,28
+1990-91,25,12,77,17,0,Sweden,38,Brynas IF Gavle,29
+1991-92,26,6,46,16,0,Sweden,40,Brynas IF Gavle,22
+1991-92,26,4,2,1,0,Olympics,8,Sweden,5
+1991-92,26,0,6,1,0,WC-A,8,Sweden,1
+1993-94,28,12,22,32,0,IHL,38,Kalamazoo Wings,44
+1993-94,28,0,6,0,0,WC-A,8,Sweden,0
+1994-95,29,17,36,27,0,Swiss,36,HC Lugano,44
+1994-95,29,2,6,3,0,WC-A,8,Sweden,5
+1995-96,30,3,26,21,0,Swiss,30,HC Lugano,24
+1995-96,30,1,0,1,0,WC-A,6,Sweden,2
+1996-97,31,2,0,2,0,Italy,6,HC Bolzano,4
+1996-97,31,23,55,28,0,Swiss,45,HC Lugano,51
+1997-98,32,12,36,19,0,Swiss,29,HC Lugano,31
+1998-99,33,6,22,19,0,Swiss,33,EHC Kloten,25
+1999-00,34,8,44,14,0,Sweden,50,Brynas IF Gavle,22
+1999-00,34,1,4,1,0,EuroHL,6,Brynas IF Gavle,2
+2000-01,35,9,69,11,0,Sweden,50,Brynas IF Gavle,20
+2001-02,36,11,38,21,0,Sweden,49,Brynas IF Gavle,32
+2002-03,37,9,30,13,0,Sweden,50,Brynas IF Gavle,22
+2003-04,38,9,50,15,0,Sweden,49,Brynas IF Gavle,24
+2004-05,39,7,52,15,0,Sweden,50,Brynas IF Gavle,22
+2005-06,40,9,60,10,0,Sweden,48,Brynas IF Gavle,19
+2006-07,41,6,66,20,0,Sweden,50,Brynas IF Gavle,26
+2007-08,42,2,92,9,0,Sweden,52,Brynas IF Gavle,11

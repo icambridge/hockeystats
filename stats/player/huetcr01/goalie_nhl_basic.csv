@@ -1,0 +1,10 @@
+goals_allowed_precentage,goalie_point_share,goals_saved_aboved_average,bad_start,year,awards,goals_allowed,minutes,ties,pim,good_starts,saves,shots_againist,assists,team,shutouts,goals,games_started,goals_allowed_average,age,league,saves_percentage,good_start_precentages,games_played,points,wins,loses
+0,1.6,0,0,2002-03,[],21,541,1,0,0,220,241,0,LAK,1,0,0,2.33,27,NHL,.913,0,12,0,4,4
+104,5.5,-3.42,0,2003-04,[],89,2199,10,4,0,872,961,0,LAK,3,0,0,2.43,28,NHL,.907,0,41,0,10,16
+0,9.7,30.12,0,2005-06,"[{'link': '/awards/voting-2006.html#AS', 'name': 'AS-9'}]",77,2103,4,0,0,1008,1085,0,MTL,7,0,0,2.20,30,NHL,0,0,36,0,18,11
+88,9.4,14.29,0,2006-07,"[{'link': '/awards/voting-2007.html#AS', 'name': 'AS-11'}]",107,2286,3,0,0,1173,1280,1,MTL,2,0,0,2.81,31,NHL,.916,0,42,1,19,16
+88,11.1,16.36,6,2007-08,"[{'link': '/awards/voting-2008.html#vezina', 'name': 'Vezina-8'}]",118,3049,6,0,31,1361,1479,2,TOT,4,0,51,2.32,32,NHL,.920,.608,52,2,32,14
+93,8.0,7.47,5,2007-08,"[{'link': '/awards/voting-2008.html#vezina', 'name': 'Vezina-8'}]",97,2278,6,0,22,1053,1150,1,MTL,2,0,38,2.55,32,NHL,.916,.579,39,1,21,12
+70,3.1,8.89,1,2007-08,"[{'link': '/awards/voting-2008.html#vezina', 'name': 'Vezina-8'}]",21,771,0,0,9,308,329,1,WSH,2,0,13,1.63,32,NHL,.936,.692,13,1,11,2
+100,6.5,0.47,8,2008-09,[],99,2351,4,2,25,988,1087,0,CHI,3,0,40,2.53,33,NHL,.909,.625,41,0,20,15
+119,4.4,-17.90,13,2009-10,[],114,2731,4,4,24,969,1083,0,CHI,4,0,46,2.50,34,NHL,.895,.522,48,0,26,14

@@ -1,0 +1,9 @@
+age,win,shotsPercentage,even_strength_goals,assists,plus_minus,league,games_played,shorthanded_goals,year,game_winning_goals,shots,goals,average_ice_time,power_play_goals,pim,total_ice_time,team,points
+23,,29.3,4,7,-1,NHL,11,1,1988-89,0,41,12,,7,16,,PIT,19
+25,SC,17.2,8,0,14,NHL,23,0,1990-91,0,0,16,,6,16,,PIT,0
+26,SC,23.2,6,18,6,NHL,15,0,1991-92,0,69,0,,0,2,,PIT,0
+27,,20.0,4,10,2,NHL,11,1,1992-93,1,40,8,,3,10,,PIT,18
+28,,17.4,3,3,-4,NHL,6,0,1993-94,0,23,4,,1,2,,PIT,7
+30,,14.1,7,16,3,NHL,18,1,1995-96,2,78,11,,3,33,,PIT,27
+31,,15.8,3,3,-4,NHL,5,0,1996-97,0,19,3,,0,4,,PIT,6
+35,,15.4,5,11,4,NHL,18,0,2000-01,0,39,6,24:35,1,4,443,PIT,17

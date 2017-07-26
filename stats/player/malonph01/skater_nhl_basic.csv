@@ -1,0 +1,8 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,70,0,22,0,46,0,,BOS,"[{'link': '/awards/voting-1950.html#calder', 'name': 'Calder-2'}]",0,0,31,0,15,0,1949-50,,0,6,0,0
+NHL,14,0,23,0,3,0,,TOT,[],0,0,0,0,3,0,1950-51,,0,2,0,0
+NHL,13,0,23,0,2,0,,BOS,[],0,0,0,0,2,0,1950-51,,0,2,0,0
+NHL,1,0,23,0,1,0,,TOR,[],0,0,0,0,1,0,1950-51,,0,0,0,0
+NHL,29,0,25,0,8,0,,TOR,[],0,0,6,0,2,0,1952-53,,0,2,0,0
+NHL,24,0,31,0,4,0,,CBH,[],0,0,2,0,2,0,1958-59,,0,6,0,0
+NHL,21,0,32,0,10,0,,CBH,[],0,0,4,0,6,0,1959-60,,0,0,0,0

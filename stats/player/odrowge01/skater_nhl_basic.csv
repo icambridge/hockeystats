@@ -1,0 +1,13 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,68,0,22,0,5,0,,DET,"[{'link': '/awards/voting-1961.html#calder', 'name': 'Calder-4'}]",0,0,4,0,1,0,1960-61,,0,45,0,0
+NHL,69,0,23,0,7,0,,DET,[],0,0,6,0,1,0,1961-62,,0,24,0,0
+NHL,1,0,24,0,0,0,,DET,[],0,0,0,0,0,0,1962-63,,0,0,0,0
+NHL,42,2,29,40,10,2,,OAK,[],10.0,2,6,0,4,2,1967-68,,0,10,0,4
+NHL,74,0,30,54,6,0,,OAK,[],9.3,2,1,4,5,3,1968-69,,0,24,0,1
+NHL,55,0,33,30,3,0,,STL,[],3.3,0,2,-1,1,1,1971-72,,0,8,1,1
+WHA,0,0,34,0,37,0,,LAS,[],0,5,31,0,6,1,1972-73,,0,89,0,0
+WHA,77,0,35,0,36,0,,LAS,[],0,2,32,0,4,0,1973-74,,2,48,0,0
+WHA,77,0,36,143,43,0,,PHR,[],3.5,3,38,23,5,0,1974-75,,2,77,0,0
+WHA,50,0,37,82,14,0,,TOT,[],1.2,1,13,-17,1,0,1975-76,,0,16,0,0
+WHA,37,0,37,69,13,0,,MFS,[],1.4,1,12,-9,1,0,1975-76,,0,10,0,0
+WHA,13,0,37,13,1,0,,WNJ,[],0.0,0,1,-8,0,0,1975-76,,0,6,0,0

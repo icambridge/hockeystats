@@ -1,18 +1,18 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-6,1974-75,Akers IF,1,0,16,11,6,5,Sweden-3
-0,1975-76,Akers IF,17,0,17,20,28,11,Sweden-3
-23,1976-77,Sodertalje SK,5,0,18,15,7,2,Sweden
-58,1977-78,Sodertalje SK,3,0,19,32,9,6,Sweden
-17,1977-78,Sweden,3,0,19,7,8,5,WJC-A
-18,1978-79,Sodertalje SK,7,0,20,14,11,4,Sweden
-84,1979-80,Sodertalje SK,19,0,21,31,41,22,Sweden-2
-86,1980-81,Sodertalje SK,11,0,22,33,20,9,Sweden
-113,1981-82,Indianapolis Checkers,32,0,23,63,57,25,CHL
-86,1982-83,Indianapolis Checkers,27,0,24,42,53,26,CHL
-0,1985-86,Springfield Indians,1,0,27,2,2,1,AHL
-0,1986-87,HC Lugano,3,0,28,10,9,6,Swiss
-50,1987-88,Sodertalje SK,13,0,29,30,23,10,Sweden
-68,1988-89,Sodertalje SK,6,0,30,34,16,10,Sweden
-40,1989-90,Malmo IF,8,0,31,24,18,10,Sweden-2
-48,1990-91,Malmo IF,14,0,32,38,27,13,Sweden
-68,1991-92,Malmo IF,9,0,33,34,13,4,Sweden
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+1,Akers IF,5,1974-75,11,6,6,16,0,Sweden-3
+17,Akers IF,11,1975-76,20,28,0,17,0,Sweden-3
+5,Sodertalje SK,2,1976-77,15,7,23,18,0,Sweden
+3,Sodertalje SK,6,1977-78,32,9,58,19,0,Sweden
+3,Sweden,5,1977-78,7,8,17,19,0,WJC-A
+7,Sodertalje SK,4,1978-79,14,11,18,20,0,Sweden
+19,Sodertalje SK,22,1979-80,31,41,84,21,0,Sweden-2
+11,Sodertalje SK,9,1980-81,33,20,86,22,0,Sweden
+32,Indianapolis Checkers,25,1981-82,63,57,113,23,0,CHL
+27,Indianapolis Checkers,26,1982-83,42,53,86,24,0,CHL
+1,Springfield Indians,1,1985-86,2,2,0,27,0,AHL
+3,HC Lugano,6,1986-87,10,9,0,28,0,Swiss
+13,Sodertalje SK,10,1987-88,30,23,50,29,0,Sweden
+6,Sodertalje SK,10,1988-89,34,16,68,30,0,Sweden
+8,Malmo IF,10,1989-90,24,18,40,31,0,Sweden-2
+14,Malmo IF,13,1990-91,38,27,48,32,0,Sweden
+9,Malmo IF,4,1991-92,34,13,68,33,0,Sweden

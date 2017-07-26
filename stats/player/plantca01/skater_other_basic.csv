@@ -1,0 +1,30 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1980-81,16,3,17,14,0,WHL,70,Brandon Wheat Kings,17
+1981-82,17,4,22,12,0,WHL,36,Brandon Wheat Kings,16
+1982-83,18,19,71,56,0,WHL,56,Brandon Wheat Kings,75
+1983-84,19,22,96,118,0,WHL,72,Brandon Wheat Kings,140
+1984-85,20,5,42,31,0,AHL,54,St. Catharines Saints,36
+1985-86,21,6,28,15,0,AHL,49,St. Catharines Saints,21
+1986-87,22,3,14,4,0,AHL,19,Newmarket Saints,7
+1986-87,22,7,44,47,0,IHL,56,Milwaukee Admirals,54
+1987-88,23,2,14,8,0,AHL,18,Newmarket Saints,10
+1987-88,23,2,14,10,0,Austria,11,EC VSV Villach,12
+1987-88,23,9,0,26,0,Swiss-2,20,EHC Basel,35
+1988-89,24,3,0,2,0,Swiss,3,HC Davos,5
+1989-90,25,1,10,19,0,W.Ger-2,12,Krefelder EV,20
+1989-90,25,7,45,42,0,IHL,61,Fort Wayne Komets,49
+1990-91,26,6,34,14,0,IHL,43,Kansas City Blades,20
+1991-92,27,16,32,57,0,ColHL,54,Thunder Bay Thunder Hawks,73
+1992-93,28,9,16,26,0,BH-Cup,8,Norwich & Peterboro Pirates,35
+1992-93,28,14,93,52,0,Britain,25,Norwich & Peterboro Pirates,66
+1993-94,29,9,16,26,0,BH-Cup,8,Peterborough Pirates,35
+1993-94,29,13,56,55,0,Britain,37,Peterborough Pirates,68
+1994-95,30,4,8,8,0,BH-Cup,6,Peterborough Pirates,12
+1994-95,30,22,60,52,0,Britain,34,Peterborough Pirates,74
+1995-96,31,4,24,7,0,BH-Cup,6,Peterborough Pirates,11
+1995-96,31,3,18,5,0,Britain,9,Humberside Hawks,8
+1995-96,31,12,115,47,0,Britain-2,26,2 Teams,59
+1995-96,31,4,93,32,0,Britain-2,16,Peterborough Pirates,36
+1995-96,31,8,22,15,0,Britain-2,10,Chelmsford Chieftains,23
+1996-97,32,12,74,63,0,CHL,55,Wichita Thunder,75
+1997-98,33,8,112,62,20,CHL,67,Wichita Thunder,70

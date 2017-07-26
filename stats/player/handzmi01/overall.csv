@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1977-03-11,C,", ",L,Michal Handzus
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",C,1977-03-11,Michal Handzus

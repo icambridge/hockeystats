@@ -1,0 +1,16 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1986-87,16,16,95,49,0,MMMHL,59,Winnipeg Mavericks,65
+1987-88,17,31,65,45,0,WHL,68,Seattle Thunderbirds,76
+1988-89,18,21,48,32,0,WHL,63,Seattle Thunderbirds,53
+1989-90,19,34,68,43,0,WHL,65,Seattle Thunderbirds,77
+1990-91,20,41,119,38,0,WHL,72,Seattle Thunderbirds,79
+1991-92,21,10,84,19,0,AHL,71,Fredericton Canadiens,29
+1992-93,22,18,38,16,0,AHL,65,Fredericton Canadiens,34
+1993-94,23,9,103,30,0,AHL,75,Fredericton Canadiens,39
+1994-95,24,0,28,7,0,AHL,14,Worcester IceCats,7
+1995-96,25,9,81,19,0,AHL,65,Worcester IceCats,28
+1996-97,26,26,82,65,0,WCHL,58,Bakersfield Fog,91
+1997-98,27,21,34,24,-30,WCHL,41,Bakersfield Fog,45
+1998-99,28,1,0,0,3,AHL,4,Hershey Bears,1
+1998-99,28,27,46,73,-19,UHL,66,Asheville Smoke,100
+1999-00,29,24,54,52,-26,UHL,69,Asheville Smoke,76

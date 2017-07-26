@@ -1,0 +1,9 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OMJHL,29,London Knights,1385,16,0,0,0,86,0,0,0,0,0,0,0,0,0,0,1975-76,0,3.73,0,0
+0,OMJHL,48,London Knights,2809,17,0,0,0,138,0,0,0,2,0,0,0,0,0,0,1976-77,0,2.95,0,0
+0,OMJHL,38,London Knights,2266,18,0,0,0,140,0,0,0,0,0,0,0,0,0,0,1977-78,0,3.71,0,0
+0,CHL,12,Birmingham Bulls,746,20,2,0,0,32,0,0,2,0,8,0,0,0,0,0,1979-80,0,2.57,0,0
+0,AHL,3,Hershey Bears,185,24,0,0,0,7,0,0,1,0,2,0,0,0,0,0,1983-84,0,2.27,0,0
+0,WEC-A,4,Canada,213,25,1,0,0,11,0,0,0,0,2,0,0,0,0,0,1984-85,0,3.10,0,0
+0,AHL,14,Moncton Golden Flames,798,27,5,0,0,34,0,0,0,1,6,0,0,0,0,0,1986-87,0,2.56,0,0
+0,IHL,18,Muskegon Lumberjacks,956,28,2,0,0,43,0,0,0,0,13,0,0,0,0,0,1987-88,0,2.70,0,0

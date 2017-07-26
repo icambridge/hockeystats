@@ -1,0 +1,5 @@
+age,win,shotsPercentage,even_strength_goals,assists,plus_minus,league,games_played,shorthanded_goals,year,game_winning_goals,shots,goals,average_ice_time,power_play_goals,pim,total_ice_time,team,points
+22,,16.7,2,0,-1,NHL,7,0,1978-79,0,12,2,,0,4,,PIT,2
+23,,20.0,2,1,-4,NHL,5,0,1979-80,0,10,2,,0,6,,PIT,3
+24,,18.8,2,3,0,NHL,5,0,1980-81,1,16,3,,1,16,,PIT,6
+25,,10.0,1,2,0,NHL,5,0,1981-82,0,10,1,,0,0,,PIT,3

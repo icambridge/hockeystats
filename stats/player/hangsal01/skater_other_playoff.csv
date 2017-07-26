@@ -1,2 +1,2 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-4,1981-82,New Haven Nighthawks,0,0,28,4,0,0,AHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,New Haven Nighthawks,0,1981-82,4,0,4,28,0,AHL

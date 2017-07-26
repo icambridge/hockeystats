@@ -1,0 +1,33 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1986-87,17,9,24,15,0,Fin-U18,16,Karhu-Kissat Helsinki U18,24
+1986-87,17,0,0,1,0,Fin-Jr.,2,Karhu-Kissat Helsinki Jr.,1
+1987-88,18,7,6,3,0,Fin-Jr.,8,Karhu-Kissat Helsinki Jr.,10
+1987-88,18,9,21,15,0,Finland-2,42,Karhu-Kissat Helsinki,24
+1988-89,19,4,10,5,0,Fin-Jr.,7,Karhu-Kissat Helsinki Jr.,9
+1988-89,19,18,26,19,0,Finland-2,44,Karhu-Kissat Helsinki,37
+1989-90,20,30,44,24,0,Finland-2,42,Karhu-Kissat Helsinki,54
+1990-91,21,20,42,31,0,Finland-2,44,KooKoo Kouvola,51
+1991-92,22,13,24,23,0,Finland,36,Assat Pori,36
+1992-93,23,14,42,35,0,Finland,46,Assat Pori,49
+1993-94,24,14,16,15,0,Finland,31,Jokerit Helsinki,29
+1993-94,24,1,2,1,0,Olympics,5,Finland,2
+1994-95,25,0,2,1,0,Finland-2,1,Haukat Jarvenpaa,1
+1994-95,25,21,53,20,0,Finland,47,Jokerit Helsinki,41
+1995-96,26,28,22,28,0,Finland,50,Jokerit Helsinki,56
+1996-97,27,36,38,23,0,Finland,50,Jokerit Helsinki,59
+1996-97,27,2,2,8,0,EuroHL,6,Jokerit Helsinki,10
+1996-97,27,2,2,3,0,WC-A,8,Finland,5
+1997-98,28,18,32,54,7,IHL,77,Indianapolis Ice,72
+1998-99,29,10,22,25,0,Germany,52,Kolner Haie,35
+1999-00,30,21,44,25,0,Finland,53,Jokerit Helsinki,46
+2000-01,31,27,38,43,0,Finland,56,Jokerit Helsinki,70
+2001-02,32,2,0,0,0,Finland,6,Jokerit Helsinki,2
+2001-02,32,2,6,2,0,Swiss,9,ZSC Lions Zurich,4
+2001-02,32,6,29,15,0,Swiss-2,16,GC SCK Lions Zurich,21
+2002-03,33,16,16,21,0,Swiss-2,28,GC SCK Lions Zurich,37
+2003-04,34,9,38,19,0,Finland,55,Tappara Tampere,28
+2004-05,35,13,28,17,0,Finland,56,Jokerit Helsinki,30
+2005-06,36,18,56,13,0,Finland,56,Jokerit Helsinki,31
+2006-07,37,17,56,28,0,Finland,54,Jokerit Helsinki,45
+2007-08,38,3,16,8,0,Finland,28,Jokerit Helsinki,11
+2008-09,39,0,4,0,0,Finland,14,Jokerit Helsinki,0

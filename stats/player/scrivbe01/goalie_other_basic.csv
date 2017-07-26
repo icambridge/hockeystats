@@ -1,0 +1,14 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,AJHL,17,2 Teams,916,18,4,0,0,46,0,0,3,1,7,0,0,0,0,0,2004-05,0,3.01,6,0
+0,AJHL,1,Drayton Valley Thunder,59,18,1,0,0,3,0,0,0,0,0,0,0,0,0,0,2004-05,0,3.05,2,0
+0,AJHL,16,Calgary Canucks,857,18,3,0,0,43,0,0,3,1,7,0,0,0,0,0,2004-05,0,3.01,4,0
+0,AJHL,45,Spruce Grove Saints,2469,19,12,0,1,100,0,0,2,3,27,1,0,0,0,0,2005-06,0,2.43,4,0
+0,ECAC,12,Cornell Big Red,574,20,6,0,0,22,0,0,2,1,3,0,0,0,0,0,2006-07,0,2.30,2,0
+0,ECAC,35,Cornell Big Red,1965,21,12,0,1,66,0,0,3,4,19,1,0,0,0,0,2007-08,0,2.02,2,0
+0,ECAC,36,Cornell Big Red,2153,22,10,0,0,65,0,0,4,7,22,0,0,0,0,0,2008-09,0,1.81,2,0
+0,ECAC,34,Cornell Big Red,2018,23,9,0,0,63,0,0,4,7,21,0,0,0,0,0,2009-10,0,1.87,0,0
+0,AHL,33,Toronto Marlies,1929,24,12,0,0,75,0,0,5,2,13,0,0,0,0,.924,2010-11,987,2.33,0,912
+0,ECHL,13,Reading Royals,779,24,3,0,0,29,0,0,0,0,10,0,0,0,0,.938,2010-11,471,2.23,2,442
+0,AHL,39,Toronto Marlies,2293,25,15,0,2,78,0,0,1,4,22,2,0,0,0,.926,2011-12,1052,2.04,0,974
+0,AHL,22,Toronto Marlies,1325,26,7,0,0,49,0,0,1,2,14,0,0,0,0,.917,2012-13,587,2.22,10,538
+0,WC,0,Canada,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2013-14,0,0,0,0

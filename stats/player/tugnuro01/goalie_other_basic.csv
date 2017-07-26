@@ -1,0 +1,16 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,MTHL,34,Toronto Red Wings Midgets,1690,16,0,0,0,91,0,0,0,3,0,0,0,0,0,0,1983-84,0,3.23,0,0
+0,ON-Jr.B,1,Weston Dukes,20,16,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1983-84,0,6.00,0,0
+0,OHL,18,Peterborough Petes,938,17,4,0,0,59,0,0,2,0,7,0,0,0,0,0,1984-85,0,3.77,0,0
+0,OHL,26,Peterborough Petes,1543,18,7,0,0,74,0,0,0,1,18,0,0,0,0,0,1985-86,0,2.88,0,0
+0,OHL,31,Peterborough Petes,1891,19,7,0,0,88,0,0,2,2,21,0,0,0,0,0,1986-87,0,2.79,0,0
+0,AHL,34,Fredericton Express,1964,20,9,0,0,118,0,0,4,1,20,0,0,0,0,0,1987-88,0,3.60,0,0
+0,AHL,24,Halifax Citadels,1368,21,7,0,0,79,0,0,2,1,14,0,0,0,0,0,1988-89,0,3.46,0,0
+0,AHL,6,Halifax Citadels,366,22,5,0,0,23,0,0,0,0,1,0,0,0,0,0,1989-90,0,3.77,0,0
+0,AHL,2,Halifax Citadels,100,23,1,0,0,8,0,0,0,0,0,0,0,0,0,0,1990-91,0,4.80,0,0
+0,AHL,8,Halifax Citadels,447,24,3,0,0,30,0,0,1,0,3,0,0,0,0,0,1991-92,0,4.03,0,0
+0,WC-A,4,Canada,125,25,0,0,0,6,0,0,0,0,0,0,0,0,0,0,1992-93,0,2.88,0,0
+0,AHL,58,Portland Pirates,3068,28,23,0,0,171,0,0,6,2,21,0,0,0,0,.898,1995-96,1681,3.34,0,1510
+0,WC-A,7,Canada,328,31,3,0,0,11,0,0,0,0,4,0,0,0,0,.915,1998-99,130,2.01,0,119
+0,AHL,5,Utah Grizzlies,281,35,3,0,0,14,0,0,1,0,1,0,0,0,0,0,2002-03,0,2.99,0,0
+0,AHL,5,Utah Grizzlies,281,36,3,0,0,14,0,0,1,0,1,0,0,0,0,.894,2003-04,132,2.99,0,118

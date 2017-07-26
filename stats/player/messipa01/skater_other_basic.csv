@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1973-74,16,37,43,39,0,AJHL,59,Edmonton Mets,76
+1974-75,17,45,48,56,0,AJHL,57,Spruce Grove Mets,101
+1974-75,17,2,0,0,0,WCJHL,1,Edmonton Oil Kings,2
+1975-76,18,32,46,45,0,AJHL,44,Spruce Grove Mets,77
+1975-76,18,1,2,12,0,WCJHL,11,Edmonton Oil Kings,13
+1976-77,19,15,47,12,0,WCHA,30,University of Denver,27
+1977-78,20,20,53,31,0,WCHA,38,University of Denver,51
+1978-79,21,2,18,3,0,AHL,16,Philadelphia Firebirds,5
+1978-79,21,3,11,4,0,CHL,27,Tulsa Oilers,7
+1979-80,22,6,16,15,0,CHL,57,2 Teams,21
+1979-80,22,0,2,1,0,CHL,7,Fort Worth Texans,1
+1979-80,22,6,14,14,0,CHL,50,Birmingham Bulls,20
+1980-81,23,13,26,13,0,CHL,45,Wichita Wind,26
+1981-82,24,26,74,37,0,AHL,62,Binghamton Whalers,63
+1982-83,25,27,30,50,0,AHL,77,Moncton Alpines,77
+1983-84,26,24,40,26,0,W.German,46,ECD Iserlohn,50
+1984-85,27,32,35,31,0,W.German,36,Mannheimer ERC,63
+1985-86,28,32,66,33,0,W.German,35,Mannheimer ERC,65
+1986-87,29,32,60,33,0,W.German,36,Mannheimer ERC,59
+1987-88,30,21,40,29,0,W.German,36,Mannheimer ERC,50
+1988-89,31,32,30,17,0,W.German,36,Mannheimer ERC,49
+1989-90,32,11,22,23,0,W.German,36,Mannheimer ERC,34
+1990-91,33,1,0,1,0,Italy,2,HC Bolzano,2

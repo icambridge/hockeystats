@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1999-00,17,6,150,5,0,Slovak-Jr.,46,HK 36 Skalica Jr.,11
+1999-00,17,0,8,2,1,WJ18-A,6,Slovakia,2
+2000-01,18,13,198,50,-17,QMJHL,64,Rimouski Oceanic,63
+2000-01,18,0,2,0,0,WJC-A,7,Slovakia,0
+2001-02,19,14,164,32,-4,QMJHL,51,Rimouski Oceanic,46
+2001-02,19,1,4,0,1,WJC-A,7,Slovakia,1
+2002-03,20,0,50,4,-6,AHL,30,Lowell Lock Monsters,4
+2003-04,21,7,101,13,-11,AHL,74,Lowell Lock Monsters,20
+2004-05,22,4,104,14,-17,AHL,66,Cincinnati Mighty Ducks,18
+2005-06,23,1,118,27,-24,AHL,79,Binghamton Senators,28
+2006-07,24,3,79,19,-7,AHL,76,2 Teams,22
+2006-07,24,1,35,12,1,AHL,33,Binghamton Senators,13
+2006-07,24,2,44,7,-8,AHL,43,Bridgeport Sound Tigers,9
+2007-08,25,5,88,4,0,CzRep,52,HC Ocelari Trinec,9
+2008-09,26,3,121,15,0,CzRep,51,HC Ocelari Trinec,18
+2009-10,27,4,60,15,0,CzRep,52,HC Ocelari Trinec,19
+2010-11,28,3,98,6,0,CzRep,61,HC Kometa Brno,9
+2011-12,29,0,68,6,0,CzRep,52,HC Kometa Brno,6
+2012-13,30,3,58,6,0,CzRep,54,HC Kometa Brno,9

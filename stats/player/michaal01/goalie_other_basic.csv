@@ -1,0 +1,16 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,SJHL,44,Lebret Eagles,2547,19,0,0,0,121,0,0,0,2,0,0,0,0,0,0,1995-96,0,2.85,0,0
+0,H-East,29,University of Maine,1515,20,8,0,0,78,0,0,1,1,17,0,0,0,0,0,1996-97,0,3.09,0,0
+0,H-East,32,University of Maine,1794,21,12,0,0,94,0,0,4,2,15,0,0,0,0,0,1997-98,0,3.14,0,0
+0,H-East,37,University of Maine,2147,22,6,0,0,83,0,0,3,3,28,0,0,0,0,0,1998-99,0,2.32,0,0
+0,AHL,38,Syracuse Crunch,2052,23,17,0,0,132,0,0,5,0,10,0,0,0,0,.890,1999-00,1197,3.86,0,1065
+0,IHL,32,Kansas City Blades,1778,24,14,0,2,93,0,0,2,1,14,2,0,0,0,.904,2000-01,972,3.14,19,879
+0,AHL,32,Manitoba Moose,1749,25,10,0,1,78,0,0,1,4,16,1,0,0,0,.907,2001-02,838,2.68,7,760
+0,ECHL,11,Reading Royals,606,25,3,0,0,26,0,0,2,2,5,0,0,0,0,.915,2001-02,305,2.57,10,279
+0,Finland,4,Tappara Tampere,160,26,2,0,0,11,0,0,1,0,0,0,0,0,0,0,2002-03,0,4.13,2,0
+0,Finland-2,5,Ahmat Hyvinkaa,305,26,0,0,0,6,0,0,1,2,4,0,0,0,0,0,2002-03,0,1.18,0,0
+0,ECHL,30,Peoria Rivermen,1685,26,4,0,0,59,0,0,4,1,20,0,0,0,0,.927,2002-03,806,2.10,0,747
+0,Germany,20,Nurnberg Ice Tigers,1184,27,0,0,0,47,0,0,0,2,0,0,0,0,0,0,2003-04,0,2.38,2,0
+0,AHL,2,Worcester IceCats,120,28,0,0,0,3,0,0,0,0,2,0,0,0,0,.930,2004-05,43,1.50,0,40
+0,ECHL,48,Peoria Rivermen,2712,28,13,0,0,92,0,0,5,6,27,0,0,0,0,.929,2004-05,1293,2.04,27,1201
+0,ECHL,40,Utah Grizzlies,2248,29,12,0,2,97,0,0,4,4,22,2,0,0,0,.912,2005-06,1108,2.59,19,1011

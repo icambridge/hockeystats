@@ -1,0 +1,8 @@
+goals_allowed_precentage,goalie_point_share,goals_saved_aboved_average,bad_start,year,awards,goals_allowed,minutes,ties,pim,good_starts,saves,shots_againist,assists,team,shutouts,goals,games_started,goals_allowed_average,age,league,saves_percentage,good_start_precentages,games_played,points,wins,loses
+76,2.8,6.92,2,2010-11,[],22,736,2,0,8,310,332,1,WSH,2,0,12,1.79,21,NHL,.934,.667,14,1,10,2
+0,1.4,0,1,2011-12,[],15,361,1,0,3,177,192,0,WSH,1,0,6,2.49,22,NHL,.922,.500,7,0,4,2
+91,8.0,8.91,5,2012-13,"[{'link': '/awards/voting-2013.html#AS', 'name': 'AS-14'}]",90,2089,1,2,20,1033,1123,2,WSH,4,0,35,2.58,23,NHL,.920,.571,36,2,23,12
+99,9.0,1.10,7,2013-14,[],126,2656,4,7,26,1349,1475,2,WSH,4,0,45,2.85,24,NHL,.915,.578,48,2,23,15
+90,14.4,17.46,7,2014-15,"[{'link': '/awards/voting-2015.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-2015.html#hart', 'name': 'Hart-18'}, {'link': '/awards/voting-2015.html#vezina', 'name': 'Vezina-4'}]",157,0,10,2,43,0,0,2,WSH,9,0,72,2.22,25,NHL,.923,.597,0,2,41,20
+92,12.1,12.43,6,2015-16,"[{'link': '/awards/nhl_all_star.html#2016', 'name': None}, {'link': '/awards/voting-2016.html#hart', 'name': 'Hart-4'}, {'link': '/awards/vezina.html#2016', 'name': None}]",141,3841,7,6,42,1661,1802,1,WSH,3,0,66,2.20,26,NHL,.922,.636,66,1,0,9
+87,12.3,19.25,8,2016-17,"[{'link': '/awards/nhl_all_star.html#2017', 'name': None}, {'link': '/awards/voting-2017.html#hart', 'name': 'Hart-10'}, {'link': '/awards/jennings.html#2017', 'name': None}, {'link': '/awards/voting-2017.html#vezina', 'name': 'Vezina-2'}]",127,3680,6,0,39,1563,1690,0,WSH,0,0,63,2.07,27,NHL,.925,.619,63,0,0,13

@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1909-09-24,", ",LW,Walter Harnott,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",LW,1909-09-24,Walter Harnott

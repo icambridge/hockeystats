@@ -1,0 +1,42 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1970-71,10,34,0,13,0,Finland-AA,27,2 Teams,47
+1970-71,10,21,0,6,0,Finland-AA,9,Jokerit Maple Leafs,27
+1970-71,10,13,0,7,0,Finland-AA,18,Jokerit Novice,20
+1971-72,11,40,0,23,0,Finland-AA,31,Jokerit Atoms,63
+1972-73,12,32,0,16,0,Finland-AA,35,Jokerit Atoms,48
+1973-74,13,65,0,32,0,Finland-AA,54,Jokerit Atoms,97
+1974-75,14,17,0,9,0,Finland-AA,18,Jokerit PeeWees,26
+1975-76,15,65,0,24,0,Finland-AA,58,Jokerit PeeWees,89
+1976-77,16,59,4,49,0,Finland-AA,51,2 Teams,108
+1976-77,16,4,4,6,0,Finland-AA,18,Jokerit Helsinki,10
+1977-78,17,5,2,4,0,Fin-Jr.,5,Jokerit Helsinki Jr.,9
+1977-78,17,2,12,9,0,Finland,29,Jokerit Helsinki,11
+1977-78,17,1,2,7,0,Finland-Q,6,Jokerit Helsinki,8
+1977-78,17,6,4,2,0,EJC-A,4,Finland,8
+1978-79,18,1,2,1,0,Fin-Jr.,2,Jokerit Helsinki Jr.,2
+1978-79,18,16,12,14,0,Finland,33,Jokerit Helsinki,30
+1978-79,18,2,2,3,0,WJC-A,6,Finland,5
+1979-80,19,23,22,16,0,Finland,33,Jokerit Helsinki,39
+1979-80,19,7,13,2,0,Finland-Q,6,Jokerit Helsinki,9
+1979-80,19,4,0,7,0,WJC-A,5,Finland,11
+1979-80,19,3,0,1,0,Nat-Tm,8,Finland,4
+1979-80,19,2,6,1,0,Olympics,7,Finland,3
+1981-82,21,0,0,1,0,Can-Cup,5,Finland,1
+1981-82,21,1,2,2,0,Nat-Tm,5,Finland,3
+1981-82,21,4,2,3,0,WEC-A,7,Finland,7
+1986-87,26,1,0,1,0,RV-87,2,NHL All-Stars,2
+1987-88,27,2,2,2,0,Nat-Tm,6,Finland,4
+1987-88,27,1,4,1,0,Can-Cup,5,Finland,2
+1988-89,28,5,4,4,0,WEC-A,7,Finland,9
+1990-91,30,37,8,60,0,Italy,40,HC Devils Mediolanum Milano,97
+1990-91,30,4,2,4,0,Nat-Tm,6,Finland,8
+1990-91,30,6,2,6,0,WEC-A,10,Finland,12
+1991-92,31,0,2,2,0,Nat-Tm,5,Finland,2
+1991-92,31,2,7,0,0,Can-Cup,6,Finland,2
+1992-93,32,0,2,0,0,Nat-Tm,1,Finland,0
+1993-94,33,4,2,6,0,WC-A,8,Finland,10
+1994-95,34,10,10,9,0,Finland,20,Jokerit Helsinki,19
+1994-95,34,0,0,0,0,Nat-Tm,1,Finland,0
+1996-97,36,0,0,0,0,Nat-Tm,4,Finland,0
+1996-97,36,1,0,0,0,W-Cup,4,Finland,1
+1997-98,37,1,2,4,0,Olympics,6,Finland,5

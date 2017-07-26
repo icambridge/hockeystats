@@ -1,0 +1,7 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,77,2,23,178,55,3,,CGY,[],16.9,27,25,11,30,0,1983-84,,3,22,0,22
+NHL,78,5,24,224,72,11,,CGY,"[{'link': '/awards/voting-1985.html#byng', 'name': 'Byng-16'}]",16.5,28,35,14,37,1,1984-85,,8,14,1,23
+NHL,68,1,25,174,67,6,,CGY,[],17.8,21,36,22,31,0,1985-86,,10,36,3,27
+NHL,68,1,26,129,44,8,,CGY,[],14.0,11,26,-13,18,0,1986-87,,7,26,0,18
+NHL,0,4,27,198,106,26,,CGY,"[{'link': '/awards/nhl_all_star.html#1988', 'name': None}, {'link': '/awards/voting-1988.html#byng', 'name': 'Byng-6'}]",25.3,33,56,41,50,8,1987-88,,9,47,5,25
+NHL,79,4,28,223,85,20,,CGY,"[{'link': '/awards/voting-1989.html#AS', 'name': 'AS-10'}]",12.1,22,58,28,27,0,1988-89,,5,44,1,37

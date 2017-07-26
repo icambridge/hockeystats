@@ -1,0 +1,19 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1903-04,20,1,0,0,0,FAHL,2,Montreal Nationals,1
+1904-05,21,0,0,0,0,CAHL,2,Montreal Nationals,0
+1904-05,21,11,6,0,0,IHL,13,American Soo Indians,11
+1905-06,22,41,29,0,0,IHL,22,American Soo Indians,41
+1906-07,23,25,28,11,0,IHL,23,American Soo Indians,36
+1907-08,24,3,15,0,0,ECAHA,10,Montreal Shamrocks,3
+1908-09,25,5,16,0,0,FAHL,5,Renfrew Creamery Kings,5
+1908-09,25,7,0,0,0,X-Games,4,2 Teams,7
+1908-09,25,3,0,0,0,X-Games,3,Edmonton Professionals,3
+1908-09,25,4,0,0,0,X-Games,1,Montreal Nationals,4
+1909-10,26,11,11,0,0,NHA,13,Les Canadiens (Montreal),11
+1910-11,27,19,22,0,0,NHA,16,Montreal Canadiens,19
+1911-12,28,27,40,0,0,NHA,18,Montreal Canadiens,27
+1912-13,29,24,80,0,0,NHA,17,Montreal Canadiens,24
+1913-14,30,14,12,2,0,PCHA,16,Vancouver Millionaires,16
+1914-15,31,30,15,4,0,NHA,20,Montreal Canadiens,34
+1915-16,32,24,42,15,0,NHA,24,Montreal Canadiens,39
+1916-17,33,21,50,6,0,NHA,20,Montreal Canadiens,27

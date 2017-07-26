@@ -1,0 +1,14 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,NBAHA,70,Moncton Flyers,4198,16,0,0,0,147,0,0,0,14,0,0,0,0,0,0,1976-77,0,2.10,0,0
+0,OMJHL,44,Windsor Spitfires,2592,17,0,0,0,195,0,0,0,1,0,0,0,0,0,0,1977-78,0,4.51,0,0
+0,OMJHL,62,Windsor Spitfires,3461,18,0,0,0,254,0,0,0,1,0,0,0,0,0,0,1978-79,0,4.40,0,0
+0,OMJHL,60,2 Teams,3339,19,20,0,0,226,0,0,0,3,37,0,0,0,0,0,1979-80,0,4.06,0,0
+0,OMJHL,22,Windsor Spitfires,1099,19,8,0,0,90,0,0,0,0,11,0,0,0,0,0,1979-80,0,4.91,0,0
+0,OMJHL,38,Oshawa Generals,2240,19,12,0,0,136,0,0,0,3,26,0,0,0,0,0,1979-80,0,3.64,0,0
+0,CHL,52,Indianapolis Checkers,3056,20,16,0,0,131,0,0,3,2,31,0,0,0,0,0,1980-81,0,2.57,0,0
+0,AHL,3,New Haven Nighthawks,179,25,2,0,0,13,0,0,0,0,1,0,0,0,0,0,1985-86,0,4.36,0,0
+0,AHL,29,New Haven Nighthawks,1734,28,15,0,0,106,0,0,3,1,11,0,0,0,0,0,1988-89,0,3.67,0,0
+0,AHL,48,Utica Devils,2737,29,19,0,0,167,0,0,3,1,24,0,0,0,0,0,1989-90,0,3.66,0,0
+0,AHL,54,Utica Devils,3058,30,28,0,0,208,0,0,1,0,23,0,0,0,0,0,1990-91,0,4.08,0,0
+0,ColHL,14,Brantford Smoke,811,32,4,0,0,54,0,0,0,1,10,0,0,0,0,0,1992-93,0,4.00,0,0
+0,AHL,7,Saint John Flames,270,33,2,0,0,20,0,0,0,0,1,0,0,0,0,0,1993-94,0,4.44,0,0

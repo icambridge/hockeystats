@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1903-04,17,1,0,0,0,CAHL,2,Montreal AAA,1
+1904-05,18,8,9,0,0,CAHL,9,Montreal AAA,8
+1905-06,19,12,44,0,0,ECAHA,10,Montreal Wanderers,12
+1906-07,20,15,42,0,0,ECAHA,10,Montreal Wanderers,15
+1907-08,21,9,33,0,0,ECAHA,10,Montreal Wanderers,9
+1908-09,22,10,34,0,0,ECHA,10,Montreal Wanderers,10
+1909-10,23,7,47,0,0,NHA,13,Montreal Wanderers,7
+1910-11,24,6,60,0,0,NHA,16,Montreal Wanderers,6
+1911-12,25,9,13,0,0,PCHA,14,New Westminster Royals,9
+1911-12,25,1,10,0,0,Exhib.,3,PCHA All-Stars,1
+1912-13,26,7,15,3,0,PCHA,13,New Westminster Royals,10
+1913-14,27,3,27,5,0,PCHA,16,New Westminster Royals,8
+1914-15,28,6,21,4,0,PCHA,18,Portland Rosebuds,10
+1914-15,28,0,0,0,0,Exhib.,2,PCHA All-Stars,0
+1915-16,29,6,62,3,0,PCHA,18,Portland Rosebuds,9
+1915-16,29,0,3,1,0,Exhib.,3,PCHA All-Stars,1
+1916-17,30,12,54,9,0,PCHA,24,Portland Rosebuds,21
+1917-18,31,3,3,2,0,PCHA,15,Portland Rosebuds,5
+1918-19,32,3,0,3,0,PCHA,15,Victoria Aristocrats,6
+1919-20,33,0,22,5,0,PCHA,21,Victoria Aristocrats,5
+1920-21,34,5,26,2,0,PCHA,24,Victoria Aristocrats,7
+1921-22,35,1,12,1,0,PCHA,13,Victoria Cougars,2
+1926-27,40,1,43,2,0,AHA,30,Minneapolis Millers,3
+1928-29,42,1,27,0,0,PCHL,28,Portland Buckaroos,1

@@ -1,9 +1,9 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1917-18,Brooklyn Crescents,0,0,18,4,3,3,AAHL
-8,1918-19,Brooklyn Crescents,3,0,19,7,14,11,AAHL
-2,1918-19,Brooklyn Crescents,3,0,19,4,3,0,NYSHL
-0,1923-24,Boston A.A. Unicorns,0,0,24,1,0,0,USAHA
-0,1924-25,3 Teams,0,0,25,18,2,2,USAHA
-0,1924-25,Boston A.A. Unicorns,0,0,25,8,2,2,USAHA
-0,1924-25,Boston Maples,0,0,25,4,0,0,USAHA
-0,1924-25,Minneapolis Rockets,0,0,25,6,0,0,USAHA
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Brooklyn Crescents,3,1917-18,4,3,0,18,0,AAHL
+3,Brooklyn Crescents,11,1918-19,7,14,8,19,0,AAHL
+3,Brooklyn Crescents,0,1918-19,4,3,2,19,0,NYSHL
+0,Boston A.A. Unicorns,0,1923-24,1,0,0,24,0,USAHA
+0,3 Teams,2,1924-25,18,2,0,25,0,USAHA
+0,Boston A.A. Unicorns,2,1924-25,8,2,0,25,0,USAHA
+0,Boston Maples,0,1924-25,4,0,0,25,0,USAHA
+0,Minneapolis Rockets,0,1924-25,6,0,0,25,0,USAHA

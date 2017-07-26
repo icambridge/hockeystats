@@ -1,0 +1,28 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1985-86,18,30,110,38,0,SJHL,60,Estevan Bruins,68
+1987-88,20,12,36,10,0,WCHA,35,U. of Minnesota-Duluth,22
+1988-89,21,15,51,18,0,WCHA,36,U. of Minnesota-Duluth,33
+1989-90,22,4,36,4,0,AHL,32,Binghamton Whalers,8
+1989-90,22,11,27,23,0,ECHL,26,Virginia Lancers,34
+1990-91,23,25,53,31,0,Nat-Tm,55,Canada,56
+1990-91,23,0,2,0,0,AHL,1,Springfield Indians,0
+1991-92,24,33,63,35,0,Nat-Tm,56,Canada,68
+1991-92,24,1,4,4,0,Olympics,8,Canada,5
+1991-92,24,1,8,0,0,WC-A,5,Canada,1
+1993-94,26,14,28,13,0,AHL,23,Cornwall Aces,27
+1994-95,27,25,103,41,0,Germany,42,Krefelder EV,66
+1995-96,28,21,96,35,0,Germany,49,Krefelder EV Pinguine,56
+1996-97,29,37,129,35,0,Germany,47,Krefeld Pinguine,72
+1997-98,30,8,25,14,7,IHL,18,Grand Rapids Griffins,22
+1997-98,30,2,33,7,0,Germany,15,Krefeld Pinguine,9
+1997-98,30,1,0,1,0,Swiss,2,EV Zug,2
+1998-99,31,22,114,28,0,Swiss,43,SC Rapperswil-Jona,50
+1999-00,32,5,62,8,0,Swiss,22,ZSC Lions Zurich,13
+1999-00,32,6,8,2,0,Nat-Tm,9,Canada,8
+2000-01,33,9,22,8,0,Swiss,19,HC Lugano,17
+2001-02,34,8,16,8,0,Swiss-2,10,2 Teams,16
+2001-02,34,2,4,2,0,Swiss-2,3,HC Geneve-Servette,4
+2001-02,34,6,12,6,0,Swiss-2,7,EHC Visp,12
+2002-03,35,21,152,35,0,Swiss-2,37,HC Ajoie,56
+2003-04,36,7,28,21,0,Austria,23,EC VSV Villach,28
+2004-05,37,13,76,32,0,AsianHL,29,Nippon Paper Cranes,45

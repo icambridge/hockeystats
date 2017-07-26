@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1979-80,16,19,84,30,0,ON-Jr.A,44,Aurora Tigers,49
+1980-81,17,15,136,22,0,OMJHL,60,Niagara Falls Flyers,37
+1981-82,18,11,65,22,0,OHL,43,Niagara Falls Flyers,33
+1982-83,19,27,96,44,0,OHL,67,2 Teams,71
+1982-83,19,6,30,9,0,OHL,17,North Bay Centennials,15
+1982-83,19,21,66,35,0,OHL,50,Cornwall Royals,56
+1983-84,20,17,64,46,0,AHL,65,Baltimore Skipjacks,63
+1984-85,21,15,47,28,0,AHL,75,2 Teams,43
+1984-85,21,4,21,12,0,AHL,22,Baltimore Skipjacks,16
+1984-85,21,11,26,16,0,AHL,53,Fredericton Express,27
+1985-86,22,0,8,8,0,IHL,9,Muskegon Lumberjacks,8
+1985-86,22,6,68,27,0,AHL,64,2 Teams,33
+1985-86,22,0,30,15,0,AHL,24,Fredericton Express,15
+1985-86,22,6,38,12,0,AHL,40,Moncton Golden Flames,18
+1986-87,23,0,22,10,0,Nat-Tm,19,Canada,10
+1986-87,23,8,26,8,0,W.German,17,Kolner EC,16
+1987-88,24,6,56,14,0,W.German,36,Kolner EC,20
+1988-89,25,15,36,26,0,W.German,34,Kolner EC,41
+1989-90,26,12,38,18,0,W.German,36,Kolner EC,30
+1990-91,27,11,67,32,0,Germany,36,Kolner EC,43
+1991-92,28,14,62,15,0,Germany,31,Kolner EC,29
+1992-93,29,51,144,64,0,German-3,51,ESC Frankfurt,115
+1993-94,30,10,82,8,0,German-2,39,ESC Frankfurt,18
+1994-95,31,11,34,29,0,CHL,43,Oklahoma City Blazers,40
+1995-96,32,0,10,1,0,Germany,5,Frankfurt Lions,1

@@ -1,0 +1,6 @@
+age,win,shotsPercentage,even_strength_goals,assists,plus_minus,league,games_played,shorthanded_goals,year,game_winning_goals,shots,goals,average_ice_time,power_play_goals,pim,total_ice_time,team,points
+22,,0.0,0,0,-1,NHL,11,0,1986-87,0,3,0,,0,11,,DET,0
+24,,0.0,0,2,1,NHL,6,0,1988-89,0,8,0,,0,8,,EDM,2
+25,SC,17.6,5,11,12,NHL,0,0,1989-90,2,34,6,,1,2,,EDM,17
+26,,0.0,0,5,-4,NHL,15,0,1990-91,0,14,0,,0,20,,EDM,5
+27,,7.7,1,1,-5,NHL,16,0,1991-92,0,13,1,,0,10,,EDM,2

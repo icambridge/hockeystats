@@ -1,0 +1,9 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+2.7,0,NHL,17,PIT,851,24,4,81,1,26,0,5.97,3,0,6,1,0,0,0,.924,1997-98,341,1.83,2,"[{'link': '/awards/voting-1998.html#calder', 'name': 'Calder-12'}]",315
+3.4,0,NHL,37,PIT,1914,25,11,117,0,89,0,-13.20,5,3,15,0,0,0,0,.892,1998-99,822,2.79,2,"[{'link': '/awards/voting-1999.html#calder', 'name': 'Calder-12'}]",733
+0.9,0,NHL,20,PIT,922,26,7,134,0,48,0,-12.24,3,1,5,0,0,0,0,.872,1999-00,374,3.12,0,[],326
+1.8,0,NHL,26,TOT,1117,27,12,125,0,62,0,-12.57,1,0,6,0,0,0,0,.879,2000-01,511,3.33,0,[],449
+0.0,0,NHL,1,BUF,1,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2000-01,0,0.00,0,[],0
+1.8,0,NHL,25,BOS,1116,27,12,125,0,62,0,-12.57,1,0,6,0,0,0,0,.879,2000-01,511,3.33,0,[],449
+3.1,0,NHL,23,VAN,1166,28,8,100,0,47,0,-0.14,2,1,10,0,0,0,0,.907,2001-02,508,2.42,2,[],461
+2.4,0,NHL,23,VAN,1192,29,5,113,1,54,0,-6.41,6,1,9,1,0,0,0,.897,2002-03,522,2.72,0,[],468

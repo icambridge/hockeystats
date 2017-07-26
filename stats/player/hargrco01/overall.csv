@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1992-06-25,", ",LW,Colton Hargrove,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",LW,1992-06-25,Colton Hargrove

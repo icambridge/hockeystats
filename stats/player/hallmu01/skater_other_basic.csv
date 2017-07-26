@@ -1,17 +1,17 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-22,1959-60,St. Catharines Teepees,15,0,19,48,32,17,OHA-Jr.
-60,1960-61,St. Catharines Teepees,41,0,20,48,76,35,OHA-Jr.
-41,1961-62,Buffalo Bisons,21,0,21,68,41,20,AHL
-41,1962-63,St. Louis Braves,69,0,22,71,98,29,EPHL
-35,1963-64,St. Louis Braves,40,0,23,28,57,17,CPHL
-29,1964-65,Pittsburgh Hornets,33,0,24,72,62,29,AHL
-102,1965-66,Pittsburgh Hornets,45,0,25,70,73,28,AHL
-10,1966-67,Pittsburgh Hornets,11,0,26,12,16,5,AHL
-28,1966-67,Los Angeles Blades,28,0,26,43,46,18,WHL
-23,1967-68,Memphis South Stars,8,0,27,12,11,3,CPHL
-19,1967-68,Rochester Americans,14,0,27,38,31,17,AHL
-34,1968-69,Vancouver Canucks,37,0,28,69,65,28,WHL
-42,1969-70,Vancouver Canucks,55,0,29,72,82,27,WHL
-70,1971-72,Rochester Americans,32,0,31,37,42,10,AHL
-2,1976-77,Oklahoma City Blazers,13,0,36,30,21,8,CHL
-35,1977-78,Brantford Alexanders,20,0,37,25,29,9,OHA-Sr.
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+15,St. Catharines Teepees,17,1959-60,48,32,22,19,0,OHA-Jr.
+41,St. Catharines Teepees,35,1960-61,48,76,60,20,0,OHA-Jr.
+21,Buffalo Bisons,20,1961-62,68,41,41,21,0,AHL
+69,St. Louis Braves,29,1962-63,71,98,41,22,0,EPHL
+40,St. Louis Braves,17,1963-64,28,57,35,23,0,CPHL
+33,Pittsburgh Hornets,29,1964-65,72,62,29,24,0,AHL
+45,Pittsburgh Hornets,28,1965-66,70,73,102,25,0,AHL
+11,Pittsburgh Hornets,5,1966-67,12,16,10,26,0,AHL
+28,Los Angeles Blades,18,1966-67,43,46,28,26,0,WHL
+8,Memphis South Stars,3,1967-68,12,11,23,27,0,CPHL
+14,Rochester Americans,17,1967-68,38,31,19,27,0,AHL
+37,Vancouver Canucks,28,1968-69,69,65,34,28,0,WHL
+55,Vancouver Canucks,27,1969-70,72,82,42,29,0,WHL
+32,Rochester Americans,10,1971-72,37,42,70,31,0,AHL
+13,Oklahoma City Blazers,8,1976-77,30,21,2,36,0,CHL
+20,Brantford Alexanders,9,1977-78,25,29,35,37,0,OHA-Sr.

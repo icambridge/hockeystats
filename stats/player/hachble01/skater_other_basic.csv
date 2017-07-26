@@ -1,31 +1,31 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-42,1979-80,Hamilton Mountain A\'s,20,0,18,43,45,25,ON-Jr.A
-0,1979-80,Brantford Alexanders,0,0,18,3,1,1,OMJHL
-94,1980-81,Brantford Alexanders,52,0,19,66,86,34,OMJHL
-141,1981-82,Brampton Battalion,50,0,20,55,93,43,OHL
-32,1982-83,Maine Mariners,55,0,21,75,83,28,AHL
-15,1983-84,Springfield Indians,42,0,22,28,60,18,AHL
-14,1984-85,Hershey Bears,7,0,23,14,13,6,AHL
-55,1985-86,2 Teams,30,0,24,35,47,17,AHL
-34,1985-86,Hershey Bears,22,0,24,23,34,12,AHL
-21,1985-86,New Haven Nighthawks,8,0,24,12,13,5,AHL
-47,1986-87,HC Bolzano,67,0,25,35,103,36,Italy
-2,1986-87,Hershey Bears,10,0,25,17,14,4,AHL
-14,1987-88,Innsbrucker EV,38,0,26,34,70,32,Austria
-16,1987-88,Maine Mariners,17,0,26,29,33,16,AHL
-56,1988-89,Rogle BK Angelholm,21,0,27,32,42,21,Sweden-2
-0,1989-90,Zurcher SC,3,0,28,5,9,6,Swiss
-15,1989-90,New Haven Nighthawks,27,0,28,32,40,13,AHL
-8,1990-91,Binghamton Rangers,27,0,29,50,36,9,AHL
-124,1991-92,San Diego Gulls,73,0,30,70,107,34,IHL
-28,1992-93,Ayr Scottish Raiders,20,0,31,8,36,16,BH-Cup
-49,1992-93,San Diego Gulls,36,0,31,59,59,23,IHL
-0,1993-94,Krefelder EV,1,0,32,2,2,1,Germany
-10,1994-95,Houston Aeros,30,0,33,53,42,12,IHL
-2,1994-95,Springfield Indians,4,0,33,5,6,2,AHL
-58,1995-96,Heilbronner EC,40,0,34,28,55,15,German-2
-6,1996-97,Grand Rapids Griffins,2,0,35,19,4,2,IHL
-62,1997-98,San Diego Gulls,63,43,36,45,90,27,WCHL
-36,1998-99,San Diego Gulls,64,15,37,49,87,23,WCHL
-2,1999-00,Phoenix Mustangs,14,1,38,12,18,4,WCHL
-4,2000-01,Phoenix Mustangs,17,0,39,21,27,10,WCHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+20,Hamilton Mountain A\'s,25,1979-80,43,45,42,18,0,ON-Jr.A
+0,Brantford Alexanders,1,1979-80,3,1,0,18,0,OMJHL
+52,Brantford Alexanders,34,1980-81,66,86,94,19,0,OMJHL
+50,Brampton Battalion,43,1981-82,55,93,141,20,0,OHL
+55,Maine Mariners,28,1982-83,75,83,32,21,0,AHL
+42,Springfield Indians,18,1983-84,28,60,15,22,0,AHL
+7,Hershey Bears,6,1984-85,14,13,14,23,0,AHL
+30,2 Teams,17,1985-86,35,47,55,24,0,AHL
+22,Hershey Bears,12,1985-86,23,34,34,24,0,AHL
+8,New Haven Nighthawks,5,1985-86,12,13,21,24,0,AHL
+67,HC Bolzano,36,1986-87,35,103,47,25,0,Italy
+10,Hershey Bears,4,1986-87,17,14,2,25,0,AHL
+38,Innsbrucker EV,32,1987-88,34,70,14,26,0,Austria
+17,Maine Mariners,16,1987-88,29,33,16,26,0,AHL
+21,Rogle BK Angelholm,21,1988-89,32,42,56,27,0,Sweden-2
+3,Zurcher SC,6,1989-90,5,9,0,28,0,Swiss
+27,New Haven Nighthawks,13,1989-90,32,40,15,28,0,AHL
+27,Binghamton Rangers,9,1990-91,50,36,8,29,0,AHL
+73,San Diego Gulls,34,1991-92,70,107,124,30,0,IHL
+20,Ayr Scottish Raiders,16,1992-93,8,36,28,31,0,BH-Cup
+36,San Diego Gulls,23,1992-93,59,59,49,31,0,IHL
+1,Krefelder EV,1,1993-94,2,2,0,32,0,Germany
+30,Houston Aeros,12,1994-95,53,42,10,33,0,IHL
+4,Springfield Indians,2,1994-95,5,6,2,33,0,AHL
+40,Heilbronner EC,15,1995-96,28,55,58,34,0,German-2
+2,Grand Rapids Griffins,2,1996-97,19,4,6,35,0,IHL
+63,San Diego Gulls,27,1997-98,45,90,62,36,43,WCHL
+64,San Diego Gulls,23,1998-99,49,87,36,37,15,WCHL
+14,Phoenix Mustangs,4,1999-00,12,18,2,38,1,WCHL
+17,Phoenix Mustangs,10,2000-01,21,27,4,39,0,WCHL

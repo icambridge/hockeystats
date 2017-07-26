@@ -1,0 +1,14 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2000-01,17,2,6,11,1,QMJHL,11,Baie-Comeau Drakkar,13
+2001-02,18,3,0,4,3,QMJHL,5,Baie-Comeau Drakkar,7
+2002-03,19,5,14,7,-4,QMJHL,12,Baie-Comeau Drakkar,12
+2003-04,20,3,20,9,0,QMJHL,11,Shawinigan Cataractes,12
+2004-05,21,0,2,2,0,ECHL,5,Gwinnett Gladiators,2
+2005-06,22,2,23,4,3,AHL,6,Providence Bruins,6
+2006-07,23,5,16,4,-4,AHL,13,Providence Bruins,9
+2007-08,24,6,4,6,4,AHL,10,Providence Bruins,12
+2008-09,25,1,6,0,-7,AHL,4,Rockford IceHogs,1
+2010-11,27,1,29,1,0,Swiss,4,SCL Tigers Langnau,2
+2011-12,28,2,2,6,0,Swiss,4,SCL Tigers Langnau,8
+2012-13,29,6,6,2,0,Swiss,12,SCL Tigers Langnau,8
+2012-13,29,3,4,6,0,Swiss-Q,6,SCL Tigers Langnau,9

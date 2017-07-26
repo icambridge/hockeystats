@@ -1,0 +1,11 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,QJHL,2,Victoriaville Bruins,120,15,1,0,0,12,0,0,0,0,1,0,0,0,0,0,1963-64,0,6.00,0,0
+0,M-Cup,1,Victoriaville Bruins,60,15,1,0,0,8,0,0,0,0,0,0,0,0,0,0,1963-64,0,8.00,0,0
+0,QJHL,9,Victoriaville Bruins,540,16,2,0,0,36,0,0,0,0,7,0,0,0,0,0,1964-65,0,4.00,0,0
+0,M-Cup,3,Victoriaville Bruins,180,16,3,0,0,24,0,0,0,0,0,0,0,0,0,0,1964-65,0,8.00,0,0
+0,QJHL,12,Shawinigan Bruins,730,17,4,0,0,34,0,0,0,3,8,0,0,0,0,0,1965-66,0,2.79,0,0
+0,M-Cup,15,Shawinigan Bruins,900,17,4,0,0,41,0,0,0,0,11,0,0,0,0,0,1965-66,0,2.73,0,0
+0,OHA-Jr.,9,Niagara Falls Flyers,540,18,0,0,0,44,0,0,0,0,0,0,0,0,0,0,1966-67,0,4.89,0,0
+0,OHA-Jr.,19,Niagara Falls Flyers,1140,19,0,0,0,72,0,0,0,0,0,0,0,0,0,0,1967-68,0,3.79,0,0
+0,M-Cup,10,Niagara Falls Flyers,621,19,3,0,0,34,0,0,0,1,7,0,0,0,0,0,1967-68,0,3.29,0,0
+0,CHL,2,Houston Apollos,119,20,2,0,0,7,0,0,0,0,0,0,0,0,0,0,1968-69,0,3.53,0,0

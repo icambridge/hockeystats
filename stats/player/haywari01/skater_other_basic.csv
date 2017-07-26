@@ -1,26 +1,26 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-220,Hull Olympiques,17,0,23,QMJHL,67,1983-84,17,6
-372,Hull Olympiques,27,0,34,QMJHL,56,1984-85,18,7
-355,Hull Olympiques,40,0,43,QMJHL,59,1985-86,19,3
-153,Sherbrooke Canadiens,3,0,5,AHL,46,1986-87,20,2
-253,2 Teams,7,0,11,IHL,41,1987-88,21,4
-129,Saginaw Hawks,4,0,7,IHL,24,1987-88,21,3
-124,Salt Lake Golden Eagles,3,0,4,IHL,17,1987-88,21,1
-313,Salt Lake Golden Eagles,20,0,24,IHL,72,1988-89,22,4
-419,Salt Lake Golden Eagles,13,0,18,IHL,58,1989-90,23,5
-369,Phoenix Roadrunners,13,0,22,IHL,60,1990-91,24,9
-139,Capital District Islanders,8,0,11,AHL,27,1991-92,25,3
-311,2 Teams,4,0,5,AHL,66,1992-93,26,1
-231,Moncton Hawks,3,0,4,AHL,47,1992-93,26,1
-80,Capital District Islanders,1,0,1,AHL,19,1992-93,26,0
-302,Cincinnati Cyclones,6,0,8,IHL,61,1993-94,27,2
-269,Cleveland Lumberjacks,3,0,4,IHL,56,1994-95,28,1
-244,Cleveland Lumberjacks,6,0,6,IHL,53,1995-96,29,0
-244,Cleveland Lumberjacks,10,0,12,IHL,73,1996-97,30,2
-299,2 Teams,6,-5,7,IHL,54,1997-98,31,1
-191,Cleveland Lumberjacks,3,1,4,IHL,41,1997-98,31,1
-108,Quebec Rafales,3,-6,3,IHL,13,1997-98,31,0
-113,Frankfurt Lions,0,0,0,Germany,22,1998-99,32,0
-122,Frankfurt Lions,1,0,1,Germany,50,1999-00,33,0
-74,Tallahassee Tiger Sharks,4,0,4,ECHL,16,2000-01,34,0
-88,Anchorage Aces,1,0,1,WCHL,15,2000-01,34,0
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+17,Hull Olympiques,6,1983-84,67,23,220,17,0,QMJHL
+27,Hull Olympiques,7,1984-85,56,34,372,18,0,QMJHL
+40,Hull Olympiques,3,1985-86,59,43,355,19,0,QMJHL
+3,Sherbrooke Canadiens,2,1986-87,46,5,153,20,0,AHL
+7,2 Teams,4,1987-88,41,11,253,21,0,IHL
+4,Saginaw Hawks,3,1987-88,24,7,129,21,0,IHL
+3,Salt Lake Golden Eagles,1,1987-88,17,4,124,21,0,IHL
+20,Salt Lake Golden Eagles,4,1988-89,72,24,313,22,0,IHL
+13,Salt Lake Golden Eagles,5,1989-90,58,18,419,23,0,IHL
+13,Phoenix Roadrunners,9,1990-91,60,22,369,24,0,IHL
+8,Capital District Islanders,3,1991-92,27,11,139,25,0,AHL
+4,2 Teams,1,1992-93,66,5,311,26,0,AHL
+3,Moncton Hawks,1,1992-93,47,4,231,26,0,AHL
+1,Capital District Islanders,0,1992-93,19,1,80,26,0,AHL
+6,Cincinnati Cyclones,2,1993-94,61,8,302,27,0,IHL
+3,Cleveland Lumberjacks,1,1994-95,56,4,269,28,0,IHL
+6,Cleveland Lumberjacks,0,1995-96,53,6,244,29,0,IHL
+10,Cleveland Lumberjacks,2,1996-97,73,12,244,30,0,IHL
+6,2 Teams,1,1997-98,54,7,299,31,-5,IHL
+3,Cleveland Lumberjacks,1,1997-98,41,4,191,31,1,IHL
+3,Quebec Rafales,0,1997-98,13,3,108,31,-6,IHL
+0,Frankfurt Lions,0,1998-99,22,0,113,32,0,Germany
+1,Frankfurt Lions,0,1999-00,50,1,122,33,0,Germany
+4,Tallahassee Tiger Sharks,0,2000-01,16,4,74,34,0,ECHL
+1,Anchorage Aces,0,2000-01,15,1,88,34,0,WCHL

@@ -1,8 +1,8 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-0,Jonquiere Marquis,1,0,2,M-Cup,3,1964-65,19,1
-4,Victoriaville Tigers,8,0,12,Que-Sr.,12,1967-68,22,4
-16,Victoriaville Tigers,6,0,13,Al-Cup,13,1967-68,22,7
-4,Seattle Totems,0,-2,1,WHL,2,1969-70,24,1
-20,Nova Scotia Voyageurs,7,0,10,AHL,15,1971-72,26,3
-44,Beauce Jaros,24,0,28,NAPro,14,1975-76,30,4
-6,Binghamton Dusters,8,0,10,NAPro,8,1976-77,31,2
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+1,Jonquiere Marquis,1,1964-65,3,2,0,19,0,M-Cup
+8,Victoriaville Tigers,4,1967-68,12,12,4,22,0,Que-Sr.
+6,Victoriaville Tigers,7,1967-68,13,13,16,22,0,Al-Cup
+0,Seattle Totems,1,1969-70,2,1,4,24,-2,WHL
+7,Nova Scotia Voyageurs,3,1971-72,15,10,20,26,0,AHL
+24,Beauce Jaros,4,1975-76,14,28,44,30,0,NAPro
+8,Binghamton Dusters,2,1976-77,8,10,6,31,0,NAPro

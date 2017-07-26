@@ -1,0 +1,13 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,69,3,22,182,42,1,,MTL,"[{'link': '/awards/voting-1968.html#calder', 'name': 'Calder-2'}]",12.1,18,20,15,22,1,1967-68,,3,16,0,19
+NHL,75,4,23,330,63,7,,MTL,[],8.8,24,34,31,29,0,1968-69,,5,29,0,27
+NHL,69,5,24,237,60,5,,MTL,[],13.5,19,28,19,32,0,1969-70,,13,16,0,23
+NHL,78,3,25,252,56,5,,MTL,[],11.1,22,28,0,28,0,1970-71,,6,18,0,23
+NHL,77,7,26,266,81,14,,MTL,[],12.0,24,49,37,32,0,1971-72,,8,26,0,35
+NHL,77,5,27,294,95,11,,MTL,[],15.0,35,51,59,44,0,1972-73,,9,16,0,40
+NHL,66,7,28,219,67,14,,MTL,[],13.2,19,38,4,29,0,1973-74,,10,10,0,24
+NHL,0,8,29,260,92,24,,MTL,[],13.8,24,56,25,36,0,1974-75,,12,20,0,32
+NHL,61,3,30,226,52,13,,MTL,[],8.8,14,32,26,20,0,1975-76,,6,20,0,19
+NHL,75,4,31,272,75,7,,MTL,"[{'link': '/awards/voting-1977.html#AS', 'name': 'AS-8'}]",12.5,27,41,70,34,2,1976-77,,5,22,0,34
+NHL,76,5,32,310,97,13,,MTL,"[{'link': '/awards/voting-1978.html#byng', 'name': 'Byng-5'}]",11.6,30,61,54,36,0,1977-78,,6,14,2,46
+NHL,50,4,33,203,55,10,,MTL,"[{'link': '/awards/voting-1979.html#AS', 'name': 'AS-8'}, {'link': '/awards/voting-1979.html#byng', 'name': 'Byng-14'}]",11.8,17,31,9,24,1,1978-79,,6,10,0,21

@@ -1,0 +1,13 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,80,0,22,101,29,0,,NYR,[],5.9,5,23,0,6,0,1980-81,,1,100,1,22
+NHL,79,0,23,62,21,1,,NYR,[],4.8,3,18,7,3,0,1981-82,,0,104,1,16
+NHL,0,0,24,44,10,1,,NYR,[],0.0,0,10,-11,0,0,1982-83,,0,75,1,8
+NHL,79,1,25,61,18,1,,NYR,[],4.9,3,15,-10,3,0,1983-84,,0,62,1,13
+NHL,61,0,26,37,12,1,,NYR,[],2.7,1,11,-12,1,0,1984-85,,0,52,1,9
+NHL,68,0,27,50,18,0,,NYR,[],12.0,5,12,-3,6,1,1985-86,,0,103,0,12
+NHL,74,1,28,43,14,0,,TOT,[],2.3,0,13,-17,1,0,1986-87,,1,69,2,11
+NHL,63,1,28,36,11,0,,NYR,[],2.8,0,10,-18,1,0,1986-87,,1,65,2,8
+NHL,11,0,28,7,3,0,,LAK,[],0.0,0,3,1,0,0,1986-87,,0,4,0,3
+NHL,57,0,29,30,13,2,,LAK,[],3.3,1,12,3,1,0,1987-88,,0,47,1,9
+NHL,70,1,30,31,20,1,,LAK,"[{'link': '/awards/voting-1989.html#AS', 'name': 'AS-14'}]",9.7,3,17,30,3,0,1988-89,,0,63,1,15
+NHL,57,0,31,27,9,0,,LAK,[],3.7,1,8,4,1,0,1989-90,,0,42,1,7

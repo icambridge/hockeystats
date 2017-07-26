@@ -1,0 +1,12 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,30,0,20,30,6,0,,BUF,[],6.7,2,4,-3,2,0,1984-85,,0,25,0,4
+NHL,25,2,21,38,13,0,,BUF,[],15.8,3,7,9,6,0,1985-86,,3,13,0,7
+NHL,40,0,22,48,11,0,,TOT,[],8.3,3,7,-10,4,0,1986-87,,1,10,0,7
+NHL,39,0,22,48,11,0,,BUF,[],8.3,3,7,-9,4,0,1986-87,,1,8,0,7
+NHL,1,0,22,0,0,0,,EDM,[],0,0,0,-1,0,0,1986-87,,0,2,0,0
+NHL,53,2,23,44,17,0,,EDM,[],18.2,7,9,-3,8,0,1987-88,,1,36,0,9
+NHL,64,1,24,71,28,0,,EDM,[],23.9,15,11,2,17,0,1988-89,,2,57,0,11
+NHL,33,0,25,36,9,0,,TOT,[],13.9,5,4,4,5,0,1989-90,,0,28,0,4
+NHL,15,0,25,15,7,0,,EDM,[],33.3,5,2,4,5,0,1989-90,,0,21,0,2
+NHL,18,0,25,21,2,0,,PHI,[],0.0,0,2,0,0,0,1989-90,,0,7,0,2
+NHL,74,1,26,91,31,0,,PHI,[],12.1,10,20,-1,11,0,1990-91,,1,27,1,19

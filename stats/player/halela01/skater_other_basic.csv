@@ -1,10 +1,10 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-49,1962-63,Minneapolis Millers,30,0,21,70,35,5,IHL
-46,1963-64,Seattle Totems,16,0,22,70,21,5,WHL
-66,1964-65,Seattle Totems,15,0,23,70,18,3,WHL
-36,1965-66,Seattle Totems,11,0,24,72,14,3,WHL
-50,1966-67,Seattle Totems,23,0,25,72,26,3,WHL
-41,1967-68,Seattle Totems,19,0,26,70,28,9,WHL
-44,1969-70,Quebec Aces,14,0,28,20,14,0,AHL
-68,1971-72,Richmond Robins,33,0,30,68,44,11,AHL
-30,1978-79,Spokane Flyers,18,0,37,54,18,0,PHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+30,Minneapolis Millers,5,1962-63,70,35,49,21,0,IHL
+16,Seattle Totems,5,1963-64,70,21,46,22,0,WHL
+15,Seattle Totems,3,1964-65,70,18,66,23,0,WHL
+11,Seattle Totems,3,1965-66,72,14,36,24,0,WHL
+23,Seattle Totems,3,1966-67,72,26,50,25,0,WHL
+19,Seattle Totems,9,1967-68,70,28,41,26,0,WHL
+14,Quebec Aces,0,1969-70,20,14,44,28,0,AHL
+33,Richmond Robins,11,1971-72,68,44,68,30,0,AHL
+18,Spokane Flyers,0,1978-79,54,18,30,37,0,PHL

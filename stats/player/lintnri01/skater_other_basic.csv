@@ -1,0 +1,46 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,17,12,20,13,0,Slovak-Jr.,42,Dukla Trencin Jr.,25
+1995-96,18,15,210,17,0,Slovak-Jr.,30,Dukla Trencin Jr.,32
+1995-96,18,0,0,0,0,Slovakia,2,Dukla Trencin,0
+1995-96,18,0,12,1,0,WJC-A,6,Slovakia,1
+1996-97,19,2,0,1,0,Slovakia,35,HK VTJ Spisska Nova Ves,3
+1996-97,19,2,22,1,0,WJC-A,6,Slovakia,3
+1997-98,20,6,61,9,11,AHL,71,Springfield Falcons,15
+1998-99,21,0,16,1,-3,AHL,8,Springfield Falcons,1
+1998-99,21,9,75,16,-3,IHL,66,Milwaukee Admirals,25
+1999-00,22,13,37,8,-8,IHL,31,Milwaukee Admirals,21
+2000-01,23,0,2,2,-2,WC-A,7,Slovakia,2
+2001-02,24,12,85,9,0,Sweden,28,MODO Hockey Ornskoldsvik,21
+2001-02,24,2,0,0,0,Slovakia,6,Dukla Trencin,2
+2001-02,24,1,0,1,3,Olympics,4,Slovakia,2
+2001-02,24,4,22,4,1,WC-A,9,Slovakia,8
+2002-03,25,1,2,3,0,WC-A,9,Slovakia,4
+2002-03,25,7,32,19,-4,AHL,32,2 Teams,26
+2002-03,25,6,30,15,-2,AHL,26,Hartford Wolf Pack,21
+2002-03,25,1,2,4,-2,AHL,6,Wilkes-Barre Scranton Pens,5
+2003-04,26,18,73,13,0,Sweden,41,Djurgardens IF Stockholm,31
+2003-04,26,2,6,3,5,WC-A,8,Slovakia,5
+2004-05,27,0,2,0,-5,W-Cup,3,Slovakia,0
+2004-05,27,2,40,9,0,Swiss,23,HC Fribourg-Gotteron,11
+2004-05,27,0,0,0,0,WC-A,7,Slovakia,0
+2005-06,28,14,86,9,0,Swiss,44,HC Fribourg-Gotteron,23
+2005-06,28,4,18,3,0,Swiss-Q,6,HC Fribourg-Gotteron,7
+2006-07,29,9,46,20,0,Sweden,52,Skelleftea AIK HK,29
+2006-07,29,0,2,0,0,Sweden-Q,3,Skelleftea AIK HK,0
+2007-08,30,0,6,2,0,Slovakia,5,Dukla Trencin,2
+2007-08,30,8,50,14,0,Sweden,42,Farjestads BK Karlstad,22
+2008-09,31,0,0,2,0,Slovakia,2,Dukla Trencin,2
+2008-09,31,7,40,10,0,KHL,33,Dynamo Minsk,17
+2009-10,32,0,0,0,0,Slovakia,2,Dukla Trencin,0
+2009-10,32,2,34,9,0,KHL,33,Dynamo Minsk,11
+2009-10,32,0,2,3,-4,WC-A,6,Slovakia,3
+2010-11,33,1,8,4,0,Slovakia,7,Dukla Trencin,5
+2010-11,33,10,34,10,0,Finland,29,SaiPa Lappeenranta,20
+2011-12,34,7,59,22,0,Finland,47,2 Teams,29
+2011-12,34,2,41,5,0,Finland,21,SaiPa Lappeenranta,7
+2011-12,34,5,18,17,0,Finland,26,Lukko Rauma,22
+2012-13,35,3,10,5,0,Sweden,12,Rogle BK Angelholm,8
+2012-13,35,0,8,1,0,Sweden-Q,10,Rogle BK Angelholm,1
+2012-13,35,3,4,3,0,Slovakia,7,2 Teams,6
+2012-13,35,0,0,1,0,Slovakia,2,SHK 37 Piestany,1
+2012-13,35,3,4,2,0,Slovakia,5,Dukla Trencin,5

@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1991-92,16,41,0,50,0,QAAA,42,Laval-Laurentides,91
+1993-94,18,24,34,21,0,ECAC,32,University of Vermont,45
+1994-95,19,28,38,39,0,ECAC,35,University of Vermont,67
+1995-96,20,29,38,56,0,ECAC,38,University of Vermont,85
+1996-97,21,26,40,33,0,ECAC,36,University of Vermont,59
+1997-98,22,14,38,43,0,IHL,82,2 Teams,57
+1997-98,22,12,34,31,0,IHL,69,Cleveland Lumberjacks,43
+1997-98,22,2,4,12,0,IHL,13,Quebec Rafales,14
+1998-99,23,24,71,37,0,IHL,82,Kansas City Blades,61
+1999-00,24,3,16,15,0,IHL,21,Kansas City Blades,18
+2000-01,25,16,74,24,0,Finland,49,2 Teams,40
+2000-01,25,1,4,1,0,Finland,6,Jokerit Helsinki,2
+2000-01,25,15,70,23,0,Finland,43,Assat Pori,38
+2001-02,26,18,20,23,0,Finland,57,2 Teams,41
+2001-02,26,13,16,13,0,Finland,45,Assat Pori,26
+2001-02,26,5,4,10,0,Finland,12,HPK Hameenlinna,15
+2002-03,27,18,36,28,0,Finland,56,JYP Jyvaskyla,46
+2003-04,28,21,49,54,-5,AHL,71,Hershey Bears,75
+2004-05,29,24,46,49,-2,AHL,80,Hershey Bears,73
+2005-06,30,13,28,25,0,Swiss,44,SC Bern,38
+2009-10,34,7,36,12,0,KHL,55,Avangard Omsk Region,19
+2010-11,35,18,47,32,0,Finland,50,JYP Jyvaskyla,50
+2011-12,36,19,20,40,0,Finland,58,JYP Jyvaskyla,59
+2012-13,37,11,22,42,0,Finland,59,JYP Jyvaskyla,53

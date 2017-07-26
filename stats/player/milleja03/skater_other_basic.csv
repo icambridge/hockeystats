@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1986-87,15,38,76,31,0,AMHL,40,Edmonton Pats,69
+1987-88,16,11,28,18,0,WHL,71,Medicine Hat Tigers,29
+1988-89,17,51,44,55,0,WHL,72,Medicine Hat Tigers,106
+1989-90,18,43,40,56,0,WHL,66,Medicine Hat Tigers,99
+1990-91,19,60,31,76,0,WHL,66,Medicine Hat Tigers,136
+1991-92,20,23,31,32,0,AHL,71,Utica Devils,55
+1992-93,21,28,43,42,0,AHL,72,Utica Devils,70
+1993-94,22,22,65,53,0,AHL,77,Albany River Rats,75
+1994-95,23,32,39,33,0,AHL,77,Adirondack Red Wings,65
+1995-96,24,4,10,6,0,Finland,22,HPK Hameenlinna,10
+1995-96,24,1,0,1,0,Germany,3,Kaufbeurer Adler,2
+1995-96,24,16,6,22,0,IHL,39,Peoria Rivermen,38
+1996-97,25,26,43,43,0,IHL,76,San Antonio Dragons,69
+1997-98,26,15,26,19,0,Germany,46,Dusseldorfer EG,34
+1998-99,27,30,56,31,0,Germany,50,Nurnberg Ice Tigers,61
+1999-00,28,26,61,29,0,Germany,65,Nurnberg Ice Tigers,55
+1999-00,28,3,4,3,0,EuroHL,6,Nurnberg Ice Tigers,6
+2000-01,29,21,44,36,0,Germany,56,Nurnberg Ice Tigers,57
+2001-02,30,10,75,23,0,Germany,50,Nurnberg Ice Tigers,33
+2002-03,31,5,14,5,0,Germany,47,Hamburg Freezers,10

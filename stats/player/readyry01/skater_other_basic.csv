@@ -1,0 +1,20 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,16,20,65,33,0,ON-Jr.A,48,Peterborough Jr. Petes,53
+1995-96,17,5,54,13,0,OHL,63,Belleville Bulls,18
+1996-97,18,23,102,24,0,OHL,66,Belleville Bulls,47
+1997-98,19,33,80,39,1,OHL,66,Belleville Bulls,72
+1998-99,20,33,73,59,40,OHL,63,Belleville Bulls,92
+1999-00,21,4,59,12,-14,AHL,70,Syracuse Crunch,16
+2000-01,22,10,75,15,1,IHL,67,Kansas City Blades,25
+2001-02,23,23,73,32,0,AHL,72,Manitoba Moose,55
+2002-03,24,24,52,26,1,AHL,68,Manitoba Moose,50
+2003-04,25,9,65,23,-17,AHL,80,2 Teams,32
+2003-04,25,7,55,18,-16,AHL,64,Manitoba Moose,25
+2003-04,25,2,10,5,-1,AHL,16,Worcester IceCats,7
+2004-05,26,7,104,18,8,AHL,72,Philadelphia Phantoms,25
+2005-06,27,7,67,10,-1,AHL,40,Philadelphia Phantoms,17
+2006-07,28,9,74,15,0,Germany,47,Iserlohn Roosters,24
+2007-08,29,18,131,29,0,Germany,51,Iserlohn Roosters,47
+2008-09,30,19,83,37,0,Germany,48,Iserlohn Roosters,56
+2009-10,31,8,52,27,0,Germany,56,Iserlohn Roosters,35
+2010-11,32,9,86,35,0,Germany,43,EHC Munchen,44

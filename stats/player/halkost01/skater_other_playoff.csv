@@ -1,4 +1,4 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-8,1996-97,Springfield Falcons,2,0,22,11,2,0,AHL
-0,1997-98,Beast of New Haven,0,0,23,1,0,0,AHL
-0,2001-02,Worcester IceCats,1,0,27,3,1,0,AHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+2,Springfield Falcons,0,1996-97,11,2,8,22,0,AHL
+0,Beast of New Haven,0,1997-98,1,0,0,23,0,AHL
+1,Worcester IceCats,0,2001-02,3,1,0,27,0,AHL

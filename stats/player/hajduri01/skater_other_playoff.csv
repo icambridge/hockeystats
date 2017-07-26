@@ -1,5 +1,5 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1981-82,Kamloops Jr. Oilers,0,0,16,4,0,0,WHL
-4,1982-83,Kamloops Jr. Oilers,0,0,17,5,0,0,WHL
-9,1986-87,Rochester Americans,1,0,21,11,2,1,AHL
-0,1987-88,Rochester Americans,0,0,22,1,0,0,AHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Kamloops Jr. Oilers,0,1981-82,4,0,0,16,0,WHL
+0,Kamloops Jr. Oilers,0,1982-83,5,0,4,17,0,WHL
+1,Rochester Americans,1,1986-87,11,2,9,21,0,AHL
+0,Rochester Americans,0,1987-88,1,0,0,22,0,AHL

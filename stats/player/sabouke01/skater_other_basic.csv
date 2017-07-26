@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1981-82,15,10,0,20,0,MTHL,40,Don Mills Flyers,30
+1982-83,16,0,90,8,0,OHL,58,Sault Ste. Marie Greyhounds,8
+1983-84,17,7,157,14,0,OHL,63,Sault Ste. Marie Greyhounds,21
+1984-85,18,5,139,19,0,OHL,63,Sault Ste. Marie Greyhounds,24
+1985-86,19,0,0,0,0,AHL,3,Moncton Golden Flames,0
+1985-86,19,4,171,17,0,OHL,62,2 Teams,21
+1985-86,19,1,77,5,0,OHL,25,Sault Ste. Marie Greyhounds,6
+1985-86,19,3,94,12,0,OHL,37,Cornwall Royals,15
+1986-87,20,1,166,10,0,AHL,75,Moncton Golden Flames,11
+1987-88,21,2,186,8,0,IHL,71,Salt Lake Golden Eagles,10
+1988-89,22,2,197,18,0,IHL,74,Salt Lake Golden Eagles,20
+1989-90,23,0,6,0,0,Fr-Tour,3,Calgary Flames,0
+1989-90,23,5,336,19,0,IHL,76,Salt Lake Golden Eagles,24
+1990-91,24,2,77,15,0,IHL,28,Salt Lake Golden Eagles,17
+1991-92,25,3,106,8,0,AHL,30,Baltimore Skipjacks,11
+1992-93,26,5,68,14,0,AHL,30,Baltimore Skipjacks,19
+1992-93,26,2,140,11,0,IHL,52,Salt Lake Golden Eagles,13
+1993-94,27,6,279,13,0,IHL,81,Milwaukee Admirals,19
+1994-95,28,3,297,16,0,IHL,75,Milwaukee Admirals,19
+1995-96,29,2,252,8,0,IHL,82,Milwaukee Admirals,10
+1996-97,30,2,233,9,0,IHL,81,Milwaukee Admirals,11
+1997-98,31,1,172,5,-2,IHL,71,Milwaukee Admirals,6
+1998-99,32,3,248,4,-29,IHL,72,Orlando Solar Bears,7

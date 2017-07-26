@@ -1,15 +1,15 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1990-91,Westminster School,22,0,14,25,42,20,High-CT
-0,1991-92,Westminster School,36,0,15,25,60,24,High-CT
-80,1992-93,Boston Jr. Bruins,111,0,16,72,181,70,MBAHL
-21,1993-94,Detroit Jr. Red Wings,32,0,17,60,63,31,OHL
-37,1994-95,Detroit Jr. Red Wings,49,0,18,61,89,40,OHL
-8,1994-95,United States,6,0,18,7,7,1,WJC-A
-78,1995-96,Detroit Jr. Whalers,51,0,19,66,111,60,OHL
-60,1996-97,Kentucky Thoroughblades,22,0,20,77,35,13,AHL
-64,1997-98,Kentucky Thoroughblades,20,4,21,63,53,33,AHL
-40,1998-99,Lowell Lock Monsters,27,-1,22,77,46,19,AHL
-94,1999-00,Kansas City Blades,33,-18,23,76,60,27,IHL
-8,1999-00,United States,1,2,23,7,2,1,WC-A
-59,2000-01,Milwaukee Admirals,23,1,24,76,50,27,IHL
-46,2001-02,Providence Bruins,26,-2,25,69,47,21,AHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+22,Westminster School,20,1990-91,25,42,0,14,0,High-CT
+36,Westminster School,24,1991-92,25,60,0,15,0,High-CT
+111,Boston Jr. Bruins,70,1992-93,72,181,80,16,0,MBAHL
+32,Detroit Jr. Red Wings,31,1993-94,60,63,21,17,0,OHL
+49,Detroit Jr. Red Wings,40,1994-95,61,89,37,18,0,OHL
+6,United States,1,1994-95,7,7,8,18,0,WJC-A
+51,Detroit Jr. Whalers,60,1995-96,66,111,78,19,0,OHL
+22,Kentucky Thoroughblades,13,1996-97,77,35,60,20,0,AHL
+20,Kentucky Thoroughblades,33,1997-98,63,53,64,21,4,AHL
+27,Lowell Lock Monsters,19,1998-99,77,46,40,22,-1,AHL
+33,Kansas City Blades,27,1999-00,76,60,94,23,-18,IHL
+1,United States,1,1999-00,7,2,8,23,2,WC-A
+23,Milwaukee Admirals,27,2000-01,76,50,59,24,1,IHL
+26,Providence Bruins,21,2001-02,69,47,46,25,-2,AHL

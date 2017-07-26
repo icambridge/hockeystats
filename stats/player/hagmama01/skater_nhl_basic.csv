@@ -1,7 +1,7 @@
-power_play_goals,assists,points,power_play_assists,league,even_strength_assists,game_winning_goals,shorthanded_goals,shotsPercentage,games_played,average_ice_time,year,team,age,plus_minus,shorthanded_assists,even_strength_goals,pim,awards,total_ice_time,goals,shots
-1,17,28,1,NHL,16,0,0,15.5,75,,1976-77,BOS,21,6,0,10,0,[],,11,71
-3,1,5,1,NHL,0,1,0,30.8,15,,1977-78,BOS,22,-1,0,1,2,[],,4,13
-9,31,56,0,WHA,0,0,0,23.1,53,,1977-78,QBN,22,-14,0,16,16,[],,25,108
-0,1,1,0,WHA,0,0,0,0,1,,1978-79,FNL,23,0,0,0,0,[],,0,0
-2,33,53,11,NHL,22,0,0,20.8,75,,1980-81,EDM,25,4,0,18,16,[],,20,96
-5,38,59,10,NHL,28,2,0,22.3,72,,1981-82,EDM,26,15,0,16,18,[],,21,94
+shotsPercentage,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,age,game_winning_goals,league,shorthanded_goals,average_ice_time,games_played,points,awards,power_play_goals
+15.5,1976-77,0,16,,0,71,1,10,6,17,BOS,11,21,0,NHL,0,,75,28,[],1
+30.8,1977-78,2,0,,0,13,1,1,-1,1,BOS,4,22,1,NHL,0,,15,5,[],3
+23.1,1977-78,16,0,,0,108,0,16,-14,31,QBN,25,22,0,WHA,0,,53,56,[],9
+0,1978-79,0,0,,0,0,0,0,0,1,FNL,0,23,0,WHA,0,,1,1,[],0
+20.8,1980-81,16,22,,0,96,11,18,4,33,EDM,20,25,0,NHL,0,,75,53,[],2
+22.3,1981-82,18,28,,0,94,10,16,15,38,EDM,21,26,2,NHL,0,,72,59,[],5

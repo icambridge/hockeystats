@@ -1,0 +1,8 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHL,2,Sudbury Wolves,90,17,1,0,0,8,0,0,0,0,0,0,0,0,0,0,1997-98,0,5.33,0,0
+0,OHL,3,Sudbury Wolves,96,18,2,0,0,13,0,0,0,0,0,0,0,0,0,.812,1998-99,69,8.12,0,56
+0,OHL,5,Kingston Frontenacs,300,19,4,0,0,21,0,0,0,0,1,0,0,0,0,0,1999-00,0,4.20,0,0
+0,AHL,2,Providence Bruins,119,21,2,0,0,5,0,0,0,0,0,0,0,0,0,.904,2001-02,52,2.52,0,47
+0,AHL,4,Providence Bruins,264,22,3,0,0,6,0,0,0,1,1,0,0,0,0,.955,2002-03,133,1.36,0,127
+0,Finland,3,Tappara Tampere,104,24,2,0,0,11,0,0,0,0,0,0,0,0,0,0,2004-05,0,6.35,0,0
+0,Italy,6,HC Milano,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012-13,0,0,0,0

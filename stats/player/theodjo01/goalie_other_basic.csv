@@ -1,0 +1,16 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,QAAA,24,Richelieu Riverains,1440,15,13,0,0,96,0,0,2,0,9,0,0,0,0,0,1991-92,0,4.00,0,0
+0,QMJHL,33,St-Jean Lynx,1775,16,14,0,0,111,0,0,2,0,12,0,0,0,0,0,1992-93,0,3.75,0,0
+0,QMJHL,57,St-Jean Lynx,3230,17,28,0,0,196,0,0,6,0,20,0,0,0,0,0,1993-94,0,3.64,0,0
+0,QMJHL,57,2 Teams,3354,18,22,0,0,193,0,0,2,5,32,0,0,0,0,0,1994-95,0,3.45,0,0
+0,QMJHL,14,St-Jean Lynx,833,18,8,0,0,67,0,0,1,0,5,0,0,0,0,0,1994-95,0,4.83,0,0
+0,QMJHL,43,Hull Olympiques,2521,18,14,0,0,126,0,0,1,5,27,0,0,0,0,0,1994-95,0,3.00,0,0
+0,QMJHL,48,Hull Olympiques,2809,19,11,0,0,158,0,0,2,0,33,0,0,0,0,0,1995-96,0,3.37,0,0
+0,WJC-A,4,Canada,240,19,0,0,0,6,0,0,0,0,4,0,0,0,0,0,1995-96,0,1.50,0,0
+0,AHL,26,Fredericton Canadiens,1469,20,12,0,0,87,0,0,0,0,12,0,0,0,0,.898,1996-97,854,3.55,0,767
+0,AHL,53,Fredericton Canadiens,3053,21,23,0,0,145,0,0,8,2,20,0,0,0,0,.918,1997-98,1769,2.85,0,1624
+0,AHL,27,Fredericton Canadiens,1609,22,13,0,1,77,0,0,2,2,12,1,0,0,0,.917,1998-99,929,2.87,6,852
+0,WC-A,8,Canada,478,23,3,0,0,13,0,0,0,2,5,0,0,0,0,0,1999-00,0,1.63,0,0
+0,AHL,3,Quebec Citadelles,180,24,0,0,0,9,0,0,0,0,3,0,0,0,0,.886,2000-01,79,3.00,0,70
+0,Sweden,17,Djurgardens IF Stockholm,1024,28,0,0,0,42,0,0,0,0,0,0,0,0,0,0,2004-05,0,2.46,2,0
+0,AHL,1,Lake Erie Monsters,60,31,1,0,0,3,0,0,0,0,0,0,0,0,0,.875,2007-08,24,3.00,0,21

@@ -1,0 +1,9 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WHL,4,Portland Winter Hawks,252,19,4,0,0,19,0,0,0,0,0,0,0,0,0,.899,1998-99,189,4.52,0,170
+0,WHL,9,Spokane Chiefs,435,20,1,0,0,18,0,0,0,1,6,0,0,0,0,.890,1999-00,163,2.48,0,145
+0,ECHL,2,Charlotte Checkers,143,21,1,0,0,5,0,0,0,0,1,0,0,0,0,.945,2000-01,91,2.10,0,86
+0,ECHL,4,Charlotte Checkers,212,22,2,0,0,12,0,0,0,0,2,0,0,0,0,.910,2001-02,134,3.40,0,122
+0,AHL,2,Hartford Wolf Pack,117,23,2,0,0,6,0,0,0,0,0,0,0,0,0,.867,2002-03,45,3.08,0,39
+0,AHL,16,Hartford Wolf Pack,1043,24,5,0,0,30,0,0,0,3,11,0,0,0,0,.935,2003-04,461,1.73,0,431
+0,AHL,4,Hartford Wolf Pack,238,25,3,0,0,9,0,0,0,0,1,0,0,0,0,.940,2004-05,150,2.27,2,141
+0,AHL,13,Manchester Monarchs,824,27,7,0,1,38,0,0,0,1,6,1,0,0,0,0,2006-07,0,2.77,2,-38

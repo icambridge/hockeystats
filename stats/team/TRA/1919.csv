@@ -1,14 +1,14 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-0,,RW,,0,0,0,0,23,0,12,4,Alf Skinner,1.5,0.3,16,0,26,,17,0,1.2,0,/players/s/skinnal01.html
-0,,LW/D,,0,0,0,0,22,0,10,5,Reg Noble,1.2,0.3,15,0,35,,17,0,0.9,0,/players/n/noblere01.html
-0,,D,,0,0,0,0,30,0,8,6,Ken Randall,2.5,1.0,14,0,27,,14,0,1.5,0,/players/r/randake01.html
-0,,C,,0,0,0,0,25,0,8,3,Corb Denneny,0.7,0.3,11,0,15,,16,0,0.4,0,/players/d/denneco01.html
-0,,RW,,0,0,0,0,33,0,7,4,Rusty Crawford,0.5,0.3,11,0,51,,18,0,0.2,0,/players/c/crawfru01.html
-0,,LW,,0,0,0,0,24,0,7,3,Harry Meeking,0.7,0.3,10,0,32,,14,0,0.4,0,/players/m/meekiha01.html
-0,,D,,0,0,0,0,28,0,6,2,Harry Cameron,1.5,0.5,8,0,9,,7,0,1.0,0,/players/c/camerha01.html
-0,,C,,0,0,0,0,24,0,3,3,Jack Adams,-0.3,0.3,6,0,35,,17,0,-0.6,0,/players/a/adamsja01.html
-0,,D,,0,0,0,0,29,0,2,0,Harry Mummery,0.7,0.9,2,0,30,,13,0,-0.2,0,/players/m/mummeha01.html
-0,,G,,0,0,0,0,30,0,0,0,Hap Holmes,0.2,0.0,0,0,0,,2,0,0.0,0,/players/h/holmeha01.html
-0,,F,,0,0,0,0,24,0,0,0,Paul Jacobs,-0.1,0.0,0,0,0,,1,0,-0.1,0,/players/j/jacobpa01.html
-0,,G,,0,0,0,0,37,0,0,0,Bert Lindsay,1.4,0.0,0,0,0,,16,0,0.0,0,/players/l/lindsbe01.html
-0,,D,,0,0,0,0,27,0,0,0,Dave Ritchie,0.1,0.3,0,0,9,,4,0,-0.2,0,/players/r/ritchda01.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+4,0,12,23,,1.2,0.3,0,,0,RW,1.5,0,TRA,/players/s/skinnal01.html,0,26,0,0,Alf Skinner,,1919,16,0,17,0
+5,0,10,22,,0.9,0.3,0,,0,LW/D,1.2,0,TRA,/players/n/noblere01.html,0,35,0,0,Reg Noble,,1919,15,0,17,0
+6,0,8,30,,1.5,1.0,0,,0,D,2.5,0,TRA,/players/r/randake01.html,0,27,0,0,Ken Randall,,1919,14,0,14,0
+3,0,8,25,,0.4,0.3,0,,0,C,0.7,0,TRA,/players/d/denneco01.html,0,15,0,0,Corb Denneny,,1919,11,0,16,0
+4,0,7,33,,0.2,0.3,0,,0,RW,0.5,0,TRA,/players/c/crawfru01.html,0,51,0,0,Rusty Crawford,,1919,11,0,18,0
+3,0,7,24,,0.4,0.3,0,,0,LW,0.7,0,TRA,/players/m/meekiha01.html,0,32,0,0,Harry Meeking,,1919,10,0,14,0
+2,0,6,28,,1.0,0.5,0,,0,D,1.5,0,TRA,/players/c/camerha01.html,0,9,0,0,Harry Cameron,,1919,8,0,7,0
+3,0,3,24,,-0.6,0.3,0,,0,C,-0.3,0,TRA,/players/a/adamsja01.html,0,35,0,0,Jack Adams,,1919,6,0,17,0
+0,0,2,29,,-0.2,0.9,0,,0,D,0.7,0,TRA,/players/m/mummeha01.html,0,30,0,0,Harry Mummery,,1919,2,0,13,0
+0,0,0,30,,0.0,0.0,0,,0,G,0.2,0,TRA,/players/h/holmeha01.html,0,0,0,0,Hap Holmes,,1919,0,0,2,0
+0,0,0,24,,-0.1,0.0,0,,0,F,-0.1,0,TRA,/players/j/jacobpa01.html,0,0,0,0,Paul Jacobs,,1919,0,0,1,0
+0,0,0,37,,0.0,0.0,0,,0,G,1.4,0,TRA,/players/l/lindsbe01.html,0,0,0,0,Bert Lindsay,,1919,0,0,16,0
+0,0,0,27,,-0.2,0.3,0,,0,D,0.1,0,TRA,/players/r/ritchda01.html,0,9,0,0,Dave Ritchie,,1919,0,0,4,0

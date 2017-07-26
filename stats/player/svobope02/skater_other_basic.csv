@@ -1,0 +1,18 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1995-96,15,4,50,12,0,CzRep-Jr.,38,HC Dukla Jihlava Jr.,16
+1996-97,16,1,0,3,0,CzRep-Jr.,29,HC Dukla Jihlava Jr.,4
+1997-98,17,0,0,2,0,CzRep-Jr.,12,HC Dukla Jihlava Jr.,2
+1997-98,17,1,16,2,0,CzRep-2,18,Rebel Havlickuv Brod,3
+1997-98,17,0,0,0,0,CzRep,1,HC Dukla Jihlava,0
+1998-99,18,1,28,5,0,CzRep,40,HC Dukla Jihlava,6
+1998-99,18,1,4,0,0,EuroHL,5,Dukla Jihlava,1
+1998-99,18,0,6,0,0,WJC-A,6,Czech Republic,0
+1999-00,19,1,44,2,0,CzRep,46,HC Ocelari Trinec,3
+1999-00,19,0,4,2,5,WJC-A,7,Czech Republic,2
+2000-01,20,7,48,7,0,AHL,38,St. John\'s Maple Leafs,14
+2001-02,21,3,58,10,-4,AHL,74,St. John\'s Maple Leafs,13
+2002-03,22,0,4,1,2,AHL,3,St. John\'s Maple Leafs,1
+2002-03,22,0,0,1,0,CzRep,5,3 Teams,1
+2002-03,22,0,0,0,0,CzRep,0,HC JME Znojemsti Orli Znojmo,0
+2002-03,22,0,0,0,0,CzRep,0,HC Havirov,0
+2002-03,22,0,0,1,0,CzRep,5,HC Ocelari Trinec,1

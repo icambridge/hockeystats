@@ -1,22 +1,22 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-0,St. Andrew\'s College,60,0,107,High-ON,30,1986-87,16,47
-36,Brockville Braves,55,0,76,ON-Jr.A,55,1987-88,17,21
-94,Detroit Compuware Ambassadors,46,0,69,NAHL,38,1988-89,18,23
-45,Bowling Green University,43,0,54,CCHA,41,1989-90,19,11
-30,Bowling Green University,38,0,60,CCHA,40,1990-91,20,22
-32,Bowling Green University,39,0,47,CCHA,34,1991-92,21,8
-28,Bowling Green University,28,0,47,CCHA,35,1992-93,22,19
-23,Adirondack Red Wings,47,0,69,AHL,80,1993-94,23,22
-32,Providence Bruins,69,0,92,AHL,80,1994-95,24,23
-44,Carolina Panthers,71,0,94,AHL,55,1995-96,25,23
-32,Providence Bruins,31,0,40,AHL,28,1996-97,26,9
-82,Cleveland Lumberjacks,62,-7,94,IHL,80,1997-98,27,32
-84,Cleveland Lumberjacks,67,-22,87,IHL,74,1998-99,28,20
-79,Cleveland Lumberjacks,50,7,70,IHL,76,1999-00,29,20
-51,Houston Aeros,64,-2,80,IHL,81,2000-01,30,16
-13,Syracuse Crunch,20,0,24,AHL,22,2001-02,31,4
-10,Skelleftea AIK HK,13,0,23,Sweden-2,19,2002-03,32,10
-65,HIFK Helsinki,49,0,59,Finland,52,2003-04,33,10
-83,HIFK Helsinki,30,0,34,Finland,52,2004-05,34,4
-2,Jokerit Helsinki,2,0,3,Finland,10,2005-06,35,1
-18,Skelleftea AIK HK,13,0,14,Sweden,32,2006-07,36,1
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+60,St. Andrew\'s College,47,1986-87,30,107,0,16,0,High-ON
+55,Brockville Braves,21,1987-88,55,76,36,17,0,ON-Jr.A
+46,Detroit Compuware Ambassadors,23,1988-89,38,69,94,18,0,NAHL
+43,Bowling Green University,11,1989-90,41,54,45,19,0,CCHA
+38,Bowling Green University,22,1990-91,40,60,30,20,0,CCHA
+39,Bowling Green University,8,1991-92,34,47,32,21,0,CCHA
+28,Bowling Green University,19,1992-93,35,47,28,22,0,CCHA
+47,Adirondack Red Wings,22,1993-94,80,69,23,23,0,AHL
+69,Providence Bruins,23,1994-95,80,92,32,24,0,AHL
+71,Carolina Panthers,23,1995-96,55,94,44,25,0,AHL
+31,Providence Bruins,9,1996-97,28,40,32,26,0,AHL
+62,Cleveland Lumberjacks,32,1997-98,80,94,82,27,-7,IHL
+67,Cleveland Lumberjacks,20,1998-99,74,87,84,28,-22,IHL
+50,Cleveland Lumberjacks,20,1999-00,76,70,79,29,7,IHL
+64,Houston Aeros,16,2000-01,81,80,51,30,-2,IHL
+20,Syracuse Crunch,4,2001-02,22,24,13,31,0,AHL
+13,Skelleftea AIK HK,10,2002-03,19,23,10,32,0,Sweden-2
+49,HIFK Helsinki,10,2003-04,52,59,65,33,0,Finland
+30,HIFK Helsinki,4,2004-05,52,34,83,34,0,Finland
+2,Jokerit Helsinki,1,2005-06,10,3,2,35,0,Finland
+13,Skelleftea AIK HK,1,2006-07,32,14,18,36,0,Sweden

@@ -1,12 +1,12 @@
-average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
-,49,0,0,WHA,19,0,73,9,181,5,4,0,0,1978-79,BRB,9,40,[],5.0,,77
-,44,2,0,NHL,20,15,81,-2,202,7,7,0,15,1979-80,MNS,14,30,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-14'}]",6.9,,79
-,43,2,0,NHL,21,10,124,-9,207,5,8,1,19,1980-81,MNS,13,30,"[{'link': '/awards/voting-1981.html#AS', 'name': 'AS-27'}]",6.3,,74
-,77,2,0,NHL,22,30,117,11,204,12,5,0,30,1981-82,MNS,17,60,"[{'link': '/awards/voting-1982.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-1982.html#norris', 'name': 'Norris-4'}]",8.3,,76
-,62,1,1,NHL,23,27,109,7,200,8,3,1,22,1982-83,MNS,12,50,"[{'link': '/awards/voting-1983.html#AS', 'name': 'AS-18'}]",6.0,,78
-,14,0,0,NHL,24,2,37,-2,54,2,5,0,5,1983-84,MNS,7,7,[],13.0,,26
-,18,1,1,NHL,25,6,54,-5,93,5,1,0,5,1984-85,MNS,7,11,[],7.5,,32
-,57,2,0,NHL,26,12,127,7,185,6,4,0,35,1985-86,MNS,10,47,[],5.4,,75
-,61,1,0,NHL,27,17,93,-2,189,7,4,0,33,1986-87,MNS,11,50,"[{'link': '/awards/voting-1987.html#AS', 'name': 'AS-18'}, {'link': '/awards/voting-1987.html#norris', 'name': 'Norris-12'}]",5.8,,73
-,19,1,0,NHL,28,4,29,-2,83,1,2,1,11,1987-88,MNS,3,16,[],3.6,,27
-,18,0,0,NHL,29,8,47,-8,75,3,1,0,6,1988-89,MNS,4,14,[],5.3,,30
+shotsPercentage,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,age,game_winning_goals,league,shorthanded_goals,average_ice_time,games_played,points,awards,power_play_goals
+5.0,1978-79,73,0,,0,181,0,5,9,40,BRB,9,19,0,WHA,0,,77,49,[],4
+6.9,1979-80,81,15,,0,202,15,7,-2,30,MNS,14,20,2,NHL,0,,79,44,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-14'}]",7
+6.3,1980-81,124,10,,1,207,19,5,-9,30,MNS,13,21,2,NHL,0,,74,43,"[{'link': '/awards/voting-1981.html#AS', 'name': 'AS-27'}]",8
+8.3,1981-82,117,30,,0,204,30,12,11,60,MNS,17,22,2,NHL,0,,76,77,"[{'link': '/awards/voting-1982.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-1982.html#norris', 'name': 'Norris-4'}]",5
+6.0,1982-83,109,27,,1,200,22,8,7,50,MNS,12,23,1,NHL,1,,78,62,"[{'link': '/awards/voting-1983.html#AS', 'name': 'AS-18'}]",3
+13.0,1983-84,37,2,,0,54,5,2,-2,7,MNS,7,24,0,NHL,0,,26,14,[],5
+7.5,1984-85,54,6,,0,93,5,5,-5,11,MNS,7,25,1,NHL,1,,32,18,[],1
+5.4,1985-86,127,12,,0,185,35,6,7,47,MNS,10,26,2,NHL,0,,75,57,[],4
+5.8,1986-87,93,17,,0,189,33,7,-2,50,MNS,11,27,1,NHL,0,,73,61,"[{'link': '/awards/voting-1987.html#AS', 'name': 'AS-18'}, {'link': '/awards/voting-1987.html#norris', 'name': 'Norris-12'}]",4
+3.6,1987-88,29,4,,1,83,11,1,-2,16,MNS,3,28,1,NHL,0,,27,19,[],2
+5.3,1988-89,47,8,,0,75,6,3,-8,14,MNS,4,29,0,NHL,0,,30,18,[],1

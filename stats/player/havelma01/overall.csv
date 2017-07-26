@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1984-01-26, ,CLW,Marian Havel,
+handed,heigh_and_weight,position,date_of_birth,name
+, ,CLW,1984-01-26,Marian Havel

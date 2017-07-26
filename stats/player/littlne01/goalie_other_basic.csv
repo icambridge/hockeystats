@@ -1,0 +1,20 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,SJHL,46,Estevan Bruins,2707,18,19,0,0,150,0,0,4,1,21,0,0,0,0,0,1989-90,0,3.32,0,0
+0,ECAC,18,RPI Engineers,1032,19,8,0,0,71,0,0,0,0,9,0,0,0,0,0,1990-91,0,4.13,0,0
+0,ECAC,28,RPI Engineers,1532,20,11,0,0,96,0,0,3,0,11,0,0,0,0,0,1991-92,0,3.76,0,0
+0,ECAC,31,RPI Engineers,1801,21,9,0,0,88,0,0,3,0,19,0,0,0,0,0,1992-93,0,2.93,0,0
+0,ECAC,27,RPI Engineers,1570,22,7,0,0,88,0,0,4,0,16,0,0,0,0,0,1993-94,0,3.36,0,0
+0,AHL,1,Hershey Bears,18,22,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1993-94,0,3.33,0,0
+0,AHL,19,Hershey Bears,919,23,7,0,0,60,0,0,3,0,5,0,0,0,0,.868,1994-95,454,3.92,0,394
+0,ECHL,16,Johnstown Chiefs,897,23,6,0,0,55,0,0,1,0,7,0,0,0,0,.896,1994-95,530,3.68,0,475
+0,AHL,48,Hershey Bears,2680,24,18,0,0,149,0,0,6,0,21,0,0,0,0,.895,1995-96,1418,3.34,0,1269
+0,AHL,54,Philadelphia Phantoms,3007,25,12,0,0,145,0,0,7,0,31,0,0,0,0,.909,1996-97,1602,2.89,0,1457
+0,AHL,51,Philadelphia Phantoms,2960,26,11,0,0,145,0,0,7,0,31,0,0,0,0,.903,1997-98,1492,2.94,0,1347
+0,IHL,50,Grand Rapids Griffins,2740,27,21,0,2,144,0,0,5,3,18,2,0,0,0,.894,1998-99,1362,3.15,6,1218
+0,AHL,51,Philadelphia Phantoms,2830,28,18,0,2,143,0,0,2,1,26,2,0,0,0,.906,1999-00,1516,3.03,21,1373
+0,AHL,58,Philadelphia Phantoms,3117,29,27,0,2,148,0,0,4,2,22,2,0,0,0,.909,2000-01,1624,2.85,60,1476
+0,AHL,35,Philadelphia Phantoms,2079,30,15,0,0,70,0,0,7,2,13,0,0,0,0,.926,2001-02,942,2.02,6,872
+0,AHL,42,Philadelphia Phantoms,2478,31,19,0,0,103,0,0,4,4,18,0,0,0,0,.907,2002-03,1102,2.49,2,999
+0,AHL,34,Philadelphia Phantoms,1900,32,12,0,1,62,0,0,1,6,21,1,0,0,0,.920,2003-04,777,1.96,21,715
+0,AHL,26,Philadelphia Phantoms,1383,33,7,0,1,54,0,0,0,3,15,1,0,0,0,.921,2004-05,687,2.34,6,633
+0,Finland,37,Blues Espoo,2100,34,16,0,0,85,0,0,7,2,14,0,0,0,0,0,2005-06,0,2.43,24,0

@@ -1,0 +1,22 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1990-91,16,22,38,50,0,AMHL,34,Lethbridge Y\'s Men Titans,72
+1990-91,16,1,0,2,0,WHL,5,Medicine Hat Tigers,3
+1991-92,17,22,20,43,0,WHL,72,Medicine Hat Tigers,65
+1992-93,18,33,30,73,0,WHL,72,Medicine Hat Tigers,106
+1993-94,19,48,48,72,0,WHL,72,Medicine Hat Tigers,120
+1994-95,20,37,32,78,0,WHL,69,Medicine Hat Tigers,115
+1994-95,20,0,0,0,0,AHL,3,Adirondack Red Wings,0
+1995-96,21,16,40,39,0,AHL,76,Adirondack Red Wings,55
+1996-97,22,25,30,41,0,AHL,78,Adirondack Red Wings,66
+1997-98,23,34,30,58,-3,AHL,80,Adirondack Red Wings,92
+1998-99,24,0,0,1,-2,AHL,2,Adirondack Red Wings,1
+2002-03,28,24,28,48,18,AHL,70,Grand Rapids Griffins,72
+2003-04,29,17,16,32,0,Swiss,48,SC Rapperswil-Jona,49
+2004-05,30,17,10,39,0,Swiss,41,SC Rapperswil-Jona,56
+2005-06,31,16,32,19,0,Swiss,44,SC Rapperswil-Jona Lakers,35
+2006-07,32,14,36,36,0,Swiss,40,SC Rapperswil-Jona Lakers,50
+2007-08,33,16,26,38,0,Swiss,49,Rapperswil-Jona Lakers,54
+2008-09,34,17,50,46,0,Swiss,50,Rapperswil-Jona Lakers,63
+2009-10,35,15,26,37,0,Swiss,49,Rapperswil-Jona Lakers,52
+2010-11,36,14,18,39,0,Swiss,50,Rapperswil-Jona Lakers,53
+2011-12,37,7,10,21,0,Swiss,45,Rapperswil-Jona Lakers,28

@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1984-85,15,7,154,26,0,AMHL,42,Edmonton Pats,33
+1985-86,16,2,99,14,0,WHL,71,Regina Pats,16
+1986-87,17,10,154,38,0,WHL,67,Regina Pats,48
+1987-88,18,9,148,34,0,WHL,61,Regina Pats,43
+1987-88,18,0,4,0,0,AHL,3,Rochester Americans,0
+1988-89,19,8,95,18,0,WHL,34,Regina Pats,26
+1988-89,19,0,4,0,0,AHL,3,Rochester Americans,0
+1989-90,20,2,273,10,0,AHL,60,Rochester Americans,12
+1990-91,21,0,248,9,0,AHL,49,Rochester Americans,9
+1991-92,22,0,113,4,0,AHL,27,Rochester Americans,4
+1992-93,23,1,199,12,0,AHL,61,2 Teams,13
+1992-93,23,1,138,9,0,AHL,41,New Haven Senators,10
+1992-93,23,0,61,3,0,AHL,20,St. John\'s Maple Leafs,3
+1993-94,24,3,174,12,0,AHL,36,Saint John Flames,15
+1994-95,25,1,181,13,0,IHL,55,Minnesota Moose,14
+1995-96,26,0,178,5,0,IHL,39,3 Teams,5
+1995-96,26,0,170,5,0,IHL,33,Minnesota Moose,5
+1995-96,26,0,8,0,0,IHL,5,Atlanta Knights,0
+1995-96,26,0,0,0,0,IHL,1,Utah Grizzlies,0
+1996-97,27,1,132,7,0,IHL,57,Quebec Rafales,8
+1997-98,28,3,274,7,1,IHL,67,2 Teams,10
+1997-98,28,3,228,6,4,IHL,58,San Antonio Dragons,9
+1997-98,28,0,46,1,-3,IHL,9,Utah Grizzlies,1
+1998-99,29,5,264,16,-4,IHL,73,Las Vegas Thunder,21
+1999-00,30,0,118,4,0,IHL,49,Utah Grizzlies,4

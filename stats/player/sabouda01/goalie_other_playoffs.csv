@@ -1,0 +1,9 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,QMJHL,1,Sherbrooke Castors,49,18,1,0,0,2,0,0,0,0,0,0,0,0,0,.917,1998-99,24,2.45,0,22
+0,AHL,1,Saint John Flames,57,18,1,0,0,4,0,0,0,0,0,0,0,0,0,.840,1998-99,25,4.21,0,21
+0,QMJHL,5,Sherbrooke Castors,324,19,4,0,0,18,0,0,0,0,1,0,0,0,0,.888,1999-00,160,3.33,0,142
+0,ECHL,1,Johnstown Chiefs,40,20,0,0,0,2,0,0,0,0,0,0,0,0,0,.800,2000-01,10,3.00,0,8
+0,ECHL,3,Johnstown Chiefs,137,21,2,0,0,5,0,0,0,0,0,0,0,0,0,.936,2001-02,78,2.19,0,73
+0,ECHL,1,Las Vegas Wranglers,58,23,1,0,0,2,0,0,0,0,0,0,0,0,0,.944,2003-04,36,2.07,0,34
+0,AHL,6,Wilkes-Barre Penguins,362,25,4,0,0,13,0,0,0,1,2,0,0,0,0,.927,2005-06,179,2.15,0,166
+0,AHL,5,Hershey Bears,301,31,3,0,0,16,0,0,0,0,2,0,0,0,0,.882,2011-12,136,3.19,2,120

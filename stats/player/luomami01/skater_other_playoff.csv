@@ -1,0 +1,16 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1996-97,20,0,6,2,0,Finland-3,3,Diskos Jyvaskyla,2
+1997-98,21,1,10,0,0,Finland-2,5,Diskos Jyvaskyla,1
+1998-99,22,0,4,0,0,Finland,3,JYP Jyvaskyla,0
+2000-01,24,0,10,2,0,Finland,10,Tappara Tampere,2
+2001-02,25,1,10,2,0,Finland,10,Tappara Tampere,3
+2002-03,26,2,12,1,0,Finland,14,Tappara Tampere,3
+2003-04,27,1,8,0,2,AHL,3,Toronto Roadrunners,1
+2005-06,29,2,20,1,0,Sweden,13,Linkopings HC,3
+2006-07,30,2,16,5,0,Sweden,9,Linkopings HC,7
+2007-08,31,2,20,5,0,Sweden,17,HV 71 Jonkoping,7
+2008-09,32,3,14,8,0,Sweden,18,HV 71 Jonkoping,11
+2009-10,33,0,6,2,0,KHL,3,Atlant Moscow Region,2
+2010-11,34,0,0,1,0,Sweden,4,HV 71 Jonkoping,1
+2011-12,35,0,6,2,0,Sweden,6,HV 71 Jonkoping,2
+2012-13,36,0,0,0,0,Sweden,5,HV 71 Jonkoping,0

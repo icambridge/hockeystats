@@ -1,0 +1,9 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+0.6,0,NHL,10,NJD,331,25,3,0,0,12,0,0,0,0,0,0,0,0,0,.899,1995-96,119,2.18,31,[],107
+3.4,0,NHL,31,TBL,1462,26,12,108,1,74,0,-5.50,1,2,11,1,0,0,0,.897,1996-97,719,3.04,10,[],645
+1.6,0,NHL,16,TBL,821,27,9,115,0,40,0,-5.31,1,1,2,0,0,0,0,.892,1997-98,370,2.92,2,[],330
+4.6,0,NHL,40,TBL,2146,28,25,119,4,126,0,-19.68,3,0,8,4,0,0,0,.891,1998-99,1153,3.52,4,[],1027
+0.2,0,NHL,6,VAN,269,29,1,0,0,16,0,0,1,0,2,0,0,0,0,.861,1999-00,115,3.57,2,[],99
+3.2,0,NHL,30,TOR,1646,31,10,115,0,75,0,-9.78,5,1,12,0,0,0,0,.894,2001-02,707,2.73,2,[],632
+2.0,0,NHL,11,NJD,614,32,3,0,0,15,0,0,1,1,5,0,0,0,0,.933,2002-03,223,1.47,0,[],208
+0.9,0,NHL,3,NJD,187,33,0,0,1,2,0,0,1,1,2,1,0,0,0,.971,2003-04,68,0.64,2,[],66

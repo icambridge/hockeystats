@@ -1,13 +1,13 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-154,1997-98,Colorado North Polars,33,0,16,25,44,11,High-CO
-127,1998-99,Sioux City Musketeers,15,0,17,56,18,3,USHL
-187,1999-00,Sioux City Musketeers,18,0,18,54,24,6,USHL
-79,2000-01,University of North Dakota,5,0,19,44,9,4,WCHA
-6,2000-01,United States,2,5,19,7,2,0,WJC-A
-63,2001-02,University of North Dakota,5,0,20,34,9,4,WCHA
-49,2002-03,University of North Dakota,6,0,21,26,8,2,WCHA
-39,2004-05,Albany River Rats,3,-3,23,30,5,2,AHL
-64,2005-06,Albany River Rats,5,-1,24,30,7,2,AHL
-0,2006-07,Lowell Devils,1,1,25,2,1,0,AHL
-0,2009-10,Norfolk Admirals,1,1,28,4,2,1,AHL
-32,2010-11,Binghamton Senators,4,-3,29,36,6,2,AHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+33,Colorado North Polars,11,1997-98,25,44,154,16,0,High-CO
+15,Sioux City Musketeers,3,1998-99,56,18,127,17,0,USHL
+18,Sioux City Musketeers,6,1999-00,54,24,187,18,0,USHL
+5,University of North Dakota,4,2000-01,44,9,79,19,0,WCHA
+2,United States,0,2000-01,7,2,6,19,5,WJC-A
+5,University of North Dakota,4,2001-02,34,9,63,20,0,WCHA
+6,University of North Dakota,2,2002-03,26,8,49,21,0,WCHA
+3,Albany River Rats,2,2004-05,30,5,39,23,-3,AHL
+5,Albany River Rats,2,2005-06,30,7,64,24,-1,AHL
+1,Lowell Devils,0,2006-07,2,1,0,25,1,AHL
+1,Norfolk Admirals,1,2009-10,4,2,0,28,1,AHL
+4,Binghamton Senators,2,2010-11,36,6,32,29,-3,AHL

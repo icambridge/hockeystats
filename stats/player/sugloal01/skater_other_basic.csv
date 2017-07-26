@@ -1,0 +1,35 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1998-99,17,0,0,0,0,Russia-4,1,Spartak Moscow 2,0
+1998-99,17,0,0,0,0,Russia,1,Spartak Moscow,0
+1999-00,18,23,0,10,0,Russia-3,38,Torpedo Yaroslavl 2,33
+2000-01,19,1,12,0,0,Russia,18,3 Teams,1
+2000-01,19,1,6,0,0,Russia,8,SKA St. Petersburg,1
+2000-01,19,0,4,0,0,Russia,6,Salavat Yulayev Ufa,0
+2000-01,19,0,2,0,0,Russia,4,Lokomotiv Yaroslavl,0
+2001-02,20,5,20,2,0,Russia-3,6,Lokomotiv Yaroslavl 2,7
+2001-02,20,4,26,2,0,Russia,25,Lokomotiv Yaroslavl,6
+2001-02,20,1,4,0,1,WJC-A,7,Russia,1
+2002-03,21,3,2,0,1,WC-A,7,Russia,3
+2002-03,21,4,16,2,0,Russia,23,2 Teams,6
+2002-03,21,0,4,0,0,Russia,6,Neftekhimik Nizhnekamsk,0
+2002-03,21,4,12,2,0,Russia,17,Lokomotiv Yaroslavl,6
+2003-04,22,11,54,11,0,AHL,35,Albany River Rats,22
+2004-05,23,25,77,21,-15,AHL,72,Albany River Rats,46
+2005-06,24,33,73,25,5,AHL,66,2 Teams,58
+2005-06,24,25,52,23,4,AHL,51,Albany River Rats,48
+2005-06,24,8,21,2,1,AHL,15,Toronto Marlies,10
+2006-07,25,3,16,10,0,AHL,32,Toronto Marlies,13
+2007-08,26,11,53,3,0,Russia,38,2 Teams,14
+2007-08,26,1,12,0,0,Russia,5,SKA St. Petersburg,1
+2007-08,26,10,41,3,0,Russia,33,CSKA Moscow,13
+2008-09,27,15,42,13,0,KHL,54,CSKA Moscow,28
+2009-10,28,12,22,14,0,KHL,37,CSKA Moscow,26
+2010-11,29,8,12,8,0,KHL,29,2 Teams,16
+2010-11,29,3,8,4,0,KHL,14,Spartak Moscow,7
+2010-11,29,5,4,4,0,KHL,15,CSKA Moscow,9
+2011-12,30,13,18,7,0,KHL,35,2 Teams,20
+2011-12,30,0,2,1,0,KHL,4,Torpedo Nizhny Novgorod,1
+2011-12,30,13,16,6,0,KHL,31,Sibir Novosibirsk,19
+2012-13,31,7,20,14,0,KHL,44,2 Teams,21
+2012-13,31,2,2,5,0,KHL,15,Traktor Chelyabinsk,7
+2012-13,31,5,18,9,0,KHL,29,Spartak Moscow,14

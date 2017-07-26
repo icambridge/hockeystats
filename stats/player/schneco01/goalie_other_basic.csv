@@ -1,0 +1,16 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,High-MA,23,Phillips Academy Andover,1385,16,7,0,0,39,0,0,2,3,13,0,0,0,0,0,2002-03,0,1.69,0,0
+0,High-MA,24,Phillips Academy Andover,1336,17,5,0,0,32,0,0,2,6,17,0,0,0,0,0,2003-04,0,1.44,0,0
+0,U-18,10,U.S. National Team Development Program,559,17,1,0,1,15,0,0,0,1,9,1,0,0,0,0,2003-04,0,1.61,0,0
+0,WJ18-A,6,United States,351,17,1,0,0,10,0,0,0,0,5,0,0,0,0,0,2003-04,0,1.71,0,0
+0,NAHL,2,U.S. National Team Development Program,120,17,0,0,0,6,0,0,0,0,2,0,0,0,0,0,2003-04,0,3.00,0,0
+0,H-East,18,Boston College Eagles,1102,18,1,0,0,35,0,0,4,1,13,0,0,0,0,0,2004-05,0,1.91,2,0
+0,WJC-A,1,United States,23,18,0,0,0,3,0,0,0,0,0,0,0,0,0,0,2004-05,0,7.83,0,0
+0,H-East,39,Boston College Eagles,2362,19,13,0,1,83,0,0,2,8,24,1,0,0,0,0,2005-06,0,2.11,0,0
+0,WJC-A,6,United States,359,19,3,0,0,16,0,0,1,0,2,0,0,0,0,0,2005-06,0,2.67,0,0
+0,H-East,42,Boston College Eagles,2517,20,12,0,2,90,0,0,1,6,29,2,0,0,0,0,2006-07,0,2.15,0,0
+0,AHL,36,Manitoba Moose,2054,21,12,0,0,78,0,0,2,3,21,0,0,0,0,.916,2007-08,926,2.28,0,848
+0,AHL,40,Manitoba Moose,2324,22,10,0,0,79,0,0,1,5,28,0,0,0,0,.928,2008-09,1093,2.04,4,1014
+0,AHL,60,Manitoba Moose,3557,23,23,0,3,149,0,0,2,4,35,3,0,0,0,.919,2009-10,1836,2.51,0,1687
+0,Swiss,8,HC Ambri-Piotta,485,26,4,0,0,26,0,0,0,0,4,0,0,0,0,0,2012-13,0,3.22,0,0
+0,WCup,0,USA,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016-17,0,0,0,0

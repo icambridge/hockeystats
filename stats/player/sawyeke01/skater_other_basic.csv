@@ -1,0 +1,17 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1991-92,17,9,200,11,0,KIJHL,24,Grand Forks Border Bruins,20
+1991-92,17,0,40,1,0,BCJHL,18,3 Teams,1
+1991-92,17,0,9,0,0,BCJHL,3,Kelowna Spartans,0
+1991-92,17,0,18,1,0,BCJHL,12,Vernon Lakers,1
+1991-92,17,0,13,0,0,BCJHL,3,Penticton Panthers,0
+1992-93,18,4,274,3,0,WHL,62,Spokane Chiefs,7
+1993-94,19,10,350,15,0,WHL,60,Spokane Chiefs,25
+1994-95,20,7,365,9,0,WHL,54,Spokane Chiefs,16
+1995-96,21,3,297,4,0,AHL,45,2 Teams,7
+1995-96,21,3,268,4,0,AHL,41,Worcester IceCats,7
+1995-96,21,0,29,0,0,AHL,4,Providence Bruins,0
+1996-97,22,8,367,9,0,AHL,60,Providence Bruins,17
+1997-98,23,2,398,5,-15,IHL,60,Michigan K-Wings,7
+1998-99,24,8,299,14,-8,AHL,70,Worcester IceCats,22
+1999-00,25,4,321,8,-4,AHL,56,Springfield Falcons,12
+2000-01,26,2,211,12,-10,AHL,41,Cincinnati Mighty Ducks,14

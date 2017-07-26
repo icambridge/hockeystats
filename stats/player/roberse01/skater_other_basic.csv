@@ -1,0 +1,37 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1982-83,17,0,152,3,0,QMJHL,32,2 Teams,3
+1982-83,17,0,30,0,0,QMJHL,9,Quebec Remparts,0
+1982-83,17,0,122,3,0,QMJHL,23,Hull Olympiques,3
+1983-84,18,1,290,7,0,QMJHL,58,2 Teams,8
+1983-84,18,0,131,3,0,QMJHL,33,Hull Olympiques,3
+1983-84,18,1,159,4,0,QMJHL,25,Drummondville Voltigeurs,5
+1984-85,19,9,294,17,0,QMJHL,45,Drummondville Voltigeurs,26
+1985-86,20,6,180,8,0,RHL,31,Riviere-du-Loup 3 L\'s,14
+1985-86,20,0,12,0,0,Nfld-Sr.,2,St. John\'s Capitals,0
+1986-87,21,9,353,16,0,ACHL,49,Virginia Lancers,25
+1987-88,22,5,0,3,0,Nfld-Sr.,12,Port-aux-Basques Mariners,8
+1987-88,22,0,130,1,0,AHL,30,Sherbrooke Canadiens,1
+1988-89,23,5,352,7,0,AHL,65,Sherbrooke Canadiens,12
+1989-90,24,8,343,5,0,AHL,66,Sherbrooke Canadiens,13
+1990-91,25,0,152,5,0,AHL,52,Halifax Citadels,5
+1991-92,26,2,319,8,0,AHL,66,Halifax Citadels,10
+1992-93,27,2,119,5,0,AHL,44,2 Teams,7
+1992-93,27,2,34,2,0,AHL,16,Halifax Citadels,4
+1992-93,27,0,85,3,0,AHL,28,Utica Devils,3
+1993-94,28,3,130,5,0,AHL,51,Cape Breton Oilers,8
+1994-95,29,0,342,3,0,AHL,73,Cornwall Aces,3
+1995-96,30,1,87,2,0,AHL,46,2 Teams,3
+1995-96,30,0,42,1,0,AHL,32,Rochester Americans,1
+1995-96,30,1,45,1,0,AHL,14,Fredericton Canadiens,2
+1996-97,31,2,273,4,0,IHL,61,Quebec Rafales,6
+1997-98,32,2,115,0,-5,IHL,35,Quebec Rafales,2
+1998-99,33,1,23,2,0,QSPHL,5,Pont-Rouge Grand Portneuf,3
+1998-99,33,7,268,4,-24,UHL,61,Mohawk Valley Prowlers,11
+1999-00,34,3,155,4,0,QSPHL,19,Cote-de-Beaupre Aces,7
+1999-00,34,3,207,7,-4,UHL,54,Mohawk Valley Prowlers,10
+2000-01,35,0,7,0,0,QSPHL,1,Cote-de-Beaupre Aces,0
+2000-01,35,2,124,0,0,UHL,26,Mohawk Valley Prowlers,2
+2000-01,35,1,96,0,0,WCHL,17,Phoenix Mustangs,1
+2001-02,36,1,229,0,0,QSPHL,32,Quebec Aces,1
+2002-03,37,1,262,3,0,QSPHL,28,Saguenay Paramedic,4
+2003-04,38,1,219,0,0,QSMHL,33,Saguenay Paramedic,1

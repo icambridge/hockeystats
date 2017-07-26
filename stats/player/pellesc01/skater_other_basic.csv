@@ -1,0 +1,17 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1985-86,16,65,34,34,0,NBAHA,45,Moncton Flyers,99
+1986-87,17,62,98,68,0,SMHL,72,Notre Dame Midget Hounds,130
+1987-88,18,37,139,49,0,SJHL,57,Notre Dame Hounds,86
+1988-89,19,29,92,33,0,H-East,45,University of Maine,62
+1989-90,20,22,68,34,0,H-East,42,University of Maine,56
+1989-90,20,2,2,0,0,WJC-A,7,Canada,2
+1990-91,21,23,60,25,0,H-East,43,University of Maine,48
+1991-92,22,32,54,25,0,H-East,37,University of Maine,57
+1992-93,23,15,33,18,0,AHL,27,Utica Devils,33
+1993-94,24,28,84,46,0,AHL,73,Albany River Rats,74
+1994-95,25,23,95,33,0,AHL,74,Albany River Rats,56
+1995-96,26,35,142,47,0,AHL,75,Albany River Rats,82
+1996-97,27,10,37,16,0,AHL,24,Worcester IceCats,26
+2003-04,34,9,38,24,7,AHL,55,2 Teams,33
+2003-04,34,0,0,3,3,AHL,6,Portland Pirates,3
+2003-04,34,9,38,21,4,AHL,49,Worcester IceCats,30

@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1982-11-03,", ",D,Jay Harrison,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",D,1982-11-03,Jay Harrison

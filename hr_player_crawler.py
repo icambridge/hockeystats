@@ -965,7 +965,7 @@ def scrapeGoalie(playerName, tree):
 
 
 letters = list(string.ascii_lowercase)
-a = 7
+a = 8
 while a < len(letters):
     content = getHtml("/players/" + letters[a] + "/")
     tree = html.fromstring(content)
@@ -979,14 +979,10 @@ while a < len(letters):
     while i < numberFound:
         try:
             crawlPlayer(playersPages[i])
-        except http.client.RemoteDisconnected:
-            os.wait(10)
-            conn = http.client.HTTPSConnection("www.hockey-reference.com")
-            continue
-        except ConnectionResetError:
-            os.wait(10)
+        except:
+            time.sleep(10)
             conn = http.client.HTTPSConnection("www.hockey-reference.com")
             continue
         i = i + 1
-
+    a = a + 1
 print("Finished")

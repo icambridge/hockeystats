@@ -1,0 +1,36 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2009-10,14,3,4,4,0,TV-Pucken,8,V\xc3\xa4sterbotten,7
+2009-10,14,3,37,6,0,J18 Elit,16,Tegs SK J18,9
+2009-10,14,7,12,4,0,U16 SM,6,IF Bj\xc3\xb6rkl\xc3\xb6ven U16,11
+2009-10,14,1,0,3,-16,J18 Allsvens,10,IF Bj\xc3\xb6rkl\xc3\xb6ven J18,4
+2010-11,15,4,12,24,0,J18 Allsvens,16,Skellefte\xc3\xa5 AIK J18,28
+2010-11,15,5,12,11,0,TV-Pucken,8,V\xc3\xa4sterbotten,16
+2010-11,15,0,0,1,0,Internationa,3,Sweden U17 (all),1
+2010-11,15,14,6,25,0,J18 Elit,20,Skellefte\xc3\xa5 AIK J18,39
+2011-12,16,0,0,1,-1,Hlinka Memor,5,Sweden U18,1
+2011-12,16,0,2,2,2,Internationa,6,Sweden U17 (all),2
+2011-12,16,11,14,26,16,SuperElit,37,Skellefte\xc3\xa5 AIK J20,37
+2011-12,16,1,0,1,0,J18 Allsvens,2,Skellefte\xc3\xa5 AIK J18,2
+2011-12,16,0,6,4,0,Internationa,8,Sweden U18 (all),4
+2012-13,17,7,8,13,5,Internationa,19,Sweden U18 (all),20
+2012-13,17,2,2,3,0,WJC-18,5,Sweden U18,5
+2012-13,17,4,2,3,4,Hlinka Memor,5,Sweden U18,7
+2012-13,17,5,18,11,5,SuperElit,14,Skellefte\xc3\xa5 AIK J20,16
+2012-13,17,0,0,0,0,SHL,2,Skellefte\xc3\xa5 AIK,0
+2012-13,17,5,4,5,-6,Allsvenskan,16,Karlskrona HK,10
+2013-14,18,1,0,1,0,ET,6,Lule\xc3\xa5 HF,2
+2013-14,18,1,6,7,4,Allsvenskan,11,Aspl\xc3\xb6ven HC,8
+2013-14,18,5,6,9,7,Internationa,17,Sweden U20 (all),14
+2013-14,18,3,2,5,5,WJC-20,7,Sweden U20,8
+2013-14,18,3,2,7,-4,SHL,41,Lule\xc3\xa5 HF,10
+2014-15,19,4,8,2,3,WJC-20,7,Sweden U20,6
+2014-15,19,1,0,6,1,Internationa,6,Sweden (all),7
+2014-15,19,0,0,1,0,EHT,2,Sweden,1
+2014-15,19,5,14,13,-8,SHL,50,Lule\xc3\xa5 HF,18
+2014-15,19,5,6,6,4,Champions HL,13,Lule\xc3\xa5 HF,11
+2014-15,19,7,18,10,5,Internationa,17,Sweden U20 (all),17
+2015-16,20,1,2,0,-5,Internationa,9,Sweden (all),1
+2015-16,20,1,2,0,-2,EHT,5,Sweden,1
+2015-16,20,8,20,24,5,SHL,48,Lule\xc3\xa5 HF,32
+2015-16,20,0,8,0,-3,Champions HL,5,Lule\xc3\xa5 HF,0
+2016-17,21,24,28,22,13,AHL,67,Charlotte Checkers,46

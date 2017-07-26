@@ -1,0 +1,6 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+0.7,0,NHL,4,NJD,188,26,1,0,0,13,0,0,0,1,2,0,0,0,0,.883,1985-86,111,4.15,0,[],98
+0.8,0,NHL,6,DET,342,27,2,0,0,16,0,0,2,0,1,0,0,0,0,.881,1986-87,135,2.81,0,[],119
+0.9,0,NHL,6,DET,294,28,2,0,0,16,0,0,0,0,2,0,0,0,0,.892,1987-88,148,3.27,2,[],132
+0.6,0,NHL,4,DET,141,29,1,0,0,9,0,0,1,0,0,0,0,0,0,.901,1988-89,91,3.83,0,[],82
+1.8,0,NHL,14,DET,607,30,6,98,0,38,0,0.63,1,0,2,0,0,0,0,.883,1989-90,325,3.76,2,[],287

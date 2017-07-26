@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1993-94,16,4,0,3,0,CzRep-Jr.,35,HC Vitkovice Jr.,7
+1993-94,16,0,0,0,0,CzRep,1,HC Vitkovice,0
+1994-95,17,6,0,10,0,CzRep-Jr.,20,HC Vitkovice Jr.,16
+1994-95,17,2,10,0,0,CzRep,8,HC Vitkovice,2
+1995-96,18,5,0,10,0,CzRep-Jr.,16,HC Vitkovice Jr.,15
+1995-96,18,0,8,2,0,WJC-A,6,Czech Republic,2
+1995-96,18,3,32,4,0,CzRep,33,HC Vitkovice,7
+1996-97,19,0,0,0,0,CzRep,1,HC Vitkovice,0
+1996-97,19,12,116,32,0,WHL,61,Moose Jaw Warriors,44
+1997-98,20,4,86,8,20,AHL,55,Adirondack Red Wings,12
+1998-99,21,2,16,2,-1,IHL,6,Cleveland Lumberjacks,4
+1998-99,21,2,12,6,0,WC-A,12,Czech Republic,8
+2000-01,23,2,18,3,9,WC-A,9,Czech Republic,5
+2001-02,24,0,0,1,1,Olympics,4,Czech Republic,1
+2001-02,24,3,8,4,9,WC-A,7,Czech Republic,7
+2004-05,27,6,46,5,0,CzRep,28,HC Vitkovice Steel,11
+2004-05,27,2,10,2,4,WC-A,9,Czech Republic,4
+2005-06,28,1,12,1,2,Olympics,8,Czech Republic,2
+2009-10,32,0,2,0,2,Olympics,5,Czech Republic,0
+2012-13,35,0,4,1,0,Swiss,3,HC Geneve-Servette,1

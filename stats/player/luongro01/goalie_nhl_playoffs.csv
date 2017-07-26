@@ -1,0 +1,8 @@
+won,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+,0,NHL,12,VAN,847,27,7,72,0,25,0,9.67,0,0,5,0,0,0,0,.941,2006-07,427,1.77,0,402
+,2,NHL,10,VAN,618,29,4,101,0,26,10,-0.18,0,1,6,0,.600,0,6,.914,2008-09,304,2.52,0,278
+,3,NHL,12,VAN,707,30,6,114,0,38,12,-4.71,0,0,6,0,.417,0,5,.895,2009-10,362,3.22,0,324
+,6,NHL,0,VAN,1427,31,0,102,0,0,24,-0.94,0,0,15,0,.542,0,13,.914,2010-11,711,2.56,0,650
+,1,NHL,2,VAN,117,32,2,0,0,7,2,0,0,0,0,0,.500,0,1,.891,2011-12,64,3.59,0,57
+,0,NHL,3,VAN,140,33,2,0,0,6,2,0,0,0,0,0,.000,0,0,.915,2012-13,71,2.57,0,65
+,1,NHL,6,FLA,438,36,4,80,0,15,6,3.80,0,0,2,0,.667,0,4,.934,2015-16,227,2.05,0,212

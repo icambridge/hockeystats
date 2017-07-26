@@ -1,0 +1,12 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,38,0,21,0,3,0,,MTM,[],0,0,1,0,2,0,1928-29,,0,2,0,0
+NHL,31,0,22,0,3,0,,MTM,[],0,0,2,0,1,0,1929-30,,0,10,0,0
+NHL,26,0,24,0,3,0,,MTM,[],0,0,3,0,0,0,1931-32,,0,2,0,0
+NHL,44,0,25,0,24,0,,MTM,[],0,0,9,0,15,0,1932-33,,0,6,0,0
+NHL,47,0,26,0,28,0,,MTM,[],0,0,16,0,12,0,1933-34,,0,14,0,0
+NHL,48,0,27,0,35,0,,MTM,[],0,0,18,0,17,0,1934-35,,0,23,0,0
+NHL,39,0,28,0,20,0,,MTM,[],0,0,14,0,6,0,1935-36,,0,27,0,0
+NHL,47,0,29,0,34,0,,MTM,[],0,0,18,0,16,0,1936-37,,0,19,0,0
+NHL,39,0,30,0,11,0,,MTM,[],0,0,7,0,4,0,1937-38,,0,13,0,0
+NHL,47,0,31,0,15,0,,CBH,[],0,0,6,0,9,0,1938-39,,0,13,0,0
+NHL,11,0,32,0,5,0,,MTL,[],0,0,4,0,1,0,1939-40,,0,4,0,0

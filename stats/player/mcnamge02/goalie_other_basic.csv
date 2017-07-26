@@ -1,0 +1,23 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHA-Jr.,5,St. Michael\'s Majors,280,17,3,0,0,20,0,0,0,0,2,0,0,0,0,0,1951-52,0,4.29,0,0
+0,OHA-Jr.,10,St. Michael\'s Majors,600,18,0,0,0,30,0,0,0,0,0,0,0,0,0,0,1952-53,0,3.00,0,0
+0,OHA-Jr.,57,St. Michael\'s Majors,3420,19,0,0,0,205,0,0,0,2,0,0,0,0,0,0,1953-54,0,3.60,0,0
+0,OHA-Jr.,46,St. Michael\'s Majors,2750,20,18,0,0,149,0,0,3,2,25,0,0,0,0,0,1954-55,0,3.25,0,0
+0,AHL,5,Pittsburgh Hornets,300,21,4,0,0,19,0,0,0,0,1,0,0,0,0,0,1955-56,0,3.80,0,0
+0,WHL,16,Winnipeg Warriors,965,22,11,0,0,60,0,0,1,0,4,0,0,0,0,0,1956-57,0,3.73,0,0
+0,AHL,22,Hershey Bears,1320,22,12,0,0,92,0,0,0,0,10,0,0,0,0,0,1956-57,0,4.18,0,0
+0,AHL,37,Buffalo Bisons,2245,23,21,0,0,149,0,0,2,0,14,0,0,0,0,0,1957-58,0,3.98,0,0
+0,AHL,49,Cleveland Barons,2940,24,18,0,0,155,0,0,2,3,29,0,0,0,0,0,1958-59,0,3.16,0,0
+0,EPHL,59,Sudbury Wolves,3520,25,21,0,0,236,0,0,7,2,31,0,0,0,0,0,1959-60,0,4.02,0,0
+0,AHL,2,Rochester Americans,120,25,2,0,0,13,0,0,0,0,0,0,0,0,0,0,1959-60,0,6.50,0,0
+0,EPHL,52,Sudbury Wolves,3120,26,27,0,0,210,0,0,7,3,18,0,0,0,0,0,1960-61,0,4.04,0,0
+0,AHL,1,Rochester Americans,60,26,1,0,0,5,0,0,0,0,0,0,0,0,0,0,1960-61,0,5.00,0,0
+0,AHL,35,Pittsburgh Hornets,2100,27,30,0,0,148,0,0,0,0,5,0,0,0,0,0,1961-62,0,4.23,0,0
+0,WHL,6,Portland Buckaroos,380,27,3,0,0,25,0,0,2,0,1,0,0,0,0,0,1961-62,0,3.95,0,0
+0,AHL,32,Rochester Americans,1920,28,18,0,0,123,0,0,3,1,10,0,0,0,0,0,1962-63,0,3.84,0,0
+0,EHL,29,Charlotte Checkers,1740,29,0,0,0,109,0,0,0,1,0,0,0,0,0,0,1963-64,0,3.76,0,0
+0,OHA-Sr.,31,Toronto Grads,1830,32,0,0,0,112,0,0,0,2,0,0,0,0,0,0,1966-67,0,3.67,0,0
+0,OHA-Sr.,37,Toronto Marlboros,2210,33,0,0,0,111,0,0,0,0,0,0,0,0,0,0,1967-68,0,3.01,0,0
+0,OHA-Sr.,29,Orillia Terriers,1697,34,0,0,0,105,0,0,0,1,0,0,0,0,0,0,1968-69,0,3.71,0,0
+0,OHA-Sr.,25,Orillia Terriers,1500,35,0,0,0,61,0,0,0,3,0,0,0,0,0,0,1969-70,0,2.44,0,0
+0,OHA-Sr.,31,Orillia Terriers,1817,37,0,0,0,112,0,0,0,3,0,0,0,0,0,0,1971-72,0,3.70,0,0

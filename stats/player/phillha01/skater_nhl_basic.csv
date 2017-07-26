@@ -1,0 +1,6 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,67,2,21,132,53,3,,ATF,[],12.9,15,36,27,17,0,1977-78,,2,128,0,33
+NHL,65,2,22,79,30,0,,TOT,[],11.4,9,21,1,9,0,1978-79,,0,119,0,21
+NHL,51,2,22,66,26,0,,ATF,[],13.6,9,17,5,9,0,1978-79,,0,113,0,17
+NHL,14,0,22,13,4,0,,CBH,[],0.0,0,4,-4,0,0,1978-79,,0,6,0,4
+NHL,9,0,23,2,0,0,,CBH,[],0.0,0,0,-3,0,0,1979-80,,0,20,0,0

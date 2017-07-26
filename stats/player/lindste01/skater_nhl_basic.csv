@@ -1,0 +1,18 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,45,0,19,0,23,0,,DET,"[{'link': '/awards/voting-1945.html#calder', 'name': 'Calder-3'}]",0,0,6,0,17,0,1944-45,,0,43,0,0
+NHL,47,0,20,0,17,0,,DET,[],0,0,10,0,7,0,1945-46,,0,14,0,0
+NHL,59,0,21,0,42,0,,DET,[],0,0,15,0,27,0,1946-47,,0,57,0,0
+NHL,60,0,22,0,52,0,,DET,"[{'link': '/awards/nhl_all_star.html#1948', 'name': None}]",0,0,19,0,0,0,1947-48,,0,95,0,0
+NHL,50,0,23,0,54,0,,DET,"[{'link': '/awards/nhl_all_star.html#1949', 'name': None}, {'link': '/awards/voting-1949.html#hart', 'name': 'Hart-4'}]",0,0,28,0,26,0,1948-49,,0,97,0,0
+NHL,69,0,24,0,0,0,,DET,"[{'link': '/awards/nhl_all_star.html#1950', 'name': None}, {'link': '/awards/voting-1950.html#hart', 'name': 'Hart-7'}, {'link': '/awards/ross.html#1950', 'name': None}]",0,0,0,0,23,0,1949-50,,0,141,0,0
+NHL,67,0,25,0,59,0,,DET,"[{'link': '/awards/nhl_all_star.html#1951', 'name': None}]",0,0,35,0,24,0,1950-51,,0,110,0,0
+NHL,0,0,26,0,69,0,,DET,"[{'link': '/awards/nhl_all_star.html#1952', 'name': None}]",0,0,39,0,30,0,1951-52,,0,123,0,0
+NHL,0,0,27,0,71,0,,DET,"[{'link': '/awards/nhl_all_star.html#1953', 'name': None}]",0,0,39,0,32,0,1952-53,,0,111,0,0
+NHL,70,0,28,0,62,0,,DET,"[{'link': '/awards/nhl_all_star.html#1954', 'name': None}]",0,0,36,0,26,0,1953-54,,0,110,0,0
+NHL,49,0,29,0,38,0,,DET,[],0,0,19,0,19,0,1954-55,,0,85,0,0
+NHL,67,0,30,0,50,0,,DET,"[{'link': '/awards/nhl_all_star.html#1956', 'name': None}, {'link': '/awards/voting-1956.html#hart', 'name': 'Hart-10'}]",0,0,23,0,27,0,1955-56,,0,161,0,0
+NHL,0,0,31,0,85,0,,DET,"[{'link': '/awards/nhl_all_star.html#1957', 'name': None}]",0,0,0,0,30,0,1956-57,,0,103,0,0
+NHL,68,0,32,0,39,0,,CBH,[],0,0,24,0,15,0,1957-58,,0,110,0,0
+NHL,0,0,33,0,58,0,,CBH,[],0,0,36,0,22,0,1958-59,,0,0,0,0
+NHL,68,0,34,0,26,0,,CBH,[],0,0,19,0,7,0,1959-60,,0,91,0,0
+NHL,69,1,39,0,28,0,,DET,[],0,13,14,0,14,0,1964-65,,1,173,0,0

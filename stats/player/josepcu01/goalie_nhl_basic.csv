@@ -1,0 +1,20 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+2.6,0,NHL,15,STL,852,22,5,93,1,48,0,3.71,1,0,9,1,0,0,0,.890,1989-90,435,3.38,0,[],387
+5.7,0,NHL,30,STL,1710,23,10,89,1,89,0,10.62,2,0,16,1,0,0,0,.898,1990-91,874,3.12,0,[],785
+0,0,NHL,60,STL,3494,24,20,80,9,175,0,43.43,10,2,27,9,0,0,0,.910,1991-92,1953,3.01,12,"[{'link': '/awards/voting-1992.html#AS', 'name': 'AS-7'}]",0
+0,0,NHL,68,STL,3890,25,28,0,2,196,0,0,9,1,29,2,0,0,0,0,1992-93,0,3.02,8,"[{'link': '/awards/voting-1993.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-1993.html#vezina', 'name': 'Vezina-3'}]",0
+0,0,NHL,71,STL,4127,26,23,85,3,213,0,36.94,11,1,36,3,0,0,0,.911,1993-94,0,3.10,4,"[{'link': '/awards/voting-1994.html#AS', 'name': 'AS-8'}, {'link': '/awards/voting-1994.html#vezina', 'name': 'Vezina-4'}]",0
+5.1,0,NHL,36,STL,1914,27,10,99,1,89,0,0.88,1,1,20,1,0,0,0,.902,1994-95,904,2.79,0,"[{'link': '/awards/voting-1995.html#vezina', 'name': 'Vezina-11'}]",815
+4.1,0,NHL,34,EDM,1936,28,16,113,1,111,0,-12.37,2,0,15,1,0,0,0,.886,1995-96,971,3.44,4,[],860
+12.1,0,NHL,72,EDM,4100,29,29,98,2,200,0,4.27,9,6,32,2,0,0,0,.907,1996-97,2144,2.93,20,"[{'link': '/awards/voting-1997.html#AS', 'name': 'AS-8'}, {'link': '/awards/voting-1997.html#vezina', 'name': 'Vezina-5'}]",1944
+11.0,0,NHL,71,EDM,4132,30,31,102,2,181,0,-2.76,9,8,29,2,0,0,0,.905,1997-98,1901,2.63,4,"[{'link': '/awards/voting-1998.html#hart', 'name': 'Hart-20'}]",1720
+11.6,0,NHL,67,TOR,4001,31,24,97,5,0,0,4.48,7,3,35,5,0,0,0,.910,1998-99,1903,2.56,6,"[{'link': '/awards/voting-1999.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-1999.html#hart', 'name': 'Hart-4'}, {'link': '/awards/voting-1999.html#vezina', 'name': 'Vezina-2'}]",1732
+13.4,0,NHL,63,TOR,3801,32,20,89,1,158,0,19.26,7,4,36,1,0,0,0,.915,1999-00,1854,2.49,14,"[{'link': '/awards/voting-2000.html#AS', 'name': 'AS-5'}, {'link': '/awards/clancy.html#2000', 'name': None}, {'link': '/awards/voting-2000.html#hart', 'name': 'Hart-11'}, {'link': '/awards/voting-2000.html#vezina', 'name': 'Vezina-3'}]",1696
+14.0,0,NHL,68,TOR,4100,33,27,88,1,163,0,21.48,8,6,33,1,0,0,0,.915,2000-01,1907,2.39,8,"[{'link': '/awards/voting-2001.html#vezina', 'name': 'Vezina-8'}]",1744
+7.2,0,NHL,51,TOR,3065,34,17,102,1,114,0,-2.38,5,4,29,1,0,0,0,.906,2001-02,1210,2.23,10,"[{'link': '/awards/voting-2002.html#vezina', 'name': 'Vezina-10'}]",1096
+10.7,0,NHL,61,DET,3566,35,19,97,0,148,0,4.79,6,5,34,0,0,0,0,.912,2002-03,1676,2.49,4,[],1528
+4.3,0,NHL,31,DET,1708,36,10,103,0,68,0,-1.74,3,2,16,0,0,0,0,.909,2003-04,744,2.39,2,[],676
+10.3,0,NHL,60,PHX,3424,38,21,99,1,166,0,0.86,3,4,32,1,0,0,0,.902,2005-06,1690,2.91,18,[],1524
+7.0,0,NHL,55,PHX,2993,39,31,113,0,159,0,-18.66,2,4,18,0,0,0,0,.893,2006-07,1481,3.19,10,[],1322
+1.1,2,NHL,9,CGY,400,40,2,0,0,17,5,0,0,0,3,0,.600,0,3,.906,2007-08,181,2.55,2,[],164
+0.6,5,NHL,21,TOR,841,41,9,143,0,50,11,-14.95,1,0,5,0,.182,0,2,.869,2008-09,383,3.57,0,[],333

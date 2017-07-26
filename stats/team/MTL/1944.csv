@@ -1,18 +1,18 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-0,,C,,0,0,0,0,26,0,24,48,Elmer Lach,5.6,1.6,72,0,23,,48,0,3.9,0,/players/l/lachel01.html
-0,,LW,,0,0,0,0,31,0,26,33,Toe Blake,5.0,1.4,59,0,10,,41,0,3.6,0,/players/b/blaketo01.html
-0,,RW,,0,0,0,0,22,0,32,22,Maurice Richard,4.9,1.6,54,0,45,,46,0,3.4,0,/players/r/richama01.html
-0,,C,,0,0,0,0,27,0,12,42,Buddy O'Connor,3.6,1.5,54,0,6,,44,0,2.1,0,/players/o/oconnbu01.html
-0,,LW/C,,0,0,0,0,29,0,28,25,Ray Getliffe,4.6,1.5,53,0,44,,44,0,3.1,0,/players/g/getlira01.html
-0,,RW,,0,0,0,0,29,0,17,32,Phil Watson,3.6,1.5,49,0,61,,44,0,2.1,0,/players/w/watsoph01.html
-0,,RW,,0,0,0,0,27,0,28,20,Gerry Heffernan,4.3,1.5,48,0,12,,43,0,2.8,0,/players/h/heffege01.html
-0,,LW,,0,0,0,0,28,0,15,32,Murph Chamberlain,3.3,1.6,47,0,85,,47,0,1.7,0,/players/c/chambmu01.html
-0,,C,,0,0,0,0,27,0,20,18,Fern Majeau,3.0,1.5,38,0,39,,44,0,1.5,0,/players/m/majeafe01.html
-0,,D,,0,0,0,0,27,0,8,23,Leo Lamoureux,7.5,6.0,31,0,32,,44,0,1.5,0,/players/l/lamoule01.html
-0,,LW,,0,0,0,0,22,0,7,23,Bob Fillion,1.7,1.4,30,0,14,,41,0,0.3,0,/players/f/fillibo01.html
-0,,D,,0,0,0,0,28,0,7,17,Mike McMahon,6.7,5.7,24,0,98,,42,0,1.0,0,/players/m/mcmahmi01.html
-0,,D,,0,0,0,0,23,0,5,16,Glen Harmon,6.5,5.9,21,0,36,,43,0,0.6,0,/players/h/harmogl01.html
-0,,D,,0,0,0,0,24,0,5,14,Butch Bouchard,5.9,5.3,19,0,52,,39,0,0.6,0,/players/b/bouchbu01.html
-0,,C,,0,0,0,0,20,0,0,0,Tod Campeau,0.0,0.1,0,0,0,,2,0,-0.1,0,/players/c/campeto01.html
-0,,G,,0,0,0,0,28,0,0,0,Bill Durnan,15.0,0.0,0,0,0,,50,0,0.0,0,/players/d/durnabi01.html
-0,,RW,,0,0,0,0,31,0,0,0,Bobby Walton,-0.1,0.1,0,0,0,,4,0,-0.2,0,/players/w/waltobo01.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+48,0,24,26,,3.9,1.6,0,,0,C,5.6,0,MTL,/players/l/lachel01.html,0,23,0,0,Elmer Lach,,1944,72,0,48,0
+33,0,26,31,,3.6,1.4,0,,0,LW,5.0,0,MTL,/players/b/blaketo01.html,0,10,0,0,Toe Blake,,1944,59,0,41,0
+22,0,32,22,,3.4,1.6,0,,0,RW,4.9,0,MTL,/players/r/richama01.html,0,45,0,0,Maurice Richard,,1944,54,0,46,0
+42,0,12,27,,2.1,1.5,0,,0,C,3.6,0,MTL,/players/o/oconnbu01.html,0,6,0,0,Buddy O'Connor,,1944,54,0,44,0
+25,0,28,29,,3.1,1.5,0,,0,LW/C,4.6,0,MTL,/players/g/getlira01.html,0,44,0,0,Ray Getliffe,,1944,53,0,44,0
+32,0,17,29,,2.1,1.5,0,,0,RW,3.6,0,MTL,/players/w/watsoph01.html,0,61,0,0,Phil Watson,,1944,49,0,44,0
+20,0,28,27,,2.8,1.5,0,,0,RW,4.3,0,MTL,/players/h/heffege01.html,0,12,0,0,Gerry Heffernan,,1944,48,0,43,0
+32,0,15,28,,1.7,1.6,0,,0,LW,3.3,0,MTL,/players/c/chambmu01.html,0,85,0,0,Murph Chamberlain,,1944,47,0,47,0
+18,0,20,27,,1.5,1.5,0,,0,C,3.0,0,MTL,/players/m/majeafe01.html,0,39,0,0,Fern Majeau,,1944,38,0,44,0
+23,0,8,27,,1.5,6.0,0,,0,D,7.5,0,MTL,/players/l/lamoule01.html,0,32,0,0,Leo Lamoureux,,1944,31,0,44,0
+23,0,7,22,,0.3,1.4,0,,0,LW,1.7,0,MTL,/players/f/fillibo01.html,0,14,0,0,Bob Fillion,,1944,30,0,41,0
+17,0,7,28,,1.0,5.7,0,,0,D,6.7,0,MTL,/players/m/mcmahmi01.html,0,98,0,0,Mike McMahon,,1944,24,0,42,0
+16,0,5,23,,0.6,5.9,0,,0,D,6.5,0,MTL,/players/h/harmogl01.html,0,36,0,0,Glen Harmon,,1944,21,0,43,0
+14,0,5,24,,0.6,5.3,0,,0,D,5.9,0,MTL,/players/b/bouchbu01.html,0,52,0,0,Butch Bouchard,,1944,19,0,39,0
+0,0,0,20,,-0.1,0.1,0,,0,C,0.0,0,MTL,/players/c/campeto01.html,0,0,0,0,Tod Campeau,,1944,0,0,2,0
+0,0,0,28,,0.0,0.0,0,,0,G,15.0,0,MTL,/players/d/durnabi01.html,0,0,0,0,Bill Durnan,,1944,0,0,50,0
+0,0,0,31,,-0.2,0.1,0,,0,RW,-0.1,0,MTL,/players/w/waltobo01.html,0,0,0,0,Bobby Walton,,1944,0,0,4,0

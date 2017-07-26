@@ -1,0 +1,18 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,MJHL,23,Kenora Muskies,1265,16,0,0,0,71,0,0,0,0,0,0,0,0,0,0,1970-71,0,3.37,0,0
+0,MJHL,43,Kenora Muskies,2402,17,0,0,0,172,0,0,0,0,0,0,0,0,0,0,1971-72,0,4.30,0,0
+0,WCJHL,3,Winnipeg Jets,160,17,0,0,0,13,0,0,0,0,0,0,0,0,0,0,1971-72,0,4.88,0,0
+0,OHA-Jr.,52,Oshawa Generals,3176,18,0,0,0,247,0,0,0,0,0,0,0,0,0,0,1972-73,0,4.67,0,0
+0,OHA-Jr.,33,Oshawa Generals,1932,19,0,0,0,130,0,0,0,1,0,0,0,0,0,0,1973-74,0,4.04,0,0
+0,OMJHL,32,Oshawa Generals,1965,20,0,0,0,131,0,0,0,1,0,0,0,0,0,0,1974-75,0,4.00,0,0
+0,IHL,42,Flint Generals,2201,21,0,0,0,118,0,0,0,0,0,0,0,0,0,0,1975-76,0,3.22,0,0
+0,AHL,1,Springfield Indians,60,22,0,0,0,3,0,0,0,0,1,0,0,0,0,0,1976-77,0,3.00,0,0
+0,IHL,53,Flint Generals,2956,22,0,0,0,179,0,0,0,3,0,0,0,0,0,0,1976-77,0,3.63,0,0
+0,AHL,40,Maine Mariners,2266,23,14,0,0,116,0,0,2,2,22,0,0,0,0,0,1977-78,0,3.07,0,0
+0,AHL,31,2 Teams,1796,24,13,0,0,85,0,0,4,0,14,0,0,0,0,0,1978-79,0,2.84,0,0
+0,AHL,9,Philadelphia Firebirds,484,24,4,0,0,22,0,0,1,0,4,0,0,0,0,0,1978-79,0,2.73,0,0
+0,AHL,22,Maine Mariners,1312,24,9,0,0,63,0,0,3,0,10,0,0,0,0,0,1978-79,0,2.88,0,0
+0,AHL,46,Maine Mariners,2729,25,14,0,0,132,0,0,7,1,25,0,0,0,0,0,1979-80,0,2.90,0,0
+0,AHL,8,St. Catharines Saints,482,29,1,0,0,29,0,0,0,0,7,0,0,0,0,0,1983-84,0,3.61,0,0
+0,AHL,18,St. Catharines Saints,1076,30,10,0,0,92,0,0,1,0,6,0,0,0,0,0,1984-85,0,5.13,0,0
+0,IHL,42,Fort Wayne Komets,2474,31,13,0,0,132,0,0,0,2,25,0,0,0,0,0,1985-86,0,3.20,0,0

@@ -1,8 +1,8 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-10,1981-82,IF Bjorkloven Umea,1,0,20,6,1,0,Sweden
-0,1982-83,IF Bjorkloven Umea,0,0,21,3,0,0,Sweden
-8,1986-87,IF Bjorkloven Umea,2,0,25,6,3,1,Sweden
-4,1987-88,IF Bjorkloven Umea,1,0,26,7,2,1,Sweden
-10,1989-90,IF Bjorkloven Umea,2,0,28,8,6,4,Sweden-2
-2,1990-91,IF Bjorkloven Umea,0,0,29,2,0,0,Sweden-2
-8,1991-92,IF Bjorkloven Umea,3,0,30,3,5,2,Sweden-2
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+1,IF Bjorkloven Umea,0,1981-82,6,1,10,20,0,Sweden
+0,IF Bjorkloven Umea,0,1982-83,3,0,0,21,0,Sweden
+2,IF Bjorkloven Umea,1,1986-87,6,3,8,25,0,Sweden
+1,IF Bjorkloven Umea,1,1987-88,7,2,4,26,0,Sweden
+2,IF Bjorkloven Umea,4,1989-90,8,6,10,28,0,Sweden-2
+0,IF Bjorkloven Umea,0,1990-91,2,0,2,29,0,Sweden-2
+3,IF Bjorkloven Umea,2,1991-92,3,5,8,30,0,Sweden-2

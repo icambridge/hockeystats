@@ -1,0 +1,5 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,IHL,6,Fort Wayne Komets,358,23,4,0,0,21,0,0,0,0,2,0,0,0,0,0,1983-84,0,3.52,0,0
+0,AHL,7,Hershey Bears,365,25,1,0,0,19,0,0,0,0,5,0,0,0,0,0,1985-86,0,3.12,0,0
+0,AHL,4,Hershey Bears,203,26,2,0,0,15,0,0,0,0,1,0,0,0,0,0,1986-87,0,4.43,0,0
+0,AHL,12,Fredericton Express,715,27,5,0,0,40,0,0,0,0,7,0,0,0,0,0,1987-88,0,3.36,0,0

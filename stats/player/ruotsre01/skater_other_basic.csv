@@ -1,0 +1,35 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1975-76,15,9,12,15,0,Finland-2,34,Karpat Oulu,24
+1975-76,15,1,0,0,0,EJC-A,3,Finland,1
+1976-77,16,25,14,41,0,Finland-2,42,Karpat Oulu,66
+1976-77,16,2,6,4,0,WJC-A,7,Finland,6
+1976-77,16,0,0,2,0,EJC-A,2,Finland,2
+1977-78,17,9,4,14,0,Finland,30,Karpat Oulu,23
+1977-78,17,3,2,3,0,WJC-A,6,Finland,6
+1977-78,17,2,2,0,0,WEC-A,10,Finland,2
+1978-79,18,14,47,8,0,Finland,36,Karpat Oulu,22
+1978-79,18,0,0,3,0,WJC-A,6,Finland,3
+1978-79,18,2,2,0,0,WEC-A,6,Finland,2
+1979-80,19,15,31,13,0,Finland,30,Karpat Oulu,28
+1979-80,19,4,2,3,0,WJC-A,5,Finland,7
+1980-81,20,28,28,23,0,Finland,34,Karpat Oulu,51
+1980-81,20,3,4,2,0,WEC-A,8,Finland,5
+1981-82,21,0,2,1,0,Can-Cup,5,Finland,1
+1981-82,21,1,0,6,0,DN-Cup,4,New York Rangers,7
+1984-85,24,0,6,4,0,WEC-A,10,Finland,4
+1986-87,26,26,27,27,0,Swiss,35,SC Bern,53
+1987-88,27,0,2,0,0,Can-Cup,4,Finland,0
+1987-88,27,10,26,22,0,Sweden,40,HV 71 Jonkoping,32
+1987-88,27,4,0,2,0,Olympics,8,Finland,6
+1988-89,28,17,46,29,0,Swiss,36,SC Bern,46
+1988-89,28,2,6,4,0,WEC-A,10,Finland,6
+1990-91,30,13,20,25,0,Swiss,36,SC Bern,38
+1991-92,31,7,24,16,0,Swiss,35,SC Bern,23
+1992-93,32,7,42,15,0,Swiss,31,SC Bern,22
+1993-94,33,1,6,5,0,Finland-2,4,Karpat Oulu,6
+1993-94,33,2,2,4,0,Finland,6,Tappara Tampere,6
+1994-95,34,3,20,7,0,Swiss,19,SC Bern,10
+1995-96,35,3,4,5,0,Finland,16,KalPa Kuopio,8
+1995-96,35,4,4,11,0,Swiss,18,Zurcher SC,15
+1996-97,36,1,14,5,0,Finland-2,17,Karpat Oulu,6
+1997-98,37,8,42,23,0,Finland-2,44,Karpat Oulu,31

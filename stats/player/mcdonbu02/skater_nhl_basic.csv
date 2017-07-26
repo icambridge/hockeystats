@@ -1,0 +1,5 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,37,0,23,0,7,0,,DET,[],0,0,6,0,1,0,1939-40,,0,2,0,0
+NHL,29,0,28,0,21,0,,TOT,"[{'link': '/awards/voting-1945.html#calder', 'name': 'Calder-5'}]",0,0,14,0,7,0,1944-45,,0,0,0,0
+NHL,3,0,28,0,2,0,,DET,"[{'link': '/awards/voting-1945.html#calder', 'name': 'Calder-5'}]",0,0,1,0,1,0,1944-45,,0,0,0,0
+NHL,26,0,28,0,19,0,,CBH,"[{'link': '/awards/voting-1945.html#calder', 'name': 'Calder-5'}]",0,0,13,0,6,0,1944-45,,0,0,0,0

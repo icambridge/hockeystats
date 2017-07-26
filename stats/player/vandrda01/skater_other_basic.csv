@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1992-93,17,3,114,16,0,AMHL,32,Sherwood Park Kings,19
+1993-94,18,3,95,10,0,WHL,63,Prince Albert Raiders,13
+1994-95,19,2,132,14,0,WHL,71,Prince Albert Raiders,16
+1995-96,20,10,172,23,0,WHL,70,Prince Albert Raiders,33
+1996-97,21,18,218,47,0,WHL,72,Prince Albert Raiders,65
+1997-98,22,8,107,22,7,ECHL,59,Baton Rouge Kingfish,30
+1997-98,22,0,2,0,0,IHL,1,Detroit Vipers,0
+1997-98,22,0,4,0,3,AHL,9,2 Teams,0
+1997-98,22,0,2,0,1,AHL,5,Hershey Bears,0
+1997-98,22,0,2,0,2,AHL,4,Portland Pirates,0
+1998-99,23,5,107,17,0,UHL,63,Saginaw Gears,22
+1998-99,23,0,0,0,-1,IHL,1,Cincinnati Cyclones,0
+1998-99,23,2,12,4,7,ECHL,9,Dayton Bombers,6
+1999-00,24,0,76,6,6,IHL,36,Grand Rapids Griffins,6
+1999-00,24,1,78,9,14,ECHL,29,Mobile Mysticks,10
+2000-01,25,2,52,18,0,ECHL,33,Mobile Mysticks,20
+2000-01,25,2,24,5,0,IHL,36,Grand Rapids Griffins,7
+2001-02,26,2,56,2,4,AHL,48,Grand Rapids Griffins,4
+2001-02,26,1,10,3,-3,ECHL,3,Mobile Mysticks,4
+2002-03,27,3,106,10,31,AHL,80,Grand Rapids Griffins,13

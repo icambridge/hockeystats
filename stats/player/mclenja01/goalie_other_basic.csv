@@ -1,0 +1,18 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,AMHL,21,St. Albert Royals,1224,16,0,0,0,80,0,0,0,0,0,0,0,0,0,0,1987-88,0,3.92,0,0
+0,WHL,18,2 Teams,946,17,0,0,0,85,0,0,0,0,0,0,0,0,0,0,1988-89,0,5.39,0,0
+0,WHL,11,Spokane Chiefs,578,17,0,0,0,63,0,0,0,0,0,0,0,0,0,0,1988-89,0,6.54,0,0
+0,WHL,7,Lethbridge Hurricanes,368,17,0,0,0,22,0,0,0,0,0,0,0,0,0,0,1988-89,0,3.59,0,0
+0,WHL,34,Lethbridge Hurricanes,1690,18,4,0,0,110,0,0,2,1,20,0,0,0,0,0,1989-90,0,3.91,0,0
+0,WHL,56,Lethbridge Hurricanes,3230,19,18,0,0,205,0,0,4,0,32,0,0,0,0,0,1990-91,0,3.81,0,0
+0,AHL,18,Capital District Islanders,952,20,10,0,0,60,0,0,2,1,4,0,0,0,0,0,1991-92,0,3.78,0,0
+0,ECHL,32,Richmond Renegades,1837,20,12,0,0,114,0,0,2,0,16,0,0,0,0,0,1991-92,0,3.72,0,0
+0,AHL,38,Capital District Islanders,2171,21,14,0,0,117,0,0,6,1,17,0,0,0,0,0,1992-93,0,3.23,0,0
+0,IHL,24,Salt Lake Golden Eagles,1320,22,12,0,0,80,0,0,2,0,8,0,0,0,0,0,1993-94,0,3.64,0,0
+0,IHL,4,Denver Grizzlies,239,23,0,0,0,12,0,0,1,0,3,0,0,0,0,.906,1994-95,127,3.01,0,115
+0,IHL,14,Utah Grizzlies,728,24,2,0,0,29,0,0,2,0,9,0,0,0,0,.911,1995-96,327,2.39,0,298
+0,AHL,22,Worcester IceCats,1216,24,7,0,0,57,0,0,1,0,14,0,0,0,0,.905,1995-96,597,2.81,0,540
+0,AHL,39,Worcester IceCats,2152,25,13,0,0,100,0,0,4,2,18,0,0,0,0,.903,1996-97,1035,2.79,0,935
+0,AHL,51,Houston Aeros,2852,30,18,0,1,130,0,0,4,3,25,1,0,0,0,.905,2001-02,1373,2.73,2,1243
+0,Britain-2,3,Guildford Flames,185,33,1,0,1,8,0,0,0,0,2,1,0,0,0,0,2004-05,0,2.59,0,0
+0,AsianHL,14,Nippon Paper Cranes,0,36,0,0,0,33,0,0,0,0,0,0,0,0,0,0,2007-08,0,0,4,0

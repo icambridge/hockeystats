@@ -1,0 +1,31 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2005-06,14,11,20,13,0,Svk-U18,40,MHC Martin U18,24
+2006-07,15,10,48,6,0,CzR-U17,12,HC Trinec U17,16
+2006-07,15,16,30,9,0,CzRep-Jr.,27,HC Trinec Jr.,25
+2006-07,15,0,2,2,0,WJ18-A,6,Slovakia,2
+2007-08,16,35,70,27,0,CzRep-Jr.,39,HC Trinec Jr.,62
+2007-08,16,0,0,0,0,CzRep,6,HC Ocelari Trinec,0
+2007-08,16,4,0,6,0,WJ18-A,6,Slovakia,10
+2008-09,17,10,36,9,0,CzRep-Jr.,16,HC Trinec Jr.,19
+2008-09,17,2,0,1,0,CzRep-2,3,HC Havirov,3
+2008-09,17,1,4,1,0,CzRep,15,HC Ocelari Trinec,2
+2008-09,17,2,4,3,0,WJC-A,7,Slovakia,5
+2009-10,18,6,2,2,0,WJC-A,6,Slovakia,8
+2009-10,18,0,0,1,-1,AHL,5,Norfolk Admirals,1
+2009-10,18,0,6,2,3,WC-A,6,Slovakia,2
+2009-10,18,21,55,20,3,OHL,60,2 Teams,41
+2009-10,18,9,19,9,15,OHL,33,Windsor Spitfires,18
+2009-10,18,12,36,11,-12,OHL,27,Belleville Bulls,23
+2010-11,19,7,12,2,1,WJC-A,6,Slovakia,9
+2010-11,19,27,75,29,-6,OHL,51,2 Teams,56
+2010-11,19,14,33,17,0,OHL,27,Belleville Bulls,31
+2010-11,19,13,42,12,-6,OHL,24,Guelph Storm,25
+2011-12,20,19,62,22,13,AHL,64,Norfolk Admirals,41
+2012-13,21,22,81,19,17,AHL,51,Syracuse Crunch,41
+2013-14,22,0,0,0,-2,Olympics,4,Slovakia,0
+2013-14,22,3,8,8,1,AHL,13,Syracuse Crunch,11
+2013-14,22,0,2,0,-7,Internationa,12,Slovakia (all),0
+2013-14,22,0,2,0,-5,WC,7,Slovakia,0
+2014-15,23,0,10,3,-2,Internationa,9,Slovakia (all),3
+2014-15,23,0,2,2,-2,WC,7,Slovakia,2
+2015-16,24,9,34,16,5,AHL,33,Toronto Marlies,25

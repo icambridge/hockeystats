@@ -1,0 +1,13 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1985-86,17,0,4,0,0,OHL,5,London Knights,0
+1987-88,19,8,6,17,0,OHL,12,London Knights,25
+1992-93,24,0,6,5,0,AHL,7,Baltimore Skipjacks,5
+1993-94,25,0,6,1,0,AHL,7,Saint John Flames,1
+1994-95,26,1,44,11,0,Austria,12,EC VSV Villach,12
+1995-96,27,0,0,0,0,Germany,2,EC Hannover,0
+1997-98,29,1,4,3,0,Austria,5,EC VSV Villach,4
+2001-02,33,0,14,0,0,Germany,13,Kolner Haie,0
+2002-03,34,2,16,10,0,Germany,15,Kolner Haie,12
+2003-04,35,0,4,1,0,Germany,6,Kolner Haie,1
+2005-06,37,2,12,7,0,Germany,9,Kolner Haie,9
+2006-07,38,1,2,2,0,Germany,6,Hannover Scorpions,3

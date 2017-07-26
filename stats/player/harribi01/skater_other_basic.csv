@@ -1,11 +1,11 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-2,Weston Dukes,14,0,20,OHA-B,18,1950-51,15,6
-0,Toronto Marlboros,1,0,1,OHA-Jr.,2,1950-51,15,0
-0,Toronto Marlboros,1,0,1,OHA-Jr.,3,1951-52,16,0
-4,Toronto Marlboros,31,0,51,OHA-Jr.,56,1952-53,17,20
-27,Toronto Marlboros,39,0,64,OHA-Jr.,59,1953-54,18,25
-26,Toronto Marlboros,29,0,66,OHA-Jr.,47,1954-55,19,37
-15,Rochester Americans,20,0,25,AHL,43,1956-57,21,5
-6,Rochester Americans,10,0,14,AHL,11,1964-65,29,4
-2,Pittsburgh Hornets,22,0,37,AHL,42,1965-66,30,15
-29,Pittsburgh Hornets,36,0,70,AHL,70,1966-67,31,34
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+14,Weston Dukes,6,1950-51,18,20,2,15,0,OHA-B
+1,Toronto Marlboros,0,1950-51,2,1,0,15,0,OHA-Jr.
+1,Toronto Marlboros,0,1951-52,3,1,0,16,0,OHA-Jr.
+31,Toronto Marlboros,20,1952-53,56,51,4,17,0,OHA-Jr.
+39,Toronto Marlboros,25,1953-54,59,64,27,18,0,OHA-Jr.
+29,Toronto Marlboros,37,1954-55,47,66,26,19,0,OHA-Jr.
+20,Rochester Americans,5,1956-57,43,25,15,21,0,AHL
+10,Rochester Americans,4,1964-65,11,14,6,29,0,AHL
+22,Pittsburgh Hornets,15,1965-66,42,37,2,30,0,AHL
+36,Pittsburgh Hornets,34,1966-67,70,70,29,31,0,AHL

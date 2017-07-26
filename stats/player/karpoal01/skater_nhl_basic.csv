@@ -1,0 +1,17 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,67,1,23,78,18,4,,NYR,[],3.8,2,15,12,3,0,1993-94,,1,58,1,10
+NHL,47,1,24,82,12,4,,NYR,[],4.9,3,8,-4,4,0,1994-95,,1,30,1,3
+NHL,40,1,25,71,18,7,,NYR,[],2.8,1,16,12,2,0,1995-96,,1,26,0,9
+NHL,77,0,26,84,38,13,,NYR,[],10.7,2,29,1,9,1,1996-97,,6,59,0,16
+NHL,47,1,27,46,10,2,,NYR,[],6.5,2,7,-1,3,0,1997-98,,1,38,0,5
+NHL,58,1,28,65,28,9,1219,TOT,"[{'link': '/awards/voting-1999.html#AS', 'name': 'AS-14'}, {'link': '/awards/voting-1999.html#norris', 'name': 'Norris-14'}]",4.6,2,25,0,3,0,1998-99,21:01,1,52,0,16
+NHL,2,0,28,4,1,0,45,NYR,"[{'link': '/awards/voting-1999.html#AS', 'name': 'AS-14'}, {'link': '/awards/voting-1999.html#norris', 'name': 'Norris-14'}]",25.0,1,0,1,1,0,1998-99,22:38,0,0,0,0
+NHL,56,1,28,61,27,9,1174,TOR,"[{'link': '/awards/voting-1999.html#AS', 'name': 'AS-14'}, {'link': '/awards/voting-1999.html#norris', 'name': 'Norris-14'}]",3.3,1,25,38,2,0,1998-99,20:58,1,52,0,16
+NHL,69,0,29,51,17,9,1396,TOR,[],5.9,0,14,9,3,0,1999-00,20:14,3,54,0,5
+NHL,53,0,30,52,15,4,1085,CHI,[],3.8,1,13,-4,2,0,2000-01,20:28,1,39,0,9
+NHL,65,0,31,40,10,0,1343,CHI,[],2.5,0,9,10,1,1,2001-02,20:40,0,40,0,9
+NHL,40,1,32,36,14,3,867,CHI,[],11.1,1,10,-8,4,0,2002-03,21:40,3,12,2,5
+NHL,27,0,33,34,8,4,511,TOT,[],0.0,0,8,-16,0,0,2003-04,18:55,0,18,0,4
+NHL,24,0,33,31,7,4,478,CHI,[],0.0,0,7,-17,0,0,2003-04,19:56,0,14,0,3
+NHL,3,0,33,3,1,0,33,NYI,[],0.0,0,1,1,0,0,2003-04,10:54,0,4,0,1
+NHL,6,0,35,4,0,0,66,FLA,[],0.0,0,0,-3,0,0,2005-06,11:05,0,4,0,0

@@ -1,9 +1,9 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-12,Orlando Solar Bears,0,0,1,IHL,8,1998-99,24,1
-2,Springfield Falcons,0,0,0,AHL,1,1999-00,25,0
-8,Manchester Monarchs,2,0,4,AHL,5,2001-02,27,2
-2,Manchester Monarchs,0,1,1,AHL,3,2002-03,28,1
-10,Chicago Wolves,6,5,9,AHL,10,2003-04,29,3
-12,Adler Mannheim,4,0,6,Germany,13,2004-05,30,2
-0,Providence Bruins,3,-3,5,AHL,5,2005-06,31,2
-27,SCL Tigers Langnau,1,0,3,Swiss,3,2008-09,34,2
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Orlando Solar Bears,1,1998-99,8,1,12,24,0,IHL
+0,Springfield Falcons,0,1999-00,1,0,2,25,0,AHL
+2,Manchester Monarchs,2,2001-02,5,4,8,27,0,AHL
+0,Manchester Monarchs,1,2002-03,3,1,2,28,1,AHL
+6,Chicago Wolves,3,2003-04,10,9,10,29,5,AHL
+4,Adler Mannheim,2,2004-05,13,6,12,30,0,Germany
+3,Providence Bruins,2,2005-06,5,5,0,31,-3,AHL
+1,SCL Tigers Langnau,2,2008-09,3,3,27,34,0,Swiss

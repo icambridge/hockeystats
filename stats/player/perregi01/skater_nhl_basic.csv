@@ -1,0 +1,18 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,78,5,20,210,72,15,,BUF,"[{'link': '/awards/voting-1971.html#byng', 'name': 'Byng-5'}, {'link': '/awards/calder.html#1971', 'name': None}, {'link': '/awards/voting-1971.html#hart', 'name': 'Hart-13'}]",18.1,24,34,-39,38,0,1970-71,,14,19,0,19
+NHL,76,1,21,218,74,25,,BUF,"[{'link': '/awards/voting-1972.html#hart', 'name': 'Hart-10'}]",11.9,15,48,-40,26,0,1971-72,,11,24,0,23
+NHL,78,7,22,234,88,17,,BUF,"[{'link': '/awards/byng.html#1973', 'name': None}, {'link': '/awards/voting-1973.html#hart', 'name': 'Hart-5'}]",12.0,20,60,11,28,0,1972-73,,8,10,0,43
+NHL,55,7,23,163,51,9,,BUF,[],11.0,12,33,-8,18,0,1973-74,,6,10,0,24
+NHL,68,8,24,245,96,26,,BUF,"[{'link': '/awards/voting-1975.html#AS', 'name': 'AS-3'}]",15.9,27,57,1,39,0,1974-75,,12,36,0,31
+NHL,0,4,25,237,113,29,,BUF,"[{'link': '/awards/nhl_all_star.html#1976', 'name': None}, {'link': '/awards/voting-1976.html#hart', 'name': 'Hart-7'}]",18.6,30,69,17,44,0,1975-76,,14,36,0,40
+NHL,0,0,26,195,95,22,,BUF,"[{'link': '/awards/nhl_all_star.html#1977', 'name': None}, {'link': '/awards/voting-1977.html#hart', 'name': 'Hart-7'}]",20.0,30,56,10,39,2,1976-77,,7,30,0,34
+NHL,79,7,27,192,89,17,,BUF,[],21.4,34,48,18,41,0,1977-78,,7,20,0,31
+NHL,79,4,28,172,85,17,,BUF,"[{'link': '/awards/voting-1979.html#byng', 'name': 'Byng-22'}]",15.7,21,58,12,27,0,1978-79,,6,20,0,41
+NHL,80,5,29,180,106,28,,BUF,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-3'}]",22.2,30,66,32,40,0,1979-80,,10,57,0,38
+NHL,56,3,30,150,59,14,,BUF,[],13.3,15,39,3,20,0,1980-81,,5,56,0,25
+NHL,62,4,31,155,73,7,,BUF,[],20.0,29,42,19,31,0,1981-82,,2,40,0,35
+NHL,77,5,32,192,76,13,,BUF,[],15.6,20,46,-10,30,2,1982-83,,8,34,1,32
+NHL,73,7,33,165,90,23,,BUF,"[{'link': '/awards/voting-1984.html#AS', 'name': 'AS-9'}, {'link': '/awards/voting-1984.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-1984.html#byng', 'name': 'Byng-9'}]",18.8,21,59,19,31,2,1983-84,,8,32,2,34
+NHL,78,1,34,172,83,20,,BUF,"[{'link': '/awards/voting-1985.html#byng', 'name': 'Byng-12'}]",17.4,19,53,9,30,1,1984-85,,10,42,1,32
+NHL,72,3,35,164,60,10,,BUF,"[{'link': '/awards/voting-1986.html#byng', 'name': 'Byng-9'}]",12.8,15,39,-10,21,1,1985-86,,5,28,0,29
+NHL,20,1,36,35,16,1,,BUF,[],25.7,8,7,-2,9,0,1986-87,,1,6,0,6

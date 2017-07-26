@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1907-08,19,3,0,0,0,NOHL,6,Port Arthur Lake City,3
+1908-09,20,8,0,0,0,NOHL,12,Port Arthur Lake City,8
+1909-10,21,20,21,0,0,NOHL,12,Port Arthur Lake City,20
+1910-11,22,30,0,0,0,NOHL,14,Port Arthur Lake City,30
+1911-12,23,17,0,0,0,NOHL,13,Port Arthur Lake City,17
+1912-13,24,0,0,0,0,NHA,1,Toronto Blueshirts,0
+1912-13,24,21,9,0,0,MPHL,15,Moncton Victorias,21
+1913-14,25,20,17,16,0,NHA,20,Toronto Blueshirts,36
+1914-15,26,12,11,7,0,NHA,19,Toronto Blueshirts,19
+1915-16,27,13,6,6,0,PCHA,18,Seattle Metropolitans,19
+1915-16,27,0,0,4,0,Exhib.,3,PCHA All-Stars,4
+1916-17,28,11,3,15,0,PCHA,24,Seattle Metropolitans,26
+1917-18,29,0,0,0,0,PCHA,1,Seattle Metropolitans,0
+1918-19,30,9,9,6,0,PCHA,20,Seattle Metropolitans,15
+1919-20,31,4,3,8,0,PCHA,22,Seattle Metropolitans,12
+1920-21,32,6,6,4,0,PCHA,23,Seattle Metropolitans,10
+1921-22,33,8,0,4,0,PCHA,20,Seattle Metropolitans,12
+1922-23,34,13,4,10,0,PCHA,29,Seattle Metropolitans,23
+1923-24,35,18,0,5,0,PCHA,29,Seattle Metropolitans,23
+1924-25,36,7,6,7,0,WCHL,28,Victoria Cougars,14
+1925-26,37,9,16,8,0,WHL,30,Victoria Cougars,17
+1928-29,40,5,4,8,0,PCHL,34,Seattle Seahawks,13
+1929-30,41,6,2,11,0,PCHL,26,Seattle Eskimos,17
+1930-31,42,2,8,13,0,PCHL,34,Seattle Eskimos,15

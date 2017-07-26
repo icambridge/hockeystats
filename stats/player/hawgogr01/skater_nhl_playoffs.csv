@@ -1,6 +1,6 @@
-power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
-0,3,1,0,NHL,1987-88,19,1,BOS,,0,0,0,0,3,,,33.3,1
-0,10,2,0,NHL,1988-89,20,0,BOS,,2,2,-3,0,11,,,0.0,0
-1,15,4,0,NHL,1989-90,21,1,BOS,,3,12,-9,0,18,,,5.6,0
-0,13,3,0,NHL,1991-92,23,0,EDM,,3,23,-4,0,19,,,0.0,0
-0,1,0,0,NHL,1993-94,25,0,PIT,,0,0,0,0,1,,,0.0,0
+even_strength_goals,assists,team,goals,pim,age,game_winning_goals,total_ice_time,league,shorthanded_goals,shots,average_ice_time,year,games_played,shotsPercentage,win,power_play_goals,points,plus_minus
+1,0,BOS,1,0,19,0,,NHL,0,3,,1987-88,3,33.3,,0,1,0
+0,2,BOS,0,2,20,0,,NHL,0,11,,1988-89,10,0.0,,0,2,-3
+0,3,BOS,1,12,21,0,,NHL,0,18,,1989-90,15,5.6,,1,4,-9
+0,3,EDM,0,23,23,0,,NHL,0,19,,1991-92,13,0.0,,0,3,-4
+0,0,PIT,0,0,25,0,,NHL,0,1,,1993-94,1,0.0,,0,0,0

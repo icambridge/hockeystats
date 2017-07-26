@@ -1,22 +1,22 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-94,1980-81,Regina Pat Canadians,71,0,16,65,164,93,SMHL
-2,1980-81,Regina Blues,3,0,16,13,8,5,SJHL
-43,1981-82,Regina Pats,15,0,17,48,29,14,WHL
-78,1982-83,Regina Pats,57,0,18,72,94,37,WHL
-42,1983-84,Regina Pats,79,0,19,69,142,63,WHL
-28,1985-86,Fredericton Express,14,0,21,45,35,21,AHL
-23,1986-87,Fredericton Express,20,0,22,36,41,21,AHL
-58,1987-88,Maine Mariners,41,0,23,71,74,33,AHL
-60,1988-89,HC Asiago,21,0,24,26,46,25,Italy
-21,1988-89,2 Teams,6,0,24,17,11,5,AHL
-7,1988-89,Maine Mariners,1,0,24,8,1,0,AHL
-14,1988-89,Newmarket Saints,5,0,24,9,10,5,AHL
-10,1989-90,New Haven Nighthawks,23,0,25,51,37,14,AHL
-0,1989-90,Canada,2,0,25,4,6,4,Nat-Tm
-28,1990-91,San Diego Gulls,16,0,26,44,29,13,IHL
-4,1991-92,Mannheimer ERC,6,0,27,15,10,4,Germany
-22,1991-92,Furuset IF Oslo,16,0,27,29,29,13,Norway
-64,1992-93,Tulsa Oilers,45,0,28,58,80,35,CHL
-95,1993-94,Tulsa Oilers,26,0,29,64,59,33,CHL
-33,1994-95,Tulsa Oilers,39,0,30,58,68,29,CHL
-52,1995-96,Tulsa Oilers,35,0,31,63,62,27,CHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+71,Regina Pat Canadians,93,1980-81,65,164,94,16,0,SMHL
+3,Regina Blues,5,1980-81,13,8,2,16,0,SJHL
+15,Regina Pats,14,1981-82,48,29,43,17,0,WHL
+57,Regina Pats,37,1982-83,72,94,78,18,0,WHL
+79,Regina Pats,63,1983-84,69,142,42,19,0,WHL
+14,Fredericton Express,21,1985-86,45,35,28,21,0,AHL
+20,Fredericton Express,21,1986-87,36,41,23,22,0,AHL
+41,Maine Mariners,33,1987-88,71,74,58,23,0,AHL
+21,HC Asiago,25,1988-89,26,46,60,24,0,Italy
+6,2 Teams,5,1988-89,17,11,21,24,0,AHL
+1,Maine Mariners,0,1988-89,8,1,7,24,0,AHL
+5,Newmarket Saints,5,1988-89,9,10,14,24,0,AHL
+23,New Haven Nighthawks,14,1989-90,51,37,10,25,0,AHL
+2,Canada,4,1989-90,4,6,0,25,0,Nat-Tm
+16,San Diego Gulls,13,1990-91,44,29,28,26,0,IHL
+6,Mannheimer ERC,4,1991-92,15,10,4,27,0,Germany
+16,Furuset IF Oslo,13,1991-92,29,29,22,27,0,Norway
+45,Tulsa Oilers,35,1992-93,58,80,64,28,0,CHL
+26,Tulsa Oilers,33,1993-94,64,59,95,29,0,CHL
+39,Tulsa Oilers,29,1994-95,58,68,33,30,0,CHL
+35,Tulsa Oilers,27,1995-96,63,62,52,31,0,CHL

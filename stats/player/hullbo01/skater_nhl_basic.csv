@@ -1,0 +1,26 @@
+shotsPercentage,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,age,game_winning_goals,league,shorthanded_goals,average_ice_time,games_played,points,awards,power_play_goals
+0,1957-58,62,0,,0,0,0,0,0,34,CBH,13,19,0,NHL,0,,0,47,"[{'link': '/awards/voting-1958.html#calder', 'name': 'Calder-2'}]",0
+0,1958-59,50,0,,0,0,0,0,0,32,CBH,18,20,0,NHL,0,,0,50,[],0
+0,1959-60,68,0,,0,0,0,0,0,42,CBH,0,21,0,NHL,0,,0,0,"[{'link': '/awards/nhl_all_star.html#1960', 'name': None}, {'link': '/awards/voting-1960.html#hart', 'name': 'Hart-2'}, {'link': '/awards/ross.html#1960', 'name': None}]",0
+0,1960-61,43,0,,0,0,0,0,0,25,CBH,31,22,0,NHL,0,,67,56,[],0
+0,1961-62,35,0,,0,0,0,0,0,34,CBH,0,23,0,NHL,0,,0,0,"[{'link': '/awards/nhl_all_star.html#1962', 'name': None}, {'link': '/awards/voting-1962.html#hart', 'name': 'Hart-3'}, {'link': '/awards/ross.html#1962', 'name': None}]",0
+0,1962-63,27,0,,0,0,0,0,0,31,CBH,31,24,0,NHL,0,,65,62,"[{'link': '/awards/nhl_all_star.html#1963', 'name': None}]",0
+0,1963-64,50,0,,0,0,0,0,0,44,CBH,0,25,5,NHL,0,,70,87,"[{'link': '/awards/nhl_all_star.html#1964', 'name': None}, {'link': '/awards/voting-1964.html#byng', 'name': 'Byng-4'}, {'link': '/awards/voting-1964.html#hart', 'name': 'Hart-2'}]",12
+0,1964-65,32,0,,0,0,0,27,0,32,CBH,39,26,5,NHL,2,,61,71,"[{'link': '/awards/nhl_all_star.html#1965', 'name': None}, {'link': '/awards/byng.html#1965', 'name': None}, {'link': '/awards/hart.html#1965', 'name': None}]",10
+0,1965-66,70,0,,0,0,0,0,0,43,CBH,0,27,7,NHL,1,,65,0,"[{'link': '/awards/nhl_all_star.html#1966', 'name': None}, {'link': '/awards/hart.html#1966', 'name': None}, {'link': '/awards/ross.html#1966', 'name': None}]",0
+0,1966-67,52,0,,0,0,0,0,0,28,CBH,0,28,3,NHL,2,,66,80,"[{'link': '/awards/nhl_all_star.html#1967', 'name': None}, {'link': '/awards/voting-1967.html#hart', 'name': 'Hart-3'}]",18
+12.1,1967-68,39,22,,1,0,8,0,14,31,CBH,0,29,6,NHL,2,,71,75,"[{'link': '/awards/nhl_all_star.html#1968', 'name': None}, {'link': '/awards/voting-1968.html#hart', 'name': 'Hart-3'}]",8
+14.0,1968-69,48,33,,0,0,16,36,-7,49,CBH,0,30,0,NHL,2,,74,107,"[{'link': '/awards/nhl_all_star.html#1969', 'name': None}, {'link': '/awards/voting-1969.html#byng', 'name': 'Byng-3'}, {'link': '/awards/voting-1969.html#hart', 'name': 'Hart-5'}]",0
+13.1,1969-70,8,18,,0,289,11,26,20,29,CBH,38,31,0,NHL,2,,61,67,"[{'link': '/awards/nhl_all_star.html#1970', 'name': None}, {'link': '/awards/voting-1970.html#byng', 'name': 'Byng-4'}]",10
+11.6,1970-71,32,29,,2,378,21,33,34,52,CBH,44,32,11,NHL,0,,78,96,"[{'link': '/awards/nhl_all_star.html#1971', 'name': None}, {'link': '/awards/voting-1971.html#byng', 'name': 'Byng-4'}, {'link': '/awards/voting-1971.html#hart', 'name': 'Hart-3'}]",11
+14.9,1971-72,24,29,,1,336,13,39,54,43,CBH,50,33,9,NHL,3,,78,93,"[{'link': '/awards/nhl_all_star.html#1972', 'name': None}, {'link': '/awards/voting-1972.html#byng', 'name': 'Byng-3'}, {'link': '/awards/voting-1972.html#hart', 'name': 'Hart-7'}]",8
+0,1972-73,37,0,,0,0,0,35,0,52,WNJ,51,34,7,WHA,2,,63,103,"[{'link': '/awards/wha_all_star.html#1973', 'name': None}, {'link': '/awards/howe.html#1973', 'name': None}]",14
+0,1973-74,38,0,,0,0,0,43,0,42,WNJ,53,35,9,WHA,1,,75,95,"[{'link': '/awards/wha_all_star.html#1974', 'name': None}]",9
+13.8,1974-75,41,0,,0,556,0,50,55,65,WNJ,0,36,0,WHA,0,,78,142,"[{'link': '/awards/wha_all_star.html#1975', 'name': None}, {'link': '/awards/howe.html#1975', 'name': None}]",27
+12.7,1975-76,30,0,,0,416,0,39,62,70,WNJ,53,37,10,WHA,0,,80,123,"[{'link': '/awards/wha_all_star.html#1976', 'name': 'ASW-2'}]",14
+20.6,1976-77,14,0,,0,102,0,14,16,32,WNJ,21,38,0,WHA,0,,34,53,[],7
+17.9,1977-78,23,0,,0,257,0,36,55,71,WNJ,46,39,0,WHA,0,,77,117,"[{'link': '/awards/wha_all_star.html#1978', 'name': 'ASW-2'}]",10
+16.7,1978-79,0,0,,0,12,0,1,1,3,WNJ,2,40,0,WHA,0,,4,5,[],1
+15.8,1979-80,0,7,,0,38,4,4,-10,11,TOT,6,41,0,NHL,0,,27,17,[],2
+16.0,1979-80,0,3,,0,25,3,3,-7,6,WIN,4,41,0,NHL,0,,18,10,[],1
+15.4,1979-80,0,4,,0,13,1,1,-3,5,HAR,2,41,0,NHL,0,,9,7,[],1

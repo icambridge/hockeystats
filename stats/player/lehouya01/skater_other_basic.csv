@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1997-98,15,29,26,50,0,QAAA,42,Cap-de-Madeleine Estacades,79
+1998-99,16,10,31,20,-23,QMJHL,63,Baie-Comeau Drakkar,30
+1999-00,17,31,14,61,0,QMJHL,67,Baie-Comeau Drakkar,92
+2000-01,18,67,62,68,26,QMJHL,70,Baie-Comeau Drakkar,135
+2001-02,19,56,63,69,30,QMJHL,66,Baie-Comeau Drakkar,125
+2002-03,20,16,26,21,-6,AHL,78,Manchester Monarchs,37
+2003-04,21,14,22,28,5,AHL,66,Manchester Monarchs,42
+2004-05,22,23,16,31,13,AHL,38,Manchester Monarchs,54
+2005-06,23,5,10,4,0,Swiss,11,2 Teams,9
+2005-06,23,18,36,12,-6,AHL,54,2 Teams,30
+2005-06,23,5,6,2,0,Swiss,7,HC Geneve-Servette,7
+2005-06,23,0,4,2,0,Swiss,4,EHC Basel,2
+2005-06,23,8,13,6,-3,AHL,23,San Antonio Rampage,14
+2005-06,23,10,23,6,-3,AHL,31,Manchester Monarchs,16
+2006-07,24,31,26,42,7,AHL,72,San Antonio Rampage,73
+2007-08,25,1,2,3,-3,AHL,7,San Antonio Rampage,4
+2007-08,25,2,8,5,0,Russia,17,Khimik Moscow Region,7
+2008-09,26,19,38,41,6,AHL,80,Hamilton Bulldogs,60
+2009-10,27,12,18,19,0,Sweden,39,Sodertalje SK,31
+2009-10,27,6,2,3,0,Sweden-Q,10,Sodertalje SK,9
+2010-11,28,2,14,5,0,Sweden,19,Sodertalje SK,7
+2011-12,29,17,16,26,0,Germany,52,Adler Mannheim,43
+2012-13,30,20,30,37,0,Germany,52,Adler Mannheim,57

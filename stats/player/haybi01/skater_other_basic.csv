@@ -1,7 +1,7 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-22,Regina Pats,17,0,31,WCJHL,29,1952-53,17,14
-4,University of Saskatchewan,1,0,5,WCIAA,5,1953-54,18,4
-68,Regina Pats,31,0,47,WCJHL,33,1954-55,19,16
-0,Colorado College,45,0,73,WIHA,30,1956-57,21,28
-23,Colorado College,48,0,80,WIHA,30,1957-58,22,32
-27,Calgary Stampeders,30,0,54,WHL,53,1958-59,23,24
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+17,Regina Pats,14,1952-53,29,31,22,17,0,WCJHL
+1,University of Saskatchewan,4,1953-54,5,5,4,18,0,WCIAA
+31,Regina Pats,16,1954-55,33,47,68,19,0,WCJHL
+45,Colorado College,28,1956-57,30,73,0,21,0,WIHA
+48,Colorado College,32,1957-58,30,80,23,22,0,WIHA
+30,Calgary Stampeders,24,1958-59,53,54,27,23,0,WHL

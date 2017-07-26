@@ -1,0 +1,23 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2000-01,16,25,0,40,0,MWEHL,79,Team Illinois,65
+2001-02,17,8,129,45,0,USHL,56,Chicago Steel,53
+2002-03,18,3,48,19,0,CCHA,43,University of Michigan,22
+2003-04,19,13,92,22,12,OHL,59,London Knights,35
+2003-04,19,0,4,4,2,WJC-A,6,United States,4
+2004-05,20,4,139,9,4,AHL,63,Lowell Lock Monsters,13
+2005-06,21,8,102,19,-11,AHL,63,2 Teams,27
+2005-06,21,4,60,11,-11,AHL,32,Lowell Lock Monsters,15
+2005-06,21,4,42,8,0,AHL,31,Norfolk Admirals,12
+2006-07,22,10,144,24,10,AHL,57,Norfolk Admirals,34
+2007-08,23,2,156,12,8,AHL,40,Rockford IceHogs,14
+2008-09,24,4,129,18,3,AHL,73,2 Teams,22
+2008-09,24,3,108,14,-5,AHL,55,Wilkes-Barre Penguins,17
+2008-09,24,1,21,4,8,AHL,18,Peoria Rivermen,5
+2009-10,25,1,166,21,-21,AHL,69,2 Teams,22
+2009-10,25,1,135,15,-15,AHL,54,Peoria Rivermen,16
+2009-10,25,0,31,6,-6,AHL,15,Rockford IceHogs,6
+2010-11,26,3,121,20,-12,AHL,68,Toronto Marlies,23
+2011-12,27,2,86,9,6,AHL,47,2 Teams,11
+2011-12,27,0,48,4,6,AHL,24,Hershey Bears,4
+2011-12,27,2,38,5,0,AHL,23,Lake Erie Monsters,7
+2012-13,28,4,34,14,0,Finland,39,Pelicans Lahti,18

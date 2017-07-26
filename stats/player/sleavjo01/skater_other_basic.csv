@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1950-51,16,9,23,14,0,OHA-Jr.,46,Galt Black Hawks,23
+1951-52,17,22,53,35,0,OHA-Jr.,54,Galt Black Hawks,57
+1952-53,18,20,96,36,0,OHA-Jr.,56,Galt Black Hawks,56
+1953-54,19,23,67,37,0,OHA-Jr.,58,Galt Black Hawks,60
+1954-55,20,14,36,20,0,OHA-Jr.,49,Galt Black Hawks,34
+1955-56,21,13,27,17,0,OHA-Sr.,48,Windsor Bulldogs,30
+1955-56,21,1,2,1,0,AHL,2,Buffalo Bisons,2
+1956-57,22,7,2,9,0,AHL,29,Buffalo Bisons,16
+1956-57,22,7,43,15,0,OHA-Sr.,21,Windsor Bulldogs,22
+1957-58,23,17,56,19,0,QHL,59,Quebec Aces,36
+1957-58,23,0,0,0,0,AHL,1,Buffalo Bisons,0
+1958-59,24,10,42,14,0,QHL,61,Trois-Rivieres Lions,24
+1959-60,25,20,42,35,0,EPHL,70,Sudbury Wolves,55
+1960-61,26,17,34,34,0,EPHL,60,Sudbury Wolves,51
+1960-61,26,0,2,0,0,WHL,3,Vancouver Canucks,0
+1961-62,27,24,59,34,0,EPHL,70,North Bay Trappers,58
+1962-63,28,6,8,16,0,AHL,38,Springfield Indians,22
+1963-64,29,23,59,46,0,WHL,69,Denver Invaders,69
+1964-65,30,14,39,49,0,WHL,70,Victoria Maple Leafs,63
+1965-66,31,19,47,49,0,WHL,72,Victoria Maple Leafs,68
+1966-67,32,13,24,42,0,AHL,72,Providence Reds,55
+1967-68,33,15,42,35,0,AHL,72,Providence Reds,50
+1968-69,34,7,29,18,0,AHL,73,Providence Reds,25
+1969-70,35,12,71,49,0,IHL,72,Columbus Checkers,61

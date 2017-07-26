@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1986-87,18,0,0,0,0,USSR,4,Dynamo Moscow,0
+1987-88,19,0,0,1,0,USSR,2,Dynamo Moscow,1
+1987-88,19,10,12,8,0,USSR-2,50,Dynamo Kharkov,18
+1988-89,20,4,19,1,0,USSR,23,Dynamo Kharkov,5
+1989-90,21,6,32,7,0,USSR,47,Torpedo Yaroslavl,13
+1990-91,22,14,30,7,0,USSR,45,Torpedo Yaroslavl,21
+1990-91,22,0,0,1,0,Fr-Tour,1,SKA Leningrad/Torpedo Yaroslavl,1
+1991-92,23,13,25,19,0,CIS,40,Dynamo Moscow,32
+1992-93,24,8,47,12,0,IHL,23,Peoria Rivermen,20
+1993-94,25,0,2,1,0,IHL,3,Peoria Rivermen,1
+1994-95,26,6,7,9,0,IHL,15,Peoria Rivermen,15
+1995-96,27,8,36,7,0,Finland,24,JYP HT Jyvaskyla,15
+1995-96,27,0,0,2,0,WC-A,8,Russia,2
+1996-97,28,9,107,14,0,Germany,32,2 Teams,23
+1996-97,28,2,27,1,0,Germany,4,Berlin Capitals,3
+1996-97,28,7,80,13,0,Germany,28,Krefeld Pinguine,20
+1997-98,29,8,38,13,0,Germany,31,Krefeld Pinguine,21
+1998-99,30,11,61,17,0,Germany,40,Krefeld Pinguine,28
+1999-00,31,0,10,0,0,CzRep,5,HC Slovnaft Viva Vsetin,0
+2000-01,32,3,12,3,0,Russia,15,Vityaz Podolsk,6
+2001-02,33,16,74,9,0,Russia,51,Salavat Yulayev Ufa,25
+2002-03,34,7,55,3,0,Russia,35,Salavat Yulayev Ufa,10
+2003-04,35,1,4,0,0,Russia-2,5,Spartak Moscow,1

@@ -1,19 +1,19 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1924-25,Ottawa Gunners,1,0,18,16,8,7,OCHL
-6,1927-28,London Panthers,1,0,21,29,9,8,Can-Pro
-10,1928-29,Niagara Falls Cataracts,1,0,22,25,5,4,Can-Pro
-10,1929-30,Hamilton Tigers,3,0,23,41,15,12,IHL
-14,1930-31,Pittsburgh Yellowjackets,2,0,24,44,13,11,IHL
-14,1931-32,2 Teams,4,0,25,45,19,15,IHL
-8,1931-32,Pittsburgh Yellowjackets,2,0,25,16,3,1,IHL
-6,1931-32,Cleveland Indians,2,0,25,29,16,14,IHL
-10,1932-33,Cleveland Indians,8,0,26,42,22,14,IHL
-8,1933-34,Boston Cubs,9,0,27,39,18,9,Can-Am
-2,1934-35,Boston Cubs,4,0,28,13,6,2,Can-Am
-10,1934-35,Cleveland Falcons,7,0,28,31,19,12,IHL
-6,1935-36,3 Teams,8,0,29,45,13,5,IHL
-2,1935-36,Cleveland Falcons,1,0,29,10,2,1,IHL
-0,1935-36,Buffalo Bisons,5,0,29,17,6,1,IHL
-4,1935-36,Rochester Cardinals,2,0,29,18,5,3,IHL
-0,1937-38,Ottawa Montagnards,2,0,31,18,14,12,OCHL
-2,1938-39,Ottawa Montagnards,0,0,32,3,0,0,OCHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+1,Ottawa Gunners,7,1924-25,16,8,0,18,0,OCHL
+1,London Panthers,8,1927-28,29,9,6,21,0,Can-Pro
+1,Niagara Falls Cataracts,4,1928-29,25,5,10,22,0,Can-Pro
+3,Hamilton Tigers,12,1929-30,41,15,10,23,0,IHL
+2,Pittsburgh Yellowjackets,11,1930-31,44,13,14,24,0,IHL
+4,2 Teams,15,1931-32,45,19,14,25,0,IHL
+2,Pittsburgh Yellowjackets,1,1931-32,16,3,8,25,0,IHL
+2,Cleveland Indians,14,1931-32,29,16,6,25,0,IHL
+8,Cleveland Indians,14,1932-33,42,22,10,26,0,IHL
+9,Boston Cubs,9,1933-34,39,18,8,27,0,Can-Am
+4,Boston Cubs,2,1934-35,13,6,2,28,0,Can-Am
+7,Cleveland Falcons,12,1934-35,31,19,10,28,0,IHL
+8,3 Teams,5,1935-36,45,13,6,29,0,IHL
+1,Cleveland Falcons,1,1935-36,10,2,2,29,0,IHL
+5,Buffalo Bisons,1,1935-36,17,6,0,29,0,IHL
+2,Rochester Cardinals,3,1935-36,18,5,4,29,0,IHL
+2,Ottawa Montagnards,12,1937-38,18,14,0,31,0,OCHL
+0,Ottawa Montagnards,0,1938-39,3,0,2,32,0,OCHL

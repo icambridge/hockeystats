@@ -1,0 +1,35 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2009-10,12,0,0,0,0,Czech U16,1,HC Kometa Brno U16,0
+2010-11,13,1,0,0,2,Czech U18,3,HC Liberec U18,1
+2010-11,13,12,12,11,20,Czech U16,24,Bili Tygri Liberec U16,23
+2011-12,14,0,0,0,-1,Czech U20,1,HC Liberec U20,0
+2011-12,14,3,10,4,1,Internationa,16,Czech Republic U16 (all),7
+2011-12,14,10,20,15,16,Czech U18,36,Bili Tygri Liberec U18,25
+2011-12,14,26,46,39,42,Czech U16,33,Bili Tygri Liberec U16,65
+2012-13,15,0,0,0,0,ET,1,Bili Tygri Liberec,0
+2012-13,15,0,0,0,0,Czech2,0,HC Benatky nad Jizerou,0
+2012-13,15,1,10,6,9,Internationa,12,Czech Republic U18 (all),7
+2012-13,15,0,2,3,3,WJC-18,5,Czech Republic U18,3
+2012-13,15,6,16,8,8,Internationa,15,Czech Republic U17 (all),14
+2012-13,15,1,8,2,-2,EYOF,3,Czech Republic U17,3
+2012-13,15,14,26,26,-1,Czech U20,39,Bili Tygri Liberec U20,40
+2012-13,15,6,4,7,12,Czech U18,6,Bili Tygri Liberec U18,13
+2012-13,15,0,0,0,0,Czech U16,0,Bili Tygri Liberec U16,0
+2013-14,16,0,0,0,-2,Internationa,6,Czech Republic U20 (all),0
+2013-14,16,0,0,0,-2,WJC-20,5,Czech Republic U20,0
+2013-14,16,6,45,5,1,Internationa,18,Czech Republic U18 (all),11
+2013-14,16,3,4,2,2,WJC-18,7,Czech Republic U18,5
+2013-14,16,1,4,2,0,Hlinka Memor,4,Czech Republic U18,3
+2013-14,16,6,64,11,2,Czech U20,10,Bili Tygri Liberec U20,17
+2013-14,16,0,2,2,0,ET,7,Bili Tygri Liberec,2
+2013-14,16,4,10,4,-2,Czech,38,Bili Tygri Liberec,8
+2013-14,16,4,6,5,-2,Czech2,12,HC Benatky nad Jizerou,9
+2014-15,17,16,56,18,5,OHL,37,Sarnia Sting,34
+2014-15,17,1,0,1,-1,Internationa,5,Czech Republic U20 (all),2
+2014-15,17,1,0,1,-1,WJC-20,5,Czech Republic U20,2
+2014-15,17,7,12,0,2,Internationa,6,Czech Republic U18 (all),7
+2014-15,17,5,10,0,2,WJC-18,5,Czech Republic U18,5
+2015-16,18,0,0,1,-1,WJC-20,3,Czech Republic U20,1
+2015-16,18,1,2,2,3,AHL,3,Albany Devils,3
+2015-16,18,28,97,36,17,OHL,51,Sarnia Sting,64
+2015-16,18,0,25,1,0,Internationa,4,Czech Republic U20 (all),1

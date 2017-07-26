@@ -1,0 +1,29 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1995-96,15,1,2,0,0,CIS-2,10,Metallurg Novokuznetsk 2,1
+1996-97,16,2,8,1,0,Russia-3,29,Metallurg Novokuznetsk 2,3
+1997-98,17,8,36,7,0,Russia-3,42,Metallurg Novokuznetsk 2,15
+1998-99,18,0,8,1,0,Russia-4,4,Metallurg Novokuznetsk 2,1
+1998-99,18,2,14,4,0,Russia,31,Metallurg Magnitogorsk,6
+1998-99,18,2,4,0,0,Nat-Tm,4,Russia,2
+1999-00,19,0,16,2,0,Russia,28,Metallurg Magnitogorsk,2
+1999-00,19,3,2,2,0,Nat-Tm,5,Russia,5
+1999-00,19,2,6,3,0,WJC-A,7,Russia,5
+2000-01,20,6,42,15,0,Russia,35,2 Teams,21
+2000-01,20,2,36,10,0,Russia,27,Lokomotiv Yaroslavl,12
+2000-01,20,4,6,5,0,Russia,8,Salavat Yulayev Ufa,9
+2001-02,21,12,43,18,0,Russia,51,Spartak Moscow,30
+2002-03,22,14,50,17,0,Russia,47,Ak Bars Kazan,31
+2002-03,22,0,22,2,0,WJC-A,7,Russia,2
+2003-04,23,1,0,2,3,AHL,4,Providence Bruins,3
+2003-04,23,5,75,9,0,Russia,27,Ak Bars Kazan,14
+2004-05,24,17,82,21,0,Russia,54,Ak Bars Kazan,38
+2005-06,25,15,58,20,0,Russia,43,Ak Bars Kazan,35
+2006-07,26,19,103,35,0,Russia,41,Ak Bars Kazan,54
+2007-08,27,9,53,21,0,Russia,37,Ak Bars Kazan,30
+2008-09,28,9,20,5,0,KHL,25,2 Teams,14
+2008-09,28,1,8,1,0,KHL,10,Ak Bars Kazan,2
+2008-09,28,8,12,4,0,KHL,15,Dynamo Moscow,12
+2009-10,29,17,83,36,0,KHL,47,Salavat Yulayev Ufa,53
+2009-10,29,0,0,2,1,Olympics,4,Russia,2
+2010-11,30,11,52,14,0,KHL,43,Salavat Yulayev Ufa,25
+2011-12,31,7,67,19,0,KHL,48,Salavat Yulayev Ufa,26

@@ -1,0 +1,12 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,17,0,22,25,6,0,,HAR,[],16.0,3,2,-1,4,1,1983-84,,0,2,1,1
+NHL,0,0,23,98,19,1,,HAR,"[{'link': '/awards/voting-1985.html#selke', 'name': 'Selke-25'}]",7.1,7,12,-24,7,0,1984-85,,0,12,1,10
+NHL,80,1,24,118,34,1,,HAR,"[{'link': '/awards/voting-1986.html#selke', 'name': 'Selke-11'}]",11.9,12,20,9,14,2,1985-86,,0,18,2,17
+NHL,80,2,25,120,31,0,,HAR,"[{'link': '/awards/voting-1987.html#selke', 'name': 'Selke-13'}]",7.5,6,22,0,9,3,1986-87,,0,42,3,19
+NHL,0,2,26,126,37,2,,HAR,"[{'link': '/awards/voting-1988.html#byng', 'name': 'Byng-21'}, {'link': '/awards/voting-1988.html#selke', 'name': 'Selke-9'}]",12.7,13,21,-4,16,2,1987-88,,1,32,0,19
+NHL,0,1,27,165,41,2,,HAR,[],10.3,14,24,-6,17,2,1988-89,,1,45,0,22
+NHL,66,3,28,91,27,0,,HAR,[],8.8,7,19,0,8,1,1989-90,,0,32,2,17
+NHL,61,2,29,68,15,0,,WSH,[],8.8,6,9,-13,6,0,1990-91,,0,24,0,9
+NHL,30,0,30,26,12,1,,WSH,[],7.7,2,10,2,2,0,1991-92,,0,16,3,6
+NHL,74,1,31,64,25,0,,PIT,[],9.4,5,19,5,6,1,1992-93,,0,56,2,17
+NHL,73,1,32,45,15,0,,PHI,[],8.9,2,11,-20,4,2,1993-94,,0,38,0,11

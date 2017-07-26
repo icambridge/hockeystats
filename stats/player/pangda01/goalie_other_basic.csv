@@ -1,0 +1,13 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,ON-Jr.A,41,Nepean Raiders,2316,16,0,0,0,154,0,0,0,0,0,0,0,0,0,0,1980-81,0,3.99,0,0
+0,OHL,47,Belleville Bulls,2234,17,21,0,0,173,0,0,1,0,15,0,0,0,0,0,1981-82,0,4.65,0,0
+0,OHL,59,2 Teams,3299,18,22,0,0,210,0,0,3,1,31,0,0,0,0,0,1982-83,0,3.82,0,0
+0,OHL,12,Belleville Bulls,570,18,8,0,0,44,0,0,0,0,3,0,0,0,0,0,1982-83,0,4.63,0,0
+0,OHL,47,Ottawa 67\'s,2729,18,14,0,0,166,0,0,3,1,28,0,0,0,0,0,1982-83,0,3.65,0,0
+0,OHL,43,Ottawa 67\'s,2318,19,10,0,0,117,0,0,1,2,29,0,0,0,0,0,1983-84,0,3.03,0,0
+0,IHL,53,Milwaukee Admirals,3129,20,29,0,0,226,0,0,3,0,19,0,0,0,0,0,1984-85,0,4.33,0,0
+0,IHL,44,Saginaw Generals,2638,21,21,0,0,148,0,0,0,2,21,0,0,0,0,0,1985-86,0,3.37,0,0
+0,AHL,7,Nova Scotia Oilers,389,22,2,0,0,21,0,0,0,0,4,0,0,0,0,0,1986-87,0,3.24,0,0
+0,IHL,44,Saginaw Generals,2500,22,16,0,0,151,0,0,0,0,25,0,0,0,0,0,1986-87,0,3.62,0,0
+0,IHL,2,Saginaw Hawks,89,24,0,0,0,6,0,0,0,0,1,0,0,0,0,0,1988-89,0,4.04,0,0
+0,IHL,7,Indianapolis Ice,401,25,1,0,0,17,0,0,2,1,4,0,0,0,0,0,1989-90,0,2.54,0,0

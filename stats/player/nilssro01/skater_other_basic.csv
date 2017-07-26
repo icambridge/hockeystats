@@ -1,0 +1,31 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2000-01,16,14,26,28,0,Swe-Jr.,23,Leksands IF Jr.,42
+2000-01,16,6,6,3,0,Swe-U18,4,Leksands IF U18,9
+2000-01,16,2,0,0,1,WJ18-A,6,Sweden,2
+2001-02,17,13,24,18,0,Swe-Jr.,21,Leksands IF Jr.,31
+2001-02,17,1,8,4,0,Sweden-2,14,Leksands IF,5
+2001-02,17,2,8,3,0,WJ18-A,8,Sweden,5
+2002-03,18,8,10,13,0,Sweden,41,Leksands IF,21
+2002-03,18,4,4,2,0,WJC-A,6,Sweden,6
+2003-04,19,2,4,8,0,Swe-Jr.,4,Leksands IF Jr.,10
+2003-04,19,2,6,4,0,Sweden,34,Leksands IF,6
+2003-04,19,1,2,3,0,Swiss,7,HC Fribourg-Gotteron,4
+2003-04,19,2,6,5,0,WJC-A,6,Sweden,7
+2004-05,20,8,12,4,0,Swe-Jr.,8,Djurgardens IF Stockholm Jr.,12
+2004-05,20,2,6,4,0,Sweden,23,Djurgardens IF Stockholm,6
+2004-05,20,1,8,3,0,WJC-A,6,Sweden,4
+2004-05,20,0,6,5,0,Sweden-2,10,2 Teams,5
+2004-05,20,0,2,1,0,Sweden-2,3,Almtuna IS Uppsala,1
+2004-05,20,0,4,4,0,Sweden-2,7,Hammarby IF Stockholm,4
+2005-06,21,8,12,20,-1,AHL,29,Bridgeport Sound Tigers,28
+2006-07,22,18,48,48,-4,AHL,69,2 Teams,66
+2006-07,22,12,34,34,-2,AHL,50,Bridgeport Sound Tigers,46
+2006-07,22,6,14,14,-2,AHL,19,Wilkes-Barre Penguins,20
+2007-08,23,2,4,2,4,AHL,5,Springfield Falcons,4
+2007-08,23,2,6,4,4,WC-A,9,Sweden,6
+2010-11,26,5,28,22,0,KHL,41,Salavat Yulayev Ufa,27
+2010-11,26,1,0,6,5,WC-A,9,Sweden,7
+2011-12,27,12,36,17,0,KHL,50,2 Teams,29
+2011-12,27,0,6,5,0,KHL,15,Salavat Yulayev Ufa,5
+2011-12,27,12,30,12,0,KHL,35,Torpedo Nizhny Novgorod,24
+2012-13,28,5,2,7,0,KHL,17,Torpedo Nizhny Novgorod,12

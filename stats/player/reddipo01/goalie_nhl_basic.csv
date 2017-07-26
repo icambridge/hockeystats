@@ -1,0 +1,7 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+7.0,0,NHL,48,WIN,2762,22,21,99,0,149,0,1.67,4,0,21,0,0,0,0,.881,1986-87,1256,3.24,8,"[{'link': '/awards/voting-1987.html#AS', 'name': 'AS-6'}, {'link': '/awards/voting-1987.html#calder', 'name': 'Calder-5'}, {'link': '/awards/voting-1987.html#vezina', 'name': 'Vezina-4'}]",1107
+2.6,0,NHL,28,WIN,1487,23,13,119,0,102,0,-16.44,3,0,9,0,0,0,0,.857,1987-88,712,4.12,6,[],610
+5.5,0,NHL,41,WIN,2109,24,17,105,1,144,0,-7.49,7,0,11,1,0,0,0,.873,1988-89,1132,4.10,6,[],988
+1.7,0,NHL,11,EDM,604,25,4,0,0,31,0,0,2,0,5,0,0,0,0,.890,1989-90,283,3.08,0,[],252
+0.1,0,NHL,2,EDM,120,26,2,0,0,9,0,0,0,0,0,0,0,0,0,.847,1990-91,59,4.50,0,[],50
+0.0,0,NHL,2,FLA,80,29,1,0,0,8,0,0,0,0,0,0,0,0,0,.822,1993-94,45,6.00,0,[],37

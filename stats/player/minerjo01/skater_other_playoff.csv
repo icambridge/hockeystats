@@ -1,0 +1,19 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1981-82,16,0,25,0,0,WHL,17,Regina Pats,0
+1982-83,17,1,20,1,0,WHL,5,Regina Pats,2
+1983-84,18,9,54,25,0,WHL,23,Regina Pats,34
+1984-85,19,4,12,10,0,WHL,8,Regina Pats,14
+1984-85,19,2,2,2,0,AHL,3,Nova Scotia Oilers,4
+1986-87,21,0,4,3,0,AHL,5,Nova Scotia Oilers,3
+1988-89,23,3,40,12,0,AHL,17,New Haven Nighthawks,15
+1989-90,24,7,8,10,0,Swiss-2,10,HC Lausanne,17
+1990-91,25,6,10,10,0,Swiss-2,9,HC Lausanne,16
+1993-94,28,3,18,3,0,Swiss-2,4,HC Ajoie,6
+1994-95,29,1,2,2,0,Swiss-2,4,HC Martigny,3
+1995-96,30,0,4,5,0,Swiss,4,EV Zug,5
+1996-97,31,2,4,7,0,Swiss,10,EV Zug,9
+1997-98,32,0,0,2,0,Swiss,4,EV Zug,2
+1998-99,33,1,0,1,0,Germany,5,Kolner Haie,2
+1999-00,34,2,10,8,0,Germany,10,Kolner Haie,10
+2000-01,35,0,0,0,0,Germany,3,Kolner Haie,0
+2001-02,36,1,14,3,0,Germany,13,Kolner Haie,4

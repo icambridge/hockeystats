@@ -1,0 +1,35 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1990-91,16,0,0,0,0,Czech,3,HC Sparta Praha,0
+1991-92,17,6,2,9,0,Czech,32,HC Sparta Praha,15
+1991-92,17,6,0,8,0,EJC-A,6,Czech Republic,14
+1992-93,18,20,0,24,0,Czech,52,HC Sparta Praha,44
+1992-93,18,7,0,5,0,EJC-A,6,Czech Republic,12
+1992-93,18,6,12,9,0,WJC-A,7,Czech Republic,15
+1993-94,19,15,0,20,0,CzRep,44,HC Sparta Praha,35
+1993-94,19,2,6,5,0,WJC-A,7,Czech Republic,7
+1994-95,20,23,30,38,0,AHL,76,Cape Breton Oilers,61
+1995-96,21,12,0,18,0,CzRep,40,HC Sparta Praha,30
+1995-96,21,2,4,2,0,WC-A,8,Czech Republic,4
+1996-97,22,20,14,29,0,CzRep,47,HC Sparta Praha,49
+1996-97,22,2,2,1,0,WC-A,9,Czech Republic,3
+1997-98,23,16,34,21,0,Sweden,45,MoDo HK Ornskoldsvik,37
+1997-98,23,2,0,4,0,WC-A,9,Czech Republic,6
+1998-99,24,24,22,46,0,CzRep,52,HC Sparta Praha,70
+1998-99,24,3,0,8,0,EuroHL,7,HC Sparta Praha,11
+1998-99,24,4,6,4,0,WC-A,12,Czech Republic,8
+1999-00,25,25,30,38,0,CzRep,50,HC Sparta Praha,63
+1999-00,25,4,6,6,6,WC-A,9,Czech Republic,10
+2000-01,26,2,4,0,2,WC-A,9,Czech Republic,2
+2001-02,27,1,16,3,3,WC-A,7,Czech Republic,4
+2002-03,28,4,8,1,4,WC-A,9,Czech Republic,5
+2003-04,29,1,0,1,1,WC-A,7,Czech Republic,2
+2004-05,30,0,2,0,5,W-Cup,5,Czech Republic,0
+2004-05,30,12,10,34,0,CzRep,51,HC Sparta Praha,46
+2004-05,30,1,8,3,3,WC-A,9,Czech Republic,4
+2005-06,31,1,0,3,3,Olympics,8,Czech Republic,4
+2005-06,31,3,2,6,0,WC-A,9,Czech Republic,9
+2006-07,32,1,2,5,1,WC-A,7,Czech Republic,6
+2008-09,34,15,14,28,0,CzRep,52,HC Sparta Praha,43
+2009-10,35,8,49,32,0,CzRep,51,HC Sparta Praha,40
+2010-11,36,10,34,15,0,CzRep,61,HC Sparta Praha,25
+2011-12,37,10,26,31,0,CzRep,53,BK Mlada Boleslav,41

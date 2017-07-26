@@ -1,0 +1,28 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1996-97,16,0,0,0,0,Swe-Jr.,1,Djurgardens IF Stockholm Jr.,0
+1997-98,17,4,71,3,0,Swe-Jr.,27,Djurgardens IF Stockholm Jr.,7
+1997-98,17,1,6,2,0,EJC-A,6,Sweden,3
+1998-99,18,0,10,1,0,Sweden-2,14,Huddinge IK,1
+1998-99,18,0,8,4,0,WJ18-A,7,Sweden,4
+1998-99,18,0,6,0,0,Swe-Jr.,2,Huddinge IK Jr.,0
+1999-00,19,1,16,4,0,Sweden,37,Djurgardens IF Stockholm,5
+1999-00,19,5,10,1,7,WJC-A,7,Sweden,6
+1999-00,19,1,16,4,0,SEL,37,Djurgardens IF Stockholm,5
+2000-01,20,1,32,9,0,Sweden,31,Djurgardens IF Stockholm,10
+2000-01,20,0,2,1,0,WJC-A,5,Sweden,1
+2000-01,20,1,32,9,7,SEL,31,Djurgardens IF Stockholm,10
+2001-02,21,5,34,7,0,Sweden,48,Djurgardens IF Stockholm,12
+2001-02,21,5,34,7,-1,SEL,48,Djurgardens IF Stockholm,12
+2002-03,22,5,46,13,0,Sweden,50,Djurgardens IF Stockholm,18
+2002-03,22,0,4,0,7,WC-A,5,Sweden,0
+2002-03,22,5,46,13,-3,SEL,50,Djurgardens IF Stockholm,18
+2003-04,23,2,20,11,6,AHL,25,Grand Rapids Griffins,13
+2004-05,24,13,53,40,6,AHL,76,Grand Rapids Griffins,53
+2004-05,24,3,10,3,7,WC-A,9,Sweden,6
+2005-06,25,0,0,0,-1,AHL,1,Grand Rapids Griffins,0
+2005-06,25,1,8,1,2,Olympics,2,Sweden,2
+2005-06,25,2,10,8,3,WC-A,8,Sweden,10
+2009-10,29,0,2,0,0,Olympics,4,Sweden,0
+2011-12,31,1,4,0,1,WC-A,8,Sweden,1
+2013-14,33,0,4,2,-2,Internationa,6,Sweden (all),2
+2013-14,33,0,4,2,-2,Olympics,6,Sweden,2

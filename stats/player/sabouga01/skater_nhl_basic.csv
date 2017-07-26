@@ -1,0 +1,11 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,50,2,24,121,23,0,,STL,[],10.7,11,10,11,13,2,1967-68,,0,50,0,10
+NHL,75,3,25,228,48,6,,STL,[],11.0,22,23,23,25,0,1968-69,,3,58,0,17
+NHL,72,5,26,246,42,4,,STL,[],11.4,17,14,-9,28,0,1969-70,,11,61,0,10
+NHL,59,2,27,160,31,2,,STL,[],8.8,12,17,4,14,0,1970-71,,2,56,0,15
+NHL,77,7,28,236,45,5,,STL,[],11.9,24,17,3,28,0,1971-72,,4,52,0,12
+NHL,76,2,29,240,48,3,,STL,[],8.8,20,27,-5,21,0,1972-73,,1,30,0,24
+NHL,54,0,30,126,30,5,,STL,[],5.6,6,23,-9,7,0,1973-74,,1,27,0,18
+NHL,55,0,31,114,23,2,,TOR,[],4.4,4,18,-13,5,0,1974-75,,1,26,0,16
+NHL,76,3,32,172,49,7,,CGS,[],12.2,17,28,-7,21,0,1975-76,,4,33,0,21
+NHL,33,1,33,76,18,1,,CLE,[],9.2,5,11,-6,7,0,1976-77,,2,4,0,10

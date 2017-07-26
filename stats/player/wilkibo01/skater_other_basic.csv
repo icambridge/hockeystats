@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1984-85,15,20,116,33,0,AAHA,37,Calgary Buffaloes,53
+1985-86,16,8,56,19,0,WHL,63,Calgary Wranglers,27
+1986-87,17,12,50,38,0,WHL,65,2 Teams,50
+1986-87,17,0,0,1,0,WHL,1,Calgary Wranglers,1
+1986-87,17,12,50,37,0,WHL,64,Swift Current Broncos,49
+1987-88,18,12,124,68,0,WHL,67,Swift Current Broncos,80
+1988-89,19,18,89,67,0,WHL,62,Swift Current Broncos,85
+1989-90,20,5,64,33,0,AHL,58,Adirondack Red Wings,38
+1990-91,21,6,71,18,0,AHL,43,Adirondack Red Wings,24
+1991-92,22,1,6,4,0,AHL,7,Adirondack Red Wings,5
+1992-93,23,7,82,14,0,IHL,32,Fort Wayne Komets,21
+1992-93,23,7,38,30,0,AHL,42,2 Teams,37
+1992-93,23,0,20,5,0,AHL,14,Adirondack Red Wings,5
+1992-93,23,7,18,25,0,AHL,28,Hershey Bears,32
+1993-94,24,8,100,53,0,AHL,69,Hershey Bears,61
+1994-95,25,9,46,30,0,AHL,50,Hershey Bears,39
+1994-95,25,5,30,22,0,IHL,29,Indianapolis Ice,27
+1995-96,26,0,43,1,0,Germany,6,Augsburger Panther,1
+1995-96,26,4,32,6,0,IHL,22,Cincinnati Cyclones,10
+1997-98,28,0,0,1,-1,IHL,3,Las Vegas Thunder,1
+1997-98,28,13,60,50,-3,WCHL,54,Fresno\'s Fighting Falcons,63
+1998-99,29,2,18,11,-5,ECHL,16,Pensacola Ice Pilots,13
+1998-99,29,3,12,4,-6,WCHL,10,Fresno\'s Fighting Falcons,7
+1999-00,30,3,18,10,-5,WCHL,15,Anchorage Aces,13

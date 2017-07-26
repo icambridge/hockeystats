@@ -1,13 +1,13 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-4,Edmonton Oil Kings,5,0,11,ASHL,40,1965-66,18,6
-43,Edmonton Oil KIngs,42,0,92,CMJHL,56,1966-67,19,50
-4,Fort Worth Wings,1,0,4,CPHL,4,1967-68,20,3
-31,Johnstown Jets,52,0,105,EHL,70,1967-68,20,53
-76,Johnstown Jets,54,0,121,EHL,72,1968-69,21,67
-6,Salt Lake Golden Eagles,12,0,21,WHL,43,1969-70,22,9
-42,Johnstown Jets,27,0,58,EHL,67,1970-71,23,31
-43,Johnstown Jets,34,0,71,EHL,75,1971-72,24,37
-37,Johnstown Jets,33,0,77,EHL,72,1972-73,25,44
-24,Johnstown Jets,40,0,71,EHL,74,1973-74,26,31
-30,Johnstown Jets,23,0,41,NAPro,58,1974-75,27,18
-44,Johnstown Jets,30,0,57,NAPro,73,1975-76,28,27
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+5,Edmonton Oil Kings,6,1965-66,40,11,4,18,0,ASHL
+42,Edmonton Oil KIngs,50,1966-67,56,92,43,19,0,CMJHL
+1,Fort Worth Wings,3,1967-68,4,4,4,20,0,CPHL
+52,Johnstown Jets,53,1967-68,70,105,31,20,0,EHL
+54,Johnstown Jets,67,1968-69,72,121,76,21,0,EHL
+12,Salt Lake Golden Eagles,9,1969-70,43,21,6,22,0,WHL
+27,Johnstown Jets,31,1970-71,67,58,42,23,0,EHL
+34,Johnstown Jets,37,1971-72,75,71,43,24,0,EHL
+33,Johnstown Jets,44,1972-73,72,77,37,25,0,EHL
+40,Johnstown Jets,31,1973-74,74,71,24,26,0,EHL
+23,Johnstown Jets,18,1974-75,58,41,30,27,0,NAPro
+30,Johnstown Jets,27,1975-76,73,57,44,28,0,NAPro

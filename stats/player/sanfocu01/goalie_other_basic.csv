@@ -1,0 +1,22 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,ON-Jr.C,18,Wiarton Wolves,949,15,0,0,0,98,0,0,0,0,0,0,0,0,0,0,1994-95,0,6.20,0,0
+0,ON-Jr.A,21,Collingwood Blues,2128,16,0,0,0,74,0,0,0,0,0,0,0,0,0,0,1995-96,0,2.09,0,0
+0,OHL,19,Owen Sound Platers,847,17,8,0,0,77,0,0,1,0,4,0,0,0,0,0,1996-97,0,5.45,0,0
+0,ON-Jr.B,6,Owen Sound Greys,360,17,0,0,0,28,0,0,0,0,0,0,0,0,0,0,1996-97,0,4.67,0,0
+0,OHL,30,Owen Sound Platers,1542,18,10,0,0,114,0,0,2,1,13,0,0,0,0,0,1997-98,0,4.44,0,0
+0,OHL,56,Owen Sound Platers,2998,19,16,0,0,191,0,0,5,2,30,0,0,0,0,0,1998-99,0,3.82,0,0
+0,OHL,53,Owen Sound Platers,3124,20,26,0,0,198,0,0,6,1,18,0,0,0,0,0,1999-00,0,3.80,0,0
+0,UHL,6,Missouri River Otters,237,20,1,0,0,6,0,0,0,0,3,0,0,0,0,0,1999-00,0,1.52,0,0
+0,AHL,5,Worcester IceCats,237,21,0,0,0,16,0,0,1,0,3,0,0,0,0,0,2000-01,0,4.05,0,0
+0,ECHL,27,Peoria Rivermen,1511,21,7,0,0,48,0,0,4,3,15,0,0,0,0,0,2000-01,0,1.91,0,0
+0,AHL,9,Worcester IceCats,537,22,4,0,0,22,0,0,0,0,5,0,0,0,0,0,2001-02,0,2.46,0,0
+0,ECHL,24,Peoria Rivermen,1418,22,8,0,0,58,0,0,2,1,13,0,0,0,0,0,2001-02,0,2.45,0,0
+0,AHL,41,Worcester IceCats,2317,23,14,0,1,93,0,0,8,3,18,1,0,0,0,.919,2002-03,1151,2.41,2,1058
+0,AHL,43,Worcester IceCats,2367,24,16,0,1,84,0,0,3,5,20,1,0,0,0,.921,2003-04,1065,2.13,2,981
+0,AHL,50,Worcester IceCats,2743,25,25,0,0,123,0,0,2,2,19,0,0,0,0,.901,2004-05,1246,2.69,7,1123
+0,AHL,6,Peoria Rivermen,358,26,2,0,0,11,0,0,0,2,4,0,0,0,0,.929,2005-06,154,1.84,2,143
+0,AHL,2,Peoria Rivermen,119,27,1,0,0,5,0,0,0,0,1,0,0,0,0,.898,2006-07,49,2.52,0,44
+0,AHL,16,Manitoba Moose,865,29,3,0,1,25,0,0,3,2,7,1,0,0,0,.936,2008-09,389,1.73,0,364
+0,AHL,41,Hamilton Bulldogs,2230,30,11,0,0,79,0,0,3,4,23,0,0,0,0,.916,2009-10,935,2.13,0,856
+0,AHL,40,Hamilton Bulldogs,2274,31,13,0,1,73,0,0,2,5,22,1,0,0,0,.930,2010-11,1036,1.93,2,963
+0,KHL,24,Lokomotiv Yaroslavl,1385,33,7,0,0,52,0,0,0,0,12,0,0,0,0,0,2012-13,0,2.25,0,0

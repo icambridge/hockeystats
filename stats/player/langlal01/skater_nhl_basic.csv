@@ -1,0 +1,12 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,1,0,23,0,0,0,,MTL,[],0,0,0,0,0,0,1957-58,,0,0,0,0
+NHL,48,0,24,0,3,0,,MTL,[],0,0,3,0,0,0,1958-59,,0,26,0,0
+NHL,67,0,25,0,15,0,,MTL,[],0,0,14,0,1,0,1959-60,,0,48,0,0
+NHL,61,0,26,0,13,0,,MTL,[],0,0,12,0,1,0,1960-61,,0,56,0,0
+NHL,69,0,27,0,25,0,,NYR,[],0,0,18,0,7,0,1961-62,,0,90,0,0
+NHL,60,0,28,0,16,0,,NYR,[],0,0,14,0,2,0,1962-63,,0,62,0,0
+NHL,61,0,29,0,13,0,,TOT,[],0,3,8,0,5,0,1963-64,,2,45,0,0
+NHL,44,0,29,0,6,0,,NYR,[],0,2,2,0,4,0,1963-64,,2,32,0,0
+NHL,17,0,29,0,7,0,,DET,[],0,1,6,0,1,0,1963-64,,0,13,0,0
+NHL,65,0,30,0,13,0,,DET,[],0,0,12,0,1,1,1964-65,,0,107,0,0
+NHL,65,0,31,0,14,0,,BOS,[],0,4,10,0,4,0,1965-66,,0,54,0,0

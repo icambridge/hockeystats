@@ -1,0 +1,12 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1996-97,21,2,26,1,0,ECHL,7,Columbus Chill,3
+1997-98,22,1,13,0,0,AHL,4,Rochester Americans,1
+1998-99,23,1,38,0,0,AHL,16,Rochester Americans,1
+1998-99,23,2,0,2,0,UHL,5,Binghamton Icemen,4
+1999-00,24,0,20,1,0,ECHL,3,Richmond Renegades,1
+1999-00,24,0,2,3,0,AHL,9,Providence Bruins,3
+2000-01,25,0,16,0,0,AHL,4,Providence Bruins,0
+2001-02,26,0,8,0,0,AHL,5,Philadelphia Phantoms,0
+2003-04,28,1,29,0,0,AHL,12,Philadelphia Phantoms,1
+2006-07,31,0,0,0,-1,AHL,2,Hershey Bears,0
+2009-10,34,1,49,0,-1,ECHL,9,Utah Grizzlies,1

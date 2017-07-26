@@ -1,0 +1,43 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2001-02,14,0,6,1,0,Czech U18 2,16,BK Mlada Boleslav U18,1
+2002-03,15,0,0,0,0,Czech U18,9,HC Pardubice U18,0
+2003-04,16,2,26,6,1,Czech U18,45,HC Pardubice U18,8
+2004-05,17,4,50,13,17,Czech U20,40,HC Pardubice U20,17
+2004-05,17,1,0,0,0,Internationa,3,Czech Republic U18 (all),1
+2005-06,18,0,4,1,0,Internationa,5,Czech Republic U20 (all),1
+2005-06,18,2,89,7,6,Czech U20,45,HC Pardubice U20,9
+2006-07,19,7,104,15,3,Czech U20,32,HC Pardubice U20,22
+2006-07,19,0,0,0,0,Czech,1,HC Pardubice,0
+2006-07,19,0,20,5,-8,Czech2,12,HC Berounsti Medvedi,5
+2007-08,20,0,6,1,0,Czech2,11,HC Vrchlabi,1
+2007-08,20,1,20,2,2,Czech,14,HC Pardubice,3
+2008-09,21,2,38,7,4,Czech,44,HC Pardubice,9
+2008-09,21,0,4,0,1,Czech2,3,HC Chrudim,0
+2009-10,22,6,58,9,16,Czech,45,HC Pardubice,15
+2009-10,22,0,4,0,0,Internationa,2,Czech Republic (all),0
+2010-11,23,5,32,6,0,Czech,45,HC Pardubice,11
+2010-11,23,0,14,2,-5,Internationa,13,Czech Republic (all),2
+2010-11,23,0,8,1,-5,EHT,6,Czech Republic,1
+2011-12,24,1,20,9,0,Internationa,28,Czech Republic (all),10
+2011-12,24,0,6,4,-1,WC,10,Czech Republic,4
+2011-12,24,1,8,3,-1,EHT,12,Czech Republic,4
+2011-12,24,1,30,7,5,KHL,32,Salavat Yulaev Ufa,8
+2011-12,24,0,14,0,0,ET,7,HC Pardubice,0
+2011-12,24,2,4,3,1,Czech,12,HC Pardubice,5
+2012-13,25,0,26,4,-4,KHL,37,Spartak Moskva,4
+2012-13,25,1,16,2,4,Internationa,26,Czech Republic (all),3
+2012-13,25,0,10,1,2,WC,8,Czech Republic,1
+2012-13,25,0,6,1,1,EHT,12,Czech Republic,1
+2012-13,25,1,8,4,-2,KHL,14,HC Lev Praha,5
+2013-14,26,0,26,3,0,KHL,34,HC Lev Praha,3
+2013-14,26,0,4,0,-6,Internationa,6,Czech Republic (all),0
+2013-14,26,0,4,0,-6,EHT,6,Czech Republic,0
+2014-15,27,3,63,12,-5,Liiga,50,TPS,15
+2014-15,27,0,8,1,-2,Champions HL,8,TPS,1
+2014-15,27,0,10,5,-3,Internationa,18,Czech Republic (all),5
+2014-15,27,0,4,5,-3,WC,10,Czech Republic,5
+2014-15,27,0,4,0,-2,EHT,5,Czech Republic,0
+2015-16,28,2,30,12,-3,AHL,35,Stockton Heat,14
+2016-17,29,3,21,6,5,KHL,24,Lokomotiv Yaroslavl,9
+2016-17,29,0,2,1,0,Internationa,3,Czech Republic (all),1
+2016-17,29,0,4,0,1,WCup,3,Czech Republic,0

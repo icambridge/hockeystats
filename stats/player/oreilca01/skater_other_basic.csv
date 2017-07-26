@@ -1,0 +1,22 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2002-03,16,11,2,19,0,ON-Jr.B,46,St. Mary\'s Lincolns,30
+2003-04,17,3,2,18,-1,OHL,61,Windsor Spitfires,21
+2004-05,18,24,16,50,9,OHL,68,Windsor Spitfires,74
+2005-06,19,18,8,81,2,OHL,68,Windsor Spitfires,99
+2005-06,19,0,0,0,0,AHL,2,Milwaukee Admirals,0
+2006-07,20,18,20,47,-11,AHL,78,Milwaukee Admirals,65
+2007-08,21,16,22,63,9,AHL,80,Milwaukee Admirals,79
+2008-09,22,13,20,56,8,AHL,67,Milwaukee Admirals,69
+2009-10,23,9,8,31,19,AHL,35,Milwaukee Admirals,40
+2011-12,25,1,8,11,3,AHL,26,2 Teams,12
+2011-12,25,1,0,1,5,AHL,5,Portland Pirates,2
+2011-12,25,0,8,10,-2,AHL,21,Wilkes-Barre Penguins,10
+2012-13,26,3,30,16,0,KHL,32,Metallurg Magnitogorsk,19
+2013-14,27,1,0,3,3,VHL,3,Yuzhny Ural Orsk,4
+2013-14,27,7,6,38,5,AHL,52,Utica Comets,45
+2013-14,27,0,2,1,-6,KHL,14,Metallurg Magnitogorsk,1
+2014-15,28,10,10,51,10,AHL,76,Utica Comets,61
+2015-16,29,6,6,23,-20,AHL,47,Rochester Americans,29
+2016-17,30,9,10,41,1,AHL,62,2 Teams,50
+2016-17,30,9,6,33,1,AHL,47,Rochester Americans,42
+2016-17,30,0,4,8,0,AHL,15,Toronto Marlies,8

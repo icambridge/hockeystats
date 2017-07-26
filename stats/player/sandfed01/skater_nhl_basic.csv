@@ -1,0 +1,12 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,59,0,19,0,25,0,,BOS,[],0,0,15,0,10,0,1947-48,,0,25,0,0
+NHL,56,0,20,0,36,0,,BOS,[],0,0,20,0,16,0,1948-49,,0,57,0,0
+NHL,19,0,21,0,5,0,,BOS,[],0,0,4,0,1,0,1949-50,,0,6,0,0
+NHL,51,0,22,0,23,0,,BOS,[],0,0,13,0,10,0,1950-51,,0,33,0,0
+NHL,65,0,23,0,25,0,,BOS,[],0,0,12,0,13,0,1951-52,,0,54,0,0
+NHL,61,0,24,0,35,0,,BOS,[],0,0,21,0,14,0,1952-53,,0,44,0,0
+NHL,70,0,25,0,47,0,,BOS,"[{'link': '/awards/nhl_all_star.html#1954', 'name': None}, {'link': '/awards/voting-1954.html#byng', 'name': 'Byng-5'}]",0,0,31,0,16,0,1953-54,,0,42,0,0
+NHL,60,0,26,0,34,0,,BOS,[],0,0,20,0,14,0,1954-55,,0,38,0,0
+NHL,61,0,27,0,21,0,,TOT,[],0,0,9,0,12,0,1955-56,,0,56,0,0
+NHL,4,0,27,0,0,0,,DET,[],0,0,0,0,0,0,1955-56,,0,0,0,0
+NHL,57,0,27,0,21,0,,CBH,[],0,0,9,0,12,0,1955-56,,0,56,0,0

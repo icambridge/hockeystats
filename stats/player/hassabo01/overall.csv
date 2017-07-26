@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1929-03-26,", ",C,Bob Hassard,R
+handed,heigh_and_weight,position,date_of_birth,name
+R,", ",C,1929-03-26,Bob Hassard

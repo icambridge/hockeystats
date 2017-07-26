@@ -1,0 +1,7 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+7,NHL,11,0,21,0,20,8,1,22,0,151,LAK,2,0,[],0.0,0,1,-2,0,0,0,2010-11,2,13:43,0,0,0,1
+23,NHL,45,1,23,0,164,77,16,70,4,805,LAK,7,0,"[{'link': '/awards/voting-2013.html#calder', 'name': 'Calder-8'}]",9.1,4,9,16,7,0,0,2012-13,29,17:54,3,35,0,5
+57,NHL,76,0,24,0,370,175,24,169,4,1446,LAK,14,0,[],2.9,4,19,8,5,0,0,2013-14,82,19:02,1,58,0,15
+68,NHL,76,3,25,0,379,173,41,186,10,1725,LAK,18,0,[],5.8,6,31,-4,10,0,0,2014-15,108,22:42,4,22,1,20
+68,NHL,82,1,26,0,424,203,40,197,12,1891,LAK,13,0,"[{'link': '/awards/voting-2016.html#AS', 'name': 'AS-21'}, {'link': '/awards/voting-2016.html#norris', 'name': 'Norris-20'}]",3.9,7,32,7,8,0,0,2015-16,135,23:04,1,64,1,19
+70,NHL,0,1,27,0,386,184,28,162,6,1828,LAK,15,0,[],4.9,5,19,-21,9,0,0,2016-17,122,22:18,4,46,0,13

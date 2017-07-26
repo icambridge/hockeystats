@@ -1,15 +1,15 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1928-29,Tulsa Oilers,0,0,21,1,0,0,AHA
-23,1929-30,Tulsa Oilers,1,0,22,34,7,6,AHA
-64,1930-31,Tulsa Oilers,9,0,23,47,14,5,AHA
-39,1931-32,Tulsa Oilers,12,0,24,48,21,9,AHA
-17,1932-33,Detroit Olympics,4,0,25,30,9,5,IHL
-25,1933-34,Kansas City Greyhounds,11,0,26,48,17,6,AHA
-50,1934-35,St. Paul Saints,14,0,27,46,31,17,CHL
-36,1935-36,St. Paul Saints,16,0,28,46,23,7,AHA
-23,1936-37,St. Paul Saints,5,0,29,46,11,6,AHA
-20,1937-38,Wichita Skyhawks,9,0,30,47,15,6,AHA
-14,1938-39,St. Paul Saints,14,0,31,43,25,11,AHA
-20,1939-40,St. Paul Saints,9,0,32,46,13,4,AHA
-16,1940-41,Minneapolis Millers,2,0,33,26,2,0,AHA
-10,1941-42,Minneapolis Millers,4,0,34,46,8,4,AHA
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Tulsa Oilers,0,1928-29,1,0,0,21,0,AHA
+1,Tulsa Oilers,6,1929-30,34,7,23,22,0,AHA
+9,Tulsa Oilers,5,1930-31,47,14,64,23,0,AHA
+12,Tulsa Oilers,9,1931-32,48,21,39,24,0,AHA
+4,Detroit Olympics,5,1932-33,30,9,17,25,0,IHL
+11,Kansas City Greyhounds,6,1933-34,48,17,25,26,0,AHA
+14,St. Paul Saints,17,1934-35,46,31,50,27,0,CHL
+16,St. Paul Saints,7,1935-36,46,23,36,28,0,AHA
+5,St. Paul Saints,6,1936-37,46,11,23,29,0,AHA
+9,Wichita Skyhawks,6,1937-38,47,15,20,30,0,AHA
+14,St. Paul Saints,11,1938-39,43,25,14,31,0,AHA
+9,St. Paul Saints,4,1939-40,46,13,20,32,0,AHA
+2,Minneapolis Millers,0,1940-41,26,2,16,33,0,AHA
+4,Minneapolis Millers,4,1941-42,46,8,10,34,0,AHA

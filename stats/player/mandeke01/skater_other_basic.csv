@@ -1,0 +1,17 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1987-88,16,22,42,18,0,SMHL,32,Notre Dame Midget Hounds,40
+1988-89,17,39,165,36,0,SJHL,58,Notre Dame Hounds,75
+1989-90,18,11,28,15,0,ECAC,26,Cornell Big Red,26
+1989-90,18,1,0,2,0,WJC-A,7,Canada,3
+1990-91,19,17,60,14,0,ECAC,28,Cornell Big Red,31
+1990-91,19,1,0,2,0,Nat-Tm,3,Canada,3
+1990-91,19,1,0,6,0,WJC-A,7,Canada,7
+1991-92,20,16,78,24,0,Nat-Tm,63,Canada,40
+1991-92,20,1,0,2,0,Olympics,8,Canada,3
+1992-93,21,19,86,28,0,AHL,56,St. John\'s Maple Leafs,47
+1995-96,24,16,26,12,0,AHL,27,St. John\'s Maple Leafs,28
+1996-97,25,5,18,20,0,AHL,23,Springfield Falcons,25
+2003-04,32,3,18,8,0,Sweden,23,Timra IK,11
+2004-05,33,9,90,3,0,Sweden,34,Timra IK,12
+2005-06,34,11,79,9,0,Sweden,43,Timra IK,20
+2006-07,35,19,86,17,0,Finland,45,Blues Espoo,36

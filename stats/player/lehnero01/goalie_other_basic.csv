@@ -1,0 +1,12 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,Swe-U18,19,Frolunda HC Goteborg U18,1147,16,0,0,0,34,0,0,0,6,0,0,0,0,0,0,2007-08,0,1.78,0,0
+0,Swe-U18,2,Frolunda HC Goteborg U18,117,17,0,0,0,5,0,0,0,0,0,0,0,0,0,0,2008-09,0,2.56,0,0
+0,Swe-Jr.,22,Frolunda HC Goteborg Jr.,1318,17,0,0,0,67,0,0,0,1,0,0,0,0,0,0,2008-09,0,3.05,0,0
+0,WJ18-A,4,Sweden,236,17,2,0,0,11,0,0,0,1,2,0,0,0,0,.916,2008-09,131,2.80,0,120
+0,OHL,47,Sault Ste. Marie Greyhounds,2574,18,13,0,2,120,0,0,3,5,27,2,0,0,0,.918,2009-10,1457,2.80,15,1337
+0,AHL,2,Binghamton Senators,120,18,0,0,0,6,0,0,0,0,2,0,0,0,0,.898,2009-10,59,3.00,0,53
+0,AHL,22,Binghamton Senators,1246,19,8,0,1,56,0,0,2,3,10,1,0,0,0,.912,2010-11,637,2.70,2,581
+0,WJC-A,3,Sweden,195,19,0,0,0,9,0,0,0,1,0,0,0,0,0,0,2010-11,0,2.77,0,0
+0,AHL,40,Binghamton Senators,2192,20,22,0,2,119,0,0,1,2,13,2,0,0,0,.907,2011-12,1275,3.26,14,1156
+0,AHL,31,Binghamton Senators,1841,21,10,0,0,65,0,0,2,3,18,0,0,0,0,.938,2012-13,1046,2.12,28,981
+0,AHL,0,Rochester Americans,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2015-16,0,0,0,0

@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1988-89,15,2,64,4,0,QAAA,36,Montreal L\'est Cantonniers,6
+1989-90,16,4,0,19,0,QAAA,41,Montreal L\'est Cantonniers,23
+1990-91,17,1,73,8,0,QMJHL,67,St-Jean Lynx,9
+1991-92,18,1,185,17,0,QMJHL,68,St-Jean Lynx,18
+1992-93,19,3,147,34,0,QMJHL,70,St-Jean Lynx,37
+1992-93,19,1,2,0,0,AHL,2,Fredericton Canadiens,1
+1993-94,20,2,183,12,0,AHL,70,Fredericton Canadiens,14
+1994-95,21,1,184,9,0,AHL,75,Fredericton Canadiens,10
+1995-96,22,1,154,15,0,IHL,80,San Francisco Spiders,16
+1996-97,23,3,145,4,0,IHL,74,Milwaukee Admirals,7
+1997-98,24,2,76,2,-5,AHL,32,Hershey Bears,4
+1997-98,24,4,84,6,3,IHL,31,Milwaukee Admirals,10
+1998-99,25,3,106,12,0,Alpenliga,29,HC Asiago,15
+1998-99,25,3,97,9,0,Italy,18,HC Asiago,12
+1999-00,26,9,192,18,0,German-2,44,EC Bad Tolz,27
+2000-01,27,7,120,10,0,German-2,42,EC Bad Tolz,17
+2001-02,28,0,151,4,0,Germany,57,DEG Metro Stars Dusseldorf,4
+2002-03,29,3,132,15,0,German-2,54,Straubing Tigers,18
+2003-04,30,2,104,9,0,QSPHL,38,Thetford Mines Prolab,11
+2004-05,31,4,99,13,0,QNAHL,58,2 Teams,17
+2004-05,31,2,64,9,0,QNAHL,40,Verdun Dragons,11
+2004-05,31,2,35,4,0,QNAHL,18,Laval Chiefs,6
+2005-06,32,3,94,22,0,QNAHL,56,Laval Chiefs,25
+2006-07,33,4,123,10,0,QNAHL,48,St. Jean Chiefs,14

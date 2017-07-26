@@ -1,0 +1,11 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2003-04,18,22,24,27,0,AJHL,58,Bonnyville Pontiacs,49
+2004-05,19,39,32,47,0,AJHL,63,Bonnyville Pontiacs,86
+2005-06,20,50,59,55,0,AJHL,58,Bonnyville Pontiacs,105
+2006-07,21,24,14,22,0,CCHA,37,Western Michigan University,46
+2006-07,21,0,0,0,-1,AHL,3,Wilkes-Barre Penguins,0
+2007-08,22,6,28,12,-2,AHL,52,Wilkes-Barre Penguins,18
+2007-08,22,1,4,2,0,ECHL,6,Wheeling Nailers,3
+2008-09,23,24,6,37,12,AHL,73,Wilkes-Barre Penguins,61
+2009-10,24,21,21,34,21,AHL,63,Wilkes-Barre Penguins,55
+2012-13,27,4,2,0,0,Sweden-2,7,Almtuna IS Uppsala,4

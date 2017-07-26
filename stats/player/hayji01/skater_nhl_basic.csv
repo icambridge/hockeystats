@@ -1,4 +1,4 @@
-average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
-,5,0,0,NHL,21,0,2,0,0,0,0,0,0,1952-53,DET,1,4,[],0,,42
-,0,0,0,NHL,22,0,0,0,0,0,0,0,0,1953-54,DET,0,0,[],0,,12
-,1,0,0,NHL,23,0,20,0,0,0,0,0,0,1954-55,DET,0,1,[],0,,21
+shotsPercentage,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,age,game_winning_goals,league,shorthanded_goals,average_ice_time,games_played,points,awards,power_play_goals
+0,1952-53,2,0,,0,0,0,0,0,4,DET,1,21,0,NHL,0,,42,5,[],0
+0,1953-54,0,0,,0,0,0,0,0,0,DET,0,22,0,NHL,0,,12,0,[],0
+0,1954-55,20,0,,0,0,0,0,0,1,DET,0,23,0,NHL,0,,21,1,[],0

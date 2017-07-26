@@ -1,0 +1,20 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,NAHL,16,Springfield Jr. Blues,879,16,8,0,0,48,0,0,0,0,6,0,0,0,0,0,1999-00,0,3.28,4,0
+0,ECAC,20,St. Lawrence University,1121,18,10,0,0,59,0,0,1,0,7,0,0,0,0,0,2001-02,0,3.16,0,0
+0,ECAC,15,St. Lawrence University,618,19,7,0,0,38,0,0,2,0,1,0,0,0,0,0,2002-03,0,3.69,2,0
+0,ECAC,27,St. Lawrence University,1475,20,10,0,2,60,0,0,3,3,9,2,0,0,0,0,2003-04,0,2.44,0,0
+0,ECAC,35,St. Lawrence University,2022,21,17,0,1,92,0,0,2,3,15,1,0,0,0,0,2004-05,0,2.73,4,0
+0,AHL,7,Norfolk Admirals,388,22,2,0,0,25,0,0,1,0,4,0,0,0,0,.883,2005-06,214,3.87,0,189
+0,ECHL,25,Las Vegas Wranglers,1383,22,2,0,1,49,0,0,1,1,19,1,0,0,0,.923,2005-06,640,2.13,17,591
+0,ECHL,38,Las Vegas Wranglers,2258,23,4,0,4,83,0,0,7,5,27,4,0,0,0,.927,2006-07,1133,2.21,18,1050
+0,AHL,3,2 Teams,107,23,1,0,0,9,0,0,0,0,0,0,0,0,0,.845,2006-07,58,5.05,4,49
+0,AHL,1,Milwaukee Admirals,11,23,0,0,0,3,0,0,0,0,0,0,0,0,0,.250,2006-07,4,16.36,0,1
+0,AHL,2,Omaha Ak-Sar-Ben Knights,96,23,1,0,0,6,0,0,0,0,0,0,0,0,0,.889,2006-07,54,3.75,4,48
+0,AHL,41,Portland Pirates,2269,24,13,0,1,103,0,0,1,3,24,1,0,0,0,.908,2007-08,1116,2.72,2,1013
+0,AHL,24,Norfolk Admirals,1315,25,10,0,0,65,0,0,1,1,11,0,0,0,0,.904,2008-09,679,2.97,0,614
+0,AHL,50,Lowell Devils,2891,26,17,0,1,119,0,0,6,3,24,1,0,0,0,.921,2009-10,1515,2.47,2,1396
+0,AHL,39,Albany Devils,2062,27,20,0,2,124,0,0,2,1,14,2,0,0,0,.886,2010-11,1085,3.61,4,961
+0,AHL,41,Binghamton Senators,2196,28,22,0,0,109,0,0,1,0,14,0,0,0,0,.918,2011-12,1334,2.98,6,1225
+0,AHL,39,Peoria Rivermen,2307,29,18,0,1,93,0,0,1,4,19,1,0,0,0,.923,2012-13,1209,2.42,6,1116
+0,AHL,0,Springfield Falcons,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2013-14,0,0,0,0
+0,AHL,0,Portland Pirates,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014-15,0,0,0,0

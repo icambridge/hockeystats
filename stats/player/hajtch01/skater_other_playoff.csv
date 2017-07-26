@@ -1,11 +1,11 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-9,1994-95,Guelph Storm,2,0,16,14,2,0,OHL
-13,1995-96,Guelph Storm,6,0,17,16,6,0,OHL
-25,1996-97,Guelph Storm,8,0,18,18,8,0,OHL
-11,1997-98,Guelph Storm,5,0,19,12,6,1,OHL
-2,1997-98,Guelph Storm,3,0,19,5,3,0,M-Cup
-0,1999-00,Hamilton Bulldogs,2,0,21,10,2,0,AHL
-8,2001-02,Hamilton Bulldogs,2,0,23,15,3,1,AHL
-2,2002-03,Portland Pirates,0,-1,24,1,0,0,AHL
-8,2003-04,Portland Pirates,2,2,25,7,3,1,AHL
-4,2006-07,Lukko Rauma,2,0,28,3,3,1,Finland
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+2,Guelph Storm,0,1994-95,14,2,9,16,0,OHL
+6,Guelph Storm,0,1995-96,16,6,13,17,0,OHL
+8,Guelph Storm,0,1996-97,18,8,25,18,0,OHL
+5,Guelph Storm,1,1997-98,12,6,11,19,0,OHL
+3,Guelph Storm,0,1997-98,5,3,2,19,0,M-Cup
+2,Hamilton Bulldogs,0,1999-00,10,2,0,21,0,AHL
+2,Hamilton Bulldogs,1,2001-02,15,3,8,23,0,AHL
+0,Portland Pirates,0,2002-03,1,0,2,24,-1,AHL
+2,Portland Pirates,1,2003-04,7,3,8,25,2,AHL
+2,Lukko Rauma,1,2006-07,3,3,4,28,0,Finland

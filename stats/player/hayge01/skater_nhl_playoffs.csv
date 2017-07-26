@@ -1,4 +1,4 @@
-power_play_goals,games_played,points,game_winning_goals,league,year,age,goals,team,average_ice_time,assists,pim,plus_minus,shorthanded_goals,shots,total_ice_time,win,shotsPercentage,even_strength_goals
-0,2,3,0,NHL,1926-27,29,1,CBH,,2,2,0,0,0,,,0,0
-0,2,1,0,NHL,1928-29,31,1,DTC,,0,0,0,0,0,,,0,0
-0,4,1,0,NHL,1932-33,35,0,DET,,1,0,0,0,0,,,0,0
+even_strength_goals,assists,team,goals,pim,age,game_winning_goals,total_ice_time,league,shorthanded_goals,shots,average_ice_time,year,games_played,shotsPercentage,win,power_play_goals,points,plus_minus
+0,2,CBH,1,2,29,0,,NHL,0,0,,1926-27,2,0,,0,3,0
+0,0,DTC,1,0,31,0,,NHL,0,0,,1928-29,2,0,,0,1,0
+0,1,DET,0,0,35,0,,NHL,0,0,,1932-33,4,0,,0,1,0

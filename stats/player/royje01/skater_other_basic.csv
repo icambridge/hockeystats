@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1984-85,15,0,0,0,0,QAAA,1,Laval-Laurentides,0
+1985-86,16,20,17,27,0,QAAA,42,Laval-Laurentides,47
+1989-90,20,39,52,26,0,H-East,46,University of Maine,65
+1990-91,21,37,62,45,0,H-East,43,University of Maine,82
+1991-92,22,32,62,24,0,H-East,35,University of Maine,56
+1991-92,22,10,6,4,0,Nat-Tm,13,Canada,14
+1992-93,23,9,35,6,0,Nat-Tm,23,Canada,15
+1992-93,23,13,21,15,0,AHL,49,Binghamton Rangers,28
+1993-94,24,41,33,24,0,AHL,65,Binghamton Rangers,65
+1993-94,24,3,2,2,0,Nat-Tm,6,Canada,5
+1993-94,24,1,0,0,0,Olympics,8,Canada,1
+1994-95,25,41,28,36,0,AHL,67,Binghamton Rangers,77
+1995-96,26,40,64,55,0,AHL,67,P.E.I. Senators,95
+1996-97,27,9,30,16,0,AHL,27,Providence Bruins,25
+1997-98,28,28,60,34,-14,AHL,65,Providence Bruins,62
+1998-99,29,25,26,27,0,Alpenliga,29,EC Villacher SV,52
+1998-99,29,13,20,20,0,Austria,23,EC VSV Villach,33
+1998-99,29,4,6,3,0,Nat-Tm,5,Canada,7
+1999-00,30,22,53,21,0,Germany,56,Kolner Haie,43
+2000-01,31,25,55,17,0,Swiss,40,HC Fribourg-Gotteron,42
+2001-02,32,12,30,12,0,Swiss,38,HC Fribourg-Gotteron,24
+2002-03,33,14,47,15,0,Swiss,41,HC Fribourg-Gotteron,29
+2003-04,34,13,30,30,0,Germany,44,Kolner Haie,43
+2004-05,35,19,63,22,0,Germany,51,Kolner Haie,41
+2005-06,36,10,8,18,0,Germany,45,Kolner Haie,28

@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1980-11-01,C,", ",L,Riku Hahl
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",C,1980-11-01,Riku Hahl

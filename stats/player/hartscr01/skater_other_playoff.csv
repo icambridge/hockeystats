@@ -1,4 +1,4 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-16,Sault Ste. Marie Greyhounds,0,0,1,OMJHL,12,1975-76,16,1
-27,Sault Ste. Marie Greyhounds,11,0,11,OMJHL,9,1976-77,17,0
-24,Sault Ste. Marie Greyhounds,8,0,12,OMJHL,13,1977-78,18,4
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Sault Ste. Marie Greyhounds,1,1975-76,12,1,16,16,0,OMJHL
+11,Sault Ste. Marie Greyhounds,0,1976-77,9,11,27,17,0,OMJHL
+8,Sault Ste. Marie Greyhounds,4,1977-78,13,12,24,18,0,OMJHL

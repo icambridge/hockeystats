@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1988-89,16,18,70,33,0,QAAA,38,L\'Outaouais Frontaliers,51
+1991-92,19,13,26,14,0,ECAC,20,Harvard Crimson,27
+1992-93,20,6,40,8,0,ECAC,18,Harvard Crimson,14
+1993-94,21,25,93,35,0,ECAC,32,Harvard Crimson,60
+1994-95,22,15,93,23,0,ECAC,28,Harvard Crimson,38
+1995-96,23,9,10,20,0,AHL,30,Springfield Falcons,29
+1996-97,24,12,78,31,0,AHL,63,Springfield Falcons,43
+1997-98,25,20,122,41,14,IHL,78,Chicago Wolves,61
+1998-99,26,1,16,6,2,IHL,4,Detroit Vipers,7
+2000-01,28,6,4,6,6,IHL,13,2 Teams,12
+2000-01,28,5,4,4,7,IHL,8,Detroit Vipers,9
+2000-01,28,1,0,2,-1,IHL,5,Chicago Wolves,3
+2001-02,29,10,66,21,4,AHL,51,Grand Rapids Griffins,31
+2002-03,30,5,31,11,9,AHL,26,Binghamton Senators,16
+2003-04,31,4,16,9,0,AHL,22,Worcester IceCats,13
+2004-05,32,13,66,12,0,Finland,54,JYP Jyvaskyla,25
+2005-06,33,22,80,58,-4,AHL,76,Binghamton Senators,80
+2006-07,34,13,49,26,12,AHL,48,Chicago Wolves,39
+2007-08,35,17,78,40,7,AHL,76,Chicago Wolves,57
+2008-09,36,13,58,20,-1,AHL,55,Chicago Wolves,33

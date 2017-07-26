@@ -1,0 +1,22 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1988-89,16,38,0,30,0,NOHA,33,Kenora Boise,68
+1989-90,17,18,61,34,0,USHL,48,Thunder Bay Flyers,52
+1990-91,18,3,30,7,0,CCHA,40,Bowling Green University,10
+1991-92,19,9,28,7,0,CCHA,34,Bowling Green University,16
+1992-93,20,23,35,23,0,CCHA,39,Bowling Green University,46
+1993-94,21,17,38,17,0,CCHA,38,Bowling Green University,34
+1994-95,22,0,2,0,0,IHL,8,San Diego Gulls,0
+1994-95,22,18,55,25,0,ECHL,36,2 Teams,43
+1994-95,22,18,55,23,0,ECHL,34,Knoxville Cherokees,41
+1994-95,22,0,0,2,0,ECHL,2,Greensboro Monarchs,2
+1995-96,23,16,61,17,0,AHL,72,Baltimore Bandits,33
+1996-97,24,26,17,17,0,AHL,41,Baltimore Bandits,43
+1998-99,26,11,32,7,2,IHL,16,Houston Aeros,18
+1999-00,27,11,26,18,-1,AHL,51,Providence Bruins,29
+1999-00,27,3,21,5,-3,IHL,14,Manitoba Moose,8
+2000-01,28,18,85,21,7,IHL,82,Manitoba Moose,39
+2001-02,29,23,53,26,8,AHL,54,Syracuse Crunch,49
+2003-04,31,19,75,15,-1,AHL,75,2 Teams,34
+2003-04,31,2,7,0,-1,AHL,7,Syracuse Crunch,2
+2003-04,31,17,68,15,0,AHL,68,Manitoba Moose,32
+2004-05,32,6,78,10,0,Germany,51,Frankfurt Lions,16

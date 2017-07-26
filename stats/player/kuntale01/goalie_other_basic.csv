@@ -1,0 +1,21 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,High-NY,22,Nichols High School,1585,17,0,0,0,56,0,0,0,3,0,0,0,0,0,0,1986-87,0,2.12,0,0
+0,ECAC,10,St. Lawrence University,488,18,1,0,0,27,0,0,0,0,6,0,0,0,0,0,1987-88,0,3.32,0,0
+0,ECAC,14,St. Lawrence University,786,19,2,0,0,31,0,0,0,0,11,0,0,0,0,0,1988-89,0,2.37,0,0
+0,ECAC,20,St. Lawrence University,1136,20,11,0,0,80,0,0,1,0,7,0,0,0,0,0,1989-90,0,4.23,0,0
+0,ECAC,33,St. Lawrence University,1797,21,11,0,0,97,0,0,1,1,19,0,0,0,0,0,1990-91,0,3.24,0,0
+0,AHL,11,Fredericton Canadiens,638,22,3,0,0,26,0,0,0,0,7,0,0,0,0,0,1991-92,0,2.45,0,0
+0,Nat-Tm,13,United States,725,22,5,0,0,57,0,0,3,0,3,0,0,0,0,0,1991-92,0,4.72,0,0
+0,AHL,42,Fredericton Canadiens,2315,23,14,0,0,130,0,0,7,0,16,0,0,0,0,0,1992-93,0,3.37,0,0
+0,AHL,34,Fredericton Canadiens,1804,24,17,0,0,109,0,0,3,1,10,0,0,0,0,0,1993-94,0,3.63,0,0
+0,WC-A,4,United States,135,24,2,0,0,11,0,0,0,0,0,0,0,0,0,0,1993-94,0,4.89,0,0
+0,AHL,56,2 Teams,3043,25,23,0,0,166,0,0,7,2,21,0,0,0,0,.896,1994-95,1590,3.27,0,1424
+0,AHL,24,Worcester IceCats,1241,25,10,0,0,77,0,0,5,2,6,0,0,0,0,.875,1994-95,618,3.72,0,541
+0,AHL,32,Hershey Bears,1802,25,13,0,0,89,0,0,2,0,15,0,0,0,0,.908,1994-95,972,2.96,0,883
+0,AHL,20,Hershey Bears,1020,26,8,0,0,71,0,0,2,0,7,0,0,0,0,.877,1995-96,578,4.18,0,507
+0,IHL,8,Fort Wayne Komets,387,26,3,0,0,26,0,0,1,1,2,0,0,0,0,.893,1995-96,242,4.03,0,216
+0,AHL,21,Rochester Americans,1052,27,9,0,0,60,0,0,3,0,6,0,0,0,0,.888,1996-97,535,3.42,0,475
+0,ECHL,4,Pensacola Ice Pilots,220,27,2,0,0,13,0,0,0,0,2,0,0,0,0,.904,1996-97,136,3.55,0,123
+0,IHL,4,2 Teams,147,27,0,0,0,5,0,0,0,0,2,0,0,0,0,.937,1996-97,79,2.04,0,74
+0,IHL,1,Cleveland Lumberjacks,60,27,0,0,0,4,0,0,0,0,1,0,0,0,0,.900,1996-97,40,4.00,0,36
+0,IHL,3,Utah Grizzlies,87,27,0,0,0,1,0,0,0,0,1,0,0,0,0,.974,1996-97,39,0.69,0,38

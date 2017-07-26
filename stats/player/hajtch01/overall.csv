@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1978-07-05,D,", ",L,Chris Hajt
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",D,1978-07-05,Chris Hajt

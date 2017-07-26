@@ -1,0 +1,22 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1988-89,16,16,85,13,0,AMHL,37,Medicine Hat Tigers,29
+1988-89,16,0,0,1,0,WHL,1,Portland Winter Hawks,1
+1989-90,17,5,124,7,0,WHL,67,Portland Winter Hawks,12
+1990-91,18,9,120,13,0,WHL,66,2 Teams,22
+1990-91,18,0,6,1,0,WHL,2,Portland Winter Hawks,1
+1990-91,18,9,114,12,0,WHL,64,Prince Albert Raiders,21
+1991-92,19,9,310,11,0,WHL,64,2 Teams,20
+1991-92,19,2,8,1,0,WHL,4,Prince Albert Raiders,3
+1991-92,19,7,302,10,0,WHL,60,Spokane Chiefs,17
+1992-93,20,12,205,10,0,WHL,65,2 Teams,22
+1992-93,20,3,58,1,0,WHL,15,Spokane Chiefs,4
+1992-93,20,9,147,9,0,WHL,50,Medicine Hat Tigers,18
+1993-94,21,1,55,5,0,IHL,47,Cincinnati Cyclones,6
+1993-94,21,3,38,7,0,ECHL,16,Birmingham Bulls,10
+1994-95,22,3,173,6,0,IHL,51,Cincinnati Cyclones,9
+1995-96,23,4,92,8,0,AHL,50,Carolina Panthers,12
+1996-97,24,0,5,0,0,AHL,3,Carolina Monarchs,0
+1996-97,24,8,138,8,0,IHL,48,Grand Rapids Griffins,16
+1997-98,25,1,67,2,-9,IHL,30,2 Teams,3
+1997-98,25,1,62,1,-9,IHL,28,Las Vegas Thunder,2
+1997-98,25,0,5,1,0,IHL,2,Grand Rapids Griffins,1

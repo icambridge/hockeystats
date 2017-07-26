@@ -1,0 +1,16 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1993-94,17,44,56,55,0,Minor-BC,49,Richmond,99
+1994-95,18,0,177,1,0,WHL,23,Kamloops Blazers,1
+1995-96,19,1,216,4,0,WHL,63,Kamloops Blazers,5
+1996-97,20,8,278,10,0,WHL,61,Kamloops Blazers,18
+1997-98,21,0,256,2,-3,AHL,53,Albany River Rats,2
+1998-99,22,1,213,1,-2,AHL,61,Albany River Rats,2
+1999-00,23,0,115,0,-5,AHL,37,Albany River Rats,0
+2000-01,24,0,105,0,-4,AHL,38,Albany River Rats,0
+2001-02,25,1,161,3,-1,ECHL,29,Mississippi Sea Wolves,4
+2001-02,25,0,109,3,-5,AHL,35,2 Teams,3
+2001-02,25,0,22,0,0,AHL,2,Albany River Rats,0
+2001-02,25,0,87,3,-5,AHL,33,Portland Pirates,3
+2002-03,26,2,165,3,5,AHL,42,Albany River Rats,5
+2003-04,27,1,137,0,-9,AHL,36,Albany River Rats,1
+2004-05,28,0,184,2,-2,AHL,52,Albany River Rats,2

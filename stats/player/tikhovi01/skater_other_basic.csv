@@ -1,0 +1,18 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2005-06,17,6,10,8,0,Russia-2,36,HK Dmitrov,14
+2005-06,17,6,10,8,4,Rus-1,36,Dmitrov HC,14
+2006-07,18,0,0,0,0,Russia,4,Cherepovets Severstal,0
+2006-07,18,0,0,0,0,Russia,4,Severstal Cherepovets,0
+2007-08,19,6,43,6,0,Russia,43,Cherepovets Severstal,12
+2007-08,19,7,43,5,0,Russia,43,Severstal Cherepovets,12
+2008-09,20,2,0,1,2,AHL,4,San Antonio Rampage,3
+2009-10,21,14,12,1,11,KHL,25,Cherepovets Severstal,15
+2009-10,21,2,12,6,5,AHL,18,San Antonio Rampage,8
+2009-10,21,14,12,1,0,KHL,25,Severstal Cherepovets,15
+2010-11,22,10,26,23,-13,AHL,60,San Antonio Rampage,33
+2011-12,23,17,18,13,11,KHL,42,St. Petersburg SKA,30
+2011-12,23,17,18,13,0,KHL,42,SKA St. Petersburg,30
+2012-13,24,12,16,15,16,KHL,39,St. Petersburg SKA,27
+2012-13,24,12,16,15,0,KHL,39,SKA St. Petersburg,27
+2013-14,25,18,20,16,17,KHL,52,St. Petersburg SKA,34
+2014-15,26,8,29,16,0,KHL,49,St. Petersburg SKA,24

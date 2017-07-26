@@ -1,0 +1,11 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,12,0,20,17,1,0,,ATF,[],5.9,0,0,-8,1,0,1975-76,,1,4,0,0
+NHL,79,1,21,156,44,10,,ATF,[],7.7,9,32,6,12,1,1976-77,,2,80,2,20
+NHL,79,1,22,125,32,3,,ATF,[],7.2,9,23,11,9,0,1977-78,,0,47,0,20
+NHL,73,0,23,115,26,2,,TOT,[],4.3,4,21,3,5,0,1978-79,,1,45,0,19
+NHL,37,0,23,58,15,1,,ATF,[],5.2,3,12,6,3,0,1978-79,,0,22,0,11
+NHL,36,0,23,57,11,1,,LAK,[],3.5,1,9,-3,2,0,1978-79,,1,23,0,8
+NHL,41,0,24,38,13,2,,TOT,[],0.0,0,13,0,0,0,1979-80,,0,27,0,11
+NHL,15,0,24,8,3,0,,LAK,[],0.0,0,3,1,0,0,1979-80,,0,16,0,3
+NHL,26,0,24,30,10,2,,TOR,[],0.0,0,10,-1,0,0,1979-80,,0,11,0,8
+NHL,19,0,25,24,4,1,,WIN,[],0.0,0,4,-9,0,0,1980-81,,0,14,0,3

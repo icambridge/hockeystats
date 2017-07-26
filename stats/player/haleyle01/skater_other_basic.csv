@@ -1,28 +1,28 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1947-48,Edmonton Canadians,0,0,16,1,0,0,EJrHL
-76,1949-50,Medicine Hat Tigers,28,0,18,40,54,26,WCJHL
-53,1950-51,Medicine Hat Tigers,30,0,19,40,67,37,WCJHL
-0,1950-51,Omaha Knights,3,0,19,3,4,1,USHL
-71,1951-52,Glace Bay Miners,58,0,20,86,102,44,MMHL
-23,1952-53,Edmonton Flyers,17,0,21,69,35,18,WHL
-40,1953-54,Edmonton Flyers,25,0,22,70,42,17,WHL
-43,1954-55,Edmonton/Saskatoon,23,0,23,68,43,20,WHL
-95,1955-56,Saskatoon Quakers,22,0,24,68,39,17,WHL
-77,1956-57,Brandon Regals,33,0,25,69,54,21,WHL
-34,1957-58,Hershey Bears,19,0,26,70,49,30,AHL
-38,1958-59,Hershey Bears,11,0,27,59,28,17,AHL
-35,1959-60,Edmonton Flyers,16,0,28,39,35,19,WHL
-36,1960-61,Edmonton Flyers,30,0,29,66,45,15,WHL
-56,1961-62,San Francisco Seals,30,0,30,66,50,20,WHL
-76,1962-63,San Francisco Seals,24,0,31,70,60,36,WHL
-112,1963-64,San Francisco Seals,33,0,32,70,68,35,WHL
-113,1964-65,San Francisco Seals,46,0,33,70,72,26,WHL
-89,1965-66,Seattle Totems,39,0,34,69,66,27,WHL
-71,1966-67,San Diego Gulls,33,0,35,69,46,13,WHL
-67,1967-68,Tulsa Oilers,46,0,36,70,80,34,CPHL
-63,1968-69,Omaha Knights,25,0,37,70,41,16,CHL
-0,1968-69,Edmonton Monarchs,2,0,37,2,2,0,ASHL
-52,1969-70,Grand Falls Cataracts,11,0,38,12,18,7,Nfld-Sr.
-16,1969-70,New Haven Blades,31,0,38,39,43,12,EHL
-76,1970-71,Edmonton Monarchs,26,0,39,40,49,23,PrSHL
-63,1971-72,Edmonton Monarchs,23,0,40,40,41,18,PrSHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Edmonton Canadians,0,1947-48,1,0,0,16,0,EJrHL
+28,Medicine Hat Tigers,26,1949-50,40,54,76,18,0,WCJHL
+30,Medicine Hat Tigers,37,1950-51,40,67,53,19,0,WCJHL
+3,Omaha Knights,1,1950-51,3,4,0,19,0,USHL
+58,Glace Bay Miners,44,1951-52,86,102,71,20,0,MMHL
+17,Edmonton Flyers,18,1952-53,69,35,23,21,0,WHL
+25,Edmonton Flyers,17,1953-54,70,42,40,22,0,WHL
+23,Edmonton/Saskatoon,20,1954-55,68,43,43,23,0,WHL
+22,Saskatoon Quakers,17,1955-56,68,39,95,24,0,WHL
+33,Brandon Regals,21,1956-57,69,54,77,25,0,WHL
+19,Hershey Bears,30,1957-58,70,49,34,26,0,AHL
+11,Hershey Bears,17,1958-59,59,28,38,27,0,AHL
+16,Edmonton Flyers,19,1959-60,39,35,35,28,0,WHL
+30,Edmonton Flyers,15,1960-61,66,45,36,29,0,WHL
+30,San Francisco Seals,20,1961-62,66,50,56,30,0,WHL
+24,San Francisco Seals,36,1962-63,70,60,76,31,0,WHL
+33,San Francisco Seals,35,1963-64,70,68,112,32,0,WHL
+46,San Francisco Seals,26,1964-65,70,72,113,33,0,WHL
+39,Seattle Totems,27,1965-66,69,66,89,34,0,WHL
+33,San Diego Gulls,13,1966-67,69,46,71,35,0,WHL
+46,Tulsa Oilers,34,1967-68,70,80,67,36,0,CPHL
+25,Omaha Knights,16,1968-69,70,41,63,37,0,CHL
+2,Edmonton Monarchs,0,1968-69,2,2,0,37,0,ASHL
+11,Grand Falls Cataracts,7,1969-70,12,18,52,38,0,Nfld-Sr.
+31,New Haven Blades,12,1969-70,39,43,16,38,0,EHL
+26,Edmonton Monarchs,23,1970-71,40,49,76,39,0,PrSHL
+23,Edmonton Monarchs,18,1971-72,40,41,63,40,0,PrSHL

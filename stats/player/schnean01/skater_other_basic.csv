@@ -1,0 +1,31 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1987-88,15,26,44,49,0,AMHL,35,Edmonton Scott Pump,75
+1988-89,16,7,43,26,0,WHL,69,Seattle Thunderbirds,33
+1989-90,17,26,98,33,0,WHL,70,2 Teams,59
+1989-90,17,10,55,12,0,WHL,28,Seattle Thunderbirds,22
+1989-90,17,16,43,21,0,WHL,42,Swift Current Broncos,37
+1990-91,18,12,103,74,0,WHL,69,Swift Current Broncos,86
+1991-92,19,44,120,60,0,WHL,63,Swift Current Broncos,104
+1991-92,19,0,6,0,0,WJC-A,7,Canada,0
+1992-93,20,19,78,66,0,WHL,38,Swift Current Broncos,85
+1992-93,20,2,13,2,0,AHL,19,New Haven Senators,4
+1993-94,21,15,119,46,0,AHL,61,P.E.I. Senators,61
+1994-95,22,6,71,8,0,Sweden,39,Leksands IF,14
+1994-95,22,1,0,0,0,Nat-Tm,3,Canada,1
+1994-95,22,1,25,5,0,AHL,10,P.E.I. Senators,6
+1995-96,23,12,85,28,0,IHL,81,Minnesota Moose,40
+1996-97,24,14,142,37,0,IHL,79,Manitoba Moose,51
+1997-98,25,10,137,25,0,Germany,48,2 Teams,35
+1997-98,25,3,46,12,0,Germany,26,Revier Lowen Oberhausen,15
+1997-98,25,7,91,13,0,Germany,22,Schwenninger Wild Wings,20
+1998-99,26,17,90,29,0,Germany,52,Schwenninger Wild Wings,46
+1999-00,27,19,82,35,0,Germany,68,Schwenninger Wild Wings,54
+2000-01,28,15,91,29,0,Germany,60,Munchen Barons,44
+2000-01,28,0,8,1,0,Con-Cup,3,Munchen Barons,1
+2001-02,29,11,101,29,0,Germany,55,Munchen Barons,40
+2002-03,30,20,74,32,0,Germany,51,Hamburg Freezers,52
+2003-04,31,16,68,27,0,Germany,52,Hamburg Freezers,43
+2004-05,32,7,56,24,0,Germany,51,DEG Metro Stars Dusseldorf,31
+2005-06,33,12,91,25,0,Germany,51,DEG Metro Stars Dusseldorf,37
+2006-07,34,6,73,20,0,Germany,48,DEG Metro Stars Dusseldorf,26
+2007-08,35,16,56,28,0,Austria,47,Klagenfurter AC,44

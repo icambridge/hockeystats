@@ -1,0 +1,21 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,18,8,240,18,0,SJHL,57,Weyburn Red Wings,26
+1995-96,19,15,191,30,0,SJHL,64,Weyburn Red Wings,45
+1996-97,20,26,218,51,0,SJHL,61,Weyburn Red Wings,77
+1997-98,21,11,269,26,0,WPHL,68,Lake Charles Ice Pirates,37
+1998-99,22,17,236,23,0,WPHL,68,Lake Charles Ice Pirates,40
+1999-00,23,7,240,12,0,ECHL,44,Wheeling Nailers,19
+1999-00,23,5,96,5,0,AHL,23,Wilkes-Barre Scranton Pens,10
+2000-01,24,10,347,15,-7,AHL,78,Wilkes-Barre Scranton Pens,25
+2001-02,25,6,387,10,-19,AHL,71,Wilkes-Barre Scranton Pens,16
+2002-03,26,5,299,11,0,AHL,73,Saint John Flames,16
+2003-04,27,3,89,5,-1,AHL,28,Portland Pirates,8
+2004-05,28,0,189,1,-17,AHL,36,Portland Pirates,1
+2005-06,29,1,64,3,-5,AHL,20,Syracuse Crunch,4
+2006-07,30,9,227,14,0,AHL,68,Syracuse Crunch,23
+2007-08,31,2,508,2,0,Russia,43,Vityaz Chekhov,4
+2008-09,32,1,168,4,0,KHL,28,Vityaz Chekhov,5
+2009-10,33,1,374,4,0,KHL,34,Vityaz Chekhov,5
+2010-11,34,2,169,1,0,KHL,20,Vityaz Chekhov,3
+2011-12,35,0,12,0,0,CzRep,1,HC Ocelari Trinec,0
+2011-12,35,0,74,0,0,KHL,16,CSKA Moscow,0

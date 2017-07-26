@@ -1,15 +1,15 @@
-power_play_goals,assists,points,power_play_assists,league,even_strength_assists,game_winning_goals,shorthanded_goals,shotsPercentage,games_played,average_ice_time,year,team,age,plus_minus,shorthanded_assists,even_strength_goals,pim,awards,total_ice_time,goals,shots
-0,0,0,0,NHL,0,0,0,0,4,,1965-66,NYR,19,0,0,0,0,[],,0,0
-0,0,0,0,NHL,0,0,0,0,2,,1967-68,NYR,21,0,0,0,0,[],,0,0
-0,0,0,0,NHL,0,0,0,0.0,16,,1968-69,NYR,22,0,0,0,8,[],,0,9
-0,5,5,0,NHL,5,0,0,0.0,59,,1969-70,NYR,23,-8,0,0,54,[],,0,42
-0,28,30,6,NHL,21,0,0,2.0,69,,1970-71,BUF,24,-23,1,2,71,[],,2,98
-1,30,34,4,NHL,26,1,0,4.4,76,,1971-72,BUF,25,-12,0,3,105,[],,4,91
-2,50,61,0,WHA,0,1,1,0,0,,1972-73,ALO,26,0,0,8,124,[],,11,0
-6,45,59,0,WHA,0,2,0,0,0,,1973-74,EDO,27,0,0,8,104,"[{'link': '/awards/wha_all_star.html#1974', 'name': 'ASW-2'}]",,14,0
-1,13,14,0,WHA,0,0,0,2.0,25,,1974-75,EDO,28,5,0,0,42,[],,1,49
-1,32,34,0,WHA,0,0,0,2.4,54,,1975-76,EDO,29,-8,0,1,78,[],,2,83
-3,37,45,0,WHA,0,0,0,5.7,81,,1976-77,EDO,30,-19,0,5,60,[],,8,140
-6,43,54,0,WHA,0,0,0,6.0,59,,1977-78,EDO,31,24,0,5,46,"[{'link': '/awards/wha_all_star.html#1978', 'name': None}]",,11,183
-2,38,44,0,WHA,0,0,0,3.9,0,,1978-79,EDO,32,22,0,4,38,[],,6,153
-1,15,19,6,NHL,9,0,0,11.8,31,,1979-80,EDM,33,-2,0,3,20,[],,4,34
+shotsPercentage,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,age,game_winning_goals,league,shorthanded_goals,average_ice_time,games_played,points,awards,power_play_goals
+0,1965-66,0,0,,0,0,0,0,0,0,NYR,0,19,0,NHL,0,,4,0,[],0
+0,1967-68,0,0,,0,0,0,0,0,0,NYR,0,21,0,NHL,0,,2,0,[],0
+0.0,1968-69,8,0,,0,9,0,0,0,0,NYR,0,22,0,NHL,0,,16,0,[],0
+0.0,1969-70,54,5,,0,42,0,0,-8,5,NYR,0,23,0,NHL,0,,59,5,[],0
+2.0,1970-71,71,21,,1,98,6,2,-23,28,BUF,2,24,0,NHL,0,,69,30,[],0
+4.4,1971-72,105,26,,0,91,4,3,-12,30,BUF,4,25,1,NHL,0,,76,34,[],1
+0,1972-73,124,0,,0,0,0,8,0,50,ALO,11,26,1,WHA,1,,0,61,[],2
+0,1973-74,104,0,,0,0,0,8,0,45,EDO,14,27,2,WHA,0,,0,59,"[{'link': '/awards/wha_all_star.html#1974', 'name': 'ASW-2'}]",6
+2.0,1974-75,42,0,,0,49,0,0,5,13,EDO,1,28,0,WHA,0,,25,14,[],1
+2.4,1975-76,78,0,,0,83,0,1,-8,32,EDO,2,29,0,WHA,0,,54,34,[],1
+5.7,1976-77,60,0,,0,140,0,5,-19,37,EDO,8,30,0,WHA,0,,81,45,[],3
+6.0,1977-78,46,0,,0,183,0,5,24,43,EDO,11,31,0,WHA,0,,59,54,"[{'link': '/awards/wha_all_star.html#1978', 'name': None}]",6
+3.9,1978-79,38,0,,0,153,0,4,22,38,EDO,6,32,0,WHA,0,,0,44,[],2
+11.8,1979-80,20,9,,0,34,6,3,-2,15,EDM,4,33,0,NHL,0,,31,19,[],1

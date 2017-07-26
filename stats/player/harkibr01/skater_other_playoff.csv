@@ -1,9 +1,9 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-4,Adirondack Red Wings,5,0,6,AHL,10,1993-94,23,1
-4,Providence Bruins,14,0,22,AHL,13,1994-95,24,8
-0,Providence Bruins,10,0,12,AHL,10,1996-97,26,2
-14,Cleveland Lumberjacks,13,0,17,IHL,10,1997-98,27,4
-6,Cleveland Lumberjacks,8,0,10,IHL,9,1999-00,29,2
-8,Houston Aeros,3,0,3,IHL,7,2000-01,30,0
-12,HIFK Helsinki,9,0,13,Finland,13,2003-04,33,4
-4,HIFK Helsinki,0,0,0,Finland,5,2004-05,34,0
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+5,Adirondack Red Wings,1,1993-94,10,6,4,23,0,AHL
+14,Providence Bruins,8,1994-95,13,22,4,24,0,AHL
+10,Providence Bruins,2,1996-97,10,12,0,26,0,AHL
+13,Cleveland Lumberjacks,4,1997-98,10,17,14,27,0,IHL
+8,Cleveland Lumberjacks,2,1999-00,9,10,6,29,0,IHL
+3,Houston Aeros,0,2000-01,7,3,8,30,0,IHL
+9,HIFK Helsinki,4,2003-04,13,13,12,33,0,Finland
+0,HIFK Helsinki,0,2004-05,5,0,4,34,0,Finland

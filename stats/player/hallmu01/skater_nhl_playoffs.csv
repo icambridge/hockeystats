@@ -1,8 +1,8 @@
-shorthanded_goals,power_play_goals,year,team,average_ice_time,age,points,shotsPercentage,assists,league,pim,game_winning_goals,goals,win,plus_minus,total_ice_time,games_played,even_strength_goals,shots
-0,0,1962-63,CBH,,22,0,0.0,0,NHL,0,0,0,,0,,4,0,3
-0,0,1964-65,DET,,24,0,0.0,0,NHL,0,0,0,,0,,1,0,1
-0,0,1965-66,DET,,25,0,0.0,0,NHL,0,0,0,,-1,,1,0,1
-0,2,1972-73,HSA,,32,8,0,4,WHA,18,2,4,,0,,10,2,0
-0,0,1973-74,HSA,,33,15,0,6,WHA,6,3,9,,0,,14,0,0
-0,0,1974-75,HSA,,34,10,0,3,WHA,8,2,7,,0,,13,0,0
-0,0,1975-76,HSA,,35,5,0,4,WHA,0,0,1,,-5,,17,0,0
+even_strength_goals,assists,team,goals,pim,age,game_winning_goals,total_ice_time,league,shorthanded_goals,shots,average_ice_time,year,games_played,shotsPercentage,win,power_play_goals,points,plus_minus
+0,0,CBH,0,0,22,0,,NHL,0,3,,1962-63,4,0.0,,0,0,0
+0,0,DET,0,0,24,0,,NHL,0,1,,1964-65,1,0.0,,0,0,0
+0,0,DET,0,0,25,0,,NHL,0,1,,1965-66,1,0.0,,0,0,-1
+2,4,HSA,4,18,32,2,,WHA,0,0,,1972-73,10,0,,2,8,0
+0,6,HSA,9,6,33,3,,WHA,0,0,,1973-74,14,0,,0,15,0
+0,3,HSA,7,8,34,2,,WHA,0,0,,1974-75,13,0,,0,10,0
+0,4,HSA,1,0,35,0,,WHA,0,0,,1975-76,17,0,,0,5,-5

@@ -1,22 +1,22 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-6,Saskatoon Jr. Quakers,3,0,5,N-SJHL,3,1942-43,17,2
-12,Saskatoon Jr. Quakers,2,0,6,M-Cup,8,1942-43,17,4
-6,Hershey Bears,1,0,3,AHL,7,1943-44,18,2
-14,Kansas City Pla-Mors,2,0,4,USHL,12,1945-46,20,2
-9,Kansas City Pla-Mors,9,0,12,USHL,12,1946-47,21,3
-0,Kansas City Pla-Mors,6,0,8,USHL,7,1947-48,22,2
-0,Kansas City Pla-Mors,0,0,0,USHL,2,1948-49,23,0
-2,Kansas City Pla-Mors,0,0,2,USHL,3,1949-50,24,2
-12,Nelson Maple Leafs,2,0,3,WIHL,4,1950-51,25,1
-5,Nelson Maple Leafs,2,0,4,WIHL,3,1951-52,26,2
-20,Vernon Canadians,2,0,4,OSHL,5,1952-53,27,2
-4,Vernon Canadians,3,0,4,OSHL,5,1953-54,28,1
-2,Vernon Canadians,4,0,6,OSHL,5,1954-55,29,2
-16,Vernon Canadians,13,0,18,Al-Cup,17,1954-55,29,5
-32,Vernon Canadians,3,0,7,OSHL,8,1955-56,30,4
-10,Vernon Canadians,16,0,21,Al-Cup,13,1955-56,30,5
-26,Vernon Canadians,6,0,9,OSHL,12,1956-57,31,3
-16,Vernon Canadians,4,0,4,OSHL,8,1957-58,32,0
-2,Vernon Canadians,1,0,1,OSHL,2,1958-59,33,0
-2,Kelowna Packers,3,0,4,Al-Cup,6,1959-60,34,1
-6,Vernon Canadians,6,0,7,OSHL,5,1960-61,35,1
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+3,Saskatoon Jr. Quakers,2,1942-43,3,5,6,17,0,N-SJHL
+2,Saskatoon Jr. Quakers,4,1942-43,8,6,12,17,0,M-Cup
+1,Hershey Bears,2,1943-44,7,3,6,18,0,AHL
+2,Kansas City Pla-Mors,2,1945-46,12,4,14,20,0,USHL
+9,Kansas City Pla-Mors,3,1946-47,12,12,9,21,0,USHL
+6,Kansas City Pla-Mors,2,1947-48,7,8,0,22,0,USHL
+0,Kansas City Pla-Mors,0,1948-49,2,0,0,23,0,USHL
+0,Kansas City Pla-Mors,2,1949-50,3,2,2,24,0,USHL
+2,Nelson Maple Leafs,1,1950-51,4,3,12,25,0,WIHL
+2,Nelson Maple Leafs,2,1951-52,3,4,5,26,0,WIHL
+2,Vernon Canadians,2,1952-53,5,4,20,27,0,OSHL
+3,Vernon Canadians,1,1953-54,5,4,4,28,0,OSHL
+4,Vernon Canadians,2,1954-55,5,6,2,29,0,OSHL
+13,Vernon Canadians,5,1954-55,17,18,16,29,0,Al-Cup
+3,Vernon Canadians,4,1955-56,8,7,32,30,0,OSHL
+16,Vernon Canadians,5,1955-56,13,21,10,30,0,Al-Cup
+6,Vernon Canadians,3,1956-57,12,9,26,31,0,OSHL
+4,Vernon Canadians,0,1957-58,8,4,16,32,0,OSHL
+1,Vernon Canadians,0,1958-59,2,1,2,33,0,OSHL
+3,Kelowna Packers,1,1959-60,6,4,2,34,0,Al-Cup
+6,Vernon Canadians,1,1960-61,5,7,6,35,0,OSHL

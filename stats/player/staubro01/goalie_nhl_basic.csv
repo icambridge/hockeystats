@@ -1,0 +1,7 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+-0.2,0,NHL,2,LAK,83,22,1,0,0,11,0,0,0,0,0,0,0,0,0,.744,1989-90,43,7.95,0,[],32
+5.4,0,NHL,31,LAK,1735,25,8,98,2,111,0,2.59,4,0,15,2,0,0,0,.888,1992-93,987,3.84,4,[],876
+4.6,0,NHL,22,LAK,1144,26,11,88,0,65,0,9.08,5,1,4,0,0,0,0,.908,1993-94,706,3.41,18,[],641
+0.2,0,NHL,7,TOT,333,27,3,0,0,22,0,0,0,0,2,0,0,0,0,.859,1994-95,156,3.96,0,[],134
+-0.1,0,NHL,1,LAK,16,27,0,0,0,2,0,0,0,0,0,0,0,0,0,.667,1994-95,6,7.50,0,[],4
+0.3,0,NHL,6,BUF,317,27,3,0,0,20,0,0,0,0,2,0,0,0,0,.867,1994-95,150,3.79,0,[],130

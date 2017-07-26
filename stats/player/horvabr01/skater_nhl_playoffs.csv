@@ -1,0 +1,5 @@
+even_strength_goals,assists,team,goals,pim,age,game_winning_goals,total_ice_time,league,shorthanded_goals,shots,average_ice_time,year,games_played,shotsPercentage,win,power_play_goals,points,plus_minus
+0,2,NYR,1,4,25,0,,NHL,0,0,,1955-56,5,0,,0,3,0
+0,3,BOS,5,8,27,0,,NHL,0,0,,1957-58,0,0,,0,8,0
+0,3,BOS,2,0,28,0,,NHL,0,0,,1958-59,7,0,,0,5,0
+0,1,CBH,4,6,31,0,,NHL,0,33,,1961-62,0,12.1,,0,5,-2

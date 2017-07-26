@@ -1,8 +1,8 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-36,1979-80,Sodertalje SK,5,0,21,9,13,8,Sweden-2
-31,1981-82,Indianapolis Checkers,5,0,23,8,6,1,CHL
-6,1987-88,Sodertalje SK,1,0,29,2,1,0,Sweden
-8,1988-89,Sodertalje SK,1,0,30,5,2,1,Sweden
-2,1989-90,Malmo IF,3,0,31,3,4,1,Sweden-2
-2,1990-91,Malmo IF,2,0,32,2,2,0,Sweden
-10,1991-92,Malmo IF,1,0,33,10,2,1,Sweden
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+5,Sodertalje SK,8,1979-80,9,13,36,21,0,Sweden-2
+5,Indianapolis Checkers,1,1981-82,8,6,31,23,0,CHL
+1,Sodertalje SK,0,1987-88,2,1,6,29,0,Sweden
+1,Sodertalje SK,1,1988-89,5,2,8,30,0,Sweden
+3,Malmo IF,1,1989-90,3,4,2,31,0,Sweden-2
+2,Malmo IF,0,1990-91,2,2,2,32,0,Sweden
+1,Malmo IF,1,1991-92,10,2,10,33,0,Sweden

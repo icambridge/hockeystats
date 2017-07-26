@@ -1,0 +1,40 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1981-82,16,1,2,1,0,AJHL,10,St. Albert Saints,2
+1982-83,17,6,55,26,0,WHL,59,Prince Albert Raiders,32
+1983-84,18,15,48,94,0,WHL,67,Prince Albert Raiders,109
+1984-85,19,17,94,71,0,WHL,68,Prince Albert Raiders,88
+1985-86,20,22,30,70,0,WHL,57,Prince Albert Raiders,92
+1985-86,20,1,2,1,0,WJC-A,7,Canada,2
+1986-87,21,7,38,35,0,AHL,76,Springfield Indians,42
+1987-88,22,15,41,48,0,IHL,57,Kalamazoo Wings,63
+1988-89,23,11,37,29,0,IHL,54,Kalamazoo Wings,40
+1989-90,24,2,8,7,0,W.Ger-2,8,ESV Kaufbeuren,9
+1990-91,25,3,6,7,0,IHL,14,Albany Choppers,10
+1990-91,25,2,29,22,0,AHL,48,Springfield Indians,24
+1991-92,26,5,8,16,0,Alpenliga,20,EC Villacher SV,21
+1991-92,26,4,0,31,0,Austria,26,EC VSV Villach,35
+1992-93,27,8,12,20,0,Alpenliga,29,EC Villacher SV,28
+1992-93,27,5,0,17,0,Austria,25,EC VSV Villach,22
+1993-94,28,7,20,27,0,Alpenliga,28,EC Villacher SV,34
+1993-94,28,4,0,23,0,Austria,23,EC VSV Villach,27
+1994-95,29,2,0,5,0,Euroliga,10,EC Villacher SV,7
+1994-95,29,2,18,11,0,Austria,13,EC VSV Villach,13
+1995-96,30,3,4,9,0,Alpenliga,8,EHC Lustenau,12
+1995-96,30,10,36,23,0,Austria,33,EHC Lustenau,33
+1996-97,31,8,34,16,0,Germany,44,Schwenninger Wild Wings,24
+1997-98,32,5,36,11,0,Germany,51,Schwenninger Wild Wings,16
+1998-99,33,3,26,12,0,Italy,22,SSI Vipiteno,15
+1998-99,33,1,0,1,0,Alpenliga,4,2 Teams,2
+1998-99,33,0,0,1,0,Alpenliga,2,EC Graz,1
+1998-99,33,1,0,0,0,Alpenliga,2,SSI Vipiteno,1
+1999-00,34,7,16,6,0,IEHL,27,Wiener EV,13
+1999-00,34,4,12,4,0,Austria,11,Vienna EV,8
+2000-01,35,21,54,40,0,Austria,49,Klagenfurter AC,61
+2001-02,36,4,16,8,0,Austria,17,Klagenfurter AC,12
+2002-03,37,13,65,20,0,Austria,47,Klagenfurter AC,33
+2003-04,38,5,26,31,0,Austria,37,Klagenfurter AC,36
+2004-05,39,8,34,16,0,Austria,37,Klagenfurter AC,24
+2004-05,39,0,4,0,2,Oly-Q,3,Austria,0
+2004-05,39,0,4,2,-3,WC-A,5,Austria,2
+2005-06,40,7,26,18,0,Austria,36,Klagenfurter AC,25
+2006-07,41,1,14,5,0,Austria,7,Klagenfurter AC,6

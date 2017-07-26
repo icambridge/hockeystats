@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1983-84,16,43,64,47,0,AMHL,42,Medicine Hat Cable Vision,90
+1983-84,16,0,0,0,0,WHL,3,Medicine Hat Tigers,0
+1984-85,17,42,63,40,0,WHL,71,Medicine Hat Tigers,82
+1985-86,18,46,46,60,0,WHL,72,Medicine Hat Tigers,106
+1986-87,19,56,58,46,0,WHL,69,Medicine Hat Tigers,102
+1987-88,20,53,55,58,0,WHL,62,Medicine Hat Tigers,111
+1987-88,20,1,4,2,0,WJC-A,7,Canada,3
+1988-89,21,43,53,38,0,AHL,75,Sherbrooke Canadiens,81
+1989-90,22,53,60,42,0,AHL,72,Sherbrooke Canadiens,95
+1990-91,23,2,2,0,0,Fr-Tour,4,Montreal Canadiens,2
+1993-94,26,52,37,45,0,AHL,62,Adirondack Red Wings,97
+1994-95,27,31,47,32,0,IHL,75,Kalamazoo Wings,63
+1995-96,28,28,52,32,0,Austria,34,EC VSV Villach,60
+1996-97,29,7,26,4,0,Sweden,30,Farjestads BK Karlstad,11
+1996-97,29,1,4,1,0,EuroHL,5,Farjestads BK Karlstad,2
+1996-97,29,7,4,3,0,Swiss,9,Zurcher SC,10
+1997-98,30,20,61,38,0,Germany,47,Hannover Scorpions,58
+1998-99,31,21,40,27,0,Germany,50,Krefeld Pinguine,48
+1999-00,32,20,80,17,0,Germany,44,Krefeld Pinguine,37
+2000-01,33,7,16,7,0,Germany,42,Adler Mannheim,14
+2001-02,34,18,32,10,0,Germany,54,Hannover Scorpions,28
+2002-03,35,39,34,33,20,WCHL,60,San Diego Gulls,72
+2003-04,36,44,38,37,15,ECHL,70,San Diego Gulls,81
+2004-05,37,13,34,21,-4,ECHL,48,San Diego Gulls,34

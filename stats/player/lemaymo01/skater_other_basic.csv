@@ -1,0 +1,29 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1978-79,16,54,55,82,0,Minor-ON,80,Ottawa South Canadians,136
+1979-80,17,16,20,23,0,OMJHL,62,Ottawa 67\'s,39
+1980-81,18,32,102,45,0,OMJHL,63,Ottawa 67\'s,77
+1981-82,19,68,48,70,0,OHL,62,Ottawa 67\'s,138
+1981-82,19,2,4,0,0,WJC-A,7,Canada,2
+1982-83,20,7,6,8,0,AHL,26,Fredericton Express,15
+1983-84,21,9,32,7,0,AHL,23,Fredericton Express,16
+1987-88,25,19,103,31,0,AHL,50,2 Teams,50
+1987-88,25,14,89,25,0,AHL,39,Nova Scotia Oilers,39
+1987-88,25,5,14,6,0,AHL,11,Maine Mariners,11
+1988-89,26,15,53,13,0,AHL,29,2 Teams,28
+1988-89,26,6,32,2,0,AHL,13,Maine Mariners,8
+1988-89,26,9,21,11,0,AHL,16,Moncton Hawks,20
+1989-90,27,9,26,5,0,Austria,16,Klagenfurter AC,14
+1989-90,27,0,0,3,0,Nat-Tm,4,Canada,3
+1989-90,27,19,34,20,0,Swiss,25,Zurcher SC,39
+1990-91,28,42,74,73,0,German-2,47,ECD Sauerland,115
+1991-92,29,30,72,47,0,German-2,37,ECD Sauerland,77
+1992-93,30,38,82,48,0,German-2,48,EC Hannover,86
+1993-94,31,14,95,15,0,German-2,30,EC Hannover,29
+1994-95,32,14,47,20,0,German-2,17,ETC Timmendorf,34
+1995-96,33,11,36,12,0,German-2,22,EC Bad Nauheim,23
+1996-97,34,8,60,9,0,German-2,41,EC Hannover Turtles,17
+1997-98,35,29,66,44,0,German-2,44,2 Teams,73
+1997-98,35,14,36,26,0,German-2,29,EC Bad Nauheim,40
+1997-98,35,15,30,18,0,German-2,15,Braunlager EHC/Harz,33
+1998-99,36,18,90,25,0,German-2,50,Braunlager EHC Harz,43
+1999-00,37,0,14,2,0,German-2,15,Hamburg Crocodiles,2

@@ -1,0 +1,4 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+30,NHL,46,3,18,12,175,93,27,20,1,643,BOS,25,29.4,[],10.8,8,17,12,10,5,0,2014-15,11,13:58,2,8,0,16
+51,NHL,51,2,19,3,174,108,26,52,1,711,BOS,35,0.0,[],13.9,15,11,3,15,0,0,2015-16,15,13:57,0,20,0,10
+65,NHL,75,6,20,1,465,262,70,72,14,1349,BOS,50,66.7,"[{'link': '/awards/voting-2017.html#AS', 'name': 'AS-8'}]",13.0,24,36,11,34,2,0,2016-17,32,17:59,10,34,0,22

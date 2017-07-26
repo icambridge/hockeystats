@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1970-07-02,", ",LW,Brett Harkins,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",LW,1970-07-02,Brett Harkins

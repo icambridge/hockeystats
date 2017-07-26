@@ -1,0 +1,13 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1998-99,18,20,18,50,0,High-MN,26,Hill-Murray Pioneers,70
+1999-00,19,24,19,34,0,USHL,57,Twin Cities Vulcans,58
+2000-01,20,10,36,24,0,WCHA,42,University of Minnesota,34
+2001-02,21,10,34,23,0,WCHA,44,University of Minnesota,33
+2002-03,22,9,26,31,0,WCHA,41,University of Minnesota,40
+2003-04,23,13,44,26,0,WCHA,44,University of Minnesota,39
+2004-05,24,7,22,8,-1,AHL,60,Bridgeport Sound Tigers,15
+2005-06,25,19,82,30,0,AHL,75,Bridgeport Sound Tigers,49
+2006-07,26,8,26,8,-15,AHL,51,3 Teams,16
+2006-07,26,0,0,0,-1,AHL,3,Bridgeport Sound Tigers,0
+2006-07,26,3,4,2,-2,AHL,11,Hershey Bears,5
+2006-07,26,5,22,6,-12,AHL,37,Binghamton Senators,11

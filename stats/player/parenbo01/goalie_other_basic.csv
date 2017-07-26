@@ -1,0 +1,16 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OMJHL,9,Windsor Spitfires,377,17,4,0,0,53,0,0,0,0,5,0,0,0,0,0,1975-76,0,8.44,0,0
+0,OMJHL,39,Windsor Spitfires,1689,18,0,0,0,161,0,0,0,0,0,0,0,0,0,0,1976-77,0,5.72,0,0
+0,OMJHL,59,2 Teams,3452,19,0,0,0,219,0,0,0,1,0,0,0,0,0,0,1977-78,0,3.81,0,0
+0,OMJHL,11,Windsor Spitfires,604,19,0,0,0,37,0,0,0,0,0,0,0,0,0,0,1977-78,0,3.68,0,0
+0,OMJHL,48,Kitchener Rangers,2848,19,0,0,0,182,0,0,0,1,0,0,0,0,0,0,1977-78,0,3.83,0,0
+0,IHL,26,2 Teams,1226,20,0,0,0,83,0,0,0,0,0,0,0,0,0,0,1978-79,0,4.06,0,0
+0,IHL,2,Saginaw Gears,49,20,0,0,0,10,0,0,0,0,0,0,0,0,0,0,1978-79,0,12.24,0,0
+0,IHL,24,Port Huron Flags,1177,20,0,0,0,73,0,0,0,0,0,0,0,0,0,0,1978-79,0,3.72,0,0
+0,IHL,37,Port Huron Flags,2212,21,0,0,0,137,0,0,0,0,0,0,0,0,0,0,1979-80,0,3.72,0,0
+0,EHL,46,Hampton Aces,2536,22,0,0,0,200,0,0,0,1,0,0,0,0,0,0,1980-81,0,4.73,0,0
+0,AHL,2,New Brunswick Hawks,80,22,2,0,0,5,0,0,0,0,0,0,0,0,0,0,1980-81,0,3.75,0,0
+0,CHL,65,Cincinnati Tigers,3680,23,24,0,0,252,0,0,3,2,34,0,0,0,0,0,1981-82,0,4.11,0,0
+0,AHL,46,St. Catharines Saints,2485,24,20,0,0,180,0,0,3,1,18,0,0,0,0,0,1982-83,0,4.35,0,0
+0,AHL,18,St. Catharines Saints,900,25,11,0,0,73,0,0,0,0,6,0,0,0,0,0,1983-84,0,4.87,0,0
+0,IHL,35,Muskegon Mohawks,2063,25,0,0,0,185,0,0,0,0,0,0,0,0,0,0,1983-84,0,5.38,0,0

@@ -1,2 +1,2 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1923-24,Boston A.A. Unicorns,0,0,24,1,0,0,USAHA
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Boston A.A. Unicorns,0,1923-24,1,0,0,24,0,USAHA

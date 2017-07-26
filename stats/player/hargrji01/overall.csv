@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1950-05-02,", ",D,Jim Hargreaves,R
+handed,heigh_and_weight,position,date_of_birth,name
+R,", ",D,1950-05-02,Jim Hargreaves

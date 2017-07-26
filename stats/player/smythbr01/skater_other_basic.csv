@@ -1,0 +1,31 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1989-90,16,53,105,36,0,Minor-ON,55,Nepean Midget Raiders,89
+1990-91,17,2,22,6,0,OHL,29,London Knights,8
+1991-92,18,17,93,18,0,OHL,58,London Knights,35
+1992-93,19,54,118,55,0,OHL,66,London Knights,109
+1993-94,20,7,54,3,0,IHL,30,Cincinnati Cyclones,10
+1993-94,20,26,38,30,0,ECHL,29,Birmingham Bulls,56
+1994-95,21,0,7,0,0,AHL,3,Springfield Indians,0
+1994-95,21,33,52,35,0,ECHL,36,Birmingham Bulls,68
+1994-95,21,2,34,11,0,IHL,26,Cincinnati Cyclones,13
+1995-96,22,68,80,58,0,AHL,68,Carolina Panthers,126
+1996-97,23,5,0,2,0,IHL,3,Phoenix Roadrunners,7
+1997-98,24,29,79,33,10,AHL,57,Hartford Wolf Pack,62
+1998-99,25,11,21,16,-15,IHL,34,Milwaukee Admirals,27
+1998-99,25,25,48,19,-1,AHL,36,Hartford Wolf Pack,44
+1999-00,26,39,62,37,8,AHL,80,Hartford Wolf Pack,76
+2000-01,27,50,110,29,4,AHL,77,Hartford Wolf Pack,79
+2001-02,28,34,90,48,8,AHL,79,Hartford Wolf Pack,82
+2002-03,29,24,77,32,-3,AHL,69,Binghamton Senators,56
+2003-04,30,20,85,18,0,Finland,48,Karpat Oulu,38
+2004-05,31,23,74,33,20,AHL,61,Manchester Monarchs,56
+2005-06,32,34,69,52,24,AHL,80,2 Teams,86
+2005-06,32,27,49,37,16,AHL,64,Manchester Monarchs,64
+2005-06,32,7,20,15,8,AHL,16,Hartford Wolf Pack,22
+2006-07,33,23,58,36,0,Germany,52,Hamburg Freezers,59
+2007-08,34,27,52,30,0,Germany,56,Hamburg Freezers,57
+2008-09,35,6,22,9,0,Germany,25,Hamburg Freezers,15
+2009-10,36,18,40,19,0,Austria,44,Medvescak Zagreb,37
+2010-11,37,7,12,10,0,Britain,17,Belfast Giants,17
+2010-11,37,9,12,6,0,Italy,16,HC Fassa,15
+2011-12,38,8,38,17,0,France,26,HC Morzine-Avoriaz,25

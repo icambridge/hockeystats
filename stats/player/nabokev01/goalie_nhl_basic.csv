@@ -1,0 +1,15 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+1.1,0,NHL,11,SJS,414,24,2,0,0,15,0,0,1,1,2,0,0,0,0,.910,1999-00,166,2.17,0,[],151
+11.7,0,NHL,66,SJS,3700,25,21,88,2,135,0,18.04,7,6,32,2,0,0,0,.915,2000-01,1582,2.19,8,"[{'link': '/awards/voting-2001.html#AS', 'name': 'AS-6'}, {'link': '/awards/calder.html#2001', 'name': None}, {'link': '/awards/voting-2001.html#hart', 'name': 'Hart-18'}, {'link': '/awards/voting-2001.html#vezina', 'name': 'Vezina-4'}]",1447
+13.3,0,NHL,67,SJS,3901,26,24,89,4,149,0,18.71,5,7,37,3,0,1,0,.918,2001-02,1818,2.29,14,"[{'link': '/awards/voting-2002.html#AS', 'name': 'AS-8'}, {'link': '/awards/voting-2002.html#vezina', 'name': 'Vezina-4'}]",1669
+9.1,0,NHL,55,SJS,3227,27,28,103,0,146,0,-3.70,8,3,19,0,0,0,0,.906,2002-03,1561,2.71,10,[],1415
+11.8,0,NHL,59,SJS,3456,28,19,89,0,127,0,16.38,8,9,31,0,0,0,0,.921,2003-04,1610,2.20,14,"[{'link': '/awards/voting-2004.html#AS', 'name': 'AS-7'}, {'link': '/awards/voting-2004.html#hart', 'name': 'Hart-23'}, {'link': '/awards/voting-2004.html#vezina', 'name': 'Vezina-6'}]",1483
+5.1,0,NHL,45,SJS,2575,30,19,116,1,133,0,-18.47,7,1,16,1,0,0,0,.885,2005-06,1160,3.10,18,[],1027
+8.6,0,NHL,50,SJS,2778,31,16,91,0,106,0,10.27,4,7,25,0,0,0,0,.914,2006-07,1227,2.29,6,[],1121
+11.2,11,NHL,0,SJS,4561,32,21,100,2,163,76,0.70,8,6,0,2,.618,0,47,.910,2007-08,1802,2.14,12,"[{'link': '/awards/nhl_all_star.html#2008', 'name': None}, {'link': '/awards/voting-2008.html#hart', 'name': 'Hart-7'}, {'link': '/awards/voting-2008.html#vezina', 'name': 'Vezina-2'}]",1639
+10.2,12,NHL,62,SJS,3686,33,12,99,1,150,62,2.18,8,7,41,1,.613,0,38,.910,2008-09,1663,2.44,12,"[{'link': '/awards/voting-2009.html#AS', 'name': 'AS-5'}, {'link': '/awards/voting-2009.html#hart', 'name': 'Hart-16'}, {'link': '/awards/voting-2009.html#vezina', 'name': 'Vezina-5'}]",1513
+15.6,11,NHL,71,SJS,4194,34,16,88,0,170,71,22.37,10,3,44,0,.634,0,45,.922,2009-10,2168,2.43,6,"[{'link': '/awards/voting-2010.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-2010.html#hart', 'name': 'Hart-23'}, {'link': '/awards/voting-2010.html#vezina', 'name': 'Vezina-4'}]",1998
+7.2,8,NHL,42,NYI,2378,36,18,100,0,101,41,0.33,3,2,19,0,.561,0,23,.914,2011-12,1172,2.55,6,[],1071
+6.7,5,NHL,41,NYI,2475,37,11,103,4,103,41,-2.68,7,3,23,4,.488,0,20,.910,2012-13,1139,2.50,6,"[{'link': '/awards/voting-2013.html#AS', 'name': 'AS-8'}, {'link': '/awards/voting-2013.html#hart', 'name': 'Hart-14'}]",1036
+5.4,8,NHL,40,NYI,2254,38,14,110,1,103,39,-9.51,8,4,15,1,.410,0,16,.905,2013-14,1085,2.74,4,[],982
+0.5,2,NHL,11,TBL,553,39,6,0,1,29,9,0,2,0,3,1,.556,0,5,.882,2014-15,245,3.15,2,[],216

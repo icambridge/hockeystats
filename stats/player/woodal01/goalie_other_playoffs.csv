@@ -1,0 +1,14 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,M-Cup,6,Regina Pats,360,18,1,0,0,14,0,0,2,0,3,0,0,0,0,0,1928-29,0,2.33,0,0
+0,S-SJHL,2,Regina Jr. Aces,120,19,2,0,0,4,0,0,0,0,0,0,0,0,0,0,1929-30,0,2.00,0,0
+0,IHL,2,Cleveland Indians,130,20,0,0,0,6,0,0,0,0,2,0,0,0,0,0,1930-31,0,2.77,0,0
+0,Can-Am,2,Philadelphia Arrows,120,23,2,0,0,6,0,0,0,0,0,0,0,0,0,0,1933-34,0,3.00,0,0
+0,IHL,5,Buffalo Bisons,310,25,4,0,0,7,0,0,0,1,1,0,0,0,0,0,1935-36,0,1.35,0,0
+0,AHA,7,Minneapolis Millers,425,27,4,0,0,9,0,0,0,1,3,0,0,0,0,0,1937-38,0,1.27,0,0
+0,AHA,4,Minneapolis Millers,255,28,2,0,0,8,0,0,0,1,2,0,0,0,0,0,1938-39,0,1.88,0,0
+0,AHA,3,Minneapolis Millers,180,29,3,0,0,14,0,0,0,0,0,0,0,0,0,0,1939-40,0,4.67,0,0
+0,AHA,7,St. Louis Flyers,474,30,1,0,0,14,0,0,0,1,6,0,0,0,0,0,1940-41,0,1.77,0,0
+0,AHA,3,St. Louis Flyers,180,31,3,0,0,11,0,0,0,0,0,0,0,0,0,0,1941-42,0,3.67,0,0
+0,OCHL,4,Hull Volants,240,32,0,0,0,19,0,0,0,0,0,0,0,0,0,0,1942-43,0,4.75,0,0
+0,OCHL,8,Hull Volants,480,33,2,0,0,29,0,0,0,1,6,0,0,0,0,0,1943-44,0,3.62,0,0
+0,QSHL,2,Hull Volants,120,34,0,0,0,8,0,0,0,0,0,0,0,0,0,0,1944-45,0,4.00,0,0

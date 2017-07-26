@@ -1,0 +1,11 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,15,0,17,0,4,0,,NYR,[],0,0,2,0,2,0,1943-44,,0,2,0,0
+NHL,52,0,21,0,33,0,,NYR,[],0,0,18,0,15,0,1947-48,,0,2,0,0
+NHL,41,0,22,0,26,0,,NYR,[],0,0,16,0,10,0,1948-49,,0,8,0,0
+NHL,70,0,23,0,37,0,,NYR,[],0,0,25,0,12,0,1949-50,,0,11,0,0
+NHL,64,0,24,0,39,0,,NYR,[],0,0,24,0,15,0,1950-51,,0,18,0,0
+NHL,0,0,25,0,61,0,,NYR,"[{'link': '/awards/voting-1952.html#byng', 'name': 'Byng-3'}]",0,0,42,0,19,0,1951-52,,0,14,0,0
+NHL,55,0,26,0,22,0,,NYR,[],0,0,18,0,4,0,1952-53,,0,2,0,0
+NHL,70,0,27,0,45,0,,NYR,"[{'link': '/awards/voting-1954.html#byng', 'name': 'Byng-2'}]",0,0,30,0,15,0,1953-54,,0,16,0,0
+NHL,69,0,28,0,40,0,,NYR,"[{'link': '/awards/voting-1955.html#byng', 'name': 'Byng-4'}]",0,0,32,0,8,0,1954-55,,0,19,0,0
+NHL,29,0,29,0,13,0,,NYR,[],0,0,12,0,1,0,1955-56,,0,4,0,0

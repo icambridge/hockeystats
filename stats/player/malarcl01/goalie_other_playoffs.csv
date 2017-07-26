@@ -1,0 +1,7 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WHL,1,Portland Winter Hawks,40,18,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1979-80,0,4.50,0,0
+0,WHL,5,Portland Winter Hawks,307,19,2,0,0,21,0,0,0,0,3,0,0,0,0,0,1980-81,0,4.10,0,0
+0,AHL,6,Fredericton Express,379,23,4,0,0,20,0,0,0,0,2,0,0,0,0,0,1984-85,0,3.17,0,0
+0,IHL,12,San Diego Gulls,668,31,4,0,0,34,0,0,0,0,6,0,0,0,0,0,1992-93,0,3.05,0,0
+0,IHL,5,Las Vegas Thunder,257,32,3,0,0,16,0,0,0,0,1,0,0,0,0,0,1993-94,0,3.74,0,0
+0,IHL,2,Las Vegas Thunder,32,33,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1994-95,0,3.75,0,0

@@ -1,0 +1,7 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WHL,5,Medicine Hat Tigers,339,18,4,0,0,18,0,0,0,0,1,0,0,0,0,0,1994-95,0,3.19,0,0
+0,WHL,5,Medicine Hat Tigers,251,19,4,0,0,25,0,0,0,0,1,0,0,0,0,0,1995-96,0,5.98,0,0
+0,ECHL,7,Charlotte Checkers,428,21,4,0,0,21,0,0,0,0,3,0,0,0,0,0,1997-98,0,2.94,0,0
+0,ECHL,2,Pee Dee Pride,98,23,1,0,0,8,0,0,0,0,0,0,0,0,0,.833,1999-00,48,4.90,0,40
+0,ECHL,2,Baton Rouge Kingfish,118,24,2,0,0,8,0,0,0,0,0,0,0,0,0,.895,2000-01,76,4.07,0,68
+0,UHL,3,Missouri River Otters,205,26,3,0,0,13,0,0,0,0,0,0,0,0,0,.886,2002-03,114,3.80,0,101

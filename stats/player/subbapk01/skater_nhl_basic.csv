@@ -1,0 +1,9 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+3,NHL,2,0,20,0,9,4,2,1,1,40,MTL,2,0,[],0.0,0,2,1,0,0,0,2009-10,2,20:06,0,2,0,1
+56,NHL,77,3,21,0,390,197,38,110,9,1715,MTL,37,0,"[{'link': '/awards/voting-2011.html#calder', 'name': 'Calder-6'}]",7.1,5,24,-8,14,0,0,2010-11,106,22:16,9,124,0,15
+88,NHL,81,0,22,0,400,205,36,105,9,1968,MTL,26,0,[],3.4,2,29,9,7,0,0,2011-12,113,24:18,5,119,1,19
+42,NHL,42,0,23,0,247,126,38,51,19,976,MTL,10,0,"[{'link': '/awards/nhl_all_star.html#2013', 'name': None}, {'link': '/awards/voting-2013.html#hart', 'name': 'Hart-13'}, {'link': '/awards/norris.html#2013', 'name': None}]",8.7,4,27,12,11,0,0,2012-13,49,23:15,7,57,0,8
+83,NHL,82,1,24,0,413,204,53,135,19,2019,MTL,26,0,"[{'link': '/awards/voting-2014.html#AS', 'name': 'AS-13'}, {'link': '/awards/voting-2014.html#norris', 'name': 'Norris-14'}]",4.9,6,43,-4,10,0,0,2013-14,125,24:37,4,81,0,24
+112,NHL,82,5,25,0,383,170,60,97,13,2149,MTL,29,0,"[{'link': '/awards/nhl_all_star.html#2015', 'name': None}, {'link': '/awards/voting-2015.html#hart', 'name': 'Hart-16'}, {'link': '/awards/voting-2015.html#norris', 'name': 'Norris-3'}]",8.8,7,45,21,15,0,0,2014-15,142,26:12,8,74,0,32
+106,NHL,68,0,26,0,375,176,51,102,22,1793,MTL,23,0,"[{'link': '/awards/voting-2016.html#AS', 'name': 'AS-18'}, {'link': '/awards/voting-2016.html#norris', 'name': 'Norris-14'}]",3.4,4,45,4,6,0,0,2015-16,80,26:22,2,75,0,23
+58,NHL,66,2,27,0,294,142,40,78,13,1611,NSH,30,0,"[{'link': '/awards/voting-2017.html#AS', 'name': 'AS-22'}]",7.0,7,30,-8,10,0,0,2016-17,104,24:24,3,44,1,16

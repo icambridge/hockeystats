@@ -1,0 +1,16 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,23,0,20,30,6,0,,BOS,[],6.7,2,4,7,2,0,1970-71,,0,0,0,4
+NHL,73,3,21,104,33,1,,TOT,[],12.5,11,20,7,13,0,1971-72,,2,19,0,19
+NHL,56,2,21,66,20,0,,BOS,[],10.6,7,13,5,7,0,1971-72,,0,12,0,13
+NHL,17,1,21,38,13,1,,CGS,[],15.8,4,7,2,6,0,1971-72,,2,7,0,6
+NHL,76,4,22,184,35,3,,CGS,[],12.5,20,12,-41,23,0,1972-73,,3,45,0,9
+NHL,0,3,23,214,46,6,,CGS,[],10.3,20,24,-61,22,0,1973-74,,2,34,0,18
+NHL,0,10,24,289,78,9,,PHI,"[{'link': '/awards/voting-1975.html#AS', 'name': 'AS-4'}]",15.6,33,33,53,45,0,1974-75,,12,63,0,24
+NHL,0,11,25,335,91,11,,PHI,"[{'link': '/awards/nhl_all_star.html#1976', 'name': None}, {'link': '/awards/smythe.html#1976', 'name': None}]",18.2,0,30,73,0,0,1975-76,,10,41,0,19
+NHL,77,3,26,237,46,3,,PHI,[],13.5,22,14,6,32,0,1976-77,,10,23,0,11
+NHL,72,4,27,195,52,7,,PHI,[],12.3,15,28,20,24,0,1977-78,,9,24,0,21
+NHL,76,6,28,279,54,6,,PHI,"[{'link': '/awards/voting-1979.html#selke', 'name': 'Selke-15'}]",12.2,21,20,-3,34,0,1978-79,,13,20,0,14
+NHL,76,7,29,328,76,4,,PHI,"[{'link': '/awards/voting-1980.html#AS', 'name': 'AS-7'}]",15.2,0,26,40,50,0,1979-80,,5,28,1,21
+NHL,79,2,30,321,70,12,,PHI,[],10.6,18,36,21,34,1,1980-81,,15,59,1,23
+NHL,66,5,31,211,47,6,,PHI,[],12.3,21,21,2,26,0,1981-82,,5,18,0,15
+NHL,78,0,32,139,32,1,,DET,[],10.8,13,17,-1,15,0,1982-83,,2,13,1,15

@@ -1,0 +1,20 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,H-East,7,Boston College Eagles,312,18,0,0,0,18,0,0,1,0,4,0,0,0,0,0,1985-86,0,3.46,0,0
+0,H-East,21,Boston College Eagles,1182,19,5,0,0,68,0,0,0,0,15,0,0,0,0,0,1986-87,0,3.45,0,0
+0,H-East,30,Boston College Eagles,1726,20,16,0,0,116,0,0,2,0,11,0,0,0,0,0,1987-88,0,4.03,0,0
+0,H-East,32,Boston College Eagles,1945,21,9,0,0,107,0,0,4,0,19,0,0,0,0,0,1988-89,0,3.30,0,0
+0,AHL,14,Rochester Americans,681,22,6,0,0,37,0,0,1,0,5,0,0,0,0,0,1989-90,0,3.26,0,0
+0,IHL,18,Phoenix Roadrunners,1047,22,7,0,0,64,0,0,2,0,8,0,0,0,0,0,1989-90,0,3.67,0,0
+0,AHL,56,Rochester Americans,3155,23,13,0,0,160,0,0,5,3,33,0,0,0,0,0,1990-91,0,3.04,0,0
+0,AHL,60,Rochester Americans,3498,24,20,0,0,172,0,0,9,3,28,0,0,0,0,0,1991-92,0,2.95,0,0
+0,IHL,44,Atlanta Knights,2390,25,12,0,0,134,0,0,4,0,23,0,0,0,0,0,1992-93,0,3.36,0,0
+0,WC-A,1,United States,45,26,1,0,0,6,0,0,0,0,0,0,0,0,0,0,1993-94,0,8.00,0,0
+0,AHL,41,2 Teams,2257,26,18,0,0,146,0,0,3,0,18,0,0,0,0,0,1993-94,0,3.88,0,0
+0,AHL,25,Providence Bruins,1385,26,11,0,0,83,0,0,3,0,10,0,0,0,0,0,1993-94,0,3.60,0,0
+0,AHL,16,Fredericton Canadiens,872,26,7,0,0,63,0,0,0,0,8,0,0,0,0,0,1993-94,0,4.33,0,0
+0,ECHL,8,Richmond Renegades,346,27,2,0,0,13,0,0,0,1,4,0,0,0,0,.910,1994-95,144,2.25,0,131
+0,IHL,43,Los Angeles Ice Dogs,2245,28,16,0,0,145,0,0,5,1,17,0,0,0,0,.871,1995-96,1124,3.88,0,979
+0,IHL,45,San Antonio Dragons,2437,29,16,0,0,138,0,0,5,2,20,0,0,0,0,.901,1996-97,1395,3.40,0,1257
+0,IHL,44,Orlando Solar Bears,2303,30,13,0,0,102,0,0,6,0,21,0,0,0,0,.914,1997-98,1184,2.66,0,1082
+0,IHL,55,Orlando Solar Bears,2981,31,17,0,1,144,0,0,1,2,32,1,0,0,0,.900,1998-99,1442,2.90,21,1298
+0,IHL,2,Orlando Solar Bears,119,32,1,0,0,7,0,0,0,0,1,0,0,0,0,.879,1999-00,58,3.53,0,51

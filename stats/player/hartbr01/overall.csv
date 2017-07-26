@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1993-11-25, ,RW,Brian Hart,R
+handed,heigh_and_weight,position,date_of_birth,name
+R, ,RW,1993-11-25,Brian Hart

@@ -1,0 +1,11 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,Swe-Jr.,2,Djurgardens IF Stockholm Jr.,120,18,2,0,0,8,0,0,0,0,0,0,0,0,0,0,1997-98,0,4.00,0,0
+0,Sweden,4,Djurgardens IF Stockholm,240,19,0,0,0,11,0,0,0,0,0,0,0,0,0,0,1998-99,0,2.75,0,0
+0,Sweden,13,Djurgardens IF Stockholm,814,20,0,0,0,21,0,0,0,3,0,0,0,0,0,0,1999-00,0,1.55,0,0
+0,Sweden,16,Djurgardens IF Stockholm,1006,21,0,0,0,45,0,0,0,1,0,0,0,0,0,0,2000-01,0,2.68,2,0
+0,AHL,1,St. John\'s Maple Leafs,15,22,0,0,0,0,0,0,0,0,1,0,0,0,0,1.000,2001-02,7,0.00,0,7
+0,AHL,5,St. John\'s Maple Leafs,253,25,4,0,2,15,0,0,0,0,1,2,0,0,0,.899,2004-05,148,3.56,0,133
+0,Finland,4,Lukko Rauma,236,30,4,0,0,12,0,0,0,0,0,0,0,0,0,0,2009-10,0,3.05,0,0
+0,KHL,6,Dynamo Riga,296,31,0,0,0,15,0,0,0,0,0,0,0,0,0,0,2010-11,0,3.04,2,0
+0,Sweden,6,MODO Hockey Ornskoldsvik,361,32,0,0,0,12,0,0,0,1,0,0,0,0,0,0,2011-12,0,1.99,0,0
+0,KHL,11,Dynamo Riga,671,33,2,0,0,22,0,0,0,2,9,0,0,0,0,0,2012-13,0,1.97,0,0

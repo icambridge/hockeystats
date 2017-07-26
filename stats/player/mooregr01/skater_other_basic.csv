@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1999-00,15,32,0,40,0,High-ME,31,St. Dominic Saints,72
+2000-01,16,4,1,6,0,U-17,13,U.S. National Team Development Program,10
+2000-01,16,8,22,12,0,NAHL,56,U.S. National Team Development Program,20
+2001-02,17,8,14,20,0,U-18,35,U.S. National Team Development Program,28
+2001-02,17,2,4,2,0,USHL,12,U.S. National Team Development Program,4
+2001-02,17,3,2,2,0,NAHL,6,U.S. National Team Development Program,5
+2001-02,17,4,4,4,9,WJ18-A,8,United States,8
+2002-03,18,9,10,7,0,H-East,33,University of Maine,16
+2002-03,18,0,0,0,-3,WJC-A,7,United States,0
+2003-04,19,15,44,8,0,H-East,39,University of Maine,23
+2003-04,19,0,2,3,5,WJC-A,6,United States,3
+2004-05,20,14,16,9,0,H-East,40,University of Maine,23
+2005-06,21,28,47,17,0,H-East,42,University of Maine,45
+2005-06,21,1,2,1,4,AHL,2,Hartford Wolf Pack,2
+2006-07,22,8,41,17,-3,AHL,79,Hartford Wolf Pack,25
+2007-08,23,26,31,40,27,AHL,72,Hartford Wolf Pack,66
+2008-09,24,23,28,16,-7,AHL,71,Hartford Wolf Pack,39
+2009-10,25,19,38,22,-15,AHL,78,2 Teams,41
+2009-10,25,14,28,17,-15,AHL,62,Bridgeport Sound Tigers,31
+2009-10,25,5,10,5,0,AHL,16,Syracuse Crunch,10
+2010-11,26,9,22,15,-20,AHL,75,2 Teams,24
+2010-11,26,7,18,13,-16,AHL,57,Adirondack Phantoms,20
+2010-11,26,2,4,2,-4,AHL,18,Springfield Falcons,4
+2011-12,27,20,20,10,-3,Germany,52,Augsburger Panther,30

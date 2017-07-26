@@ -1,0 +1,11 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2002-03,16,3,54,6,4,QMJHL,55,Quebec Remparts,9
+2003-04,17,11,111,16,-14,QMJHL,69,Quebec Remparts,27
+2004-05,18,40,108,26,28,QMJHL,64,Quebec Remparts,66
+2005-06,19,18,34,19,5,QMJHL,37,Quebec Remparts,37
+2006-07,20,16,90,18,-1,AHL,79,Chicago Wolves,34
+2007-08,21,20,73,22,0,AHL,76,Chicago Wolves,42
+2008-09,22,19,94,12,-14,AHL,64,Chicago Wolves,31
+2009-10,23,10,75,22,-1,AHL,78,Syracuse Crunch,32
+2010-11,24,14,68,12,-2,AHL,71,Providence Bruins,26
+2011-12,25,31,73,29,0,Denmark,39,Esbjerg IK,60

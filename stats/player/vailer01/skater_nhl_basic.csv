@@ -1,0 +1,12 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,23,1,20,44,11,2,,ATF,[],4.5,0,9,2,2,0,1973-74,,2,30,0,7
+NHL,72,4,21,177,60,6,,ATF,"[{'link': '/awards/voting-1975.html#AS', 'name': 'AS-9'}, {'link': '/awards/calder.html#1975', 'name': None}]",22.0,33,21,1,39,0,1974-75,,6,46,0,15
+NHL,60,1,22,127,47,9,,ATF,[],12.6,14,31,7,16,0,1975-76,,2,34,0,22
+NHL,78,3,23,208,71,8,,ATF,"[{'link': '/awards/voting-1977.html#AS', 'name': 'AS-3'}]",15.4,19,39,9,32,1,1976-77,,12,22,1,30
+NHL,79,6,24,178,58,13,,ATF,[],12.4,14,36,3,22,0,1977-78,,8,16,0,23
+NHL,0,5,25,203,83,12,,ATF,"[{'link': '/awards/voting-1979.html#AS', 'name': 'AS-10'}]",17.2,29,48,25,35,1,1978-79,,5,53,0,36
+NHL,77,3,26,193,53,6,,ATF,[],14.5,22,25,5,28,0,1979-80,,6,22,0,19
+NHL,64,6,27,164,64,6,,CGY,[],17.1,16,36,8,28,0,1980-81,,12,23,1,29
+NHL,58,0,28,94,29,7,,TOT,[],14.9,10,15,-22,14,0,1981-82,,4,35,0,8
+NHL,6,0,28,8,5,1,,CGY,[],50.0,3,1,-1,4,0,1981-82,,1,0,0,0
+NHL,52,0,28,86,24,6,,DET,[],11.6,7,14,-21,10,0,1981-82,,3,35,0,8

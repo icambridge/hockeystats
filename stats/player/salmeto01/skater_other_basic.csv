@@ -1,0 +1,33 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1996-97,15,8,38,5,0,Fin-U18,30,Kiekko-Espoo U18,13
+1997-98,16,0,0,0,0,Fin-Jr.,5,HIFK Helsinki Jr.,0
+1997-98,16,1,0,1,0,EJC-A,6,Finland,2
+1997-98,16,25,40,18,0,Fin-U18,33,2 Teams,43
+1997-98,16,2,10,2,0,Fin-U18,5,Kiekko-Espoo U18,4
+1997-98,16,23,30,16,0,Fin-U18,28,HIFK Helsinki U18,39
+1998-99,17,5,16,4,0,Fin-U18,6,HIFK Helsinki U18,9
+1998-99,17,23,55,18,0,Fin-Jr.,31,HIFK Helsinki Jr.,41
+1998-99,17,1,8,2,0,WJ18-A,6,Finland,3
+1999-00,18,0,0,1,0,Fin-Jr.,1,HIFK Helsinki Jr.,1
+1999-00,18,1,0,0,0,Finland,1,HIFK Helsinki,1
+1999-00,18,0,0,0,0,EuroHL,1,HIFK Helsinki,0
+2000-01,19,3,6,2,4,WJC-A,7,Finland,5
+2000-01,19,4,10,10,0,Finland,45,2 Teams,14
+2000-01,19,4,2,5,0,Fin-Jr.,6,2 Teams,9
+2000-01,19,3,0,3,0,Fin-Jr.,3,HIFK Helsinki Jr.,6
+2000-01,19,1,6,0,0,Finland,19,HIFK Helsinki,1
+2000-01,19,1,2,2,0,Fin-Jr.,3,Ilves Tampere Jr.,3
+2000-01,19,3,4,10,0,Finland,26,Ilves Tampere,13
+2001-02,20,6,0,0,0,Fin-Jr.,2,Ilves Tampere Jr.,6
+2001-02,20,10,32,9,0,Finland,49,Ilves Tampere,19
+2002-03,21,14,14,19,17,AHL,67,Hamilton Bulldogs,33
+2003-04,22,19,27,25,11,AHL,58,Toronto Roadrunners,44
+2004-05,23,22,26,24,9,AHL,76,Edmonton Roadrunners,46
+2005-06,24,27,63,28,0,Finland,53,HIFK Helsinki,55
+2007-08,26,2,0,0,1,AHL,2,Toronto Marlies,2
+2007-08,26,3,2,4,0,Russia,29,Lokomotiv Yaroslavl,7
+2008-09,27,16,28,12,0,Swiss,29,HC Geneve-Servette,28
+2009-10,28,25,14,28,0,Swiss,50,HC Geneve-Servette,53
+2010-11,29,10,34,11,0,Swiss,43,HC Geneve-Servette,21
+2011-12,30,9,6,14,0,Swiss,30,HC Geneve-Servette,23
+2012-13,31,1,4,3,0,Swiss,7,HC Geneve-Servette,4

@@ -1,0 +1,38 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1979-80,16,56,94,77,0,SJHL,57,Regina Capitals,133
+1979-80,16,1,2,4,0,WHL,10,Regina Pats,5
+1980-81,17,50,141,44,0,WHL,71,2 Teams,94
+1980-81,17,1,2,2,0,WHL,4,Regina Pats,3
+1980-81,17,49,139,42,0,WHL,67,Billings Bighorns,91
+1981-82,18,93,142,66,0,WHL,71,Billings Bighorns,159
+1982-83,19,76,126,56,0,WHL,72,Nanaimo Islanders,132
+1982-83,19,1,10,1,0,AHL,5,Hershey Bears,2
+1983-84,20,40,108,36,0,AHL,79,Hershey Bears,76
+1984-85,21,32,26,21,0,AHL,57,Binghamton Whalers,53
+1985-86,22,14,20,13,0,AHL,38,Baltimore Skipjacks,27
+1986-87,23,18,37,19,0,AHL,45,Baltimore Skipjacks,37
+1986-87,23,13,6,15,0,IHL,18,Muskegon Lumberjacks,28
+1987-88,24,34,52,18,0,Austria,34,Klagenfurter AC,52
+1987-88,24,11,28,13,0,AHL,30,Springfield Indians,24
+1988-89,25,28,0,24,0,Austria,44,Klagenfurter AC,52
+1989-90,26,35,90,46,0,IHL,77,Phoenix Roadrunners,81
+1990-91,27,2,0,1,0,ECHL,4,Nashville Knights,3
+1990-91,27,11,10,7,0,IHL,29,3 Teams,18
+1990-91,27,9,4,3,0,IHL,12,Albany Choppers,12
+1990-91,27,0,2,0,0,IHL,7,Kalamazoo Wings,0
+1990-91,27,2,4,4,0,IHL,10,San Diego Gulls,6
+1991-92,28,15,20,9,0,Britain,12,Bracknell Bees,24
+1991-92,28,0,0,1,0,ColHL,2,Thunder Bay Thunder Hawks,1
+1991-92,28,16,34,12,0,ECHL,24,Richmond Renegades,28
+1992-93,29,17,36,14,0,SunHL,19,St. Petersburg Renegades,31
+1992-93,29,14,66,27,0,ECHL,39,Richmond Renegades,41
+1993-94,30,10,10,8,0,ECHL,26,Richmond Renegades,18
+1993-94,30,21,24,16,0,CHL,28,Dallas Freeze,37
+1994-95,31,50,38,50,0,CHL,66,Dallas Freeze,100
+1995-96,32,4,4,10,0,WCHL,15,Reno Renegades,14
+1995-96,32,11,16,20,0,CHL,31,Wichita Thunder,31
+1996-97,33,6,4,20,0,CHL,21,Wichita Thunder,26
+1997-98,34,38,78,39,-5,CHL,68,Wichita Thunder,77
+1998-99,35,18,24,22,4,CHL,27,Wichita Thunder,40
+1999-00,36,12,30,13,3,CHL,37,Wichita Thunder,25
+2000-01,37,14,46,30,0,WPHL,59,Lubbock Cotton Kings,44

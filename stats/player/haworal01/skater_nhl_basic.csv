@@ -1,9 +1,9 @@
-average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
-,36,1,0,NHL,20,15,34,-6,72,12,4,0,5,1980-81,BUF,16,20,[],22.2,,49
-,39,1,0,NHL,21,16,30,6,114,18,3,0,2,1981-82,BUF,21,18,[],18.4,,57
-,50,2,0,NHL,22,18,34,-5,145,18,5,0,9,1982-83,WSH,23,27,[],15.9,,74
-,55,5,0,NHL,23,23,52,14,164,17,7,0,8,1983-84,WSH,24,31,[],14.6,,75
-,49,2,0,NHL,24,22,48,19,154,19,4,0,4,1984-85,WSH,23,26,[],14.9,,76
-,73,5,0,NHL,25,31,72,36,194,27,7,0,8,1985-86,WSH,34,39,"[{'link': '/awards/voting-1986.html#selke', 'name': 'Selke-17'}]",17.5,,71
-,41,2,0,NHL,26,13,43,3,143,16,9,0,3,1986-87,WSH,25,16,[],17.5,,50
-,57,2,0,NHL,27,22,112,-5,171,17,6,0,12,1987-88,QUE,23,34,[],13.5,,72
+shotsPercentage,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,age,game_winning_goals,league,shorthanded_goals,average_ice_time,games_played,points,awards,power_play_goals
+22.2,1980-81,34,15,,0,72,5,12,-6,20,BUF,16,20,1,NHL,0,,49,36,[],4
+18.4,1981-82,30,16,,0,114,2,18,6,18,BUF,21,21,1,NHL,0,,57,39,[],3
+15.9,1982-83,34,18,,0,145,9,18,-5,27,WSH,23,22,2,NHL,0,,74,50,[],5
+14.6,1983-84,52,23,,0,164,8,17,14,31,WSH,24,23,5,NHL,0,,75,55,[],7
+14.9,1984-85,48,22,,0,154,4,19,19,26,WSH,23,24,2,NHL,0,,76,49,[],4
+17.5,1985-86,72,31,,0,194,8,27,36,39,WSH,34,25,5,NHL,0,,71,73,"[{'link': '/awards/voting-1986.html#selke', 'name': 'Selke-17'}]",7
+17.5,1986-87,43,13,,0,143,3,16,3,16,WSH,25,26,2,NHL,0,,50,41,[],9
+13.5,1987-88,112,22,,0,171,12,17,-5,34,QUE,23,27,2,NHL,0,,72,57,[],6

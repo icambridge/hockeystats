@@ -1,0 +1,5 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,Finland,8,TPS Turku,489,22,4,0,1,16,0,0,0,0,4,1,0,0,0,0,2008-09,0,1.96,10,0
+0,AHL,2,Rochester Americans,69,23,1,0,0,5,0,0,0,0,0,0,0,0,0,.884,2009-10,43,4.35,2,38
+0,Sweden,9,Farjestads BK Karlstad,562,24,0,0,0,22,0,0,0,0,0,0,0,0,0,0,2010-11,0,2.35,0,0
+0,Sweden,10,Farjestads BK Karlstad,616,26,5,0,0,24,0,0,0,1,5,0,0,0,0,0,2012-13,0,2.34,0,0

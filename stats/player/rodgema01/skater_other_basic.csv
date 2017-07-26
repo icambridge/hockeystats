@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1986-87,14,16,0,18,0,QAAA,42,L\'Outaouais Frontaliers,34
+1987-88,15,30,87,37,0,QAAA,38,L\'Outaouais Frontaliers,67
+1988-89,16,11,70,21,0,QMJHL,65,Granby Bisons,32
+1989-90,17,24,155,31,0,QMJHL,61,Granby Bisons,55
+1990-91,18,28,41,49,0,QMJHL,64,Granby Bisons,77
+1991-92,19,44,109,76,0,QMJHL,65,2 Teams,120
+1991-92,19,30,49,57,0,QMJHL,36,Granby Bisons,87
+1991-92,19,14,60,19,0,QMJHL,29,Verdun College Francais,33
+1992-93,20,23,91,40,0,ECHL,64,Wheeling Thunderbirds,63
+1993-94,21,12,83,18,0,ECHL,27,Knoxville Cherokees,30
+1993-94,21,7,110,7,0,IHL,40,Las Vegas Thunder,14
+1994-95,22,17,131,19,0,IHL,58,Las Vegas Thunder,36
+1995-96,23,19,116,30,0,IHL,82,2 Teams,49
+1995-96,23,13,65,16,0,IHL,51,Las Vegas Thunder,29
+1995-96,23,6,51,14,0,IHL,31,Utah Grizzlies,20
+1996-97,24,27,125,44,0,IHL,75,2 Teams,71
+1996-97,24,25,115,42,0,IHL,70,Quebec Rafales,67
+1996-97,24,2,10,2,0,IHL,5,Utah Grizzlies,4
+1997-98,25,25,83,27,0,IHL,72,2 Teams,52
+1997-98,25,5,22,5,0,IHL,11,Chicago Wolves,10
+1997-98,25,20,61,22,0,IHL,61,Quebec Rafales,42
+1998-99,26,19,66,38,-32,AHL,80,Adirondack Red Wings,57
+1999-00,27,8,77,10,-7,IHL,34,Manitoba Moose,18
+2000-01,28,7,53,5,-10,AHL,32,Cincinnati Mighty Ducks,12
+2001-02,29,4,6,4,-10,UHL,11,Knoxville Speed,8
+2001-02,29,2,45,4,0,Germany,30,Schwenninger Wild Wings,6

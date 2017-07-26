@@ -1,17 +1,17 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-15,1956-57,Peterborough Petes,11,0,18,52,18,7,OHA-Jr.
-50,1957-58,Peterborough Petes,14,0,19,52,22,8,OHA-Jr.
-47,1958-59,Peterborough Petes,28,0,20,46,46,18,OHA-Jr.
-39,1959-60,Hull-Ottawa Canadiens,13,0,21,66,19,6,EPHL
-56,1960-61,Hull-Ottawa Canadiens,7,0,22,40,8,1,EPHL
-50,1961-62,Hull-Ottawa Canadiens,9,0,23,57,14,5,EPHL
-51,1962-63,Hull-Ottawa Canadiens,33,0,24,64,50,17,EPHL
-31,1963-64,Hershey Bears,30,0,25,72,38,8,AHL
-47,1964-65,Hershey Bears,15,0,26,55,22,7,AHL
-24,1965-66,Hershey Bears,16,0,27,67,23,7,AHL
-20,1966-67,Hershey Bears,12,0,28,62,21,9,AHL
-65,1967-68,Hershey Bears,22,0,29,69,30,8,AHL
-46,1968-69,Hershey Bears,46,0,30,74,74,28,AHL
-8,1969-70,Hershey Bears,20,0,31,60,30,10,AHL
-29,1971-72,Denver Spurs,18,0,33,70,32,14,WHL
-64,1972-73,Denver Spurs,25,0,34,47,32,7,WHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+11,Peterborough Petes,7,1956-57,52,18,15,18,0,OHA-Jr.
+14,Peterborough Petes,8,1957-58,52,22,50,19,0,OHA-Jr.
+28,Peterborough Petes,18,1958-59,46,46,47,20,0,OHA-Jr.
+13,Hull-Ottawa Canadiens,6,1959-60,66,19,39,21,0,EPHL
+7,Hull-Ottawa Canadiens,1,1960-61,40,8,56,22,0,EPHL
+9,Hull-Ottawa Canadiens,5,1961-62,57,14,50,23,0,EPHL
+33,Hull-Ottawa Canadiens,17,1962-63,64,50,51,24,0,EPHL
+30,Hershey Bears,8,1963-64,72,38,31,25,0,AHL
+15,Hershey Bears,7,1964-65,55,22,47,26,0,AHL
+16,Hershey Bears,7,1965-66,67,23,24,27,0,AHL
+12,Hershey Bears,9,1966-67,62,21,20,28,0,AHL
+22,Hershey Bears,8,1967-68,69,30,65,29,0,AHL
+46,Hershey Bears,28,1968-69,74,74,46,30,0,AHL
+20,Hershey Bears,10,1969-70,60,30,8,31,0,AHL
+18,Denver Spurs,14,1971-72,70,32,29,33,0,WHL
+25,Denver Spurs,7,1972-73,47,32,64,34,0,WHL

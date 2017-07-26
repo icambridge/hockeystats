@@ -1,0 +1,19 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1984-85,18,16,12,26,0,NCAA,28,University of Notre Dame,42
+1985-86,19,18,32,29,0,CCHA,34,University of Notre Dame,47
+1986-87,20,21,24,16,0,NCAA,30,University of Notre Dame,37
+1987-88,21,28,12,44,0,NCAA,32,University of Notre Dame,72
+1988-89,22,0,0,0,0,AHL,1,Moncton Hawks,0
+1988-89,22,27,12,35,0,IHL,75,Fort Wayne Komets,62
+1989-90,23,17,10,24,0,IHL,74,Indianapolis Ice,41
+1990-91,24,16,19,9,0,IHL,33,Indianapolis Ice,25
+1990-91,24,1,4,0,0,WEC-A,10,United States,1
+1991-92,25,10,20,8,0,AHL,30,Halifax Citadels,18
+1992-93,26,17,34,17,0,IHL,75,Milwaukee Admirals,34
+1993-94,27,21,40,25,0,IHL,78,Milwaukee Admirals,46
+1994-95,28,23,30,15,0,IHL,80,Milwaukee Admirals,38
+1995-96,29,8,32,9,0,IHL,64,Milwaukee Admirals,17
+1996-97,30,18,24,26,0,IHL,74,Milwaukee Admirals,44
+1997-98,31,10,58,18,6,IHL,81,Milwaukee Admirals,28
+1998-99,32,8,10,16,0,Germany,47,Revier Lowen Oberhausen,24
+1999-00,33,1,6,7,0,Germany,22,Revier Lowen Oberhausen,8

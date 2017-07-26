@@ -1,0 +1,38 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1979-80,17,6,55,14,0,AJHL,59,Calgary Canucks,20
+1979-80,17,0,2,0,0,WHL,2,Calgary Wranglers,0
+1980-81,18,10,111,41,0,WHL,72,Calgary Wranglers,51
+1981-82,19,2,85,16,0,WHL,40,Calgary Wranglers,18
+1982-83,20,0,28,0,0,AHL,31,Maine Mariners,0
+1982-83,20,5,26,10,0,IHL,23,Toledo Goaldiggers,15
+1983-84,21,0,2,0,0,AHL,1,Springfield Indians,0
+1983-84,21,7,79,44,0,IHL,82,Toledo Goaldiggers,51
+1984-85,22,0,8,0,0,AHL,3,Hershey Bears,0
+1984-85,22,8,62,45,0,IHL,80,Kalamazoo Wings,53
+1985-86,23,11,129,39,0,IHL,82,Kalamazoo Wings,50
+1986-87,24,6,19,15,0,AHL,41,Maine Mariners,21
+1986-87,24,2,10,7,0,IHL,19,Kalamazoo Wings,9
+1986-87,24,0,18,3,0,Nat-Tm,15,Canada,3
+1987-88,25,1,33,12,0,AHL,32,New Haven Nighthawks,13
+1987-88,25,5,36,12,0,Austria,24,EHC Lustenau,17
+1988-89,26,1,6,5,0,AHL,6,Baltimore Skipjacks,6
+1988-89,26,0,87,19,0,Nat-Tm,63,Canada,19
+1989-90,27,2,80,13,0,AHL,67,Baltimore Skipjacks,15
+1990-91,28,4,14,3,0,Nat-Tm,10,Canada,7
+1990-91,28,13,100,24,0,Norway,35,Furuset IF Oslo,37
+1991-92,29,7,96,9,0,Norway,28,Furuset IF Oslo,16
+1991-92,29,0,6,1,0,Nat-Tm,6,Canada,1
+1991-92,29,0,4,0,0,Olympics,8,Canada,0
+1991-92,29,0,8,0,0,WC-A,5,Canada,0
+1992-93,30,5,148,18,0,Finland,46,Ilves Tampere,23
+1993-94,31,1,32,3,0,Sweden,21,Farjestads BK Karlstad,4
+1993-94,31,0,4,0,0,Nat-Tm,12,Canada,0
+1994-95,32,1,42,3,0,Finland,25,Ilves Tampere,4
+1994-95,32,0,6,0,0,WC-A,7,Canada,0
+1995-96,33,2,131,9,0,Finland-2,22,SaPKo Savonlinna,11
+1996-97,34,4,71,14,0,Germany,31,Schwenninger Wild Wings,18
+1997-98,35,3,86,14,0,Germany,49,Hannover Scorpions,17
+1998-99,36,3,94,11,0,Germany,48,2 Teams,14
+1998-99,36,2,10,2,0,Germany,13,Adler Mannheim,4
+1998-99,36,1,84,9,0,Germany,35,Hannover Scorpions,10
+1999-00,37,1,82,6,0,Germany,45,Hannover Scorpions,7

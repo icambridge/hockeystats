@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1996-03-29,G,", ",L,Brandon Halverson
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",G,1996-03-29,Brandon Halverson

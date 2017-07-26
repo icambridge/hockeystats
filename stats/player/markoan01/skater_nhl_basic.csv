@@ -1,0 +1,17 @@
+giveaways,league,games_played,game_winning_goals,age,faceoff_loses,total_shots,shots,points,hits,power_play_assists,total_ice_time,team,takeaways,faceoff_percentage,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,faceoff_wins,shorthanded_goals,year,blocks,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+0,NHL,63,0,22,0,0,82,23,0,14,1064,MTL,0,0,[],7.3,4,17,-6,6,0,0,2000-01,0,16:53,2,18,0,3
+0,NHL,56,1,23,0,0,73,24,0,7,966,MTL,0,0,[],6.8,3,19,-1,5,0,0,2001-02,0,17:15,2,24,0,12
+0,NHL,79,2,24,0,0,159,37,0,12,1840,MTL,0,0,[],8.2,10,24,13,13,0,0,2002-03,0,23:17,3,34,0,12
+0,NHL,69,0,25,0,0,105,28,0,8,1482,MTL,0,0,[],5.7,4,22,-2,6,0,0,2003-04,0,21:29,2,20,0,14
+0,NHL,67,1,27,0,0,88,46,0,18,1578,MTL,0,0,[],11.4,3,36,13,10,0,1,2005-06,0,23:33,6,74,2,16
+0,NHL,77,2,28,0,0,128,49,0,27,1885,MTL,0,0,"[{'link': '/awards/voting-2007.html#norris', 'name': 'Norris-24'}]",4.7,1,43,2,6,0,0,2006-07,0,24:29,5,56,3,13
+92,NHL,82,2,29,0,346,145,58,59,22,2048,MTL,60,0,"[{'link': '/awards/voting-2008.html#AS', 'name': 'AS-6'}, {'link': '/awards/voting-2008.html#norris', 'name': 'Norris-6'}]",11.0,5,42,1,16,0,1,2007-08,127,24:58,10,63,2,18
+103,NHL,78,3,30,0,362,165,64,61,32,1921,MTL,60,0,"[{'link': '/awards/voting-2009.html#AS', 'name': 'AS-6'}, {'link': '/awards/voting-2009.html#norris', 'name': 'Norris-6'}]",7.3,5,52,-2,12,0,0,2008-09,111,24:38,7,36,1,19
+33,NHL,45,1,31,0,186,85,34,47,12,1071,MTL,34,0,[],7.1,2,28,11,6,0,0,2009-10,61,23:48,4,32,1,15
+9,NHL,7,1,32,0,37,20,3,2,1,160,MTL,3,0,[],5.0,1,2,2,1,0,0,2010-11,5,22:55,0,4,0,1
+1,NHL,13,0,33,0,38,17,3,7,2,234,MTL,2,0,[],0.0,0,3,-4,0,0,0,2011-12,7,18:00,0,4,0,1
+50,NHL,0,4,34,0,175,79,30,22,15,1158,MTL,18,0,"[{'link': '/awards/voting-2013.html#AS', 'name': 'AS-14'}, {'link': '/awards/voting-2013.html#byng', 'name': 'Byng-44'}, {'link': '/awards/voting-2013.html#norris', 'name': 'Norris-13'}]",12.7,2,20,-9,10,0,0,2012-13,60,24:08,8,14,0,5
+82,NHL,81,1,35,0,292,131,43,49,19,2044,MTL,35,0,"[{'link': '/awards/voting-2014.html#AS', 'name': 'AS-16'}, {'link': '/awards/voting-2014.html#norris', 'name': 'Norris-16'}]",5.3,4,36,12,7,0,1,2013-14,180,25:14,2,34,0,17
+79,NHL,81,1,36,0,327,135,50,53,21,2018,MTL,46,0,"[{'link': '/awards/voting-2015.html#AS', 'name': 'AS-24'}, {'link': '/awards/voting-2015.html#norris', 'name': 'Norris-22'}]",7.4,6,40,22,10,0,0,2014-15,173,24:55,4,38,1,18
+93,NHL,82,0,37,0,287,117,44,57,13,1955,MTL,38,0,[],4.3,1,39,-6,5,0,0,2015-16,142,23:50,4,38,0,26
+69,NHL,62,1,38,0,223,98,36,39,11,1354,MTL,28,0,"[{'link': '/awards/voting-2017.html#byng', 'name': 'Byng-53'}]",6.1,5,30,18,6,0,0,2016-17,73,21:50,1,16,1,18

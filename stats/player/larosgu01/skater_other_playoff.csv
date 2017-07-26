@@ -1,0 +1,13 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1986-87,19,2,27,8,0,OHL,11,Ottawa 67\'s,10
+1988-89,21,4,37,4,0,AHL,10,Moncton Hawks,8
+1990-91,23,8,37,5,0,AHL,10,Binghamton Rangers,13
+1992-93,25,5,6,2,0,AHL,9,St. John\'s Maple Leafs,7
+1993-94,26,3,22,2,0,AHL,7,Saint John Flames,5
+1994-95,27,4,22,6,0,AHL,12,Providence Bruins,10
+1995-96,28,3,14,6,0,IHL,15,Las Vegas Thunder,9
+1996-97,29,6,12,7,0,IHL,13,Houston Aeros,13
+1998-99,31,1,14,3,0,IHL,10,Chicago Wolves,4
+1999-00,32,1,14,4,0,IHL,16,Chicago Wolves,5
+2000-01,33,2,10,3,0,IHL,16,Chicago Wolves,5
+2001-02,34,2,12,2,0,AHL,24,Chicago Wolves,4

@@ -1,0 +1,12 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2007-08,17,4,80,10,4,NAHL,58,Texas Tornado,14
+2008-09,18,4,51,6,5,USHL,57,Cedar Rapids RoughRiders,10
+2009-10,19,2,30,7,0,CCHA,34,Western Michigan University,9
+2010-11,20,9,38,12,0,CCHA,42,Western Michigan University,21
+2011-12,21,11,28,13,0,CCHA,41,Western Michigan University,24
+2011-12,21,1,0,1,-1,AHL,7,Worcester Sharks,2
+2012-13,22,5,44,22,-6,AHL,60,Worcester Sharks,27
+2013-14,23,7,33,14,-25,AHL,54,Worcester Sharks,21
+2014-15,24,4,30,11,7,AHL,43,Worcester Sharks,15
+2015-16,25,0,0,0,2,AHL,5,San Jose Barracuda,0
+2016-17,26,3,5,4,7,AHL,9,Charlotte Checkers,7

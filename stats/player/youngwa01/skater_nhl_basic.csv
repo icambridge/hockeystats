@@ -1,0 +1,8 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,1,0,26,0,0,0,,MNS,[],0,0,0,-3,0,0,1981-82,,0,0,0,0
+NHL,4,0,27,2,2,0,,MNS,[],50.0,1,1,0,1,0,1982-83,,0,0,0,1
+NHL,15,0,28,12,8,0,,PIT,[],8.3,1,7,-2,1,0,1983-84,,0,19,0,7
+NHL,0,3,29,130,72,8,,PIT,"[{'link': '/awards/voting-1985.html#calder', 'name': 'Calder-4'}]",0,31,32,-20,40,0,1984-85,,9,174,0,24
+NHL,79,1,30,95,46,8,,DET,[],23.2,13,24,-34,22,0,1985-86,,9,161,0,16
+NHL,50,1,31,52,21,4,,PIT,[],15.4,5,13,-5,8,0,1986-87,,3,103,0,9
+NHL,7,0,32,3,0,0,,PIT,[],0.0,0,0,-4,0,0,1987-88,,0,15,0,0

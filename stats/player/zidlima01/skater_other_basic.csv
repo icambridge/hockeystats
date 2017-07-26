@@ -1,0 +1,32 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,17,2,38,2,0,CzRep,30,HC Kladno,4
+1994-95,17,0,31,2,0,WJC-A,7,Czech Republic,2
+1995-96,18,4,74,5,0,CzRep,37,HC Poldi Kladno,9
+1996-97,19,5,60,16,0,CzRep,49,HC Poldi Kladno,21
+1996-97,19,0,12,5,0,WJC-A,7,Czech Republic,5
+1997-98,20,2,121,13,0,CzRep,51,HC Velvana Kladno,15
+1998-99,21,10,94,12,0,CzRep,50,HC Velvana Kladno,22
+1999-00,22,4,66,16,0,Finland,47,HIFK Helsinki,20
+1999-00,22,2,10,2,0,EuroHL,4,HIFK Helsinki,4
+1999-00,22,4,66,16,20,SM-liiga,47,HIFK Helsinki,20
+2000-01,23,12,146,25,0,Finland,51,HIFK Helsinki,37
+2000-01,23,12,146,25,12,SM-liiga,51,HIFK Helsinki,37
+2001-02,24,11,107,29,0,Finland,56,HIFK Helsinki,40
+2001-02,24,11,107,29,7,SM-liiga,56,HIFK Helsinki,40
+2002-03,25,10,79,37,0,Finland,54,HIFK Helsinki,47
+2002-03,25,10,79,37,13,SM-liiga,54,HIFK Helsinki,47
+2004-05,27,3,2,1,3,W-Cup,5,Czech Republic,4
+2004-05,27,11,91,20,0,Finland,49,HIFK Helsinki,31
+2004-05,27,1,18,3,8,WC-A,9,Czech Republic,4
+2004-05,27,11,91,20,2,SM-liiga,49,HIFK Helsinki,31
+2005-06,28,4,16,1,0,Olympics,7,Czech Republic,5
+2006-07,29,1,6,5,-3,WC-A,7,Czech Republic,6
+2007-08,30,1,6,4,4,WC-A,7,Czech Republic,5
+2008-09,31,0,6,1,-1,WC-A,7,Czech Republic,1
+2009-10,32,0,2,5,-3,Olympics,5,Czech Republic,5
+2010-11,33,1,6,4,4,WC-A,9,Czech Republic,5
+2012-13,35,3,28,22,0,CzRep,25,Rytiri Kladno,25
+2012-13,35,0,0,0,0,WC-A,2,Czech Republic,0
+2012-13,35,3,28,22,14,Czech,25,Kladno,25
+2013-14,36,2,8,2,2,Internationa,5,Czech Republic (all),4
+2013-14,36,2,8,2,2,Olympics,5,Czech Republic,4

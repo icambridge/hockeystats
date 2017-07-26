@@ -1,0 +1,7 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,QAAA,4,Cap-de-Madeleine Estacades,240,16,3,0,0,26,0,0,0,0,1,0,0,0,0,0,1996-97,0,6.50,0,0
+0,QMJHL,2,Moncton Wildcats,2,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1997-98,0,0.00,0,0
+0,QMJHL,1,Moncton Wildcats,43,18,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1998-99,0,2.79,0,0
+0,QMJHL,16,Moncton Wildcats,910,19,6,0,0,56,0,0,0,1,9,0,0,0,0,.887,1999-00,496,3.69,2,440
+0,QMJHL,14,Val-d\'Or Foreurs,760,20,4,0,0,52,0,0,0,0,8,0,0,0,0,.896,2000-01,502,4.11,0,450
+0,AHL,2,Grand Rapids Griffins,21,21,0,0,0,1,0,0,0,0,0,0,0,0,0,.750,2001-02,4,2.86,0,3

@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1982-83,16,40,48,42,0,WHL,62,Prince Albert Raiders,82
+1983-84,17,68,68,54,0,WHL,71,Prince Albert Raiders,122
+1984-85,18,64,88,52,0,WHL,65,Prince Albert Raiders,116
+1986-87,20,27,47,25,0,AHL,66,Moncton Golden Flames,52
+1987-88,21,8,39,14,0,AHL,30,Maine Mariners,22
+1988-89,22,27,48,28,0,AHL,59,2 Teams,55
+1988-89,22,2,6,5,0,AHL,11,Maine Mariners,7
+1988-89,22,25,42,23,0,AHL,48,New Haven Nighthawks,48
+1989-90,23,4,0,7,0,Swiss,12,HC Fribourg-Gotteron,11
+1989-90,23,9,16,7,0,AHL,18,2 Teams,16
+1989-90,23,7,14,4,0,AHL,7,New Haven Nighthawks,11
+1989-90,23,2,2,3,0,AHL,11,Springfield Indians,5
+1990-91,24,13,57,25,0,AHL,39,New Haven Nighthawks,38
+1990-91,24,4,24,3,0,IHL,13,Phoenix Roadrunners,7
+1991-92,25,51,33,30,0,Italy-2,30,HC Gardena,81
+1992-93,26,12,100,12,0,Alpenliga,18,HC Bolzano,24
+1992-93,26,31,52,46,0,Italy,32,HC Bolzano,77
+1993-94,27,29,74,34,0,Alpenliga,29,HC Bolzano,63
+1993-94,27,12,37,27,0,Italy,15,HC Bolzano,39
+1994-95,28,20,38,25,0,Euroliga,18,HC Bolzano,45
+1994-95,28,31,52,46,0,Italy,32,HC Bolzano,77
+1995-96,29,5,16,9,0,IHL,26,San Francisco Spiders,14
+1996-97,30,23,127,28,0,Alpenliga,38,HC Bolzano,51
+1996-97,30,3,6,1,0,Swiss,2,HC Davos,4
+1997-98,31,3,0,8,0,Swiss-2,9,HC Thurgau,11

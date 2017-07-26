@@ -1,0 +1,15 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,OHA-Jr.,3,St. Michael\'s Majors,180,18,0,0,0,9,0,0,0,0,0,0,0,0,0,0,1933-34,0,3.00,0,0
+0,M-Cup,13,St. Michael\'s Majors,780,18,0,0,0,27,0,0,0,3,13,0,0,0,0,0,1933-34,0,2.08,0,0
+0,OHA-Jr.,3,St. Michael\'s Majors,180,19,0,0,0,8,0,0,0,1,0,0,0,0,0,0,1934-35,0,2.67,0,0
+0,TIHL,3,Toronto Dominion Bank,180,19,0,0,0,23,0,0,0,0,0,0,0,0,0,0,1934-35,0,7.67,0,0
+0,OHA-Sr.,2,Oakville Villans,120,20,0,0,0,7,0,0,0,0,0,0,0,0,0,0,1935-36,0,3.50,0,0
+0,TIHL,4,Toronto McColl-Frontenacs,240,20,0,0,0,17,0,0,0,0,0,0,0,0,0,0,1935-36,0,4.25,0,0
+0,EAHL,4,Atlantic City Sea Gulls,240,21,3,0,0,10,0,0,0,0,1,0,0,0,0,0,1936-37,0,2.50,0,0
+0,IAHL,4,Philadelphia Ramblers,240,23,3,0,0,9,0,0,0,1,1,0,0,0,0,0,1938-39,0,2.25,0,0
+0,IAHL,9,Pittsburgh Hornets,563,24,5,0,0,24,0,0,0,1,4,0,0,0,0,0,1939-40,0,2.56,0,0
+0,AHL,6,Pittsburgh Hornets,426,25,3,0,0,12,0,0,0,0,3,0,0,0,0,0,1940-41,0,1.69,0,0
+0,AHL,2,Pittsburgh Hornets,130,27,2,0,0,10,0,0,0,0,0,0,0,0,0,0,1942-43,0,4.62,0,0
+0,AHL,12,Cleveland Barons,730,29,4,0,0,39,0,0,0,0,8,0,0,0,0,0,1944-45,0,3.21,0,0
+0,AHL,12,Cleveland Barons,755,30,5,0,0,50,0,0,0,1,7,0,0,0,0,0,1945-46,0,3.97,0,0
+0,AHL,2,Hershey Bears,100,32,2,0,0,6,0,0,0,0,0,0,0,0,0,0,1947-48,0,3.60,0,0

@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2008-09,14,0,0,0,0,U16 SM,3,Malm\xc3\xb6 Redhawks U16,0
+2009-10,15,2,2,0,0,Internationa,6,Sweden U16 (all),2
+2009-10,15,16,2,4,0,U16 SM,8,R\xc3\xb6gle BK U16,20
+2009-10,15,13,10,10,0,J18 Elit,15,R\xc3\xb6gle BK J18,23
+2009-10,15,9,12,7,0,J18 Allsvens,15,R\xc3\xb6gle BK J18,16
+2010-11,16,0,2,0,0,Allsvenskan,6,R\xc3\xb6gle BK,0
+2010-11,16,3,6,4,0,Internationa,6,Sweden U17 (all),7
+2010-11,16,18,34,11,0,SuperElit,30,R\xc3\xb6gle BK J20,29
+2010-11,16,4,2,2,0,J18 Elit,2,R\xc3\xb6gle BK J18,6
+2010-11,16,3,2,1,0,J18 Allsvens,4,R\xc3\xb6gle BK J18,4
+2011-12,17,5,2,4,9,QMJHL,8,Qu\xc3\xa9bec Remparts,9
+2012-13,18,0,4,0,-1,Internationa,8,Sweden U20 (all),0
+2012-13,18,0,2,0,-1,WJC-20,6,Sweden U20,0
+2012-13,18,20,18,27,10,QMJHL,46,Qu\xc3\xa9bec Remparts,47
+2013-14,19,2,4,4,4,Internationa,9,Sweden U20 (all),6
+2013-14,19,2,4,4,4,WJC-20,7,Sweden U20,6
+2013-14,19,31,43,30,16,QMJHL,44,Qu\xc3\xa9bec Remparts,61
+2014-15,20,1,4,3,5,SHL,14,Skellefte\xc3\xa5 AIK,4
+2014-15,20,0,0,0,-1,Champions HL,1,Skellefte\xc3\xa5 AIK,0
+2015-16,21,1,0,0,-1,Internationa,3,Sweden (all),1
+2015-16,21,10,37,13,5,SHL,37,Link\xc3\xb6ping HC,23
+2015-16,21,0,2,3,1,Champions HL,5,Link\xc3\xb6ping HC,3
+2016-17,22,10,38,12,-3,AHL,48,San Diego Gulls,22

@@ -1,14 +1,14 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-0,,C,,0,0,0,0,33,0,33,10,Newsy Lalonde,6.3,0.7,43,0,36,,24,0,5.6,0,/players/l/lalonne01.html
-0,,RW,,0,0,0,0,37,0,16,5,Didier Pitre,2.5,0.7,21,0,25,,23,0,1.8,0,/players/p/pitredi01.html
-0,,D,,0,0,0,0,31,0,15,5,Harry Mummery,5.2,2.9,20,0,69,,24,0,2.3,0,/players/m/mummeha01.html
-0,,LW,,0,0,0,0,33,0,11,9,Louis Berlinguette,1.8,0.7,20,0,28,,24,0,1.1,0,/players/b/berlilo01.html
-0,,LW,,0,0,0,0,26,0,15,3,Amos Arbour,2.1,0.7,18,0,40,,23,0,1.4,0,/players/a/arbouam01.html
-0,,D,,0,0,0,0,26,0,11,2,Bert Corbeau,4.1,2.9,13,0,86,,24,0,1.2,0,/players/c/corbebe01.html
-0,,C,,0,0,0,0,29,0,6,6,Odie Cleghorn,0.7,0.6,12,0,8,,21,0,0.1,0,/players/c/cleghod01.html
-0,,RW,,0,0,0,0,28,0,6,1,Cully Wilson,0.7,0.3,7,0,29,,11,0,0.4,0,/players/w/wilsocu01.html
-0,,C,,0,0,0,0,33,0,0,1,Jack McDonald,-0.2,0.2,1,0,0,,6,0,-0.4,0,/players/m/mcdonja01.html
-0,,F,,0,0,0,0,29,0,0,0,Billy Bell,-0.2,0.1,0,0,2,,4,0,-0.3,0,/players/b/bellbi01.html
-0,,D,,0,0,0,0,24,0,0,0,Dave Campbell,0.1,0.2,0,0,0,,2,0,-0.1,0,/players/c/campbda01.html
-0,,D,,0,0,0,0,29,0,0,0,Dave Ritchie,0.4,0.7,0,0,2,,6,0,-0.3,0,/players/r/ritchda01.html
-0,,G,,0,0,0,0,34,0,0,0,Georges Vezina,4.1,0.0,0,0,0,,24,0,0.0,0,/players/v/vezinge01.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+10,0,33,33,,5.6,0.7,0,,0,C,6.3,0,MTL,/players/l/lalonne01.html,0,36,0,0,Newsy Lalonde,,1921,43,0,24,0
+5,0,16,37,,1.8,0.7,0,,0,RW,2.5,0,MTL,/players/p/pitredi01.html,0,25,0,0,Didier Pitre,,1921,21,0,23,0
+5,0,15,31,,2.3,2.9,0,,0,D,5.2,0,MTL,/players/m/mummeha01.html,0,69,0,0,Harry Mummery,,1921,20,0,24,0
+9,0,11,33,,1.1,0.7,0,,0,LW,1.8,0,MTL,/players/b/berlilo01.html,0,28,0,0,Louis Berlinguette,,1921,20,0,24,0
+3,0,15,26,,1.4,0.7,0,,0,LW,2.1,0,MTL,/players/a/arbouam01.html,0,40,0,0,Amos Arbour,,1921,18,0,23,0
+2,0,11,26,,1.2,2.9,0,,0,D,4.1,0,MTL,/players/c/corbebe01.html,0,86,0,0,Bert Corbeau,,1921,13,0,24,0
+6,0,6,29,,0.1,0.6,0,,0,C,0.7,0,MTL,/players/c/cleghod01.html,0,8,0,0,Odie Cleghorn,,1921,12,0,21,0
+1,0,6,28,,0.4,0.3,0,,0,RW,0.7,0,MTL,/players/w/wilsocu01.html,0,29,0,0,Cully Wilson,,1921,7,0,11,0
+1,0,0,33,,-0.4,0.2,0,,0,C,-0.2,0,MTL,/players/m/mcdonja01.html,0,0,0,0,Jack McDonald,,1921,1,0,6,0
+0,0,0,29,,-0.3,0.1,0,,0,F,-0.2,0,MTL,/players/b/bellbi01.html,0,2,0,0,Billy Bell,,1921,0,0,4,0
+0,0,0,24,,-0.1,0.2,0,,0,D,0.1,0,MTL,/players/c/campbda01.html,0,0,0,0,Dave Campbell,,1921,0,0,2,0
+0,0,0,29,,-0.3,0.7,0,,0,D,0.4,0,MTL,/players/r/ritchda01.html,0,2,0,0,Dave Ritchie,,1921,0,0,6,0
+0,0,0,34,,0.0,0.0,0,,0,G,4.1,0,MTL,/players/v/vezinge01.html,0,0,0,0,Georges Vezina,,1921,0,0,24,0

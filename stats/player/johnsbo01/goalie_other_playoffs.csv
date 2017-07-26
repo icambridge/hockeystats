@@ -1,0 +1,4 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WHL,5,Denver Spurs,299,23,1,0,0,5,0,0,0,2,4,0,0,0,0,0,1971-72,0,1.00,0,0
+0,WHL,4,Denver Spurs,245,24,3,0,0,16,0,0,0,0,1,0,0,0,0,0,1972-73,0,3.92,0,0
+0,AHL,10,Hershey Bears,608,25,2,0,0,31,0,0,0,1,8,0,0,0,0,0,1973-74,0,3.06,0,0

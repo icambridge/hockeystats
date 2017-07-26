@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1997-98,15,0,4,2,0,Russia,5,Torpedo Yaroslavl,2
+1998-99,16,2,4,3,0,Russia-3,21,Torpedo Yaroslavl 2,5
+1999-00,17,17,0,16,0,Russia-3,31,Torpedo Yaroslavl 2,33
+2000-01,18,0,2,2,0,Russia-2,4,Kristall Saratov,2
+2000-01,18,1,6,0,0,Russia,8,SKA St. Petersburg,1
+2001-02,19,33,30,30,-25,OHL,62,Mississauga IceDogs,63
+2002-03,20,18,26,9,1,AHL,62,Norfolk Admirals,27
+2003-04,21,9,26,14,5,AHL,38,Norfolk Admirals,23
+2004-05,22,0,16,0,-2,AHL,16,Norfolk Admirals,0
+2004-05,22,2,22,2,0,Russia,25,Spartak Moscow,4
+2005-06,23,4,54,6,0,Russia,42,Spartak Moscow,10
+2006-07,24,7,61,7,0,Russia,36,2 Teams,14
+2006-07,24,1,12,3,0,Russia,13,Metallurg Novokuznetsk,4
+2006-07,24,6,49,4,0,Russia,23,Vityaz Chekhov,10
+2007-08,25,11,75,13,0,Russia,50,Vityaz Chekhov,24
+2008-09,26,22,129,6,0,KHL,52,2 Teams,28
+2008-09,26,16,111,6,0,KHL,38,Vityaz Chekhov,22
+2008-09,26,6,18,0,0,KHL,14,Salavat Yulayev Ufa,6
+2009-10,27,11,50,6,0,KHL,43,Metallurg Magnitogorsk,17
+2010-11,28,1,18,3,0,KHL,29,2 Teams,4
+2010-11,28,1,14,1,0,KHL,21,Severstal Cherepovets,2
+2010-11,28,0,4,2,0,KHL,8,Vityaz Chekhov,2
+2011-12,29,4,16,5,0,KHL,35,Salavat Yulayev Ufa,9
+2012-13,30,17,91,12,0,KHL,47,CSKA Moscow,29

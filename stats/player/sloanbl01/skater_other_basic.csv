@@ -1,0 +1,22 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1992-93,17,7,0,15,0,High-MA,33,Tabor Academy Seawolves,22
+1992-93,17,10,0,31,0,MBAHL,20,Boston Jr. Bruins,41
+1993-94,18,2,48,4,0,CCHA,38,University of Michigan,6
+1993-94,18,0,2,0,0,WJC-A,7,United States,0
+1994-95,19,2,60,15,0,CCHA,39,University of Michigan,17
+1995-96,20,6,55,24,0,CCHA,41,University of Michigan,30
+1996-97,21,2,52,15,0,CCHA,41,University of Michigan,17
+1997-98,22,2,86,13,0,IHL,70,Houston Aeros,15
+1998-99,23,8,76,10,0,IHL,62,Houston Aeros,18
+2000-01,25,7,18,4,-1,IHL,20,Houston Aeros,11
+2003-04,28,4,4,2,4,AHL,7,Grand Rapids Griffins,6
+2003-04,28,2,4,0,0,WC-A,9,United States,2
+2004-05,29,15,68,11,-3,AHL,78,Grand Rapids Griffins,26
+2005-06,30,2,40,2,0,Sweden,38,Timra IK,4
+2006-07,31,4,80,10,0,Germany,52,Adler Mannheim,14
+2007-08,32,1,42,3,0,Germany,52,Adler Mannheim,4
+2008-09,33,4,101,10,0,Germany,50,Adler Mannheim,14
+2009-10,34,3,56,23,0,Germany,55,Grizzly Adams Wolfsburg,26
+2010-11,35,2,77,10,0,Germany,43,Grizzly Adams Wolfsburg,12
+2011-12,36,1,24,2,0,Germany,24,Grizzly Adams Wolfsburg,3
+2012-13,37,3,54,9,0,Germany,51,EHC Red Bill Munchen,12

@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1935-07-29,", ",C,Billy Harris,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",C,1935-07-29,Billy Harris

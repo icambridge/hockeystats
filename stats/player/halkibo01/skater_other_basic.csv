@@ -1,28 +1,28 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-54,1981-82,Toronto Young Nationals,27,0,15,40,36,9,MTHL
-52,1982-83,London Knights,12,0,16,37,15,3,OHL
-123,1983-84,London Knights,22,0,17,51,31,9,OHL
-154,1984-85,London Knights,50,0,18,62,64,14,OHL
-144,1986-87,Rochester Americans,8,0,20,59,9,1,AHL
-50,1987-88,Rochester Americans,5,0,21,15,7,2,AHL
-64,1988-89,Rochester Americans,6,0,22,16,6,0,AHL
-137,1989-90,2 Teams,30,0,23,48,34,4,AHL
-70,1989-90,Rochester Americans,13,0,23,18,14,1,AHL
-67,1989-90,New Haven Nighthawks,17,0,23,30,20,3,AHL
-10,1990-91,New Haven Nighthawks,3,0,24,7,4,1,AHL
-6,1990-91,Phoenix Roadrunners,5,0,24,4,6,1,IHL
-61,1992-93,St. John\'s Maple Leafs,13,0,26,29,15,2,AHL
-79,1992-93,Milwaukee Admirals,9,0,26,26,9,0,IHL
-46,1993-94,Adirondack Red Wings,6,0,27,15,6,0,AHL
-142,1995-96,3 Teams,16,0,29,51,17,1,IHL
-62,1995-96,Atlanta Knights,7,0,29,21,8,1,IHL
-8,1995-96,Indianapolis Ice,2,0,29,3,2,0,IHL
-72,1995-96,Utah Grizzlies,7,0,29,27,7,0,IHL
-47,1996-97,Carolina Monarchs,13,0,30,41,18,5,AHL
-15,1997-98,Winston-Salem IceHawks,1,1,31,3,1,0,UHL
-133,1997-98,HIFK Helsinki,6,0,31,29,7,1,Finland
-103,1998-99,Kolner Haie,14,0,32,48,21,7,Germany
-10,2000-01,SKA St. Petersburg,2,0,34,9,2,0,Russia
-50,2000-01,Greensboro Generals,6,0,34,33,7,1,ECHL
-2,2000-01,Newcastle Jesters,1,0,34,1,1,0,BH-Cup
-0,2000-01,Newcastle Jesters,1,0,34,1,1,0,Britain
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+27,Toronto Young Nationals,9,1981-82,40,36,54,15,0,MTHL
+12,London Knights,3,1982-83,37,15,52,16,0,OHL
+22,London Knights,9,1983-84,51,31,123,17,0,OHL
+50,London Knights,14,1984-85,62,64,154,18,0,OHL
+8,Rochester Americans,1,1986-87,59,9,144,20,0,AHL
+5,Rochester Americans,2,1987-88,15,7,50,21,0,AHL
+6,Rochester Americans,0,1988-89,16,6,64,22,0,AHL
+30,2 Teams,4,1989-90,48,34,137,23,0,AHL
+13,Rochester Americans,1,1989-90,18,14,70,23,0,AHL
+17,New Haven Nighthawks,3,1989-90,30,20,67,23,0,AHL
+3,New Haven Nighthawks,1,1990-91,7,4,10,24,0,AHL
+5,Phoenix Roadrunners,1,1990-91,4,6,6,24,0,IHL
+13,St. John\'s Maple Leafs,2,1992-93,29,15,61,26,0,AHL
+9,Milwaukee Admirals,0,1992-93,26,9,79,26,0,IHL
+6,Adirondack Red Wings,0,1993-94,15,6,46,27,0,AHL
+16,3 Teams,1,1995-96,51,17,142,29,0,IHL
+7,Atlanta Knights,1,1995-96,21,8,62,29,0,IHL
+2,Indianapolis Ice,0,1995-96,3,2,8,29,0,IHL
+7,Utah Grizzlies,0,1995-96,27,7,72,29,0,IHL
+13,Carolina Monarchs,5,1996-97,41,18,47,30,0,AHL
+1,Winston-Salem IceHawks,0,1997-98,3,1,15,31,1,UHL
+6,HIFK Helsinki,1,1997-98,29,7,133,31,0,Finland
+14,Kolner Haie,7,1998-99,48,21,103,32,0,Germany
+2,SKA St. Petersburg,0,2000-01,9,2,10,34,0,Russia
+6,Greensboro Generals,1,2000-01,33,7,50,34,0,ECHL
+1,Newcastle Jesters,0,2000-01,1,1,2,34,0,BH-Cup
+1,Newcastle Jesters,0,2000-01,1,1,0,34,0,Britain

@@ -1,20 +1,20 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-0,New England Selects,76,0,137,NEJHL,37,1993-94,19,61
-35,RPI Engineers,11,0,24,ECAC,37,1994-95,20,13
-57,RPI Engineers,22,0,40,ECAC,35,1995-96,21,18
-63,RPI Engineers,26,0,56,ECAC,36,1996-97,22,30
-42,RPI Engineers,27,0,48,ECAC,35,1997-98,23,21
-77,Saint John Flames,24,0,38,AHL,64,1998-99,24,14
-13,Orlando Solar Bears,4,0,9,IHL,13,1998-99,24,5
-51,Springfield Falcons,15,0,29,AHL,32,1999-00,25,14
-53,Springfield Falcons,17,-10,33,AHL,66,2000-01,26,16
-0,Jackson Bandits,1,-1,2,ECHL,2,2001-02,27,1
-45,Manchester Monarchs,34,-2,58,AHL,65,2001-02,27,24
-47,Manchester Monarchs,31,4,73,AHL,75,2002-03,28,42
-52,Chicago Wolves,20,-7,51,AHL,71,2003-04,29,31
-54,Adler Mannheim,13,0,29,Germany,50,2004-05,30,16
-49,Providence Bruins,42,15,71,AHL,66,2005-06,31,29
-51,Springfield Falcons,48,-27,75,AHL,80,2006-07,32,27
-48,Lake Erie Monsters,36,-24,58,AHL,74,2007-08,33,22
-6,SCL Tigers Langnau,8,0,12,Swiss,13,2008-09,34,4
-36,Mora IK,15,0,25,Sweden-2,20,2008-09,34,10
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+76,New England Selects,61,1993-94,37,137,0,19,0,NEJHL
+11,RPI Engineers,13,1994-95,37,24,35,20,0,ECAC
+22,RPI Engineers,18,1995-96,35,40,57,21,0,ECAC
+26,RPI Engineers,30,1996-97,36,56,63,22,0,ECAC
+27,RPI Engineers,21,1997-98,35,48,42,23,0,ECAC
+24,Saint John Flames,14,1998-99,64,38,77,24,0,AHL
+4,Orlando Solar Bears,5,1998-99,13,9,13,24,0,IHL
+15,Springfield Falcons,14,1999-00,32,29,51,25,0,AHL
+17,Springfield Falcons,16,2000-01,66,33,53,26,-10,AHL
+1,Jackson Bandits,1,2001-02,2,2,0,27,-1,ECHL
+34,Manchester Monarchs,24,2001-02,65,58,45,27,-2,AHL
+31,Manchester Monarchs,42,2002-03,75,73,47,28,4,AHL
+20,Chicago Wolves,31,2003-04,71,51,52,29,-7,AHL
+13,Adler Mannheim,16,2004-05,50,29,54,30,0,Germany
+42,Providence Bruins,29,2005-06,66,71,49,31,15,AHL
+48,Springfield Falcons,27,2006-07,80,75,51,32,-27,AHL
+36,Lake Erie Monsters,22,2007-08,74,58,48,33,-24,AHL
+8,SCL Tigers Langnau,4,2008-09,13,12,6,34,0,Swiss
+15,Mora IK,10,2008-09,20,25,36,34,0,Sweden-2

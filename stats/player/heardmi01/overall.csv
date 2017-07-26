@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1992-03-12,", ",C,Mitchell Heard,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",C,1992-03-12,Mitchell Heard

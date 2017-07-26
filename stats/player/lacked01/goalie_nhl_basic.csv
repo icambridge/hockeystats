@@ -1,0 +1,5 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+6.1,5,NHL,41,VAN,2319,26,17,103,0,93,37,-2.35,5,4,16,0,.541,0,20,.912,2013-14,1052,2.41,0,"[{'link': '/awards/voting-2014.html#calder', 'name': 'Calder-16'}]",959
+8.1,5,NHL,41,VAN,2324,27,13,93,0,95,35,7.51,4,2,18,0,.514,0,18,.921,2014-15,1201,2.45,2,[],1106
+3.9,7,NHL,34,CAR,1920,28,14,116,2,90,31,-12.52,6,2,12,2,.452,0,14,.901,2015-16,910,2.81,0,[],820
+2.3,3,NHL,20,CAR,1090,29,7,113,0,48,18,-5.42,3,1,8,0,.500,0,9,.902,2016-17,492,2.64,0,[],444

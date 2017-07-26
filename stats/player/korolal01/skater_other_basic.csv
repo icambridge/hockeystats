@@ -1,0 +1,28 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1993-94,18,4,20,4,0,CIS,22,Krylja Sovetov Moscow,8
+1993-94,18,2,0,3,0,EJC-A,5,Russia,5
+1994-95,19,16,62,13,0,CIS,52,Krylja Sovetov Moscow,29
+1994-95,19,8,47,2,0,WJC-A,7,Russia,10
+1995-96,20,30,77,19,0,CIS,50,Krylja Sovetov Moscow,49
+1995-96,20,5,4,2,0,WJC-A,7,Russia,7
+1996-97,21,8,46,5,0,Russia,17,Krylja Sovetov Moscow,13
+1996-97,21,20,71,16,0,IHL,42,Manitoba Moose,36
+1996-97,21,2,6,3,0,WC-A,6,Russia,5
+1997-98,22,16,96,23,-2,AHL,44,Kentucky Thoroughblades,39
+1998-99,23,9,16,13,2,AHL,23,Kentucky Thoroughblades,22
+2000-01,25,0,4,5,0,Russia,6,Ak Bars Kazan,5
+2000-01,25,1,6,1,-1,WC-A,7,Russia,2
+2002-03,27,14,46,17,0,Russia,45,Ak Bars Kazan,31
+2004-05,29,24,54,28,0,Russia-2,42,Vityaz Chekhov,52
+2004-05,29,4,14,3,0,Russia,10,Khimik Moscow Region (Voskresensk),7
+2005-06,30,19,86,15,0,Russia,45,Vityaz Chekhov,34
+2005-06,30,1,6,1,0,Olympics,6,Russia,2
+2006-07,31,17,76,28,0,Russia,48,Vityaz Chekhov,45
+2007-08,32,16,52,35,0,Russia,50,Vityaz Chekhov,51
+2008-09,33,23,32,32,0,KHL,56,Atlant Moscow Region,55
+2009-10,34,8,38,21,0,KHL,54,SKA St. Petersburg,29
+2010-11,35,14,30,26,0,KHL,48,Lokomotiv Yaroslavl,40
+2011-12,36,8,26,26,0,KHL,50,Neftekhimik Nizhnekamsk,34
+2012-13,37,15,51,15,0,KHL,46,2 Teams,30
+2012-13,37,15,51,14,0,KHL,41,Vityaz Chekhov,29
+2012-13,37,0,0,1,0,KHL,5,Metallurg Magnitogorsk,1

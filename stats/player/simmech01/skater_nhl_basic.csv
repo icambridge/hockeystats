@@ -1,0 +1,17 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,35,0,20,46,21,4,,CGS,[],17.4,6,13,-2,8,0,1974-75,,2,26,0,9
+NHL,21,0,21,12,2,0,,CGS,[],8.3,0,1,-9,1,0,1975-76,,1,22,0,1
+NHL,24,0,22,42,2,0,,CLE,[],4.8,1,0,-11,2,0,1976-77,,1,16,0,0
+NHL,3,0,23,4,0,0,,LAK,[],0.0,0,0,0,0,0,1977-78,,0,2,0,0
+NHL,38,0,24,112,48,11,,LAK,[],18.8,13,27,9,21,0,1978-79,,8,16,0,16
+NHL,64,8,25,213,101,17,,LAK,"[{'link': '/awards/nhl_all_star.html#1980', 'name': None}]",26.3,35,45,47,0,0,1979-80,,0,65,0,28
+NHL,65,9,26,171,105,17,,LAK,"[{'link': '/awards/nhl_all_star.html#1981', 'name': None}]",0,33,49,31,56,0,1980-81,,23,62,0,32
+NHL,50,2,27,88,39,7,,LAK,[],17.0,12,24,-7,15,0,1981-82,,3,42,0,17
+NHL,0,1,28,183,80,14,,LAK,[],15.8,17,51,0,29,1,1982-83,,11,51,0,37
+NHL,79,4,29,188,92,14,,LAK,"[{'link': '/awards/voting-1984.html#AS', 'name': 'AS-5'}]",23.4,30,48,7,44,1,1983-84,,13,78,0,34
+NHL,68,5,30,136,64,8,,TOT,[],25.0,22,30,10,34,0,1984-85,,12,39,0,22
+NHL,5,0,30,8,1,0,,LAK,[],12.5,1,0,-4,1,0,1984-85,,0,4,0,0
+NHL,63,5,30,128,63,8,,BOS,[],25.8,21,30,14,33,0,1984-85,,12,35,0,22
+NHL,55,5,31,141,60,8,,BOS,"[{'link': '/awards/voting-1986.html#AS', 'name': 'AS-6'}, {'link': '/awards/voting-1986.html#byng', 'name': 'Byng-14'}, {'link': '/awards/masterton.html#1986', 'name': None}]",25.5,22,24,12,36,0,1985-86,,14,42,0,16
+NHL,80,4,32,137,69,10,,BOS,"[{'link': '/awards/voting-1987.html#AS', 'name': 'AS-10'}]",21.2,18,40,20,29,0,1986-87,,11,59,0,30
+NHL,50,3,33,58,28,7,,PIT,[],19.0,6,17,6,11,0,1987-88,,5,24,0,10

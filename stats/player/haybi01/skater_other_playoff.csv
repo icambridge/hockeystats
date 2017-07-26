@@ -1,5 +1,5 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-0,Regina Pats,2,0,2,WCJHL,7,1952-53,17,0
-6,Regina Pats,2,0,10,WCJHL,14,1954-55,19,8
-12,Regina Pats,11,0,23,M-Cup,15,1954-55,19,12
-6,Calgary Stampeders,5,0,8,WHL,8,1958-59,23,3
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+2,Regina Pats,0,1952-53,7,2,0,17,0,WCJHL
+2,Regina Pats,8,1954-55,14,10,6,19,0,WCJHL
+11,Regina Pats,12,1954-55,15,23,12,19,0,M-Cup
+5,Calgary Stampeders,3,1958-59,8,8,6,23,0,WHL

@@ -1,0 +1,36 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1989-90,15,0,0,0,0,Fin-Jr.,2,Karpat Oulu Jr.,0
+1990-91,16,6,12,7,0,Fin-Jr.,28,Karpat Oulu Jr.,13
+1991-92,17,5,4,2,0,WHL,16,Tacoma Rockets,7
+1991-92,17,1,8,4,0,Fin-Jr.,7,Karpat Oulu Jr.,5
+1991-92,17,0,0,0,0,Finland-2,2,Karpat Oulu,0
+1991-92,17,1,2,3,0,EJC-A,5,Finland,4
+1992-93,18,13,34,19,0,Fin-Jr.,24,Karpat Oulu Jr.,32
+1992-93,18,4,6,3,0,Finland-2,20,Karpat Oulu,7
+1993-94,19,2,2,2,0,Fin-Jr.,6,TPS Turku Jr.,4
+1993-94,19,2,0,1,0,Finland-2,2,Kiekko-67 Turku,3
+1993-94,19,9,14,9,0,Finland,43,TPS Turku,18
+1993-94,19,1,2,1,0,Con-Cup,4,Finland,2
+1994-95,20,0,0,0,0,Fin-Jr.,1,TPS Turku Jr.,0
+1994-95,20,7,64,13,0,Finland,49,TPS Turku,20
+1994-95,20,1,2,1,0,Con-Cup,4,TPS Turku,2
+1995-96,21,13,34,14,0,Finland,45,TPS Turku,27
+1996-97,22,14,36,8,0,Sweden,50,Vastra Frolunda HC Goteborg,22
+1996-97,22,2,4,6,0,EuroHL,5,Vastra Frolunda HC Goteborg,8
+1997-98,23,24,20,22,0,Finland,48,Tappara Tampere,46
+1998-99,24,22,32,19,0,Finland,54,Tappara Tampere,41
+1999-00,25,18,24,25,0,Finland,54,HIFK Helsinki,43
+1999-00,25,1,6,3,0,EuroHL,6,HIFK Helsinki,4
+2000-01,26,15,20,18,0,Finland,56,HIFK Helsinki,33
+2001-02,27,15,24,26,0,Finland,55,Karpat Oulu,41
+2001-02,27,0,0,0,0,WC-A,7,Finland,0
+2002-03,28,1,0,0,2,WC-A,7,Finland,1
+2003-04,29,1,2,2,2,AHL,5,Syracuse Crunch,3
+2003-04,29,3,2,0,1,WC-A,7,Finland,3
+2004-05,30,16,26,20,0,Finland,45,HIFK Helsinki,36
+2005-06,31,1,6,4,0,AHL,8,Wilkes-Barre Penguins,5
+2005-06,31,0,2,2,0,Swiss,6,Kloten Flyers,2
+2006-07,32,10,44,16,0,Sweden,54,IF Malmo Redhawks,26
+2006-07,32,2,6,1,0,Sweden-Q,10,IF Malmo Redhawks,3
+2007-08,33,4,2,2,0,Sweden-2,4,IF Malmo Redhawks,6
+2008-09,34,0,4,1,0,Finland,7,Pelicans Lahti,1

@@ -1,5 +1,5 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-30,Detroit Compuware Ambassadors,5,0,8,OHL,7,1991-92,16,3
-39,Detroit Jr. Red Wings,12,0,21,OHL,15,1992-93,17,9
-26,Detroit Jr. Red Wings,12,0,22,OHL,17,1993-94,18,10
-10,Dundas Real McCoys,8,0,11,OHA-Sr.,9,2007-08,32,3
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+5,Detroit Compuware Ambassadors,3,1991-92,7,8,30,16,0,OHL
+12,Detroit Jr. Red Wings,9,1992-93,15,21,39,17,0,OHL
+12,Detroit Jr. Red Wings,10,1993-94,17,22,26,18,0,OHL
+8,Dundas Real McCoys,3,2007-08,9,11,10,32,0,OHA-Sr.

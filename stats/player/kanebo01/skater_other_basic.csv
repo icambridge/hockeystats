@@ -1,0 +1,24 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,16,6,6,5,0,WHL,25,Regina Pats,11
+1995-96,17,21,155,42,0,WHL,72,Regina Pats,63
+1996-97,18,25,119,50,25,WHL,66,Regina Pats,75
+1997-98,19,48,133,45,38,WHL,68,Regina Pats,93
+1998-99,20,3,23,5,0,AHL,56,Hartford Wolf Pack,8
+1998-99,20,5,14,6,0,ECHL,12,Charlotte Checkers,11
+1999-00,21,0,9,0,0,AHL,8,Hartford Wolf Pack,0
+1999-00,21,10,110,19,-1,ECHL,47,Charlotte Checkers,29
+1999-00,21,0,4,2,1,UHL,3,Binghamton Icemen,2
+2000-01,22,9,6,8,12,ECHL,12,Charlotte Checkers,17
+2000-01,22,11,81,17,-4,AHL,56,Hartford Wolf Pack,28
+2001-02,23,17,193,22,2,AHL,78,Hartford Wolf Pack,39
+2002-03,24,15,121,22,-2,AHL,72,Springfield Falcons,37
+2003-04,25,13,177,22,11,AHL,73,Philadelphia Phantoms,35
+2004-05,26,9,112,15,-5,AHL,58,Philadelphia Phantoms,24
+2005-06,27,20,185,29,-6,AHL,74,Hershey Bears,49
+2006-07,28,10,98,22,-16,AHL,57,Philadelphia Phantoms,32
+2007-08,29,18,102,26,7,AHL,57,Philadelphia Phantoms,44
+2008-09,30,17,74,26,5,AHL,58,Philadelphia Phantoms,43
+2009-10,31,24,77,20,24,AHL,76,Hershey Bears,44
+2010-11,32,24,80,25,14,AHL,74,Hershey Bears,49
+2011-12,33,19,149,22,12,AHL,67,Hershey Bears,41
+2012-13,34,15,66,22,11,AHL,74,Hershey Bears,37

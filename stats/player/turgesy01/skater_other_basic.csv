@@ -1,0 +1,15 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1980-81,16,34,87,44,0,QAAA,43,Montreal-Bourassa,78
+1981-82,17,33,72,40,0,QMJHL,57,Hull Olympiques,73
+1982-83,18,54,105,109,0,QMJHL,66,Hull Olympiques,163
+1982-83,18,4,8,2,0,WJC-A,7,Canada,6
+1995-96,31,28,66,31,0,IHL,65,Houston Aeros,59
+1996-97,32,14,22,11,0,Alpenliga,23,HC Bolzano,25
+1996-97,32,4,12,6,0,German-2,10,EC Hannover Turtles,10
+1997-98,33,11,24,15,0,Germany,27,Revier Lowen Oberhausen,26
+1997-98,33,9,26,2,0,Swiss,14,SC Herisau,11
+1998-99,34,1,4,1,0,Swiss,5,SC Langnau,2
+1998-99,34,20,32,8,0,Germany,34,Kassel Huskies,28
+1999-00,35,32,49,13,0,Germany,49,Kassel Huskies,45
+2000-01,36,15,44,10,0,Germany,58,Kassel Huskies,25
+2001-02,37,8,53,7,0,Swiss-2,19,HC Thurgau,15

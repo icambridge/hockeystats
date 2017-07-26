@@ -1,0 +1,10 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+7.8,4,NHL,37,TOR,2080,22,10,91,1,90,35,8.79,5,3,20,1,.600,0,21,.921,2010-11,1134,2.60,2,"[{'link': '/awards/voting-2011.html#byng', 'name': 'Byng-22'}, {'link': '/awards/voting-2011.html#calder', 'name': 'Calder-15'}]",1044
+4.4,9,NHL,34,TOR,1879,23,14,115,0,97,34,-12.79,4,3,14,0,.382,0,13,.900,2011-12,974,3.10,0,[],877
+7.5,2,NHL,33,TOR,1856,24,8,87,1,76,31,11.64,5,4,19,1,.548,0,17,.924,2012-13,995,2.46,0,"[{'link': '/awards/voting-2013.html#AS', 'name': 'AS-7'}, {'link': '/awards/voting-2013.html#hart', 'name': 'Hart-23'}]",919
+6.3,8,NHL,36,TOR,1785,25,16,103,0,97,32,-2.73,1,1,12,0,.500,0,16,.911,2013-14,1094,3.26,2,[],997
+5.1,7,NHL,35,TOR,1767,26,16,109,0,93,27,-7.56,1,0,9,0,.481,0,13,.907,2014-15,1001,3.16,2,[],908
+7.6,6,NHL,40,TOT,2290,27,14,92,0,88,37,8.04,7,3,17,0,.595,0,22,.922,2015-16,1128,2.31,0,[],1040
+5.8,5,NHL,32,TOR,1809,27,12,96,0,75,29,3.33,7,0,11,0,.586,0,17,.918,2015-16,920,2.49,0,[],845
+1.8,1,NHL,8,SJS,481,27,2,0,0,13,8,0,0,3,6,0,.625,0,5,.938,2015-16,208,1.62,0,[],195
+8.1,4,NHL,43,FLA,2325,28,16,93,0,98,39,7.75,5,3,18,0,.487,0,19,.920,2016-17,1222,2.53,2,[],1124

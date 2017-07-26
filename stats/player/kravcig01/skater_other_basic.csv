@@ -1,0 +1,26 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1982-83,16,0,0,0,0,USSR,10,Salavat Yulayev Ufa,0
+1983-84,17,1,6,1,0,EJC-A,5,Soviet Union,2
+1984-85,18,3,22,2,0,USSR-2,50,Salavat Yulayev Ufa,5
+1984-85,18,0,6,3,0,WJC-A,7,Soviet Union,3
+1985-86,19,2,6,2,0,USSR,21,Salavat Yulayev Ufa,4
+1985-86,19,0,4,2,0,WJC-A,7,Soviet Union,2
+1986-87,20,0,8,1,0,USSR,22,Salavat Yulayev Ufa,1
+1987-88,21,0,2,4,0,Can-Cup,5,Soviet Union,4
+1987-88,21,1,12,8,0,USSR,48,CSKA Moscow,9
+1987-88,21,1,0,0,0,Olympics,6,Soviet Union,1
+1988-89,22,3,2,3,0,USSR,22,CSKA Moscow,6
+1989-90,23,1,16,3,0,USSR,48,CSKA Moscow,4
+1989-90,23,0,2,0,0,Fr-Tour,1,CSKA Moscow,0
+1989-90,23,0,0,3,0,Super-S,5,CSKA Moscow,3
+1989-90,23,1,8,4,0,WEC-A,10,Soviet Union,5
+1990-91,24,6,16,5,0,USSR,41,CSKA Moscow,11
+1990-91,24,0,0,0,0,Fr-Tour,1,CSKA Moscow,0
+1990-91,24,0,0,2,0,Super-S,7,CSKA Moscow,2
+1990-91,24,1,8,3,0,WEC-A,10,Soviet Union,4
+1991-92,25,0,2,0,0,Can-Cup,5,Soviet Union,0
+1991-92,25,3,6,8,0,CIS,30,CSKA Moscow,11
+1991-92,25,3,6,2,0,Olympics,8,Russia,5
+1997-98,31,0,2,2,0,Olympics,6,Russia,2
+1999-00,33,0,0,0,2,WC-A,6,Russia,0
+2001-02,35,0,0,2,-1,Olympics,6,Russia,2

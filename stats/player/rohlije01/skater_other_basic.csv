@@ -1,0 +1,31 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1981-82,16,57,0,73,0,MNHL,35,Chicago Jets,130
+1982-83,17,60,0,60,0,High-IL,25,Main West High School,120
+1983-84,18,44,22,53,0,WHL,71,Portland Winter Hawks,97
+1984-85,19,0,2,2,0,WJC-A,7,United States,2
+1984-85,19,39,26,52,0,WHL,65,2 Teams,91
+1984-85,19,5,2,13,0,WHL,16,Portland Winter Hawks,18
+1984-85,19,34,24,39,0,WHL,49,Kelowna Wings,73
+1985-86,20,50,39,52,0,WHL,57,Spokane Chiefs,102
+1986-87,21,19,22,37,0,AHL,70,Fredericton Express,56
+1987-88,22,26,50,31,0,AHL,65,Fredericton Express,57
+1988-89,23,47,106,63,0,IHL,78,Milwaukee Admirals,110
+1989-90,24,22,37,26,0,IHL,53,Milwaukee Admirals,48
+1989-90,24,1,4,2,0,AHL,12,Springfield Indians,3
+1990-91,25,1,6,1,0,AHL,4,New Haven Nighthawks,2
+1990-91,25,29,67,31,0,IHL,74,Phoenix Roadrunners,60
+1991-92,26,30,60,43,0,IHL,82,2 Teams,73
+1991-92,26,5,32,11,0,IHL,23,Phoenix Roadrunners,16
+1991-92,26,25,28,32,0,IHL,59,Indianapolis Ice,57
+1992-93,27,1,8,1,0,IHL,11,Milwaukee Admirals,2
+1992-93,27,5,14,8,0,ECHL,8,Toledo Storm,13
+1992-93,27,6,20,16,0,AHL,29,Adirondack Red Wings,22
+1993-94,28,29,60,55,0,ECHL,61,2 Teams,84
+1993-94,28,28,36,54,0,ECHL,57,Toledo Storm,82
+1993-94,28,1,24,1,0,ECHL,4,Nashville Knights,2
+1994-95,29,13,21,18,0,IHL,40,2 Teams,31
+1994-95,29,4,13,4,0,IHL,18,Chicago Wolves,8
+1994-95,29,9,8,14,0,IHL,22,Fort Wayne Komets,23
+1995-96,30,8,34,12,0,IHL,38,Fort Wayne Komets,20
+1996-97,31,34,34,56,0,ECHL,69,Mississippi Sea Wolves,90
+1997-98,32,7,30,15,-8,ECHL,29,Mississippi Sea Wolves,22

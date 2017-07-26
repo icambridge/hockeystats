@@ -1,0 +1,10 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,WCJHL,1,Saskatoon Blades,20,16,1,0,0,3,0,0,0,0,0,0,0,0,0,0,1973-74,0,9.00,0,0
+0,WCJHL,7,Saskatoon Blades,420,17,1,0,0,16,0,0,0,1,4,0,0,0,0,0,1974-75,0,2.29,0,0
+0,WCJHL,15,Saskatoon Blades,785,18,0,0,0,50,0,0,0,0,0,0,0,0,0,0,1975-76,0,3.82,0,0
+0,WCJHL,10,Portland Winter Hawks,611,19,0,0,0,27,0,0,0,1,0,0,0,0,0,0,1976-77,0,2.65,0,0
+0,IHL,3,Flint Generals,119,20,0,0,0,8,0,0,0,0,0,0,0,0,0,0,1977-78,0,4.03,0,0
+0,AHL,1,Rochester Americans,60,22,1,0,0,6,0,0,0,0,0,0,0,0,0,0,1979-80,0,6.00,0,0
+0,EHL,4,Richmond Rifles,240,23,0,0,0,23,0,0,0,0,0,0,0,0,0,0,1980-81,0,5.75,0,0
+0,ACHL,8,Mohawk Valley Stars,467,24,0,0,0,29,0,0,0,0,0,0,0,0,0,0,1981-82,0,3.73,0,0
+0,ACHL,9,Mohawk Valley Stars,544,25,0,0,0,33,0,0,0,0,0,0,0,0,0,0,1982-83,0,3.64,0,0

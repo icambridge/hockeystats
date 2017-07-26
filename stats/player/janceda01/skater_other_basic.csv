@@ -1,0 +1,22 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1995-96,14,9,67,22,0,Minor-ON,59,Riverside Selects,31
+1996-97,15,6,99,20,0,Minor-ON,47,Windsor Lions,26
+1997-98,16,3,145,11,0,ON-Jr.B,49,Tecumseh Bulldogs,14
+1998-99,17,2,115,12,21,OHL,68,London Knights,14
+1999-00,18,8,138,15,-7,OHL,59,London Knights,23
+2000-01,19,7,137,37,10,OHL,70,2 Teams,44
+2000-01,19,4,95,23,-6,OHL,39,London Knights,27
+2000-01,19,3,42,14,16,OHL,31,Sudbury Wolves,17
+2001-02,20,0,147,13,3,AHL,77,Utah Grizzlies,13
+2002-03,21,1,172,10,-12,AHL,76,Utah Grizzlies,11
+2003-04,22,5,171,17,-9,AHL,80,Utah Grizzlies,22
+2004-05,23,6,163,20,8,AHL,80,Hamilton Bulldogs,26
+2005-06,24,9,91,29,7,AHL,77,Iowa Stars,38
+2006-07,25,7,87,24,22,AHL,80,Hamilton Bulldogs,31
+2007-08,26,7,88,23,-34,AHL,70,2 Teams,30
+2007-08,26,4,52,16,-25,AHL,37,Norfolk Admirals,20
+2007-08,26,3,36,7,-9,AHL,33,Iowa Stars,10
+2008-09,27,1,76,27,24,AHL,76,Hamilton Bulldogs,28
+2009-10,28,3,71,20,18,AHL,78,Texas Stars,23
+2010-11,29,0,34,15,-2,AHL,75,Adirondack Phantoms,15
+2011-12,30,3,53,11,-3,AHL,75,Adirondack Phantoms,14

@@ -1,0 +1,32 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1989-90,15,24,82,36,0,ON-Jr.B,48,Guelph Jr. B\'s,60
+1990-91,16,27,85,28,0,ON-Jr.B,32,2 Teams,55
+1990-91,16,17,51,13,0,ON-Jr.B,18,Guelph Jr. B\'s,30
+1990-91,16,10,34,15,0,ON-Jr.B,14,Kingston Voyageurs,25
+1991-92,17,13,58,36,0,OHL,62,Detroit Compuware Ambassadors,49
+1992-93,18,57,91,88,0,OHL,63,Detroit Jr. Red Wings,145
+1993-94,19,45,81,64,0,OHL,57,Detroit Jr. Red Wings,109
+1994-95,20,16,118,15,0,AHL,61,Springfield Indians,31
+1994-95,20,0,0,1,0,ECHL,2,Richmond Renegades,1
+1995-96,21,0,0,0,0,IHL,1,Detroit Vipers,0
+1995-96,21,21,257,35,0,ECHL,50,Knoxville Cherokees,56
+1996-97,22,23,97,36,0,AHL,72,Baltimore Bandits,59
+1997-98,23,42,151,58,-7,AHL,77,Cincinnati Mighty Ducks,100
+1998-99,24,27,102,43,3,AHL,73,Cincinnati Mighty Ducks,70
+1999-00,25,24,61,38,3,AHL,57,Cincinnati Mighty Ducks,62
+2000-01,26,20,103,47,9,AHL,70,Cincinnati Mighty Ducks,67
+2001-02,27,24,83,49,-7,AHL,69,St. John\'s Maple Leafs,73
+2002-03,28,11,65,29,5,AHL,57,3 Teams,40
+2002-03,28,8,25,11,-2,AHL,27,St. John\'s Maple Leafs,19
+2002-03,28,1,17,6,5,AHL,16,Milwaukee Admirals,7
+2002-03,28,2,23,12,2,AHL,14,Binghamton Senators,14
+2003-04,29,19,84,34,0,Germany,50,Augsburger Panther,53
+2003-04,29,1,0,4,0,Austria,4,Vienna Capitals,5
+2004-05,30,14,40,51,0,Austria,42,Vienna Capitals,65
+2005-06,31,22,110,38,0,Austria,42,EV Vienna Capitals,60
+2006-07,32,29,172,57,0,Austria,49,EV Vienna Capitals,86
+2007-08,33,13,108,36,0,Germany,40,Iserlohn Roosters,49
+2008-09,34,21,132,40,0,Germany,51,Iserlohn Roosters,61
+2009-10,35,16,82,42,0,Germany,56,ERC Ingolstadt,58
+2010-11,36,5,60,17,0,Germany,44,ERC Ingolstadt,22
+2011-12,37,14,102,41,0,German-2,43,Ravensburg Towerstars,55

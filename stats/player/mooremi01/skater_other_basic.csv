@@ -1,0 +1,13 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+2002-03,18,3,187,10,0,BCHL,55,South Surrey Eagles,13
+2003-04,19,6,148,21,0,BCHL,52,Surrey Eagles,27
+2004-05,20,3,22,7,0,ECAC,25,Princeton University Tigers,10
+2005-06,21,0,42,4,0,ECAC,30,Princeton University Tigers,4
+2006-07,22,4,50,10,0,ECAC,32,Princeton University Tigers,14
+2007-08,23,7,40,17,0,ECAC,34,Princeton University Tigers,24
+2007-08,23,0,16,0,0,AHL,3,Worcester Sharks,0
+2008-09,24,5,132,13,14,AHL,76,Worcester Sharks,18
+2009-10,25,3,82,19,16,AHL,64,Worcester Sharks,22
+2010-11,26,2,50,10,5,AHL,49,Worcester Sharks,12
+2011-12,27,4,85,16,-8,AHL,61,Worcester Sharks,20
+2012-13,28,5,42,11,3,AHL,50,Milwaukee Admirals,16

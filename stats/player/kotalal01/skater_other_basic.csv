@@ -1,0 +1,18 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1993-94,15,12,0,12,0,CzRep-Jr.,28,HC Ceske Budejovice Jr.,24
+1994-95,16,26,0,17,0,CzRep-Jr.,36,HC Ceske Budejovice Jr.,43
+1995-96,17,6,0,7,0,CzRep-Jr.,28,HC Ceske Budejovice Jr.,13
+1996-97,18,15,24,16,0,CzRep-Jr.,36,HC Ceske Budejovice Jr.,31
+1997-98,19,9,14,7,0,CzRep,47,HC Ceske Budejovice,16
+1998-99,20,8,16,13,0,CzRep,41,HC Ceske Budejovice,21
+1999-00,21,7,34,12,0,CzRep,43,HC Ceske Budejovice,19
+2000-01,22,19,54,29,0,CzRep,52,HC Ceske Budejovice,48
+2001-02,23,18,55,25,-2,AHL,68,Rochester Americans,43
+2002-03,24,0,4,2,-5,AHL,8,Rochester Americans,2
+2004-05,26,8,46,8,0,CzRep,25,HC Bili Tygri Liberec,16
+2005-06,27,0,0,0,0,Olympics,4,Czech Republic,0
+2007-08,29,5,0,2,-1,WC-A,7,Czech Republic,7
+2008-09,30,2,4,1,0,WC-A,7,Czech Republic,3
+2010-11,32,6,10,16,6,AHL,25,Abbotsford Heat,22
+2011-12,33,8,20,16,0,CzRep,30,HC Mountfield Ceske Budejovice,24
+2012-13,34,14,70,22,0,CzRep,51,HC Mountfield Ceske Budejovice,36

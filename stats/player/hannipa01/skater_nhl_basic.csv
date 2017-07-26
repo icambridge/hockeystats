@@ -1,6 +1,6 @@
-power_play_goals,assists,points,power_play_assists,league,even_strength_assists,game_winning_goals,shorthanded_goals,shotsPercentage,games_played,average_ice_time,year,team,age,plus_minus,shorthanded_assists,even_strength_goals,pim,awards,total_ice_time,goals,shots
-0,0,0,0,NHL,0,0,0,0,1,,1959-60,TOR,23,0,0,0,0,[],,0,0
-0,9,20,0,NHL,0,0,0,0,53,,1960-61,NYR,24,0,0,0,24,[],,11,0
-0,14,22,0,NHL,0,0,0,0,56,,1961-62,NYR,25,0,0,0,34,[],,8,0
-0,15,26,2,NHL,13,2,0,17.5,65,,1967-68,PHI,31,6,0,11,36,[],,11,63
-0,1,1,0,NHL,1,0,0,0.0,7,,1968-69,PHI,32,-4,0,0,22,[],,0,5
+shotsPercentage,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,age,game_winning_goals,league,shorthanded_goals,average_ice_time,games_played,points,awards,power_play_goals
+0,1959-60,0,0,,0,0,0,0,0,0,TOR,0,23,0,NHL,0,,1,0,[],0
+0,1960-61,24,0,,0,0,0,0,0,9,NYR,11,24,0,NHL,0,,53,20,[],0
+0,1961-62,34,0,,0,0,0,0,0,14,NYR,8,25,0,NHL,0,,56,22,[],0
+17.5,1967-68,36,13,,0,63,2,11,6,15,PHI,11,31,2,NHL,0,,65,26,[],0
+0.0,1968-69,22,1,,0,5,0,0,-4,1,PHI,0,32,0,NHL,0,,7,1,[],0

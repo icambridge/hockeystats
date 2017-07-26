@@ -1,0 +1,27 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,15,0,0,2,0,Swiss,12,EHC Biel-Bienne,2
+1995-96,16,9,2,6,0,Swiss-2,34,EHC Biel-Bienne,15
+1995-96,16,1,0,0,0,WJC-A,6,Switzerland,1
+1996-97,17,16,49,16,0,Swiss-2,38,EHC Biel-Bienne,32
+1996-97,17,6,2,1,0,EJC-A,6,Switzerland,7
+1996-97,17,4,8,1,0,WJC-A,6,Switzerland,5
+1997-98,18,16,8,9,0,Swiss,32,HC Davos,25
+1997-98,18,4,0,1,0,WJC-A,7,Switzerland,5
+1997-98,18,0,0,1,0,WC-A,2,Switzerland,1
+1998-99,19,6,6,17,1,AHL,60,Hamilton Bulldogs,23
+1999-00,20,29,20,31,-7,AHL,73,Hamilton Bulldogs,60
+1999-00,20,1,2,0,-1,WC-A,1,Switzerland,1
+2000-01,21,26,14,28,-13,AHL,69,Hamilton Bulldogs,54
+2000-01,21,3,0,1,2,WC-A,6,Switzerland,4
+2001-02,22,12,28,12,0,Swiss,35,HC Davos,24
+2002-03,23,17,32,17,0,Swiss,44,HC Davos,34
+2003-04,24,16,14,13,0,Swiss,47,HC Davos,29
+2004-05,25,19,10,14,0,Swiss,44,HC Davos,33
+2005-06,26,17,18,12,0,Swiss,39,HC Davos,29
+2006-07,27,37,70,14,0,Swiss,44,HC Davos,51
+2007-08,28,13,18,17,0,Swiss,39,HC Davos,30
+2008-09,29,24,32,17,0,Swiss,50,HC Davos,41
+2009-10,30,11,12,18,0,Swiss,41,Rapperswil-Jona Lakers,29
+2010-11,31,9,16,10,0,Swiss,46,Rapperswil-Jona Lakers,19
+2011-12,32,7,4,11,0,Swiss,35,Rapperswil-Jona Lakers,18
+2012-13,33,13,30,10,0,Swiss,47,Rapperswil-Jona Lakers,23

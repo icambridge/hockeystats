@@ -1,4 +1,4 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-2,1987-88,Regina Pats,1,0,17,4,2,1,WHL
-16,1989-90,Regina Pats,9,0,19,11,11,2,WHL
-6,1990-91,Rochester Americans,1,0,20,10,3,2,AHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+1,Regina Pats,1,1987-88,4,2,2,17,0,WHL
+9,Regina Pats,2,1989-90,11,11,16,19,0,WHL
+1,Rochester Americans,2,1990-91,10,3,6,20,0,AHL

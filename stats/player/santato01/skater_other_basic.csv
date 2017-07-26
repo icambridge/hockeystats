@@ -1,0 +1,32 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1995-96,16,8,12,4,0,Fin-U18,25,Jokerit Helsinki U18,12
+1996-97,17,13,64,19,0,Fin-U18,30,Jokerit Helsinki U18,32
+1996-97,17,0,10,2,0,Fin-Jr.,20,Jokerit Helsinki Jr.,2
+1997-98,18,10,48,28,0,Fin-Jr.,36,Jokerit Helsinki Jr.,38
+1998-99,19,20,20,24,0,Fin-Jr.,30,Jokerit Helsinki Jr.,44
+1998-99,19,0,14,0,0,Finland,30,Jokerit Helsinki,0
+1998-99,19,0,0,2,0,EuroHL,1,Jokerit Helsinki,2
+1998-99,19,1,6,1,0,WJC-A,6,Finland,2
+1999-00,20,8,65,20,0,Finland,52,2 Teams,28
+1999-00,20,13,8,7,0,Fin-Jr.,11,2 Teams,20
+1999-00,20,6,4,4,0,Fin-Jr.,5,Jokerit Helsinki Jr.,10
+1999-00,20,0,2,1,0,Finland,14,Jokerit Helsinki,1
+1999-00,20,7,4,3,0,Fin-Jr.,6,HPK Hameenlinna Jr.,10
+1999-00,20,8,63,19,0,Finland,38,HPK Hameenlinna,27
+2000-01,21,16,90,24,0,Finland,56,HPK Hameenlinna,40
+2001-02,22,6,14,16,0,Finland,17,HPK Hameenlinna,22
+2002-03,23,13,92,38,0,Finland,50,HPK Hameenlinna,51
+2002-03,23,0,6,1,1,WC-A,7,Finland,1
+2003-04,24,15,34,22,1,AHL,50,Chicago Wolves,37
+2004-05,25,8,83,40,12,AHL,67,Chicago Wolves,48
+2005-06,26,9,80,23,0,Finland,43,Jokerit Helsinki,32
+2005-06,26,0,2,0,0,WC-A,1,Finland,0
+2006-07,27,0,8,3,0,AHL,6,Manitoba Moose,3
+2007-08,28,28,82,30,0,Finland,56,Jokerit Helsinki,58
+2008-09,29,13,96,35,0,Swiss,50,Kloten Flyers,48
+2008-09,29,0,4,0,0,WC-A,7,Finland,0
+2009-10,30,17,59,32,0,Swiss,47,Kloten Flyers,49
+2009-10,30,0,4,0,-3,WC-A,6,Finland,0
+2010-11,31,10,78,36,0,Swiss,49,Kloten Flyers,46
+2011-12,32,9,46,35,0,Swiss,47,Kloten Flyers,44
+2012-13,33,11,62,27,0,Swiss,45,Kloten Flyers,38

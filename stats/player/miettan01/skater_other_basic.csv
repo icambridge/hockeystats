@@ -1,0 +1,25 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1996-97,16,24,34,29,0,Fin-U18,36,HPK Hameenlinna U18,53
+1997-98,17,13,63,28,0,Fin-U18,34,HPK Hameenlinna U18,41
+1997-98,17,1,2,0,0,Fin-Jr.,8,HPK Hameenlinna Jr.,1
+1998-99,18,17,28,22,0,Fin-Jr.,35,HPK Hameenlinna Jr.,39
+1998-99,18,3,6,1,0,Finland-2,4,FPS Forssa,4
+1998-99,18,0,2,0,0,Finland,13,HPK Hameenlinna,0
+1999-00,19,24,28,53,0,Fin-Jr.,31,HPK Hameenlinna Jr.,77
+1999-00,19,2,8,1,0,Finland,39,HPK Hameenlinna,3
+1999-00,19,4,2,1,-2,WJC-A,7,Finland,5
+2000-01,20,3,2,10,0,Fin-Jr.,4,HPK Hameenlinna Jr.,13
+2000-01,20,13,20,11,0,Finland,55,HPK Hameenlinna,24
+2001-02,21,19,50,37,0,Finland,56,HPK Hameenlinna,56
+2001-02,21,2,4,4,3,WC-A,9,Finland,6
+2002-03,22,25,54,25,0,Finland,53,HPK Hameenlinna,50
+2002-03,22,0,0,1,-1,WC-A,6,Finland,1
+2003-04,23,7,20,23,-17,AHL,48,Utah Grizzlies,30
+2004-05,24,8,21,20,11,AHL,35,Hamilton Bulldogs,28
+2005-06,25,2,10,2,0,WC-A,9,Finland,4
+2006-07,26,1,6,1,0,WC-A,8,Finland,2
+2008-09,28,3,6,5,1,WC-A,7,Finland,8
+2009-10,29,1,0,0,-3,Olympics,6,Finland,1
+2009-10,29,0,4,2,2,WC-A,6,Finland,2
+2011-12,31,2,8,6,0,KHL,20,Ak Bars Kazan,8
+2012-13,32,4,10,4,0,Finland,15,HPK Hameenlinna,8

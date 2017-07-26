@@ -1,0 +1,13 @@
+goalie_point_share,bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,awards,saves
+7.3,0,NHL,39,PIT,2058,22,12,91,0,101,0,10.09,2,3,21,0,0,0,0,.913,1996-97,1166,2.94,0,"[{'link': '/awards/voting-1997.html#calder', 'name': 'Calder-5'}]",1065
+5.2,0,NHL,38,OTT,2038,25,14,99,0,79,0,0.74,3,3,19,0,0,0,0,.905,1999-00,834,2.33,4,[],755
+12.0,0,NHL,60,OTT,3607,26,19,89,1,141,0,17.65,5,7,36,1,0,0,0,.914,2000-01,1640,2.35,2,"[{'link': '/awards/voting-2001.html#AS', 'name': 'AS-7'}, {'link': '/awards/voting-2001.html#byng', 'name': 'Byng-42'}, {'link': '/awards/voting-2001.html#hart', 'name': 'Hart-23'}, {'link': '/awards/voting-2001.html#vezina', 'name': 'Vezina-9'}]",1499
+8.5,0,NHL,61,OTT,3583,27,24,105,1,148,0,-7.69,8,7,27,1,0,0,0,.903,2001-02,1521,2.48,19,[],1373
+10.0,0,NHL,67,OTT,3943,28,20,98,1,142,0,3.04,7,8,39,1,0,0,0,.911,2002-03,1591,2.16,6,"[{'link': '/awards/voting-2003.html#AS', 'name': 'AS-4'}, {'link': '/awards/voting-2003.html#vezina', 'name': 'Vezina-5'}]",1449
+7.2,0,NHL,57,OTT,3324,29,23,107,2,127,0,-8.20,7,5,25,2,0,0,0,.905,2003-04,1334,2.29,17,[],1207
+3.4,0,NHL,31,STL,1699,31,18,120,0,103,0,-17.30,8,0,4,0,0,0,0,.881,2005-06,868,3.64,0,[],765
+1.6,0,NHL,12,CHI,645,32,6,0,0,33,0,0,1,1,4,0,0,0,0,.896,2006-07,317,3.07,0,[],284
+4.0,5,NHL,32,CHI,1828,33,12,113,0,86,30,-10.15,2,1,16,0,.467,0,14,.897,2007-08,835,2.82,8,[],749
+3.3,6,NHL,24,BUF,1297,34,13,109,0,67,21,-5.78,3,0,5,0,.524,0,11,.900,2008-09,669,3.10,0,[],602
+2.4,3,NHL,16,BUF,854,35,8,104,0,40,13,-1.67,2,0,4,0,.462,0,6,.907,2009-10,432,2.81,2,[],392
+0.5,1,NHL,7,BUF,365,36,5,0,1,18,4,0,0,0,0,1,.000,0,0,.890,2010-11,163,2.96,0,[],145

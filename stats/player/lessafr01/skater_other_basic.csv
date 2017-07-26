@@ -1,0 +1,19 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1994-95,15,0,0,0,0,QAAA,1,Laval-Laurentides,0
+1995-96,16,5,73,7,0,QAAA,41,Laval-Laurentides,12
+1996-97,17,1,312,9,2,QMJHL,66,Val-d\'Or Foreurs,10
+1997-98,18,3,338,20,11,QMJHL,63,Val-d\'Or Foreurs,23
+1998-99,19,12,295,36,-24,QMJHL,53,Drummondville Voltigeurs,48
+1999-00,20,4,416,8,19,AHL,78,Philadelphia Phantoms,12
+2000-01,21,3,330,7,-11,AHL,64,Philadelphia Phantoms,10
+2001-02,22,2,285,7,-2,AHL,67,2 Teams,9
+2001-02,22,0,251,6,-6,AHL,60,Philadelphia Phantoms,6
+2001-02,22,2,34,1,4,AHL,7,Chicago Wolves,3
+2002-03,23,2,194,5,3,AHL,50,Chicago Wolves,7
+2005-06,26,2,161,3,-6,AHL,36,Chicago Wolves,5
+2006-07,27,3,309,6,-4,AHL,58,Hartford Wolf Pack,9
+2007-08,28,4,49,1,2,AHL,14,Hartford Wolf Pack,5
+2008-09,29,2,324,2,-12,AHL,59,San Antonio Rampage,4
+2009-10,30,2,289,2,-11,AHL,61,San Antonio Rampage,4
+2010-11,31,2,187,1,-5,AHL,36,Binghamton Senators,3
+2011-12,32,1,138,1,-3,AHL,43,Binghamton Senators,2

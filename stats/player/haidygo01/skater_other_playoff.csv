@@ -1,12 +1,12 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-4,1944-45,Windsor Jr. Spitfires,2,0,16,2,3,1,OHA-B
-8,1946-47,Windsor Spitfires,6,0,18,6,25,19,IHL
-34,1947-48,Windsor Spitfires,5,0,19,12,15,10,OHA-Jr.
-0,1948-49,Indianapolis Capitols,0,0,20,2,0,0,AHL
-4,1949-50,Indianapolis Capitols,1,0,21,8,6,5,AHL
-0,1950-51,Indianapolis Capitols,0,0,22,3,0,0,AHL
-8,1953-54,Windsor Bulldogs,1,0,25,4,3,2,OHA-Sr.
-27,1954-55,Windsor Bulldogs,13,0,26,12,15,2,OHA-Sr.
-48,1956-57,Windsor Bulldogs,11,0,28,11,16,5,OHA-Sr.
-12,1959-60,Windsor Bulldogs,15,0,31,17,27,12,OHA-Sr.
-12,1961-62,Windsor Bulldogs,9,0,33,13,18,9,OHA-Sr.
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+2,Windsor Jr. Spitfires,1,1944-45,2,3,4,16,0,OHA-B
+6,Windsor Spitfires,19,1946-47,6,25,8,18,0,IHL
+5,Windsor Spitfires,10,1947-48,12,15,34,19,0,OHA-Jr.
+0,Indianapolis Capitols,0,1948-49,2,0,0,20,0,AHL
+1,Indianapolis Capitols,5,1949-50,8,6,4,21,0,AHL
+0,Indianapolis Capitols,0,1950-51,3,0,0,22,0,AHL
+1,Windsor Bulldogs,2,1953-54,4,3,8,25,0,OHA-Sr.
+13,Windsor Bulldogs,2,1954-55,12,15,27,26,0,OHA-Sr.
+11,Windsor Bulldogs,5,1956-57,11,16,48,28,0,OHA-Sr.
+15,Windsor Bulldogs,12,1959-60,17,27,12,31,0,OHA-Sr.
+9,Windsor Bulldogs,9,1961-62,13,18,12,33,0,OHA-Sr.

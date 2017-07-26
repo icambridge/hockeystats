@@ -1,0 +1,23 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,USHL,23,Sioux City Musketeers,1131,17,10,0,0,100,0,0,0,0,7,0,0,0,0,0,1991-92,0,5.31,0,0
+0,BCJHL,44,Kelowna Spartans,2582,18,8,0,0,137,0,0,0,1,34,0,0,0,0,0,1992-93,0,3.18,0,0
+0,WCHA,20,Northern Michigan U.,985,19,7,0,0,57,0,0,0,2,9,0,0,0,0,0,1993-94,0,3.47,0,0
+0,WCHA,29,Northern Michigan U.,1512,20,17,0,0,107,0,0,3,0,8,0,0,0,0,0,1994-95,0,4.25,0,0
+0,WCHA,31,Northern Michigan U.,1627,21,21,0,0,123,0,0,2,0,7,0,0,0,0,0,1995-96,0,4.54,0,0
+0,WCHA,26,Northern Michigan U.,1528,22,15,0,0,99,0,0,2,0,8,0,0,0,0,0,1996-97,0,3.89,0,0
+0,ECHL,18,Louisville RiverFrogs,980,23,9,0,0,61,0,0,2,1,7,0,0,0,0,0,1997-98,0,3.73,0,0
+0,UHL,40,Binghamton Icemen,2322,24,16,0,1,115,0,0,5,2,18,0,0,1,0,.907,1998-99,1240,2.97,4,1125
+0,UHL,43,Binghamton Icemen,2544,25,11,0,1,110,0,0,3,4,29,1,0,0,0,.922,1999-00,1407,2.59,2,1297
+0,AHL,2,Springfield Falcons,120,25,1,0,0,5,0,0,0,1,1,0,0,0,0,.921,1999-00,63,2.50,0,58
+0,IHL,6,2 Teams,333,25,0,0,1,5,0,0,1,1,5,1,0,0,0,.961,1999-00,129,0.90,2,124
+0,IHL,4,Orlando Solar Bears,240,25,0,0,0,4,0,0,0,1,4,0,0,0,0,.958,1999-00,96,1.00,2,92
+0,IHL,2,Grand Rapids Griffins,93,25,0,0,1,1,0,0,1,0,1,1,0,0,0,.970,1999-00,33,0.65,0,32
+0,IHL,49,Detroit Vipers,2606,26,28,0,5,154,0,0,3,0,13,5,0,0,0,.894,2000-01,1451,3.55,6,1297
+0,AHL,45,Springfield Falcons,2518,27,20,0,1,112,0,0,1,2,21,1,0,0,0,.910,2001-02,1242,2.67,23,1130
+0,WC-A,3,United States,149,27,0,0,0,5,0,0,0,0,0,0,0,0,0,0,2001-02,0,2.01,0,0
+0,AHL,25,Houston Aeros,1447,28,6,0,0,61,0,0,3,1,15,0,0,0,0,.907,2002-03,659,2.53,2,598
+0,AHL,45,Bridgeport Sound Tigers,2728,29,17,0,0,85,0,0,7,6,20,0,0,0,0,.933,2003-04,1277,1.87,2,1192
+0,AHL,39,Bridgeport Sound Tigers,2303,30,19,0,1,102,0,0,0,1,19,1,0,0,0,.914,2004-05,1191,2.66,10,1089
+0,Russia,8,Sibir Novosibirsk,417,31,0,0,0,23,0,0,0,0,0,0,0,0,0,0,2005-06,0,3.31,0,0
+0,AHL,15,Portland Pirates,838,31,4,0,1,38,0,0,1,1,9,1,0,0,0,.916,2005-06,453,2.72,2,415
+0,AHL,23,Houston Aeros,1188,32,14,0,0,65,0,0,1,1,6,0,0,0,0,.903,2006-07,669,3.28,4,604

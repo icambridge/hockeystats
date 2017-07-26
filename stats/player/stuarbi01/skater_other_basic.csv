@@ -1,0 +1,12 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1916-17,16,6,0,0,0,NSCHL,4,Amherst Ramblers,6
+1917-18,17,8,0,2,0,Exhib.,7,Amherst Victorias,10
+1918-19,18,9,0,3,0,Exhib.,5,Springhill Miners,12
+1919-20,19,21,18,3,0,Exhib.,6,Amherst Ramblers,24
+1920-21,20,0,0,0,0,MIL,1,Amherst Ramblers,0
+1927-28,27,5,80,2,0,AHA,39,Minneapolis Millers,7
+1928-29,28,17,87,6,0,AHA,39,Minneapolis Millers,23
+1929-30,29,12,70,8,0,AHA,48,Minneapolis Millers,20
+1930-31,30,5,20,8,0,PCHL,34,Seattle Eskimos,13
+1931-32,31,15,56,2,0,AHA,48,Duluth Hornets,17
+1932-33,32,3,37,1,0,CHL,39,Minneapolis Millers,4

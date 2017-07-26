@@ -1,2 +1,2 @@
-power_play_goals,assists,points,power_play_assists,league,even_strength_assists,game_winning_goals,shorthanded_goals,shotsPercentage,games_played,average_ice_time,year,team,age,plus_minus,shorthanded_assists,even_strength_goals,pim,awards,total_ice_time,goals,shots
-0,9,14,0,WHA,0,0,0,14.7,30,,1975-76,CGC,20,5,0,5,6,[],,5,34
+shotsPercentage,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,age,game_winning_goals,league,shorthanded_goals,average_ice_time,games_played,points,awards,power_play_goals
+14.7,1975-76,6,0,,0,34,0,5,5,9,CGC,5,20,0,WHA,0,,30,14,[],0

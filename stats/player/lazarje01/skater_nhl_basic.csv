@@ -1,0 +1,4 @@
+league,games_played,game_winning_goals,age,shots,points,power_play_assists,total_ice_time,team,awards,shotsPercentage,even_strength_goals,assists,plus_minus,goals,shorthanded_goals,year,average_ice_time,power_play_goals,pim,shorthanded_assists,even_strength_assists
+NHL,49,1,22,73,18,0,,BOS,[],6.8,3,13,7,5,1,1990-91,,1,67,0,13
+NHL,27,0,23,46,9,0,,BOS,[],6.5,3,6,4,3,0,1991-92,,0,31,0,6
+NHL,26,0,24,38,10,1,,OTT,[],15.8,5,4,-8,6,1,1992-93,,0,16,1,2

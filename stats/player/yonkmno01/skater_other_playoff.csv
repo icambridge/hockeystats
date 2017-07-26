@@ -1,0 +1,12 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1997-98,16,0,2,0,0,WHL,7,Kelowna Rockets,0
+1998-99,17,0,6,0,0,WHL,6,Kelowna Rockets,0
+1999-00,18,0,8,0,0,WHL,5,Kelowna Rockets,0
+2000-01,19,0,12,1,0,WHL,6,Brandon Wheat Kings,1
+2002-03,21,0,2,1,-1,AHL,3,Portland Pirates,1
+2006-07,25,0,2,0,-1,AHL,4,Milwaukee Admirals,0
+2007-08,26,0,18,1,1,AHL,6,Milwaukee Admirals,1
+2008-09,27,0,15,0,5,AHL,11,Milwaukee Admirals,0
+2009-10,28,0,2,1,-2,AHL,7,Milwaukee Admirals,1
+2011-12,30,0,8,2,0,AHL,10,San Antonio Rampage,2
+2013-14,32,0,1,1,7,AHL,8,Norfolk Admirals,1

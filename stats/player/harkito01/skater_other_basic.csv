@@ -1,24 +1,24 @@
-pim,team,assists,plus_minus,points,league,games_played,year,age,goals
-102,Aurora Eagles,29,0,48,ON-Jr.A,40,1986-87,18,19
-133,Miami University Redskins,7,0,16,CCHA,34,1987-88,19,9
-77,Miami University Redskins,7,0,15,CCHA,36,1988-89,20,8
-78,Miami University Redskins,17,0,44,CCHA,40,1989-90,21,27
-113,Salt Lake Golden Eagles,27,0,42,IHL,79,1990-91,22,15
-67,Salt Lake Golden Eagles,30,0,62,IHL,72,1991-92,23,32
-10,United States,4,0,4,WC-A,6,1991-92,23,0
-90,Salt Lake Golden Eagles,21,0,34,IHL,53,1992-93,24,13
-64,2 Teams,12,0,25,AHL,39,1993-94,25,13
-64,Saint John Flames,9,0,22,AHL,38,1993-94,25,13
-0,Springfield Indians,3,0,3,AHL,1,1993-94,25,0
-28,United States,3,0,4,WC-A,6,1994-95,26,1
-213,2 Teams,35,0,62,IHL,77,1994-95,26,27
-136,Chicago Wolves,25,0,43,IHL,52,1994-95,26,18
-77,Houston Aeros,10,0,19,IHL,25,1994-95,26,9
-172,Carolina Panthers,28,0,55,AHL,69,1995-96,27,27
-155,2 Teams,16,0,32,IHL,76,1996-97,28,16
-131,Fort Wayne Komets,13,0,25,IHL,60,1996-97,28,12
-24,Phoenix Roadrunners,3,0,7,IHL,16,1996-97,28,4
-117,Dusseldorfer EG,22,0,35,Germany,48,1997-98,29,13
-137,Schwenninger Wild Wings,9,0,34,Germany,51,1998-99,30,25
-103,Schwenninger Wild Wings,20,0,35,Germany,67,1999-00,31,15
-83,EHC Eisbaren Berlin,8,0,17,Germany,48,2000-01,32,9
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+29,Aurora Eagles,19,1986-87,40,48,102,18,0,ON-Jr.A
+7,Miami University Redskins,9,1987-88,34,16,133,19,0,CCHA
+7,Miami University Redskins,8,1988-89,36,15,77,20,0,CCHA
+17,Miami University Redskins,27,1989-90,40,44,78,21,0,CCHA
+27,Salt Lake Golden Eagles,15,1990-91,79,42,113,22,0,IHL
+30,Salt Lake Golden Eagles,32,1991-92,72,62,67,23,0,IHL
+4,United States,0,1991-92,6,4,10,23,0,WC-A
+21,Salt Lake Golden Eagles,13,1992-93,53,34,90,24,0,IHL
+12,2 Teams,13,1993-94,39,25,64,25,0,AHL
+9,Saint John Flames,13,1993-94,38,22,64,25,0,AHL
+3,Springfield Indians,0,1993-94,1,3,0,25,0,AHL
+3,United States,1,1994-95,6,4,28,26,0,WC-A
+35,2 Teams,27,1994-95,77,62,213,26,0,IHL
+25,Chicago Wolves,18,1994-95,52,43,136,26,0,IHL
+10,Houston Aeros,9,1994-95,25,19,77,26,0,IHL
+28,Carolina Panthers,27,1995-96,69,55,172,27,0,AHL
+16,2 Teams,16,1996-97,76,32,155,28,0,IHL
+13,Fort Wayne Komets,12,1996-97,60,25,131,28,0,IHL
+3,Phoenix Roadrunners,4,1996-97,16,7,24,28,0,IHL
+22,Dusseldorfer EG,13,1997-98,48,35,117,29,0,Germany
+9,Schwenninger Wild Wings,25,1998-99,51,34,137,30,0,Germany
+20,Schwenninger Wild Wings,15,1999-00,67,35,103,31,0,Germany
+8,EHC Eisbaren Berlin,9,2000-01,48,17,83,32,0,Germany

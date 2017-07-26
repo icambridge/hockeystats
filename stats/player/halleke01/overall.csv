@@ -1,2 +1,2 @@
-date_of_birth,position,heigh_and_weight,handed,name
-1970-12-05,D,", ",L,Kevin Haller
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",D,1970-12-05,Kevin Haller

@@ -1,14 +1,14 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-0,1953-54,Flin Flon Bombers,0,0,17,1,1,1,SJHL
-0,1953-54,Flin Flon Bombers,1,0,17,2,2,1,M-Cup
-4,1955-56,Flin Flon Bombers,12,0,19,12,21,9,SJHL
-2,1955-56,Flin Flon Bombers,1,0,19,7,6,5,M-Cup
-4,1956-57,Flin Flon Bombers,13,0,20,10,19,6,SJHL
-6,1956-57,Flin Flon Bombers,17,0,20,17,24,7,M-Cup
-0,1957-58,Providence Reds,2,0,21,5,2,0,AHL
-0,1958-59,Vancouver Canucks,4,0,22,9,5,1,WHL
-2,1959-60,Rochester Americans,4,0,23,12,6,2,AHL
-0,1962-63,Baltimore Clippers,2,0,26,3,3,1,AHL
-0,1963-64,Pittsburgh Hornets,2,0,27,5,4,2,AHL
-2,1964-65,Pittsburgh Hornets,2,0,28,4,3,1,AHL
-0,1965-66,Pittsburgh Hornets,0,0,29,3,1,1,AHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+0,Flin Flon Bombers,1,1953-54,1,1,0,17,0,SJHL
+1,Flin Flon Bombers,1,1953-54,2,2,0,17,0,M-Cup
+12,Flin Flon Bombers,9,1955-56,12,21,4,19,0,SJHL
+1,Flin Flon Bombers,5,1955-56,7,6,2,19,0,M-Cup
+13,Flin Flon Bombers,6,1956-57,10,19,4,20,0,SJHL
+17,Flin Flon Bombers,7,1956-57,17,24,6,20,0,M-Cup
+2,Providence Reds,0,1957-58,5,2,0,21,0,AHL
+4,Vancouver Canucks,1,1958-59,9,5,0,22,0,WHL
+4,Rochester Americans,2,1959-60,12,6,2,23,0,AHL
+2,Baltimore Clippers,1,1962-63,3,3,0,26,0,AHL
+2,Pittsburgh Hornets,2,1963-64,5,4,0,27,0,AHL
+2,Pittsburgh Hornets,1,1964-65,4,3,2,28,0,AHL
+0,Pittsburgh Hornets,1,1965-66,3,1,0,29,0,AHL

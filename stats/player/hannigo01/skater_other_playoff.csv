@@ -1,7 +1,7 @@
-pim,year,team,assists,plus_minus,age,games_played,points,goals,league
-14,1949-50,Toronto Marlboros,4,0,21,14,6,2,OHA-Sr.
-35,1949-50,Toronto Marlboros,7,0,21,12,9,2,Al-Cup
-6,1950-51,St. Michael\'s Monarchs,6,0,22,9,10,4,OMHL
-15,1951-52,Pittsburgh Hornets,5,0,23,11,7,2,AHL
-16,1954-55,Pittsburgh Hornets,7,0,26,10,8,1,AHL
-37,1956-57,Rochester Americans,4,0,28,10,6,2,AHL
+assists,team,goals,year,games_played,points,pim,age,plus_minus,league
+4,Toronto Marlboros,2,1949-50,14,6,14,21,0,OHA-Sr.
+7,Toronto Marlboros,2,1949-50,12,9,35,21,0,Al-Cup
+6,St. Michael\'s Monarchs,4,1950-51,9,10,6,22,0,OMHL
+5,Pittsburgh Hornets,2,1951-52,11,7,15,23,0,AHL
+7,Pittsburgh Hornets,1,1954-55,10,8,16,26,0,AHL
+4,Rochester Americans,2,1956-57,10,6,37,28,0,AHL

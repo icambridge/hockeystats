@@ -1,0 +1,31 @@
+year,age,goals,pim,assists,plus_minus,league,games_played,team,points
+1997-98,16,7,40,16,0,Fin-U18,34,Lukko Rauma U18,23
+1998-99,17,7,42,4,0,Fin-U18,14,Lukko Rauma U18,11
+1998-99,17,0,12,0,0,Fin-Jr.,2,Lukko Rauma Jr.,0
+1999-00,18,14,50,15,0,Fin-Jr.,40,Lukko Rauma Jr.,29
+2000-01,19,4,40,8,0,Fin-Jr.,13,Lukko Rauma Jr.,12
+2000-01,19,0,0,0,0,Finland,18,Lukko Rauma,0
+2000-01,19,4,43,1,0,Finland-2,13,Jaa-Kotkat Uusikaupunki,5
+2000-01,19,0,14,1,0,Britain,16,Manchester Storm,1
+2000-01,19,0,10,0,0,WJC-A,7,Finland,0
+2001-02,20,1,2,1,0,Fin-Jr.,3,Lukko Rauma Jr.,2
+2001-02,20,7,81,13,0,Finland,55,Lukko Rauma,20
+2002-03,21,4,40,5,0,Finland,46,Lukko Rauma,9
+2003-04,22,21,73,15,0,Finland,55,Lukko Rauma,36
+2004-05,23,9,63,12,0,Finland,44,Lukko Rauma,21
+2005-06,24,12,50,17,0,Swiss,43,EV Zug,29
+2006-07,25,19,62,30,0,Sweden,53,Farjestads BK Karlstad,49
+2007-08,26,19,81,25,6,AHL,80,Milwaukee Admirals,44
+2007-08,26,2,2,2,1,WC-A,9,Finland,4
+2008-09,27,9,20,10,0,Sweden,35,Frolunda HC Goteborg,19
+2008-09,27,1,2,2,0,WC-A,4,Finland,3
+2009-10,28,12,34,16,0,Sweden,50,Frolunda HC Goteborg,28
+2009-10,28,0,2,2,-2,Olympics,6,Finland,2
+2009-10,28,0,4,2,-2,WC-A,7,Finland,2
+2010-11,29,11,30,19,0,KHL,54,Metallurg Magnitogorsk,30
+2010-11,29,1,4,3,6,WC-A,9,Finland,4
+2011-12,30,12,32,22,0,KHL,54,Atlant Moscow Region,34
+2011-12,30,3,10,1,0,WC-A,10,Finland,4
+2012-13,31,8,30,11,0,KHL,51,2 Teams,19
+2012-13,31,1,10,3,0,KHL,14,Atlant Moscow Region,4
+2012-13,31,7,20,8,0,KHL,37,Dynamo Minsk,15

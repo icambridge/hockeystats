@@ -1,0 +1,21 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,Minor-BC,17,Abbotsford Pilots,857,16,9,0,0,81,0,0,0,0,5,0,0,0,0,0,1986-87,0,5.67,0,0
+0,WHL,15,New Westminster Bruins,650,17,5,0,0,48,0,0,0,1,6,0,0,0,0,0,1987-88,0,4.43,0,0
+0,WHL,30,Tri-City Americans,1671,18,10,0,0,97,0,0,2,1,16,0,0,0,0,0,1988-89,0,3.48,0,0
+0,Fr-Tour,2,Washington Capitals,65,19,0,0,0,4,0,0,0,0,2,0,0,0,0,0,1989-90,0,3.69,0,0
+0,WHL,48,Tri-City Americans,2504,19,18,0,0,187,0,0,3,1,21,0,0,0,0,0,1989-90,0,4.48,0,0
+0,AHL,26,Baltimore Skipjacks,1367,20,12,0,0,72,0,0,1,0,10,0,0,0,0,0,1990-91,0,3.16,0,0
+0,ECHL,21,Hampton Roads Admirals,1248,20,9,0,0,71,0,0,1,2,11,0,0,0,0,0,1990-91,0,3.41,0,0
+0,AHL,28,Baltimore Skipjacks,1503,21,17,0,0,105,0,0,2,1,5,0,0,0,0,0,1991-92,0,4.19,0,0
+0,ECHL,14,Hampton Roads Admirals,847,21,3,0,0,41,0,0,0,0,11,0,0,0,0,0,1991-92,0,2.90,0,0
+0,AHL,49,Rochester Americans,2737,22,16,0,0,168,0,0,4,0,25,0,0,0,0,0,1992-93,0,3.68,0,0
+0,AHL,29,Portland Pirates,1725,23,8,0,0,88,0,0,5,3,16,0,0,0,0,0,1993-94,0,3.06,0,0
+0,AHL,2,Portland Pirates,125,24,0,0,0,3,0,0,1,0,1,0,0,0,0,.952,1994-95,63,1.44,0,60
+0,AHL,5,Portland Pirates,300,25,0,0,0,7,0,0,0,1,5,0,0,0,0,.957,1995-96,163,1.40,0,156
+0,W-Cup,1,Germany,45,26,1,0,0,5,0,0,0,0,0,0,0,0,0,0,1996-97,0,6.67,0,0
+0,WC-A,4,Germany,199,26,3,0,0,13,0,0,0,0,0,0,0,0,0,0,1996-97,0,3.92,0,0
+0,Olympics,2,Germany,120,27,0,0,0,2,0,0,0,1,2,0,0,0,0,0,1997-98,0,1.00,0,0
+0,WC-A,5,Germany,299,33,2,0,0,11,0,0,1,0,2,0,0,0,0,0,2003-04,0,2.21,0,0
+0,W-Cup,3,Germany,180,34,3,0,0,10,0,0,0,0,0,0,0,0,0,.905,2004-05,105,3.33,0,95
+0,Germany,8,Eisbaren Berlin,452,34,0,0,0,19,0,0,0,2,0,0,0,0,0,0,2004-05,0,2.52,0,0
+0,Olympics,3,Germany,179,35,1,0,0,8,0,0,2,0,0,0,0,0,0,0,2005-06,0,2.68,2,0

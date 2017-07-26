@@ -1,16 +1,16 @@
-shorthanded_goals,average_ice_time,positions,shotsPercentage,even_strength_assists,shots,even_strength_goals,shorthanded_assists,age,game_winning_goals,goals,assists,name,overall_point_share,defensive_point_share,points,power_play_goals,pim,total_ice_time,games_played,plus_minus,offensive_point_share,power_play_assists,link
-0,,RW,,0,0,0,0,35,0,34,14,Bill Cook,9.2,1.0,48,0,33,,48,0,8.2,0,/players/c/cookbi01.html
-0,,RW,,0,0,0,0,23,0,23,15,Cecil Dillon,6.4,1.0,38,0,22,,48,0,5.4,0,/players/d/dilloce01.html
-0,,C,,0,0,0,0,30,0,12,23,Frank Boucher,4.6,1.0,35,0,18,,48,0,3.6,0,/players/b/bouchfr01.html
-0,,LW,,0,0,0,0,28,0,14,20,Bun Cook,4.8,0.9,34,0,43,,45,0,3.9,0,/players/c/cookbu01.html
-0,,C,,0,0,0,0,30,0,11,15,Art Somers,3.3,1.0,26,0,45,,48,0,2.3,0,/players/s/somerar01.html
-0,,C/LW,,0,0,0,0,27,0,5,16,Murray Murdoch,1.8,1.0,21,0,32,,48,0,0.8,0,/players/m/murdomu01.html
-0,,C/LW,,0,0,0,0,26,0,17,3,Butch Keeling,3.3,1.0,20,0,38,,48,0,2.3,0,/players/k/keelibu01.html
-0,,D,,0,0,0,0,33,0,3,10,Ching Johnson,4.8,3.8,13,0,106,,47,0,1.0,0,/players/j/johnsch01.html
-0,,LW,,0,0,0,0,27,0,3,9,Dutch Gainor,0.4,0.9,12,0,9,,46,0,-0.5,0,/players/g/gainodu01.html
-0,,D,,0,0,0,0,20,0,4,6,Earl Seibert,4.5,3.7,10,0,88,,46,0,0.8,0,/players/s/seibeea01.html
-0,,D,,0,0,0,0,27,0,4,3,Doug Brennan,3.7,3.1,7,0,40,,38,0,0.6,0,/players/b/brenndo01.html
-0,,C,,0,0,0,0,31,0,3,3,Vic Desjardins,-0.4,1.0,6,0,16,,48,0,-1.4,0,/players/d/desjavi01.html
-0,,D,,0,0,0,0,21,0,2,2,Ott Heller,2.0,1.7,4,0,9,,21,0,0.3,0,/players/h/helleot01.html
-0,,C,,0,0,0,0,32,0,0,4,Hib Milks,-1.1,1.0,4,0,12,,48,0,-2.0,0,/players/m/milkshi01.html
-0,,G,,0,0,0,0,31,0,0,0,John Ross Roach,8.9,0.0,0,0,0,,48,0,0.0,0,/players/r/roachjo01.html
+assists,game_winning_goals,goals,age,average_ice_time,offensive_point_share,defensive_point_share,even_strength_goals,total_ice_time,power_play_assists,positions,overall_point_share,even_strength_assists,team,link,shorthanded_assists,pim,power_play_goals,plus_minus,name,shotsPercentage,year,points,shorthanded_goals,games_played,shots
+14,0,34,35,,8.2,1.0,0,,0,RW,9.2,0,NYR,/players/c/cookbi01.html,0,33,0,0,Bill Cook,,1932,48,0,48,0
+15,0,23,23,,5.4,1.0,0,,0,RW,6.4,0,NYR,/players/d/dilloce01.html,0,22,0,0,Cecil Dillon,,1932,38,0,48,0
+23,0,12,30,,3.6,1.0,0,,0,C,4.6,0,NYR,/players/b/bouchfr01.html,0,18,0,0,Frank Boucher,,1932,35,0,48,0
+20,0,14,28,,3.9,0.9,0,,0,LW,4.8,0,NYR,/players/c/cookbu01.html,0,43,0,0,Bun Cook,,1932,34,0,45,0
+15,0,11,30,,2.3,1.0,0,,0,C,3.3,0,NYR,/players/s/somerar01.html,0,45,0,0,Art Somers,,1932,26,0,48,0
+16,0,5,27,,0.8,1.0,0,,0,C/LW,1.8,0,NYR,/players/m/murdomu01.html,0,32,0,0,Murray Murdoch,,1932,21,0,48,0
+3,0,17,26,,2.3,1.0,0,,0,C/LW,3.3,0,NYR,/players/k/keelibu01.html,0,38,0,0,Butch Keeling,,1932,20,0,48,0
+10,0,3,33,,1.0,3.8,0,,0,D,4.8,0,NYR,/players/j/johnsch01.html,0,106,0,0,Ching Johnson,,1932,13,0,47,0
+9,0,3,27,,-0.5,0.9,0,,0,LW,0.4,0,NYR,/players/g/gainodu01.html,0,9,0,0,Dutch Gainor,,1932,12,0,46,0
+6,0,4,20,,0.8,3.7,0,,0,D,4.5,0,NYR,/players/s/seibeea01.html,0,88,0,0,Earl Seibert,,1932,10,0,46,0
+3,0,4,27,,0.6,3.1,0,,0,D,3.7,0,NYR,/players/b/brenndo01.html,0,40,0,0,Doug Brennan,,1932,7,0,38,0
+3,0,3,31,,-1.4,1.0,0,,0,C,-0.4,0,NYR,/players/d/desjavi01.html,0,16,0,0,Vic Desjardins,,1932,6,0,48,0
+2,0,2,21,,0.3,1.7,0,,0,D,2.0,0,NYR,/players/h/helleot01.html,0,9,0,0,Ott Heller,,1932,4,0,21,0
+4,0,0,32,,-2.0,1.0,0,,0,C,-1.1,0,NYR,/players/m/milkshi01.html,0,12,0,0,Hib Milks,,1932,4,0,48,0
+0,0,0,31,,0.0,0.0,0,,0,G,8.9,0,NYR,/players/r/roachjo01.html,0,0,0,0,John Ross Roach,,1932,0,0,48,0

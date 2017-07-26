@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1968-08-10,", ",D,Greg Hawgood,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",D,1968-08-10,Greg Hawgood

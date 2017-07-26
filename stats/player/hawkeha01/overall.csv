@@ -1,2 +1,2 @@
-date_of_birth,heigh_and_weight,position,name,handed
-1995-03-01,", ",G,Hayden Hawkey,L
+handed,heigh_and_weight,position,date_of_birth,name
+L,", ",G,1995-03-01,Hayden Hawkey

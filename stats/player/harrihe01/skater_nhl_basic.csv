@@ -1,2 +1,2 @@
-average_ice_time,points,game_winning_goals,shorthanded_goals,league,age,even_strength_assists,pim,plus_minus,shots,even_strength_goals,power_play_goals,shorthanded_assists,power_play_assists,year,team,goals,assists,awards,shotsPercentage,total_ice_time,games_played
-,6,0,0,NHL,24,0,20,0,0,0,0,0,0,1930-31,BOS,2,4,[],0,,32
+shotsPercentage,year,pim,even_strength_assists,total_ice_time,shorthanded_assists,shots,power_play_assists,even_strength_goals,plus_minus,assists,team,goals,age,game_winning_goals,league,shorthanded_goals,average_ice_time,games_played,points,awards,power_play_goals
+0,1930-31,20,0,,0,0,0,0,0,4,BOS,2,24,0,NHL,0,,32,6,[],0

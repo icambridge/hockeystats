@@ -1,0 +1,22 @@
+bad_start,league,games_played,team,minutes,age,loses,goals_allowed_precentage,points,goals_allowed,games_started,goals_saved_aboved_average,ties,shutouts,wins,assists,good_start_precentages,goals,good_starts,saves_percentage,year,shots_againist,goals_allowed_average,pim,saves
+0,ON-Jr.A,28,Aurora Eagles,1624,17,8,0,0,130,0,0,3,0,14,0,0,0,0,0,1986-87,0,4.80,0,0
+0,ON-Jr.B,33,Aurora Eagles,1878,18,0,0,0,136,0,0,0,0,0,0,0,0,0,0,1987-88,0,4.35,0,0
+0,WCHA,6,Michigan Tech Huskies,329,19,3,0,0,22,0,0,2,0,0,0,0,0,0,0,1988-89,0,4.01,0,0
+0,WCHA,19,Michigan Tech Huskies,1043,20,13,0,0,94,0,0,0,0,4,0,0,0,0,0,1989-90,0,5.41,0,0
+0,WCHA,23,Michigan Tech Huskies,1540,21,15,0,0,97,0,0,3,0,5,0,0,0,0,0,1990-91,0,3.78,0,0
+0,WCHA,23,Michigan Tech Huskies,1201,22,13,0,0,90,0,0,0,1,7,0,0,0,0,0,1991-92,0,4.50,0,0
+0,IHL,41,Peoria Rivermen,2356,23,14,0,0,130,0,0,3,0,22,0,0,0,0,0,1992-93,0,3.31,0,0
+0,IHL,41,Peoria Rivermen,2275,24,9,0,0,93,0,0,2,2,25,0,0,0,0,0,1993-94,0,2.45,0,0
+0,IHL,55,Peoria Rivermen,3146,25,12,0,0,158,0,0,8,0,32,0,0,0,0,.901,1994-95,1604,3.01,0,1446
+0,IHL,41,Kansas City Blades,2167,26,18,0,0,140,0,0,1,1,18,0,0,0,0,.880,1995-96,1165,3.88,0,1025
+0,IHL,59,Cincinnati Cyclones,3287,27,20,0,0,157,0,0,5,1,32,0,0,0,0,.919,1996-97,1928,2.87,0,1771
+0,IHL,54,Cincinnati Cyclones,3118,28,19,0,0,142,0,0,9,5,25,0,0,0,0,.911,1997-98,1596,2.73,0,1454
+0,UHL,3,Flint Generals,179,29,2,0,0,11,0,0,1,0,0,0,0,0,0,.890,1998-99,100,3.69,2,89
+0,IHL,46,4 Teams,2568,29,17,0,1,126,0,0,4,3,21,1,0,0,0,.909,1998-99,1391,2.94,24,1265
+0,IHL,14,Cincinnati Cyclones,733,29,5,0,0,42,0,0,1,1,6,0,0,0,0,.892,1998-99,390,3.44,2,348
+0,IHL,8,Detroit Vipers,421,29,5,0,0,26,0,0,1,0,1,0,0,0,0,.873,1998-99,205,3.71,6,179
+0,IHL,1,Long Beach Ice Dogs,60,29,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1998-99,0,1.00,0,0
+0,IHL,23,Indianapolis Ice,1354,29,7,0,1,57,0,0,2,2,13,1,0,0,0,.928,1998-99,796,2.53,16,739
+0,BH-Cup,8,Ayr Scottish Eagles,480,30,3,0,0,22,0,0,0,1,5,0,0,0,0,0,1999-00,0,2.75,0,0
+0,Britain,23,Ayr Scottish Eagles,1396,30,10,0,0,62,0,0,4,0,9,0,0,0,0,0,1999-00,0,2.66,0,0
+0,Germany,48,ESC Moskitos Essen,2743,31,0,0,2,166,0,0,0,1,0,2,0,0,0,0,2000-01,0,3.63,44,0
