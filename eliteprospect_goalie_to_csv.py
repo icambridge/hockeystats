@@ -85,23 +85,25 @@ years = []
 lastYear = '1969'
 while counter < count:
     yearTree = yearsPre[counter]
+    counter = counter + 1
+    if yearTree.attrib.has_key('colspan'):
+        continue
     yearFont = yearTree.xpath('font')
 
     if len(yearFont) != 0:
         yearString = yearFont[0].text.lstrip()
         lastYear = yearString.split("-")[0]
     elif lastYear == '1969':
-        counter = counter + 1
         continue
     year = lastYear
     years.append(year)
-    counter = counter + 1
 
 gamesPlayed = [x.text if x.text else '' for x in gamesPlayedPre]
 goalsAllowedAverage = [x.text if x.text else '' for x in goalsAllowedAveragePre]
 savesPercentage = [x.text if x.text else '' for x in savesPercentagePre]
 stats = []
 count = len(years)
+
 counter = 0
 while counter < count:
     year = {
